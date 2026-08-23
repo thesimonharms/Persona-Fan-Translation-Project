@@ -18,7 +18,7 @@
       "target_offset": 8288,
       "length_bytes": 33,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
-      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "text_jp": "!?7412369!<LINE>852<PAGE>759",
       "translation_en": ""
     },
     {
@@ -27,7 +27,7 @@
       "target_offset": 8322,
       "length_bytes": 112,
       "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "52<PAGE>41863!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -36,7 +36,7 @@
       "target_offset": 8434,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -45,7 +45,7 @@
       "target_offset": 8530,
       "length_bytes": 101,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c2",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>987532",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>987532",
       "translation_en": ""
     },
     {
@@ -63,7 +63,7 @@
       "target_offset": 8712,
       "length_bytes": 95,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -72,7 +72,7 @@
       "target_offset": 8808,
       "length_bytes": 33,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
-      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "text_jp": "!?7412369!<LINE>852<PAGE>759",
       "translation_en": ""
     },
     {
@@ -81,7 +81,7 @@
       "target_offset": 8842,
       "length_bytes": 80,
       "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "52<PAGE>41863！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "52<PAGE>41863!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -90,7 +90,7 @@
       "target_offset": 8922,
       "length_bytes": 89,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？4175369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?4175369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -99,7 +99,7 @@
       "target_offset": 9012,
       "length_bytes": 72,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -117,7 +117,7 @@
       "target_offset": 9184,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -126,7 +126,7 @@
       "target_offset": 9280,
       "length_bytes": 33,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
-      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "text_jp": "!?7412369!<LINE>852<PAGE>759",
       "translation_en": ""
     },
     {
@@ -135,7 +135,7 @@
       "target_offset": 9314,
       "length_bytes": 112,
       "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "52<PAGE>41863!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -144,7 +144,7 @@
       "target_offset": 9426,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -153,7 +153,7 @@
       "target_offset": 9516,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "1863<PAGE>852!<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -171,7 +171,7 @@
       "target_offset": 9716,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -180,7 +180,7 @@
       "target_offset": 9812,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -189,7 +189,7 @@
       "target_offset": 9902,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -198,7 +198,7 @@
       "target_offset": 10002,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -207,7 +207,7 @@
       "target_offset": 10098,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -216,7 +216,7 @@
       "target_offset": 10188,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -225,7 +225,7 @@
       "target_offset": 10288,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -234,7 +234,7 @@
       "target_offset": 10384,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -243,7 +243,7 @@
       "target_offset": 10488,
       "length_bytes": 79,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -252,7 +252,7 @@
       "target_offset": 10568,
       "length_bytes": 99,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -261,7 +261,7 @@
       "target_offset": 10668,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -270,7 +270,7 @@
       "target_offset": 10764,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -279,7 +279,7 @@
       "target_offset": 10868,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -297,7 +297,7 @@
       "target_offset": 11040,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -306,7 +306,7 @@
       "target_offset": 11136,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -315,7 +315,7 @@
       "target_offset": 11226,
       "length_bytes": 112,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -324,7 +324,7 @@
       "target_offset": 11338,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -333,7 +333,7 @@
       "target_offset": 11434,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -342,7 +342,7 @@
       "target_offset": 11538,
       "length_bytes": 79,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -351,7 +351,7 @@
       "target_offset": 11618,
       "length_bytes": 95,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -360,7 +360,7 @@
       "target_offset": 11714,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -369,7 +369,7 @@
       "target_offset": 11804,
       "length_bytes": 112,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -378,7 +378,7 @@
       "target_offset": 11916,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -387,7 +387,7 @@
       "target_offset": 12012,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -396,7 +396,7 @@
       "target_offset": 12102,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -405,7 +405,7 @@
       "target_offset": 12202,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -414,7 +414,7 @@
       "target_offset": 12298,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -423,7 +423,7 @@
       "target_offset": 12402,
       "length_bytes": 79,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -432,7 +432,7 @@
       "target_offset": 12482,
       "length_bytes": 95,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -441,7 +441,7 @@
       "target_offset": 12578,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -450,7 +450,7 @@
       "target_offset": 12682,
       "length_bytes": 111,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -459,7 +459,7 @@
       "target_offset": 12794,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -468,7 +468,7 @@
       "target_offset": 12890,
       "length_bytes": 99,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c880c980c880c580c2fffbfff780c480c180c880c680c3fff680c780c480c180c8",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -477,7 +477,7 @@
       "target_offset": 12990,
       "length_bytes": 100,
       "raw_hex": "80c680c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "62<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "62<PAGE>41863!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -486,7 +486,7 @@
       "target_offset": 13090,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -495,7 +495,7 @@
       "target_offset": 13186,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -504,7 +504,7 @@
       "target_offset": 13290,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -522,7 +522,7 @@
       "target_offset": 13458,
       "length_bytes": 93,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c780c580c880c980c680c3fff680c880c580c2fff680c780c480c180c880c980c680c580c3fffbfff780c780c480c180c280c380c680c9fff680c480c180c780c580c3",
-      "text_jp": "！？7412369！<LINE>741758963<PAGE>852<PAGE>74189653<CMD_fb><CMD_f7>7412369<PAGE>41753",
+      "text_jp": "!?7412369!<LINE>741758963<PAGE>852<PAGE>74189653<CMD_fb><CMD_f7>7412369<PAGE>41753",
       "translation_en": ""
     },
     {
@@ -531,7 +531,7 @@
       "target_offset": 13552,
       "length_bytes": 112,
       "raw_hex": "80c680c9fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "69<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "69<PAGE>41863!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -540,7 +540,7 @@
       "target_offset": 13664,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -549,7 +549,7 @@
       "target_offset": 13760,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -558,7 +558,7 @@
       "target_offset": 13850,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -567,7 +567,7 @@
       "target_offset": 13950,
       "length_bytes": 90,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "63<PAGE>41863！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "63<PAGE>41863!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -576,7 +576,7 @@
       "target_offset": 14040,
       "length_bytes": 80,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "1863<PAGE>852！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "1863<PAGE>852!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -585,7 +585,7 @@
       "target_offset": 14120,
       "length_bytes": 99,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -594,7 +594,7 @@
       "target_offset": 14220,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -603,7 +603,7 @@
       "target_offset": 14316,
       "length_bytes": 99,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c880c980c880c580c2fffbfff780c480c180c880c680c3fff680c780c480c180c8",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -612,7 +612,7 @@
       "target_offset": 14416,
       "length_bytes": 100,
       "raw_hex": "80c680c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "62<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "62<PAGE>41863!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -621,7 +621,7 @@
       "target_offset": 14516,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -630,7 +630,7 @@
       "target_offset": 14612,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -639,7 +639,7 @@
       "target_offset": 14702,
       "length_bytes": 112,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -648,7 +648,7 @@
       "target_offset": 14814,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -657,7 +657,7 @@
       "target_offset": 14910,
       "length_bytes": 33,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
-      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "text_jp": "!?7412369!<LINE>852<PAGE>759",
       "translation_en": ""
     },
     {
@@ -666,7 +666,7 @@
       "target_offset": 14944,
       "length_bytes": 112,
       "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "52<PAGE>41863!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -675,7 +675,7 @@
       "target_offset": 15056,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -684,7 +684,7 @@
       "target_offset": 15152,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -693,7 +693,7 @@
       "target_offset": 15256,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -711,7 +711,7 @@
       "target_offset": 15424,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -720,7 +720,7 @@
       "target_offset": 15514,
       "length_bytes": 112,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
-      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "text_jp": "1863<PAGE>852!<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
       "translation_en": ""
     },
     {
@@ -729,7 +729,7 @@
       "target_offset": 15626,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -738,7 +738,7 @@
       "target_offset": 15722,
       "length_bytes": 89,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "!?7412369!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -747,7 +747,7 @@
       "target_offset": 15812,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "1863<PAGE>852!<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -765,7 +765,7 @@
       "target_offset": 16008,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -774,7 +774,7 @@
       "target_offset": 16112,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -792,7 +792,7 @@
       "target_offset": 16288,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -810,7 +810,7 @@
       "target_offset": 16472,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -819,7 +819,7 @@
       "target_offset": 16568,
       "length_bytes": 33,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
-      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "text_jp": "!?7412369!<LINE>852<PAGE>759",
       "translation_en": ""
     },
     {
@@ -828,7 +828,7 @@
       "target_offset": 16602,
       "length_bytes": 100,
       "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "52<PAGE>41863!<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -837,7 +837,7 @@
       "target_offset": 16702,
       "length_bytes": 90,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
-      "text_jp": "63<PAGE>41863！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "text_jp": "63<PAGE>41863!<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
       "translation_en": ""
     },
     {
@@ -846,7 +846,7 @@
       "target_offset": 16792,
       "length_bytes": 100,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "1863<PAGE>852!<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -864,7 +864,7 @@
       "target_offset": 17004,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -873,7 +873,7 @@
       "target_offset": 17100,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -882,7 +882,7 @@
       "target_offset": 17204,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -900,7 +900,7 @@
       "target_offset": 17372,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -909,7 +909,7 @@
       "target_offset": 17476,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -927,7 +927,7 @@
       "target_offset": 17644,
       "length_bytes": 103,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
-      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "text_jp": "!?7412369!<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
       "translation_en": ""
     },
     {
@@ -936,7 +936,7 @@
       "target_offset": 17748,
       "length_bytes": 71,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -954,7 +954,7 @@
       "target_offset": 17910,
       "length_bytes": 80,
       "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "1863<PAGE>852！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "1863<PAGE>852!<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -963,7 +963,7 @@
       "target_offset": 17990,
       "length_bytes": 99,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
       "translation_en": ""
     },
     {
@@ -972,7 +972,7 @@
       "target_offset": 18090,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -981,7 +981,7 @@
       "target_offset": 18186,
       "length_bytes": 99,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "！？7412369！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "!?7412369!<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -999,7 +999,7 @@
       "target_offset": 18386,
       "length_bytes": 96,
       "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "63<PAGE>41863!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1008,7 +1008,7 @@
       "target_offset": 18482,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1017,7 +1017,7 @@
       "target_offset": 18578,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1026,7 +1026,7 @@
       "target_offset": 18686,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "target_offset": 18794,
       "length_bytes": 80,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "4145123!<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -1044,7 +1044,7 @@
       "target_offset": 18874,
       "length_bytes": 79,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "！？4175369…<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "!?4175369…<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -1053,7 +1053,7 @@
       "target_offset": 18954,
       "length_bytes": 89,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "！？4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "!?4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1062,7 +1062,7 @@
       "target_offset": 19044,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1071,7 +1071,7 @@
       "target_offset": 19134,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "7412369!<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1080,7 +1080,7 @@
       "target_offset": 19230,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1089,7 +1089,7 @@
       "target_offset": 19326,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1098,7 +1098,7 @@
       "target_offset": 19434,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1107,7 +1107,7 @@
       "target_offset": 19542,
       "length_bytes": 80,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "4145123!<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -1116,7 +1116,7 @@
       "target_offset": 19622,
       "length_bytes": 99,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "！？4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "!?4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -1134,7 +1134,7 @@
       "target_offset": 19812,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1143,7 +1143,7 @@
       "target_offset": 19902,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "7412369!<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1152,7 +1152,7 @@
       "target_offset": 19998,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1161,7 +1161,7 @@
       "target_offset": 20094,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1170,7 +1170,7 @@
       "target_offset": 20202,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1179,7 +1179,7 @@
       "target_offset": 20310,
       "length_bytes": 100,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "4145123！<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "4145123!<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -1206,7 +1206,7 @@
       "target_offset": 20572,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1215,7 +1215,7 @@
       "target_offset": 20662,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "7412369!<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1224,7 +1224,7 @@
       "target_offset": 20758,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1233,7 +1233,7 @@
       "target_offset": 20854,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1242,7 +1242,7 @@
       "target_offset": 20962,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1251,7 +1251,7 @@
       "target_offset": 21070,
       "length_bytes": 80,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "4145123!<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -1260,7 +1260,7 @@
       "target_offset": 21150,
       "length_bytes": 71,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
-      "text_jp": "！？4175369…<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "text_jp": "!?4175369…<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
       "translation_en": ""
     },
     {
@@ -1278,7 +1278,7 @@
       "target_offset": 21312,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1287,7 +1287,7 @@
       "target_offset": 21402,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "7412369!<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "target_offset": 21498,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1305,7 +1305,7 @@
       "target_offset": 21594,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1314,7 +1314,7 @@
       "target_offset": 21702,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1323,7 +1323,7 @@
       "target_offset": 21810,
       "length_bytes": 100,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "4145123！<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "4145123!<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -1341,7 +1341,7 @@
       "target_offset": 21990,
       "length_bytes": 89,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "！？4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "!?4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1350,7 +1350,7 @@
       "target_offset": 22080,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1359,7 +1359,7 @@
       "target_offset": 22170,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "7412369!<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1368,7 +1368,7 @@
       "target_offset": 22266,
       "length_bytes": 95,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
-      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "text_jp": "!?7412369!<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
       "translation_en": ""
     },
     {
@@ -1377,7 +1377,7 @@
       "target_offset": 22362,
       "length_bytes": 107,
       "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "!?7412369!<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1386,7 +1386,7 @@
       "target_offset": 22470,
       "length_bytes": 108,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
-      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "text_jp": "4145123!<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
       "translation_en": ""
     },
     {
@@ -1395,7 +1395,7 @@
       "target_offset": 22578,
       "length_bytes": 80,
       "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
-      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "text_jp": "4145123!<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
       "translation_en": ""
     },
     {
@@ -1404,7 +1404,7 @@
       "target_offset": 22658,
       "length_bytes": 99,
       "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "！？4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "!?4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -1422,7 +1422,7 @@
       "target_offset": 22848,
       "length_bytes": 90,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
-      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "text_jp": "7412369!<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
       "translation_en": ""
     },
     {
@@ -1431,7 +1431,7 @@
       "target_offset": 22938,
       "length_bytes": 102,
       "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c880c980c780c480c180c480c5fff680c780c480c180c880c980c680c580c3fff680c880c580c2fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c780c580c380c6",
-      "text_jp": "7412369！<CMD_f1><LINE>78974145<PAGE>74189653<PAGE>852<CMD_fb><CMD_f7>78974145123<PAGE>417536",
+      "text_jp": "7412369!<CMD_f1><LINE>78974145<PAGE>74189653<PAGE>852<CMD_fb><CMD_f7>78974145123<PAGE>417536",
       "translation_en": ""
     },
     {
@@ -1440,7 +1440,7 @@
       "target_offset": 23040,
       "length_bytes": 96,
       "raw_hex": "80c9fff680c780c480c180c880c680c280d1ffef80c780c480c180c880c980c680c5fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c980c880c780c480c180c280c3fff680c780c880c9",
-      "text_jp": "9<PAGE>741862！<CMD_ef>7418965<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>9874123<PAGE>789",
+      "text_jp": "9<PAGE>741862!<CMD_ef>7418965<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>9874123<PAGE>789",
       "translation_en": ""
     },
     {
@@ -1458,7 +1458,7 @@
       "target_offset": 23230,
       "length_bytes": 100,
       "raw_hex": "80c280c3fff680c780c580c980c580c280d0ffef80c780c480c180c880c680c2fff680c480c180c880c680c3fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
-      "text_jp": "23<PAGE>75952？<CMD_ef>741862<PAGE>41863<PAGE>741758963<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "text_jp": "23<PAGE>75952?<CMD_ef>741862<PAGE>41863<PAGE>741758963<CMD_fb><CMD_f7>78974145123<PAGE>7418",
       "translation_en": ""
     },
     {
@@ -1467,7 +1467,7 @@
       "target_offset": 23330,
       "length_bytes": 72,
       "raw_hex": "80c680c2fff680c480c180c880c680c380d1ffef80c780c480c280c280c580c380c680c9fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3",
-      "text_jp": "62<PAGE>41863！<CMD_ef>74225369<PAGE>78974145123<PAGE>41863",
+      "text_jp": "62<PAGE>41863!<CMD_ef>74225369<PAGE>78974145123<PAGE>41863",
       "translation_en": ""
     },
     {
@@ -1476,7 +1476,7 @@
       "target_offset": 23402,
       "length_bytes": 63,
       "raw_hex": "fbfff780c780c480c180c980c580c380d7ffef80c980c880c780c480c180c580c680c580c2fff680c880c580c2fff680c780c880c980c780c480c180c480c5",
-      "text_jp": "[G_251]<CMD_f7>741953…<CMD_ef>987415652<PAGE>852<PAGE>78974145",
+      "text_jp": "e<CMD_f7>741953…<CMD_ef>987415652<PAGE>852<PAGE>78974145",
       "translation_en": ""
     },
     {
@@ -1485,7 +1485,7 @@
       "target_offset": 23466,
       "length_bytes": 111,
       "raw_hex": "fbfff780c780c880c980c880c580c280d1ffef80c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c9",
-      "text_jp": "[G_251]<CMD_f7>789852！<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
+      "text_jp": "e<CMD_f7>789852!<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
       "translation_en": ""
     },
     {
@@ -1494,7 +1494,7 @@
       "target_offset": 23578,
       "length_bytes": 64,
       "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c980c880c780c480c180c580c680c580c2fff680c880c580c2fff680c780c880c980c780c480c180c480c5",
-      "text_jp": "74145123！<CMD_ef>987415652<PAGE>852<PAGE>78974145",
+      "text_jp": "74145123!<CMD_ef>987415652<PAGE>852<PAGE>78974145",
       "translation_en": ""
     },
     {
@@ -1503,7 +1503,7 @@
       "target_offset": 23642,
       "length_bytes": 57,
       "raw_hex": "fbfff780c780c880c980c880c580c280d1ffef80c780c480c180c880c680c2fff680c780c480c180c280c380c680c9fff680c780c480c180c2",
-      "text_jp": "[G_251]<CMD_f7>789852！<CMD_ef>741862<PAGE>7412369<PAGE>7412",
+      "text_jp": "e<CMD_f7>789852!<CMD_ef>741862<PAGE>7412369<PAGE>7412",
       "translation_en": ""
     },
     {
@@ -1512,7 +1512,7 @@
       "target_offset": 23700,
       "length_bytes": 64,
       "raw_hex": "80c3fffbfff780c780c480c180c280c380d1ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
-      "text_jp": "3<CMD_fb><CMD_f7>74123！<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "text_jp": "3<CMD_fb><CMD_f7>74123!<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
       "translation_en": ""
     },
     {
@@ -1521,7 +1521,7 @@
       "target_offset": 23764,
       "length_bytes": 75,
       "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c280c3fffb",
-      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>741456963<PAGE>78974145123<PAGE>74123<CMD_fb>",
+      "text_jp": "e<CMD_f7>741862!<CMD_ef>741456963<PAGE>78974145123<PAGE>74123<CMD_fb>",
       "translation_en": ""
     },
     {
@@ -1530,7 +1530,7 @@
       "target_offset": 23840,
       "length_bytes": 123,
       "raw_hex": "f780c780c480c180c880c980c680c580d1ffef80c980c880c780c480c180c580c680c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1fff680c780c480c180c780c580c880c980c680c3fff680c780c880c9",
-      "text_jp": "[G_247]7418965！<CMD_ef>987415652<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741<PAGE>741758963<PAGE>789",
+      "text_jp": "a7418965!<CMD_ef>987415652<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741<PAGE>741758963<PAGE>789",
       "translation_en": ""
     },
     {
@@ -1539,7 +1539,7 @@
       "target_offset": 23964,
       "length_bytes": 70,
       "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c780c880c980c780c480c180c480c5fff680c280c380c680c980c880c780c480c1fff680c280c380c680c980c880c780c4",
-      "text_jp": "74145123！<CMD_ef>78974145<PAGE>23698741<PAGE>2369874",
+      "text_jp": "74145123!<CMD_ef>78974145<PAGE>23698741<PAGE>2369874",
       "translation_en": ""
     },
     {
@@ -1557,7 +1557,7 @@
       "target_offset": 24126,
       "length_bytes": 64,
       "raw_hex": "80c680c2fff680c480c180c880c680c380d1ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
-      "text_jp": "62<PAGE>41863！<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "text_jp": "62<PAGE>41863!<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
       "translation_en": ""
     },
     {
@@ -1566,7 +1566,7 @@
       "target_offset": 24190,
       "length_bytes": 101,
       "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c480c180c880c680c3fff680c980c880c780c480c180c280c3fff680c980c880c780c480c180c280c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c880c980c6",
-      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>41863<PAGE>9874123<PAGE>9874123<CMD_fb><CMD_f7>78974145123<PAGE>741896",
+      "text_jp": "e<CMD_f7>741862!<CMD_ef>41863<PAGE>9874123<PAGE>9874123<CMD_fb><CMD_f7>78974145123<PAGE>741896",
       "translation_en": ""
     },
     {
@@ -1584,7 +1584,7 @@
       "target_offset": 24356,
       "length_bytes": 111,
       "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c9",
-      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
+      "text_jp": "e<CMD_f7>741862!<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
       "translation_en": ""
     },
     {
@@ -1602,7 +1602,7 @@
       "target_offset": 24564,
       "length_bytes": 76,
       "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c580c380c2fff680c780c880c980c780c480c180c480c580c180c2",
-      "text_jp": "74145123！<CMD_ef>23698741<PAGE>74189532<PAGE>7897414512",
+      "text_jp": "74145123!<CMD_ef>23698741<PAGE>74189532<PAGE>7897414512",
       "translation_en": ""
     },
     {
@@ -1620,7 +1620,7 @@
       "target_offset": 24704,
       "length_bytes": 73,
       "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "e<CMD_f7>741862!<CMD_ef>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1629,7 +1629,7 @@
       "target_offset": 24778,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1638,7 +1638,7 @@
       "target_offset": 24852,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1647,7 +1647,7 @@
       "target_offset": 24926,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1656,7 +1656,7 @@
       "target_offset": 25000,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1665,7 +1665,7 @@
       "target_offset": 25074,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1674,7 +1674,7 @@
       "target_offset": 25148,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1683,7 +1683,7 @@
       "target_offset": 25222,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "target_offset": 25296,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1701,7 +1701,7 @@
       "target_offset": 25372,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1710,7 +1710,7 @@
       "target_offset": 25448,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1719,7 +1719,7 @@
       "target_offset": 25524,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852…<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852…<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1728,7 +1728,7 @@
       "target_offset": 25600,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852…<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852…<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1737,7 +1737,7 @@
       "target_offset": 25676,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1746,7 +1746,7 @@
       "target_offset": 25752,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1755,7 +1755,7 @@
       "target_offset": 25828,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1764,7 +1764,7 @@
       "target_offset": 25904,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1773,7 +1773,7 @@
       "target_offset": 25980,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1782,7 +1782,7 @@
       "target_offset": 26056,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852!<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1791,7 +1791,7 @@
       "target_offset": 26132,
       "length_bytes": 75,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？789852…<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?789852…<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1800,7 +1800,7 @@
       "target_offset": 26208,
       "length_bytes": 73,
       "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c980c880c780c480c180c580c680c580c2fff680c280c380c680c980c880c780c480c1fffbfff780c280c380c680c980c880c780c4",
-      "text_jp": "！？789852…<CMD_f1><LINE>987415652<PAGE>23698741<CMD_fb><CMD_f7>2369874",
+      "text_jp": "!?789852…<CMD_f1><LINE>987415652<PAGE>23698741<CMD_fb><CMD_f7>2369874",
       "translation_en": ""
     },
     {
@@ -1809,7 +1809,7 @@
       "target_offset": 26282,
       "length_bytes": 108,
       "raw_hex": "80c1fff680c780c480c180c880c680c280d1ffef80c480c180c780c580c380c680c9fff680c280c380c680c980c880c780c480c1fff680c980c880c780c480c180c580c680c580c2fffbfff780c280c380c680c980c880c780c480c1fff680c280c380c680c980c880c780c4",
-      "text_jp": "1<PAGE>741862！<CMD_ef>4175369<PAGE>23698741<PAGE>987415652<CMD_fb><CMD_f7>23698741<PAGE>2369874",
+      "text_jp": "1<PAGE>741862!<CMD_ef>4175369<PAGE>23698741<PAGE>987415652<CMD_fb><CMD_f7>23698741<PAGE>2369874",
       "translation_en": ""
     },
     {
@@ -1818,7 +1818,7 @@
       "target_offset": 26390,
       "length_bytes": 108,
       "raw_hex": "80c1fff680c780c480c180c880c680c280d1ffef80c780c480c180c880c680c2fff680c480c180c880c680c3fff680c480c180c780c580c380c680c9fffbfff780c980c880c780c480c180c580c680c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fff6",
-      "text_jp": "1<PAGE>741862！<CMD_ef>741862<PAGE>41863<PAGE>4175369<CMD_fb><CMD_f7>987415652<PAGE>78974145123<PAGE>",
+      "text_jp": "1<PAGE>741862!<CMD_ef>741862<PAGE>41863<PAGE>4175369<CMD_fb><CMD_f7>987415652<PAGE>78974145123<PAGE>",
       "translation_en": ""
     },
     {
@@ -1836,7 +1836,7 @@
       "target_offset": 26578,
       "length_bytes": 64,
       "raw_hex": "80c680c5fff680c780c580c980c580c280d1ffef80c780c480c180c880c980c680c5fff680c480c180c880c680c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "65<PAGE>75952！<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
+      "text_jp": "65<PAGE>75952!<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1845,7 +1845,7 @@
       "target_offset": 26642,
       "length_bytes": 63,
       "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c880c980c680c5fff680c480c180c880c680c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？9875321！<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?9875321!<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1854,7 +1854,7 @@
       "target_offset": 26706,
       "length_bytes": 77,
       "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c880c980c580c380c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
-      "text_jp": "！？9875321！<CMD_ef>74189532<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "text_jp": "!?9875321!<CMD_ef>74189532<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
       "translation_en": ""
     },
     {
@@ -1863,7 +1863,7 @@
       "target_offset": 26784,
       "length_bytes": 97,
       "raw_hex": "f680c780c880c980c880c580c280d180d1ffef80c980c880c780c580c380c280c1fff680c780c480c180c880c980c680c5fff680c280c380c680c980c880c780c480c1fffbfff780c280c380c680c980c880c780c480c1fff680c780c480c180c9",
-      "text_jp": "！？789852！！<CMD_ef>9875321<PAGE>7418965<PAGE>23698741<CMD_fb><CMD_f7>23698741<PAGE>7419",
+      "text_jp": "!?789852!!<CMD_ef>9875321<PAGE>7418965<PAGE>23698741<CMD_fb><CMD_f7>23698741<PAGE>7419",
       "translation_en": ""
     },
     {
@@ -1872,7 +1872,7 @@
       "target_offset": 26882,
       "length_bytes": 96,
       "raw_hex": "80c580c3fff680c780c580c980c580c280d1ffef80c780c480c180c880c980c580c380c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c780c880c980c780c480c180c480c580c180c2",
-      "text_jp": "53<PAGE>75952！<CMD_ef>74189532<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>7897414512",
+      "text_jp": "53<PAGE>75952!<CMD_ef>74189532<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>7897414512",
       "translation_en": ""
     },
     {
@@ -1881,7 +1881,7 @@
       "target_offset": 26978,
       "length_bytes": 84,
       "raw_hex": "80c3fff680c780c480c180c880c680c280d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c780c480c2",
-      "text_jp": "3<PAGE>741862！<CMD_ef>741456963<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>742",
+      "text_jp": "3<PAGE>741862!<CMD_ef>741456963<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>742",
       "translation_en": ""
     },
     {
@@ -1899,7 +1899,7 @@
       "target_offset": 27156,
       "length_bytes": 96,
       "raw_hex": "80c280c3fff680c780c580c980c580c280d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
-      "text_jp": "23<PAGE>75952！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "text_jp": "23<PAGE>75952!<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
       "translation_en": ""
     },
     {
@@ -1908,7 +1908,7 @@
       "target_offset": 27252,
       "length_bytes": 93,
       "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
-      "text_jp": "！？9875321！<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "text_jp": "!?9875321!<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
       "translation_en": ""
     },
     {
@@ -1935,7 +1935,7 @@
       "target_offset": 27490,
       "length_bytes": 50,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "23<PAGE>74123!<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -1944,7 +1944,7 @@
       "target_offset": 27540,
       "length_bytes": 98,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c780c580c880c980c680c3fff680c480c180c880c680c3fff680c980c880c780c580c380c280c1fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c4",
-      "text_jp": "23<PAGE>74123！<CMD_ef>741758963<PAGE>41863<PAGE>9875321<CMD_fb><CMD_f7>78974145123<PAGE>74",
+      "text_jp": "23<PAGE>74123!<CMD_ef>741758963<PAGE>41863<PAGE>9875321<CMD_fb><CMD_f7>78974145123<PAGE>74",
       "translation_en": ""
     },
     {
@@ -1953,7 +1953,7 @@
       "target_offset": 27638,
       "length_bytes": 96,
       "raw_hex": "80c180c980c580c3fff680c880c580c280d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
-      "text_jp": "1953<PAGE>852！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "text_jp": "1953<PAGE>852!<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
       "translation_en": ""
     },
     {
@@ -1962,7 +1962,7 @@
       "target_offset": 27734,
       "length_bytes": 93,
       "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
-      "text_jp": "！？9875321！<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "text_jp": "!?9875321!<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
       "translation_en": ""
     },
     {
@@ -1989,7 +1989,7 @@
       "target_offset": 27972,
       "length_bytes": 50,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "23<PAGE>74123!<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -1998,7 +1998,7 @@
       "target_offset": 28022,
       "length_bytes": 96,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c880c980c580c280c1fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c280c280c580c380c680c9fffbfff780c780c880c980c780c480c180c480c580c1",
-      "text_jp": "23<PAGE>74123！<CMD_ef>789521<PAGE>78974145123<PAGE>74225369<CMD_fb><CMD_f7>789741451",
+      "text_jp": "23<PAGE>74123!<CMD_ef>789521<PAGE>78974145123<PAGE>74225369<CMD_fb><CMD_f7>789741451",
       "translation_en": ""
     },
     {
@@ -2007,7 +2007,7 @@
       "target_offset": 28118,
       "length_bytes": 96,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
-      "text_jp": "23<PAGE>74123！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "text_jp": "23<PAGE>74123!<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
       "translation_en": ""
     },
     {
@@ -2016,7 +2016,7 @@
       "target_offset": 28214,
       "length_bytes": 11,
       "raw_hex": "f680c980c880c780c580c3",
-      "text_jp": "！？98753",
+      "text_jp": "!?98753",
       "translation_en": ""
     },
     {
@@ -2025,7 +2025,7 @@
       "target_offset": 28226,
       "length_bytes": 50,
       "raw_hex": "80c280c180d1ffef80a680a780a880d780d0fff580c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "21！<CMD_ef>ABC…？<LINE>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "21!<CMD_ef>ABC…?<LINE>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -2034,7 +2034,7 @@
       "target_offset": 28276,
       "length_bytes": 50,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "23<PAGE>74123!<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -2043,7 +2043,7 @@
       "target_offset": 28326,
       "length_bytes": 66,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c280c3fff680c880c580c2fffbfff780c780c880c980c780c480c180c480c5fff680c780c880c9",
-      "text_jp": "23<PAGE>74123！<CMD_ef>74123<PAGE>852<CMD_fb><CMD_f7>78974145<PAGE>789",
+      "text_jp": "23<PAGE>74123!<CMD_ef>74123<PAGE>852<CMD_fb><CMD_f7>78974145<PAGE>789",
       "translation_en": ""
     },
     {
@@ -2052,7 +2052,7 @@
       "target_offset": 28392,
       "length_bytes": 96,
       "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
-      "text_jp": "74145123！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "text_jp": "74145123!<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
       "translation_en": ""
     },
     {
@@ -2061,7 +2061,7 @@
       "target_offset": 28488,
       "length_bytes": 49,
       "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "！？9875321！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "!?9875321!<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -2070,7 +2070,7 @@
       "target_offset": 28538,
       "length_bytes": 50,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
-      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "text_jp": "23<PAGE>74123!<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
       "translation_en": ""
     },
     {
@@ -2079,7 +2079,7 @@
       "target_offset": 28588,
       "length_bytes": 4644,
       "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef808b7180ccffef80ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9e009f00000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380bb00bc00bc000000bd00be00be000000bf00c000c0000000b300b400b4000000c100c200c2000000c300c400c4000000b500b600b6000000c500c600c6000000b700b800b8000000b900ba00ba000000cb00cc00cd00c7009f00a000a100a200a300a400a500a600a700ffffce00ffffffffffffa800a700ffffffffffffffffffffffffffffffffcf00ffffffffffffa900aa00ffffffffffffffffffffffffffffffffc800ffffffffffffab00ac00ffffffffffffffffffffffffffffffffd000ffffffffffffad00ae00af00b000a400ffffffffffffffffffffc900ffffffffffffb100b200a800ffffffffffffffffffffffffffffca00ffffffffffff9f00a400ffffffffffffffffffffffffffffffff6e006f006f007000710071007200730073007400750075007600770077007800790079007a007b007b007c007d007d007e007f007f008000810081008200830083008400850085008600870087008800890089008a008b008b008c008d008d008e008f008f009000910091009200930093009400950095009600970097009800990099009a009b009b009c009d009d00d100ffffd200d300d400d500d600031e0105010501320132d700ffffd800d900da00db00dc00031e0105010501320132dd00ffffde00df00df00e000e10003140014011401320132e200ffffe300ffffdb00e400e5000032001e00140132013200000000000000000300000001000200ffffffff0300ff0104000500ffffffff0300060007000800ffffffff030009000a000b00ffffffff03000c000d000e00ffffffff03000f0010001100ffffffff0300120013001400ffffffff0300150016001700ffffffff0300180019001a00ffffffff03001b001c001d00ffffffff0200ff01ff01ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff080003031e1ee600e600020002021e1ee700e700010001014646e800e800080002021e1ee900e900020001014646ea00ea00010003031e1eeb00eb00020003031e1eec00ec00010002021e1eed00ed00010001013232ee00ee00020000000000ef00ef00040001011e1ef000f000010002021e1ef100f10002001ee50000f200f20001001ee63232f300f300010000001e1ef400f40004001ee70505f500f500010002021e1ef600f600010001011e1ef700f700010003031e1ef800f800040000001e1ef900f90002001eeb4646fa00fa00040001011e1efb00fb00080002021e1efc00fc00010001014646fd00fd0002001eee1e1efe00fe00080003031e1eff00ff00010001011e1e0001000101001ef032320101010102001ef11e1e020102010100020232320301030102001ef2f2f2ffffffff08001ef3f3f3ffffffff010000000000ffffffff08001ef4f4f4ffffffff01001ef5f5f5ffffffff010000000000ffffffff04001ef6f6f6ffffffff020032f7f7f7ffffffff010000000000ffffffff04001ef8f8f8ffffffff02001ef9f9f9ffffffff010000000000ffffffff04001efafafaffffffff01001efbfbfbffffffff010000000000ffffffff01001efcfcfcffffffff04001efdfdfdffffffff010000000000ffffffff02001efefefeffffffff08001effffffffffffff04001e000000ffffffff02001e010101ffffffff08001e020202ffffffff010000000000ffffffff08001e030303ffffffff02001e040404ffffffff010000000000ffffffff08001e050505ffffffff02001e060606ffffffff01001e070707ffffffff04001e080808ffffffff01001e090909ffffffff010000000000ffffffff08001e0a0a0affffffff02001e0b0b0bffffffff010000000000ffffffff04001e0c0c0cffffffff0800000d0d0dffffffff010000000000ffffffff04001e0e0e0effffffff08001e0f0f0fffffffff010000000000ffffffff08001e101010ffffffff02001e111111ffffffff010000000000ffffffff01001e121212ffffffff08001e131313ffffffff010000000000ffffffff01001e141414ffffffff020032151515ffffffff010000000000ffffffff02001e161616ffffffff08001e171717ffffffff020000181818ffffffff",
-      "text_jp": "23<PAGE>74123！<CMD_ef>ゼヘ~<CMD_ef>[G_255]<CMD_9e> ェ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  [G_256][G_256]禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ！ <CMD_d2> ＜ ー 、 ’ うほあおあおあげあげ… <CMD_d8> ） 「 」 『 うほあおあおあげあげ』 <CMD_de> 】 】 ＋ － うと とあとあげあげ± <CMD_e3> <CMD_db> ÷ ％  げ ほ とあげあげ        う   あ い <CMD_03> <CMD_01>え お <CMD_03> か き く <CMD_03> け こ さ <CMD_03> し す せ <CMD_03> そ た ち <CMD_03> つ て と <CMD_03> な に ぬ <CMD_03> ね の は <CMD_03> ひ ふ へ <CMD_02> <CMD_01><CMD_01><CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ううほほ＃ ＃ い いいほほ＆ ＆ あ ああぺぺ☆ ☆ く いいほほ★ ★ い ああぺぺ○ ○ あ ううほほ● ● い ううほほ□ □ あ いいほほ■ ■ あ ああげげ△ △ い     ▲ ▲ え ああほほ※ ※ あ いいほほ＝ ＝ い ほ％  ♡ ♡ あ ほ＃げげ＄ ＄ あ   ほほ♀ ♀ え ほ＆おお♂ ♂ あ いいほほ！？ ！？ あ ああほほ[G_247] [G_247] あ ううほほ[G_248] [G_248] え   ほほ[G_249] [G_249] い ほ●ぺぺ[G_250] [G_250] え ああほほ[G_251] [G_251] く いいほほ[G_252] [G_252] あ ああぺぺ[G_253] [G_253] い ほ△ほほ[G_254] [G_254] く ううほほ<CMD_00><CMD_00>あ ああほほ あ ああ ほ※げげああああい ほ＝ほほいあいああ いいげげうあうあい ほ♡♡♡<CMD_08> ほ＄＄＄<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ！？！？！？<CMD_02> げ[G_247][G_247][G_247]<CMD_01>     <CMD_04> ほ[G_248][G_248][G_248]<CMD_02> ほ[G_249][G_249][G_249]<CMD_01>     <CMD_04> ほ[G_250][G_250][G_250]<CMD_01> ほ[G_251][G_251][G_251]<CMD_01>     <CMD_01> ほ[G_252][G_252][G_252]<CMD_04> ほ[G_253][G_253][G_253]<CMD_01>     <CMD_02> ほ[G_254][G_254][G_254]<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
+      "text_jp": "23<PAGE>74123!<CMD_ef>ゼヘ~<CMD_ef>i<CMD_9e> ェ     ああ あ あi<CMD_02> い あう う いえ え いお お いi<CMD_06> か あき き あく く あi<CMD_09> け うこ こ うさ さ うし し あす す あi<CMD_0e> せ あi<CMD_0f> そ おた た おち ち おつ つ  て て  i<CMD_14> と  な な おに に おi<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  i<CMD_22> め  も も いや や いゆ ゆ いi<CMD_26> よ えら ら えi<CMD_28> り える る  れ れ  i<CMD_2b> ろ  わ わ いを を いん ん いi<CMD_2f> が いぎ ぎ いi<CMD_31> ぐ いげ げ うご ご うi<CMD_34> ざ うじ じ いず ず いぜ ぜ いi<CMD_38> ぞ えだ だ えi<CMD_3a> ぢ えづ づ  で で  i<CMD_3d> ど  i<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ うi<CMD_43> ぱ うぴ ぴ いぷ ぷ いi<CMD_46> ぺ いぽ ぽ あぁ ぁ あiき<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ いi<CMD_4d> ゃ えゅ ゅ えi<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  i<CMD_53> ノ いオ オ いア ア いi<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  i<CMD_5b> キ  i<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス いi<CMD_62> セ いソ ソ いタ タ いi<CMD_65> チ いツ ツ いテ テ いi<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ うi<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  jj禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ! <CMD_d2> < - , ' うほあおあおあげあげ… <CMD_d8> ) 「 」 『 うほあおあおあげあげ』 <CMD_de> 】 】 + - うと とあとあげあげ± <CMD_e3> <CMD_db> ÷ %  げ ほ とあげあげ        う   あ い <CMD_03> <CMD_01>え お <CMD_03> か き く <CMD_03> け こ さ <CMD_03> し す せ <CMD_03> そ た ち <CMD_03> つ て と <CMD_03> な に ぬ <CMD_03> ね の は <CMD_03> ひ ふ へ <CMD_02> <CMD_01><CMD_01><CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ううほほ# # い いいほほ& & あ ああぺぺ☆ ☆ く いいほほ★ ★ い ああぺぺ○ ○ あ ううほほ● ● い ううほほ□ □ あ いいほほ■ ■ あ ああげげ△ △ い     ▲ ▲ え ああほほ※ ※ あ いいほほ= = い ほ%  ♡ ♡ あ ほ#げげ$ $ あ   ほほ♀ ♀ え ほ&おお♂ ♂ あ いいほほ!? !? あ ああほほa a あ ううほほb b え   ほほc c い ほ●ぺぺd d え ああほほe e く いいほほf f あ ああぺぺg g い ほ△ほほh h く ううほほ<CMD_00><CMD_00>あ ああほほ あ ああ ほ※げげああああい ほ=ほほいあいああ いいげげうあうあい ほ♡♡♡<CMD_08> ほ$$$<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ!?!?!?<CMD_02> げaaa<CMD_01>     <CMD_04> ほbbb<CMD_02> ほccc<CMD_01>     <CMD_04> ほddd<CMD_01> ほeee<CMD_01>     <CMD_01> ほfff<CMD_04> ほggg<CMD_01>     <CMD_02> ほhhh<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
       "translation_en": ""
     }
   ]

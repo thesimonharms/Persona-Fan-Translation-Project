@@ -1,0 +1,159 @@
+{
+  "file": "D14.BIN",
+  "type": "DUNGEON_NPC_DIALOGUE",
+  "total_strings": 19,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 28744,
+      "length_bytes": 6,
+      "raw_hex": "6afff6fe6aff",
+      "text_jp": "ニ<PAGE>hニ",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 28752,
+      "length_bytes": 4,
+      "raw_hex": "6afff6fe",
+      "text_jp": "ニ<PAGE>h",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 135308,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 135436,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 135564,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 135692,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 135820,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 135948,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 139016,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 140552,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 140680,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 140808,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 140936,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 141064,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 142844,
+      "length_bytes": 603,
+      "raw_hex": "9640404026268971ec2689b333333333336cb36c716c3371713371ecec267171402626898d40408d408d238d8d8d8d238d23ba23238dbaba23ba4b4b8dba4b93b2f6b254f6b2f69db2b2b25454f69dff9df69df6f6ffc4ffffc4a6fff6bdf7fff6bdf6f788a6f7bdbd9bac889bf7f7ababbbab213bbbbb2121bbe73bbba3d0b683848989892689ec71ec266d3333336c336c6c6c336c3333333371ecec2671718926ec268d89408d404040408d238d23238d232340234bba23234bba23baaaae9d9d0a0a0ab2ff9d9db2b2b254c4f6f6b2f6f6fff6bdf6fff6f6abffffa6f7a6a6abbdf788bdf7f7abacacbd9b9b88acacbb9b213bd0d021bbd0a30a0a0ae7e0838b84ec2671713333ececce6c6d6cb36d6d51516dce6d336c6c3371337133337171ec7140ecec40898926894040408d40402323898d23238d8d4bba8daaf477f60af60a0a0abdffc49db2ffc4f6ffbdc4ffbdbda6abbdbdbdffabf7bdf79bab88f7f78888ab9b2121bb3bab3b21213b21bb21d0e753b6d0e7e00ae70a0a0aa10184305d713333336c33716c6dce6c518a51518a6d6dce6c6d6d3333333333b371333371897133262689ecec89268940404023232623238d408dbabaa7aaf494ff0a0aff0a0abdbdfff6bdbdf6a6a69bffabababababbdf788bd9b9b9bacbbac2188883b21ac21bbd0e7d03be75ee7bbbbb6bb53d0e0a1a3a3e00a0ae00a0a6101849adef33333336d333351ce8a6d51ce518a8a51ce516d6d516d33b36c6d6d716cb333ec33337171897133ec89892626898d8d898d238d408d2351f4aaaafcff0a0a0aff0af7f7bda6a6bdffbdf7acabacababf721abab9bf7ac",
+      "text_jp": "ボぶぶぶよよジヘ□よジNごごごごごネNネヘネごヘヘごヘ□□よヘヘぶよよジダぶぶダぶダもダダダダもダもUももダUUもUぇぇダUぇビM!?Mオ!?M!?ィMMMオオ!?ィ<CMD_9d>!?ィ!?!?<CMD_c4><CMD_c4>A<PAGE>Xa<PAGE>X!?aザAaXXポGザポaaFFVFむづVVむむV&づVョ?Q襟ジジジよジ□ヘ□よノごごごネごネネネごネごごごごヘ□□よヘヘジよ□よダジぶダぶぶぶぶダもダももダももぶもぇUももぇUもUEIィィこここM<CMD_9d>ィMMMオ4!?!?M!?!?<PAGE>X!?<PAGE>!?F<CMD_a6>aAAFXaザXaaFGGXポポザGGVポむづ??むV?ョこここ&+倶栽よヘヘごご□□・ネノネNノノゎゎノ・ノごネネごヘごヘごごヘヘ□ヘぶ□□ぶジジよジぶぶぶダぶぶももジダももダダぇUダE♀モ!?こ!?こここX<CMD_c4>ィM<CMD_c4>!?<CMD_bd>4<CMD_bd>XAFXXX<CMD_ab>aXaポFザaaザザFポむむVづFづむむづむVむ?&ノQ?&+こ&こここャあ枯ケヘごごごネごヘネノ・ネゎズゎゎズノノ・ネノノごごごごごNヘごごヘジヘごよよジ□□ジよジぶぶぶももよももダぶダUUBE♀ブ<CMD_0a>こ<CMD_0a>こXX<PAGE>XX!?AAポ<CMD_ab>FFFFXaザXポポポGVGむザザづむGむV?&?づ&コ&VVQVノ?+ャョョ+ここ+ここスあ鉱【$ごごごノごごゎ・ズノゎ・ゎズズゎ・ゎノノゎノごNネノノヘネNご□ごごヘヘジヘご□ジジよよジダダジダもダぶダもゎ♀EEf<CMD_0a>ここ<CMD_0a>aaXAAX<CMD_bd>aGFGFFaむFFポaG",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 152380,
+      "length_bytes": 64,
+      "raw_hex": "f6ff3c0da6bdbdbdfff6ff0d0dbd88abbdab88abbd9bbd9b0d3b219b21d09b21d09b9b9b3bd03b5e21d0d05e53d0d0e75e5ed053535353b6536124a124a1e0a1",
+      "text_jp": "!?<CMD_3c>すAXXX<PAGE><CMD_0d>すXザFXFザFXポXポすづむポむ?ポむ?ポポポづ?づコむ??コノ??&ココ?ノノノノQノスやャやャ+ャ",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 152764,
+      "length_bytes": 64,
+      "raw_hex": "54b201f69dc4a6a6b254b2c4c4c4a6683cbda6fff6bdffbd9dbdbdffbd9bbdff9bbdffbd889b0d9b9b9b9b9b5e0dbd21219b9b5e5e5e2121b6a3b6e753b6d0a3",
+      "text_jp": "オMあ!?ィ4AAMオM444AトでXA<PAGE>X<CMD_bd>ィXX<CMD_bd>ポX<CMD_9b>X<CMD_bd>ザポすポポポポポコすXむむポポコココむむQョQ&ノQ?ョ",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 152892,
+      "length_bytes": 64,
+      "raw_hex": "8b544fb29d9df6f6540154b2c49df6f6f6a6ffc49dfff6ff3ca6bdffff0dbdff88a6f6bd0d88bd0d88bd0d0d9b0d889b880dab3b3b9b9b9b3ba3d021b6bbbbb6",
+      "text_jp": "ゼオょMィィ!?!?オあオM4ィ!?!?!?A<CMD_c4>ィ<PAGE><CMD_3c>AX<CMD_0d>X<CMD_88>A!?XすザXすザXすすポすザポザすFづづポポポづョ?むQVVQ",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 154172,
+      "length_bytes": 64,
+      "raw_hex": "c5c5385f19f3f314b72a04042ff239750965753975be7dbea260b4f1ca0e569c6060b4b4560e600e0e0e0e0e0e99b4b472723939750909fe14fff6c4f6f6b2ff",
+      "text_jp": "55ぞサの$$とRれええが♡だムけチムだムYルYュシO=/せイァシシOOイせシせせせせせせプOOホホだだムけけhと<PAGE>4!?!?M",
+      "translation_en": ""
+    }
+  ]
+}

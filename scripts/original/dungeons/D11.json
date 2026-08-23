@@ -1,0 +1,535 @@
+{
+  "file": "D11.BIN",
+  "type": "DUNGEON_NPC_DIALOGUE",
+  "total_strings": 66,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 136280,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 136408,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 136536,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 136664,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 136792,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 136920,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 139988,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 141524,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 141652,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 141780,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 141908,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 142036,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 145068,
+      "length_bytes": 257,
+      "raw_hex": "4feb0707c5ebebeb07070707070707070707070707070707070707070707070707070707070707070707078f8f070707070707078f079707078f979707070798070707989897079807208f0707960707960707078f8f070707070707078f079707078f9797070707968f8f968f07070707bbbbbb07bbbb0707bb07070797079707bb8f07079607079607078f8f070707070707078f079707078f979707078f968f8f968f07970797078f8f0707968f7143aa8daa8dcbd58daa072da7a7ec0707070707fe0707071007910707070707076c6c070707076c070707070707070707070707070707071307070707070707ffecc5ff3dc02febeb4feb2d4bffff66fffe",
+      "text_jp": "ょ●きき5●●●きききききききききききききききききききききききききききききききききききヅヅきききききききヅきパききヅパパきききピきききピピパきピきみヅききボききボきききヅヅきききききききヅきパききヅパパきききボヅヅボヅききききVVVきVVききVきききパきパきVヅききボききボききヅヅきききききききヅきパききヅパパききヅボヅヅボヅきパきパきヅヅききボヅヘぱEダEダ:,ダEきをBB□きききききhきききたきドききききききネネききききネききききききききききききききききてききききききき<CMD_ec>5<CMD_3d>0が●●ょ●をぇ<CMD_66><END>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 145577,
+      "length_bytes": 257,
+      "raw_hex": "c607f3ff4fff07fe770707070707330707ff070707070707070707070707e507e507e5071707210707212121070721218f21960721078f079721218f979797976c079896078f8f9807989797980707078f8f072020208f20078f97960707078f079797978f979797976c07978f8f9797073696bbbb07078f07070796078fbbbb0707979797bb07bb8f8f0720202020078f97960707078f079797978f979797976c07978f8f8f8f8f8f8f978f978f078f8f8f71438dcaf2afab3ccbb71007070707ec070707070707070707070707070707076c0707076c6c6c6c6c6c6c070707070707070707070713070707070707070707453fecff3d3d2874eb3a2f2f2ffffe",
+      "text_jp": "6き$<CMD_4f><CMD_07>hモきききききごきき<CMD_07>ききききききききききき%き%き%きぬきむききむむむききむむヅむボきむきヅきパむむヅパパパパネきピボきヅヅピきピパパピきききヅヅきみみみヅみきヅパボきききヅきパパパヅパパパパネきパヅヅパパきずボVVききヅきききボきヅVVききパパパVきVヅヅきみみみみきヅパボきききヅきパパパヅパパパパネきパヅヅヅヅヅヅヅパヅパヅきヅヅヅヘぱダ/♡JFで:Rたきききき□ききききききききききききききききネきききネネネネネネネきききききききききききてきききききききききぷび□<CMD_3d>どりミ●ぢががが<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 146588,
+      "length_bytes": 254,
+      "raw_hex": "28ff28eb71a7ebeb33a2a2ebeba80707070710a707071007100707070707070707f107076bf1f107f1e507e50721212121071790171790903621179098982121979797078f976c978f078f070707909090078f8f97979797978f979720972098973620209898989798979797078f976c978f078f07960265e307cf0798d4bbd4bbbbbbbb0707909090078f8f97979797978f9797979720983620209898989798979797078f976c978f078f078f028fe390cf8f8f8f979797538f978f37aa0799f0d32346464607078d8d0746070707a78d8d0707070707070707c507076c8f6c076c6c6c6c076c6c0707070707070713130707070707070707070707fffe",
+      "text_jp": "り<CMD_28>●ヘB●●ごュュ●●CききききたBききたきたきききききききき=ききヌ==き=%き%きむむむむきぬデぬぬデデずむぬデピピむむパパパきヅパネパヅきヅきききデデデきヅヅパパパパパヅパパみパみピパずみみピピピパピパパパきヅパネパヅきヅきボいチ×き。きピ-V-VVVVききデデデきヅヅパパパパパヅパパパパみピずみみピピピパピパパパきヅパネパヅきヅきヅいヅ×デ。ヅヅヅパパパノヅパヅぜEきプ※<もぺぺぺききダダきぺきききBダダきききききききき5ききネヅネきネネネネきネネきききききききててききききききききききき<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 150094,
+      "length_bytes": 768,
+      "raw_hex": "989898979721bbbb98219797bb8f89999999999999079907c5c507ec3d0707070707070707070707070707070707136c131351ffcece07070707ce07070707ffff0798980707ff07130707070707a6ff71454571ceefceefefef74ef45ef45efefef07710707ff070707070707071798170717981798985d5d5df15d1717986b5d0717e5ff4f904f4fe5174f4f908fff4f17171797174f8f8f4f4f974f8fff8f4f4f8f8f4f171717ff98e597ff178fff8f908f9797984f8f174f174f9897fd978fd48f8f368fe5bb21ff8fe598d48f4f8f8f8f4f8f8fbb5dbb8f4f4f4f5dff4fff988f97ffbb8fffe59097974fbbbbbbbbff5dfd5d98bbe58f4f5d974fe5cf98fffd984f4f4fe54fbbbbbbd7bbd75e5e99996007990707070710fe0fb7ec2d07c5c50707070707070707070707076c6c6c135107ce070707ce13cece0707ff510707079813070713070707e907078c9f7171454545ceefd5ef9fa0a007070707efef2707efff0707070707ef07075d175d1707179817985d5d5d5d9821075de507e5e5904f90e5e5e51790989890ff4f4f90fd1717e5e5e5ff4ffd8fe54f4f4f368f908f178f174f174fe5fdfd4fffe5e5ffff98fde5e5984f98981717fde5e5985d5dfd36e5e5ffcfba985d5d365d4f4f4f5de54f4f4f5d365d5d5d5dffff5d5d4fe5fdfd4fffe5e5ffd7fd5d5d5d4f4ffffdfdfde5e5e5ff4f5de5e54f5d36365dd790fd61984fff4fe5fdfd4f9935e134a1240707070707fe8e64fe072d8d8d070707070707070707070707076c1351ff07ffff0707cece6c1351135107131398070707980707070707070707d5a671714545fff2af45ffffa0ce07efcece070707ef070707070707ef0707075d1717175d9817985d2121211717e598e598171798e5909090ff4f4f4ffd901717fd174f17fd17176cffe5fdff6c8fe58f8fe5d7364f9036174ffdff4ffdfde5e5fffffdfd4f8ffffd98984f17981717fd17ff36fd366c365dff0836e59698e5fde5434f4f4f434f5d5de5d74fe5905d364ffd5d4ffdfde55dff5dfd4f5dfffdfdfd4f4f4ffdfdfd6cffe55dff6cfde5e5e5",
+      "text_jp": "ピピピパパむVVピむパパVヅジププププププきプき55き□どきききききききききききききききききてネててゎ<CMD_ce>・きききき・きききき<CMD_07>ピピきき<CMD_07>てきききききA<CMD_71>ぷぷヘ・▲・▲▲▲ミ▲ぷ▲ぷ▲▲▲きヘきき<CMD_07>ききききききぬピぬきぬピぬピピケケケ=ケぬぬピヌケきぬ%<CMD_4f>デょょ%ぬょょデヅ<CMD_4f>ぬぬぬパぬょヅヅょょパょヅ<CMD_8f>ょょヅヅょぬぬぬ<CMD_98>%パ<CMD_17>ヅ<CMD_8f>デヅパパピょヅぬょぬょピパgパヅ-ヅヅずヅ%Vむ<CMD_8f>%ピ-ヅょヅヅヅょヅヅVケVヅょょょケ<CMD_4f><CMD_98>ヅパ<CMD_bb>ヅ<CMD_e5>デパパょVVVV<CMD_5d>gケピV%ヅょケパょ%。ピ<CHOICE id=152>ょょょ%ょVVV…V…ココププシきプききききたhそR□をき55ききききききききききききネネネてゎき・ききき・て・・きき<CMD_51>きききピてききてききき★ききゾェヘヘぷぷぷ・▲,▲ェォォきききき▲▲らき▲<CMD_07>きききき▲ききケぬケぬきぬピぬピケケケケピむきケ%き%%デょデ%%%ぬデピピデ<CMD_4f>ょデgぬぬ%%%<CMD_4f>gヅ%ょょょずヅデヅぬヅぬょぬょ%ggょ<CMD_e5>%<CMD_98>g%%ピょピピぬぬg%%ピケケgず%%<CMD_cf>Uピケケずケょょょケ%ょょょケずケケケケ<CMD_5d>ケょ%ggょ<CMD_e5>%<CMD_d7>gケケケょょ<CHOICE id=253>g%%%<CMD_4f>ケ%%ょケずずケ…デgスピょ<CMD_4f>%ggょプじ-ざャやきききききhヂタhきをダダきききききききききききききネてゎ<CMD_07><CMD_07>き・・ネてゎてゎきててピきききピきききききききき,Aヘヘぷぷ<CMD_f2>Jぷ<CMD_a0>・き▲・・ききき▲きききききき▲きききケぬぬぬケピぬピケむむむぬぬ%ピ%ピぬぬピ%デデデ<CMD_4f>ょょgデぬぬgぬょぬgぬぬネ<CMD_e5>g<CMD_6c>ヅ%ヅヅ%…ずょデずぬょg<CMD_4f>gg%%<CHOICE id=253>ょヅ<CHOICE id=152>ピょぬピぬぬgぬ<CMD_36>gずネずケ<CMD_08>ず%ボピ%g%ぱょょょぱょケケ%…ょ%デケずょgケょgg%ケ<CMD_5d>gょケ<CHOICE id=253>gょょょgggネ<CMD_e5>ケ<CMD_6c>g%%%",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 150749,
+      "length_bytes": 768,
+      "raw_hex": "fd174f17fd17176cffe5fdff6c8fe58f8fe5d7364f9036174ffdff4ffdfde5e5fffffdfd4f8ffffd98984f17981717fd17ff36fd366c365dff0836e59698e5fde5434f4f4f434f5d5de5d74fe5905d364ffd5d4ffdfde55dff5dfd4f5dfffdfdfd4f4f4ffdfdfd6cffe55dff6cfde5e5e5e5d7365d905d364f5d5d4ffdfd5d993560990707772f990707078e8efeec2d8d0707070707070707070707070707fe51196c133f131307ce07cece0707070707ff07070707070707070707070707f3a6a67171af71afffffce74ceef74ce74ceef71070728072807ef07ef0707075d98175d9898985d5d98211313179017e517e5171717e517174f4f90e5e54fe5e5fffd4ffdfdfdfdfd4fe56c6c8fe56c908fe5fd364f4f364fe54fe5fde54fe5d78fe54fe5d7e5ff9898179898179817fdfd4fe56cd45d4f6c905d985dff96e59043ff4f4f4f4f4f43e5e5fd364f4f5d4f5d5d5dfde55de5d7e5e54fd75dff5dfdfffd4ffdfdfdfdfd4fe56c6cff4f6c90e5e5fd36365d364fe55d5dfde54fe5602c7b6207889999070707c4cb07fec5078d0707070707070707070707070707516c136cfe070713cece07070751cececece0713070707070707070707070707f3a6ffff71d571ff45ce9fa0ce2807cecea007ef070707efefffefef070707075d5d985d5d175d98985d5d21982117902117171721e51717e52190e5e5e5e5e5904ffdd790e5fd4fe5e5e5fd6cfdfd4f9090ff904f4f4ffde5d7fdd7fdfde5d7d74f4f4f8f8fe598985398981798e5fd175dfdd4fd5dfdfdd44f5d5dd4d4e59890ff4f435de5e5e54390ff5d4fe54ffde55dfdd75dfd5dd7d74f4f4fe5e5e54ffd4f5dd7fde5fd4fe5fd4ffd6cfdfd4f9090fd5dfd5d36fd5d5dfd5d5d5de5d7605b606207e0070707078ad57a3c0707070707070707070707070707070707076c51136c51ce6c13cece0707ffce5107070713075107e907ff070707070707072745ff4571d545af4545747474077474cecece07077407ef0707070707efef075d171798981717f15d9898212121f19017e5e590171717e5e517e51721fd9090fd",
+      "text_jp": "gぬょぬgぬぬネ<CMD_e5>g<CMD_6c>ヅ%ヅヅ%…ずょデずぬょg<CMD_4f>gg%%<CHOICE id=253>ょヅ<CHOICE id=152>ピょぬピぬぬgぬ<CMD_36>gずネずケ<CMD_08>ず%ボピ%g%ぱょょょぱょケケ%…ょ%デケずょgケょgg%ケ<CMD_5d>gょケ<CHOICE id=253>gょょょgggネ<CMD_e5>ケ<CMD_6c>g%%%%…ずケデケずょケケょggケプじシプききモがプきききヂヂh□をダききききききききききききききhゎのネてびててき・き・・ききききき<CMD_07>きききききききききききき$AAヘヘJヘJ<CMD_ce>ミ・▲ミ・ミ・▲ヘききりきりき▲き▲きききケピぬケピピピケケピむててぬデぬ%ぬ%ぬぬぬ%ぬぬょょデ%%ょ%%<CHOICE id=79>gggggょ%ネネヅ%ネデヅ%gずょょずょ%ょ%g%ょ%…ヅ%ょ%…%<CMD_98>ピぬピピぬピぬggょ%ネ-ケょネデケピケ<CMD_96>%デぱ<CMD_4f>ょょょょぱ%%gずょょケょケケケg%ケ%…%%ょ…ケ<CMD_5d>g<CHOICE id=79>gggggょ%ネネ<CMD_4f>ネデ%%gずずケずょ%ケケg%ょ%シわラセきザププききき4:きh5きダききききききききききききききゎネてネhききて・・きききゎ・・・・きてきききききききききききき$A<CMD_71>,ヘ<CMD_45>・ェォ・りき・・ォき▲ききき▲▲<CMD_ef>▲ききききケケピケケぬケピピケケむピむぬデむぬぬぬむ%ぬぬ%むデ%%%%%デょg…デ%gょ%%%gネggょデデ<CMD_90>ょょょg%…g…gg%……ょょょヅヅ%ピピノピピぬピ%gぬケg-gケgg-ょケケ--%ピデ<CMD_4f>ぱケ%%%ぱデ<CMD_5d>ょ%ょg%ケg…ケgケ……ょょょ%%%ょgょケ…g%gょ%gょgネggょデデgケgケずgケケgケケケ%…シキシセき+ききききズ,ヨでききききききききききききききききききネゎてネゎ・ネて・・きき<CMD_ce>ゎきききてきゎき★き<CMD_07>ききききききらぷ<CMD_45>ヘ,ぷJぷぷミミミきミミ・・・ききミき▲ききききき▲▲きケぬぬピピぬぬ=ケピピむむむ=デぬ%%デぬぬぬ%%ぬ%ぬむgデデg",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 151373,
+      "length_bytes": 469,
+      "raw_hex": "90fd5dfd5d36fd5d5dfd5d5d5de5d7605b606207e0070707078ad57a3c0707070707070707070707070707070707076c51136c51ce6c13cece0707ffce5107070713075107e907ff070707070707072745ff4571d545af4545747474077474cecece07077407ef0707070707efef075d171798981717f15d9898212121f19017e5e590171717e5e517e51721fd9090fd4f909021d72121fd4ffdfde5fd4f4f9090ffd74fd7e5e5e5fdd7d7fdfdffffd7e517e58fe5fd5398988f984f988f98d4d44f5dfdfd5dd4e5e55dfde5e5d49dfd4fe54fe5fc4fe5fc43ffd74fe5e5e5e55dd7d75dfd5dffd7e5d7e55dfd4fe5fd4fff4f4fd7d7d7fd4ffdfdfdfd4f4ffdfffdd7d7d7e55de5fdd75dfd5d5d5d6060929b030766070707d5d507fe070707c50707a7a7a70707070707070707076c51511351ff0713ffffcece1313ce13131307070707ff130707070707070707ff27454545d5f27145ff4545a007070707cece0728280707ffd5870707ef07ef5de598e5986f5d985d98846f6b989890215d1717ff171717e5e5e52121e517212190d7d7e52121d74ffd4fe54fff9090902190d79090d7e5ffd7d7ffffe5d7e5d753d7fd8f8f178f8f17171753d78fd7d74ffd4f4f5dd490d4fd08985dd4d45dfde5e5fffffc",
+      "text_jp": "デgケgケずgケケgケケケ%…シキシセき+ききききズ,ヨでききききききききききききききききききネゎてネゎ・ネて・・きき<CMD_ce>ゎきききてきゎき★き<CMD_07>ききききききらぷ<CMD_45>ヘ,ぷJぷぷミミミきミミ・・・ききミき▲ききききき▲▲きケぬぬピピぬぬ=ケピピむむむ=デぬ%%デぬぬぬ%%ぬ%ぬむgデデgょデデむ…むむgょgg%gょょデデ<CMD_d7>ょ…%%%g……gg<CMD_d7>%ぬ%ヅ%gノピピヅピょピヅピ--ょケggケ-%%ケg%%-ィgょ%ょ%fょ%fぱ<CMD_d7>ょ%%%%ケ……ケgケ<CMD_d7>%…%ケgょ%gょ<CMD_4f>ょ………gょggggょょg<CHOICE id=215>……%ケ%g…ケgケケケシシバポうきツききき,,きhききき5ききBBBきききききききききネゎゎてゎ<CMD_07>て<CMD_ce>・てて・てててきききき<CMD_13>きききききききき<CMD_27>ぷぷぷ,♡ヘぷ<CMD_45>ぷォきききき・・きりりきき<CMD_d5>清き▲き▲ケ%ピ%ピヒケピケピ弘ヌピピデむケぬぬ<CMD_17>ぬぬ%%%むむ%ぬむむデ……%むむ…ょgょ%ょ<CMD_90>デデむデ…デデ…%<CMD_d7>…<CMD_e5>…%…ノ…gヅヅぬヅヅぬぬぬノ…ヅ……ょgょょケ-デ-gくピケ--ケg%%<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 151609,
+      "length_bytes": 753,
+      "raw_hex": "fd4fe5fd4fff4f4fd7d7d7fd4ffdfdfdfd4f4ffdfffdd7d7d7e55de5fdd75dfd5d5d5d6060929b030766070707d5d507fe070707c50707a7a7a70707070707070707076c51511351ff0713ffffcece1313ce13131307070707ff130707070707070707ff27454545d5f27145ff4545a007070707cece0728280707ffd5870707ef07ef5de598e5986f5d985d98846f6b989890215d1717ff171717e5e5e52121e517212190d7d7e52121d74ffd4fe54fff9090902190d79090d7e5ffd7d7ffffe5d7e5d753d7fd8f8f178f8f17171753d78fd7d74ffd4f4f5dd490d4fd08985dd4d45dfde5e5fffffc4f5d90e54fd75d5dd7e5ff5d5dff5de5d7e5d7d7d7fde5fffd4ffdfdd7d7d7d7d7d74ffd4f4f4fff9090fd2190d790905de50ed7d7535de55d5d0c2cf924078e070707f2d56607fec507c5a70707a78da78df7070707070707071351e0206cfe070713136ccece13130707131307e907070707070707070707071c454545ff71ffffffffff28282807ff74ce0707078c0707589eefef07efef075d6b5d5de5989898845d986bf1989817e517e5902117e5e5e5ff902190212117ff172117fd212121fde5e5904ffde5ff179021904f4fd7d7fdfdd7fdd7e5e5178f178f8f8f8f8f8f171717538f989898d798d4fdd4d4fd5d985dd45d98d45d5de5e54f8ffc87ff4ffc8721904f4fd7d7fdfd5d5dd75de5fd4fd7d7d7e5ff214fffd7d7fffd4ffdd7fd90fd904ffd90fffd90215d4f4fd7d7fdfdd75dd7e5e5fd2c1d609b3d073d3d07f907910707c50707a7f707a707a78d07a7070707070707ff51136cff51ce136c6c6c0707136c0707070722070707070707e907070707077745454545ff71ffffffff2833a0a0333307282828280773f5070707070707075d8417986b9898985d6b6b6b985d8417e590e5e590e517171790909021e817981717d721e5fde5212117e5e52121904fe590e5e5ffff21e5e5fdfd90e5fd17e5e5178f178f1717531717178f8f1717178f5dffd4d4e54f5d4f215d9898d7985d904f4fe587e590908f90e590fffc",
+      "text_jp": "gょ%gょ<CMD_4f>ょ………gょggggょょg<CHOICE id=215>……%ケ%g…ケgケケケシシバポうきツききき,,きhききき5ききBBBきききききききききネゎゎてゎ<CMD_07>て<CMD_ce>・てて・てててきききき<CMD_13>きききききききき<CMD_27>ぷぷぷ,♡ヘぷ<CMD_45>ぷォきききき・・きりりきき<CMD_d5>清き▲き▲ケ%ピ%ピヒケピケピ弘ヌピピデむケぬぬ<CMD_17>ぬぬ%%%むむ%ぬむむデ……%むむ…ょgょ%ょ<CMD_90>デデむデ…デデ…%<CMD_d7>…<CMD_e5>…%…ノ…gヅヅぬヅヅぬぬぬノ…ヅ……ょgょょケ-デ-gくピケ--ケg%%<CLOSE>ょケデ%ょ…ケケ…%<CMD_5d>ケ<CMD_5d>%…%………g%<CHOICE id=79>gg………………ょgょょょ<CMD_90>デgむデ…デデケ%せ……ノケ%ケケしわcやきヂききき♡,ツきh5き5BききBダBダaきききききききてゎ+みネhききててネ・・ててききててき★きききききききききききふぷぷぷ<CMD_71><CMD_28>りりき<CMD_74>・きききゾききエゥ▲▲き▲▲きケヌケケ%ピピピ厚ピヌ=ピピぬ%ぬ%デむぬ%%%<CMD_90>むデむむぬ<CMD_17>むぬgむむむg%%デょg%<CMD_17>デむデょょ……gg…g…%%ぬヅぬヅヅヅヅヅヅぬぬぬノヅピピピ…ピ-g--gケピケ-ケピ-ケケ%%ょヅf択ょf石デょょ……ggケケ…ケ%gょ………%<CMD_21>ょ<CMD_d7>…<CHOICE id=79>g…gデgデょgデ<CHOICE id=144>むケょょ……gg…ケ…%%gわへシポどきどどきcきドきき5ききBaきBきBダきBきききききき<CMD_51>てネ<CMD_51>・てネネネききてネききききめきききききき★きききききモぷぷぷぷ<CMD_71><CMD_28>ごォォごごきりりりりきマ♂きききききききケ原ピヌピピピケヌヌヌピケ原%デ%%デ%ぬぬぬデデデむ☆ぬピぬぬ…む%g%むむぬ%%むむデょ%デ%%<CMD_21>%%ggデ%gぬ%%ぬヅぬヅぬぬノぬぬぬヅヅぬぬぬヅケ<CMD_d4>-%ょケょむケピピ…ピケデょょ%替デデヅデ%デ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "offset": 152569,
+      "length_bytes": 768,
+      "raw_hex": "e5e5e5e58ffd17e5538f17178f17171717178ffdd75dd75d5d215d5dd498985d989898fd5de9ffffe5ffd79087d7ffd7215de5d75de55d4fe5e5e5e5e5fde5e52121ffd7d74fd7fdfdd7fdd7fdd7ff90214f4fd7d7d7d7d721855dd74f5d5d5d535d5df0f07b3d623d0723233d073d0745a7a7f7f7a707f7a707070707a707070707076c13ce51ffce6c13130713ce131313130707130707070707070707070707e9071c7171ff71ff4545457382ff8cff072707ff28070707d1d50728280707070707986b6b986b989884986b84986b1798988690900817e5e517e59008ff90981798d7908fe8e5fdd717fde51717e59017e517ff17e5d7e590d7d7e5e5fffffffd17fde58f17178f178f1717178f4f179817985d4f5d5dd790ff215de5985d989898d7e5e9e9903787ff8787e5e5e5e5e5e5d7e5e5fffffffdd7fde5ffe5e5e54ffdd7d7e54f4fd7d74ffd4ffde5d790ff2121e521e5d7e590d7d75de5535d5dd75d7d3d3d3d7b7d3a1645454545453aa7a7f7070707f7f707070707070707070707d41397ffe951076c6c07076c0707cee9130707070707070707e9070707079807ca717171ffff1c71282871073333072828282707072828282807070707070707986b846b6b6b6b84846b986b178417f16b8698ff98ff06e5ffe578ff78ba98068f988ffdfdd7d7e5e517174fe5e517e5171790d71790d7d7fdfffdd7d7d7fdfd17ff174f1717178f539898e5171717d78fd44f4f5d5d5d21989898985d985d988f8790ff9037e89090d790909090d7e5fd5dfdd7d7d7fdfd4ffffd4fff4fe5e5e5d7e5e5e5d7d7d7e54f4f4fe5e521fdfdd7d7d790905dd7fdbbfdd75dd75d5d2c3d3d6d3d2345d33d073a0745a7a707070707a707f707070707070707070707366b66e91313a66c6cce070707ce071313071313130707e90707070713070707bc7171ff71ffff287171710733073328ff28ffa52828d5072807070707070707846b6b846b5d6b6b84906be5846b178686869898171717e5e578e508088f17178f068f988f8fe521fde9e517e5e517e517171790d7d7fde5e517171717",
+      "text_jp": "%%%%ヅgぬ%ノヅぬぬヅぬぬぬぬぬヅg…ケ…ケケむケケ-ピピケピピピgケ★<CMD_e5><CMD_d7>デ楕<CMD_d7>むケ%…ケ%ケょ%%%%%g%%むむ<CMD_d7>…ょ…gg…g…g…<CMD_90>むょょ……………む獅…ょケケケノケケ※※ラどセどきももどきどきぷBBaaBきaBききききBきききききネて・ゎ<CMD_ce>ネててきて・ててててききてききききききききききき★きふヘヘ<CMD_71><CMD_45>ぷぷマ妓ゾ<CMD_07>らき<CMD_28>ききき!,きりりきききききピヌヌピヌピピ郊ヌ郊ヌぬピピ錠デくぬ%%ぬ%デく<CMD_90>ピぬピ…デヅ☆%g…ぬg%ぬぬ%デぬ%ぬ<CMD_17>%…%デ……%%<CHOICE id=23>g%ヅぬぬヅぬヅぬぬぬヅょぬピぬピケょケケ…デ<CMD_21>ケ%ピケピピピ…%★★デぜ択層%%%%%%…%%<CHOICE id=215>g%<CMD_e5>%%ょg……%ょょ……ょgょg%…デ<CMD_21>む%む%…%デ……ケ%ノケケ…ケルどどどラルぢにぷぷぷぷぷぢBBaきききaaきききききききききき-てパ<CMD_e9>ゎきネネききネきき・★てきききききききき★ききききピき/ヘヘヘ<CMD_1c>ヘりりヘきごごきりりりらききりりりりきききききききピヌ幸ヌヌヌ硬ヌピヌぬ原=ヌ織<CMD_98><CMD_06>%<CMD_e5>ヤ<CMD_78>Uピかヅピヅgg……%%ぬぬょ%%ぬ%ぬぬデ…ぬデ……g<CHOICE id=215>……ggぬ<CMD_17>ょぬぬぬヅノピピ%ぬぬぬ…ヅ-ょょケケケむピピピピケピケピヅ早<CMD_90>ぜ☆デデ…デデデデ…%gケg………ggょ<CHOICE id=79><CMD_4f>%%%…%%%………%ょょょ%%むgg………デデケ…gVg…ケ…ケケわどどノどもぷ<どきぢきぷBBききききBきaききききききききききずヌツ★ててAネネ・ききき・きててきてててきき★ききききてきききWヘヘ<CMD_71><CMD_28>ヘヘヘきごきごり<CMD_28><CMD_a5>りり,きりききききききき幸ヌ幸ケヌヌ膏ヌ%幸ぬ擾織ピぬぬぬ%%ヤ%くくヅぬぬヅかヅピヅヅ%むg★%ぬ%%ぬ%ぬぬぬデ……g%%ぬぬぬぬ",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "offset": 153407,
+      "length_bytes": 768,
+      "raw_hex": "fde54f4fe5fd4ffd4f4fe54fe5e5d7d7e55dd7fde5e5e55d5d5d5d5d53233d353d453a3d3a3a3a07450745f745070707070707f7070707070707070707d713ffa6ce22511307cecececece07070707130707130707130707e907070707f233a271ff283361717171283307a0333333338528282828070728070707070784846b6be584906b6b84906b6b906be517908f78e57896e59696e5ff065417ff068f210621988ffd1721e9e9e5e9214fe5ff17909017fdd7e5fdfde5fd171717178f6ce5d78f8fff8f98e5e517fd84e5171717174f5d4f5d4f98fdd7d75d085d068fff8f909064909090b9b99090e5e5e5e5fde5fdd7e5e5e55d6ce5fdd7ffffffe5e5fffdffe5ffe54f4f4fff4f904fe5fdfd90d7d7fdd75dfdfde5fdd7e55d3d356d3a3a3a3d07073a07073a073a3a073a0707070707070707070707070707cee9cea63fcee9e9e90707cecece131307071307130713071307070707070707db71a85c683368333333a00733333371072807fff228280707070707070707078498846b906b8490981790e56b84e58617f1781778178f6fe5e51896086b8f17068fff06212108fd17e5fde5e590fd909017e5e5d7d7d7d717fdfde5fdd7e5e5e5e5e5d7fd4fd7e54ffde54fd74ffd1717174f174f4f90fd4ffde5e5e598089806c0c090c0ff90908f90f3e55454e5e5e5fdfde5fdd7e5e5e5e5e5d7ffd7e5fdfdffffd74ffdfffd4f4ffde54f90fd90fdd790e5d7d7d7d7fdfdfd5dfdd75d5d3d69350c1f3a3a3d073a3a073a3a3af73a0707070707070707070707070707079819ce973f7a22e9cecece07cece6c6c13070707070707070707070707070707afa8ff337b336262333333a0a03333717133079ef27107070707070707070707848484e5846b90e5840898ff9090e58617781717e517e4178f8fe4ff08ff1818178fff068f8fc0e5172121e5fdd784e5ff4f90fde5e5e5e5fdd7e54fe5fd17904fd7acfdd7ffff4f4fe5fd846cd74f17fd174f90e5e5d7d7d7e55d4fe5e5fd08068fc0c0c0ff7878aa7878068f8fe5e5e5e5e5e5fdfdd790e9d7d7fdffff4f98fd98ff",
+      "text_jp": "g%ょょ%gょgょょ%ょ%%……%ケ…g%%%ケケケケケノもどじどぷぢどぢぢぢきぷきぷaぷききききききaききききききききき…て<CMD_a6>・めゎてき・・・・・ききききてききてききてきき★きききき♡ごュヘ<CMD_28>ごスヘヘヘりごきォごごごご鮫りりりききりききききき硬ヌヌ%膏ヌヌ膏ヌヌデヌ%ぬデヅヤ%ヤボ%ボボ%<CMD_06>オぬ<CMD_06>ヅむかむピヅgぬむ★★%★むょ%<CMD_17>デデぬg…%gg%gぬぬぬぬヅネ%…ヅヅ<CMD_8f>ピ%%ぬg哉ぬぬぬぬょケょケょピg……ケくケかヅ<CMD_8f>デデタデデデTTデデ%%%%g%g…%%%ケネ%g…<CMD_e5>%<CHOICE id=255>%<CMD_e5>ょょょ<CMD_4f>デょ%ggデ……g…ケgg%g…%ケどじノぢぢぢどききぢききぢきぢぢきぢきききききききききききききき・★・Aび・★★★きき・・・ててききてきてきてきてききききききき」ヘCクトごトごごごォきごごごヘきりき<CMD_f2>りりききききききききき郊幸デヌ膏ピぬデ%ヌ哉準=ヤぬヤぬヅヒ%%ねボくヌヅぬかヅ<CMD_06>むむくgぬ%g%%デgデデぬ%%…………ぬgg%g…%%%%%…gょ…%ょg%ょ…ょgぬぬぬょぬょょデgょg%%%ピくピか00デ0<CMD_90>デヅデ$%オオ%%%gg%g…%%%%%…<CMD_d7>%gg<CMD_d7>ょg<CHOICE id=79>ょg%ょデgデg…デ%…………gggケg…ケケどナじしまぢぢどきぢぢきぢぢぢaぢきききききききききききききききピの・パびヨめ★・・・き・・ネネてきききききききききききききききJC<CMD_33>ラごセセごごごォォごごヘヘごきゥ♡ヘきききききききききき硬哉幸デ%硯ピ<CMD_90>デ%準ヤぬぬ%ぬ÷ぬヅヅ÷<CMD_08><CMD_18>ねぬヅ<CMD_06>ヅヅ0%ぬむむ%g…哉<CMD_4f>デg%%%%g…%ょ%gぬデょ…Gg…<CMD_4f>ょ%g広…ょぬgぬょデ%%………%ケょ%%gくかヅ000<CMD_78>ヤEヤヤかヅヅ%%%%%%gg…デ★……g<CMD_4f>ピgピ",
+      "translation_en": ""
+    },
+    {
+      "id": 21,
+      "offset": 154348,
+      "length_bytes": 768,
+      "raw_hex": "4ffdd7d784acacac8484fd84ac84fdacfdacacfd84fd844f174ffd4facacac4f4fff9084ff90fd2eff848484fdfd84ff8f8f61ffc07878ff617878788f178f17e517fde5d7fdfdd7e5d7d7fdfd844f9898fdffacacac4f4fff90844ffdfd4f4f8490acac84acacac2e842e84ac2efdac69453a3a3d3d3a3a3a074545450707073a07f707f70707070707070707070707e9cee9e96ccee998e913e9ff07516ce9136c0707ff07070707070707070707078d8d33be169b62d3e107330733a0077171efefaf71717107070707070707070784179884ff84e590980808e5088f781717786f2121d1e4e4e49021ff90e390902e2e2e068f0606068f1764ffe8fd74fdfffdfdd7fd90848484ac84fdff84acac4f908484fdfd17fd1717fd848484ac2e2e4f902e4f84fdfd4fac8484848484fd2e41ffd1d161d178788f6b548f8f8f8f8f54e5fdfffdd7d774908484fd74fdfdfdfdfd8484ac4ffd4f909898984f4ffdac90acacfd84fd2eac2eacac112eac843d69ae313d453a073a07073d3a073af7f7f7f7f7f70707070707070707070707ce97e9e9e9e99de998989807e9e9e9e998130707070707070707070707070707a4d32ca4629b927d693507f707a0a0f2efeff2f20771070707070707070707078498849884e598e598985d8f0817088f17e421e4e4e417e4787878e4782e784c2e2e2e2e8f8f0654ff06c064fde57474ff84d7fd84ffacacacff8490ffffff84fdacfd8484ac84176b4ffd4f1717844facff2e4f4ffd84fd844f2eac4f2e84842e8f8f6f78ff78ff8f8f6b788fff6b8f548f06e5ffffe5e5fde5fd84d784840998fdfdff8498d7d79898984ffd4f4f4f8484ac84acacacacac90fd842eff8484ae453a3d0c453a073a07073a073a3a070707f7f7070707f70707070707070707cee96ccee998e9e9e9e96ce9e951e907e9e907076c07e9131307070707070707f0f0a4626234f02c2c8d078cffa00745071ceff207ef07070707710707070707989884909898ffff08e508e5ff5d78786f17e421212178782e7878ff78c62e2e782ee390066b8f06e5c00606fdfd74fd",
+      "text_jp": "ょg……麹GG硬g麹材GgGGg材護ぬょgょGGGょょ<CMD_90>財デgん<CMD_84>硬gg財ヅヅス<CMD_c0>ヤヤ<CMD_61>ヤヤヤヅぬヅぬ%ぬg%…gg…%……gg護ピピg<CMD_ac>GGょょ<CMD_90>護ggょょ膏GG麹GGん戸麹んgGナぷぢぢどどぢぢぢきぷぷぷきききぢきaきaききききききききききき★・★★ネ・★ピ★て★<CMD_07>ゎネ★てネきき<CMD_07>ききききききききききダダごYにポセ<-きごきごォきヘヘ▲▲Jヘヘヘききききききききき原ピ財哉デピくく%くヅヤぬぬヤヒむむ!÷÷÷デむ<CMD_90>×デデんんんかヅかかかヅぬタ<CMD_e8>gミg<CHOICE id=253>…gデ硬麹材<CMD_84>GGょデ硬ggぬgぬぬg硬麹んんょデんょ材gょG硬硬材んべ<CMD_d1>!ス!ヤヤヅヌオヅヅヅヅヅオ%g<CHOICE id=215>…ミデ硬gミggggg硬GょgょデピピピょょgGデGGg材んGんGGちんG顧ナIぐどぷぢきぢききどぢきぢaaaaaaききききききききききき・パ★★★★ィ★ピピピき★★★★ピてききききききききききききききッ<わッセポバルナじきaきォォ♡▲▲♡♡きヘきききききききききき郊郊哉ピ%ピピケヅくぬくヅぬ÷む÷÷÷ぬ÷ヤヤヤ÷ヤんヤぉんんんんヅヅかオ<CMD_06>0タg%ミミ<CMD_84>…g財GGG<CMD_84>デ<CMD_84>gGg硬G原ヌょgょぬぬ護G<CMD_2e>ょょg材護んGょん硬んヅヅヒヤ<CMD_78><CMD_8f>ヅヌヤヅ<CMD_6b>ヅオヅか%<CMD_e5>%g%g査硬けピgg<CMD_84>ピ……ピピピょgょょょ硬G麹GGGGデg戸<CMD_84>刻ぷぢどしぷぢきぢききぢきぢぢきききaaきききaきききききききき・★ネ・★ピ★★★★ネ★★ゎ★き★★ききネき★ててききききききき※※ッセセざ※わわダきゾ<CMD_a0>きぷきふ▲♡き▲ききききヘきききききピピ膏ピピ<CMD_08>%く%<CMD_5d>ヤヤヒぬ÷むむむヤヤんヤヤ<CMD_78>6んんヤん×デかヌヅか%0かかggミg",
+      "translation_en": ""
+    },
+    {
+      "id": 22,
+      "offset": 154896,
+      "length_bytes": 768,
+      "raw_hex": "4ffd84fd844f2eac4f2e84842e8f8f6f78ff78ff8f8f6b788fff6b8f548f06e5ffffe5e5fde5fd84d784840998fdfdff8498d7d79898984ffd4f4f4f8484ac84acacacacac90fd842eff8484ae453a3d0c453a073a07073a073a3a070707f7f7070707f70707070707070707cee96ccee998e9e9e9e96ce9e951e907e9e907076c07e9131307070707070707f0f0a4626234f02c2c8d078cffa00745071ceff207ef07070707710707070707989884909898ffff08e508e5ff5d78786f17e421212178782e7878ff78c62e2e782ee390066b8f06e5c00606fdfd74fdd7d784fdfd8484fdfdacfdff0684848484844f84fd4f844f174f4f174f6b17174ffd4f84fffdfd844f4f4facac06842e78788f8fffe4ffe42e782e8f066b8f068f6b06ff78e5e5e506646464ffff098409744f98989898984f98989898984ffdacac84acfdacacfdfdac98ff90ac2e84e1454a4a453a45073d0707073a073af73a07f7f707070707070707070707070751cee96ce9ce13e96ce9e9ffe9516ce9510798070713070707070707070707076df08a8a5f5be12cdc8d8c8c434345071cef45074545efef070707074507070784849808849898989808ff08088f216fe46f212121b221b2ff215d2178b2ff2e782ee32e90066bd18fc0c0c0e5fdfd84fd74a8d78484d7ff84acff84acff848484ff8406844f4f174f84174f84174f171784174f4f4ffd4f90fd84ac842e4f4f782e786f2ee4e4e4d1e4ff6b786b6bff8f6bff788f8f54e506ff0690e509ff84848474ff9898984f844f984f9898fd4fac84acacfdacac98acac9d908484ac843a1f4545456dae07ae3aae074507073a3a07f707f70707f707070707070707074fcecea86c6ce9ffe9e99813e913075107980707070707070707070707070707895bfc1a7389695be23da2c687ff3a45efefff07ff07070707450771070707078498ff98849808fffd0806788f21c6212e216f212121782aff2a2a2106fd78b278787878902e2ed106e506e5c0e5fd84747484d7fd8484fffd84ffff84844f8484844f4f8484848484844f4f1717171717174f84",
+      "text_jp": "ょg材護んGょん硬んヅヅヒヤ<CMD_78><CMD_8f>ヅヌヤヅ<CMD_6b>ヅオヅか%<CMD_e5>%g%g査硬けピgg<CMD_84>ピ……ピピピょgょょょ硬G麹GGGGデg戸<CMD_84>刻ぷぢどしぷぢきぢききぢきぢぢきききaaきききaきききききききき・★ネ・★ピ★★★★ネ★★ゎ★き★★ききネき★ててききききききき※※ッセセざ※わわダきゾ<CMD_a0>きぷきふ▲♡き▲ききききヘきききききピピ膏ピピ<CMD_08>%く%<CMD_5d>ヤヤヒぬ÷むむむヤヤんヤヤ<CMD_78>6んんヤん×デかヌヅか%0かかggミg……材g硬ggGg<CMD_06>硬硬護材ょ護ぬょょぬょヌぬぬょgょ財gg護ょょGGか戸ヤヤヅヅ<CMD_e4><CMD_e4>んヤんヅかヌヅかヅヌか<CMD_78>%%%かタタタ<CMD_09>絹ミょピピピピピょピピピピピょgGG麹gGGggGピ<CMD_90>Gん債ぷぅぅぷぢぷきどきききぢきぢaぢきaaききききききききききききゎ・★ネ★・て★ネ★★<CMD_e9>ゎネ★ゎきピききてききききききききききノ※ズズサキ-わ『ダゾゾぱぱぷきふ▲ぷきぷぷ▲▲ききききぷききき硬ピく郊ピピピく<CMD_08>くヅむヒ÷ヒむむむMむM<CMD_21>ケむヤM<CMD_2e>ヤん×んデかヌ!ヅ000%gg材ミC…硬…<CMD_84>G<CMD_84>G<CMD_84>硬<CMD_84>か護ょぬょ原ょ原ょぬぬ原ょょょgょデg麹戸ょょヤんヤヒん÷÷÷!÷<CMD_6b>ヤヌヌ<CMD_8f>ヌ<CMD_78>ヅヅオ%か<CMD_06>デ%け<CMD_84>硬ミ<CMD_98>ピピょ護ピょピピgょG麹GgGGピGGィデ硬G跨まぷぷぷノIきIぢIきぷききぢぢきaきaききaききききききききょ・・Cネネ★<CMD_e9>★ピて★てきゎきピききききききききききききききジキfはマジナキ±どュ6択ぢぷ▲▲<CMD_07><CMD_07>きききぷきヘきききき郊<CMD_98>郊く<CHOICE id=8>かヤヅむ6むんむヒむむむヤれ<CMD_2a>れむかgヤMヤヤヤヤデんん!か%か%0%g控ミ査g硬<CHOICE id=132><CMD_84>護硬護ょ硬硬硬ょょぬぬぬぬぬぬょ",
+      "translation_en": ""
+    },
+    {
+      "id": 23,
+      "offset": 155475,
+      "length_bytes": 768,
+      "raw_hex": "98acac9d908484ac843a1f4545456dae07ae3aae074507073a3a07f707f70707f707070707070707074fcecea86c6ce9ffe9e99813e913075107980707070707070707070707070707895bfc1a7389695be23da2c687ff3a45efefff07ff07070707450771070707078498ff98849808fffd0806788f21c6212e216f212121782aff2a2a2106fd78b278787878902e2ed106e506e5c0e5fd84747484d7fd8484fffd84ffff84844f8484844f4f8484848484844f4f1717171717174f84acfd4f4ffdfdfd2e4f2ed44f78e42ee4e4e4ffe4e3e3e46b6b6b2e2e066bff8f8f8fc0060606e5e5090909099817d7849898844ffd84fd984f984f4fac4ffdacacacacfffdd7ffffd7064ffd45ae45ae4535aeaeae0707073a3a3a3a3a07f7f70707070707070707070707076cff13ce51ce6c98ff6ce9e9e96c0707070707e99807131307070707070707071bd93eff6e5873bf8a45a6088c7171efefffefffff070771454545070707070798989898909884080898172106212e212e2ec6212ec85de4c6e4e45d21fffd2a09782e2ec82ed1e48fe554c006e5e584fd8484fdfd848484ffac06fd84fdfdfd844f848406ac4f844f4ffd4f17844f1706fd174f4f844f84842e2e84062e4f2e096fe4e4e4e4e490e3906c2e906b2e062e6b782e0606068f8f0654ff54ff989817fd84e8e8987490fdfdd74f84848484fdfdacfdfdd78498ffd706fdfd8406fdae1f89ae454545ae0707ae07f73af7073a3a070707070707070707070707070713ff51ff51ce6cce6ce9e951cee9136c1307e907ff070713131307e9075107078989df477345ff457145ffa63a3a71ef45450707070707070745070707450707989017849090982121085d5d21212e17211717172182c6e4e45dca5de4d4ff09e45d2e2e092e902e0628e5d1e5fde584fd33fdfdfd84fdfdfd84acfdfd848484844f064f84ac8484842e844f8417844f174f1717174f2e2e4ffdfd4f2e4f4f4fe4e3e4e4e4c8e42be4e4e4e4092e78e4062e6b062e066b8f068f7878989898e5989898e51774989884744f4f4f4fff8484fdfdfdd784fd",
+      "text_jp": "ピGGィデ硬G跨まぷぷぷノIきIぢIきぷききぢぢきaきaききaききききききききょ・・Cネネ★<CMD_e9>★ピて★てきゎきピききききききききききききききジキfはマジナキ±どュ6択ぢぷ▲▲<CMD_07><CMD_07>きききぷきヘきききき郊<CMD_98>郊く<CHOICE id=8>かヤヅむ6むんむヒむむむヤれ<CMD_2a>れむかgヤMヤヤヤヤデんん!か%か%0%g控ミ査g硬<CHOICE id=132><CMD_84>護硬護ょ硬硬硬ょょぬぬぬぬぬぬょ麹gょょgggんょん-ょヤ÷ん÷÷÷<CMD_e4>××÷ヌヌヌんんかヌ<CMD_8f>ヅヅ0かかか%%けけけけピぬ…郊ピ護g材ピょピょょGょgGGGG<CHOICE id=215><CMD_d7>かょgぷIぷIぷじIIIきききぢぢぢぢぢきaaききききききききききききネ<CMD_13>・ゎ・ネピ<CMD_6c>★★★ネききききき★ピきててききききききききひ)ば<CMD_6e>エマZズぷAくゾヘヘ▲▲<CMD_ef><CMD_07>きヘぷぷぷきききききピピピピデピ硯くピぬむかむんむんん6むん8ケ÷6÷÷ケむ<CHOICE id=42>けヤんん8ん!÷ヅ%オ0か%%材硬gg硬財Gかg材gg護硬かGょ護ょgょぬ護ぬかgぬょょ護硬んん献んょんけヒ÷÷÷÷÷デ×デネんデヌんかんヌヤんかかかヅヅかオ<CMD_54><CMD_98>ピぬg宰☆ピミデgg…ょ硬硬ggGgg…郊<CMD_d7>かgg献gIまジIぷぷぷIききIきaぢaきぢぢききききききききききききききて<CMD_51><CMD_51>・ネ・ネ★★ゎ・★てネてき★き<CMD_07>きてててき★きゎききジジ】ぽマぷ<CMD_45>ヘぷ<CMD_a6>ぢぢヘ▲ぷぷきききききききぷきききぷききピデぬ膏デピむむくケケむむんぬむぬぬぬむ丸÷÷ケ/ケ÷-<CMD_09>÷ケんんけんデんかり%!%g%材ごggg材gg麹gg硬硬ょかょ麹硬戸護原護ぬょぬぬぬょんんょggょんょょょ÷×÷÷÷8÷ろ÷÷÷÷けんヤ÷かんヌかんかヌヅかヅヤヤピピピ%ピピピ%ぬミピピ控ょょょょ<CMD_84>材gg…材",
+      "translation_en": ""
+    },
+    {
+      "id": 24,
+      "offset": 156228,
+      "length_bytes": 768,
+      "raw_hex": "84744f4f4f4fff8484fdfdfdd784fd06fd8484fd0606d70645f04545454aaee1ae07073a0707f7f707070707f7f707070707070707070707cec513ce6c136cce6c13e96ce9ff07130713070707070707e9070707070707073e1b475079c8ffffffffff08ff3a2b9e450745ef07ef45450707070707070707981798908417219017210621ff2190171717212121845de4e4e4e4c6e44ce4e4e4d42e2e2e092e2e8f8f8fe5c0fd84e5438484d784fdfdfd4f84ac4cac84acac848484844f844f84844facacac1717171784174f17172e2e84fd4f2e2eac4fffe4e4ffffffffffb2ffb22e09092e9078e32e2e2e2e6b8f2e6b068f8f8f5d069898989817981784d7fffdff7484fdd74ffd8484d7d7d7fdfd4fd7d72ed784d753f045bc4545aeae55070707f7070707f707f70707070707f70707070707070707e081ce98ce6c51516cce6ce9980713130707070798e907989807070707ff07071bda474a0569ff71ff45458cfff2ff4545efef450707efff0707450707070707908417179090840821ff061706909017172178822182e45de4c6b2e4b2e4e45d5d5d09782eff2e2eff8fe5e506e5fdfdfdfda8fda8d74f84acacac4c4c4c4c8484ac844c84848484842e2e2e172e4f17844f2e172e2e2e84ac2e982e4c98d4845dff6fe4b2b2ff2e2eb2b278ff092b2e090909902e2e90902e8f8f8f6b8f06e598c054f1fdfffffdff844cfdfd84d7d784d7848484d74f84d7d7d7fd84d7fd846d45450a3e55691f07070707070707f7f707f707f7070707f707070707070707cece516c515151ff6c51513f130707071307070707ffe951075198070707070701dad2bc1f5e71d5ff27a6ffaaca8aff719f070707ff07070745070707070707989898849017989098172106212e90ffff78212121e4e4ff58ffb2ff586fe4e4e45de4782e2e2e068f8f8f285406fd8484d7fdfdd7d7d7ff4f844fac4c4cacac844c84ff844f842e4f2e172e2e2e2e842eff2e2e2eac2e2e2e2e2ed72e84982ee4ffe4b2b2b2b284c8b25d78090909ffc8c82b092e2e2e2e6c902effd19806060628e5fdf1f1fd4c",
+      "text_jp": "控ょょょょ<CMD_84>材gg…材かg硬gかか…かぷ※ぷぷぷぅI-Iききぢききaaききききaaきききききききききき・5て・ネてネ・ネて★ネ★<CMD_07>てきてきききききき★きききききききばひぽっユ8<CMD_08><CMD_3a>ろゥぷきぷ▲き▲ぷぷききききききききピぬピデ原むデぬむかむ<CMD_21>デぬぬぬむむむ厚÷÷÷÷6÷ぉ÷÷÷-んんんけんんヅヅヅ%0g哉ぱ硬…材ggょ麹ぉG麹G硬硬ょ護硬ょGGGぬぬぬぬ原ょぬぬんん材ょんんGょ<CMD_e4>÷<CMD_b2><CMD_b2>んけけんデヤ×んんんんヌヅんヌかヅヅヅケかピピピピぬピぬ査<CHOICE id=255>ミ材…ょg硬………ggょ……ん…査ノ※ぷWぷぷIIアきききaきききaきaきききききaきききききききき+押ピ・ネゎゎネ・ネ★ピきててききききピ★きピピきききき<CMD_07>きひ「ぽぅおナ<CMD_71><CMD_45>ぷゾ<CMD_f2><CMD_45>ぷ▲▲ぷきき▲<CMD_07>きぷきききききデ原ぬデデ硯む<CMD_06>ぬかデデぬぬむヤ塊既ケ÷6M÷M÷÷ケケケけヤん<CMD_2e>ん<CMD_8f>%%か%ggggCgC…ょ麹GGぉぉぉぉ硬G碁硬硬戸んんぬんょぬ護んぬんんん麹んピんぉピ-厚<CMD_6f>÷MM<CMD_2e>んMMヤ<CMD_09>ろんけけけデんんデデんヅヅヅヌヅか%ピ0オ=g<CHOICE id=255>碁gg査…査硬査ょ査……g査g庚ぷぷこばアナまきききききききaaきaきaきききaききききききき・・ゎネゎゎゎ<CMD_6c>ゎゎびてきききてきききき<CMD_e9>ゎきゎピきききききあ「*Wまコヘ,<CMD_27>A<CMD_aa>/ズ<CMD_71>ェききき<CMD_07>ききぷききききききピピピ膏ぬピデピぬむかむんデ<CMD_78>むむむ÷÷<CMD_58><CMD_b2><CMD_58>ヒ÷÷÷ケ÷ヤんんんかヅヅヅりオかg硬…gg………<CMD_4f>護GぉぉGG碁財護戸ょんぬんんんん戸<CMD_2e>んんGんんんんん…ん郊ん÷<CMD_e4>MMMM昆Mケヤけけけ<CMD_c8>8ろけんんんんネデん<CMD_d1>ピかかかり%g==gぉ",
+      "translation_en": ""
+    },
+    {
+      "id": 25,
+      "offset": 168224,
+      "length_bytes": 257,
+      "raw_hex": "2a86866b6bffd7d785d7d7173a91173a3a3aff64ba6f85ecec6fec6f6f6f857f6f9c6f6fec6fb7ec7acf33ec994b6f4bffcf064eeccf83ec83ffff2cd37b07070707070707070707070707070707070707070707070707070707073bffcb3b3b3baa71ff07cece0764ce6407cecece070707073b07070707070707bcbc05bc4adf5ad2050707070707070707070707070707070707070707070707ff2aff6b6b6b2a9898ecff2aecffec98ec986b6bff6b6b6bec6becffffd864d8d817d8d8dd646b6437fc436b6b836b6bff4e8391ffff6bff912e4e4e6b2e0664d82e6b3a2aff2a6b6b6b6b6bf12a856b6bb26bec6b6b6b6bececcfe3cf73ec2ad8853a3afffc",
+      "text_jp": "れ擾ヌヌ<CMD_d7>…周…ぬぢドぬぢぢぢ<CMD_64>Uヒ週□ヒ□ヒヒヒ痔ヒァヒヒ□ヒR□ヨ。ご□プぇヒぇ<CMD_cf>かゅ□。潔懸<CMD_2c><ラきききききききききききききききききききききききききききききづ<CMD_cb>づづづEヘ<CMD_07>・・きタ・タき・・・ききききづきききききききWWおWぅ】カ*おききききききききききききききききききききききき<CMD_2a><CMD_6b>ヌヌれピピ□<CMD_2a>□<CMD_ec>ピ□ピヌヌ<CMD_6b>ヌヌ□ヌ□<CMD_d8>タ((ぬ((』タヌタぜfぱヌヌ尭ヌ<CMD_4e>苦<CMD_6b><CMD_91>んゅゅヌんかタ(んヌぢれ<CMD_2a>ヌヌヌヌヌ=れ諮ヌMヌ□ヌヌヌヌ□□。×。マ□れ(賛ぢ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 26,
+      "offset": 172757,
+      "length_bytes": 257,
+      "raw_hex": "85629191ffffffb9ecec622e422efcb22eb2b22effb260b2b2b2609191b2ffffffb2ecb2b2b22a60602a2a912af12afff160b2b2b2b2b260b260b2a360d8fff4ff9182d8d891d8d8d8ecd8ecececd8d8ecd8ecec9191859133ecec918585ff9160919191913a5091ec91ecb7a5eca8b7ecececececececec2aa8b7b7b7ffecffecec9494b7ff5bd32c69695b070707070707070707070707070707070707070707070707070720ff20af46e90d460d3346e90766e90d0d333fff2007ff0707ff07ff07070707d247d21b471b1f07070707070707070707070707070707070707070707070707ffec98ff85ffff85ffffff85fff485fff48591ecf4fffffffffffc",
+      "text_jp": "紫ドド<CMD_b9>□□セんぼんfMんMMん<CMD_b2>シMMMシドドM<CMD_b2>□MMMれシシれれドれ=れ<CMD_f1>シMMMMMシMシMョシ(<CMD_f4><CMD_91>器(ド(((□(□□□((□(□□ドド叱ご□□ド蒔<CMD_91>シドドドドぢっド□ド□Rヮ□CR□□□□□□□□れCRRR<CMD_ec><CMD_ec>□ブブR<CMD_5b><わナナキききききききききききききききききききききききききききみ<CMD_20>Jぺ★すぺすごぺ★きツ★すすごび<CMD_20>き<CMD_07>き<CMD_07><CMD_07>ききき*ぽ*ひぽひまききききききききききききききききききききききききき<CMD_ec>ピ<CMD_85><CMD_85><CMD_85><CMD_f4>夙♀叱□♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 27,
+      "offset": 173643,
+      "length_bytes": 768,
+      "raw_hex": "ecd5ecd8ff60d8ffecffd8ecffecffb7ffa4424234351f5ba407070707070707070707070707070707070707070707070796ffaf9696ffff962096ff203f522096960707070707fe9781810707073607461fea4a89df0ac40707070707070707070707070707070707070707070707070791ff9191919185859191ffffa59185859191f4ec91ecececf4a5ecd8ecd8ecffd8b9b9acf9b27676acacfcb2b2ffb2b22effff2eff2e2e2eacb2d8b2acffacac7c91acacacffa5a5b260ff60ffff609c7cd37d5b5ec86d56cdc882c883c811ecec91ececd8129191ecd891ecd8d8ecd885ecd8d8ececec91d8d8d885d8d8ff913a91d83a91a5d8d8d8ffffffa5a5ecfff588d8ffffffecd860ecececa5a5ffb792425c6a92e17d7b7b07070707070707070707070707070707070707070707077f181818fe18203318331820184107969696961807fe078107070707070707075e05693ed2471b07070707070707070707070707070707070707070707070707ffff919191ffff91ffffecececff85eca5f4ecf4ececd8ffecececd8f4f4d8d8ffd8429bb2ddb256d85643b2acffb2b2ffb2ffffffb2d8d886ac5fd8b2b291d8d860acc333acffa560ffd86060ffb29cd8a460d835a3f0565683c864ab999999ececec86de43ffffd8ffecd8ececffffec2a56ecececd8d83a91d83aff91ffd83a8891d8d8d8f5d8d8a5a5a5ffffffff5656a55056ffa5ff86ecffeca5ffb791de429bdd4262d37d231d0707070707070707070707070707070707070707070720ff18a8d518ff1818ffff3333aaff18960707980754fe0781078107073607075b5f9e3ebc1bdf0707070707070707070707070707070707070707070707070791919185ff9191ffff91ec91ecf4fff4ffffffecf4ececececf4d8ecf4f4d8ffff9142de5691565cb256b2acfff4b2b283b26456ff56b2b235f0d8acacacacacd8d8acac4360d8ffd8606060ffffffab7cd8d8d86d562c8233c8ff992b99999985d8ecd8ececffecffec56ececec56ec562a172afcecffffff85ff9191ffffffc3d8d8d8d8915656ff5656ffa556ff",
+      "text_jp": "□,□(<CMD_60>(<CMD_ec><CMD_d8>□<CMD_ec><CMD_b7><CMD_a4>ぼぼざじまキッききききききききききききききききききききききききボ<CMD_af>ボボ<CMD_96>みボ<CMD_20>びヴみボボきききききhパ渦きききずきぺま○ぅジ】こ4きききききききききききききききききききききききききド<CMD_91>ドドド蒔ドド<CMD_a5>ド蒔ドド♀□ド□□□♀ヮ□(□(□<CMD_d8>TTGcMメメGGfMM<CMD_b2>Mん<CMD_2e><CMD_2e>んんGM(MG<CMD_ac>GリドGGG<CMD_a5>ヮMシ<CMD_60><CMD_60>ァリ<ルキコ8ノイ.8岸慧ち□□ド□□(つドド□(ド□((□(週((□□□ド(((宗(<CMD_91>ぢド(ぢドヮ(((<CMD_a5>ヮ□<LINE>ザ(<CMD_ec>(シ□□□ヮヮ<CMD_b7>バぼクニバ-ルララきききききききききききききききききききききききロねねねhねみごねごねみねべきボボボボねきhきqきききききききコおナば*ぽひききききききききききききききききききききききききき<CMD_91>ドド<CMD_91><CMD_ec>□□<CMD_85>□ヮ♀□♀□□(<CMD_ec>□□(♀♀((<CMD_d8>ぼポM』Mイ(イぱMG<CMD_b2>M<CMD_b2><CMD_b2>((森サ(MMド((シG3ごG<CMD_a5>シ<CMD_d8>シシ<CMD_b2>ァ(ッシ(じョ※イイ慧タFプププ□□□遂ぱ<CMD_d8><CMD_ec>(□□<CMD_ec>れイ□□□((ぢド(ぢ<CMD_91><CMD_d8>ぢザド(((♂((ヮヮヮ<CMD_56>イヮっイ<CMD_a5><CMD_86>□<CMD_ec>ヮ<CMD_b7>ド【ぼポ』ぼセ<ルもへききききききききききききききききききききききみ<CMD_18>C,ね<CMD_18>ね<CMD_33>ごE<CMD_18>ボききピきオhきqqきずききキサゥばWひ】きききききききききききききききききききききききききドドド夙ドド<CMD_91>□ド□♀<CMD_f4><CMD_ec>♀□□□□♀(□♀♀(<CMD_91>ぼ【イドイクMイMG<CMD_f4>MM君タイ<CMD_56>MMじ※(GGGGG((GGぱシ(<CMD_d8>シシシ<CMD_ab>リ(((ノイわ絵8<CMD_99>ろプププ宗□(□□<CMD_ec><CMD_ec>イ□□□イ□イれぬれf□<CMD_85><CMD_91>ド<CMD_c3>((((ドイイ<CMD_56>イ<CMD_a5>イ",
+      "translation_en": ""
+    },
+    {
+      "id": 28,
+      "offset": 174602,
+      "length_bytes": 257,
+      "raw_hex": "865f928656565683839999c89999996060ec56d8ecde56eca8ffff83d8ecececececec2a5643ffffffffff3a3a9191919191d89191d85656cd83ff8383ff83ff87a5a5a583ffffa5ffffa5eca5a5ffecff4242f9a16a1242dc7b9b24dede9b230707070707070707070707070707070707d536e0363fff3607ff18d533331833981833ff07ffa8141433ff070707070707b9dd622c495ebc4a0707070707070707070707070707070707070707070707079191919191ffff91ff919191ec918591ec85f4f4fff4f4ececececf4ecf491f4ff91426a83de83426464ffffff99ffb2ffffb29364ffffb28317177cacaca391d8915b7c3760d8d8d8ff9160d8fffffc",
+      "text_jp": "省バ樵イイ衿ププ8プププシシ□イ(□【イ□C<CMD_83>(□□□□□□れイぱ<CMD_3a>ぢドドドドド(ドド(イイ.懸衿<CMD_83><CMD_87>ヮヮヮ懸<CMD_a5><CMD_a5>□ヮヮ<CMD_ec><CMD_42>ぼcャニつぼ『ラポや【【ポもききききききききききききききききき,ず+ずび<CMD_36>き<CMD_18>,ごごねごピねご<CMD_07><CMD_a8>ととご<CMD_07>きききききT』セわぃコWぅききききききききききききききききききききききききドドドドド<CMD_91><CMD_91>ドド□ド叱□十♀<CMD_f4>♀□□□□♀□♀ド♀<CMD_91>ぼニ頚魚タタ<CMD_99><CMD_b2><CMD_b2>ビタ<CMD_b2>黍ぬリGGョド(ドキリぜシ(((<CMD_91>シ(<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 29,
+      "offset": 175941,
+      "length_bytes": 767,
+      "raw_hex": "2a2aff6060868686ff2affffffffffff86ecececececb6b60bc10b0b0b320b0b0b0b480b0bd63232320b3232320b480b7e0b32323232cbff6c206c3f2054334633333333070714070743a21414c414140707070707073232b6047575eded7504b648b6480b320bc13232c1c1c13232320b0b48b60b07d8f791ffd8f7fffff7ffffffffffffd8ffffffffffffffffffd850d8f95f6112a8336264ae99606ab9648664869393ff64ff93ff64ffffecff60aeffae64cb9b649c91e1c3563356ff56cdffcd4e8387cd999999995b5b8a86ff8693ffff4e4eff4e4e949494f4ecececec3aecececec4e3a4e9393ff86ffffffffff99ffffffd8f7f7ffd8f7ffff91fff3ffff9933d89999999999995f6243d8ffd8994e9937d8929b993861f3ececececececececaeaa7f50a3cdececec56ffec85ececec8585ec8585999cffecaea5a52a2aa58686a386a5ffffa5ffffffffffffa5a5eca5ececec60ffffececec56f35687f456eccdf4ececf4ec33ececececf437f456f4ffd8fff7ffffd8f7ffd8ffffffffffd8d8d8ffffffd8ffffff1a5062f95fabb9645c99aeae60606064f493f49393ffff74ff646464ff866460606464ffae339964e164e1cd64f34e91ffffffffcd4e8734f994e1aea3609ee386ffff93e34eff4e94946794ecececececececececec94ecf4ec4eec93ffffffffffff60ffffffffd860f760ffd8f7ffd8fff360aef3d8d8d8dd9992d899cb43a8ffa8d8ffd8aed8abaeb9d8deec43ff43ffaeffececec85ec99cdcdcdff85ecffffffecffecec8585858599ecaeffffa8a8eca5eca58693a5939393ffff9393a5ff93ecec34ecececffffececececec56aa56a256cdeccdcd9999ecec99ecececf4ecf4cd37f4ffffffffffffffffffffffd8ffffd8ffffd8d8ffffffffd8ffaa565656a4ab1acd42f9f4f46064606493de649374ffffff744593ffffffff64ff60ff6060aeae5064644ec36434cdcdcdcd4e4e94ff949994aeae60607d493393ffffff4eff4e6767ffecececec41ececececececec3aec3af4ffecf493938686ffffffff606060ffffffffffffffff",
+      "text_jp": "れれ<CMD_60>シ擾成れ<CMD_86>□□□□□QQさ1さささげささささぁささ'げげげさげげげさぁさレさげげげげ:<CMD_6c>みネびみオごぺごごごごききとききぱュとと4ととききききききげげQえムム■■ムえQぁQぁさげさ1げげ111げげげささぁQさき(aド<CMD_d8>a<CMD_f7><CMD_d8><CMD_d8>っ(cサスつCごセタIプシニTタ章飾ビ<CMD_64><CMD_93><CMD_64><CMD_ec><CMD_60>I<CMD_ae>タ:ポタァド-3イごイ<CMD_56>.<CMD_cd>ゅ金.ププププキキズ成飾<CMD_4e>ゅ<CMD_4e>ゅブブブ♀□□□□ぢ□□□□ゅぢゅビビ<CMD_86><CMD_99><CMD_d8>aa<CMD_d8>a<CMD_91><CMD_f3><CMD_99>ご(ププププププサセぱ(<CMD_d8>プゅプぜ(バポプぞス$□□□□□□□□IEロっョ.□□□イ<CMD_ec>週□□蒔□蒔プァ<CMD_ec>Iヮヮれれヮ擾ョ寝<CMD_a5><CMD_a5>ヮ□ヮ□□□シ<CMD_ec>□□イ$イ大イ□.♀□□♀□ご□□□□♀ぜ♀イ♀<CMD_d8><CMD_f7><CMD_d8>a<CMD_d8><CMD_d8>((<CMD_d8><CMD_1a>っセcサFTタクプIIシシシタ♀ビ♀ビビ<CMD_74><CMD_64>タタ<CMD_86>タシシタタ<CMD_ae>ごプタ-タ-.タ$ゅド<CMD_cd>ゅ雪cブ-Iョシゥ×成<CMD_93>×ゅ<CMD_4e>ブブテブ□□□□□□□□□□ブ□♀□ゅ□ビ<CMD_60><CMD_d8>シaシ<CMD_d8>a<CMD_d8><CMD_f3>シI$(((』プバ(プ:ぱC<CMD_a8>(<CMD_d8>I(FIT(【□ぱ<CMD_43><CMD_ae><CMD_ec>□□週プ...<CMD_85>□<CMD_ec><CMD_ec>□蒔蒔プ□I<CMD_a8>C□ヮ□ヮ飾ヮビビビ<CMD_93>ビヮ<CMD_93>□□ざ□□□<CMD_ec>□□□□イEイュイ.□..ププ□□プ□□□♀□♀.ぜ♀<CMD_d8><CMD_d8><CMD_d8>(<CMD_d8><CMD_aa>イイイッFは.ぼc♀♀シタシタビ【タビミ<CMD_74>ぷビ<CMD_64><CMD_60><CMD_60>シIIっタタゅ3タざ....ゅゅブ<CMD_94>プブIIシシルぃごビ<CMD_4e><CMD_4e>テテ<CMD_ec>□□□べ□□□□□□□ぢ□ぢ♀<CMD_ec>♀ビビ擾<CMD_60>シシ",
+      "translation_en": ""
+    },
+    {
+      "id": 30,
+      "offset": 176709,
+      "length_bytes": 768,
+      "raw_hex": "60ffd8ff60d860aed8d8aeae4ea4d843a8565656d8d8d8d8d8ae42d8aeececaed8ec85ecec85334343999985cdcdcdffecff56ecffec85ec858599ecececffeca5a5a5a5a5ececa5a5a5a5a5937fff65ff4effffa5a5eca543ffececffffec9e565633565605bcececffff999999f4a8ecec3385cdfcfcfffffffffffffffff7ffffd8ffd8d8d8ffd8ffffffffffff56565656f9cdcdf33342abae60606464f464de64ff4e74ffffff74ff4e45ff9364ecffffff60ffaecb5f64649494ab7f94ff99ff99ffffaeaeaeae60355b606033ffffff4effff672b656794ececececec3a3aececec3a3a3aececffffff93ff9393ffffffff60ffffff60ff86ffff93f7fff3d860d8d8d8b9d8cd6034a4344e56565656ffd8d8d8d860d867d8d8d8fc60ececffaeff85ff9999859985858585ff56ffff56ecececc36dd8d3f0ecec6085ec8585eca57ceca5eca5ffffa533ffa5ffa54ea5a5a5ecf5f3ecec99ffecec49f5aa56f3566dececececffffffecffec9999858533f443ffffffffffffffffffd8ffd8d8d8d8ffd8ffffd8ffffd8ffff565ff9f9cdcdcd9942346060606464dedef4437474ffff74ffff7474ff74ff9393ff8660ffffffaeae946d6494649499949994ff94ff87ae606060606069b0869393ff574eff4e589d949dec37ecffecec3a3aec3aec3a3af4ececf43a4e4e9393ffffff86ffffff86ffffffffffffffd894d8d8d8d886d89460d86034d8a2435633d8d8d8d8d867d8d8d8d8d8d8ececffffecae85ecec4399997fec85eccdcdff5685ffab5becece1d3e185ecececec85858585a5a5ecececa5a5ff4ea5ff41a54ea5a5a5a5a5ececffecececec7c5e6dcdffcda3cd95cdececec99ff9999ecffececa8cd3333d8d8ffffffffd8ffffd8ffffffd8ffd8ffd8d8ffffd8ffffff567ca456cdabcd4399ae649260d3936474de744effb79474ffffb74eff7445453d3dec86ff60ec646464ae6494649464ff60ecececffec6062ec60e15f869533ff73cad558f457cb4194ecec37ececec67ecf4f4ecec3aecececff94ffec4eff939393939393ffd8d893ff9393d8ff93",
+      "text_jp": "シ<CMD_d8><CMD_60>(シI((IIゅッ(ぱCイイイ(((((Iぼ(I□□I(□週□燦ぱぱププ儒..<CMD_ec><CMD_56>□<CMD_ec>週蒔プ□□□<CMD_ec>ヮヮヮヮヮ□□ヮヮヮヮヮビロ<CMD_65><CMD_4e><CMD_a5>ヮ□ヮぱ<CMD_ec>□<CMD_ec>ゥイイごイイおW□□<CMD_99>ププ♀C□□ご儒ff<CMD_f7><CMD_d8><CMD_d8>((<CMD_d8><CMD_56>イイイc..$ごぼFIシシタタ♀タ【タ<CMD_4e>ミ<CMD_74><CMD_4e>ぷ<CMD_93>タ□<CMD_60><CMD_ae>:サタタブブFロブ<CMD_99><CMD_99><CMD_ae>IIIシじキシシご<CMD_4e><CMD_67>ろチテブ□□□□□ぢぢ□□□ぢぢぢ□□<CMD_93><CMD_93>ビ<CMD_60><CMD_60><CMD_86><CMD_93>a<CMD_f3>(シ(((T(.シざッざゅイイイイ<CMD_d8>(((シ(テ(((fシ□□<CMD_ae><CMD_85><CMD_99>プ疾蒔蒔<CMD_56><CMD_56>□□□3ノ(<※□□シ週蒔□ヮリ□ヮ□ヮ<CMD_a5>ご<CMD_a5><CMD_a5>ゅヮヮヮ□♂$□□プ<CMD_ec>□ぃ♂Eイ$イノ□□□□<CMD_ec><CMD_ec>ププ蒔ご♀ぱ<CMD_d8><CMD_d8>(((<CMD_d8><CMD_d8><CMD_d8><CMD_56>サcc...プぼざシシシタタ【【♀ぱミミ<CMD_74><CMD_74>ミ<CMD_74><CMD_93>ビ<CMD_86>シ<CMD_ae>Iブノタブタブプブプブ<CMD_94><CMD_87>IシシシシシナK飾ビ<CMD_57>ゅ<CMD_4e>エィブィ□ぜ□<CMD_ec>□ぢぢ□ぢ□ぢぢ♀□□♀ぢゅゅビビ<CMD_86><CMD_86><CMD_d8>ブ((((水ブシ(シざ(ュぱイご(((((テ((((((□□<CMD_ec>I週□ぱププロ□週..<CMD_56>夙Fキ□□-<-週□□□蒔蒔ヮヮ□□□ヮヮ<CMD_4e>ヮ<CMD_41>ヮゅヮヮヮヮヮ□□<CMD_ec>□□□リコノ.<CMD_cd>ョ.ベ.□□□プ<CMD_99>プ□<CMD_ec>□C.ごご((<CMD_d8><CMD_d8><CMD_d8><CMD_d8><CMD_d8>(<CMD_d8><CMD_56>リッイ.F.ぱプIタバシ<ビタミ【ミゅ<CMD_b7>ブミ<CMD_b7>ゅ<CMD_74>ぷぷどど□成シ□タタタIタブタブタ<CMD_60>□□□<CMD_ec>シセ□シ-サ植ご<CMD_73>/,エ♀ウ:べブ□□ぜ□□□テ□♀♀□□ぢ□□□<CMD_94><CMD_ec>ゅ<CMD_93>ビビビビビ<CMD_d8>(ビ<CMD_93>ビ(<CMD_93>",
+      "translation_en": ""
+    },
+    {
+      "id": 31,
+      "offset": 177464,
+      "length_bytes": 258,
+      "raw_hex": "939393ffd8d893ff9393d8ff93d8ff93ecd8fcd842d8d8861ad8aa37865633d885d8d885676767d8d860d8d8ecececffaeaeaeff99a299eccdec8585ffecffff858569ecec7dec7d99ecffec8585ecec85ff93ececa5ffffffa5aaffffa5a5a54e4e4e4ad593ececffec99ec5ecdcdcd615605cd9eececececffec99ffecff85858585ffffffd8ffffffffffd8ffffffffd8d8ffffffd8ffffd8d85656f756d3cdcdcd4212991a609bde64f0647462fc744eff43ffffb774744e7445743d3d3d933d646060ec647d64646064616060ffff6060649b60f95fab86a38a9337adc8a2ff58f2944bececec9dffececec3df4f4ecececf4ecec94ffffff4effff93fffffc",
+      "text_jp": "ビビビ<CMD_d8>(ビ<CMD_93>ビ(<CMD_93>(<CMD_93>□(f(ぼ((純(Eぜ樵ご(宗(詞テテ((シ((□□□<CMD_ae>II<CMD_99>ュプ□.□蒔<CMD_ec><CMD_85>試□□ル□ルプ□<CMD_ec>蒔□□夙ビ□□ヮ<CMD_a5>E<CMD_a5>ヮヮゅゅゅぅ,ビ□□<CMD_ec>プ□コ...スイお.ゥ□□□□<CMD_ec>プ<CMD_ec><CMD_85>蒔夙<CMD_d8><CMD_d8><CMD_d8>(<CMD_d8><CMD_d8>(イイaイ<...ぼつプはシポ【タ※タミセfミゅ<CMD_43><CMD_b7>ミミゅミぷミどどどビどタシシ□タルタタシタスシシ<CMD_60>シタポシcサF唇ズビぜH8ュ<CMD_58>♡ブぇ□□□ィ<CMD_ec>□□ど♀♀□□□♀□□ブ<CMD_4e><CMD_93><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 32,
+      "offset": 178112,
+      "length_bytes": 767,
+      "raw_hex": "d8ffffffffffffffd8d8ffffd8ffffffffff56ff34f092cdcd34998799ae6464a493d393644e4e4e4374ffb73a3affb774b7944e45454e93933d9364649393ec93ecec93cbec3d3d3dffa29b936493a49349c3ffa27aa2a2a2f4654e9494a6ecececa2ececececf4ecececf4ececf4f4ffffffffff4e93a887ffff4ed8f74effd894ff943d943d4ed8d84e4ed86060ec62a256ec4eecec85cd85856167d86785ec6760d8a24eececec85858585cd8585ffecec858585ff85a3ec5ea5d85be15685ffffffecffecececa31fa2ffa594ffffffffffa8884e94ea61abb9ff85ff85c499996decececa3a3ae699caecdffcdcd60fffffffffff4ffffffd8ffd8fffff5889e08ffffd8d8ffd8ffd83356ff56ff5656f7569192cdcdcdcd99379ba46064937d6493624e4e74a8943a3a94949494b794454e4e454e933d933d6493936464d33d3d643d4e4593453dde933d93935e939393937afff465654e4b6594ff94ecf4ecececf4f4ecf4ecffecffecf4ffececffffff4eff43934effd8ffd8ffff9494949494ffd8d8ffd893d842569356735656f75691eccdcd85cd567c569367566756ececececff858585858585ec85cdec85ffffecff85e16da5a5ec92858585ffffffffececff50ec86a3ff93ffffffff4b948a5e353e94cb50f386fffff39ccbecececec7cec56990556ffae56ffcd43aef4cdf4fff4f4f4ffd8d8ffffffa3f79eaad8d8d8d8f7d8ff565643ffffff56ff56f7f7a4cdcdcdcdb9aaaeae6460e193939374f34e37740894ffffff9494b7b7b74eff454eff9393933d933d3d937c744e744545ff45ff4ede9b4e7d4e4e9b9393c84b4b65ff654e65ff94f494fff4f4ffecf4f4f4f4ececfff4ecffffffa2a8ffff4effcef34e4ed8d8ffffff94f79494d8d8d8d8f7d8425656b9933d93563d56f7f7ffcd85cdcd4e739356f3566750b067a8ecec85ecec8550ec85ecec85ecffffecff562c85a52ca58585858556ffffff99ecff5f6069934b93ff4effff378a1f940a9494944e93fc609385f3ec61ecec857d561f99ececec56aef4aeaefffff4f4ffffffffffffffffff",
+      "text_jp": "(<CMD_d8>(<CMD_d8><CMD_56><CMD_34>※バ..ざプ相Iタタッビ<ビタゅゅゅぱミ<CMD_b7>ぢぢ<CMD_b7>ミRブゅぷぷゅビビどビタタビビ□ビ□□ビ:□どどど<CMD_a2>ポビタビッビぃ3<CMD_a2>ヨュュュ♀チゅブブA□□□ュ□□□□♀□□□♀□□♀♀<CMD_4e>ビC択<CMD_4e>(aゅ<CMD_d8>ブ<CMD_94>どブどゅ((ゅゅ(シシ□セュイ□ゅ□□儒蒔ステ(テ週テシ(ュゅ□□□蒔蒔.蒔<CMD_ec>□蒔夙縞□コヮ(キ-イ夙<CMD_ec><CMD_ec>□□ョまュ<CMD_a5>ブ<CMD_a8>ザゅブ○スFT<CMD_85><CMD_85>4ププノ□□□ョョIナァI.<CMD_cd>.シ<CMD_f4><CMD_d8><CMD_d8><LINE>ザゥく<CMD_d8>(<CMD_d8><CMD_d8>ごイ<CMD_56><CMD_56>イaイドバ....プぜポッシタビルタビセゅゅミCブぢぢブブブブRブぷゅゅぷゅビどビどタビビタタ<どどタどゅぷビぷど【ビどビビコビビビビヨ<CMD_f4>チチゅぇチブ<CMD_94>□♀□□□♀♀□♀□<CMD_ec><CMD_ec>♀<CMD_ec>□<CMD_4e><CMD_43>ビゅ<CMD_d8><CMD_d8><CMD_94>ブブブブ<CMD_d8>(<CMD_d8>ビ(ぼイビイマイイaイド□..儒イリイビテイテイ□□□□<CMD_85>蒔蒔週儒□夙<CMD_ec><CMD_85>-ノヮヮ□バ蒔夙<CMD_ec>□<CMD_50>□唇<CMD_93><CMD_4b>ブズコじばブ:っ$成<CMD_f3>ァ:□□□□リ□イプおイ<CMD_ae>イ<CMD_cd>ぱI♀.♀<CMD_f4>♀♀<CMD_d8>(<CMD_a3>aゥE((((a(<CMD_56>イぱ<CMD_56><CMD_56>aaッ....TEIIタシ-ビビビミ$ゅぜミくブ<CMD_94>ブRRRゅ<CMD_45>ゅ<CMD_93>ビビどビどどビリミゅミぷぷ<CMD_45><CMD_4e>【ポゅルゅゅポビビ8ぇぇチ<CMD_65>ゅチ<CMD_94>♀ブ<CMD_f4>♀<CMD_ec>♀♀♀♀□□<CMD_f4>□<CMD_a2>C<CMD_4e><CMD_ce>$ゅゅ((<CMD_94>aブブ((((a(ぼイイTビどビイどイaa<CMD_cd>儒.ゅマビイ$イテっKテC□□週□師□週□週<CMD_ec><CMD_56>わ写わヮ蒔蒔イ<CMD_99>□<CMD_5f>シナビぇビ<CMD_4e><CMD_37>ズまブこブブブゅビfシビ充□ス□□爾イまプ□□□イI♀II<CMD_f4>♀",
+      "translation_en": ""
+    },
+    {
+      "id": 33,
+      "offset": 179434,
+      "length_bytes": 415,
+      "raw_hex": "4effffffffffffb7b74e94454eff74744e744e45ff45b774b77cb7b73af7ecf7ecb7b7b72374b7c47f3333a83d6433a833a8a865d54e4efff4f4f4fff4fff4f4fff4ffff949494ff434effffff4e4e9b33ff4ef7d8ff4e4eec94eca8f75656425676564e56454e914e4e644ecd4e6767563a939385606067def3674ecd3a4e3ad8853a9343938585a2ff86ff85857da56da57d858599999985cdcdffff9933c36d5e619343ffaa94944e94850e94a8b985d5a285619333ecf3d58556ec8599c3cd85cdcdcd8799c499ff99f4f4f4f4f4f4a5fffffffffff7f75661a8ffff56a8333356cdcdffcdcdffffff647bcdcdcbaa99f399a4f3346060629bdedeaa374efff3ffff454e4e4e4eb74effff45ff7445ff4545744e949494b7b7ec3a3aececf7ececf73af03569d5a8a833333333a857a8f4a8fff441ffff4efff494fff4ff9494ecff94ffffff4e4e4eff93ff93624effff4effff4ef7f7564ea8ec4556b94e4e56cdcd4ecdcd45454e6445676767673a3dec858560676767f3cd854e3a3ad83a8593a29387ffffff85858585d3356de1a5cdcdec56ffaeffffff99fffc",
+      "text_jp": "ゅ<CMD_b7>Rゅブぷゅ<CMD_74>ミゅミゅぷ<CMD_45>RミRリRRぢa□a□RRRもミR4ロごごCどタごCごCCチ,ゅゅ<CMD_f4>♀♀<CMD_f4><CMD_f4>♀<CMD_f4><CMD_94>ブブ<CMD_43>ゅ<CMD_4e>ゅポご<CMD_4e>a(<CMD_4e>ゅ□ブ□Caイイぼイメイゅイぷゅドゅゅタゅ.ゅテテイぢビビ糸シテ【$テゅ.ぢゅぢ(賛ビぱビ蒔ュ<CMD_86><CMD_85>爾ヮノヮル蒔プププ儒.<CMD_99>ご3ノコスビぱ<CMD_aa>ブブゅブ搾ブCT囚ュ紙ビご□$,斯□疾3.儒..相4プ<CMD_99>♀♀♀♀♀♀ヮ<CMD_f7>aイスC<CMD_56>Cごごイ..<CMD_cd>.<CMD_64>ラ..:Eプ$プッ$ざシシセポ【【Eぜゅ<CMD_f3><CMD_45>ゅゅゅゅRゅ<CMD_45><CMD_74>ぷ<CMD_45>ぷミゅブブブRR□ぢぢ□□a□□aぢ※じナ,CCごごごごCウC♀C<CMD_f4>べ<CMD_4e><CMD_f4>ブ<CMD_f4><CMD_94>ブ□<CMD_94><CMD_4e>ゅゅ<CMD_93><CMD_93>セゅ<CMD_4e><CMD_4e>aaイゅC□ぷイTゅゅイ..ゅ..ぷぷゅタぷテテテテぢど□蒔シテテテ$.屍ぢぢ(ぢ失ュビ択<CMD_85>蒔綬じノ-ヮ..□イ<CMD_ae><CMD_99><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 34,
+      "offset": 179847,
+      "length_bytes": 257,
+      "raw_hex": "fc9ca3a3f385fc4e94859485949494ff858585cb8793859343aaec85857d85992ccdcd85cd85d5cb99d899cd999999a5a5a5ffcdfffffffff75b1d1d62a85656565656cdcdc3cdffcdffffffff3464cd6261aa619999f9aea4a460629b869baa37a8ff4effffffffffffffff4eff74744574ff744e4e749494b794ec3a5b3aec3d3d3af7ecf7f7c394944e4e33333364a8a893ffa8ff93f4ffff93ffffff4efffffff4ffffffffffff4eff93ffff93ff93935c4effff934ef75b4e4545a85656565656cdcd42cd45cd45453a454564cd676767568573f373856067676785853a3a85d83a859385a58585ff86855685a5858585a5cdd8d899ffffff56fffffffffc",
+      "text_jp": "fァョョ$重ゅブ嫉嫉ブブ<CMD_85>蒔:槍失ぱE□蒔ル疾わ..儒囚:プ(プ.プププヮヮヮ<CMD_cd><CMD_f7>キへへセCイイイイイ..3.<CMD_cd><CMD_34>タ.セスEスププcIッッシセポ触EぜC<CMD_4e><CMD_4e><CMD_74>ミぷミ<CMD_74>ゅゅミブブRブ□ぢキぢ□どどぢa□aa3ブブゅゅごごごタCCビ<CMD_a8><CMD_93>♀<CMD_93><CMD_4e><CMD_f4><CMD_4e><CMD_93><CMD_93><CMD_93>ビクゅ<CMD_93>ゅaキゅぷぷCイイイイイ..ぼ.ぷ.ぷぷぢぷぷタ.テテテイ侍$マ糸テテテ蒔ぢぢ宗ぢ失写蒔<CMD_86>斯写蒔写.((プ<CMD_56><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 35,
+      "offset": 180168,
+      "length_bytes": 258,
+      "raw_hex": "56cdcdcd33cd8733ffff339964997b9962999b62999b99aeaeaed3f9609b64aa37a8ffffff3d3d4eff4eff4574ff744e74ff74457474b7b79494ececec3a69f7f73a3d3d3a3af7f7b7b750a8a864a8a86493a8a8648686ffff93ffffffffff60ffffffffffffff4effff93ff939393ff93939393334ef79456e1444e625656ff56cdcdcd42cd4545454e589964994e674e993a67679385f36767aef3854e3a3a853a3a3a8585858587578685859393a5351fcd5ec3d899ff99ffff56cdcdffff86605be193f54ec3859c85854e85858585854e938585858685d5ec852c857d856dc4abf4cdcdcdcdf4cdcd33cdf4cdcdffffffffffffff91ffe191d33456fffffffc",
+      "text_jp": "イ...ご.説<CMD_33>プタプラプセプポセプポプIII<cシポタEぜC<CMD_3d>どゅ<CMD_4e><CMD_45>ミ<CMD_74>ゅミ<CMD_74>ぷミミRRブブ□□□ぢナaaぢどどぢぢaaRRっCCタCCタビCCタ擾<CMD_93><CMD_60><CMD_4e><CMD_93><CMD_93>ビビ<CMD_93>ビビビごゅaブイ-ぴゅセイイ<CMD_56>...ぼ.ぷぷぷゅエプタプゅテゅプぢテテビ充テテI$屍ぢぢ賛ぢぢ蒔蒔賎情失ビヮじま.コ3(プ<CMD_99><CMD_56>..<CMD_86>シキ-ビ♂ゅ3蔀蒔ゅ蒔蒔屍ビ蒔辞囚□傘爾賜4F♀....♀..ご.♀..<CMD_91><CMD_e1>ド<ざイ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 36,
+      "offset": 180460,
+      "length_bytes": 765,
+      "raw_hex": "3dffffffff4e74ff4e7474744e7494b7ffb7f7f7ececf73a913a3d3d91913a5bf7353a614574a8a86486ffa864ff6060ff6086ffff9393f4ffffffffffff939393ffff93ffff939393935087604effff91944e914e34564e4e33459bcdcd4599764545583a3a3a45453d67673a678567858567676a8585b93a3a3a3a8585a59393a257858586939385851fa335f0f59956ff56aefff4ff9999ae9c5b6060854e7c855f85854e50ab43ff86a39393f4853385d5cb7c8585852c35f5cd8537f4cdfff4d5cd33cdffffcda5a5ffffffff56ff56e1565656ffffcdffcdcd9933a243ffff4337347cae9b643434996a5f23ae2323a4f3deddde1a60f3ecfffffff33d93ffff9364ff64ffff747474744574b7943a94f73af7f7913a9b3a3d913a3af7355ebccb744e4e606464ff606060606060ffff6060fffffff493ffffff93ffffffff9386ff86ff8686868687ffffff564e5693565656ffffcd45cdcd994545125c454e45453a3a4556563d6756856767676767676a858542853aff85578585a2fcf3ffffffffff85938593cd359399d8ffffaeae56ffffffff61ae9c6093a4605f4effffff43abf4ab8585c493f486854385d58585ecf4ec2cc4f237cda8f4cdcdcdf443cdcd33cda5cda5a5335691ffffff917b2392a8ffcdffcd99999999aeff3343ae34c3a438ddae1aae0e5656f399d3a462ae1a1a4260f36060ffffff3dfff3ff3d3dffffff644e7474744574949494b7f7f73a3a3a3a3d3a3d3d3df0f735ec3a7474ffff6464ff60ffffff606060ff60ff60ff608686ffffffff86ff86ffff60606060ffff60608637ae5691ffffff917b934e4e4ecdffcd99999999ae455c76ae3a3a3a5656ae5656678567676785ae67677685379d3a8585858793fc379393ffffff93a5c4e11f3535f05699aeffffffff60cdffff99f5c39360f43aaa60ffffffffa2f449f493f4f461ff608785f4f49ce1f4ec2ceca2eccdff5733f4ffcdf4cdf4cdcdcda5a5ff33ffffcdcdcdf77b7b6433ff55999964ffffa8a8ffae43f3aeae92aef3b9cd43f30e7baef97df362b94237ae3760f3f3ff",
+      "text_jp": "ど<CMD_4e>ミ<CMD_4e>ミミミゅミブR<CMD_b7>aa□□aぢドぢどどドドぢキaじぢスぷミCCタ成Cタ<CMD_60>シ<CMD_60>成<CMD_93>ビ♀<CMD_93>ビビ<CMD_93><CMD_93>ビビビっ善ゅ<CMD_91>ブゅドゅざイゅゅごぷポ..ぷプメぷぷエぢぢぢぷぷどテテぢテ詞蒔テテニ蒔Tぢぢぢぢ蒔ヮビビュウ蒔飾ビ蒔まョじ※♂プイ<CMD_56>I<CMD_f4><CMD_99>プIァキシシ屍リ私蒔ゅっFぱ<CMD_86>ョビビ♀燦囚:リ蒔傘じ♂.纂♀.<CMD_f4>,.ご.<CMD_cd>ヮヮ<CMD_56><CMD_56>-イイイ<CMD_cd><CMD_cd>.プごュぱ<CMD_43>ぜざリIポタざざプニサもIももッ$【』【はシ$□<CMD_f3>どビ<CMD_93>タ<CMD_64><CMD_74>ミミミぷミRブぢブaぢaaドぢポぢどドぢぢaじコW:ミゅゅシタタ<CMD_60>シシシシシ<CMD_60>シ<CMD_f4>ビ<CMD_93><CMD_93>成成擾擾択<CMD_56>ゅイビイイイ<CMD_cd>ぷ..プぷぷつクぷゅぷぷぢぢぷイイどテイ詞テテテテテニ蒔ぼ賛<CMD_85>ウ蒔ュf$<CMD_85>ビ失.じビプ(<CMD_ae>Iイ<CMD_61>Iァシビッシサゅ<CMD_43>F♀F蒔4ビ♀情ぱ囚蒔□♀□わ4♡ぜ.C♀...♀ぱ..ご.ヮ.ヮヮごイド<CMD_91>ラもバC<CMD_cd><CMD_cd>ププププI<CMD_33>ぱIざ3ッぞ』IはIせイイ$プ<ッセIははぼシ$シシ<CMD_3d><CMD_f3><CMD_3d>ど<CMD_64>ゅミミミぷミブブブRaaぢぢぢぢどぢどどど※aじ□ぢミミ<CMD_64>タ<CMD_60><CMD_60>シシ<CMD_60><CMD_60><CMD_60>擾<CMD_86><CMD_86><CMD_60>シシシ<CMD_60>シ匠Iイド<CMD_91>ラビゅゅゅ.<CMD_cd>ププププIぷクメIぢぢぢイイIイイテ詞テテ謝テテメ纂ィぢ蒔汐ビfぜビビ<CMD_93>ヮ4-まじじ※イプI<CMD_60>.<CMD_99>♂3ビシ♀ぢEシ<CMD_a2>♀ぃ♀ビ♀♀ス<CMD_60>爽♀♀ァ-♀□わ□ュ□.<CMD_57>ご♀<CMD_cd>♀.♀...ヮヮ<CMD_33><CMD_cd>..aララタご<CMD_55>ププタ<CMD_a8>C<CMD_ae>ぱ$IIバI$T.ぱ$せラIcル$セTぼぜIぜシ$$",
+      "translation_en": ""
+    },
+    {
+      "id": 37,
+      "offset": 181491,
+      "length_bytes": 765,
+      "raw_hex": "3df39393ff4e4e4e4eb794fff7f7f7f73d3af73a3a50a43a7d7d358894ba64ff93ff2d64ffaeae64ffaeaeffae56ffffaeffaeffcdffffffffffffffffaeffaeffaeaef36060f7f7cdff60cdcd64a455ffff933db9aeb9ae5cae5c60fc1260565656cd3a3a3a8556856712945655fc8556a8858556858585a585a2933a9393ffa599935e1f935656aeaeaeaecdffffa26157c399f6572d3aff9393ae57ffffaeabbcc3a32d9c60ffa857ae7c9c9c6d577d1f575757ff575757cdffa84357cd4357ffa8a8a557cdcdffffcd1d7b5555fcffffff37aeae60ff0e4360604350f06260dd42f36acdcdcd5f5f0ef0f3ae42fcaeaef3ffecf3ffff60ff2dfffffff393ff93ff3d643d4e4e4e9494f794ececec3d3d3a3a3af73ad3ecd3e14594ba4e64ff642d64ff64aeaeffaeaeff6464aeffffffaeffffcdffffffffaeaeaeffaeffaeae7c9caa60cdcd93ffcd1d7b55554e4e4efff3aeae6042765c6060ba3dfc5c563a3a563a3acddc42123333565612125656ff56855685a285a88785ffffa5ffa55656565e6daecdf3ffffffcd606085505f999957aeae3a939393aeae93ffffae8aae4957575760a5a5a5a5c39c5b7d575757ff57ffffa25757575757574357ffcd57575756ffcd55a555a516167b12ffffffaeaeff603360502d2dff2d5f2d606060f3cdf3cdcdf30e5656ab1a87aeaeaeae6060ec60fff3ffffecff2df3f3f3f3f3f3f393ff4e4e4594949494f7f7a4f73df73d3aecd3ecf7e19493bab0646464ffcdffaeffae9999ffffff99ffff5664a8565656fffffffffffffffffff6ffffaeaeaea8ffcd55a555a5f3f37bf3ffffff3aae8760f360f32d2d4e67672d6760603a3a1a3a3aae9456565656565656855656ff563785ff3a33ff3a3a93ff87566d561fcdcd9c60ffff6060ffff7f508557e1853460ae3a2daeffff93ffae8585c4498ac457a5a5aaa5a5a55757e157575757ffff575757575757a257575757a8cd5757fccdffff5564996456561256ffff60ffffff4349939393a85093932d6a99fc60cdcdcdf3cd565faeb9aeaeae0e94ae60f360ff60fffffff3",
+      "text_jp": "ど$ビビ<CMD_4e>ゅゅゅRブ<CMD_f7>aaaどぢaぢぢっッぢルルじザブUタ<CMD_93><CMD_2d>タ<CMD_ae>Iタ<CMD_ae>I<CMD_ae>イ<CMD_ae><CMD_ae><CMD_cd><CMD_ae><CMD_ae><CMD_ae>I$シシaa.<CMD_60>..タッア<CMD_93>どTITIクIクシfつシイイイ.ぢぢぢ斯詞つブイアf斯C蒔イ蒔写蕊ビぢビビ<CMD_a5>プビコまビイイIIII.<CMD_a2>スウ3プ!?ウをぢ<CMD_93>ビIウ<CMD_ae>FW3ョをァシ<CMD_a8>ウIリァァノウルまウウウ<CMD_57>ウウ.<CMD_a8>ぱウ.ぱウ<CMD_a8>Cヮウ..<CMD_cd>へラアアf<CMD_37>IIシ<CMD_0e>ぱシシぱっ※セシ』ぼ$ニ...ササせ※$IぼfII$<CMD_ec>$<CMD_60><CMD_2d><CMD_f3>ビ<CMD_93><CMD_3d>タどゅゅゅブブaブ□□□どどぢぢぢaぢ<□<-ぷブUゅタ<CMD_64>をタ<CMD_64>II<CMD_ae>I<CMD_64>タI<CMD_ae><CMD_cd><CMD_ae>II<CMD_ae><CMD_ae>IリァEシ..ビ<CMD_cd>へラアアゅゅゅ<CMD_f3>IIシぼメクシシUどfクイぢぢイぢぢ.『ぼつごごイイつつイイ<CMD_56>斯蕊赦爽<CMD_a5><CMD_a5>イイイコノI.$<CMD_cd>シシ師サププウIIぢビビビIIビ<CMD_ae>ズIぃウウウシヮヮヮヮ3ァキルウウウ<CMD_57><CMD_a2>ウウウウウウぱウ<CMD_cd>ウウウイ<CMD_cd>アヮアヮににラつ<CMD_ae>I<CMD_60>ごシっをを<CMD_2d>サをシシシ$.$..$せイイFは臓IIIシシ□シ<CMD_f3><CMD_ec><CMD_2d>$$$$$$$ビ<CMD_4e>ゅぷブブブブaaッaどaどぢ□<□a-ブビUKタタタ<CMD_cd><CMD_ae><CMD_ae>ププ<CMD_99><CMD_56>タCイイイ<PAGE><CMD_ae>IIC<CMD_cd>アヮアヮ$$ラ$<CMD_3a>I善$シ$ををゅテテをテシシぢぢはぢぢIブイイイイイイイ斯イ<CMD_56>ぜ夙ぢご<CMD_3a>ぢビ<CMD_87>イノイま..ァシ<CMD_60>シ<CMD_7f>っ施-珊シIぢをI<CMD_93><CMD_ae>蒔4ぃズ4ウヮヮEヮヮヮウウ-ウウウウ<CMD_57>ウウウウウュウウウウC.ウウf.<CMD_55>タプタイイつイ<CMD_60><CMD_43>ぃビビビCっビビをニプfシ...$.イサITIIIせブIシ$シ<CMD_60><CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 38,
+      "offset": 182044,
+      "length_bytes": 767,
+      "raw_hex": "ae9999ffffff99ffff5664a8565656fffffffffffffffffff6ffffaeaeaea8ffcd55a555a5f3f37bf3ffffff3aae8760f360f32d2d4e67672d6760603a3a1a3a3aae9456565656565656855656ff563785ff3a33ff3a3a93ff87566d561fcdcd9c60ffff6060ffff7f508557e1853460ae3a2daeffff93ffae8585c4498ac457a5a5aaa5a5a55757e157575757ffff575757575757a257575757a8cd5757fccdffff5564996456561256ffff60ffffff4349939393a85093932d6a99fc60cdcdcdf3cd565faeb9aeaeae0e94ae60f360ff60fffffff3f3ffffffec2dff3d3d93934e4e45944594f394f75eec3a3a3a3aec3af094944eba95ae649960cdaeaefff69999ff55a5ffffff6464a556ff64565664f6ffffffffff99ffaef5f534f3cdf3f355649964565612569393603af3f3f31a939393ec5c67672d5c993a3a853a9456943356565656125656a885563ab9433a3a333aa5ffffff938a56cdcd60cd9c6055ff67ffff85857c85d32c575760606060ff9999575785a5954969858557a5a5a550a5a5a5a55757575757ffa5573757a2ff5749575757a2a8cd333357ff99ff99ae445616565cffcd604360ec2da8694a69c3a893f024ae932df3f35560cdcdf3f0c30e87aeaecd60aefff3ffffaeec6060ffffecf3ec60f32df3933d933d93934ef345ff94f7941ff77cf7337c92623a1f1f4e6060b0ae64606056aeffaeffffa555ffff99a564a5a564a564a5a5ff9955ff99ffff55fffff5a3f3a8f399ff99aef356ae5693ffcd3a933a3a2d93f3ddf3f3f3936767ae67933a8585853a67124e4e4e56565612568556ff8585433a3a8585855685ae87bceccd55a39999aa6060ffff578750c3858555606057a83a3a3a3a3a85858585a5a569575785ffa8a5a5a5a5855735577ca557a5a5ffa55757ff57575769c3a5a5a5575756ff56aeff94941656cdcdecff60ecff2dffa849933593939393930eae0eae609955cdcdcd0ecd0e121233aeaef3ae60ecff6060fffff3fff3f3ececececf3ec2d939393933d4e454e3a92943ae17c949494a4943a4e931f6060aeae605560f356",
+      "text_jp": "Iププ<CMD_99><CMD_56>タCイイイ<PAGE><CMD_ae>IIC<CMD_cd>アヮアヮ$$ラ$<CMD_3a>I善$シ$ををゅテテをテシシぢぢはぢぢIブイイイイイイイ斯イ<CMD_56>ぜ夙ぢご<CMD_3a>ぢビ<CMD_87>イノイま..ァシ<CMD_60>シ<CMD_7f>っ施-珊シIぢをI<CMD_93><CMD_ae>蒔4ぃズ4ウヮヮEヮヮヮウウ-ウウウウ<CMD_57>ウウウウウュウウウウC.ウウf.<CMD_55>タプタイイつイ<CMD_60><CMD_43>ぃビビビCっビビをニプfシ...$.イサITIIIせブIシ$シ<CMD_60><CMD_f3>$<CMD_ec>を<CMD_3d>どビビゅゅぷブぷブ$ブaコ□ぢぢぢぢ□ぢ※ブブゅUベIタプシ.II<PAGE>ププ<CMD_55>ヮ<CMD_64>タヮイ<CMD_64>イイタ!?<CMD_99><CMD_ae>♂♂ざ$.$$アタプタイイつイビビシぢ$$$はビビビ□クテテをクプぢぢ賛ブイブごイイイイつイイC斯ぢTぱぢぢごぢヮ<CMD_93>ズイ..シ.ァシア<CMD_67><CMD_85>治綬わウウシシシシ<CMD_99>プウウ写ベぃナ蒔ウヮヮヮっヮヮヮヮウウウウウ<CMD_a5>ウぜウュ<CMD_57>ぃウウウュC.ごごウ<CMD_99><CMD_99>Iぴイにイク<CMD_cd>シぱシ□をCナぅナ3Cビ※やIビを$$アシ..$※3せ臓I.シI<CMD_f3><CMD_ae>□シシ<CMD_ec>$□シ$を$ビどビどビビゅ$ぷ<CMD_94>aブまaリaごリバセぢままゅシシKIタシシイI<CMD_ae><CMD_a5>ア<CMD_99>ヮタヮヮタヮタヮヮ<CMD_99>ア<CMD_99><CMD_55><LINE>ョ$C$プ<CMD_99>I$イIイビ<CMD_cd>ぢビぢぢをビ$』$$$ビテテIテビぢ蒔賛テつゅゅゅイイイつイ斯<CMD_85>使ぢぢ蒔斯謝俗□.アョププEシシ<CMD_57>繊3蒔アシシウCぢぢぢぢぢ蒔蒔ヮヮナウウ夙Cヮヮヮヮ施じウリヮウヮヮ<CMD_a5>ウウ<CMD_57>ウウナ3ヮヮヮウウイ<CMD_56>I<CMD_94>ブにイ..□<CMD_60>□<CMD_2d><CMD_a8>ぃビじビビビビビせIせIシプア...せ.せつつごII$Iシ□<CMD_60>シ<CMD_f3><CMD_f3>$□□□□$□をビビビビどゅぷゅぢバブぢ-リブブブッブぢゅビまシシIIシアシ$イ",
+      "translation_en": ""
+    },
+    {
+      "id": 39,
+      "offset": 182557,
+      "length_bytes": 768,
+      "raw_hex": "aeffffa555ffff99a564a5a564a564a5a5ff9955ff99ffff55fffff5a3f3a8f399ff99aef356ae5693ffcd3a933a3a2d93f3ddf3f3f3936767ae67933a8585853a67124e4e4e56565612568556ff8585433a3a8585855685ae87bceccd55a39999aa6060ffff578750c3858555606057a83a3a3a3a3a85858585a5a569575785ffa8a5a5a5a5855735577ca557a5a5ffa55757ff57575769c3a5a5a5575756ff56aeff94941656cdcdecff60ecff2dffa849933593939393930eae0eae609955cdcdcd0ecd0e121233aeaef3ae60ecff6060fffff3fff3f3ececececf3ec2d939393933d4e454e3a92943ae17c949494a4943a4e931f6060aeae605560f356f3fff699ffffff64ff64a56464a5a5a564ffa5cdffff64ffffff55ffa3a3f333f356aeff94946056cdcdecff603a3a3a9393f393f393939393aef3ae3aae85853a3a3a4e3a56561256fc565656ffff33a533858585ff85ffff5656c4cd6099999299cb85608e57ffcb85855f5ff95761605785a5a5a53a85ff85a557a5bc4aaec385a5f3a5a5a5f985575757ff8757a557a55757ffa849cd575733a5a533565699aeffffaed394cd7bcdecffffae33ff939393931f93339362de3d4293426060555555f30e50aacd9433aeecaeecae60ec9494aeaeaef3ff94ececfff3ec6060ec3d3d3d3d93934e4e92947de1949494943a92f9932d606064aeae5564aeffae5656fff3ffffa5ffa5a564a5a5a5a5a5a564a5ff55cda5ffffffffffa3a3c3fc99aef3f3aed394cd7bcdecff60ae3a603a3a939360935c93f3f33daeae93673a673af33a3393934e9393565556ffffff4385ffff858585ff56ffecec8599858562857fff2685ff857c9c85f9576262855757853aa5a53a57a58550a54957b0c485ffa556851f355735690561a5575785a54333ffff575705a25757a5cda2565794aeffaecd94cdcd55ececaeae3da8ff3d93934e1f4e434e939393429393f32d990e0e6050cd0eceec0e606060ececec940e94aeffff9494aef3f3f3aef360f36060f3933d3d3d93434e9b4e93949487fc4e92934e60936064aeae64646464aef3",
+      "text_jp": "I<CMD_a5>ア<CMD_99>ヮタヮヮタヮタヮヮ<CMD_99>ア<CMD_99><CMD_55><LINE>ョ$C$プ<CMD_99>I$イIイビ<CMD_cd>ぢビぢぢをビ$』$$$ビテテIテビぢ蒔賛テつゅゅゅイイイつイ斯<CMD_85>使ぢぢ蒔斯謝俗□.アョププEシシ<CMD_57>繊3蒔アシシウCぢぢぢぢぢ蒔蒔ヮヮナウウ夙Cヮヮヮヮ施じウリヮウヮヮ<CMD_a5>ウウ<CMD_57>ウウナ3ヮヮヮウウイ<CMD_56>I<CMD_94>ブにイ..□<CMD_60>□<CMD_2d><CMD_a8>ぃビじビビビビビせIせIシプア...せ.せつつごII$Iシ□<CMD_60>シ<CMD_f3><CMD_f3>$□□□□$□をビビビビどゅぷゅぢバブぢ-リブブブッブぢゅビまシシIIシアシ$イ$<PAGE>プ<CMD_64><CMD_64>ヮタタヮヮヮタ<CMD_a5>.<CMD_64><CMD_55><CMD_a3>ョ$ご$イI<CMD_94>ブシイ..□<CMD_60>ぢぢぢビビ$ビ$ビビビビI$IぢI蒔ぢぢぢゅぢイイつイfイイイ<CMD_33>ヮご蒔夙夙<CMD_56>イ4.シププバプ:糸ヂウ<CMD_cb>蒔ササcウスシウ写ヮヮぢ夙写ウヮWぅI3写$ヮヮヮc施ウウ<CMD_87>ウヮウヮウウ<CMD_a8>ぃ.ウウごヮヮごイイプI<CMD_ae><ブ.ラ.□<CMD_ae>ご<CMD_93>ビビビまビごビセ【どぼビぼシシアアア$せっE.ブごI□I□Iシ□ブブIII$<CMD_94>□□<CMD_f3>□シシ□どどどどビビゅゅバブル-ブブブブぢバcビをシシタIIアタI<CMD_ae>イイ<CMD_f3><CMD_a5><CMD_a5>ヮタヮヮヮヮヮヮタヮ<CMD_55>.ヮ<CMD_a3>ョ3fプI$$I<ブ.ラ.□<CMD_60>Iぢシぢぢビビシビクビ$$どIIビテぢテぢ$ぢごビビゅビビイアイ<CMD_43>夙<CMD_85>蒔<CMD_56><CMD_ec>□疾蒔セ痔<CMD_26>夙治ァ渋ウセセ施ウ賛ヮヮぢウヮ師ヮぃウK4夙ヮイ擦じウじナおスヮウウ写ぱご<CMD_57>ウおュウウヮ.ュイウブI<CMD_ae>.ブ..ア□□IIどC<CMD_3d>ビビゅまゅぱゅビビビぼビビ$をプせせシっ.せ・□せシシシ□□□ブせブI<CMD_94>ブI$$$I$シ$シシ$ビどどどビぱゅポゅビブブ啄ゅバビゅシビシタIIタタタタI$",
+      "translation_en": ""
+    },
+    {
+      "id": 40,
+      "offset": 183075,
+      "length_bytes": 329,
+      "raw_hex": "a5a564a5a5a5a5a5a564a5ff55cda5ffffffffffa3a3c3fc99aef3f3aed394cd7bcdecff60ae3a603a3a939360935c93f3f33daeae93673a673af33a3393934e9393565556ffffff4385ffff858585ff56ffecec8599858562857fff2685ff857c9c85f9576262855757853aa5a53a57a58550a54957b0c485ffa556851f355735690561a5575785a54333ffff575705a25757a5cda2565794aeffaecd94cdcd55ececaeae3da8ff3d93934e1f4e434e939393429393f32d990e0e6050cd0eceec0e606060ececec940e94aeffff9494aef3f3f3aef360f36060f3933d3d3d93434e9b4e93949487fc4e92934e60936064aeae64646464aef3f3ae64ffa5a5fff3646464a56464646464ffa5ffcdffa5cd55cdffa3359c9994aeffaecd94cdcd55ececaeae3da8f33a3a3a3a3a4e764e939393f3ae933a3a93933a12a89333cd939933cda8fffffffc",
+      "text_jp": "ヮヮタヮヮヮヮヮヮタヮ<CMD_55>.ヮ<CMD_a3>ョ3fプI$$I<ブ.ラ.□<CMD_60>Iぢシぢぢビビシビクビ$$どIIビテぢテぢ$ぢごビビゅビビイアイ<CMD_43>夙<CMD_85>蒔<CMD_56><CMD_ec>□疾蒔セ痔<CMD_26>夙治ァ渋ウセセ施ウ賛ヮヮぢウヮ師ヮぃウK4夙ヮイ擦じウじナおスヮウウ写ぱご<CMD_57>ウおュウウヮ.ュイウブI<CMD_ae>.ブ..ア□□IIどC<CMD_3d>ビビゅまゅぱゅビビビぼビビ$をプせせシっ.せ・□せシシシ□□□ブせブI<CMD_94>ブI$$$I$シ$シシ$ビどどどビぱゅポゅビブブ啄ゅバビゅシビシタIIタタタタI$$Iタ<CMD_a5>ヮ<CMD_f3>タタタヮタタタタタ<CMD_a5><CMD_cd><CMD_a5>.ア.<CMD_a3>じァプブI<CMD_ae>.ブ..ア□□IIどC$ぢぢぢぢぢゅメゅビビビ$IビぢぢビビぢつCビご.ビプご.C<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 41,
+      "offset": 183327,
+      "length_bytes": 334,
+      "raw_hex": "64ffa5a5fff3646464a56464646464ffa5ffcdffa5cd55cdffa3359c9994aeffaecd94cdcd55ececaeae3da8f33a3a3a3a3a4e764e939393f3ae933a3a93933a12a89333cd939933cda8fffffffca58585fc85858585ec85ecececec2d7cc385858585a8572d858562f985858550a585a5cd57858585a8f2886957d98585ffff877c1f0c6d571f0cd5ff87a5a5ff878757575757571f571257a8a2cda29494ffcdcdec555599ecaeae3d93aeffff93454e6d454e9b4e9bdd9342932d0e602c602c55cd0eec0e6060ecec60ec60ff940e94f3ff940e94aef3f394ececffec6060ffff3d93ffff4592d34e2c4e4e4e4eabdede60649364642d996460aeae64f3f3fff3ffa5a5ffa5646464a5646464ff64a5cdcdcdcdffcdffffa33555379494ffcdcdec555599ecaeae3a3aae3af3933a4e3a3a4e3a3a3aae9393ae933a3a3a936733339312999393cd33ffcdfffc",
+      "text_jp": "タ<CMD_a5>ヮ<CMD_f3>タタタヮタタタタタ<CMD_a5><CMD_cd><CMD_a5>.ア.<CMD_a3>じァプブI<CMD_ae>.ブ..ア□□IIどC$ぢぢぢぢぢゅメゅビビビ$IビぢぢビビぢつCビご.ビプご.C<CLOSE>ヮ蒔f蒔蒔□週□□□をリ3蒔蒔Cウを蒔セc蒔師ヮ写.ウ蒔赦♡ザナウ)蒔<CMD_87>リましノウまし,<CMD_87>ヮヮ<CMD_87>賎ウウウウまウつウCュ.ュブブ<CMD_cd>.□アアプ□IIどビI<CMD_93>ぷゅノぷゅポゅポ』ビぼビをせシわシわア.せ□せシシ□□シ□シ<CMD_94>せブ$<CMD_94>せブI$$ブ□□<CMD_ec>シシ<CMD_3d>ビ<CMD_45>バ<ゅわゅゅゅゅF【【シタビタタをプタシIIタ$$<CMD_f3><CMD_a5>ヮ<CMD_a5>タタタヮタタタ<CMD_64>ヮ....<CMD_cd><CMD_a3>じアぜブブ<CMD_cd>.□アアプ□IIぢぢIぢ$ビぢゅぢぢゅぢぢぢIビビIビぢぢぢビテごごビつプビビ.ご<CMD_cd><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 42,
+      "offset": 183468,
+      "length_bytes": 257,
+      "raw_hex": "878757575757571f571257a8a2cda29494ffcdcdec555599ecaeae3d93aeffff93454e6d454e9b4e9bdd9342932d0e602c602c55cd0eec0e6060ecec60ec60ff940e94f3ff940e94aef3f394ececffec6060ffff3d93ffff4592d34e2c4e4e4e4eabdede60649364642d996460aeae64f3f3fff3ffa5a5ffa5646464a5646464ff64a5cdcdcdcdffcdffffa33555379494ffcdcdec555599ecaeae3a3aae3af3933a4e3a3a4e3a3a3aae9393ae933a3a3a936733339312999393cd33ffcdfffca8ffa885ffae855685ecececec8589938593ff8585578585f95785f985855757a5e05785ff57578543f28888574a8585ffff85ab1f0c695b2ccdb987ffa5fffffc",
+      "text_jp": "層ウウウウウまウつウCュ.ュブブ<CMD_cd>.□アアプ□IIどビI<CMD_93>ぷゅノぷゅポゅポ』ビぼビをせシわシわア.せ□せシシ□□シ□シ<CMD_94>せブ$<CMD_94>せブI$$ブ□□<CMD_ec>シシ<CMD_3d>ビ<CMD_45>バ<ゅわゅゅゅゅF【【シタビタタをプタシIIタ$$<CMD_f3><CMD_a5>ヮ<CMD_a5>タタタヮタタタ<CMD_64>ヮ....<CMD_cd><CMD_a3>じアぜブブ<CMD_cd>.□アアプ□IIぢぢIぢ$ビぢゅぢぢゅぢぢぢIビビIビぢぢぢビテごごビつプビビ.ご<CMD_cd><CLOSE>C<CMD_a8>夙I斯週□□□式ビ失<CMD_85>施蒔cウ渋蒔ウウヮ+ウ夙ウウ使♡ザザウぅ蒔<CMD_85>Fましナキわ.T択ヮ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 43,
+      "offset": 183473,
+      "length_bytes": 768,
+      "raw_hex": "5757571f571257a8a2cda29494ffcdcdec555599ecaeae3d93aeffff93454e6d454e9b4e9bdd9342932d0e602c602c55cd0eec0e6060ecec60ec60ff940e94f3ff940e94aef3f394ececffec6060ffff3d93ffff4592d34e2c4e4e4e4eabdede60649364642d996460aeae64f3f3fff3ffa5a5ffa5646464a5646464ff64a5cdcdcdcdffcdffffa33555379494ffcdcdec555599ecaeae3a3aae3af3933a4e3a3a4e3a3a3aae9393ae933a3a3a936733339312999393cd33ffcdfffca8ffa885ffae855685ecececec8589938593ff8585578585f95785f985855757a5e05785ff57578543f28888574a8585ffff85ab1f0c695b2ccdb987ffa5fffffc878787fff557555fcd5757cda2cd94ecff60ec55ececececae3dae933d3d3d4e451dd35f4e344e4593939393aea42c7d0e550e0e3755fc6042ec60ecec60940e949494ffaef3ae94f394ae9494aef360ececff2df393ffa834bad36d5e4e4e43ab4e60606464ae64ae9964f3cdcdaef3ffffffffffffff64a564646464ff64a5cdcdcdcdcd43cdffcdcdcd6d9cb994ecff60ec553aecec3aae3dae3a3d3d3d3a453a3a1a3a3a4e3a933a9393933a933a429393939393fca255cdffcda843cdcdffa843855685ffffcdecececec85936085128537859c855785dc855757aa8587e01233ffffffff377c57954a0ac4f2ffff33d5691fcd9557aef38741ff85a50e414187878757d3575757cdcda2a24360ffececececaeecae3d93ffa83d4e4e4e4e4e4545ffab4e4e93937693932d2d0e6005bc9c3760600eecec6060ec94ff94ffaef3f3ffae94aeae9494f3fff3aeec60ff60ff2d3da8a8fc344e6d35f5aa4eaaa460dc60646464ae99556064ffcdcdfff3ffff56ffff56646464a56464a56464fff7f761a8cdffffffe1cd9ccdcd60f33aecececaeecae3a93993a3a4e3a3a4e4e3a3a3a3a4e4e933a3a3a3a3a2dd39b939393933a3a33cdb9ff33a88761a593ff93ff56ff3acd603aecec853a855e858585fc349c859285859b6187d5cbfce04333ffffffffcb57aeaeeaea4956ffcda850cdcd5e851f3585cd0e41ff85a8854141",
+      "text_jp": "ウウウまウつウCュ.ュブブ<CMD_cd>.□アアプ□IIどビI<CMD_93>ぷゅノぷゅポゅポ』ビぼビをせシわシわア.せ□せシシ□□シ□シ<CMD_94>せブ$<CMD_94>せブI$$ブ□□<CMD_ec>シシ<CMD_3d>ビ<CMD_45>バ<ゅわゅゅゅゅF【【シタビタタをプタシIIタ$$<CMD_f3><CMD_a5>ヮ<CMD_a5>タタタヮタタタ<CMD_64>ヮ....<CMD_cd><CMD_a3>じアぜブブ<CMD_cd>.□アアプ□IIぢぢIぢ$ビぢゅぢぢゅぢぢぢIビビIビぢぢぢビテごごビつプビビ.ご<CMD_cd><CLOSE>C<CMD_a8>夙I斯週□□□式ビ失<CMD_85>施蒔cウ渋蒔ウウヮ+ウ夙ウウ使♡ザザウぅ蒔<CMD_85>Fましナキわ.T択ヮ<CLOSE>層択♂ウアサ.ウウ.ュ.ブ□<CMD_60>□ア□□□□IどIビどどどゅぷへ<サゅざゅぷビビビビIッわルせアせせぜアfシぼ□シ□□シブせブブブ<CMD_ae>$Iブ$ブIブブI$シ□□<CMD_2d>$ビ<CMD_a8>ざU<ノコゅゅぱFゅシシタタIタIプタ$..I$<CMD_64>ヮタタタタ<CMD_64>ヮ.....ぱ.<CMD_cd>..ノァTブ□<CMD_60>□アぢ□□ぢIどIぢどどどぢぷぢぢはぢぢゅぢビぢビビビぢビぢぼビビビビビfュア.<CMD_cd>Cぱ..<CMD_a8>ぱ斯夙<CMD_cd>□□□□失シ窄纂蔀施愁施ウE汐+つご<CMD_37>リウベぅこ4♡<CMD_33>,ナま.ベウI$扇<CMD_85>ヮせべべ層賎<ウウウ..ュュぱシ<CMD_ec>□□□I□Iどビ<CMD_a8>どゅゅゅゅゅぷぷ<CMD_ab>ゅゅビビメビビををせシおWァぜシシせ□□シシ□ブ<CMD_94><CMD_ae>$$<CMD_ae>ブIIブブ$<CMD_f3>I□シ<CMD_60><CMD_2d>どCCfざゅノじ♂EゅEッシ『シタタタIプアシタ<CMD_cd>.<CMD_f3><CMD_56><CMD_56>タタタヮタタヮタタ<CMD_f7>aスC.<CMD_e1>.ァ..シ$ぢ□□□I□Iぢビプぢぢゅぢぢゅゅぢぢぢぢゅゅビぢぢぢぢぢを<ポビビビビぢぢご.T<CMD_33>C漸ヮビ<CMD_93><CMD_56><CMD_3a>.シぢ□□賛祉蒔重ざァ執蒔ポス柁:f+ぱご<CMD_cb>ウII○○ぃイ<CMD_cd>Cっ..コ擦じ儒せべ<CMD_85>C仔べ",
+      "translation_en": ""
+    },
+    {
+      "id": 44,
+      "offset": 184311,
+      "length_bytes": 768,
+      "raw_hex": "ae99f3ae94ffff94aeecffecec3dff93342393f03560ff330e9260aeae64aeae99646464cdffcdcdffff56ffff646464a5a564646464cdcdcdf7cdafcda8ffffff1dd3cdf360cdececec3a3a3a3d553a60f33d933a3a453a3a45453a3a3a3a3a3a3a3a2d93f093dc933333fc9337cd3a3a938733aa9393ffececececffffeccd3a858585851f85858585627c5b7d575757aa6785af615ce043335785ffa8509e4ad9d23ec47c43ffa8cd604acd85855b37a68585a685a6858585a60ea60effff870effa88760ecffecec3d3d3ddc3d3d603d37a84e45454e454545ff45624e9342939393232c6d2c0e6060f360fc606060ececffffffffffffae0e0e57f3aefffff394aeae94fffff3ffff60ecff3dff61236d2c5e9360a860c360642caeaeae64649999f3f355cdcdffffaeffffae616433aeffff6455a56455cd50cdcda8ffff7bcdcdcd60ec55ecec3a3d3adc3a3d3a3a373a3a3a454e45453ab93a3a3a3a3a3a93933a932362939393fcfc9343aacd938743aa37ff93ececaeececaeff603aec2dec3a8593c39385859357a4d3235785fc57cb615ce04333ffffff33618aae0a1bd2f2aa3a3aae7c605585858599853a8585a6a63a85a6a68585a6ae0e0e8787a8fca860ecffec373d3d3d3d93ff93ff3d454545454e4545ff454545ddde426a3ddef97b2323f00e5f6160fc4360f3ec6057ffff57ffff0eae0e0eae999999ff99ffffaeaef394ffffececffffff93233535606060127c6060aeae35aef364ae3ed29955ff55fff3ffcdffff43615664ffffffce55ffffcd43d5f3cd4333ffdcdc92cd60ecffec3a3d3d3a3a933a93f33d453a3a3a3a453a3a3a3a453a3af3763a3af3a4f993933393fc8737cd3acd93cd43aa939393ececff93aeecececec60852d8585ec93855f605ee157d35761500e4334f343433a3aff3a3a33a2aeaeaedfae50a243ae55553a3a6085853a853a2d853a3aa6a63aa685a6c38787ff9d9d43a8cdfcffffff423d3d3d3dfc3d60933d2d93454e45fc454e45453d3d3d3d3d933d2df9c9167b23a46060874360430843ffae94ff0effaefff3ff0eff57",
+      "text_jp": "Iプ$Iブ<CMD_94>I□<CMD_ec>□ど<CMD_93>ざもビ※じシ<CMD_33>せバシIIタIIプタタタ.<CMD_cd>.<CMD_56><CMD_64>タタヮヮタタタタ...a.J.C<CMD_1d><.$シ.□□□ぢぢぢどアぢシ$どビぢぢぷぢぢぷぷぢぢぢぢぢぢぢぢをビ※ビ『ビごごfビぜ.ぢぢビ説Eビビ<CMD_ec>□□□<CMD_ec>.ぢ蒔蒔ま蒔蒔セリキルウウウEテ車スク+ぱごウ夙Cっゥぅ)*ば4リぱ<CMD_a8>.シぅ.蒔キぜA蒔A射蒔射せAせ<CMD_87>せ<CMD_a8>善□<CMD_ec>□どどど『どどシどぜCゅぷぷゅぷぷぷ<CMD_45>セゅビぼビビビもわノわせシシ$シfシシシ□□<CMD_ae>せせウ$I<CMD_f3>ブIIブ<CMD_f3><CMD_60>□<CMD_3d><CMD_61>もノわコビシCシ3シタわIIIタタププ$$ア..<CMD_ae><CMD_ae>スタごI<CMD_64>アヮタア.っ..C<CMD_7b>...シ□ア□□ぢどぢ『ぢどぢぢぜぢぢぢぷゅぷぷぢTぢぢぢぢぢぢビビぢビもセビビビffビぱE.ビ栓Eぜ<CMD_93>□□I□□I<CMD_60>ぢ□を□ぢ失3ビ蒔ビウッ<もウ重ウ:スク+ぱご<CMD_33>スズIこひ*♡EぢぢIリシア蒔疾賛蒔AAぢ射A蒔AIせせ層CfCシ□<CMD_ec>ぜどどどどビ<CMD_93><CMD_3d>ぷぷぷぷゅぷぷ<CMD_45>ぷぷ』【ぼニど【cラもも※せサスシfぱシ$□シウ<CMD_57><CMD_0e>IせせIプププ<CMD_99><CMD_ae>I$ブ<CMD_ec>□<CMD_93>もじじシシシつリシシIIじI$タIば*プア<CMD_55><CMD_f3><CMD_cd><CMD_43>スイタ<CMD_ce>ア<CMD_cd>ぱ,$.ぱご<CMD_dc>『バ.シ□<CMD_ec>ぢどどぢぢビぢビ$どぷぢぢぢぢぷぢぢぢぢぷぢぢ$メぢぢ$ッcビビごビf蝉.ぢ.ビ.ぱEビビビ□□<CMD_93>I□□□□シ参蒔□ビ私シコ-ウ<ウスっせぱざ$ぱぱぢぢ<CMD_3a>ぢごュIII】IっュぱIアアぢぢシ蒔ぢ賛を賛ぢAAぢA射3層<CMD_9d>ィぱC.f<CMD_42>どどどどfどシビどをビぷゅぷfぷゅぷぷどどどどどビどをc9にラもッシシ栓シぱくぱ<CMD_ae>ブ<CMD_0e><CMD_ae><CMD_f3><CMD_0e><CMD_57>",
+      "translation_en": ""
+    },
+    {
+      "id": 45,
+      "offset": 184829,
+      "length_bytes": 523,
+      "raw_hex": "aef394ffffececffffff93233535606060127c6060aeae35aef364ae3ed29955ff55fff3ffcdffff43615664ffffffce55ffffcd43d5f3cd4333ffdcdc92cd60ecffec3a3d3d3a3a933a93f33d453a3a3a3a453a3a3a3a453a3af3763a3af3a4f993933393fc8737cd3acd93cd43aa939393ececff93aeecececec60852d8585ec93855f605ee157d35761500e4334f343433a3aff3a3a33a2aeaeaedfae50a243ae55553a3a6085853a853a2d853a3aa6a63aa685a6c38787ff9d9d43a8cdfcffffff423d3d3d3dfc3d60933d2d93454e45fc454e45453d3d3d3d3d933d2df9c9167b23a46060874360430843ffae94ff0effaefff3ff0eff5794f399f399f3fff394ffffff60ffffff37ab0e35357cff876460609caeaee1aef3ae88ae1c9cff55f3ff60ffffcdae6164566456ffceffff55ffcdf34342cdffcd242462aa12fffffff33d3d3a3d3a3d60933d3a3a3a3a453a3a4e3a3a3a3d3da53a933d2da59b931233335cfc3a37938793934393939393a8ec93aeecffecececa3ec2dec93ec859c505f2cf0f05734610ec32b57434357433aaeffae33a21caeaeaeae3a873a3a603a3a2d3a89852ba6a63a3aa63a3a85a6a641cd4141419dff0efcffff0eff3d432dc938aeaeae2dff3d2d2d4e4545a84ef74e45453d3d3d762d2d3d622d7b232d232392aa2de02d43606057aefffff3f3fff6f6f3f3ff0ef3fff6fffff694fff3ff94ffffecfffffc",
+      "text_jp": "I$ブ<CMD_ec>□<CMD_93>もじじシシシつリシシIIじI$タIば*プア<CMD_55><CMD_f3><CMD_cd><CMD_43>スイタ<CMD_ce>ア<CMD_cd>ぱ,$.ぱご<CMD_dc>『バ.シ□<CMD_ec>ぢどどぢぢビぢビ$どぷぢぢぢぢぷぢぢぢぢぷぢぢ$メぢぢ$ッcビビごビf蝉.ぢ.ビ.ぱEビビビ□□<CMD_93>I□□□□シ参蒔□ビ私シコ-ウ<ウスっせぱざ$ぱぱぢぢ<CMD_3a>ぢごュIII】IっュぱIアアぢぢシ蒔ぢ賛を賛ぢAAぢA射3層<CMD_9d>ィぱC.f<CMD_42>どどどどfどシビどをビぷゅぷfぷゅぷぷどどどどどビどをc9にラもッシシ栓シぱくぱ<CMD_ae>ブ<CMD_0e><CMD_ae><CMD_f3><CMD_0e><CMD_57>ブ$プ$プ$<CMD_f3>ブ<CMD_60><CMD_37>Fせじじリ<CMD_87>タシシァII-I$IザIふァ<CMD_55>$<CMD_60><CMD_cd>Iスタイタイ<CMD_ce><CMD_55><CMD_cd>$ぱぼ.<CMD_cd>ややセEつ<CMD_f3>どどぢどぢどシビどぢぢぢぢぷぢぢゅぢぢぢどどヮぢビどをヮポビつごごクfぢぜビ槍ビぱビビビビC□ビI□<CMD_ec>□□ョ□を□ビ□蔀っサわ※※ウざスせ3ろウぱぱウぱぢI<CMD_ae>ごュふIIIIぢ千ぢシぢぢをぢジ三AAぢぢAぢぢ射Aべ.べべべィ<CMD_0e>f<CMD_0e><CMD_3d>ぱを9ぞIIIを<CMD_3d>ををゅぷぷCゅaゅぷぷどどどメををどセをラもをももバEを+をぱシシウI<CMD_f3>$<PAGE>!?$$<CMD_0e>$<PAGE><PAGE>ブ<CMD_f3><CMD_94><CMD_ec><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 46,
+      "offset": 185130,
+      "length_bytes": 768,
+      "raw_hex": "56ffceffff55ffcdf34342cdffcd242462aa12fffffff33d3d3a3d3a3d60933d3a3a3a3a453a3a4e3a3a3a3d3da53a933d2da59b931233335cfc3a37938793934393939393a8ec93aeecffecececa3ec2dec93ec859c505f2cf0f05734610ec32b57434357433aaeffae33a21caeaeaeae3a873a3a603a3a2d3a89852ba6a63a3aa63a3a85a6a641cd4141419dff0efcffff0eff3d432dc938aeaeae2dff3d2d2d4e4545a84ef74e45453d3d3d762d2d3d622d7b232d232392aa2de02d43606057aefffff3f3fff6f6f3f3ff0ef3fff6fffff694fff3ff94ffffecfffffc340e2c350eff2d2d6969602daeaeaeae34f3ae1f0affffffffffffffae43aeaecdaefff6f6a8ff64ff55554342cd33ff3838cddefcff3d432df33aaeaeae2d573d2d3a3a3a3a3a4e3a3a3a3a3a3d3aa5a52d3df33a939393336793fc938787939387a8cbaaa8ffec43ffecec87ececececececececec9c859c7c5f85d385f3570e57436243f643f657ffffff433af6f63eaeaeae3a3a333a503a2d3a3a1f3a3a3a3a3aa63a3a1aa64141a841fcff9d9d9d9dff9d870e2da83d3dae3dae12602dff3dde43454545ff45f7930e3df7f72d2d422d2d0e0e7d60f0ae5fae0eaeaeaeffaeaefffff3ae57f6fff6f3f3555755f3fff357f3f3f3f3ffaeffffffecff439b920e2c602d0e2d88f3f32d8a6daef3a4f3aec40a43ffffffffffffff5562cb43fff6fff6f6f6ffff55f355f35ccdf36a6a24de87ff2da83d3d3a3dae3a602d3a3d3a87453a3a3a3a3a3a3a3d3d3a3a3a3a3a93939393939393429393939393939343cbf3858585ecffecffececec612dececec858585855b7d85238534870e57f5433857f6f6fc8e573a573a3a3a3af6dfaeaeae603a2d7c2d3a2d2d2d2dffaeff3affae41f63a41559d9d9d9d9d9d9d9d9da5de43ff3df7aef76a3daeae2d2d2d9b93ff4545450e3dff93f7f72d0e3d0e0e0e2d7d2c7d31f0aeae0eae330e0efff30e0eaef657f3f6f3f65555fff35755ffffffff94f3f333ffff2dfff60eababae0eae60af2d2d892df32dba9bf32cc3bc1cd987ffffffff33ffff4362cbaeff",
+      "text_jp": "イ<CMD_ce><CMD_55><CMD_cd>$ぱぼ.<CMD_cd>ややセEつ<CMD_f3>どどぢどぢどシビどぢぢぢぢぷぢぢゅぢぢぢどどヮぢビどをヮポビつごごクfぢぜビ槍ビぱビビビビC□ビI□<CMD_ec>□□ョ□を□ビ□蔀っサわ※※ウざスせ3ろウぱぱウぱぢI<CMD_ae>ごュふIIIIぢ千ぢシぢぢをぢジ三AAぢぢAぢぢ射Aべ.べべべィ<CMD_0e>f<CMD_0e><CMD_3d>ぱを9ぞIIIを<CMD_3d>ををゅぷぷCゅaゅぷぷどどどメををどセをラもをももバEを+をぱシシウI<CMD_f3>$<PAGE>!?$$<CMD_0e>$<PAGE><PAGE>ブ<CMD_f3><CMD_94><CMD_ec><CLOSE>ざせわじせ<CMD_2d>をナナシをIIIIざ$Iまこ<CMD_ae>ぱII.I<PAGE>!?C<CMD_64><CMD_55>アぱぼ.ご<CMD_38>ぞ.【f<CMD_3d>ぱを$ぢIIIをウどをぢぢぢぢぢゅぢぢぢぢぢどぢヮヮをど$ぢビビビごテビfビ層ビビ鎗:EC<CMD_ec>ぱ<CMD_ec>□貸□□□□□□□□ァ蔀リサ綬充ウせウぱセぱ!?ぱ!?ウ<CMD_43>ぢ!?!?ばIIIぢぢごぢっぢをぢぢまぢぢぢぢぢAぢぢはAべべCべf<CMD_9d>ィィィ<CMD_9d>製をCどどIどIつシを<CMD_3d>【ぱぷぷぷ<CMD_45>aビせどaaををぼををせせルシ※IサIせIII<CMD_ae>I<CMD_f3>Iウ!?<PAGE>$$アウア$<CMD_f3>ウ$$$$<CMD_ae><CMD_ec><CMD_43>ポバせわシをせをザ$$をズノI$ッ$I4こぱ<CMD_55>セ:ぱ<PAGE><PAGE>!?!?<CMD_55>$ア$ク.$ニニや【択をCどどぢどIぢシをぢどぢ泉ぢぢぢぢぢぢぢどどぢぢぢぢぢビビビビビビビぼビビビビビビビぱ:$蒔週<CMD_ec><CMD_ec>□□スを□□□蒔蒔キル雑珊製ウ♂ぱぞウ!?!?fヂウぢウぢぢぢぢ!?】IIIシぢをリをぢをををを<CMD_ae><CMD_3a><CMD_ae>べ!?ぢべアィィィィィィィィィヮ【ぱ<CMD_3d>aIaニどIIをををポビ<CMD_45>ぷぷせど<CMD_93>aaをせどせせせをルわルぐ※IIせIごせせ<CMD_f3>せせI!?ウ$!?$!?アア<CMD_f3>ウア<CMD_94>$$ご<CMD_2d><PAGE>せFFIせIシJををジを$をUポ$わ3Wふ)択<CMD_33><CMD_43>セ:I",
+      "translation_en": ""
+    },
+    {
+      "id": 47,
+      "offset": 185838,
+      "length_bytes": 392,
+      "raw_hex": "f657f3f6f3f65555fff35755ffffffff94f3f333ffff2dfff60eababae0eae60af2d2d892df32dba9bf32cc3bc1cd987ffffffff33ffff4362cbaeffaef68733ff5555ff55551a37a8cd424238ddde43ff3d3dae2d6a3a3a3a3a3a2d3a9387454545873a1a3a3a932d3aa59b3a3a933a3a93a59342379393a59393439385aa93ff858787ecececff878585ececec2cec8585cb5b7cf962620efc43434343a857f65757f63af6f63a3a3a3e3aaeabae3a2d3a3a3a2d2d3a2d3afc93ff41ffff419b3af6ff9d9d439d569d9d9d9dff1a0e0effb938f77638f7602df72df7f793f793f70ef70e93932d2d2d2d0e2d0ef3607d0e0ef0ae62fcffaeaeffae0e0e0e57fff3f6f6f657f3f6f3f3ff550eff94fffff337b933ffecec2d43ae0eae0e9e602d9588f3f3f360f39bd3aeaeae951c87ffffffff33ffff2df3aa60ffffff37f656f6fff3a2371a5c55ff76426a1a1a43cdff42763a3a3aae602d3a3a3a2d932d939387873a3a932d2d3aa5a52df33a3a939367a593a261939387939333cb85a8ff8543858585fffc",
+      "text_jp": "!?ウ$!?$!?アア<CMD_f3>ウア<CMD_94>$$ご<CMD_2d><PAGE>せFFIせIシJををジを$をUポ$わ3Wふ)択<CMD_33><CMD_43>セ:I<CMD_ae>!?説<CMD_55>ア<CMD_55>アはぜC.ぼぼぞ』【ぱ<CMD_3d>どIをニぢぢぢぢぢをぢビ泉ぷぷ千はぢぢビをぢヮポぢぢビぢぢビヮビぼぜビビヮビビぱビ煮ビ<CMD_85>層□□□<CMD_87>蒔□□□わ□蒔:キリcセセせfぱぱぱぱCウ!?ウウ!?ぢ!?!?ぢぢぢばぢIFIぢをぢぢぢををぢをぢfビ<CMD_41><CMD_41>ポぢ!?<CMD_9d>ィぱィイィィィィ<CMD_1a>せせ<CMD_b9>ぞaメぞaシをaをaaビaビaせaせビビををををせをせ$シルせせ※Iセf<CMD_ae>I<CMD_ae>せせせウ<CMD_f3>!?!?!?ウ$!?$$<CMD_55>せ<CMD_94><CMD_f3>ぜTご<CMD_ec>□をぱIせIせゥシをベザ$$$シ$ポ<IIIベふ択<CMD_33><CMD_2d>$Eシ<CMD_37>!?イ!?<CMD_f3>ュぜはクア<CMD_76>ぼニははぱ.<CMD_42>メぢぢぢIシをぢぢぢをビをビビ層ぢぢビををぢヮヮを$ぢぢビビテヮビュスビビ槍ビご:赦<CMD_85>ぱ蒔夙f",
+      "translation_en": ""
+    },
+    {
+      "id": 48,
+      "offset": 186098,
+      "length_bytes": 382,
+      "raw_hex": "f657f3f6f3f3ff550eff94fffff337b933ffecec2d43ae0eae0e9e602d9588f3f3f360f39bd3aeaeae951c87ffffffff33ffff2df3aa60ffffff37f656f6fff3a2371a5c55ff76426a1a1a43cdff42763a3a3aae602d3a3a3a2d932d939387873a3a932d2d3aa5a52df33a3a939367a593a261939387939333cb85a8ff8543858585fffc4985691fec2c2d7cec85c35b5ff99257a8fc434343433357ff33f6f6f63af6f63a3a3eae3aae873a2d3a3a1b2d2d8993939393ffaeffff429d379d5757ff57cd579d9d9d9d9db90effff376a765cf7aef760f7f73d33f7ffffff3dff930e2d3d2df32d0e0e0e620e0e0e0e1d7bae0eaeae0e570e5757aef3f6f3f3f6fff6fff355ff0e57fffff3ff57f3d5f333ffffffff43350eaeae690e602df3f31f69f3f36023ae354a95ae43fffffffffff3ff87cb6143aeffae5743e0f3ff55f3a25542a85576cdcdddb933ffff376af33a3aaeae603a3a3d3a87ffff873d8793a52d3d3af33adea593a59393a512a5a593a5a5a5a5fc93a8aa8787fffc",
+      "text_jp": "!?ウ$!?$$<CMD_55>せ<CMD_94><CMD_f3>ぜTご<CMD_ec>□をぱIせIせゥシをベザ$$$シ$ポ<IIIベふ択<CMD_33><CMD_2d>$Eシ<CMD_37>!?イ!?<CMD_f3>ュぜはクア<CMD_76>ぼニははぱ.<CMD_42>メぢぢぢIシをぢぢぢをビをビビ層ぢぢビををぢヮヮを$ぢぢビビテヮビュスビビ槍ビご:赦<CMD_85>ぱ蒔夙fぃ試ま□わをリ□手キサcバウCfぱぱぱぱごウ<CMD_33>!?!?!?ぢ!?!?ぢぢばIぢI千をぢぢひををジビビビビ<CMD_ae><CMD_42>ィぜィウウ<CMD_57>.ウィィィィィTせ<CMD_37>ニメクaIaシaaどごa<CMD_3d><CMD_93>せをどを$をせせせセせせせせへラIせIIせウせウウI$!?$$!?<PAGE><CMD_f3>ア<CMD_0e>ウ<CMD_f3><CMD_57>$,$ご<CMD_43>じせIIナせシを$$まナ$$シもIじぅベIぱ<CMD_f3><CMD_87>:スぱI<CMD_ae>ウぱ+$<CMD_55>$ュアぼCアメ..』Tご<CMD_37>ニ$ぢぢIIシぢぢどぢ択<CMD_87>ど槍ヮをどぢ$ぢ【ヮビヮビビヮつヮヮビヮヮヮヮfビCE層<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 49,
+      "offset": 186366,
+      "length_bytes": 451,
+      "raw_hex": "57f3d5f333ffffffff43350eaeae690e602df3f31f69f3f36023ae354a95ae43fffffffffff3ff87cb6143aeffae5743e0f3ff55f3a25542a85576cdcdddb933ffff376af33a3aaeae603a3a3d3a87ffff873d8793a52d3d3af33adea593a59393a512a5a593a5a5a5a5fc93a8aa8787fffc43ec858587491fc485ecf0f0d3f5f59e7c9cf092ab61434341fc43fcf643ff57f6573a3a3af6f6f6eaae3a3a3a2d3a2d3a3ad22d93939337ff3aaeff3a3af6f6575555ffff5757ffff5757570e330e0e0e4276f7f70ef7ffaef7aef7f7f7ffff930e0eb9f7f5f3f30eecddaeae0ef30e0ce1d334aea80e0e0ef3ae43f60ef30ef6f3f3f3f355f3f3f3f30effff0efff3ab0ef333ff0e0e0ef60ed3ae1fc4934a602d6960f32cf323f03595958afffffff3fff3f3332d2dcbf3ffa833f343e045454545f3f337435576cdcdcdb933fffff342f33af33a3a3a3a3a3a878760874593ffa5873dfc3aa5a5ec5faeaede385ca5a5a5a5cb93a587fcfca8fc85a8fca8fc85ff8585ec5ba35f6d8592ab9c9c497ce135233437fc43fcfc431287fcfff68eff55f6f6f6f63aeaae0a3a602d3a3a2d2d3a2dae05933793ffff3a3a3a3a3a3aff55ffff57565757575757b9330efffc",
+      "text_jp": "ウ$,$ご<CMD_43>じせIIナせシを$$まナ$$シもIじぅベIぱ<CMD_f3><CMD_87>:スぱI<CMD_ae>ウぱ+$<CMD_55>$ュアぼCアメ..』Tご<CMD_37>ニ$ぢぢIIシぢぢどぢ択<CMD_87>ど槍ヮをどぢ$ぢ【ヮビヮビビヮつヮヮビヮヮヮヮfビCE層<CLOSE>ぱ□蒔潜ま4週※※<♂♂ゥリァ※バFスぱぱべfぱf!?ぱ<CMD_57>!?ウぢぢぢ!?!?!?○Iぢぢぢをぢをぢぢ*をビビビぜ<CMD_3a>I<CMD_3a>ぢ!?!?ウアア<CMD_57>ウ<CMD_57>ウウせごせせせぼメaaせa<CMD_ae>aIaaa<CMD_93>せせTa♂$$せ□』IIせ$せし-<ざICせせせ$Iぱ!?せ$せ!?$$$$ア$$$$せ<CMD_0e><CMD_f3>Fせ$ご<CMD_0e>せせ!?せ<Iま4ビぅシをナシ$わ$も※じベベズ<CMD_f3><CMD_f3>$ごをを:$<CMD_a8>ご$ぱ+ぷぷぷぷ$$ぜぱアメ...Tご<CMD_f3>ぼ$ぢ$ぢぢぢぢぢぢ層シ泉ビ<CMD_a5>専fぢヮヮ□サII【ぞクヮヮヮヮ:ビヮ啄fCf赦fCf夙蒔□キョサノ執Fァァぃリ-じもざぜfぱffぱつ啄<PAGE>ヂ<CMD_55>!?!?!?!?ぢ○IこぢシをぢぢををぢをIおビぜビ<CMD_3a>ぢぢぢぢぢ<CMD_55><CMD_57>イウウウウウTごせ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 50,
+      "offset": 186622,
+      "length_bytes": 368,
+      "raw_hex": "f3ab0ef333ff0e0e0ef60ed3ae1fc4934a602d6960f32cf323f03595958afffffff3fff3f3332d2dcbf3ffa833f343e045454545f3f337435576cdcdcdb933fffff342f33af33a3a3a3a3a3a878760874593ffa5873dfc3aa5a5ec5faeaede385ca5a5a5a5cb93a587fcfca8fc85a8fca8fc85ff8585ec5ba35f6d8592ab9c9c497ce135233437fc43fcfc431287fcfff68eff55f6f6f6f63aeaae0a3a602d3a3a2d2d3a2dae05933793ffff3a3a3a3a3a3aff55ffff57565757575757b9330efffc0ef6120ef7ffaeaeaef7aeff0effff0e0effa22d0ef32d600e0e0e5b1f0e1f0e6dd30eae0e330ef3f30e57f3f3f3f3f3f6f6f6f355f3f355f30ef355fffff350f6f633a8ff60432df0f65f6d49aeaeae0569f3aee1f323232cae69c4d2f3f3f3f3fff3ff2d344545ffa8336112f645454545fc37b9435555557655b955fff3fcf3f612f333ffaeae3a87ae874545a5a5454545a545452d3a9bf3a5343aa5a5a59b61aa4ea28737fca8ff4337fffc",
+      "text_jp": "$Fせ$ご<CMD_0e>せせ!?せ<Iま4ビぅシをナシ$わ$も※じベベズ<CMD_f3><CMD_f3>$ごをを:$<CMD_a8>ご$ぱ+ぷぷぷぷ$$ぜぱアメ...Tご<CMD_f3>ぼ$ぢ$ぢぢぢぢぢぢ層シ泉ビ<CMD_a5>専fぢヮヮ□サII【ぞクヮヮヮヮ:ビヮ啄fCf赦fCf夙蒔□キョサノ執Fァァぃリ-じもざぜfぱffぱつ啄<PAGE>ヂ<CMD_55>!?!?!?!?ぢ○IこぢシをぢぢををぢをIおビぜビ<CMD_3a>ぢぢぢぢぢ<CMD_55><CMD_57>イウウウウウTごせ<CLOSE>せ!?つせa<CMD_ae>IIaI<CMD_0e><CMD_0e>せ<CMD_a2>をせ$をシせせせキませませノ<せIせごせ$$せウ$$$$$!?!?!?$ア$$ア$せ$ア<CMD_f3>っ!?!?ごC<CMD_60>ぱを※!?サノぃIIIおナ$I-$ももわIナ4*$$$$<CMD_f3><CMD_2d>ざぷぷ<CMD_a8>ごスつ!?ぷぷぷぷfぜTぱアアアメアTア<CMD_f3>f$!?つ$ご<CMD_ae>Iぢ臓泉ぷヮヮぷぷぷヮぷぷをぢポ$ヮざぢヮヮヮポスEゅュ蝉fC<CMD_43>ぜ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 51,
+      "offset": 186815,
+      "length_bytes": 257,
+      "raw_hex": "fc0ef6120ef7ffaeaeaef7aeff0effff0e0effa22d0ef32d600e0e0e5b1f0e1f0e6dd30eae0e330ef3f30e57f3f3f3f3f3f6f6f6f355f3f355f30ef355fffff350f6f633a8ff60432df0f65f6d49aeaeae0569f3aee1f323232cae69c4d2f3f3f3f3fff3ff2d344545ffa8336112f645454545fc37b9435555557655b955fff3fcf3f612f333ffaeae3a87ae874545a5a5454545a545452d3a9bf3a5343aa5a5a59b61aa4ea28737fca8ff4337fffcfc85ecff858a69c3cd2c6df062927c60ab5f2c5b233433fc41fc4141fcfc4312fcf6a8f6f633f670f6f63ed9ae3a3aff43619e2d052d5e3593ffffff3a3af6423a3a3a57ffff57ffff56575757b90e0efffc",
+      "text_jp": "fせ!?つせa<CMD_ae>IIaI<CMD_0e><CMD_0e>せ<CMD_a2>をせ$をシせせせキませませノ<せIせごせ$$せウ$$$$$!?!?!?$ア$$ア$せ$ア<CMD_f3>っ!?!?ごC<CMD_60>ぱを※!?サノぃIIIおナ$I-$ももわIナ4*$$$$<CMD_f3><CMD_2d>ざぷぷ<CMD_a8>ごスつ!?ぷぷぷぷfぜTぱアアアメアTア<CMD_f3>f$!?つ$ご<CMD_ae>Iぢ臓泉ぷヮヮぷぷぷヮぷぷをぢポ$ヮざぢヮヮヮポスEゅュ蝉fC<CMD_43>ぜ<CLOSE>f週<CMD_85>ズナ3.わノ※セバリシFサわキもざごfべfべべffぱつf!?C!?!?ご!?フ!?!?ば)Iぢぢ<CMD_43>スゥをおをコじビ<CMD_3a>ぢ!?ぼぢぢぢウ<CMD_57><CMD_56>ウウウTせせ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 52,
+      "offset": 186914,
+      "length_bytes": 286,
+      "raw_hex": "f3ff2d344545ffa8336112f645454545fc37b9435555557655b955fff3fcf3f612f333ffaeae3a87ae874545a5a5454545a545452d3a9bf3a5343aa5a5a59b61aa4ea28737fca8ff4337fffcfc85ecff858a69c3cd2c6df062927c60ab5f2c5b233433fc41fc4141fcfc4312fcf6a8f6f633f670f6f63ed9ae3a3aff43619e2d052d5e3593ffffff3a3af6423a3a3a57ffff57ffff56575757b90e0efffc76f60e76f6f7ff0e0e76aeffff0e0effa8a8ec0e0e0ef3f3f3d3f36d050e0e0ef6f0abf60e120e33f6f30ef3f3f3f65757f30e5555f30effffffffffffff427cf0f633ffaea82d2d0e2d0e5bc4bc8af3bc49f35e2cf0f0d3f3691fa3f333f3f32dfff3a8f3457f450ef343f3f3f3454545f387f3f33755555576b9b933fffffc",
+      "text_jp": "$<CMD_2d>ざぷぷ<CMD_a8>ごスつ!?ぷぷぷぷfぜTぱアアアメアTア<CMD_f3>f$!?つ$ご<CMD_ae>Iぢ臓泉ぷヮヮぷぷぷヮぷぷをぢポ$ヮざぢヮヮヮポスEゅュ蝉fC<CMD_43>ぜ<CLOSE>f週<CMD_85>ズナ3.わノ※セバリシFサわキもざごfべfべべffぱつf!?C!?!?ご!?フ!?!?ば)Iぢぢ<CMD_43>スゥをおをコじビ<CMD_3a>ぢ!?ぼぢぢぢウ<CMD_57><CMD_56>ウウウTせせ<CLOSE>メ!?せメ!?a<CMD_0e>せメI<CMD_0e>せ<CMD_a8>C□せせせ$$$<$ノおせせせ!?※F!?せつせご!?$せ$$$!?ウウ$せアア$せ<CMD_42>リ※!?ご<CMD_ae>Cををせをせキ4Wズ$Wぃ$コわ※※<$ナまョ$ご$$を<CMD_f3>C$ぷロぷせ$ぱ$$$ぷぷぷ$台$ぜアアアメTTご<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 53,
+      "offset": 187023,
+      "length_bytes": 258,
+      "raw_hex": "fcf6a8f6f633f670f6f63ed9ae3a3aff43619e2d052d5e3593ffffff3a3af6423a3a3a57ffff57ffff56575757b90e0efffc76f60e76f6f7ff0e0e76aeffff0e0effa8a8ec0e0e0ef3f3f3d3f36d050e0e0ef6f0abf60e120e33f6f30ef3f3f3f65757f30e5555f30effffffffffffff427cf0f633ffaea82d2d0e2d0e5bc4bc8af3bc49f35e2cf0f0d3f3691fa3f333f3f32dfff3a8f3457f450ef343f3f3f3454545f387f3f33755555576b9b933fffffcf3f6f3f3f6f6ffff5c76aeff453a45a545453a3a3a3a45a5a57da5a53a3a3a76a5a5a537a5a5aa87a8a8fc3787ff8787ffa59ebc1fe1356d23dc24ababc3c3aeae2324aba643873a8741fc121241fffc",
+      "text_jp": "f!?C!?!?ご!?フ!?!?ば)Iぢぢ<CMD_43>スゥをおをコじビ<CMD_3a>ぢ!?ぼぢぢぢウ<CMD_57><CMD_56>ウウウTせせ<CLOSE>メ!?せメ!?a<CMD_0e>せメI<CMD_0e>せ<CMD_a8>C□せせせ$$$<$ノおせせせ!?※F!?せつせご!?$せ$$$!?ウウ$せアア$せ<CMD_42>リ※!?ご<CMD_ae>Cををせをせキ4Wズ$Wぃ$コわ※※<$ナまョ$ご$$を<CMD_f3>C$ぷロぷせ$ぱ$$$ぷぷぷ$台$ぜアアアメTTご<CLOSE>$!?$$!?!?<CMD_5c>メI<CMD_45>ぢぷヮぷぷぢぢぢぢぷヮヮルヮヮぢぢぢメヮヮヮぜヮヮE鎗Cfぜ択層<CMD_a5>ゥWま-じノも『やFF33IIもやFAぱ千扇fつつべ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 54,
+      "offset": 187050,
+      "length_bytes": 490,
+      "raw_hex": "3a3af6423a3a3a57ffff57ffff56575757b90e0efffc76f60e76f6f7ff0e0e76aeffff0e0effa8a8ec0e0e0ef3f3f3d3f36d050e0e0ef6f0abf60e120e33f6f30ef3f3f3f65757f30e5555f30effffffffffffff427cf0f633ffaea82d2d0e2d0e5bc4bc8af3bc49f35e2cf0f0d3f3691fa3f333f3f32dfff3a8f3457f450ef343f3f3f3454545f387f3f33755555576b9b933fffffcf3f6f3f3f6f6ffff5c76aeff453a45a545453a3a3a3a45a5a57da5a53a3a3a76a5a5a537a5a5aa87a8a8fc3787ff8787ffa59ebc1fe1356d23dc24ababc3c3aeae2324aba643873a8741fc121241fffcf633ff434730d2f61bae50a243ff432dc44a695e2d0caefffffff63a5c763a55ff555756ff3a3a57ff43570e0e0eff655c122676330ef6fff7f65cffff0e0e0e2d330e0ef361ae0e0e0ea3f60e5e1f055e2c5087fc0e0e57570e43f3f30ef3f6f355f35555a8ffa8570e55ff0e0eb99cf39d33ffffaef3602d2d2d350e2d958a88f3e1c3f36d6de13589aec4f3d5f3f3f3f3ff2df34545450e0e43d5f337454545454542f3a243555576428733f3ff43f3f3f3f3a8ffa5ffa5f65ca5ff453a453a3a454545454542a4a53a3aa5de3ab95043a53aa54eaa3743a837fca5ff33a5a5a38a695ec47d239b42cd50f3a35f3aaeae1a3a4141fc4141fc878787fff655fcf6fffc",
+      "text_jp": "ぢぢ!?ぼぢぢぢウ<CMD_57><CMD_56>ウウウTせせ<CLOSE>メ!?せメ!?a<CMD_0e>せメI<CMD_0e>せ<CMD_a8>C□せせせ$$$<$ノおせせせ!?※F!?せつせご!?$せ$$$!?ウウ$せアア$せ<CMD_42>リ※!?ご<CMD_ae>Cををせをせキ4Wズ$Wぃ$コわ※※<$ナまョ$ご$$を<CMD_f3>C$ぷロぷせ$ぱ$$$ぷぷぷ$台$ぜアアアメTTご<CLOSE>$!?$$!?!?<CMD_5c>メI<CMD_45>ぢぷヮぷぷぢぢぢぢぷヮヮルヮヮぢぢぢメヮヮヮぜヮヮE鎗Cfぜ択層<CMD_a5>ゥWま-じノも『やFF33IIもやFAぱ千扇fつつべ<CLOSE>!?ご<CMD_43>ぽぎ*!?ひIっュぱ<CMD_43>を4ぅナコをしI<PAGE>ぢクメぢア<CMD_55>ウイ<CMD_3a>ぢウ<CMD_43>ウせせせ<CMD_65>クつよメごせ!?<CMD_f7>!?ク<CMD_0e>せせをごせせ$スIせせせョ!?せコまおコわっ啄せせウウせぱ$$せ$!?$ア$アアC<CMD_a8>ウせア<CMD_0e>せTァ$ィご<CMD_ae>$シをををじせをベズザ$-3$ノノ-じジI4$,$$$$<CMD_2d>$ぷぷぷせせぱ,$ぜぷぷぷぷぷぼ$ュぱアアメぼ説$<CMD_43>$$$$C<CMD_a5><CMD_a5>!?クヮ<CMD_45>ぢぷぢぢぷぷぷぷぷぼッヮぢぢヮ【ぢTっぱヮぢヮゅEぜぱCぜfヮ<CMD_33>ヮヮョズナコ4ルもポぼ.っ$ョサぢIIはぢべべfべべf層択!?アf!?<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 55,
+      "offset": 187308,
+      "length_bytes": 756,
+      "raw_hex": "3a5c763a55ff555756ff3a3a57ff43570e0e0eff655c122676330ef6fff7f65cffff0e0e0e2d330e0ef361ae0e0e0ea3f60e5e1f055e2c5087fc0e0e57570e43f3f30ef3f6f355f35555a8ffa8570e55ff0e0eb99cf39d33ffffaef3602d2d2d350e2d958a88f3e1c3f36d6de13589aec4f3d5f3f3f3f3ff2df34545450e0e43d5f337454545454542f3a243555576428733f3ff43f3f3f3f3a8ffa5ffa5f65ca5ff453a453a3a454545454542a4a53a3aa5de3ab95043a53aa54eaa3743a837fca5ff33a5a5a38a695ec47d239b42cd50f3a35f3aaeae1a3a4141fc4141fc878787fff655fcf6fffcdff6474701aec3b9432d43372db0895e0c353aff43fffffff6f65cff553a9dcdff3aff573aff575ca80e0e650e5c555c0e550e0e0e0e0e0e0eff0ea833ec0ef387f3aeaea40e0e5f5e9c69881f0c0e0e0ef60e0e0e0ef30e0e0ef3f6f6575755550e5555a855a8ffff3361e18762fc43ffa8aeae2de1a31f1f4a2dc4b00ad26969055e35ae4abc1f0a50fffff3f3330e0e0e45a212123750f6a24545374545f3f337f35c5c55425533ffff1233f355f3a85545f3a5423787873aa5453a3a453a3a45453a3aa492f0a59b6a1a3a3a3a3aa5aa373733a5a5fcffff3361ffb08869355b9bb938f6ddcb37aaaef03af63af6413a418741418741411241f6f6f6f6f6f670f61bd0d2f5a2434133fcab8a881f1f3534ffffffffff873a55ffff9dffcd3a57434357a8575c0e0e0efc760e267633410eff0e0e765537ddfca80e0e0e0efcf3f3f3f3f6f30e9c9e0e9c7cf38af51a0efc570ef3570e0e87f30e5557555755f30e570e0ea8a80e3387875bab8733ae3333aef07c2d2d2d4ad2d9f549f3c44a699c5e354a05893ed52d2d0e43330e875045f3fcfcb97c616145f3f3456150d55587555576555543a8fff326f3f35cf3ffa5a5a5427655a5dd3aa53a3a3a3a3a3a3aa53a4534f0a5f33aa5f3a53aa53af3f387a8ff87fcffff43a5a5eaa5bc5ba4de38ddde613af650f6f0f99b9dfcf6873a3a3a87873a8757f6f641f6f69c0170dfdfd2d2c38743fffc",
+      "text_jp": "ぢクメぢア<CMD_55>ウイ<CMD_3a>ぢウ<CMD_43>ウせせせ<CMD_65>クつよメごせ!?<CMD_f7>!?ク<CMD_0e>せせをごせせ$スIせせせョ!?せコまおコわっ啄せせウウせぱ$$せ$!?$ア$アアC<CMD_a8>ウせア<CMD_0e>せTァ$ィご<CMD_ae>$シをををじせをベズザ$-3$ノノ-じジI4$,$$$$<CMD_2d>$ぷぷぷせせぱ,$ぜぷぷぷぷぷぼ$ュぱアアメぼ説$<CMD_43>$$$$C<CMD_a5><CMD_a5>!?クヮ<CMD_45>ぢぷぢぢぷぷぷぷぷぼッヮぢぢヮ【ぢTっぱヮぢヮゅEぜぱCぜfヮ<CMD_33>ヮヮョズナコ4ルもポぼ.っ$ョサぢIIはぢべべfべべf層択!?アf!?<CLOSE>】!?ぽぽあI3TぱをぱぜをKジコしじぢ<CMD_43><PAGE>!?ク<CMD_55>ぢィ.<CMD_3a><CMD_57>ぢ<CMD_57>クCせせチせクアクせアせせせせせせせ<CMD_0e>Cご□せ$台IIッせせサコァナザましせせせ!?せせせせ$せせせ$!?!?ウウアアせアアCアC<CMD_33>ス-然fぱ<CMD_a8>IIを-ョままぅを4Kこ*ナナおコじIぅWまこっ<CMD_f3>$ごせせせぷュつつぜっ!?ュぷぷぜぷぷ$$ぜ$ククアぼアご<CMD_12>ご$ア$Cアぷ$ヮぼぜ層ぢヮぷぢぢぷぢぢぷぷぢぢッバ※ヮポニはぢぢぢぢヮEぜぜごヮヮf<CMD_33>ス<CMD_b0>ザナじキポTぞ!?』:ぜEI※ぢ!?ぢ!?べぢべ扇べ扇べつべ!?!?!?!?!?!?フ!?ひ?*♂ュぱべごfFズザままじざ<CMD_87>ぢア<CMD_9d><CMD_cd>ぢウぱぱウCウクせせせfメせよメごべせ<CMD_0e>せメアぜ』fCせせせせf$$$$!?$せァゥせァリ$ズ♂はせfウせ$ウせせ台せアウアウア$せウせせCCせご層キF説IごごI※リをををぅ*)♂ぃ$4ぅナァコじぅおジば,ををせぱごせ繊ぷ$ffTリススぷ$$ぷスっ,ア薦アメアアぱC<CMD_f3>よ$$ク$<CMD_a5>ヮヮぼメアヮ』ぢヮぢぢぢぢぢぢぢヮぢぷざ※ヮ$ぢヮ$ヮぢヮぢ$$鎗<CMD_87>f<CMD_43>ヮヮ○ヮWキッ【ぞ』【スぢ!?っ!?※cポィf!?千ぢぢ層ぢ賎!?!?べ!?!?ァあフ】】**3栓<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 56,
+      "offset": 187820,
+      "length_bytes": 541,
+      "raw_hex": "873a55ffff9dffcd3a57434357a8575c0e0e0efc760e267633410eff0e0e765537ddfca80e0e0e0efcf3f3f3f3f6f30e9c9e0e9c7cf38af51a0efc570ef3570e0e87f30e5557555755f30e570e0ea8a80e3387875bab8733ae3333aef07c2d2d2d4ad2d9f549f3c44a699c5e354a05893ed52d2d0e43330e875045f3fcfcb97c616145f3f3456150d55587555576555543a8fff326f3f35cf3ffa5a5a5427655a5dd3aa53a3a3a3a3a3a3aa53a4534f0a5f33aa5f3a53aa53af3f387a8ff87fcffff43a5a5eaa5bc5ba4de38ddde613af650f6f0f99b9dfcf6873a3a3a87873a8757f6f641f6f69c0170dfdfd2d2c38743fffcaa7c9e695ba35bc337ffff12fff64276ff37431256ff12ff57a25712420effffa6a60e0e0e0e0effff5c420eff766a0ea833430ef3f31a50f992f0f3f3b9ab508a0e7c9ef534f3b937370ef60e0e0ef3f337fcfcfc5555120e330e550ea843345b5b5f8743a8ae87ae92a4f02d5e4ad2d2f588d09e3e4a69881f4a954aead5fff30ef343f38750aa61f30ef3c3f3f961a6cb6161f37ccb5555f3f3425555a8f3fc2612f3a5454545a5a5a576ff76a53a3a3a3af36a3aa53a3a3a3a453af3f31a1aa53a3a4337a5a5a5a8a8874387a543619ed2a505f062f962de34f3ffcbc3f6f03a613a3a3a3a3a9d3a3a87878787579d9dd1f6f647471c1b8a1bc44341ffb97c4969c47df6e1f5aa12ffffff5c1255ff7612fc1212575757435712dd43ffffa60e26760e0efffffffc",
+      "text_jp": "千ア<CMD_9d><CMD_cd>ぢウぱぱウCウクせせせfメせよメごべせ<CMD_0e>せメアぜ』fCせせせせf$$$$!?$せァゥせァリ$ズ♂はせfウせ$ウせせ台せアウアウア$せウせせCCせご層キF説IごごI※リをををぅ*)♂ぃ$4ぅナァコじぅおジば,ををせぱごせ繊ぷ$ffTリススぷ$$ぷスっ,ア薦アメアアぱC<CMD_f3>よ$$ク$<CMD_a5>ヮヮぼメアヮ』ぢヮぢぢぢぢぢぢぢヮぢぷざ※ヮ$ぢヮ$ヮぢヮぢ$$鎗<CMD_87>f<CMD_43>ヮヮ○ヮWキッ【ぞ』【スぢ!?っ!?※cポィf!?千ぢぢ層ぢ賎!?!?べ!?!?ァあフ】】**3栓<CLOSE>Eリゥナキョキ3ぜ<CMD_12><PAGE>ぼメ<CMD_37>ぱつイ<CMD_12><CMD_57>ュウつぼせ<CMD_a6>Aせせせせせ<CMD_5c>ぼせ<CMD_76>ニせCごぱせ$$はっcバ※$$TFっズせリゥ♂ざ$Tぜぜせ!?せせせ$$ぜfffアアつせごせアせCぱざキキサ栓CI臓バッ※をコぅ**♂ザ?ゥばぅナザまぅベぅ○,<CMD_f3>せ$ぱ$繊Eス$せ$3$cスA:スス$リ:アア$$ぼアアC$fよつ$ヮぷぷぷヮヮヮメ<CMD_76>ヮぢぢぢぢ$ニぢヮぢぢぢぢぷぢ$$ははヮぢぢぱぜヮヮヮCC栓走ぱスゥ*ヮお※セcセ【ざ$<CMD_cb>3!?※ぢスぢぢぢぢぢィぢぢ層層ウィィ!!?!?ぽぽふひズひ4ぱべ<CMD_b9>リぃナ4ル!?-♂Eつ<CMD_5c>つア<CMD_76>つfつつウウウぱウつ』ぱ<CMD_a6>せよメせせ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 57,
+      "offset": 188332,
+      "length_bytes": 257,
+      "raw_hex": "5c1255ff7612fc1212575757435712dd43ffffa60e26760e0efffffffc0eae5c5c5cfcf743ae0e87f30e50340ef31ab9f3f53434abcbf5497c0ef30e0e0e420e61cbb90ef3f3fc555787575743fc0e0e57fcf6f66d7d6133ff33ffc4f99255e16d69d92dabc3d21bd24a9c4a2d950a4a4a0eaaff0ef30eaaf3f350f3b90eb9f350b850a634f3abf3f355f35c555542f38743331212262612334545453312ae5c5ca5a53aa53af3dd3a3a3a3a3a3a3af3f3623aa550a5a53aa5f3a2fc33a88743a5ffa5a3a5a50a69a523a462f634563a7c6df0f03af6ff3a3a9d8787fc9d5587335757559d551cd9f68a47011c1b9d879dff429c4a89a3f035a3a3b9121212fffc",
+      "text_jp": "クつア<CMD_76>つfつつウウウぱウつ』ぱ<CMD_a6>せよメせせ<CLOSE>せIクククfaぱIせ台せっざせ$はT$♂ざざF:♂ぃリせ$せせせぼせス:Tせ$$fアウ賎ウぱfせせウf!?!?ノルスご<CMD_33><CMD_c4>cバア-ノナ)をF3*ひ*ぅァぅをベこぅぅせE<CMD_0e>$せE$$っ$TせT$っSっAざ$F$$ア$クアアぼ$栓ごつつよよつごぷぷぷごつIククヮヮぢヮぢ$』ぢぢぢぢぢぢぢ$$セぢヮっヮヮぢヮ$ュfごC栓ヮ<CMD_a5>ョヮヮこナヮもッセ!?ざイぢリノ※※ぢ!?<CMD_3a>ぢィ層fィア説ウウアィアふ)!?ズぽあふひィ綜<CMD_42>ァぅジョ※じョョTつつつ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 58,
+      "offset": 190240,
+      "length_bytes": 663,
+      "raw_hex": "61aaaaf3aaaaf3cbf3b9a6f5a6c4f550a6a6fcfc7cfc50fc8787f3876157414141124241b9553741b96af3873a3a3a3a3a3a5534553aa5a53aa3553a5b2c5f92a23a3aa5373a3a3affa83343fccb0a1ba55bd3a52c50fc438787a29ebc5ef0f06d87874342fc418787878787fc557fab417f55054a885ad001ea8935346df06d2cab927d9ccb57a237a2a2ffa26a4257575712573757a2a2a2129d65a687ff875c9d129d9dffffffb9ddf7a1551261555555673a3a55553a3af7f7f755e1f749a39e8888f541414112aa0e41a8a85733573333554343cb1f6767433341558767231641416741674141d5c3ab349b9bb9dd62a462f93549a3f6d070f7f6f688fff3433333a6aaabcbf3371aa31a1a8750a6f3f387f3508776fc41fcfc87fc41411212414141b91237415538f33a3a55553a55c33a3a3a3a555f9ca555559ea3f0fc33a537a5a53a3a3aa88765fc1c8a0a057df0d3e1504261a55058bc5e2c2c557ca68743871a87fc8741fc3a553a875543fc61550a47305a47df052c9b9262f0342c7dab37f3a237ff3712ff575757123837373757ff5712a237a26565ffa687a6419d1243ff57a242386a12c9555537b99b9242763a3af79bdef7f7f7555595b08888bc7c121241123457ffa81243a8a8a8a8a833339b0c69874155411a3839dca1dc4141674133a887619dd55f34dd929262249b7d694adfd07070d0df1caa37aa33a887611aa61aa6a6a39cf3f5f3f3f3f3f35050abfc6a87fcfcf35741874187418712121241553af3553a3a553af33a9c50623a3aa592a59c55f3495ba587334337aa3aa53affff6533503ebc0a895b6d6d5ec3c3bc8a8a95bc355e5e35c3dd87875c87fcf387873a3aa8413a555737a38949df5a0188ea892cf9dea46d345f5061335712a257ffff121212122487dc8787fffffc",
+      "text_jp": "スEE$EE$:$TA♂A4♂っAAffリfっf層$漸ウべべべつぼべTアぜべTニ$千ぢぢぢぢぢアざアぢヮヮぢョアぢキわサバュぢぢヮぜぢぢぢ<CMD_a8>ごぱf:こひヮキ<ヮわっfぱ層ュゥWコ※※ノ層ぱぼfべ層層啄アロFべロアおぅザカ?あ○ジじざノ※ノわFバルァ:ウュぜュュ<CMD_a2>ニぼウウウつウぜウュュュつィチA択銑ィつィィ<CMD_b9>』aャアつスアアアテぢぢアアぢぢaaaア-aぃョゥザザ♂べべべつEせべCCウごウごごアぱぱ:まテテぱごべア糎もにべべテべテべべ,3FざポポT』セッセcじぃョ!??フa!?!?ザ<CMD_f3>ぱごごAEF:$ぜはョはは繊A$$台っ素fべff啄べべつつべべべTつぜべアぞ$ぢぢアアぢア3ぢぢぢぢアサァヮアアゥョ※fごヮぜヮヮぢぢぢC繕fふズこおル※<-っぼスヮっエWコわわアリA栓隻啄扇fぢアぢ薦ぱfスアこぽぎカぽ】おわポバセ※ざわルFぜ$ュぜ<CMD_37>つ<CMD_57>ウウつぞぜぜぜウ<CMD_57>つュぜュチチ<CMD_a6>送べィつぱ<CMD_57>ュぼぞニつ9アアぜTポバぼメぢぢaポ【aaaアアベKザザWリつつべつざウ<CMD_a8>つぱCCCCCごごポしナ扇アべはぞだ『ャ『べべテべごC漸ィ,サざ』ババセやポルナぅ】?フフ?】ふEぜEごC漸はAはAAョァ$♂$$$$$っっFfニ啄f$ウべ扇扇請つつべアぢ$アぢぢアぢ$ぢァっセぢぢヮバヮァア$ぃキヮ説ぱぜEぢヮぢ<CMD_65>ごっばWこジキノノコ33WズズベWじココじ3』層ク啄$層ぢぢCべぢアウぜョジぃ】カあザ○ジわc【ッノざサっスごウつュウ<CMD_12>つつつや堆層<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 59,
+      "offset": 190664,
+      "length_bytes": 258,
+      "raw_hex": "a242386a12c9555537b99b9242763a3af79bdef7f7f7555595b08888bc7c121241123457ffa81243a8a8a8a8a833339b0c69874155411a3839dca1dc4141674133a887619dd55f34dd929262249b7d694adfd07070d0df1caa37aa33a887611aa61aa6a6a39cf3f5f3f3f3f3f35050abfc6a87fcfcf35741874187418712121241553af3553a3a553af33a9c50623a3aa592a59c55f3495ba587334337aa3aa53affff6533503ebc0a895b6d6d5ec3c3bc8a8a95bc355e5e35c3dd87875c87fcf387873a3aa8413a555737a38949df5a0188ea892cf9dea46d345f5061335712a257ffff121212122487dc8787fffffc8757875f65656565a64141fc9d9d9dfffffc",
+      "text_jp": "ュぼぞニつ9アアぜTポバぼメぢぢaポ【aaaアアベKザザWリつつべつざウ<CMD_a8>つぱCCCCCごごポしナ扇アべはぞだ『ャ『べべテべごC漸ィ,サざ』ババセやポルナぅ】?フフ?】ふEぜEごC漸はAはAAョァ$♂$$$$$っっFfニ啄f$ウべ扇扇請つつべアぢ$アぢぢアぢ$ぢァっセぢぢヮバヮァア$ぃキヮ説ぱぜEぢヮぢ<CMD_65>ごっばWこジキノノコ33WズズベWじココじ3』層ク啄$層ぢぢCべぢアウぜョジぃ】カあザ○ジわc【ッノざサっスごウつュウ<CMD_12>つつつや堆層<CLOSE>賎前チチチチAべべfィィィ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 60,
+      "offset": 190919,
+      "length_bytes": 256,
+      "raw_hex": "fc6a3912dcd3b9551262551a767662de1af762f7f755bc95bcbc88bc34354a89d9509da85c37ffffa855a855a8a85541876741416767874141a13967676741873787419d50037b61f05ff962dca4354aea4730305ad2f543334333a8f361abaa87a612359cf3c3f3f3a687f387abfc57fc878787fc41418723438737b9414141553a553a3a3a3a553a5055509b3aa5f93aa5a5a5c3497cab37334343f387a565a8a887fc8bd28a0a4a356969898aea471b3e3e051f5e5b6d9c418741764187874141413a413a3a874143554aea471b474a4a8935629b2c35f050d557ce57571257a25712126a1212121242ff878733fc8787352c876522a67dfc23414141fffc",
+      "text_jp": "fニだつ『<Tアつセアはメメセ【はaセaaアWベWWザWざじぅジ)っィCクぜ<CMD_a8>アCアCCアべ糎べべテテ扇べャだテテテべ蝉扇ィっうラス※サcセ『ッじぅ○ぽぎぎカ*♂ぱごぱごC$スFE送つじァ$3$$A台像fウf層啄べべ籍ぱ蝉Tべべべアぢアぢぢぢぢアぢっアっポぢヮcぢヮヮヮ3ぃリFぜごぱぱ$走チCC啄ゼ*ズこぅじナナジズ○ぽひばばおまコキノァべ扇メべ層べべべぢべぢぢ扇ぱアぅ○ぽひぽぅぅジじセポわじ※っ,ウ・ウウつウュウつつニつつつつぼ<CMD_87>説f層じわ繕めAルfもべべべ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 61,
+      "offset": 191432,
+      "length_bytes": 257,
+      "raw_hex": "5cfcdc2355dc7c371adc24dd5c5caadddede1aa4555f6995490abc379d1212441212f3129d87a8ff55ffffffa8ff6aa19d679df79d9d679d67fc76fc43fcfcfca8878787f93987871aa47d9262237d1f9c4ad0d0301c1c37338787a843aa34a6a61afc35a635fc7c5c12b987f3f37ca638fc43fc414141439b43357daa4141413a3a55233a3ac337f3abc35f346262923569a5a55fbc5bcba4334333439d6187a8a8a661f5d99c9c8989d94adf5a5adf01d23e6935f0925ff5ddfc5c6afcfc41555541413a3a553a3a3a5f6955694a4a3e474ae12c23f95e0cf59d9d129d9da89d9d121237a2122312dc50a8ff12875f37123765ffff879c411ffc8737fcfcfffc",
+      "text_jp": "クf『もア『リぜは『や』ククE』【【はッアサナベぃこWぜィつつぴつつ$つィ鎗<CMD_55><CMD_a8><CMD_6a>ャィティaィィティテfメfぱfffC層滝だ層はッルバセもルまァぅ??ぎふふぜご層CぱEざAAはfじAじfリクつT台$リAぞfぱfべべべぱポぱじルEべべべぢぢアもぢぢ3ぜ$F3サざセセバじナヮヮサWキ:ッごぱごぱィス鎗CAス♂)ァァジジ)ぅ】カカ】あ*ばナじ※バサ♂』fクニffべアアべべぢぢアぢぢぢサナアナぅぅばぽぅ-わもcコし♂ィィつィィCィィつつぜュつもつ『っC<CMD_12>前ぜつぜチ<CMD_87>ァべまf蝉ff<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 62,
+      "offset": 193223,
+      "length_bytes": 258,
+      "raw_hex": "6767fc676767675fb9729d41676767419bb962b9372c6949a37cbcbcaa41fc1f3131fcfc87ff43fc355ef6f6874212373af7f73a3a3af6f63af687767692434187434187b91aa423676738425f7d2c7d349b925b9c50dfea1b9d57123343a687a687a6fca6877b237d8787418787414187fcdc5c7d7d4312339c876dfc874387a887879b1212f687121212cbc3509b9bde9b5f05d9a362c450a350a22626a2fc262626a8fc490a8a49d0474a693592f9d39bb99b929b50c37c879d9b76766a5c3343fc87f6a8878787a35b87d59e9edf1b4769e1f0e17d7b62a461f337a287ab123387ffa2ffaaa26da23737ff37ffffa89b87878762a2ffa2a30c1f890587fffffc",
+      "text_jp": "テテfテテテテサTホィべテテテべポTセTぜわナぃョリWWEべfまぐぐff択ぱfじコ!?!?撰つぜぢaaぢぢぢ!?!?ぢ!?素メバぱべ栓べ測はッもテテぞぼサルわルざポバキァっ】○ひィウつごぱA送送fA遡もル層べ層べべ啄『クルルぱつごァ曽f栓鎗層ポつつ!?請つつ:3っポポ【ポサお)ョセ4っョっュよよュfよよよCfぃこズぃ?ぽぅナじバc<ポTポバポっ3リ綜ポメメニクごぱf醍C層藻キ柁ゥゥ】ひぽナ-※-ルラセッス$ぜュ像つご択ュ<CMD_aa>ュノュぜぜ<CMD_37><CMD_a8>ポ層然ュ<CMD_a2>ョしまジお択<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 63,
+      "offset": 193260,
+      "length_bytes": 257,
+      "raw_hex": "43fc355ef6f6874212373af7f73a3a3af6f63af687767692434187434187b91aa423676738425f7d2c7d349b925b9c50dfea1b9d57123343a687a687a6fca6877b237d8787418787414187fcdc5c7d7d4312339c876dfc874387a887879b1212f687121212cbc3509b9bde9b5f05d9a362c450a350a22626a2fc262626a8fc490a8a49d0474a693592f9d39bb99b929b50c37c879d9b76766a5c3343fc87f6a8878787a35b87d59e9edf1b4769e1f0e17d7b62a461f337a287ab123387ffa2ffaaa26da23737ff37ffffa89b87878762a2ffa2a30c1f890587fffffc676767676737a2729a679d9d679d5062345cb95f1fab7c88bcc3762637123531875efcfffc",
+      "text_jp": "ぱfじコ!?!?撰つぜぢaaぢぢぢ!?!?ぢ!?素メバぱべ栓べ測はッもテテぞぼサルわルざポバキァっ】○ひィウつごぱA送送fA遡もル層べ層べべ啄『クルルぱつごァ曽f栓鎗層ポつつ!?請つつ:3っポポ【ポサお)ョセ4っョっュよよュfよよよCfぃこズぃ?ぽぅナじバc<ポTポバポっ3リ綜ポメメニクごぱf醍C層藻キ柁ゥゥ】ひぽナ-※-ルラセッス$ぜュ像つご択ュ<CMD_aa>ュノュぜぜ<CMD_37><CMD_a8>ポ層然ュ<CMD_a2>ョしまジお択<CLOSE>テテテテテぜュホペティィティっセざクTサまFリザW3メよぜつじぐ鮮f<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 64,
+      "offset": 284132,
+      "length_bytes": 248,
+      "raw_hex": "897a4a414140404e4040404c4a4d180706174e4e4040404e4e4e4d7d5c795849483f3f3f4d3637412727281f1f1f393939394141391f281f39391f393939392137373737374141391f1f394141391f391f1f28281f1f28271f3937404c364a57557066513c364d4e364040404e4e3f3f4b4b4a4a4039a0acaeb43741414a6b610f0f2095f460b04ceae1e1efaeaeea34439c3e1e34fb12ae898a46251c1c251627261c1c1c26262626262626161626165f261c1c266789990707221407141407221407e91414fffff51420143f20200714209b02e120961854075454070754540707070754070754333314331407142233223322224f4f51",
+      "text_jp": "ジヨぅべべぶぶゅぶぶぶぉぅゃねきかぬゅゅぶぶぶゅゅゅゃルクユエぃぁびびびゃずぜべららりまままだだだだべべだまりまだだまだだだだむぜぜぜぜぜべべだままだべべだまだままりりままりらまだぜぶぉずぅウアフツゎでずゃゅずぶぶぶゅゅびびぇぇぅぅぶだォGIOぜべべぅヌスそそみベ♀シKぉ○--▲II○ざぱァばほざeつIジズぺゆふふゆにらよふふふよよよよよよよにによにサよふふよテジプききめときとときめとき★とと<LINE>とみとびみみきとみポい-みボねオきオオききオオききききオききオごごとごときとめごめごめめょょゎ",
+      "translation_en": ""
+    },
+    {
+      "id": 65,
+      "offset": 348920,
+      "length_bytes": 20,
+      "raw_hex": "070707132207970707131313ffffff98ff19fffe",
+      "text_jp": "きききてめきパききててて<CMD_98><CMD_19><END>",
+      "translation_en": ""
+    }
+  ]
+}

@@ -9,7 +9,7 @@
       "target_offset": 8521,
       "length_bytes": 112,
       "raw_hex": "80d1fff5ffec0180d62e80d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff78726827681168087809d785d80cc1a80d5fff6003d0a061982c70616859f85a00c13022980d7fffc0081ce83c03c070f03161502",
-      "text_jp": "！<LINE><CMD_ec>あ’ん……………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀ゴィヤケ~は、<PAGE> どこかの含かに柴芝している…<CLOSE> 押圭できそうにない",
+      "text_jp": "!<LINE><CMD_ec>あ'ん……………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀ゴィヤケ~は,<PAGE> どこかの含かに柴芝している…<CLOSE> 押圭できそうにない",
       "translation_en": ""
     },
     {
@@ -18,7 +18,7 @@
       "target_offset": 8633,
       "length_bytes": 114,
       "raw_hex": "80d1fff5ffed1a4880d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff787268276811680837980cc808f1a80d5fff60082d7062d818786bc08830f0c1302292f80d5fff6000f2a1a81ce83c03c1a1502270c02",
-      "text_jp": "！<LINE><CMD_ed>はぁ………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀ガユ~ヅは、<PAGE> 喜かを姥辛く吉しているが、<PAGE> それは押圭ではないらしい",
+      "text_jp": "!<LINE><CMD_ed>はぁ………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀ガユ~ヅは,<PAGE> 喜かを姥辛く吉しているが,<PAGE> それは押圭ではないらしい",
       "translation_en": ""
     },
     {
@@ -27,7 +27,7 @@
       "target_offset": 8747,
       "length_bytes": 111,
       "raw_hex": "80d1fff5ffeb011c2e80d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff78726827681165680925e809b80cc7f1a80d5fff6002039271582a88358161c094d13022980d1fffc0081ce83c03c070f03161502",
-      "text_jp": "！<LINE><CMD_eb>あふん……………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀イバコポ~ロは、<PAGE> みだらな歓恭にふけゃている！<CLOSE> 押圭できそうにない",
+      "text_jp": "!<LINE><CMD_eb>あふん……………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責葛哀イバコポ~ロは,<PAGE> みだらな歓恭にふけゃている!<CLOSE> 押圭できそうにない",
       "translation_en": ""
     },
     {
@@ -36,7 +36,7 @@
       "target_offset": 8858,
       "length_bytes": 90,
       "raw_hex": "80d1fff5ffeb80d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff7872680927880a159707f1a80d5fff60081ce83c016835935150280d1",
-      "text_jp": "！<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責バヤャオフロは、<PAGE> 押圭に挟じない！",
+      "text_jp": "!<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責バヤャオフロは,<PAGE> 押圭に挟じない!",
       "translation_en": ""
     },
     {
@@ -45,7 +45,7 @@
       "target_offset": 8948,
       "length_bytes": 91,
       "raw_hex": "80d1fff5ffeb80d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff787265580cc8087809d7f651a80d5fff60081ce83c016835935150280d1",
-      "text_jp": "！<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責ア~ゴィロチは、<PAGE> 押圭に挟じない！",
+      "text_jp": "!<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責ア~ゴィロチは,<PAGE> 押圭に挟じない!",
       "translation_en": ""
     },
     {
@@ -54,7 +54,7 @@
       "target_offset": 9039,
       "length_bytes": 96,
       "raw_hex": "80d1fff5ffeb80d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fff680d780d780d780d780d780d780d780d7fffbfff787265d80cc597b80a1655c80cc80915e1a80d5fff60081ce83c016835935150280d1",
-      "text_jp": "！<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責ケ~オラャチク~ドコは、<PAGE> 押圭に挟じない！",
+      "text_jp": "!<LINE><CMD_eb>……………………<PAGE>……………………<PAGE>……………………<CMD_fb><CMD_f7>責ケ~オラャチク~ドコは,<PAGE> 押圭に挟じない!",
       "translation_en": ""
     },
     {
@@ -63,7 +63,7 @@
       "target_offset": 9135,
       "length_bytes": 129,
       "raw_hex": "80d1fff55780cc7980cc80cb0a2a80d58228836d19825981102680cffffc26232480d581560c1981268114102980d5fff62c272c2d82e02a131a05291f021580cffffbfff7ffed577d7f6280a280cb142e3c23150280d1fffcfff60c060c80d5854683941423012b030581662f80d5812481251486bd2a29153d8210811f3c0d15",
-      "text_jp": "！<LINE>ウ~ユ~:これ、懐業の確々よ。<CLOSE>よもや、医しの圧娃たる、<PAGE>わらわを忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない！<CLOSE><PAGE>しかし、史駈ともあろうお印が、鯵梓と進れるなど蚊握ですな",
+      "text_jp": "!<LINE>ウ~ユ~:これ,懐業の確zよ。<CLOSE>よもや,医しの圧娃たる,<PAGE>わらわを忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない!<CLOSE><PAGE>しかし,史駈ともあろうお印が,鯵梓と進れるなど蚊握ですな",
       "translation_en": ""
     },
     {
@@ -72,7 +72,7 @@
       "target_offset": 9264,
       "length_bytes": 133,
       "raw_hex": "80cfffef5780cc7980cc80cb85cb36290a1415022c80cffffcfff682d61a835001281380d50a1981841681432dfff684c40413052980cffffc837b23849f81430e170680d0fffbfff7ffee577d7f6280a280cb80d780d7854683942f80d5fff60f03054d0c4e29193c012a3e80d7fffcfff6812481252680d55780cc808f2d83310983072a",
-      "text_jp": "。<CMD_ef>ウ~ユ~:酒ずることないわ。<CLOSE><PAGE>危は叫ありて、この欝に威を<PAGE>婚えておる。<CLOSE>欽も項威せぬか？<CMD_fb><CMD_f7><CMD_ee>ウルロセュ:……史駈が、<PAGE>そうおゃしゅるのであれば…<CLOSE><PAGE>鯵梓よ、ウ~ヅを糾け祇れ",
+      "text_jp": "。<CMD_ef>ウ~ユ~:酒ずることないわ。<CLOSE><PAGE>危は叫ありて,この欝に威を<PAGE>婚えておる。<CLOSE>欽も項威せぬか?<CMD_fb><CMD_f7><CMD_ee>ウルロセュ:……史駈が,<PAGE>そうおゃしゅるのであれば…<CLOSE><PAGE>鯵梓よ,ウ~ヅを糾け祇れ",
       "translation_en": ""
     },
     {
@@ -81,7 +81,7 @@
       "target_offset": 9397,
       "length_bytes": 125,
       "raw_hex": "80cfffef5780cc7980cc80cb0a2a80d58228836d19825981102680cf26232480d581560c1981268114102980d5fff62c272c2d82e02a131a05291f021580cffffbfff7ffed577d7f6280a280cb142e3c23150280d1fff60c060c80d5854683941423012b030581662f80d5812481251486bd2a29153d8210811f3c0d15",
-      "text_jp": "。<CMD_ef>ウ~ユ~:これ、懐業の確々よ。よもや、医しの圧娃たる、<PAGE>わらわを忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない！<PAGE>しかし、史駈ともあろうお印が、鯵梓と進れるなど蚊握ですな",
+      "text_jp": "。<CMD_ef>ウ~ユ~:これ,懐業の確zよ。よもや,医しの圧娃たる,<PAGE>わらわを忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない!<PAGE>しかし,史駈ともあろうお印が,鯵梓と進れるなど蚊握ですな",
       "translation_en": ""
     },
     {
@@ -90,7 +90,7 @@
       "target_offset": 9522,
       "length_bytes": 127,
       "raw_hex": "80cfffef5780cc7980cc80cb85cb36290a1415022c80cffff682d61a835001281380d50a1981841681432dfff684c40413052980cffffc837b23849f81430e170680d0fffbfff7ffed577d7f6280a280cb80d780d702082780d5fff685468394198480201402043d80d582d11623fff680977853808f2f80d501281f0d2504",
-      "text_jp": "。<CMD_ef>ウ~ユ~:酒ずることないわ。<PAGE>危は叫ありて、この欝に威を<PAGE>婚えておる。<CLOSE>欽も項威せぬか？<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:……いくら、<PAGE>史駈の港みといえど、頑にも<PAGE>パヤノヅが、ありますゆえ",
+      "text_jp": "。<CMD_ef>ウ~ユ~:酒ずることないわ。<PAGE>危は叫ありて,この欝に威を<PAGE>婚えておる。<CLOSE>欽も項威せぬか?<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:……いくら,<PAGE>史駈の港みといえど,頑にも<PAGE>パヤノヅが,ありますゆえ",
       "translation_en": ""
     },
     {
@@ -99,7 +99,7 @@
       "target_offset": 9649,
       "length_bytes": 125,
       "raw_hex": "80d7ffef5780cc7980cc80cb812481252680d7fff60f2a1a80d58363061581de81df354e3880d7fffcfff6842322290a1480d586a62c170680d0fffbfff7ffed577d7f6280a280cb0204020480d58546839480d1fffcfff681248125153d80d50c500e2e0a198168816980d1fff682d11a8393831d0b0e1382ce071f0d",
-      "text_jp": "…<CMD_ef>ウ~ユ~:鯵梓よ…<PAGE>それは、蕎かな憶臆じゅぞ…<CLOSE><PAGE>限めること、審わぬか？<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:いえいえ、史駈！<CLOSE><PAGE>鯵梓など、しっせんこの員因！<PAGE>頑は駆丘させて翫きます",
+      "text_jp": "…<CMD_ef>ウ~ユ~:鯵梓よ…<PAGE>それは,蕎かな憶臆じゅぞ…<CLOSE><PAGE>限めること,審わぬか?<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:いえいえ,史駈!<CLOSE><PAGE>鯵梓など,しっせんこの員因!<PAGE>頑は駆丘させて翫きます",
       "translation_en": ""
     },
     {
@@ -108,7 +108,7 @@
       "target_offset": 9774,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -117,7 +117,7 @@
       "target_offset": 9776,
       "length_bytes": 111,
       "raw_hex": "efffef5780cc7980cc80cb2602260280d7fffcfff60a2a3c80d52c272c19823786fc2380d5fff60208402e8452081528054d102c80cffffbfff7ffec577d7f6280a280cb80d780d780d7fffcfff68344062c0c020a143c012980cffffcfff685650781841983612f852202131f0d38",
-      "text_jp": "▲<CMD_ef>ウ~ユ~:よいよい…<CLOSE><PAGE>これで、わらわの階姓も、<PAGE>いくぶん鯉くなりおゃたわ。<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:………<CLOSE><PAGE>享かわしいことである。<CLOSE><PAGE>至き欝の脅が薩いてますぞ",
+      "text_jp": "▲<CMD_ef>ウ~ユ~:よいよい…<CLOSE><PAGE>これで,わらわの階姓も,<PAGE>いくぶん鯉くなりおゃたわ。<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:………<CLOSE><PAGE>享かわしいことである。<CLOSE><PAGE>至き欝の脅が薩いてますぞ",
       "translation_en": ""
     },
     {
@@ -126,7 +126,7 @@
       "target_offset": 9888,
       "length_bytes": 123,
       "raw_hex": "80d7ffef808f809c7a808180cc80cb0a2a80d5808f809c7f2680cffff6230380d50a19812681142d80d50f19828616fff60d290a141a85fe071019060480d0fffbfff7ffec808f809c7f80cb607b006280815480d7fffcfff6567b5c7000854683946a00826679818780d7fff681168114656a818b530082e07b64",
-      "text_jp": "…<CMD_ef>ヅァヨヲ~:これ、ヅァロよ。<PAGE>もう、この圧娃を、その鴨に<PAGE>することは叔きたのかえ？<CMD_fb><CMD_f7><CMD_ec>ヅァロ:シラ セヲオ…<CLOSE><PAGE>イラクフ 史駈ニ 額ユ姥…<PAGE>哀娃チニ閏ノ 忌ラタ",
+      "text_jp": "…<CMD_ef>ヅァヨヲ~:これ,ヅァロよ。<PAGE>もう,この圧娃を,その鴨に<PAGE>することは叔きたのかえ?<CMD_fb><CMD_f7><CMD_ec>ヅァロ:シラ セヲオ…<CLOSE><PAGE>イラクフ 史駈ニ 額ユ姥…<PAGE>哀娃チニ閏ノ 忌ラタ",
       "translation_en": ""
     },
     {
@@ -135,7 +135,7 @@
       "target_offset": 10011,
       "length_bytes": 134,
       "raw_hex": "6653ffef808f809c7a808180cc80cb0f2a1a81c081c11981aa80d7fffcfff682d61a80d50a19818416818e83a80c1305293c80d582e43f82cd1981431680d515292f26023880cffffbfff7ffeb808f809c7f80cb525680cc7f80d1fffcfff6854683946a008463678216630082fc5d5380d1fffcfff6677f80847f005780cc808f00545a657b",
-      "text_jp": "ツノ<CMD_ef>ヅァヨヲ~:それは苑薗の越…<CLOSE><PAGE>危は、この欝に運轡しておるで、既び岩の威に、なるがよいぞ。<CMD_fb><CMD_f7><CMD_eb>ヅァロ:ヴイ~ロ！<CLOSE><PAGE>史駈ニ 垢テ臥ソ 亀ケノ！<CLOSE><PAGE>テロギロ ウ~ヅ オカチラ",
+      "text_jp": "ツノ<CMD_ef>ヅァヨヲ~:それは苑薗の越…<CLOSE><PAGE>危は,この欝に運轡しておるで,既び岩の威に,なるがよいぞ。<CMD_fb><CMD_f7><CMD_eb>ヅァロ:ヴイ~ロ!<CLOSE><PAGE>史駈ニ 垢テ臥ソ 亀ケノ!<CLOSE><PAGE>テロギロ ウ~ヅ オカチラ",
       "translation_en": ""
     },
     {
@@ -144,7 +144,7 @@
       "target_offset": 10145,
       "length_bytes": 123,
       "raw_hex": "80d1ffef808f809c7a808180cc80cb0a2a80d5808f809c7f2680cffff6230380d50a19812681142d80d50f19828616fff60d290a141a85fe071019060480d0fffbfff7ffec808f809c7f80cb607b006280815480d7fffcfff6567b5c7000854683946a00826679818780d7fff681168114656a818b530082e07b64",
-      "text_jp": "！<CMD_ef>ヅァヨヲ~:これ、ヅァロよ。<PAGE>もう、この圧娃を、その鴨に<PAGE>することは叔きたのかえ？<CMD_fb><CMD_f7><CMD_ec>ヅァロ:シラ セヲオ…<CLOSE><PAGE>イラクフ 史駈ニ 額ユ姥…<PAGE>哀娃チニ閏ノ 忌ラタ",
+      "text_jp": "!<CMD_ef>ヅァヨヲ~:これ,ヅァロよ。<PAGE>もう,この圧娃を,その鴨に<PAGE>することは叔きたのかえ?<CMD_fb><CMD_f7><CMD_ec>ヅァロ:シラ セヲオ…<CLOSE><PAGE>イラクフ 史駈ニ 額ユ姥…<PAGE>哀娃チニ閏ノ 忌ラタ",
       "translation_en": ""
     },
     {
@@ -153,7 +153,7 @@
       "target_offset": 10268,
       "length_bytes": 124,
       "raw_hex": "6653ffef808f809c7a808180cc80cb0f2a1a81c081c11981aa80d7fffcfff682d61a80d50a19818416818e83a80c1305293c80d582e43f82cd1981431680d515292f26023880cffffbfff7ffec808f809c7f80cb80d7567b5c70fff683c45300677f80847f0082f25380d7fffcfff65b5b6b00566280a2006780855e",
-      "text_jp": "ツノ<CMD_ef>ヅァヨヲ~:それは苑薗の越…<CLOSE><PAGE>危は、この欝に運轡しておるで、既び岩の威に、なるがよいぞ。<CMD_fb><CMD_f7><CMD_ec>ヅァロ:…イラクフ<PAGE>形ノ テロギロ 徽ノ…<CLOSE><PAGE>キキヌ イセュ テグコ",
+      "text_jp": "ツノ<CMD_ef>ヅァヨヲ~:それは苑薗の越…<CLOSE><PAGE>危は,この欝に運轡しておるで,既び岩の威に,なるがよいぞ。<CMD_fb><CMD_f7><CMD_ec>ヅァロ:…イラクフ<PAGE>形ノ テロギロ 徽ノ…<CLOSE><PAGE>キキヌ イセュ テグコ",
       "translation_en": ""
     },
     {
@@ -162,7 +162,7 @@
       "target_offset": 10392,
       "length_bytes": 107,
       "raw_hex": "80d7ffefffed808f809c7f80cb8081809a80cc80cc80d1fffcfff656705500567b5c70fff6854683940084636782166300811e81165e7a6680d1fffbfff7808f809c7a808180cc80cb0a2a80d5808f809c7f2680d7fffcfff62c2a198140354e3880d583bd282d86a02202",
-      "text_jp": "…<CMD_ef><CMD_ed>ヅァロ:ヲペ~~！<CLOSE><PAGE>イフア イラクフ<PAGE>史駈 垢テ臥ソ 悪哀コヨツ！<CMD_fb><CMD_f7>ヅァヨヲ~:これ、ヅァロよ…<CLOSE><PAGE>われの囲じゅぞ、刑りを伸めい",
+      "text_jp": "…<CMD_ef><CMD_ed>ヅァロ:ヲペ~~!<CLOSE><PAGE>イフア イラクフ<PAGE>史駈 垢テ臥ソ 悪哀コヨツ!<CMD_fb><CMD_f7>ヅァヨヲ~:これ,ヅァロよ…<CLOSE><PAGE>われの囲じゅぞ,刑りを伸めい",
       "translation_en": ""
     },
     {
@@ -171,7 +171,7 @@
       "target_offset": 10499,
       "length_bytes": 55,
       "raw_hex": "80d1ffefffed808f809c7f80cb80d7607b808e74fff67580a18095790080855880847f66667380d1fffcfff6567b5c700074540081e07a",
-      "text_jp": "！<CMD_ef><CMD_ed>ヅァロ:…シラヂミ<PAGE>ムャベユ グエギロツツマ！<CLOSE><PAGE>イラクフ ミオ 桶ヨ",
+      "text_jp": "!<CMD_ef><CMD_ed>ヅァロ:…シラヂミ<PAGE>ムャベユ グエギロツツマ!<CLOSE><PAGE>イラクフ ミオ 桶ヨ",
       "translation_en": ""
     },
     {
@@ -180,7 +180,7 @@
       "target_offset": 10554,
       "length_bytes": 60,
       "raw_hex": "80d1ffefffeb808f809c7f80cb525680cc7f80d1fffcfff6567b5c7000808e587a5b65005b5b70808efffc677f80847f00854683947e00616a72808a",
-      "text_jp": "！<CMD_ef><CMD_eb>ヅァロ:ヴイ~ロ！<CLOSE><PAGE>イラクフ ヂエヨキチ キキフヂ<CLOSE>テロギロ 史駈レ スニホズ",
+      "text_jp": "!<CMD_ef><CMD_eb>ヅァロ:ヴイ~ロ!<CLOSE><PAGE>イラクフ ヂエヨキチ キキフヂ<CLOSE>テロギロ 史駈レ スニホズ",
       "translation_en": ""
     },
     {
@@ -189,7 +189,7 @@
       "target_offset": 10614,
       "length_bytes": 123,
       "raw_hex": "80d1ffef80987a6066787f617f80cb6c80cc6f80cc80d1fffcfff682060c0280945919832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a159787f617f80cb014d2a80d680d1fff6152e3c587180d580987a6066151980cc80d0fffcfff6152e0680d50327241f0c021548",
-      "text_jp": "！<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ’！<PAGE>なんでエヘ、ピヨシツなの~？<CLOSE><PAGE>なんか、うらやましいなぁ",
+      "text_jp": "!<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ'!<PAGE>なんでエヘ,ピヨシツなの~?<CLOSE><PAGE>なんか,うらやましいなぁ",
       "translation_en": ""
     },
     {
@@ -198,7 +198,7 @@
       "target_offset": 10737,
       "length_bytes": 133,
       "raw_hex": "80d7ffef80987a6066787f617f80cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a159787f617f80cb1c80cc2e80d7fffcfff6ffeb2680cc0c80d100180480d50f0a19587180d1fff64208195780cc808f80d523274d134b2e",
-      "text_jp": "…<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し！ ねえ、そこのエヘ！<PAGE>ぼくのウ~ヅ、もらゃてぇん",
+      "text_jp": "…<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し! ねえ,そこのエヘ!<PAGE>ぼくのウ~ヅ,もらゃてぇん",
       "translation_en": ""
     },
     {
@@ -207,7 +207,7 @@
       "target_offset": 10870,
       "length_bytes": 123,
       "raw_hex": "8705ffef80987a6066787f617f80cb6c80cc6f80cc80d1fffcfff682060c0280945919832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a159787f617f80cb014d2a80d680d1fff6152e3c587180d580987a6066151980cc80d0fffcfff6152e0680d50327241f0c021548",
-      "text_jp": "栖<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ’！<PAGE>なんでエヘ、ピヨシツなの~？<CLOSE><PAGE>なんか、うらやましいなぁ",
+      "text_jp": "栖<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ'!<PAGE>なんでエヘ,ピヨシツなの~?<CLOSE><PAGE>なんか,うらやましいなぁ",
       "translation_en": ""
     },
     {
@@ -216,7 +216,7 @@
       "target_offset": 10993,
       "length_bytes": 127,
       "raw_hex": "80d7ffef80987a6066787f617f80cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d10d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a159787f617f80cb1c80cc2e80d7fffcfff6ffed3c2380d53d030e394d102780d5fff6234d1481f70f031581241680d582fd0d26",
-      "text_jp": "…<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも、どうせだゃたら、<PAGE>もゃと科そうな鯵に、偽すよ",
+      "text_jp": "…<CMD_ef>ピヨシツヤロスロ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも,どうせだゃたら,<PAGE>もゃと科そうな鯵に,偽すよ",
       "translation_en": ""
     },
     {
@@ -225,7 +225,7 @@
       "target_offset": 11120,
       "length_bytes": 41,
       "raw_hex": "80d1ffefffec808780a280a159787f617f80cb114b4d80d7fffcfff658714d1380d502093680d780d7",
-      "text_jp": "！<CMD_ef><CMD_ec>ゴュャオヤロスロ:ちぇゃ…<CLOSE><PAGE>エヘゃて、いけず……",
+      "text_jp": "!<CMD_ef><CMD_ec>ゴュャオヤロスロ:ちぇゃ…<CLOSE><PAGE>エヘゃて,いけず……",
       "translation_en": ""
     },
     {
@@ -243,7 +243,7 @@
       "target_offset": 11163,
       "length_bytes": 116,
       "raw_hex": "efffef808780a280a159787f617f80cb3c230b4880d7fffcfff60a1942081a80d5813d8116191f1f1926031582182f0d29191a80d58218190e0280d0fffbfff7ffeb0380d62e80d78218190e02391580d1fffcfff6354e0180d581501a262b0c081880d680d1fff6809080d653809080d65380d1",
-      "text_jp": "▲<CMD_ef>ゴュャオヤロスロ:でもさぁ…<CLOSE><PAGE>このぼくは、位哀のままのような蛾がするのは、蛾のせい？<CMD_fb><CMD_f7><CMD_eb>う’ん…蛾のせいだな！<CLOSE><PAGE>じゅあ、胃はよろしくね’！<PAGE>デ’ノデ’ノ！",
+      "text_jp": "▲<CMD_ef>ゴュャオヤロスロ:でもさぁ…<CLOSE><PAGE>このぼくは,位哀のままのような蛾がするのは,蛾のせい?<CMD_fb><CMD_f7><CMD_eb>う'ん…蛾のせいだな!<CLOSE><PAGE>じゅあ,胃はよろしくね'!<PAGE>デ'ノデ'ノ!",
       "translation_en": ""
     },
     {
@@ -252,7 +252,7 @@
       "target_offset": 11280,
       "length_bytes": 123,
       "raw_hex": "80d1fff580987a60666d7c5e6580cb6c80cc6f80cc80d1fffcfff682060c0280945919832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a1596d7c5e6580cb014d2a80d680d1fff6152e3c587180d580987a6066151980cc80d0fffcfff6152e0680d50327241f0c021548",
-      "text_jp": "！<LINE>ピヨシツノリコチ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ’！<PAGE>なんでエヘ、ピヨシツなの~？<CLOSE><PAGE>なんか、うらやましいなぁ",
+      "text_jp": "!<LINE>ピヨシツノリコチ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ'!<PAGE>なんでエヘ,ピヨシツなの~?<CLOSE><PAGE>なんか,うらやましいなぁ",
       "translation_en": ""
     },
     {
@@ -261,7 +261,7 @@
       "target_offset": 11403,
       "length_bytes": 133,
       "raw_hex": "80d7ffef80987a60666d7c5e6580cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a1596d7c5e6580cb1c80cc2e80d7fffcfff6ffeb2680cc0c80d100180480d50f0a19587180d1fff64208195780cc808f80d523274d134b2e",
-      "text_jp": "…<CMD_ef>ピヨシツノリコチ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し！ ねえ、そこのエヘ！<PAGE>ぼくのウ~ヅ、もらゃてぇん",
+      "text_jp": "…<CMD_ef>ピヨシツノリコチ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し! ねえ,そこのエヘ!<PAGE>ぼくのウ~ヅ,もらゃてぇん",
       "translation_en": ""
     },
     {
@@ -270,7 +270,7 @@
       "target_offset": 11536,
       "length_bytes": 119,
       "raw_hex": "8705ffef80987a60666d7c5e6580cb6c80cc6f80cc80d1fff682060c0280945919832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a1596d7c5e6580cb014d2a80d680d1fff6152e3c587180d580987a6066151980cc80d0fff6152e0680d50327241f0c021548",
-      "text_jp": "栖<CMD_ef>ピヨシツノリコチ:ネ~ヒ~！<PAGE>荷しいブオの吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ’！<PAGE>なんでエヘ、ピヨシツなの~？<PAGE>なんか、うらやましいなぁ",
+      "text_jp": "栖<CMD_ef>ピヨシツノリコチ:ネ~ヒ~!<PAGE>荷しいブオの吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ'!<PAGE>なんでエヘ,ピヨシツなの~?<PAGE>なんか,うらやましいなぁ",
       "translation_en": ""
     },
     {
@@ -279,7 +279,7 @@
       "target_offset": 11655,
       "length_bytes": 129,
       "raw_hex": "80d7ffef80987a60666d7c5e6580cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a1596d7c5e6580cb1c80cc2e80d7fffcfff6ffed3c2380d53d030e394d102780d5fff6234d1481f70f031581241680d582fd0d26",
-      "text_jp": "…<CMD_ef>ピヨシツノリコチ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも、どうせだゃたら、<PAGE>もゃと科そうな鯵に、偽すよ",
+      "text_jp": "…<CMD_ef>ピヨシツノリコチ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも,どうせだゃたら,<PAGE>もゃと科そうな鯵に,偽すよ",
       "translation_en": ""
     },
     {
@@ -288,7 +288,7 @@
       "target_offset": 11784,
       "length_bytes": 39,
       "raw_hex": "80d1ffefffec808780a280a1596d7c5e6580cb114b4d80d7fffcfff658714d1380d502093680d7",
-      "text_jp": "！<CMD_ef><CMD_ec>ゴュャオノリコチ:ちぇゃ…<CLOSE><PAGE>エヘゃて、いけず…",
+      "text_jp": "!<CMD_ef><CMD_ec>ゴュャオノリコチ:ちぇゃ…<CLOSE><PAGE>エヘゃて,いけず…",
       "translation_en": ""
     },
     {
@@ -306,7 +306,7 @@
       "target_offset": 11825,
       "length_bytes": 116,
       "raw_hex": "efffef808780a280a1596d7c5e6580cb3c230b4880d7fffcfff60a1942081a80d5813d8116191f1f1926031582182f0d29191a80d58218190e0280d0fffbfff7ffeb0380d62e80d78218190e02391580d1fffcfff6354e0180d581501a262b0c081880d680d1fff6809080d653809080d65380d1",
-      "text_jp": "▲<CMD_ef>ゴュャオノリコチ:でもさぁ…<CLOSE><PAGE>このぼくは、位哀のままのような蛾がするのは、蛾のせい？<CMD_fb><CMD_f7><CMD_eb>う’ん…蛾のせいだな！<CLOSE><PAGE>じゅあ、胃はよろしくね’！<PAGE>デ’ノデ’ノ！",
+      "text_jp": "▲<CMD_ef>ゴュャオノリコチ:でもさぁ…<CLOSE><PAGE>このぼくは,位哀のままのような蛾がするのは,蛾のせい?<CMD_fb><CMD_f7><CMD_eb>う'ん…蛾のせいだな!<CLOSE><PAGE>じゅあ,胃はよろしくね'!<PAGE>デ'ノデ'ノ!",
       "translation_en": ""
     },
     {
@@ -315,7 +315,7 @@
       "target_offset": 11942,
       "length_bytes": 129,
       "raw_hex": "80d1fff5808780a280a159787f617f80cb6c80cc6f80cc80d1fffcfff682060c02809459198320832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a1596d7c5e6580cb014d2a80d680d1fff6152e3c787f617f1a80d580987a151980cc80d0fffc420880d511504d148087809d785d530b",
-      "text_jp": "！<LINE>ゴュャオヤロスロ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの休吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ’！<PAGE>なんでヤロスロは、ピヨなの~？<CLOSE>ぼく、ちっゃとゴィヤケノさ",
+      "text_jp": "!<LINE>ゴュャオヤロスロ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの休吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ'!<PAGE>なんでヤロスロは,ピヨなの~?<CLOSE>ぼく,ちっゃとゴィヤケノさ",
       "translation_en": ""
     },
     {
@@ -324,7 +324,7 @@
       "target_offset": 12071,
       "length_bytes": 135,
       "raw_hex": "80d7fff5808780a280a159787f617f80cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a1596d7c5e6580cb1c80cc2e80d7fffcfff6ffeb2680cc0c80d100180480d50f0a19587180d1fff64208195780cc808f80d523274d134b2e",
-      "text_jp": "…<LINE>ゴュャオヤロスロ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し！ ねえ、そこのエヘ！<PAGE>ぼくのウ~ヅ、もらゃてぇん",
+      "text_jp": "…<LINE>ゴュャオヤロスロ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し! ねえ,そこのエヘ!<PAGE>ぼくのウ~ヅ,もらゃてぇん",
       "translation_en": ""
     },
     {
@@ -333,7 +333,7 @@
       "target_offset": 12206,
       "length_bytes": 129,
       "raw_hex": "8705ffef808780a280a159787f617f80cb6c80cc6f80cc80d1fffcfff682060c02809459198320832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a1596d7c5e6580cb014d2a80d680d1fff6152e3c787f617f1a80d580987a151980cc80d0fffc420880d511504d148087809d785d530b",
-      "text_jp": "栖<CMD_ef>ゴュャオヤロスロ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの休吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ’！<PAGE>なんでヤロスロは、ピヨなの~？<CLOSE>ぼく、ちっゃとゴィヤケノさ",
+      "text_jp": "栖<CMD_ef>ゴュャオヤロスロ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの休吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオノリコチ:あゃれ'!<PAGE>なんでヤロスロは,ピヨなの~?<CLOSE>ぼく,ちっゃとゴィヤケノさ",
       "translation_en": ""
     },
     {
@@ -342,7 +342,7 @@
       "target_offset": 12335,
       "length_bytes": 129,
       "raw_hex": "80d7fff580987a6066787f617f80cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a1596d7c5e6580cb1c80cc2e80d7fffcfff6ffed3c2380d53d030e394d102780d5fff6234d1481f70f031581241680d582fd0d26",
-      "text_jp": "…<LINE>ピヨシツヤロスロ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも、どうせだゃたら、<PAGE>もゃと科そうな鯵に、偽すよ",
+      "text_jp": "…<LINE>ピヨシツヤロスロ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオノリコチ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも,どうせだゃたら,<PAGE>もゃと科そうな鯵に,偽すよ",
       "translation_en": ""
     },
     {
@@ -351,7 +351,7 @@
       "target_offset": 12464,
       "length_bytes": 41,
       "raw_hex": "80d1ffefffec808780a280a1596d7c5e6580cb114b4d80d7fffcfff658714d1380d502093680d780d7",
-      "text_jp": "！<CMD_ef><CMD_ec>ゴュャオノリコチ:ちぇゃ…<CLOSE><PAGE>エヘゃて、いけず……",
+      "text_jp": "!<CMD_ef><CMD_ec>ゴュャオノリコチ:ちぇゃ…<CLOSE><PAGE>エヘゃて,いけず……",
       "translation_en": ""
     },
     {
@@ -369,7 +369,7 @@
       "target_offset": 12507,
       "length_bytes": 116,
       "raw_hex": "efffef808780a280a1596d7c5e6580cb3c230b4880d7fffcfff60a1942081a80d5813d8116191f1f1926031582182f0d29191a80d58218190e0280d0fffbfff7ffeb0380d62e80d78218190e02391580d1fffcfff6354e0180d581501a262b0c081880d680d1fff6809080d653809080d65380d1",
-      "text_jp": "▲<CMD_ef>ゴュャオノリコチ:でもさぁ…<CLOSE><PAGE>このぼくは、位哀のままのような蛾がするのは、蛾のせい？<CMD_fb><CMD_f7><CMD_eb>う’ん…蛾のせいだな！<CLOSE><PAGE>じゅあ、胃はよろしくね’！<PAGE>デ’ノデ’ノ！",
+      "text_jp": "▲<CMD_ef>ゴュャオノリコチ:でもさぁ…<CLOSE><PAGE>このぼくは,位哀のままのような蛾がするのは,蛾のせい?<CMD_fb><CMD_f7><CMD_eb>う'ん…蛾のせいだな!<CLOSE><PAGE>じゅあ,胃はよろしくね'!<PAGE>デ'ノデ'ノ!",
       "translation_en": ""
     },
     {
@@ -378,7 +378,7 @@
       "target_offset": 12624,
       "length_bytes": 129,
       "raw_hex": "80d1fff5808780a280a1596d7c5e6580cb6c80cc6f80cc80d1fffcfff682060c02809459198320832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a159787f617f80cb014d2a80d680d1fff6152e3c6d7c5e651a80d580987a151980cc80d0fffc420880d511504d148087809d785d530b",
-      "text_jp": "！<LINE>ゴュャオノリコチ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの休吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ’！<PAGE>なんでノリコチは、ピヨなの~？<CLOSE>ぼく、ちっゃとゴィヤケノさ",
+      "text_jp": "!<LINE>ゴュャオノリコチ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの休吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ'!<PAGE>なんでノリコチは,ピヨなの~?<CLOSE>ぼく,ちっゃとゴィヤケノさ",
       "translation_en": ""
     },
     {
@@ -387,7 +387,7 @@
       "target_offset": 12753,
       "length_bytes": 135,
       "raw_hex": "80d7fff5808780a280a1596d7c5e6580cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a159787f617f80cb1c80cc2e80d7fffcfff6ffeb2680cc0c80d100180480d50f0a19587180d1fff64208195780cc808f80d523274d134b2e",
-      "text_jp": "…<LINE>ゴュャオノリコチ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し！ ねえ、そこのエヘ！<PAGE>ぼくのウ~ヅ、もらゃてぇん",
+      "text_jp": "…<LINE>ゴュャオノリコチ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_eb>よ~し! ねえ,そこのエヘ!<PAGE>ぼくのウ~ヅ,もらゃてぇん",
       "translation_en": ""
     },
     {
@@ -396,7 +396,7 @@
       "target_offset": 12888,
       "length_bytes": 129,
       "raw_hex": "8705ffef808780a280a1596d7c5e6580cb6c80cc6f80cc80d1fffcfff682060c02809459198320832283a12680d1fff6818282d980d580847f580c13294a80d0fffbfff7ffee808780a280a159787f617f80cb014d2a80d680d1fff6152e3c6d7c5e651a80d580987a151980cc80d0fffc420880d511504d148087809d785d530b",
-      "text_jp": "栖<CMD_ef>ゴュャオノリコチ:ネ~ヒ~！<CLOSE><PAGE>荷しいブオの休吸釧よ！<PAGE>嘘基、ギロエしてるぅ？<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ’！<PAGE>なんでノリコチは、ピヨなの~？<CLOSE>ぼく、ちっゃとゴィヤケノさ",
+      "text_jp": "栖<CMD_ef>ゴュャオノリコチ:ネ~ヒ~!<CLOSE><PAGE>荷しいブオの休吸釧よ!<PAGE>嘘基,ギロエしてるぅ?<CMD_fb><CMD_f7><CMD_ee>ゴュャオヤロスロ:あゃれ'!<PAGE>なんでノリコチは,ピヨなの~?<CLOSE>ぼく,ちっゃとゴィヤケノさ",
       "translation_en": ""
     },
     {
@@ -405,7 +405,7 @@
       "target_offset": 13017,
       "length_bytes": 129,
       "raw_hex": "80d7fff580987a60666d7c5e6580cb6c80cc6f80cc80d1fff60a1981248125165780cc808f82fd0d6c80cc6f80cc80d1fffc0d291480987a6066152a296f80cc80d180d1fffbfff7808780a280a159787f617f80cb1c80cc2e80d7fffcfff6ffed3c2380d53d030e394d102780d5fff6234d1481f70f031581241680d582fd0d26",
-      "text_jp": "…<LINE>ピヨシツノリコチ:ネ~ヒ~！<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~！<CLOSE>するとピヨシツなれるヒ~！！<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも、どうせだゃたら、<PAGE>もゃと科そうな鯵に、偽すよ",
+      "text_jp": "…<LINE>ピヨシツノリコチ:ネ~ヒ~!<PAGE>この鯵梓にウ~ヅ偽すネ~ヒ~!<CLOSE>するとピヨシツなれるヒ~!!<CMD_fb><CMD_f7>ゴュャオヤロスロ:ふ~ん…<CLOSE><PAGE><CMD_ed>でも,どうせだゃたら,<PAGE>もゃと科そうな鯵に,偽すよ",
       "translation_en": ""
     },
     {
@@ -414,7 +414,7 @@
       "target_offset": 13146,
       "length_bytes": 41,
       "raw_hex": "80d1ffefffec808780a280a159787f617f80cb114b4d80d7fffcfff658714d1380d502093680d780d7",
-      "text_jp": "！<CMD_ef><CMD_ec>ゴュャオヤロスロ:ちぇゃ…<CLOSE><PAGE>エヘゃて、いけず……",
+      "text_jp": "!<CMD_ef><CMD_ec>ゴュャオヤロスロ:ちぇゃ…<CLOSE><PAGE>エヘゃて,いけず……",
       "translation_en": ""
     },
     {
@@ -432,7 +432,7 @@
       "target_offset": 13189,
       "length_bytes": 116,
       "raw_hex": "efffef808780a280a159787f617f80cb3c230b4880d7fffcfff60a1942081a80d5813d8116191f1f1926031582182f0d29191a80d58218190e0280d0fffbfff7ffeb0380d62e80d78218190e02391580d1fffcfff6354e0180d581501a262b0c081880d680d1fff6809080d653809080d65380d1",
-      "text_jp": "▲<CMD_ef>ゴュャオヤロスロ:でもさぁ…<CLOSE><PAGE>このぼくは、位哀のままのような蛾がするのは、蛾のせい？<CMD_fb><CMD_f7><CMD_eb>う’ん…蛾のせいだな！<CLOSE><PAGE>じゅあ、胃はよろしくね’！<PAGE>デ’ノデ’ノ！",
+      "text_jp": "▲<CMD_ef>ゴュャオヤロスロ:でもさぁ…<CLOSE><PAGE>このぼくは,位哀のままのような蛾がするのは,蛾のせい?<CMD_fb><CMD_f7><CMD_eb>う'ん…蛾のせいだな!<CLOSE><PAGE>じゅあ,胃はよろしくね'!<PAGE>デ'ノデ'ノ!",
       "translation_en": ""
     },
     {
@@ -441,7 +441,7 @@
       "target_offset": 13306,
       "length_bytes": 125,
       "raw_hex": "80d1fff580987a60668096595d80cc80cb1a80cc0280d1fff60f0a198096595d80cc114e2e81f082184980d0fffcfff652615d238096595d80cc39093d0b80cffffbfff7ffee8096595d80cc80cb034d0f4c80cc80d1fffcfff6526b6b80d10052615d2f81110702264c80d1fffc84a1862e83d0390c80d53d030c1019",
-      "text_jp": "！<LINE>ピヨシツボオケ~:は~い！<PAGE>そこのボオケ~ちゅん加蛾ぃ？<CLOSE><PAGE>ヴスケもボオケ~だけどさ。<CMD_fb><CMD_f7><CMD_ee>ボオケ~:うゃそぉ~！<CLOSE><PAGE>ヴヌヌ！ ヴスケが〇きいよぉ！<CLOSE>高女畦だし、どうしたの",
+      "text_jp": "!<LINE>ピヨシツボオケ~:は~い!<PAGE>そこのボオケ~ちゅん加蛾ぃ?<CLOSE><PAGE>ヴスケもボオケ~だけどさ。<CMD_fb><CMD_f7><CMD_ee>ボオケ~:うゃそぉ~!<CLOSE><PAGE>ヴヌヌ! ヴスケが々きいよぉ!<CLOSE>高女畦だし,どうしたの",
       "translation_en": ""
     },
     {
@@ -450,7 +450,7 @@
       "target_offset": 13431,
       "length_bytes": 121,
       "raw_hex": "80d0ffef80987a60668096595d80cc80cb52615d184b80d580987a6066160c1323274d101980cffffcfff60a1981241480d505851a845f0d292e394880cffffbfff7ffeb8096595d80cc80cb1d80cc80d50202154880d7fffcfff6184b184b80d552615d235780cc808f3cfff60202062780d583212a134d13",
-      "text_jp": "？<CMD_ef>ピヨシツボオケ~:ヴスケねぇ、ピヨシツにしてもらゃたの。<CLOSE><PAGE>この鯵と、お冊向するんだぁ。<CMD_fb><CMD_f7><CMD_eb>ボオケ~:へ~、いいなぁ…<CLOSE><PAGE>ねぇねぇ、ヴスケもウ~ヅで<PAGE>いいから、及れてゃて",
+      "text_jp": "?<CMD_ef>ピヨシツボオケ~:ヴスケねぇ,ピヨシツにしてもらゃたの。<CLOSE><PAGE>この鯵と,お冊向するんだぁ。<CMD_fb><CMD_f7><CMD_eb>ボオケ~:へ~,いいなぁ…<CLOSE><PAGE>ねぇねぇ,ヴスケもウ~ヅで<PAGE>いいから,及れてゃて",
       "translation_en": ""
     },
     {
@@ -459,7 +459,7 @@
       "target_offset": 13552,
       "length_bytes": 126,
       "raw_hex": "8705ffef80987a60668096595d80cc80cb1a80cc0280d1fff60f0a198096595d80cc114e2e81f082184980d0fffcfff652615d238096595d80cc39093d0b80cffffbfff7ffee8096595d80cc80cb034d0f4c80cc80d1fffcfff65880a26b6b80d10052615d2f811107022680d1fffc84a1862e83d0390c80d53d030c1019",
-      "text_jp": "栖<CMD_ef>ピヨシツボオケ~:は~い！<PAGE>そこのボオケ~ちゅん加蛾ぃ？<CLOSE><PAGE>ヴスケもボオケ~だけどさ。<CMD_fb><CMD_f7><CMD_ee>ボオケ~:うゃそぉ~！<CLOSE><PAGE>エュヌヌ！ ヴスケが〇きいよ！<CLOSE>高女畦だし、どうしたの",
+      "text_jp": "栖<CMD_ef>ピヨシツボオケ~:は~い!<PAGE>そこのボオケ~ちゅん加蛾ぃ?<CLOSE><PAGE>ヴスケもボオケ~だけどさ。<CMD_fb><CMD_f7><CMD_ee>ボオケ~:うゃそぉ~!<CLOSE><PAGE>エュヌヌ! ヴスケが々きいよ!<CLOSE>高女畦だし,どうしたの",
       "translation_en": ""
     },
     {
@@ -468,7 +468,7 @@
       "target_offset": 13678,
       "length_bytes": 113,
       "raw_hex": "80d0ffef80987a60668096595d80cc80cb52615d184b80d580987a6066160c1323274d101980cffffcfff60a1981241480d505851a845f0d292e394880cffffbfff78096595d80cc80cb1c80cc2e80d7fffcfff6ffed52615d394d102780d5234d14fff681f70f03158124160d29093d18",
-      "text_jp": "？<CMD_ef>ピヨシツボオケ~:ヴスケねぇ、ピヨシツにしてもらゃたの。<CLOSE><PAGE>この鯵と、お冊向するんだぁ。<CMD_fb><CMD_f7>ボオケ~:ふ~ん…<CLOSE><PAGE><CMD_ed>ヴスケだゃたら、もゃと<PAGE>科そうな鯵にするけどね",
+      "text_jp": "?<CMD_ef>ピヨシツボオケ~:ヴスケねぇ,ピヨシツにしてもらゃたの。<CLOSE><PAGE>この鯵と,お冊向するんだぁ。<CMD_fb><CMD_f7>ボオケ~:ふ~ん…<CLOSE><PAGE><CMD_ed>ヴスケだゃたら,もゃと<PAGE>科そうな鯵にするけどね",
       "translation_en": ""
     },
     {
@@ -477,7 +477,7 @@
       "target_offset": 13791,
       "length_bytes": 53,
       "raw_hex": "80d1ffefffec8096595d80cc80cb5580cc7f80d1fffcfff60f19824e3e4d06286c53580c13fff6152e0680d5362902260380d780d7",
-      "text_jp": "！<CMD_ef><CMD_ec>ボオケ~:ア~ロ！<CLOSE><PAGE>その鈎ばゃかりネノエして<PAGE>なんか、ずるいよう……",
+      "text_jp": "!<CMD_ef><CMD_ec>ボオケ~:ア~ロ!<CLOSE><PAGE>その鈎ばゃかりネノエして<PAGE>なんか,ずるいよう……",
       "translation_en": ""
     },
     {
@@ -486,7 +486,7 @@
       "target_offset": 13844,
       "length_bytes": 55,
       "raw_hex": "80d7ffefffed80d76d7f80d1000202232e1880d1fffcfff60212068096595d80cc7b80a1808f3c80d5fff682be2c0c1324292e39062748",
-      "text_jp": "…<CMD_ef><CMD_ed>…ノロ！ いいもんね！<CLOSE><PAGE>いつかボオケ~ラャヅで、<PAGE>鑑わしてやるんだからぁ",
+      "text_jp": "…<CMD_ef><CMD_ed>…ノロ! いいもんね!<CLOSE><PAGE>いつかボオケ~ラャヅで,<PAGE>鑑わしてやるんだからぁ",
       "translation_en": ""
     },
     {
@@ -495,7 +495,7 @@
       "target_offset": 13899,
       "length_bytes": 55,
       "raw_hex": "80d1ffefffeb8096595d80cc80cb244d104880d1fffcfff6354e0180d58111071552615d14fff6812481250b2e80d51f1082d68169184b",
-      "text_jp": "！<CMD_ef><CMD_eb>ボオケ~:やゃたぁ！<CLOSE><PAGE>じゅあ、〇きなヴスケと<PAGE>鯵梓さん、また危因ねぇ",
+      "text_jp": "!<CMD_ef><CMD_eb>ボオケ~:やゃたぁ!<CLOSE><PAGE>じゅあ,々きなヴスケと<PAGE>鯵梓さん,また危因ねぇ",
       "translation_en": ""
     },
     {
@@ -504,7 +504,7 @@
       "target_offset": 13954,
       "length_bytes": 127,
       "raw_hex": "80d1ffef5d8080809a80cb2c2f841b824e2680cffff60102062c2736835b8166390919861a0680d7fffcfff63d030e152780d58528816684db292f260280cffffbfff7ffec80816980cc5d80a280cb812d81c580d7fffcfff6813982d41984980c210a1482d281723c0d2f80d5fff6815e1981ba28861a2d84db281f0c5003",
-      "text_jp": "！<CMD_ef>ケワペ:わが減鈎よ。<PAGE>あいかわらず橋印だけの純か…<CLOSE><PAGE>どうせなら、鮫印詐るがよい。<CMD_fb><CMD_f7><CMD_ec>ヲナ~ケュ:絢塩…<CLOSE><PAGE>鞍企の郊しむこと顔隠ですが、<PAGE>壱の焔り純を詐りましっう",
+      "text_jp": "!<CMD_ef>ケワペ:わが減鈎よ。<PAGE>あいかわらず橋印だけの純か…<CLOSE><PAGE>どうせなら,鮫印詐るがよい。<CMD_fb><CMD_f7><CMD_ec>ヲナ~ケュ:絢塩…<CLOSE><PAGE>鞍企の郊しむこと顔隠ですが,<PAGE>壱の焔り純を詐りましっう",
       "translation_en": ""
     },
     {
@@ -513,7 +513,7 @@
       "target_offset": 14081,
       "length_bytes": 122,
       "raw_hex": "80d7ffef5d8080809a80cb1c2e80d7849e83401a81e482d43980cffffcfff6841b824e2680d50a19812481251680d5fff60581401981432d84c4041324292f260280cffffbfff7ffeb80816980cc5d80a280cb812d81c580d7fffcfff60f2a3c1a812419824e2680d5fff682d1195780cc808f2d8127032f2602",
-      "text_jp": "…<CMD_ef>ケワペ:ふん…降漁は卸企だ。<CLOSE><PAGE>減鈎よ、この鯵梓に、<PAGE>お囲の威を婚えてやるがよい。<CMD_fb><CMD_f7><CMD_eb>ヲナ~ケュ:絢塩…<CLOSE><PAGE>それでは鯵の鈎よ、<PAGE>頑のウ~ヅを斡うがよい",
+      "text_jp": "…<CMD_ef>ケワペ:ふん…降漁は卸企だ。<CLOSE><PAGE>減鈎よ,この鯵梓に,<PAGE>お囲の威を婚えてやるがよい。<CMD_fb><CMD_f7><CMD_eb>ヲナ~ケュ:絢塩…<CLOSE><PAGE>それでは鯵の鈎よ,<PAGE>頑のウ~ヅを斡うがよい",
       "translation_en": ""
     },
     {
@@ -522,7 +522,7 @@
       "target_offset": 14203,
       "length_bytes": 127,
       "raw_hex": "80cfffef5d8080809a80cb2c2f841b824e2680cffff60102062c2736835b8166390919861a0680d7fffcfff63d030e152780d58528816684db292f260280cffffbfff7ffec80816980cc5d80a280cb812d81c580d7fffcfff6813982d41984980c210a1482d281723c0d2f80d5fff6815e1981ba28861a2d84db281f0c5003",
-      "text_jp": "。<CMD_ef>ケワペ:わが減鈎よ。<PAGE>あいかわらず橋印だけの純か…<CLOSE><PAGE>どうせなら、鮫印詐るがよい。<CMD_fb><CMD_f7><CMD_ec>ヲナ~ケュ:絢塩…<CLOSE><PAGE>鞍企の郊しむこと顔隠ですが、<PAGE>壱の焔り純を詐りましっう",
+      "text_jp": "。<CMD_ef>ケワペ:わが減鈎よ。<PAGE>あいかわらず橋印だけの純か…<CLOSE><PAGE>どうせなら,鮫印詐るがよい。<CMD_fb><CMD_f7><CMD_ec>ヲナ~ケュ:絢塩…<CLOSE><PAGE>鞍企の郊しむこと顔隠ですが,<PAGE>壱の焔り純を詐りましっう",
       "translation_en": ""
     },
     {
@@ -531,7 +531,7 @@
       "target_offset": 14330,
       "length_bytes": 133,
       "raw_hex": "80d7ffef5d8080809a80cb1c2e80d7849e83401a81e482d43980cffffcfff6841b824e2680d50a19812481251680d5fff60581401981432d84c4041324292f260280cffffbfff7ffed80816980cc5d80a280cb05826783513c0d2f80d5fff682d12381141481d93e2a29818480d7fffcfff681241683b9031a80d533839d839e2d80d780d7",
-      "text_jp": "…<CMD_ef>ケワペ:ふん…降漁は卸企だ。<CLOSE><PAGE>減鈎よ、この鯵梓に、<PAGE>お囲の威を婚えてやるがよい。<CMD_fb><CMD_f7><CMD_ed>ヲナ~ケュ:お顎喬ですが、<PAGE>頑も娃と岡ばれる欝…<CLOSE><PAGE>鯵に袈うは、ご遇隅を……",
+      "text_jp": "…<CMD_ef>ケワペ:ふん…降漁は卸企だ。<CLOSE><PAGE>減鈎よ,この鯵梓に,<PAGE>お囲の威を婚えてやるがよい。<CMD_fb><CMD_f7><CMD_ed>ヲナ~ケュ:お顎喬ですが,<PAGE>頑も娃と岡ばれる欝…<CLOSE><PAGE>鯵に袈うは,ご遇隅を……",
       "translation_en": ""
     },
     {
@@ -540,7 +540,7 @@
       "target_offset": 14463,
       "length_bytes": 132,
       "raw_hex": "80d7ffef5d8080809a80cb83630615812481252680d7fffcfff682d119841b824e1a829384623c01292f80d5fff60f1981431a82d12f86e1098249033880cffffbfff7ffed80816980cc5d80a280cb841782d480d52602193c0d80cf812419824e153d80d50c500e2e0a198168816980d7fffc82d11a80d58393831d0b0e1382ce071f0d",
-      "text_jp": "…<CMD_ef>ケワペ:蕎かな鯵梓よ…<CLOSE><PAGE>頑の減鈎は勘坑であるが、<PAGE>その威は頑が錘け馨うぞ。<CMD_fb><CMD_f7><CMD_ed>ヲナ~ケュ:原企、よいのです。鯵の鈎など、しっせんこの員因…<CLOSE>頑は、駆丘させて翫きます",
+      "text_jp": "…<CMD_ef>ケワペ:蕎かな鯵梓よ…<CLOSE><PAGE>頑の減鈎は勘坑であるが,<PAGE>その威は頑が錘け馨うぞ。<CMD_fb><CMD_f7><CMD_ed>ヲナ~ケュ:原企,よいのです。鯵の鈎など,しっせんこの員因…<CLOSE>頑は,駆丘させて翫きます",
       "translation_en": ""
     },
     {
@@ -558,7 +558,7 @@
       "target_offset": 14597,
       "length_bytes": 121,
       "raw_hex": "efffefffec80816980cc5d80a280cb841782d480d7fffc0f2b0f2b80d5fff6527279612d80d50582572816154d13fff60210390615021480d584872f82fe2880d7fffbfff75d8080809a80cb2c064d13052980d1fffcfff60581400a0f80d50b4d0b1481d24d1380d5fff684f319837a073c2382890213052a",
-      "text_jp": "▲<CMD_ef><CMD_ec>ヲナ~ケュ:原企…<CLOSE>そろそろ、<PAGE>ヴホユスを、お殻りになゃて<PAGE>いただかないと、紅が儀り…<CMD_fb><CMD_f7>ケワペ:わかゃておる！<CLOSE><PAGE>お囲こそ、さゃさと殴ゃて、<PAGE>砦の欣きでも萱いておれ",
+      "text_jp": "▲<CMD_ef><CMD_ec>ヲナ~ケュ:原企…<CLOSE>そろそろ,<PAGE>ヴホユスを,お殻りになゃて<PAGE>いただかないと,紅が儀り…<CMD_fb><CMD_f7>ケワペ:わかゃておる!<CLOSE><PAGE>お囲こそ,さゃさと殴ゃて,<PAGE>砦の欣きでも萱いておれ",
       "translation_en": ""
     },
     {
@@ -567,7 +567,7 @@
       "target_offset": 14719,
       "length_bytes": 133,
       "raw_hex": "80d1ffef5d8080809a80cb050280d58228836d198259811080d1fffcfff626232480d58182825c19813681378114102980d5fff6828a83942d82e02a131a05291f021580cffffbfff7ffec577d7f6280a280cb142e3c23150280d1fffcfff63c0d2f80d75d8080809a83941423012b03fff60581662f80d5812481251486bd2a29153d80d7",
-      "text_jp": "！<CMD_ef>ケワペ:おい、懐業の確々！<CLOSE><PAGE>よもや、嘘角の暗案娃たる、<PAGE>粥駈を忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:とんでもない！<CLOSE><PAGE>ですが…ケワペ駈ともあろう<PAGE>お印が、鯵梓と進れるなど…",
+      "text_jp": "!<CMD_ef>ケワペ:おい,懐業の確z!<CLOSE><PAGE>よもや,嘘角の暗案娃たる,<PAGE>粥駈を忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:とんでもない!<CLOSE><PAGE>ですが…ケワペ駈ともあろう<PAGE>お印が,鯵梓と進れるなど…",
       "translation_en": ""
     },
     {
@@ -576,7 +576,7 @@
       "target_offset": 14852,
       "length_bytes": 134,
       "raw_hex": "80d7ffef5d8080809a80cb85cb36290a141a150280cffffcfff682d61a835001281380d50a1981841681432dfff684c40413052980d7fffc837b23849f81430e0280d1fffbfff7ffec577d7f6280a280cb80d780d75d8080809a83942f80d5fff60f03054d0c4e29193c012a3e80d7fffcfff6812481252680d55780cc808f2d83310983072a",
-      "text_jp": "…<CMD_ef>ケワペ:酒ずることはない。<CLOSE><PAGE>危は叫ありて、この欝に威を<PAGE>婚えておる…<CLOSE>欽も項威せい！<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:……ケワペ駈が、<PAGE>そうおゃしゅるのであれば…<CLOSE><PAGE>鯵梓よ、ウ~ヅを糾け祇れ",
+      "text_jp": "…<CMD_ef>ケワペ:酒ずることはない。<CLOSE><PAGE>危は叫ありて,この欝に威を<PAGE>婚えておる…<CLOSE>欽も項威せい!<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:……ケワペ駈が,<PAGE>そうおゃしゅるのであれば…<CLOSE><PAGE>鯵梓よ,ウ~ヅを糾け祇れ",
       "translation_en": ""
     },
     {
@@ -585,7 +585,7 @@
       "target_offset": 14986,
       "length_bytes": 137,
       "raw_hex": "80cfffef5d8080809a80cb050280d58228836d198259811080d1fffcfff626232480d58182825c19813681378114102980d5fff6828a83942d82e02a131a05291f021580cffffbfff7ffed577d7f6280a280cb142e3c23150280d1fffcfff60c060c80d55d8080809a8394816819812d81662f80d5fff61f0b06812481251486bd2a29153d80d780d7",
-      "text_jp": "。<CMD_ef>ケワペ:おい、懐業の確々！<CLOSE><PAGE>よもや、嘘角の暗案娃たる、<PAGE>粥駈を忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない！<CLOSE><PAGE>しかし、ケワペ駈員の絢印が、<PAGE>まさか鯵梓と進れるなど……",
+      "text_jp": "。<CMD_ef>ケワペ:おい,懐業の確z!<CLOSE><PAGE>よもや,嘘角の暗案娃たる,<PAGE>粥駈を忌れてはおるまいな。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:とんでもない!<CLOSE><PAGE>しかし,ケワペ駈員の絢印が,<PAGE>まさか鯵梓と進れるなど……",
       "translation_en": ""
     },
     {
@@ -594,7 +594,7 @@
       "target_offset": 15123,
       "length_bytes": 128,
       "raw_hex": "80d7ffef5d8080809a80cb85cb36290a141a150280cffffcfff682d61a835001281380d50a1981841681432dfff684c40413052980d7fffc837b23849f81430e0280d1fffbfff7ffec577d7f6280a280cb80d780d702082780d5fff65d8080809a8394198480201402043d80d582d1162380977853808f2f80d501281f0d2504",
-      "text_jp": "…<CMD_ef>ケワペ:酒ずることはない。<CLOSE><PAGE>危は叫ありて、この欝に威を<PAGE>婚えておる…<CLOSE>欽も項威せい！<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:……いくら、<PAGE>ケワペ駈の港みといえど、頑にもパヤノヅが、ありますゆえ",
+      "text_jp": "…<CMD_ef>ケワペ:酒ずることはない。<CLOSE><PAGE>危は叫ありて,この欝に威を<PAGE>婚えておる…<CLOSE>欽も項威せい!<CMD_fb><CMD_f7><CMD_ec>ウルロセュ:……いくら,<PAGE>ケワペ駈の港みといえど,頑にもパヤノヅが,ありますゆえ",
       "translation_en": ""
     },
     {
@@ -603,7 +603,7 @@
       "target_offset": 15251,
       "length_bytes": 122,
       "raw_hex": "80d7ffef5d8080809a80cb83630615812481252680d7fffcfff60a19813d81161a83730616826281163c01292f80d5811681fa09161a818285103c01293880cffffbfff7ffed577d7f6280a280cb80d780d780d7fffcfff65d8080809a839480d523032602193c0d80cffff682d123830381f92f01281f0d2504",
-      "text_jp": "…<CMD_ef>ケワペ:蕎かな鯵梓よ…<CLOSE><PAGE>この位哀は粁かに革哀であるが、哀架けには嘘朔であるぞ。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:………<CLOSE><PAGE>ケワペ駈、もうよいのです。<PAGE>頑も擬果がありますゆえ",
+      "text_jp": "…<CMD_ef>ケワペ:蕎かな鯵梓よ…<CLOSE><PAGE>この位哀は粁かに革哀であるが,哀架けには嘘朔であるぞ。<CMD_fb><CMD_f7><CMD_ed>ウルロセュ:………<CLOSE><PAGE>ケワペ駈,もうよいのです。<PAGE>頑も擬果がありますゆえ",
       "translation_en": ""
     },
     {
@@ -621,7 +621,7 @@
       "target_offset": 15375,
       "length_bytes": 110,
       "raw_hex": "efffef5d8080809a80cb2602260280cffffcfff60a2a3c80d526032408828a83942380d5fff6837f2f8198820d2914020323193980d1fffbfff7577d7f6280a280cb80d780d780d7fffcfff68344062c0c020a143c012980cffff68136813781141983612f852202131f0d3880d7",
-      "text_jp": "▲<CMD_ef>ケワペ:よいよい。<CLOSE><PAGE>これで、ようやく粥駈も、<PAGE>筋が栄迦るというものだ！<CMD_fb><CMD_f7>ウルロセュ:………<CLOSE><PAGE>享かわしいことである。<PAGE>暗案娃の脅が薩いてますぞ…",
+      "text_jp": "▲<CMD_ef>ケワペ:よいよい。<CLOSE><PAGE>これで,ようやく粥駈も,<PAGE>筋が栄迦るというものだ!<CMD_fb><CMD_f7>ウルロセュ:………<CLOSE><PAGE>享かわしいことである。<PAGE>暗案娃の脅が薩いてますぞ…",
       "translation_en": ""
     },
     {
@@ -630,7 +630,7 @@
       "target_offset": 15486,
       "length_bytes": 122,
       "raw_hex": "80d7ffef80987a606656656c7380cb1a80cc0280d1fff60f0a1956656c73114e2e81f082184980d0fffcfff652615d2356656c7339093d1880cffffbfff7ffee56656c7380cb527f6115160c132e1980d0fffc8212861b16154d102780d58254824785d71480d5fff6828684272f85792882492c1502354e1502",
-      "text_jp": "…<CMD_ef>ピヨシツイチネマ:は~い！<PAGE>そこのイチネマちゅん加蛾ぃ？<CLOSE><PAGE>ヴスケもイチネマだけどね。<CMD_fb><CMD_f7><CMD_ee>イチネマ:ヴロスなにしてんの？<CLOSE>峨巡になゃたら、撹骸周と、<PAGE>鴨呼が時り馨わないじゅない",
+      "text_jp": "…<CMD_ef>ピヨシツイチネマ:は~い!<PAGE>そこのイチネマちゅん加蛾ぃ?<CLOSE><PAGE>ヴスケもイチネマだけどね。<CMD_fb><CMD_f7><CMD_ee>イチネマ:ヴロスなにしてんの?<CLOSE>峨巡になゃたら,撹骸周と,<PAGE>鴨呼が時り馨わないじゅない",
       "translation_en": ""
     },
     {
@@ -639,7 +639,7 @@
       "target_offset": 15608,
       "length_bytes": 121,
       "raw_hex": "80cfffef80987a606656656c7380cb52615d184b80d580987a6066160c1323274d10192680cffffcfff60a1981241480d582123c8556312e394880cffffbfff7ffee56656c7380cb1d80cc80d50202154880cffffcfff6184b80d552615d2383212a134d132680cffff65780cc808f39093c80d5020206270b",
-      "text_jp": "。<CMD_ef>ピヨシツイチネマ:ヴスケねぇ、ピヨシツにしてもらゃたのよ。<CLOSE><PAGE>この鯵と、峨で斯ぐんだぁ。<CMD_fb><CMD_f7><CMD_ee>イチネマ:へ~、いいなぁ。<CLOSE><PAGE>ねぇ、ヴスケも及れてゃてよ。<PAGE>ウ~ヅだけで、いいからさ",
+      "text_jp": "。<CMD_ef>ピヨシツイチネマ:ヴスケねぇ,ピヨシツにしてもらゃたのよ。<CLOSE><PAGE>この鯵と,峨で斯ぐんだぁ。<CMD_fb><CMD_f7><CMD_ee>イチネマ:へ~,いいなぁ。<CLOSE><PAGE>ねぇ,ヴスケも及れてゃてよ。<PAGE>ウ~ヅだけで,いいからさ",
       "translation_en": ""
     },
     {
@@ -648,7 +648,7 @@
       "target_offset": 15729,
       "length_bytes": 122,
       "raw_hex": "8705ffef80987a606656656c7380cb1a80cc0280d1fff60f0a1956656c73114e2e81f082184980d0fffcfff652615d2356656c7339093d1880cffffbfff7ffee56656c7380cb527f6115160c132e1980d0fffc8212861b16154d102780d58254824785d71480d5fff6828684272f85792882492c1502354e1502",
-      "text_jp": "栖<CMD_ef>ピヨシツイチネマ:は~い！<PAGE>そこのイチネマちゅん加蛾ぃ？<CLOSE><PAGE>ヴスケもイチネマだけどね。<CMD_fb><CMD_f7><CMD_ee>イチネマ:ヴロスなにしてんの？<CLOSE>峨巡になゃたら、撹骸周と、<PAGE>鴨呼が時り馨わないじゅない",
+      "text_jp": "栖<CMD_ef>ピヨシツイチネマ:は~い!<PAGE>そこのイチネマちゅん加蛾ぃ?<CLOSE><PAGE>ヴスケもイチネマだけどね。<CMD_fb><CMD_f7><CMD_ee>イチネマ:ヴロスなにしてんの?<CLOSE>峨巡になゃたら,撹骸周と,<PAGE>鴨呼が時り馨わないじゅない",
       "translation_en": ""
     },
     {
@@ -657,7 +657,7 @@
       "target_offset": 15851,
       "length_bytes": 121,
       "raw_hex": "80cfffef80987a606656656c7380cb52615d184b80d580987a6066160c1323274d10192680cffffcfff60a1981241480d582123c8556312e3980cffffbfff7ffeb56656c7380cb83c402812481251a80d5527f611682bb82490206231880cffffc52615d1a841814fff6262b0c080d29062780d5809080cc53",
-      "text_jp": "。<CMD_ef>ピヨシツイチネマ:ヴスケねぇ、ピヨシツにしてもらゃたのよ。<CLOSE><PAGE>この鯵と、峨で斯ぐんだ。<CMD_fb><CMD_f7><CMD_eb>イチネマ:形い鯵梓は、ヴロスに諌馨いかもね。<CLOSE>ヴスケは厳と<PAGE>よろしくするから、デ~ノ",
+      "text_jp": "。<CMD_ef>ピヨシツイチネマ:ヴスケねぇ,ピヨシツにしてもらゃたのよ。<CLOSE><PAGE>この鯵と,峨で斯ぐんだ。<CMD_fb><CMD_f7><CMD_eb>イチネマ:形い鯵梓は,ヴロスに諌馨いかもね。<CLOSE>ヴスケは厳と<PAGE>よろしくするから,デ~ノ",
       "translation_en": ""
     },
     {
@@ -666,7 +666,7 @@
       "target_offset": 15972,
       "length_bytes": 60,
       "raw_hex": "80d1ffefffec56656c7380cb034d0f80d780d780d7fffcfff60a2a4d1380d5813d85664d13241280d0fffcfff683bc35272a150280d100537580cc7f",
-      "text_jp": "！<CMD_ef><CMD_ec>イチネマ:うゃそ………<CLOSE><PAGE>これゃて、位視ゃてやつ？<CLOSE><PAGE>傾じられない！ ノム~ロ",
+      "text_jp": "!<CMD_ef><CMD_ec>イチネマ:うゃそ………<CLOSE><PAGE>これゃて,位視ゃてやつ?<CLOSE><PAGE>傾じられない! ノム~ロ",
       "translation_en": ""
     },
     {
@@ -675,7 +675,7 @@
       "target_offset": 16032,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -684,7 +684,7 @@
       "target_offset": 16034,
       "length_bytes": 52,
       "raw_hex": "efffefffeb56656c7380cb244d104880d1fffcfff6354e0180d58111071552615d14fff6812481250b2e80d51f1082d68169184b",
-      "text_jp": "▲<CMD_ef><CMD_eb>イチネマ:やゃたぁ！<CLOSE><PAGE>じゅあ、〇きなヴスケと<PAGE>鯵梓さん、また危因ねぇ",
+      "text_jp": "▲<CMD_ef><CMD_eb>イチネマ:やゃたぁ!<CLOSE><PAGE>じゅあ,々きなヴスケと<PAGE>鯵梓さん,また危因ねぇ",
       "translation_en": ""
     },
     {
@@ -693,7 +693,7 @@
       "target_offset": 16087,
       "length_bytes": 113,
       "raw_hex": "8705ffef5a7a80937c5e80cb525680cc7f80d1fffcfff6567b005670556a832280d1fffcfff683a10080847f58007580a1647a5780d0fffbfff7ffeb567a657c5e80cb525680cc7f80d1fffcfff6567b5c7081f0821800fffc808e7400832277fff66b808e5e6a8412824500808f545d61",
-      "text_jp": "栖<CMD_ef>カヨビリコ:ヴイ~ロ！<CLOSE><PAGE>イラ イフアニ吸！<CLOSE><PAGE>釧 ギロエ ムャタヨウ？<CMD_fb><CMD_f7><CMD_eb>イヨチリコ:ヴイ~ロ！<CLOSE><PAGE>イラクフ加蛾 <CLOSE>ヂミ 吸モ<PAGE>ヌヂコニ険該 ヅオケス",
+      "text_jp": "栖<CMD_ef>カヨビリコ:ヴイ~ロ!<CLOSE><PAGE>イラ イフアニ吸!<CLOSE><PAGE>釧 ギロエ ムャタヨウ?<CMD_fb><CMD_f7><CMD_eb>イヨチリコ:ヴイ~ロ!<CLOSE><PAGE>イラクフ加蛾 <CLOSE>ヂミ 吸モ<PAGE>ヌヂコニ険該 ヅオケス",
       "translation_en": ""
     },
     {
@@ -702,7 +702,7 @@
       "target_offset": 16200,
       "length_bytes": 108,
       "raw_hex": "80d0ffef5a7a80937c5e80cb844a7100830780a16180d7fffcfff6607b777900567055005b536367fff662577800575d6400757b66535780d0fffbfff7ffee567a657c5e80cb685480d7fffcfff683226a008480716678005d57616653fffcfff6677f80847f005780cc808f",
-      "text_jp": "？<CMD_ef>カヨビリコ:檎ヘ 祇ャス…<CLOSE><PAGE>シラモユ イフア キノソテ<PAGE>セウヤ ウケタ ムラツノウ？<CMD_fb><CMD_f7><CMD_ee>イヨチリコ:トオ…<CLOSE><PAGE>吸ニ 港ヘツヤ ケウスツノ<CLOSE><PAGE>テロギロ ウ~ヅ",
+      "text_jp": "?<CMD_ef>カヨビリコ:檎ヘ 祇ャス…<CLOSE><PAGE>シラモユ イフア キノソテ<PAGE>セウヤ ウケタ ムラツノウ?<CMD_fb><CMD_f7><CMD_ee>イヨチリコ:トオ…<CLOSE><PAGE>吸ニ 港ヘツヤ ケウスツノ<CLOSE><PAGE>テロギロ ウ~ヅ",
       "translation_en": ""
     },
     {
@@ -711,7 +711,7 @@
       "target_offset": 16309,
       "length_bytes": 113,
       "raw_hex": "757affef5a7a80937c5e80cb525680cc7f80d1fffcfff6567b005670556a832280d1fffcfff683a10080847f58007580a1647a5780d0fffbfff7ffeb567a657c5e80cb525680cc7f80d1fffcfff6567b5c7081f0821800fffc808e7400832277fff66b808e5e6a8412824500808f545d61",
-      "text_jp": "ムヨ<CMD_ef>カヨビリコ:ヴイ~ロ！<CLOSE><PAGE>イラ イフアニ吸！<CLOSE><PAGE>釧 ギロエ ムャタヨウ？<CMD_fb><CMD_f7><CMD_eb>イヨチリコ:ヴイ~ロ！<CLOSE><PAGE>イラクフ加蛾 <CLOSE>ヂミ 吸モ<PAGE>ヌヂコニ険該 ヅオケス",
+      "text_jp": "ムヨ<CMD_ef>カヨビリコ:ヴイ~ロ!<CLOSE><PAGE>イラ イフアニ吸!<CLOSE><PAGE>釧 ギロエ ムャタヨウ?<CMD_fb><CMD_f7><CMD_eb>イヨチリコ:ヴイ~ロ!<CLOSE><PAGE>イラクフ加蛾 <CLOSE>ヂミ 吸モ<PAGE>ヌヂコニ険該 ヅオケス",
       "translation_en": ""
     },
     {
@@ -720,7 +720,7 @@
       "target_offset": 16422,
       "length_bytes": 109,
       "raw_hex": "80d0ffef5a7a80937c5e80cb844a7100830780a16180d7fffcfff6607b777900567055005b536367fff662577800575d6400757b66535780d0fffbfff7ffee567a657c5e80cb685480d7fffcfff6667f57005b53630083c4605480d7fffcfff6ffed567b5c7000830381f97480",
-      "text_jp": "？<CMD_ef>カヨビリコ:檎ヘ 祇ャス…<CLOSE><PAGE>シラモユ イフア キノソテ<PAGE>セウヤ ウケタ ムラツノウ？<CMD_fb><CMD_f7><CMD_ee>イヨチリコ:トオ…<CLOSE><PAGE>ツロウ キノソ 形シオ…<CLOSE><PAGE><CMD_ed>イラクフ 擬果ミ",
+      "text_jp": "?<CMD_ef>カヨビリコ:檎ヘ 祇ャス…<CLOSE><PAGE>シラモユ イフア キノソテ<PAGE>セウヤ ウケタ ムラツノウ?<CMD_fb><CMD_f7><CMD_ee>イヨチリコ:トオ…<CLOSE><PAGE>ツロウ キノソ 形シオ…<CLOSE><PAGE><CMD_ed>イラクフ 擬果ミ",
       "translation_en": ""
     },
     {
@@ -729,7 +729,7 @@
       "target_offset": 16531,
       "length_bytes": 62,
       "raw_hex": "8f7affefffed567a657c5e80cb8081809a80cc80cc80d1fffcfff65b6a00677f80847f0080905780d1fff683227400830381f95d6181668081005353808a",
-      "text_jp": "ヅヨ<CMD_ef><CMD_ed>イヨチリコ:ヲペ~~！<CLOSE><PAGE>キニ テロギロ デウ！<PAGE>吸ミ 擬果ケス印ヲ ノノズ",
+      "text_jp": "ヅヨ<CMD_ef><CMD_ed>イヨチリコ:ヲペ~~!<CLOSE><PAGE>キニ テロギロ デウ!<PAGE>吸ミ 擬果ケス印ヲ ノノズ",
       "translation_en": ""
     },
     {
@@ -738,7 +738,7 @@
       "target_offset": 16593,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -747,7 +747,7 @@
       "target_offset": 16595,
       "length_bytes": 125,
       "raw_hex": "efffefffeb567a657c5e80cb5b7b808e0053535780d0fffcfff6667800567b5c700083908484670081e07afffcfff68322005380a15d80a4670081e07c54fffbfff75a7a80937c5e80cb808b73808b0085b783ff527afffcfff6567b5c700057707d80880081f16781d25afff68273538779005670550082eb80a1647a",
-      "text_jp": "▲<CMD_ef><CMD_eb>イヨチリコ:キラヂ ノノウ？<CLOSE><PAGE>ツヤ イラクフ 矩硬テ 桶ヨ<CLOSE><PAGE>吸 ノャケッテ 桶リオ<CMD_fb><CMD_f7>カヨビリコ:ゼマゼ 灼懸ヴヨ<CLOSE><PAGE>イラクフ ウフルザ 可テ殴カ<PAGE>活ノ訴 イフア 気ャタヨ",
+      "text_jp": "▲<CMD_ef><CMD_eb>イヨチリコ:キラヂ ノノウ?<CLOSE><PAGE>ツヤ イラクフ 矩硬テ 桶ヨ<CLOSE><PAGE>吸 ノャケッテ 桶リオ<CMD_fb><CMD_f7>カヨビリコ:ゼマゼ 灼懸ヴヨ<CLOSE><PAGE>イラクフ ウフルザ 可テ殴カ<PAGE>活ノ訴 イフア 気ャタヨ",
       "translation_en": ""
     },
     {
@@ -756,7 +756,7 @@
       "target_offset": 16721,
       "length_bytes": 125,
       "raw_hex": "808affef80987a606680907a8090655e80cb152e1480d1fffcfff6051f040b2e80d581fc07144d102e0680d0fff6474d082881342e3914827b03144d1080cffffbfff7ffeb80907a8090655e80cb83b183b202032e354e1880cffffc2c0c4e0180d51f3924293c4b80d680d1fff623141a814381188127354e0627194c",
-      "text_jp": "ズ<CMD_ef>ピヨシツデヨデチコ:なんと！<CLOSE><PAGE>おまえさん、河きとゃたんか？<PAGE>ぽゃくり庵んだと叶うとゃた。<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:勲君いうんじゅね。<CLOSE>わしゅあ、まだやるでぇ’！<PAGE>もとは威挨斡じゅからのぉ",
+      "text_jp": "ズ<CMD_ef>ピヨシツデヨデチコ:なんと!<CLOSE><PAGE>おまえさん,河きとゃたんか?<PAGE>ぽゃくり庵んだと叶うとゃた。<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:勲君いうんじゅね。<CLOSE>わしゅあ,まだやるでぇ'!<PAGE>もとは威挨斡じゅからのぉ",
       "translation_en": ""
     },
     {
@@ -765,7 +765,7 @@
       "target_offset": 16846,
       "length_bytes": 123,
       "raw_hex": "80d1ffef80987a606680907a8090655e80cb0f030680d7fff6152780d50581400b2e1981432d80d50a021216111480d5833a0c13082a2e06194c80d7fffbfff7ffeb80907a8090655e80cb05240d023381db354e80cffffc3c1a80d781248125190581400b2e161a80d5fff60d4d33025780cc808f2d24292c0215",
-      "text_jp": "！<CMD_ef>ピヨシツデヨデチコ:そうか…<PAGE>なら、お囲さんの威を、こいつにちと、挙してくれんかのぉ…<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:おやすいご荻じゅ。<CLOSE>では…鯵梓のお囲さんには、<PAGE>すゃごいウ~ヅをやるわいな",
+      "text_jp": "!<CMD_ef>ピヨシツデヨデチコ:そうか…<PAGE>なら,お囲さんの威を,こいつにちと,挙してくれんかのぉ…<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:おやすいご荻じゅ。<CLOSE>では…鯵梓のお囲さんには,<PAGE>すゃごいウ~ヅをやるわいな",
       "translation_en": ""
     },
     {
@@ -774,7 +774,7 @@
       "target_offset": 16969,
       "length_bytes": 125,
       "raw_hex": "80cfffef80987a606680907a8090655e80cb152e1480d1fffcfff6051f040b2e80d581fc07144d102e0680d0fff6474d082881342e3914827b03144d1080cffffbfff7ffeb80907a8090655e80cb83b183b202032e354e1880cffffc2c0c4e0180d51f3924293c4b80d680d1fff623141a814381188127354e0627194c",
-      "text_jp": "。<CMD_ef>ピヨシツデヨデチコ:なんと！<CLOSE><PAGE>おまえさん、河きとゃたんか？<PAGE>ぽゃくり庵んだと叶うとゃた。<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:勲君いうんじゅね。<CLOSE>わしゅあ、まだやるでぇ’！<PAGE>もとは威挨斡じゅからのぉ",
+      "text_jp": "。<CMD_ef>ピヨシツデヨデチコ:なんと!<CLOSE><PAGE>おまえさん,河きとゃたんか?<PAGE>ぽゃくり庵んだと叶うとゃた。<CMD_fb><CMD_f7><CMD_eb>デヨデチコ:勲君いうんじゅね。<CLOSE>わしゅあ,まだやるでぇ'!<PAGE>もとは威挨斡じゅからのぉ",
       "translation_en": ""
     },
     {
@@ -783,7 +783,7 @@
       "target_offset": 17094,
       "length_bytes": 121,
       "raw_hex": "80d1ffef80987a606680907a8090655e80cb0f030680d7fff6152780d50581400b2e1981432d80d50a021216111480d5833a0c13082a2e06194c80d7fffbfff7ffed80907a8090655e80cb0f284e808b73354e80cffffcfff62c0c4e80d583c40282521683358165150280cffff6830280d58369104d14082a",
-      "text_jp": "！<CMD_ef>ピヨシツデヨデチコ:そうか…<PAGE>なら、お囲さんの威を、こいつにちと、挙してくれんかのぉ…<CMD_fb><CMD_f7><CMD_ed>デヨデチコ:そりゅゼマじゅ。<CLOSE><PAGE>わしゅ、形い廓に去允ない。<PAGE>技、仰たゃとくれ",
+      "text_jp": "!<CMD_ef>ピヨシツデヨデチコ:そうか…<PAGE>なら,お囲さんの威を,こいつにちと,挙してくれんかのぉ…<CMD_fb><CMD_f7><CMD_ed>デヨデチコ:そりゅゼマじゅ。<CLOSE><PAGE>わしゅ,形い廓に去允ない。<PAGE>技,仰たゃとくれ",
       "translation_en": ""
     },
     {
@@ -792,7 +792,7 @@
       "target_offset": 17215,
       "length_bytes": 108,
       "raw_hex": "80cfffefffed80907a8090655e80cb152e354e0280d1fffcfff62c0c195780cc808f2f82d3272e14fff6826703191a80d53d0302030a14354e80d1fffbfff7ffed0c062380d52c0c19828081c52dfff68162837d160c054d1380d51e2e16fff682df16082981248125354e01",
-      "text_jp": "。<CMD_ef><CMD_ed>デヨデチコ:なんじゅい！<CLOSE><PAGE>わしのウ~ヅが願らんと<PAGE>顎うのは、どういうことじゅ！<CMD_fb><CMD_f7><CMD_ed>しかも、わしの兜塩を<PAGE>茨禁にしおゃて、ほんに<PAGE>幾にくる鯵梓じゅあ",
+      "text_jp": "。<CMD_ef><CMD_ed>デヨデチコ:なんじゅい!<CLOSE><PAGE>わしのウ~ヅが願らんと<PAGE>顎うのは,どういうことじゅ!<CMD_fb><CMD_f7><CMD_ed>しかも,わしの兜塩を<PAGE>茨禁にしおゃて,ほんに<PAGE>幾にくる鯵梓じゅあ",
       "translation_en": ""
     },
     {
@@ -801,7 +801,7 @@
       "target_offset": 17323,
       "length_bytes": 102,
       "raw_hex": "80d1ffef80987a606680907a8090655e80cb80d780d780d7fffcfff681162f84c10c103909354e2b031380d7fffcfff60f031680d581c81f4d14292c0280cffffbfff7ffed80907a8090655e80cb3d4d113c23040480d1fff62c0c4e81d2060e132327032c02",
-      "text_jp": "！<CMD_ef>ピヨシツデヨデチコ:………<CLOSE><PAGE>哀が困しただけじゅろうて…<CLOSE><PAGE>そうに、甥まゃとるわい。<CMD_fb><CMD_f7><CMD_ed>デヨデチコ:どゃちでもええ！<PAGE>わしゅ殴かせてもらうわい",
+      "text_jp": "!<CMD_ef>ピヨシツデヨデチコ:………<CLOSE><PAGE>哀が困しただけじゅろうて…<CLOSE><PAGE>そうに,甥まゃとるわい。<CMD_fb><CMD_f7><CMD_ed>デヨデチコ:どゃちでもええ!<PAGE>わしゅ殴かせてもらうわい",
       "translation_en": ""
     },
     {
@@ -810,7 +810,7 @@
       "target_offset": 17425,
       "length_bytes": 61,
       "raw_hex": "80d1ffefffee80907a8090655e80cb80987a6066160c102780d5142801043682cc8327270e1150082a80cffffcfff61e1580d52c0c1a81e029140d2906",
-      "text_jp": "！<CMD_ef><CMD_ee>デヨデチコ:ピヨシツにしたら、とりあえず眼朽らせちっくれ。<CLOSE><PAGE>ほな、わしは桶るとするか",
+      "text_jp": "!<CMD_ef><CMD_ee>デヨデチコ:ピヨシツにしたら,とりあえず眼朽らせちっくれ。<CLOSE><PAGE>ほな,わしは桶るとするか",
       "translation_en": ""
     },
     {
@@ -819,7 +819,7 @@
       "target_offset": 17486,
       "length_bytes": 137,
       "raw_hex": "80cfffef7c5880cb0502050280d505224b828a19824e80d0fffc034d0f80d5849e8340392b80cffffc1580cc2e3c828a19824e82dd1a829014068619140683b1152e3980d0fffbfff7ffed6d809d7f797a80cb8081809a80cc80cc80d1fffcfff683a0841700567b5c70008180787b64748162849afffc6c808f530081aa8081005280a161746a808b",
-      "text_jp": "。<CMD_ef>リエ:おいおい、おめぇ粥の鈎？<CLOSE>うゃそ、降漁だろ。<CLOSE>な~んで粥の鈎岐は冠とか盾とか勲なんだ？<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~！<CLOSE><PAGE>櫛原 イラクフ 臼ヤラタミ茨鉱<CLOSE>ネヅノ 越ヲ ヴャスミニゼ",
+      "text_jp": "。<CMD_ef>リエ:おいおい,おめぇ粥の鈎?<CLOSE>うゃそ,降漁だろ。<CLOSE>な~んで粥の鈎岐は冠とか盾とか勲なんだ?<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~!<CLOSE><PAGE>櫛原 イラクフ 臼ヤラタミ茨鉱<CLOSE>ネヅノ 越ヲ ヴャスミニゼ",
       "translation_en": ""
     },
     {
@@ -828,7 +828,7 @@
       "target_offset": 17623,
       "length_bytes": 128,
       "raw_hex": "80d1ffef7c5880cb1f80d50f1981aa1a81ec0214021380d7fffc0a1981248125165780cc808f242a2480cffff61f3980d582d7871e06012e392b80d0fffbfff7ffed6d809d7f797a80cb83a0824e808e00665a7b8090fff65880a16500707a5780877900808b7c546680d1fffc80d7677f80847f005780cc808f0082fd5e808a",
-      "text_jp": "！<CMD_ef>リエ:ま、その越は何いといて…<CLOSE>この鯵梓にウ~ヅやれや。<PAGE>まだ、喜斥かあんだろ？<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:櫛鈎ヂ ツカラデ<PAGE>エャチ フヨウゴユ ゼリオツ！<CLOSE>…テロギロ ウ~ヅ 偽コズ",
+      "text_jp": "!<CMD_ef>リエ:ま,その越は何いといて…<CLOSE>この鯵梓にウ~ヅやれや。<PAGE>まだ,喜斥かあんだろ?<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:櫛鈎ヂ ツカラデ<PAGE>エャチ フヨウゴユ ゼリオツ!<CLOSE>…テロギロ ウ~ヅ 偽コズ",
       "translation_en": ""
     },
     {
@@ -837,7 +837,7 @@
       "target_offset": 17751,
       "length_bytes": 135,
       "raw_hex": "80d1ffef7c5880cb0502050280d505224b828a19824e80d0fffc034d0f80d5849e8340392b80cffffc1580cc2e3c828a19824e82dd1a829014068619140683b1152e3980d0fffbfff7ffed6d809d7f797a80cb8081809a80cc80cc80d1fffcfff683a0841700567b5c70008180787b64748162849afffc6c808f530081aa8081005280a161746a",
-      "text_jp": "！<CMD_ef>リエ:おいおい、おめぇ粥の鈎？<CLOSE>うゃそ、降漁だろ。<CLOSE>な~んで粥の鈎岐は冠とか盾とか勲なんだ？<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~！<CLOSE><PAGE>櫛原 イラクフ 臼ヤラタミ茨鉱<CLOSE>ネヅノ 越ヲ ヴャスミニ",
+      "text_jp": "!<CMD_ef>リエ:おいおい,おめぇ粥の鈎?<CLOSE>うゃそ,降漁だろ。<CLOSE>な~んで粥の鈎岐は冠とか盾とか勲なんだ?<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~!<CLOSE><PAGE>櫛原 イラクフ 臼ヤラタミ茨鉱<CLOSE>ネヅノ 越ヲ ヴャスミニ",
       "translation_en": ""
     },
     {
@@ -846,7 +846,7 @@
       "target_offset": 17886,
       "length_bytes": 95,
       "raw_hex": "808bffef7c5880cb1f80d50f1981aa1a81ec0214021380d7fffc0a1981248125165780cc808f242a2480cffff61f3980d582d7871e06012e392b80d0fffbfff7ffed6d809d7f797a80cb8081809a80cc80cc80d1fffcfff6567b5c70005375",
-      "text_jp": "ゼ<CMD_ef>リエ:ま、その越は何いといて…<CLOSE>この鯵梓にウ~ヅやれや。<PAGE>まだ、喜斥かあんだろ？<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~！<CLOSE><PAGE>イラクフ ノム",
+      "text_jp": "ゼ<CMD_ef>リエ:ま,その越は何いといて…<CLOSE>この鯵梓にウ~ヅやれや。<PAGE>まだ,喜斥かあんだろ?<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~!<CLOSE><PAGE>イラクフ ノム",
       "translation_en": ""
     },
     {
@@ -855,7 +855,7 @@
       "target_offset": 17981,
       "length_bytes": 114,
       "raw_hex": "80d1ffef7c5880cb050280d581248125526f0680d0fffcfff6818281f7198128811b02271804100180d5fff685f9816586ed80d503102f4d114e031880cffffbfff7ffee6d809d7f797a80cb685480d780d780d7fffcfff680d7638082008249546558fff6567b5c700056705500707a5780",
-      "text_jp": "！<CMD_ef>リエ:おい、鯵梓ヴヒか？<CLOSE><PAGE>嘘科の扱葵いらねえたあ、<PAGE>渋允椙、うたがゃちゅうね。<CMD_fb><CMD_f7><CMD_ee>ノィロユヨ:トオ………<CLOSE><PAGE>…ソン 馨オチエ<PAGE>イラクフ イフア フヨウ",
+      "text_jp": "!<CMD_ef>リエ:おい,鯵梓ヴヒか?<CLOSE><PAGE>嘘科の扱葵いらねえたあ,<PAGE>渋允椙,うたがゃちゅうね。<CMD_fb><CMD_f7><CMD_ee>ノィロユヨ:トオ………<CLOSE><PAGE>…ソン 馨オチエ<PAGE>イラクフ イフア フヨウ",
       "translation_en": ""
     },
     {
@@ -873,7 +873,7 @@
       "target_offset": 18097,
       "length_bytes": 97,
       "raw_hex": "efffef7c5880cb0380cc2180d5260c260c80cffff65780cc808f2f012a3e80d5230381db84cc2080d7fffcfff605220480d5144d141481e02a80cffffbfff7ffed6d809d7f797a80cb5675808780d7fffcfff653635700707a5780877980d780d7",
-      "text_jp": "▲<CMD_ef>リエ:う~む、よしよし。<PAGE>ウ~ヅがあれば、もう荻痕み…<CLOSE><PAGE>おめえ、とゃとと桶れ。<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:イムゴ…<CLOSE><PAGE>ノソウ フヨウゴユ……",
+      "text_jp": "▲<CMD_ef>リエ:う~む,よしよし。<PAGE>ウ~ヅがあれば,もう荻痕み…<CLOSE><PAGE>おめえ,とゃとと桶れ。<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:イムゴ…<CLOSE><PAGE>ノソウ フヨウゴユ……",
       "translation_en": ""
     },
     {
@@ -882,7 +882,7 @@
       "target_offset": 18195,
       "length_bytes": 128,
       "raw_hex": "80d7ffef80987a60665c5880a380905e80cb012780d5fff683ca85c7180480d7fffc3d03818282d91a80d0fffcfff60c4d0628811c821881e94d13292c0980d0fffbfff7ffec5c5880a380905e80cb11504d14184b80d7fffcfff682d686384d132984184d1380d5811c811484473c80d5fff60c062359795e6280a27f151926",
-      "text_jp": "…<CMD_ef>ピヨシツクエョデコ:あら、<PAGE>掲珠ねえ…<CLOSE>どう嘘基は？<CLOSE><PAGE>しゃかり茜蛾下ゃてるわけ？<CMD_fb><CMD_f7><CMD_ec>クエョデコ:ちっゃとねぇ…<CLOSE><PAGE>危升ゃてる厳ゃて、茜娃御で、<PAGE>しかもオユコセュロなのよ",
+      "text_jp": "…<CMD_ef>ピヨシツクエョデコ:あら,<PAGE>掲珠ねえ…<CLOSE>どう嘘基は?<CLOSE><PAGE>しゃかり茜蛾下ゃてるわけ?<CMD_fb><CMD_f7><CMD_ec>クエョデコ:ちっゃとねぇ…<CLOSE><PAGE>危升ゃてる厳ゃて,茜娃御で,<PAGE>しかもオユコセュロなのよ",
       "translation_en": ""
     },
     {
@@ -891,7 +891,7 @@
       "target_offset": 18323,
       "length_bytes": 133,
       "raw_hex": "80cfffef80987a60665c5880a380905e80cb0380cc2e80d5fff68157832f2f813d022c1880cffffc0f2a2422130b80d50a198321815f1682662881cf04150b022680cffffbfff7ffee5c5880a380905e80cb0f030c264d061580d7fffcfff60582d93b071985484d130a143c836184ac80d7fffcfff6354e1508135780cc808f2d0132292c",
-      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:う~ん、<PAGE>井笈が位いわね。<CLOSE>それやめてさ、この及溢に額り旺えなさいよ。<CMD_fb><CMD_f7><CMD_ee>クエョデコ:そうしよゃかな…<CLOSE><PAGE>お基づきの四ゃてことで脅麹…<CLOSE><PAGE>じゅなくてウ~ヅをあげるわ",
+      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:う~ん,<PAGE>井笈が位いわね。<CLOSE>それやめてさ,この及溢に額り旺えなさいよ。<CMD_fb><CMD_f7><CMD_ee>クエョデコ:そうしよゃかな…<CLOSE><PAGE>お基づきの四ゃてことで脅麹…<CLOSE><PAGE>じゅなくてウ~ヅをあげるわ",
       "translation_en": ""
     },
     {
@@ -900,7 +900,7 @@
       "target_offset": 18456,
       "length_bytes": 126,
       "raw_hex": "80cfffef80987a60665c5880a380905e80cb012780d5fff683ca85c7180480d7fffc3d03818282d91a80d0fff60c4d0628811c821881e94d13292c0980d0fffbfff7ffed5c5880a380905e80cb11504d14184b80d7fffcfff682d686384d132984184d1380d5811c811484473c80d5fff60c062359795e6280a27f151926",
-      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:あら、<PAGE>掲珠ねえ…<CLOSE>どう嘘基は？<PAGE>しゃかり茜蛾下ゃてるわけ？<CMD_fb><CMD_f7><CMD_ed>クエョデコ:ちっゃとねぇ…<CLOSE><PAGE>危升ゃてる厳ゃて、茜娃御で、<PAGE>しかもオユコセュロなのよ",
+      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:あら,<PAGE>掲珠ねえ…<CLOSE>どう嘘基は?<PAGE>しゃかり茜蛾下ゃてるわけ?<CMD_fb><CMD_f7><CMD_ed>クエョデコ:ちっゃとねぇ…<CLOSE><PAGE>危升ゃてる厳ゃて,茜娃御で,<PAGE>しかもオユコセュロなのよ",
       "translation_en": ""
     },
     {
@@ -909,7 +909,7 @@
       "target_offset": 18582,
       "length_bytes": 134,
       "raw_hex": "80cfffef80987a60665c5880a380905e80cb0380cc2e80d5fff68157832f2f813d022c1880cffffc0f2a2422130b80d50a198321815f1682662881cf04150b022680cffffbfff7ffed5c5880a380905e80cb82662982180c1502154880d7fffc244d4380d552615d4d13058455865d80d5fff6808f5363814881e4811f1a80d582150415022c",
-      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:う~ん、<PAGE>井笈が位いわね。<CLOSE>それやめてさ、この及溢に額り旺えなさいよ。<CMD_fb><CMD_f7><CMD_ed>クエョデコ:額る蛾しないなぁ…<CLOSE>やゃぱ、ヴスケゃてお侯照、<PAGE>ヅノソ易卸握は、画えないわ",
+      "text_jp": "。<CMD_ef>ピヨシツクエョデコ:う~ん,<PAGE>井笈が位いわね。<CLOSE>それやめてさ,この及溢に額り旺えなさいよ。<CMD_fb><CMD_f7><CMD_ed>クエョデコ:額る蛾しないなぁ…<CLOSE>やゃぱ,ヴスケゃてお侯照,<PAGE>ヅノソ易卸握は,画えないわ",
       "translation_en": ""
     },
     {
@@ -918,7 +918,7 @@
       "target_offset": 18716,
       "length_bytes": 66,
       "raw_hex": "80d1ffefffec5c5880a380905e80cb83dc81ba80d50f0326184b80d7fffc80987a60661952615d2f022a3e80d5fff682d08237261880d7fffc841819140a1681ef2b",
-      "text_jp": "！<CMD_ef><CMD_ec>クエョデコ:警焔、そうよねぇ…<CLOSE>ピヨシツのヴスケがいれば、<PAGE>雁階よね…<CLOSE>厳のとこに佳ろ",
+      "text_jp": "!<CMD_ef><CMD_ec>クエョデコ:警焔,そうよねぇ…<CLOSE>ピヨシツのヴスケがいれば,<PAGE>雁階よね…<CLOSE>厳のとこに佳ろ",
       "translation_en": ""
     },
     {
@@ -936,7 +936,7 @@
       "target_offset": 18784,
       "length_bytes": 52,
       "raw_hex": "efffefffeb5c5880a380905e80cb0f2a354e80d5fff652615d1a828283ac1f2c2906278705fffcfff681501a80d5262b0c08184b",
-      "text_jp": "▲<CMD_ef><CMD_eb>クエョデコ:それじゅ、<PAGE>ヴスケは蒲粂まわるから栖<CLOSE><PAGE>胃は、よろしくねぇ",
+      "text_jp": "▲<CMD_ef><CMD_eb>クエョデコ:それじゅ,<PAGE>ヴスケは蒲粂まわるから栖<CLOSE><PAGE>胃は,よろしくねぇ",
       "translation_en": ""
     },
     {
@@ -945,7 +945,7 @@
       "target_offset": 18837,
       "length_bytes": 121,
       "raw_hex": "80cfffef80987a606679797280cb1a80cc0280d1fff60f0a19797972114e2e81f082184980d0fffcfff60c4d0628811c821881e94d13290380d0fffbfff7ffeb79797280cb81e94d132981e94d13294a80d1fffcfff63c80d580987a60661952615d1a3d0380d0fff60f198124141981fc81811a766780cc59",
-      "text_jp": "。<CMD_ef>ピヨシツユユホ:は~い！<PAGE>そこのユユホちゅん加蛾ぃ？<CLOSE><PAGE>しゃかり茜蛾下ゃてるう？<CMD_fb><CMD_f7><CMD_eb>ユユホ:下ゃてる下ゃてるぅ！<CLOSE><PAGE>で、ピヨシツのヴスケはどう？<PAGE>その鯵との河渦はメテ~オ",
+      "text_jp": "。<CMD_ef>ピヨシツユユホ:は~い!<PAGE>そこのユユホちゅん加蛾ぃ?<CLOSE><PAGE>しゃかり茜蛾下ゃてるう?<CMD_fb><CMD_f7><CMD_eb>ユユホ:下ゃてる下ゃてるぅ!<CLOSE><PAGE>で,ピヨシツのヴスケはどう?<PAGE>その鯵との河渦はメテ~オ",
       "translation_en": ""
     },
     {
@@ -954,7 +954,7 @@
       "target_offset": 18958,
       "length_bytes": 121,
       "raw_hex": "80d0ffef80987a606679797280cb3d0306154880d7fffcfff61f0180d583d4820b1a0c131502093d80d5fff6152e06818b4d133e4d0628152e3980cffffbfff7ffee79797280cb1d0480d50f03151980d0fffcfff63c2380d5833581650129154880d7fffc184b80d5fff652615d195780cc808f23274d1326",
-      "text_jp": "？<CMD_ef>ピヨシツユユホ:どうかなぁ…<CLOSE><PAGE>まあ、継嘩はしてないけど、<PAGE>なんか閏ゃてばゃかりなんだ。<CMD_fb><CMD_f7><CMD_ee>ユユホ:へえ、そうなの？<CLOSE><PAGE>でも、去允あるなぁ…<CLOSE>ねぇ、<PAGE>ヴスケのウ~ヅもらゃてよ",
+      "text_jp": "?<CMD_ef>ピヨシツユユホ:どうかなぁ…<CLOSE><PAGE>まあ,継嘩はしてないけど,<PAGE>なんか閏ゃてばゃかりなんだ。<CMD_fb><CMD_f7><CMD_ee>ユユホ:へえ,そうなの?<CLOSE><PAGE>でも,去允あるなぁ…<CLOSE>ねぇ,<PAGE>ヴスケのウ~ヅもらゃてよ",
       "translation_en": ""
     },
     {
@@ -963,7 +963,7 @@
       "target_offset": 19079,
       "length_bytes": 121,
       "raw_hex": "80d1ffef80987a606679797280cb1a80cc0280d1fff60f0a19797972114e2e81f082184980d0fffcfff60c4d0628811c821881e94d13290380d0fffbfff7ffeb79797280cb81e94d132981e94d13294a80d1fffcfff63c80d580987a60661952615d1a3d0380d0fff60f198124141981fc81811a766780cc59",
-      "text_jp": "！<CMD_ef>ピヨシツユユホ:は~い！<PAGE>そこのユユホちゅん加蛾ぃ？<CLOSE><PAGE>しゃかり茜蛾下ゃてるう？<CMD_fb><CMD_f7><CMD_eb>ユユホ:下ゃてる下ゃてるぅ！<CLOSE><PAGE>で、ピヨシツのヴスケはどう？<PAGE>その鯵との河渦はメテ~オ",
+      "text_jp": "!<CMD_ef>ピヨシツユユホ:は~い!<PAGE>そこのユユホちゅん加蛾ぃ?<CLOSE><PAGE>しゃかり茜蛾下ゃてるう?<CMD_fb><CMD_f7><CMD_eb>ユユホ:下ゃてる下ゃてるぅ!<CLOSE><PAGE>で,ピヨシツのヴスケはどう?<PAGE>その鯵との河渦はメテ~オ",
       "translation_en": ""
     },
     {
@@ -972,7 +972,7 @@
       "target_offset": 19200,
       "length_bytes": 117,
       "raw_hex": "80d0ffef80987a606679797280cb3d0306154880d7fffcfff61f0180d583d4820b1a0c131502093d80d5fff6152e06818b4d133e4d0628152e3980cffffbfff7ffee79797280cb1d0480d50f03151980d7fffcfff6354e0180d552615d1a234d1480d5fff681f70f0315812481252d83280f034d14",
-      "text_jp": "？<CMD_ef>ピヨシツユユホ:どうかなぁ…<CLOSE><PAGE>まあ、継嘩はしてないけど、<PAGE>なんか閏ゃてばゃかりなんだ。<CMD_fb><CMD_f7><CMD_ee>ユユホ:へえ、そうなの…<CLOSE><PAGE>じゅあ、ヴスケはもゃと、<PAGE>科そうな鯵梓を求そうゃと",
+      "text_jp": "?<CMD_ef>ピヨシツユユホ:どうかなぁ…<CLOSE><PAGE>まあ,継嘩はしてないけど,<PAGE>なんか閏ゃてばゃかりなんだ。<CMD_fb><CMD_f7><CMD_ee>ユユホ:へえ,そうなの…<CLOSE><PAGE>じゅあ,ヴスケはもゃと,<PAGE>科そうな鯵梓を求そうゃと",
       "translation_en": ""
     },
     {
@@ -981,7 +981,7 @@
       "target_offset": 19317,
       "length_bytes": 53,
       "raw_hex": "80d1ffefffed79797280cb014d0f0380d1fffcfff68282160202232e80d10081248125152e13fff6080b291e3d80d502292e390c49",
-      "text_jp": "！<CMD_ef><CMD_ed>ユユホ:あゃそう！<CLOSE><PAGE>蒲にいいもん！ 鯵梓なんて<PAGE>くさるほど、いるんだしぃ",
+      "text_jp": "!<CMD_ef><CMD_ed>ユユホ:あゃそう!<CLOSE><PAGE>蒲にいいもん! 鯵梓なんて<PAGE>くさるほど,いるんだしぃ",
       "translation_en": ""
     },
     {
@@ -990,7 +990,7 @@
       "target_offset": 19370,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -999,7 +999,7 @@
       "target_offset": 19372,
       "length_bytes": 59,
       "raw_hex": "efffefffeb79797280cb031c4d8705fffc000f2a354e80d5fff652615d1a828283ac1f2c29062780d5fff680987a60661983ac1a80d5262b0c084a",
-      "text_jp": "▲<CMD_ef><CMD_eb>ユユホ:うふゃ栖<CLOSE> それじゅ、<PAGE>ヴスケは蒲粂まわるから、<PAGE>ピヨシツの粂は、よろしくぅ",
+      "text_jp": "▲<CMD_ef><CMD_eb>ユユホ:うふゃ栖<CLOSE> それじゅ,<PAGE>ヴスケは蒲粂まわるから,<PAGE>ピヨシツの粂は,よろしくぅ",
       "translation_en": ""
     },
     {
@@ -1008,7 +1008,7 @@
       "target_offset": 19432,
       "length_bytes": 128,
       "raw_hex": "80d1ffef80817a80cc808b80cb82cd2f81392d840f83090c80d5fff682d11683422019817c2d82e92c0e1081b783ac80d5fff682e02a10141a80d582672c0e173880d1fffbfff7ffeb6680cc808180cb84b62a10830a83942f80d5fff6828c828d19813d2d846527030a140a0f80d5fff6834a8186834b86121402032319354e",
-      "text_jp": "！<CMD_ef>ヲヨ~ゼ:岩が鞍を軒蟻し、<PAGE>頑に魚みの鵜を帰わせた沿粂、<PAGE>忌れたとは、顎わせぬぞ！<CMD_fb><CMD_f7><CMD_eb>ツ~ヲ:漉れた誼駈が、<PAGE>苅瓦の位を孔らうことこそ、<PAGE>競鰻共循というものじゅ",
+      "text_jp": "!<CMD_ef>ヲヨ~ゼ:岩が鞍を軒蟻し,<PAGE>頑に魚みの鵜を帰わせた沿粂,<PAGE>忌れたとは,顎わせぬぞ!<CMD_fb><CMD_f7><CMD_eb>ツ~ヲ:漉れた誼駈が,<PAGE>苅瓦の位を孔らうことこそ,<PAGE>競鰻共循というものじゅ",
       "translation_en": ""
     },
     {
@@ -1017,7 +1017,7 @@
       "target_offset": 19560,
       "length_bytes": 124,
       "raw_hex": "80d1ffef80817a80cc808b80cb82672c0e1305093e80d7fffcfff682cd2f81431681ff272a0c812481252680d1fffcfff6811e813d1582902d8482420c101f0480d1fffbfff7ffed6680cc808180cb1c1c2e80d1fffcfff681142d859c0c13813881eb2d836810811a2f80d5fff61f3980d5072a0281f92d82670306",
-      "text_jp": "！<CMD_ef>ヲヨ~ゼ:顎わせておけば…<CLOSE><PAGE>岩が威に禍られし鯵梓よ！<CLOSE><PAGE>悪位な冠を甲ぼしたまえ！<CMD_fb><CMD_f7><CMD_ed>ツ~ヲ:ふふん！<CLOSE><PAGE>娃を蔀して闇仮を驚た逢が、<PAGE>まだ、きれい果を顎うか",
+      "text_jp": "!<CMD_ef>ヲヨ~ゼ:顎わせておけば…<CLOSE><PAGE>岩が威に禍られし鯵梓よ!<CLOSE><PAGE>悪位な冠を甲ぼしたまえ!<CMD_fb><CMD_f7><CMD_ed>ツ~ヲ:ふふん!<CLOSE><PAGE>娃を蔀して闇仮を驚た逢が,<PAGE>まだ,きれい果を顎うか",
       "translation_en": ""
     },
     {
@@ -1026,7 +1026,7 @@
       "target_offset": 19684,
       "length_bytes": 137,
       "raw_hex": "80d1ffef52808180cc657880cc7280cb84e985651982902280d7fffcfff682d60a0f80d50612131983e5282d83270d819280d1fffc846d19832d3c80d583a42e3c082a2980d1fffbfff7ffed597c5480ce597a80cc7d80a16b80cb1c2e80d1fffcfff61f1082d1168244200a1f2a1002190680d0fff65a7a6519811481131a8503811086c086723915",
-      "text_jp": "！<CMD_ef>ヴヲ~チヤ~ホ:彩至の冠め…<CLOSE><PAGE>危こそ、かつての撃りを朽す叡！<CLOSE>庚の究で、掘んでくれる！<CMD_fb><CMD_f7><CMD_ed>オリオ・オヨ~ルャヌ:ふん！<CLOSE><PAGE>また頑に街みこまれたいのか？<PAGE>カヨチの娃唖は堺々人象だな",
+      "text_jp": "!<CMD_ef>ヴヲ~チヤ~ホ:彩至の冠め…<CLOSE><PAGE>危こそ,かつての撃りを朽す叡!<CLOSE>庚の究で,掘んでくれる!<CMD_fb><CMD_f7><CMD_ed>オリオ・オヨ~ルャヌ:ふん!<CLOSE><PAGE>また頑に街みこまれたいのか?<PAGE>カヨチの娃唖は堺z人象だな",
       "translation_en": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "target_offset": 19821,
       "length_bytes": 146,
       "raw_hex": "80d1ffefffeb141a020480d5830a83941982c21983841afff68224816316813d081382fe2919392680d1fff62f1a1a1a1a1a1a80d180d1fffbfff752808180cc657880cc7280cb80d782cd2f837b2680d1fffcfff681342d2310270d81841680d581342d80d1fffcfff62c2a19864a202d8514270c101f0480d1fffbfff7597c5480ce597a80cc7d80a16b80cb8162837d39",
-      "text_jp": "！<CMD_ef><CMD_eb>とはいえ、誼駈の陥の襟は<PAGE>快芋に位くて儀るのだよ！<PAGE>がはははははは！！<CMD_fb><CMD_f7>ヴヲ~チヤ~ホ:…岩が欽よ！<CLOSE><PAGE>庵をもたらす欝に、庵を！<CLOSE><PAGE>われの承みを索らしたまえ！<CMD_fb><CMD_f7>オリオ・オヨ~ルャヌ:茨禁だ",
+      "text_jp": "!<CMD_ef><CMD_eb>とはいえ,誼駈の陥の襟は<PAGE>快芋に位くて儀るのだよ!<PAGE>がはははははは!!<CMD_fb><CMD_f7>ヴヲ~チヤ~ホ:…岩が欽よ!<CLOSE><PAGE>庵をもたらす欝に,庵を!<CLOSE><PAGE>われの承みを索らしたまえ!<CMD_fb><CMD_f7>オリオ・オヨ~ルャヌ:茨禁だ",
       "translation_en": ""
     },
     {
@@ -1044,7 +1044,7 @@
       "target_offset": 19967,
       "length_bytes": 130,
       "raw_hex": "80d1ffef707a808f809c80cc5980cb83bd2a2982902f80d5fff61f3980d50a19828c1681f581c60d29141a80d7fffcfff682d11982c61181691a82c583af0d4107391580d7fffbfff7ffed725d80a36d5d80a380cb8081809a80cc80cc80d1fffcfff6567b5c7000812681146a00576158546380d15c5d62808153005680cc5a80cc",
-      "text_jp": "！<CMD_ef>フヨヅァ~オ:刑れる冠が、<PAGE>まだ、この苅に家於するとは…<CLOSE><PAGE>頑の丸ち因は舘桑すべきだな…<CMD_fb><CMD_f7><CMD_ed>ホケョノケョ:ヲペ~~！<CLOSE><PAGE>イラクフ 圧娃ニ ウスエオソ！クケセヲノ イ~カ~",
+      "text_jp": "!<CMD_ef>フヨヅァ~オ:刑れる冠が,<PAGE>まだ,この苅に家於するとは…<CLOSE><PAGE>頑の丸ち因は舘桑すべきだな…<CMD_fb><CMD_f7><CMD_ed>ホケョノケョ:ヲペ~~!<CLOSE><PAGE>イラクフ 圧娃ニ ウスエオソ!クケセヲノ イ~カ~",
       "translation_en": ""
     },
     {
@@ -1053,7 +1053,7 @@
       "target_offset": 20097,
       "length_bytes": 131,
       "raw_hex": "80d1ffef707a808f809c80cc5980cb83b183b22f80d7fffcfff682cd2f8590280c812481252680d1fffc0082522d81c20cfff6875a83da2d82ae81ee0d29193980d1fffbfff7ffed725d80a36d5d80a380cb8081809a80cc80cc80d1fffcfff670530064809b527080a165839480d1fffcfff6567b5c7067007480a1650081437e80d1",
-      "text_jp": "！<CMD_ef>フヨヅァ~オ:勲君が…<CLOSE><PAGE>岩が七りし鯵梓よ！<CLOSE> 廓を遠し<PAGE>遷計を甘価するのだ！<CMD_fb><CMD_f7><CMD_ed>ホケョノケョ:ヲペ~~！<CLOSE><PAGE>フノ タポヴフャチ駈！<CLOSE><PAGE>イラクフテ ミャチ 威レ！",
+      "text_jp": "!<CMD_ef>フヨヅァ~オ:勲君が…<CLOSE><PAGE>岩が七りし鯵梓よ!<CLOSE> 廓を遠し<PAGE>遷計を甘価するのだ!<CMD_fb><CMD_f7><CMD_ed>ホケョノケョ:ヲペ~~!<CLOSE><PAGE>フノ タポヴフャチ駈!<CLOSE><PAGE>イラクフテ ミャチ 威レ!",
       "translation_en": ""
     },
     {
@@ -1062,7 +1062,7 @@
       "target_offset": 20228,
       "length_bytes": 132,
       "raw_hex": "80d1ffef64809b80cc7a80cb7c58198116814415824e2680d1fffcfff6830a839416860a201130272a1080d58442832f19fff686b8022d82d680d583310913232705030680d1fffbfff7ffed6d809d7f797a80cb8081809a80cc80cc80d1fffcfff6567b5c7000808b705d6100725953808bfffcfff6567055008285785d59006653808a",
-      "text_jp": "！<CMD_ef>タポ~ヨ:リエの哀尉な鈎よ！<CLOSE><PAGE>誼駈に俊みちぎられた、午笈の<PAGE>薪いを危、糾けてもらおうか！<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~！<CLOSE><PAGE>イラクフ ゼフケス ホオノゼ<CLOSE><PAGE>イフア 噛ヤケオ ツノズ",
+      "text_jp": "!<CMD_ef>タポ~ヨ:リエの哀尉な鈎よ!<CLOSE><PAGE>誼駈に俊みちぎられた,午笈の<PAGE>薪いを危,糾けてもらおうか!<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~!<CLOSE><PAGE>イラクフ ゼフケス ホオノゼ<CLOSE><PAGE>イフア 噛ヤケオ ツノズ",
       "translation_en": ""
     },
     {
@@ -1071,7 +1071,7 @@
       "target_offset": 20360,
       "length_bytes": 124,
       "raw_hex": "80d1ffef64809b80cc7a80cb80d7788083667b592dfff681e609291022162380d58608072d83e92980d5fff60a1982d12f830a83942d81c20d80d180d1fffbfff7ffed6d809d7f797a80cb8081809a80cc80cc80d1fffcfff6811681336a006c74007480a1646653fff6830a839466808f00853b7a7a670061788088",
-      "text_jp": "！<CMD_ef>タポ~ヨ:…ヤガツラオを<PAGE>温けるためにも、術きを傑る、<PAGE>この頑が誼駈を遠す！！<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~！<CLOSE><PAGE>哀安ニ ネミ ミャタツノ<PAGE>誼駈ツヅ 酸ヨヨテ スヤザ",
+      "text_jp": "!<CMD_ef>タポ~ヨ:…ヤガツラオを<PAGE>温けるためにも,術きを傑る,<PAGE>この頑が誼駈を遠す!!<CMD_fb><CMD_f7><CMD_ed>ノィロユヨ:ヲペ~~!<CLOSE><PAGE>哀安ニ ネミ ミャタツノ<PAGE>誼駈ツヅ 酸ヨヨテ スヤザ",
       "translation_en": ""
     },
     {
@@ -1080,7 +1080,7 @@
       "target_offset": 20484,
       "length_bytes": 125,
       "raw_hex": "80d1ffef6d6e808e809b80cc80ce737a80847f80cb1c27112d82010880d5813d0c078128811b19830a83942f80d5fff6021f3980d50a19828c160229141a1580d1fffbfff73d0324275280905319812e39093c1a80d5fff685fe846519830a83941a82ee2817270c0280d7fffcfff682cd198606829c2d082a1324292c",
-      "text_jp": "！<CMD_ef>ノハヂポ~・マヨギロ:ふらちを稼く、位しき扱葵の誼駈が、<PAGE>いまだ、この苅にいるとはな！<CMD_fb><CMD_f7>どうやらヴデノの綾だけでは、<PAGE>叔孔の誼駈は祈りぬらしい…<CLOSE><PAGE>岩の熟干をくれてやるわ",
+      "text_jp": "!<CMD_ef>ノハヂポ~・マヨギロ:ふらちを稼く,位しき扱葵の誼駈が,<PAGE>いまだ,この苅にいるとはな!<CMD_fb><CMD_f7>どうやらヴデノの綾だけでは,<PAGE>叔孔の誼駈は祈りぬらしい…<CLOSE><PAGE>岩の熟干をくれてやるわ",
       "translation_en": ""
     },
     {
@@ -1089,7 +1089,7 @@
       "target_offset": 20609,
       "length_bytes": 120,
       "raw_hex": "80d1ffefffed707f8081808f80cb8081809a80cc80cc80d180d1fff6605453558090005670556a00824e82dd676b80885380927f00828c81aa676680a1616680d1fffbfff7808f54757800606a83e5797efff681e05e8192808100820d61785d5380d1fffcfff6830a83946a00812e7e00747854808a80d1",
-      "text_jp": "！<CMD_ef><CMD_ed>フロヲヅ:ヲペ~~！！<PAGE>シオノアデ イフアニ 鈎岐テヌザノバロ 苅越テツャスツ！<CMD_fb><CMD_f7>ヅオムヤ シニ撃ユレ<PAGE>桶コ叡ヲ 迦スヤケノ！<CLOSE><PAGE>誼駈ニ 綾レ ミヤオズ！",
+      "text_jp": "!<CMD_ef><CMD_ed>フロヲヅ:ヲペ~~!!<PAGE>シオノアデ イフアニ 鈎岐テヌザノバロ 苅越テツャスツ!<CMD_fb><CMD_f7>ヅオムヤ シニ撃ユレ<PAGE>桶コ叡ヲ 迦スヤケノ!<CLOSE><PAGE>誼駈ニ 綾レ ミヤオズ!",
       "translation_en": ""
     },
     {
@@ -1098,7 +1098,7 @@
       "target_offset": 20729,
       "length_bytes": 129,
       "raw_hex": "80d1ffef8095785e52646680cb86df07597481262f80d5fff6819381a7160229191a81f482e682e73c012980cffffcfff6834c81101680d582d119849a828d06278224042680d1fffbfff7ffec527a5a6780cc80cb11504d144c80d7fffcfff6527f612f82d12d5974160c10191680d5fff60f2e1582670281661a15023c0c5003",
-      "text_jp": "！<CMD_ef>ベヤコヴタツ:酔きオミ圧が、<PAGE>営駅にいるのは嫁棋棄である。<CLOSE><PAGE>凶々に、頑の鉱瓦から快えよ！<CMD_fb><CMD_f7><CMD_ec>ヴヨカテ~:ちっゃとぉ…<CLOSE><PAGE>ヴロスが頑をオミにしたのに、<PAGE>そんな顎い印はないでしっう",
+      "text_jp": "!<CMD_ef>ベヤコヴタツ:酔きオミ圧が,<PAGE>営駅にいるのは嫁棋棄である。<CLOSE><PAGE>凶zに,頑の鉱瓦から快えよ!<CMD_fb><CMD_f7><CMD_ec>ヴヨカテ~:ちっゃとぉ…<CLOSE><PAGE>ヴロスが頑をオミにしたのに,<PAGE>そんな顎い印はないでしっう",
       "translation_en": ""
     },
     {
@@ -1107,7 +1107,7 @@
       "target_offset": 20858,
       "length_bytes": 133,
       "raw_hex": "80d0ffef8095785e52646680cb82d80882da81fb101780cffffcfff6845a1a82d11910221680d58182825c1985642dfff681bb1681980c837a0913052a3e260280d1fffbfff7ffed527a5a6780cc80cb82d11981662f823e818780d5fff682d4832f0206274d1380d55380877d7a1880d1fffcfff68126811419080e1680d77257635980d1",
-      "text_jp": "？<CMD_ef>ベヤコヴタツ:器く奇歌たぬ。<CLOSE><PAGE>功は頑のために、嘘角の脂を<PAGE>煙に栄し欣けておればよい！<CMD_fb><CMD_f7><CMD_ed>ヴヨカテ~:頑の印が崖姥、<PAGE>企笈いからゃて、ノゴルヨね！<CLOSE><PAGE>圧娃のくせに…ホウソオ！",
+      "text_jp": "?<CMD_ef>ベヤコヴタツ:器く奇歌たぬ。<CLOSE><PAGE>功は頑のために,嘘角の脂を<PAGE>煙に栄し欣けておればよい!<CMD_fb><CMD_f7><CMD_ed>ヴヨカテ~:頑の印が崖姥,<PAGE>企笈いからゃて,ノゴルヨね!<CLOSE><PAGE>圧娃のくせに…ホウソオ!",
       "translation_en": ""
     },
     {
@@ -1116,7 +1116,7 @@
       "target_offset": 20991,
       "length_bytes": 125,
       "raw_hex": "80d1ffef7157557a80cb85a5811881275a7a80972680d7fffcfff6830a830b271683ff0e13052980d5fff655808e7f19829b1a826986983c012b031580d0fffbfff75a7a809780cb81fc815e1984501d81722984121a80d5fff682cd2781b781132f81fe4d1305281f0d250480d58136272a290a1480d50128041f0e17",
-      "text_jp": "！<CMD_ef>ヘウアヨ:写挨斡カヨパよ…<CLOSE><PAGE>誼議らに懸せておる、<PAGE>アヂロの寛は笠織であろうな？<CMD_fb><CMD_f7>カヨパ:河壱の醐へ隠る険は、<PAGE>岩ら沿唖が珂ゃておりますゆえ、暗られること、ありえませぬ",
+      "text_jp": "!<CMD_ef>ヘウアヨ:写挨斡カヨパよ…<CLOSE><PAGE>誼議らに懸せておる,<PAGE>アヂロの寛は笠織であろうな?<CMD_fb><CMD_f7>カヨパ:河壱の醐へ隠る険は,<PAGE>岩ら沿唖が珂ゃておりますゆえ,暗られること,ありえませぬ",
       "translation_en": ""
     },
     {
@@ -1125,7 +1125,7 @@
       "target_offset": 21116,
       "length_bytes": 125,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffeb5a7a809780cb7157557a8394198480202d80d5fff63d030c1382d12f82ff2a1f0c500380d1fffcfff60b015780cc808f2d833109830728150b02",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>カヨパ:ヘウアヨ駈の港みを、<PAGE>どうして頑が妓れましっう！<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>カヨパ:ヘウアヨ駈の港みを,<PAGE>どうして頑が妓れましっう!<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1134,7 +1134,7 @@
       "target_offset": 21241,
       "length_bytes": 125,
       "raw_hex": "80cfffef7157557a80cb85a5811881275a7a80972680d7fffcfff6830a830b271683ff0e13052980d5fff655808e7f19829b1a826986983c012b031580d0fffbfff75a7a809780cb81fc815e1984501d81722984121a80d5fff682cd2781b781132f81fe4d1305281f0d250480d58136272a290a1480d50128041f0e17",
-      "text_jp": "。<CMD_ef>ヘウアヨ:写挨斡カヨパよ…<CLOSE><PAGE>誼議らに懸せておる、<PAGE>アヂロの寛は笠織であろうな？<CMD_fb><CMD_f7>カヨパ:河壱の醐へ隠る険は、<PAGE>岩ら沿唖が珂ゃておりますゆえ、暗られること、ありえませぬ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:写挨斡カヨパよ…<CLOSE><PAGE>誼議らに懸せておる,<PAGE>アヂロの寛は笠織であろうな?<CMD_fb><CMD_f7>カヨパ:河壱の醐へ隠る険は,<PAGE>岩ら沿唖が珂ゃておりますゆえ,暗られること,ありえませぬ",
       "translation_en": ""
     },
     {
@@ -1143,7 +1143,7 @@
       "target_offset": 21366,
       "length_bytes": 128,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffec5a7a809780cb05826783513c0d2f80d7fffcfff682d11981431a80d555808e7f2d81fe29102280d7fffcfff68162837d16812702100880d501281f0e17",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>カヨパ:お顎喬ですが…<CLOSE><PAGE>頑の威は、アヂロを珂るため…<CLOSE><PAGE>茨禁に斡いたく、ありませぬ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>カヨパ:お顎喬ですが…<CLOSE><PAGE>頑の威は,アヂロを珂るため…<CLOSE><PAGE>茨禁に斡いたく,ありませぬ",
       "translation_en": ""
     },
     {
@@ -1152,7 +1152,7 @@
       "target_offset": 21494,
       "length_bytes": 126,
       "raw_hex": "80d7ffef7157557a80cb82fe4d10812481253980cffff6819c86080d2981841981432d82d32717141a80d7fffcfff65a7a80972680d50d1f15064d101580d7fffbfff7ffed5a7a809780cb80d780d77157557a83942f80d5fff68314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>瑛術する欝の威を願らぬとは…<CLOSE><PAGE>カヨパよ、すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>カヨパ:……ヘウアヨ駈が、<PAGE>詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>瑛術する欝の威を願らぬとは…<CLOSE><PAGE>カヨパよ,すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>カヨパ:……ヘウアヨ駈が,<PAGE>詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1161,7 +1161,7 @@
       "target_offset": 21620,
       "length_bytes": 66,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d582d11981f01d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、頑の加へ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,頑の加へ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1170,7 +1170,7 @@
       "target_offset": 21686,
       "length_bytes": 74,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d55a7a80972680d10082d6815023fff655808e7f19841282451a80d583ff0e293880cffffbfff7ffeb5a7a809780cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、カヨパよ！ 危胃も<PAGE>アヂロの険該は、懸せるぞ。<CMD_fb><CMD_f7><CMD_eb>カヨパ:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,カヨパよ! 危胃も<PAGE>アヂロの険該は,懸せるぞ。<CMD_fb><CMD_f7><CMD_eb>カヨパ:絢塩",
       "translation_en": ""
     },
     {
@@ -1179,7 +1179,7 @@
       "target_offset": 21760,
       "length_bytes": 129,
       "raw_hex": "80d7ffef7157557a80cb82c381188127607c692680d7fffcfff6830a830b271683ff0e13052980d5fff6858882c381bf86fa1983ff16853084061a15020680d0fffbfff7ffec607c6980cb82d182c91a80d50f19102219818480d7fffc826e845b81eb19813881eb1684963517260380d5fff6813481432d85ea080c1305281f0d",
-      "text_jp": "…<CMD_ef>ヘウアヨ:韓挨斡シリナよ…<CLOSE><PAGE>誼議らに懸せておる、<PAGE>鹿韓艶制の懸に撒献はないか？<CMD_fb><CMD_f7><CMD_ec>シリナ:頑巌は、そのための欝…<CLOSE>潟効仮の闇仮に貢じぬよう、<PAGE>庵威を蹴くしております",
+      "text_jp": "…<CMD_ef>ヘウアヨ:韓挨斡シリナよ…<CLOSE><PAGE>誼議らに懸せておる,<PAGE>鹿韓艶制の懸に撒献はないか?<CMD_fb><CMD_f7><CMD_ec>シリナ:頑巌は,そのための欝…<CLOSE>潟効仮の闇仮に貢じぬよう,<PAGE>庵威を蹴くしております",
       "translation_en": ""
     },
     {
@@ -1188,7 +1188,7 @@
       "target_offset": 21889,
       "length_bytes": 124,
       "raw_hex": "80d7ffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffeb607c6980cb7157557a8394198480202d80d5fff63d030c1382d12f82ff2a1f0c500380d1fffcfff60b015780cc808f2d833109830728150b02",
-      "text_jp": "…<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>シリナ:ヘウアヨ駈の港みを、<PAGE>どうして頑が妓れましっう！<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
+      "text_jp": "…<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>シリナ:ヘウアヨ駈の港みを,<PAGE>どうして頑が妓れましっう!<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1197,7 +1197,7 @@
       "target_offset": 22013,
       "length_bytes": 129,
       "raw_hex": "80cfffef7157557a80cb82c381188127607c692680d7fffcfff6830a830b271683ff0e13052980d5fff6858882c381bf86fa1983ff16853084061a15020680d0fffbfff7ffeb607c6980cb82d182c91a80d50f19102219818480d7fffc826e845b81eb19813881eb1684963517260380d5fff6813481432d85ea080c1305281f0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:韓挨斡シリナよ…<CLOSE><PAGE>誼議らに懸せておる、<PAGE>鹿韓艶制の懸に撒献はないか？<CMD_fb><CMD_f7><CMD_eb>シリナ:頑巌は、そのための欝…<CLOSE>潟効仮の闇仮に貢じぬよう、<PAGE>庵威を蹴くしております",
+      "text_jp": "。<CMD_ef>ヘウアヨ:韓挨斡シリナよ…<CLOSE><PAGE>誼議らに懸せておる,<PAGE>鹿韓艶制の懸に撒献はないか?<CMD_fb><CMD_f7><CMD_eb>シリナ:頑巌は,そのための欝…<CLOSE>潟効仮の闇仮に貢じぬよう,<PAGE>庵威を蹴くしております",
       "translation_en": ""
     },
     {
@@ -1206,7 +1206,7 @@
       "target_offset": 22142,
       "length_bytes": 127,
       "raw_hex": "80d1ffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffec607c6980cb05826783513c0d2f80d7fffcfff682d11981431a80d5858882c32d81bf40102280d7fffcfff68162837d16812702100880d501281f0e17",
-      "text_jp": "！<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>シリナ:お顎喬ですが…<CLOSE><PAGE>頑の威は、鹿韓を艶ぶため…<CLOSE><PAGE>茨禁に斡いたく、ありませぬ",
+      "text_jp": "!<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>シリナ:お顎喬ですが…<CLOSE><PAGE>頑の威は,鹿韓を艶ぶため…<CLOSE><PAGE>茨禁に斡いたく,ありませぬ",
       "translation_en": ""
     },
     {
@@ -1215,7 +1215,7 @@
       "target_offset": 22269,
       "length_bytes": 124,
       "raw_hex": "80d7ffef7157557a80cb82fe4d10812481253980cffff682d481eb811881271981432d82d32717141a80d7fffcfff6607c692680d50d1f15064d101580d7fffbfff7ffed607c6980cb80d780d77157557a83942f80d5fff68314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>企仮挨斡の威を願らぬとは…<CLOSE><PAGE>シリナよ、すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>シリナ:……ヘウアヨ駈が、<PAGE>詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>企仮挨斡の威を願らぬとは…<CLOSE><PAGE>シリナよ,すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>シリナ:……ヘウアヨ駈が,<PAGE>詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1224,7 +1224,7 @@
       "target_offset": 22393,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1233,7 +1233,7 @@
       "target_offset": 22458,
       "length_bytes": 74,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d5607c692680d10082d6815023fff6858882c381bf86fa19832c1a80d583ff0e103880cffffbfff7ffeb607c6980cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、シリナよ！ 危胃も<PAGE>鹿韓艶制の球は、懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>シリナ:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,シリナよ! 危胃も<PAGE>鹿韓艶制の球は,懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>シリナ:絢塩",
       "translation_en": ""
     },
     {
@@ -1242,7 +1242,7 @@
       "target_offset": 22532,
       "length_bytes": 144,
       "raw_hex": "80d7ffef7157557a80cb837b81188127808f7167567f2680d7fffc830a830b1683ff0e10822b81eb81188127198541856780d5fff683663f80d5058267835119826881201a83d983b50680d0fffbfff7ffed808f7167567f80cb826e857781eb19836116849635178201072d82cd27837b811881271a81bb1682102f0980d5061280d582d23682f181d20c1305281f0d",
-      "text_jp": "…<CMD_ef>ヘウアヨ:欽挨斡ヅヘテイロよ…<CLOSE>誼議に懸せた改仮挨斡の仔詞、<PAGE>響び、お顎喬の掛渥は蛍群か？<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:潟慈仮の脅に貢じぬ稼きを岩ら欽挨斡は煙に蚊がけ、かつ、顔ず紀殴しております",
+      "text_jp": "…<CMD_ef>ヘウアヨ:欽挨斡ヅヘテイロよ…<CLOSE>誼議に懸せた改仮挨斡の仔詞,<PAGE>響び,お顎喬の掛渥は蛍群か?<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:潟慈仮の脅に貢じぬ稼きを岩ら欽挨斡は煙に蚊がけ,かつ,顔ず紀殴しております",
       "translation_en": ""
     },
     {
@@ -1251,7 +1251,7 @@
       "target_offset": 22676,
       "length_bytes": 122,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffee808f7167567f80cb812d81c580d7fffcfff63c1a812481252680d582d1808f7167567f1980d5fff65780cc808f2d833109830728150b02",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>ヅヘテイロ:絢塩…<CLOSE><PAGE>では鯵梓よ、頑ヅヘテイロの、<PAGE>ウ~ヅを糾け祇りなさい",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>ヅヘテイロ:絢塩…<CLOSE><PAGE>では鯵梓よ,頑ヅヘテイロの,<PAGE>ウ~ヅを糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1260,7 +1260,7 @@
       "target_offset": 22798,
       "length_bytes": 144,
       "raw_hex": "80cfffef7157557a80cb837b81188127808f7167567f2680d7fffc830a830b1683ff0e10822b81eb81188127198541856780d5fff683663f80d5058267835119826881201a83d983b50680d0fffbfff7ffed808f7167567f80cb826e857781eb19836116849635178201072d82cd27837b811881271a81bb1682102f0980d5061280d582d23682f181d20c1305281f0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:欽挨斡ヅヘテイロよ…<CLOSE>誼議に懸せた改仮挨斡の仔詞、<PAGE>響び、お顎喬の掛渥は蛍群か？<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:潟慈仮の脅に貢じぬ稼きを岩ら欽挨斡は煙に蚊がけ、かつ、顔ず紀殴しております",
+      "text_jp": "。<CMD_ef>ヘウアヨ:欽挨斡ヅヘテイロよ…<CLOSE>誼議に懸せた改仮挨斡の仔詞,<PAGE>響び,お顎喬の掛渥は蛍群か?<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:潟慈仮の脅に貢じぬ稼きを岩ら欽挨斡は煙に蚊がけ,かつ,顔ず紀殴しております",
       "translation_en": ""
     },
     {
@@ -1269,7 +1269,7 @@
       "target_offset": 22942,
       "length_bytes": 130,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffec808f7167567f80cb05826783513c0d2f80d7fffcfff682d11981431a80d58114198541816e19102280d7fffcfff68162837d16812702100880d501281f0e17",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>ヅヘテイロ:お顎喬ですが…<CLOSE><PAGE>頑の威は、娃の仔胤のため…<CLOSE><PAGE>茨禁に斡いたく、ありませぬ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ec>ヅヘテイロ:お顎喬ですが…<CLOSE><PAGE>頑の威は,娃の仔胤のため…<CLOSE><PAGE>茨禁に斡いたく,ありませぬ",
       "translation_en": ""
     },
     {
@@ -1278,7 +1278,7 @@
       "target_offset": 23072,
       "length_bytes": 127,
       "raw_hex": "80d7ffef7157557a80cb82fe4d10812481253980cffffcfff6853082482d83e92981841981432d82d32717141a80d7fffc808f7167567f2680d50d1f171580d7fffbfff7ffed808f7167567f80cb80d780d77157557a83942f80d58314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<CLOSE><PAGE>撒浬を傑る欝の威を願らぬとは…<CLOSE>ヅヘテイロよ、すまぬな…<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:……ヘウアヨ駈が、詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "…<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<CLOSE><PAGE>撒浬を傑る欝の威を願らぬとは…<CLOSE>ヅヘテイロよ,すまぬな…<CMD_fb><CMD_f7><CMD_ed>ヅヘテイロ:……ヘウアヨ駈が,詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1287,7 +1287,7 @@
       "target_offset": 23199,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "target_offset": 23264,
       "length_bytes": 81,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d5837b811881272680d10082d6815023fff685418567148268812019832c1a80d583ff0e103880cffffbfff7ffeb808f7167567f80cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、欽挨斡よ！ 危胃も<PAGE>仔詞と掛渥の球は、懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ヅヘテイロ:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,欽挨斡よ! 危胃も<PAGE>仔詞と掛渥の球は,懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ヅヘテイロ:絢塩",
       "translation_en": ""
     },
     {
@@ -1305,7 +1305,7 @@
       "target_offset": 23345,
       "length_bytes": 151,
       "raw_hex": "80d7ffef7157557a80cb826e83f081eb198143811881272680d7fffcfff6830a830b16815e351080d583ca863181dd819a83663f80d5fff6812481251d198217821886c984c41a80d583d983b50680d0fffbfff7ffec8080809a80cc6280a280cc80cb842a868719836116849635178201072d82cd278143811881271a81bb1682102f0980d5061280d582d23682f181d20c1305281f0d",
-      "text_jp": "…<CMD_ef>ヘウアヨ:潟訣仮の威挨斡よ…<CLOSE><PAGE>誼議に壱じた、掲恕屋泳響び、<PAGE>鯵梓への芽蛾訊婚は、蛍群か？<CMD_fb><CMD_f7><CMD_ec>ワペ~セュ~:孤条の脅に貢じぬ稼きを岩ら威挨斡は煙に蚊がけ、かつ、顔ず紀殴しております",
+      "text_jp": "…<CMD_ef>ヘウアヨ:潟訣仮の威挨斡よ…<CLOSE><PAGE>誼議に壱じた,掲恕屋泳響び,<PAGE>鯵梓への芽蛾訊婚は,蛍群か?<CMD_fb><CMD_f7><CMD_ec>ワペ~セュ~:孤条の脅に貢じぬ稼きを岩ら威挨斡は煙に蚊がけ,かつ,顔ず紀殴しております",
       "translation_en": ""
     },
     {
@@ -1314,7 +1314,7 @@
       "target_offset": 23496,
       "length_bytes": 126,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffee8080809a80cc6280a280cc80cb812d81c580d7fffcfff63c1a812481252680d5846d82070881841980d5fff65780cc808f2d833109830728101f04",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:絢塩…<CLOSE><PAGE>では鯵梓よ、庚華く欝の、<PAGE>ウ~ヅを糾け祇りたまえ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:絢塩…<CLOSE><PAGE>では鯵梓よ,庚華く欝の,<PAGE>ウ~ヅを糾け祇りたまえ",
       "translation_en": ""
     },
     {
@@ -1323,7 +1323,7 @@
       "target_offset": 23622,
       "length_bytes": 151,
       "raw_hex": "80cfffef7157557a80cb826e83f081eb198143811881272680d7fffcfff6830a830b16815e351080d583ca863181dd819a83663f80d5fff6812481251d198217821886c984c41a80d583d983b50680d0fffbfff7ffec8080809a80cc6280a280cc80cb842a868719836116849635178201072d82cd278143811881271a81bb1682102f0980d5061280d582d23682f181d20c1305281f0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:潟訣仮の威挨斡よ…<CLOSE><PAGE>誼議に壱じた、掲恕屋泳響び、<PAGE>鯵梓への芽蛾訊婚は、蛍群か？<CMD_fb><CMD_f7><CMD_ec>ワペ~セュ~:孤条の脅に貢じぬ稼きを岩ら威挨斡は煙に蚊がけ、かつ、顔ず紀殴しております",
+      "text_jp": "。<CMD_ef>ヘウアヨ:潟訣仮の威挨斡よ…<CLOSE><PAGE>誼議に壱じた,掲恕屋泳響び,<PAGE>鯵梓への芽蛾訊婚は,蛍群か?<CMD_fb><CMD_f7><CMD_ec>ワペ~セュ~:孤条の脅に貢じぬ稼きを岩ら威挨斡は煙に蚊がけ,かつ,顔ず紀殴しております",
       "translation_en": ""
     },
     {
@@ -1332,7 +1332,7 @@
       "target_offset": 23773,
       "length_bytes": 84,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffed8080809a80cc6280a280cc80cb82f23c0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:徽です",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:徽です",
       "translation_en": ""
     },
     {
@@ -1341,7 +1341,7 @@
       "target_offset": 23857,
       "length_bytes": 133,
       "raw_hex": "80cfffef7157557a80cb82fe4d10812481253980cffff6842a86872d83e92981841981432d82d32717141a80d7fffc8080809a80cc6280a280cc2680d50d1f171580d7fffbfff7ffed8080809a80cc6280a280cc80cb80d77157557a83942f80d58314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>孤条を傑る欝の威を願らぬとは…<CLOSE>ワペ~セュ~よ、すまぬな…<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:…ヘウアヨ駈が、詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>孤条を傑る欝の威を願らぬとは…<CLOSE>ワペ~セュ~よ,すまぬな…<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:…ヘウアヨ駈が,詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1350,7 +1350,7 @@
       "target_offset": 23990,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1359,7 +1359,7 @@
       "target_offset": 24055,
       "length_bytes": 86,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d58143811881272680d10082d6815023fff683ca86311486c984c419832c1a80d583ff0e103880cffffbfff7ffeb8080809a80cc6280a280cc80cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、威挨斡よ！ 危胃も<PAGE>掲恕と訊婚の球は、懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ワペ~セュ~:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,威挨斡よ! 危胃も<PAGE>掲恕と訊婚の球は,懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ワペ~セュ~:絢塩",
       "translation_en": ""
     },
     {
@@ -1368,7 +1368,7 @@
       "target_offset": 24141,
       "length_bytes": 137,
       "raw_hex": "80d7ffef7157557a80cb81608118812780957d80cc2680d7fffcfff6830a830b2716815e3510811884c7198573814b80d7fff6262324840b833e153d80d501291f021580d0fffbfff7ffeb80957d80cc80cb82108248816281db3c01281f0d80cffff6020615813b811881272f8157832f3c012b031480d580957d80cc80881981443c1a01281f0e17",
-      "text_jp": "…<CMD_ef>ヘウアヨ:逸挨斡ベル~よ…<CLOSE><PAGE>誼議らに壱じた挨昏の侍畏…<PAGE>よもや肩距など、あるまいな？<CMD_fb><CMD_f7><CMD_eb>ベル~:蚊浬茨荻であります。<PAGE>いかな以挨斡が井笈であろうと、ベル~ザの尉ではありませぬ",
+      "text_jp": "…<CMD_ef>ヘウアヨ:逸挨斡ベル~よ…<CLOSE><PAGE>誼議らに壱じた挨昏の侍畏…<PAGE>よもや肩距など,あるまいな?<CMD_fb><CMD_f7><CMD_eb>ベル~:蚊浬茨荻であります。<PAGE>いかな以挨斡が井笈であろうと,ベル~ザの尉ではありませぬ",
       "translation_en": ""
     },
     {
@@ -1377,7 +1377,7 @@
       "target_offset": 24278,
       "length_bytes": 126,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffeb80957d80cc80cb7157557a8394198480202d80d5fff63d030c1382d12f82ff2a1f0c500380d1fffcfff60b015780cc808f2d833109830728150b02",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>ベル~:ヘウアヨ駈の港みを、<PAGE>どうして頑が妓れましっう！<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>ベル~:ヘウアヨ駈の港みを,<PAGE>どうして頑が妓れましっう!<CLOSE><PAGE>さあウ~ヅを糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1386,7 +1386,7 @@
       "target_offset": 24404,
       "length_bytes": 137,
       "raw_hex": "80cfffef7157557a80cb81608118812780957d80cc2680d7fffcfff6830a830b2716815e3510811884c7198573814b80d7fff6262324840b833e153d80d501291f021580d0fffbfff7ffeb80957d80cc80cb82108248816281db3c01281f0d80cffff6020615813b811881272f8157832f3c012b031480d580957d80cc80881981443c1a01281f0e17",
-      "text_jp": "。<CMD_ef>ヘウアヨ:逸挨斡ベル~よ…<CLOSE><PAGE>誼議らに壱じた挨昏の侍畏…<PAGE>よもや肩距など、あるまいな？<CMD_fb><CMD_f7><CMD_eb>ベル~:蚊浬茨荻であります。<PAGE>いかな以挨斡が井笈であろうと、ベル~ザの尉ではありませぬ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:逸挨斡ベル~よ…<CLOSE><PAGE>誼議らに壱じた挨昏の侍畏…<PAGE>よもや肩距など,あるまいな?<CMD_fb><CMD_f7><CMD_eb>ベル~:蚊浬茨荻であります。<PAGE>いかな以挨斡が井笈であろうと,ベル~ザの尉ではありませぬ",
       "translation_en": ""
     },
     {
@@ -1395,7 +1395,7 @@
       "target_offset": 24541,
       "length_bytes": 78,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffed80957d80cc80cb82f23c0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ベル~:徽です",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ベル~:徽です",
       "translation_en": ""
     },
     {
@@ -1404,7 +1404,7 @@
       "target_offset": 24619,
       "length_bytes": 126,
       "raw_hex": "80cfffef7157557a80cb82fe4d10812481253980cffff68160811881271981432d82d32717141a80d7fffcfff680957d80cc2680d50d1f15064d101580d7fffbfff7ffed80957d80cc80cb80d780d77157557a83942f80d5fff68314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>逸挨斡の威を願らぬとは…<CLOSE><PAGE>ベル~よ、すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>ベル~:……ヘウアヨ駈が、<PAGE>詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>逸挨斡の威を願らぬとは…<CLOSE><PAGE>ベル~よ,すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>ベル~:……ヘウアヨ駈が,<PAGE>詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1413,7 +1413,7 @@
       "target_offset": 24745,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1422,7 +1422,7 @@
       "target_offset": 24810,
       "length_bytes": 78,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d580957d80cc2680d10082d6815023fff6811884c7830881fe19832c1a80d583ff0e293880cffffbfff7ffeb80957d80cc80cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、ベル~よ！ 危胃も<PAGE>挨昏義珂の球は、懸せるぞ。<CMD_fb><CMD_f7><CMD_eb>ベル~:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,ベル~よ! 危胃も<PAGE>挨昏義珂の球は,懸せるぞ。<CMD_fb><CMD_f7><CMD_eb>ベル~:絢塩",
       "translation_en": ""
     },
     {
@@ -1431,7 +1431,7 @@
       "target_offset": 24888,
       "length_bytes": 146,
       "raw_hex": "80d7ffef7157557a80cb826e862681eb198490811881272680d7fffcfff6830a830b2716815e351080d583bc82101981fe81ff80d5fff683663f8421849a1983ac1a83d983b53c01290680d0fffbfff7ffeb8097797f5d80957964809b80cb858e852d0c1f0d80cffffc83bc82101981cc83c8818482c91686db150880d5814d131605021380d5840b833e1a3334021f0e17",
-      "text_jp": "…<CMD_ef>ヘウアヨ:潟緒仮の膏挨斡よ…<CLOSE><PAGE>誼議らに壱じた、傾蚊の珂禍、<PAGE>響び言鉱の粂は蛍群であるか？<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:宍参します。<CLOSE>傾蚊の往慧欝巌に粋なく、移てにおいて、肩距はございませぬ",
+      "text_jp": "…<CMD_ef>ヘウアヨ:潟緒仮の膏挨斡よ…<CLOSE><PAGE>誼議らに壱じた,傾蚊の珂禍,<PAGE>響び言鉱の粂は蛍群であるか?<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:宍参します。<CLOSE>傾蚊の往慧欝巌に粋なく,移てにおいて,肩距はございませぬ",
       "translation_en": ""
     },
     {
@@ -1440,7 +1440,7 @@
       "target_offset": 25034,
       "length_bytes": 125,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffee8097797f5d80957964809b80cb812d81c580d7fffcfff63c1a812481252680d58490811881271980d5fff65780cc808f2d833109830728101f04",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>パユロケベユタポ:絢塩…<CLOSE><PAGE>では鯵梓よ、膏挨斡の、<PAGE>ウ~ヅを糾け祇りたまえ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ee>パユロケベユタポ:絢塩…<CLOSE><PAGE>では鯵梓よ,膏挨斡の,<PAGE>ウ~ヅを糾け祇りたまえ",
       "translation_en": ""
     },
     {
@@ -1449,7 +1449,7 @@
       "target_offset": 25159,
       "length_bytes": 146,
       "raw_hex": "80cfffef7157557a80cb826e862681eb198490811881272680d7fffcfff6830a830b2716815e351080d583bc82101981fe81ff80d5fff683663f8421849a1983ac1a83d983b53c01290680d0fffbfff7ffeb8097797f5d80957964809b80cb858e852d0c1f0d80cffffc83bc82101981cc83c8818482c91686db150880d5814d131605021380d5840b833e1a3334021f0e17",
-      "text_jp": "。<CMD_ef>ヘウアヨ:潟緒仮の膏挨斡よ…<CLOSE><PAGE>誼議らに壱じた、傾蚊の珂禍、<PAGE>響び言鉱の粂は蛍群であるか？<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:宍参します。<CLOSE>傾蚊の往慧欝巌に粋なく、移てにおいて、肩距はございませぬ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:潟緒仮の膏挨斡よ…<CLOSE><PAGE>誼議らに壱じた,傾蚊の珂禍,<PAGE>響び言鉱の粂は蛍群であるか?<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:宍参します。<CLOSE>傾蚊の往慧欝巌に粋なく,移てにおいて,肩距はございませぬ",
       "translation_en": ""
     },
     {
@@ -1458,7 +1458,7 @@
       "target_offset": 25305,
       "length_bytes": 84,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffed8097797f5d80957964809b80cb82f23c0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>パユロケベユタポ:徽です",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>パユロケベユタポ:徽です",
       "translation_en": ""
     },
     {
@@ -1467,7 +1467,7 @@
       "target_offset": 25389,
       "length_bytes": 128,
       "raw_hex": "80cfffef7157557a80cb82fe4d10812481253980cffff683bc82101981fe81ff81841981432d82d32717141a80d7fffc8490811881272680d50d1f15064d101580d7fffbfff7ffed8097797f5d80957964809b80cb7157557a83942f8314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>傾蚊の珂禍欝の威を願らぬとは…<CLOSE>膏挨斡よ、すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>パユロケベユタポ:ヘウアヨ駈が詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>傾蚊の珂禍欝の威を願らぬとは…<CLOSE>膏挨斡よ,すまなかゃたな…<CMD_fb><CMD_f7><CMD_ed>パユロケベユタポ:ヘウアヨ駈が詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1476,7 +1476,7 @@
       "target_offset": 25517,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1485,7 +1485,7 @@
       "target_offset": 25582,
       "length_bytes": 90,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d58490811881272680d10083bc821081fe81ff80d5fff68421849a19832c1a830607837a0783ff0e103880cffffbfff7ffeb8097797f5d80957964809b80cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、膏挨斡よ！ 傾蚊珂禍、<PAGE>言鉱の球は疑き欣き懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,膏挨斡よ! 傾蚊珂禍,<PAGE>言鉱の球は疑き欣き懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>パユロケベユタポ:絢塩",
       "translation_en": ""
     },
     {
@@ -1494,7 +1494,7 @@
       "target_offset": 25672,
       "length_bytes": 139,
       "raw_hex": "80d7ffef7157557a80cb826e861181eb8111811881272680d7fffcfff6830a830b16815e351080d5811481c5826882c91983ac80d5fff682d119815083ff140c13858c221305290680d0fffbfff7ffec5280cc59557f8087809d7a80cb7157557a83942d814d1319832f8242140c80d581118118812719836116fff684963517260382102f091305281f0d",
-      "text_jp": "…<CMD_ef>ヘウアヨ:潟准仮〇挨斡よ…<CLOSE><PAGE>誼議に壱じた、娃塩掛巌の粂、<PAGE>頑の胃懸として竺めておるか？<CMD_fb><CMD_f7><CMD_ec>ヴ~オアロゴィヨ:ヘウアヨ駈を移ての笈碍とし、〇挨斡の脅に<PAGE>貢じぬよう蚊がけております",
+      "text_jp": "…<CMD_ef>ヘウアヨ:潟准仮々挨斡よ…<CLOSE><PAGE>誼議に壱じた,娃塩掛巌の粂,<PAGE>頑の胃懸として竺めておるか?<CMD_fb><CMD_f7><CMD_ec>ヴ~オアロゴィヨ:ヘウアヨ駈を移ての笈碍とし,々挨斡の脅に<PAGE>貢じぬよう蚊がけております",
       "translation_en": ""
     },
     {
@@ -1503,7 +1503,7 @@
       "target_offset": 25811,
       "length_bytes": 130,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffeb5280cc59557f8087809d7a80cb812d81c580d7fffcfff63c1a812481252680d58111811881273c012980d5fff682d1195780cc808f2d833109830728101f04",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>ヴ~オアロゴィヨ:絢塩…<CLOSE><PAGE>では鯵梓よ、〇挨斡である、<PAGE>頑のウ~ヅを糾け祇りたまえ",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_eb>ヴ~オアロゴィヨ:絢塩…<CLOSE><PAGE>では鯵梓よ,々挨斡である,<PAGE>頑のウ~ヅを糾け祇りたまえ",
       "translation_en": ""
     },
     {
@@ -1512,7 +1512,7 @@
       "target_offset": 25941,
       "length_bytes": 139,
       "raw_hex": "80cfffef7157557a80cb826e861181eb8111811881272680d7fffcfff6830a830b16815e351080d5811481c5826882c91983ac80d5fff682d119815083ff140c13858c221305290680d0fffbfff7ffec5280cc59557f8087809d7a80cb7157557a83942d814d1319832f8242140c80d581118118812719836116fff684963517260382102f091305281f0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:潟准仮〇挨斡よ…<CLOSE><PAGE>誼議に壱じた、娃塩掛巌の粂、<PAGE>頑の胃懸として竺めておるか？<CMD_fb><CMD_f7><CMD_ec>ヴ~オアロゴィヨ:ヘウアヨ駈を移ての笈碍とし、〇挨斡の脅に<PAGE>貢じぬよう蚊がけております",
+      "text_jp": "。<CMD_ef>ヘウアヨ:潟准仮々挨斡よ…<CLOSE><PAGE>誼議に壱じた,娃塩掛巌の粂,<PAGE>頑の胃懸として竺めておるか?<CMD_fb><CMD_f7><CMD_ec>ヴ~オアロゴィヨ:ヘウアヨ駈を移ての笈碍とし,々挨斡の脅に<PAGE>貢じぬよう蚊がけております",
       "translation_en": ""
     },
     {
@@ -1521,7 +1521,7 @@
       "target_offset": 26080,
       "length_bytes": 84,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff60b1380d5830a830b168480202f012980d7fffcfff60a19812481251681432d84c40413830f0c0280cffffbfff7ffed5280cc59557f8087809d7a80cb82f23c0d",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて、誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ヴ~オアロゴィヨ:徽です",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>さて,誼議に港みがある…<CLOSE><PAGE>この鯵梓に威を婚えて吉しい。<CMD_fb><CMD_f7><CMD_ed>ヴ~オアロゴィヨ:徽です",
       "translation_en": ""
     },
     {
@@ -1530,7 +1530,7 @@
       "target_offset": 26164,
       "length_bytes": 122,
       "raw_hex": "80cfffef7157557a80cb82fe4d10812481253980cffff682d119815083dd81842d83872217141a80d7fffcfff68111811881272680d50d1f171580d7fffbfff7ffed5280cc59557f8087809d7a80cb7157557a83942f8314290a143c1a01281f0e1780d1fffcfff60d41131a80d5812481252f862d8238191022",
-      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>頑の胃軽欝を金めぬとは…<CLOSE><PAGE>〇挨斡よ、すまぬな…<CMD_fb><CMD_f7><CMD_ed>ヴ~オアロゴィヨ:ヘウアヨ駈が詰ることではありませぬ！<CLOSE><PAGE>すべては、鯵梓が叙貝のため",
+      "text_jp": "。<CMD_ef>ヘウアヨ:儀ゃた鯵梓だ。<PAGE>頑の胃軽欝を金めぬとは…<CLOSE><PAGE>々挨斡よ,すまぬな…<CMD_fb><CMD_f7><CMD_ed>ヴ~オアロゴィヨ:ヘウアヨ駈が詰ることではありませぬ!<CLOSE><PAGE>すべては,鯵梓が叙貝のため",
       "translation_en": ""
     },
     {
@@ -1539,7 +1539,7 @@
       "target_offset": 26286,
       "length_bytes": 65,
       "raw_hex": "80d7ffefffee0f2a3c1a80d582d11a832c858c1681ef281f0d80cffffc7157557a83941a80d50a1983630615fff6812481252d80d555808e7f1d83c807822b0b02",
-      "text_jp": "…<CMD_ef><CMD_ee>それでは、頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は、この蕎かな<PAGE>鯵梓を、アヂロへ慧き改さい",
+      "text_jp": "…<CMD_ef><CMD_ee>それでは,頑は球竺に佳ります。<CLOSE>ヘウアヨ駈は,この蕎かな<PAGE>鯵梓を,アヂロへ慧き改さい",
       "translation_en": ""
     },
     {
@@ -1548,7 +1548,7 @@
       "target_offset": 26351,
       "length_bytes": 85,
       "raw_hex": "80cfffef7157557a80cb262b0c0280cffffcfff63c1a80d58111811881272680d10082d6815023fff6811481c5826882c91983ac1a80d583ff0e103880cffffbfff7ffeb5280cc59557f8087809d7a80cb812d81c5",
-      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では、〇挨斡よ！ 危胃も<PAGE>娃塩掛巌の粂は、懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ヴ~オアロゴィヨ:絢塩",
+      "text_jp": "。<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>では,々挨斡よ! 危胃も<PAGE>娃塩掛巌の粂は,懸せたぞ。<CMD_fb><CMD_f7><CMD_eb>ヴ~オアロゴィヨ:絢塩",
       "translation_en": ""
     },
     {
@@ -1557,7 +1557,7 @@
       "target_offset": 26436,
       "length_bytes": 65,
       "raw_hex": "80d7ffef7157557a80cb81188127557f8087809d7a2680d7fffcfff60a1981248125165780cc808f2d82fd0d0a142d80d58111811881277157557a2f815e352603",
-      "text_jp": "…<CMD_ef>ヘウアヨ:挨斡アロゴィヨよ…<CLOSE><PAGE>この鯵梓にウ~ヅを偽すことを、〇挨斡ヘウアヨが壱じよう",
+      "text_jp": "…<CMD_ef>ヘウアヨ:挨斡アロゴィヨよ…<CLOSE><PAGE>この鯵梓にウ~ヅを偽すことを,々挨斡ヘウアヨが壱じよう",
       "translation_en": ""
     },
     {
@@ -1566,7 +1566,7 @@
       "target_offset": 26501,
       "length_bytes": 56,
       "raw_hex": "80cfffef557f8087809d7a80cb812d81c580d7fffcfff6ffee812481252680d50b0180d5fff682d1195780cc808f2d833109830728150b02",
-      "text_jp": "。<CMD_ef>アロゴィヨ:絢塩…<CLOSE><PAGE><CMD_ee>鯵梓よ、さあ、<PAGE>頑のウ~ヅを糾け祇りなさい",
+      "text_jp": "。<CMD_ef>アロゴィヨ:絢塩…<CLOSE><PAGE><CMD_ee>鯵梓よ,さあ,<PAGE>頑のウ~ヅを糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1575,7 +1575,7 @@
       "target_offset": 26557,
       "length_bytes": 65,
       "raw_hex": "80cfffef7157557a80cb81188127557f8087809d7a2680d7fffcfff60a1981248125165780cc808f2d82fd0d0a142d80d58111811881277157557a2f815e352603",
-      "text_jp": "。<CMD_ef>ヘウアヨ:挨斡アロゴィヨよ…<CLOSE><PAGE>この鯵梓にウ~ヅを偽すことを、〇挨斡ヘウアヨが壱じよう",
+      "text_jp": "。<CMD_ef>ヘウアヨ:挨斡アロゴィヨよ…<CLOSE><PAGE>この鯵梓にウ~ヅを偽すことを,々挨斡ヘウアヨが壱じよう",
       "translation_en": ""
     },
     {
@@ -1593,7 +1593,7 @@
       "target_offset": 26641,
       "length_bytes": 61,
       "raw_hex": "80cfffef557f8087809d7a80cb80d780d780d780d780d7fffcfff6ffed82d180d5150d4107830381f92f01281f0d193c8393831d0b0e13021039071f0d",
-      "text_jp": "。<CMD_ef>アロゴィヨ:……………<CLOSE><PAGE><CMD_ed>頑、なすべき擬果がありますので駆丘させていただきます",
+      "text_jp": "。<CMD_ef>アロゴィヨ:……………<CLOSE><PAGE><CMD_ed>頑,なすべき擬果がありますので駆丘させていただきます",
       "translation_en": ""
     },
     {
@@ -1602,7 +1602,7 @@
       "target_offset": 26702,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -1611,7 +1611,7 @@
       "target_offset": 26704,
       "length_bytes": 79,
       "raw_hex": "efffef7157557a80cb262b0c0280cffffcfff6557f8087809d7a2680d10082d68150238124812519fff610221680d50f1981432d81274d13082a80cffffbfff7ffeb557f8087809d7a80cb812d81c5",
-      "text_jp": "▲<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>アロゴィヨよ！ 危胃も鯵梓の<PAGE>ために、その威を斡ゃてくれ。<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:絢塩",
+      "text_jp": "▲<CMD_ef>ヘウアヨ:よろしい。<CLOSE><PAGE>アロゴィヨよ! 危胃も鯵梓の<PAGE>ために,その威を斡ゃてくれ。<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:絢塩",
       "translation_en": ""
     },
     {
@@ -1620,7 +1620,7 @@
       "target_offset": 26784,
       "length_bytes": 141,
       "raw_hex": "80d7ffef52808878557a80cb82cd1a52808878557a80cffffcfff6856281fc14813419841c841d2d832c140c80d5fff681141983c7022d833081960d2981188127152880cffffbfff7ffee8080809a80cc6280a280cc80cb82d11a81438118812780cffff6811181188127786d809a557a839416058303040c80d5842a8687012981842d83c808811881271528",
-      "text_jp": "…<CMD_ef>ヴザヤアヨ:岩はヴザヤアヨ。<CLOSE><PAGE>紫河と庵の源玄を球とし、<PAGE>娃の慶いを級映する挨斡なり。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:頑は威挨斡。<PAGE>〇挨斡ヤノペアヨ駈にお擬えし、孤条ある欝を慧く挨斡なり",
+      "text_jp": "…<CMD_ef>ヴザヤアヨ:岩はヴザヤアヨ。<CLOSE><PAGE>紫河と庵の源玄を球とし,<PAGE>娃の慶いを級映する挨斡なり。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:頑は威挨斡。<PAGE>々挨斡ヤノペアヨ駈にお擬えし,孤条ある欝を慧く挨斡なり",
       "translation_en": ""
     },
     {
@@ -1629,7 +1629,7 @@
       "target_offset": 26925,
       "length_bytes": 140,
       "raw_hex": "80cfffef52808878557a80cb82cd148318832c1981118118812716830304130229193c012a3e80d5fff682d1198480202382d809293c012b0380d0fffbfff70a1981248125165e80987a5780cc808f2d80d5fff6841409131a232704170680d0fffbfff7ffeb8080809a80cc6280a280cc80cb26062b0380cffffcfff682d1195780cc808f2d812702101f04",
-      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩と却球の〇挨斡に擬えているのであれば、<PAGE>頑の港みも器けるであろう？<CMD_fb><CMD_f7>この鯵梓にコピヨウ~ヅを、<PAGE>験けてはもらえぬか？<CMD_fb><CMD_f7><CMD_eb>ワペ~セュ~:よかろう。<CLOSE><PAGE>頑のウ~ヅを斡いたまえ",
+      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩と却球の々挨斡に擬えているのであれば,<PAGE>頑の港みも器けるであろう?<CMD_fb><CMD_f7>この鯵梓にコピヨウ~ヅを,<PAGE>験けてはもらえぬか?<CMD_fb><CMD_f7><CMD_eb>ワペ~セュ~:よかろう。<CLOSE><PAGE>頑のウ~ヅを斡いたまえ",
       "translation_en": ""
     },
     {
@@ -1638,7 +1638,7 @@
       "target_offset": 27065,
       "length_bytes": 141,
       "raw_hex": "80cfffef52808878557a80cb82cd1a52808878557a80cffffcfff6856281fc14813419841c841d2d832c140c80d5fff681141983c7022d833081960d2981188127152880cffffbfff7ffee8080809a80cc6280a280cc80cb82d11a81438118812780cffff6811181188127786d809a557a839416058303040c80d5842a8687012981842d83c808811881271528",
-      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩はヴザヤアヨ。<CLOSE><PAGE>紫河と庵の源玄を球とし、<PAGE>娃の慶いを級映する挨斡なり。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:頑は威挨斡。<PAGE>〇挨斡ヤノペアヨ駈にお擬えし、孤条ある欝を慧く挨斡なり",
+      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩はヴザヤアヨ。<CLOSE><PAGE>紫河と庵の源玄を球とし,<PAGE>娃の慶いを級映する挨斡なり。<CMD_fb><CMD_f7><CMD_ee>ワペ~セュ~:頑は威挨斡。<PAGE>々挨斡ヤノペアヨ駈にお擬えし,孤条ある欝を慧く挨斡なり",
       "translation_en": ""
     },
     {
@@ -1647,7 +1647,7 @@
       "target_offset": 27206,
       "length_bytes": 136,
       "raw_hex": "80cfffef52808878557a80cb82cd148318832c1981118118812716830304130229193c012a3e80d5fff682d1198480202382d809293c012b0380d0fffbfff70a198184165e80987a5780cc808f2d80d5fff6841409131a232704170680d0fffbfff7ffed8080809a80cc6280a280cc80cb82ff2980cffffcfff60f198124812516842a86871a1502",
-      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩と却球の〇挨斡に擬えているのであれば、<PAGE>頑の港みも器けるであろう？<CMD_fb><CMD_f7>この欝にコピヨウ~ヅを、<PAGE>験けてはもらえぬか？<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:妓る。<CLOSE><PAGE>その鯵梓に孤条はない",
+      "text_jp": "。<CMD_ef>ヴザヤアヨ:岩と却球の々挨斡に擬えているのであれば,<PAGE>頑の港みも器けるであろう?<CMD_fb><CMD_f7>この欝にコピヨウ~ヅを,<PAGE>験けてはもらえぬか?<CMD_fb><CMD_f7><CMD_ed>ワペ~セュ~:妓る。<CLOSE><PAGE>その鯵梓に孤条はない",
       "translation_en": ""
     },
     {
@@ -1665,7 +1665,7 @@
       "target_offset": 27390,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -1674,7 +1674,7 @@
       "target_offset": 27392,
       "length_bytes": 61,
       "raw_hex": "efffef52808878557a80cb262b0c0280d7fffcfff68143811881278080809a80cc6280a280cc2680d5fff6830a830b19849f81431680d582ed83140d29",
-      "text_jp": "▲<CMD_ef>ヴザヤアヨ:よろしい…<CLOSE><PAGE>威挨斡ワペ~セュ~よ、<PAGE>誼議の項威に、畿詰する",
+      "text_jp": "▲<CMD_ef>ヴザヤアヨ:よろしい…<CLOSE><PAGE>威挨斡ワペ~セュ~よ,<PAGE>誼議の項威に,畿詰する",
       "translation_en": ""
     },
     {
@@ -1683,7 +1683,7 @@
       "target_offset": 27454,
       "length_bytes": 136,
       "raw_hex": "80cfffef675a80cc80cb82cd80d7836180d7675a80cc80d7fffcfff68293845580d78118812780d7557f8087809d7a80d7fff6822680d781a981aa80d780d781e3816080d780d7fffbfff7ffeb557f8087809d7a80cb262b0c023c0d2c80cffffcfff680d701151080d582e8827819812681143c0d261880cf82e812812a877d141a82d73c0c5003",
-      "text_jp": "。<CMD_ef>テカ~:岩…脅…テカ~…<CLOSE><PAGE>勘侯…挨斡…アロゴィヨ…<PAGE>悔…謁越……俺逸……<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:よろしいですわ。<CLOSE><PAGE>…あなた、機轄の圧娃ですよね。機つ姐僧とは喜でしっう",
+      "text_jp": "。<CMD_ef>テカ~:岩…脅…テカ~…<CLOSE><PAGE>勘侯…挨斡…アロゴィヨ…<PAGE>悔…謁越……俺逸……<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:よろしいですわ。<CLOSE><PAGE>…あなた,機轄の圧娃ですよね。機つ姐僧とは喜でしっう",
       "translation_en": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "target_offset": 27590,
       "length_bytes": 124,
       "raw_hex": "80d0ffef675a80cc80cb81bb80d7818b814380d7815981f780d7fffcfff6878180d7830a812680d75780cc808f80d7830f80d7fff68124812580d782fd80d7823180d780d7fffbfff7ffee557f8087809d7a80cb0f033c0d0680d7fffcfff63c1a812481252680d582d1195780cc808f2dfff6833109830728150b02",
-      "text_jp": "？<CMD_ef>テカ~:煙…閏威…域科…<CLOSE><PAGE>倉…誼圧…ウ~ヅ…吉…<PAGE>鯵梓…偽…界……<CMD_fb><CMD_f7><CMD_ee>アロゴィヨ:そうですか…<CLOSE><PAGE>では鯵梓よ、頑のウ~ヅを<PAGE>糾け祇りなさい",
+      "text_jp": "?<CMD_ef>テカ~:煙…閏威…域科…<CLOSE><PAGE>倉…誼圧…ウ~ヅ…吉…<PAGE>鯵梓…偽…界……<CMD_fb><CMD_f7><CMD_ee>アロゴィヨ:そうですか…<CLOSE><PAGE>では鯵梓よ,頑のウ~ヅを<PAGE>糾け祇りなさい",
       "translation_en": ""
     },
     {
@@ -1701,7 +1701,7 @@
       "target_offset": 27714,
       "length_bytes": 136,
       "raw_hex": "80cfffef675a80cc80cb82cd80d7836180d7675a80cc80d7fffcfff68293845580d78118812780d7557f8087809d7a80d7fff6822680d781a981aa80d780d781e3816080d780d7fffbfff7ffeb557f8087809d7a80cb262b0c023c0d2c80cffffcfff680d701151080d582e8827819812681143c0d261880cf82e812812a877d141a82d73c0c5003",
-      "text_jp": "。<CMD_ef>テカ~:岩…脅…テカ~…<CLOSE><PAGE>勘侯…挨斡…アロゴィヨ…<PAGE>悔…謁越……俺逸……<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:よろしいですわ。<CLOSE><PAGE>…あなた、機轄の圧娃ですよね。機つ姐僧とは喜でしっう",
+      "text_jp": "。<CMD_ef>テカ~:岩…脅…テカ~…<CLOSE><PAGE>勘侯…挨斡…アロゴィヨ…<PAGE>悔…謁越……俺逸……<CMD_fb><CMD_f7><CMD_eb>アロゴィヨ:よろしいですわ。<CLOSE><PAGE>…あなた,機轄の圧娃ですよね。機つ姐僧とは喜でしっう",
       "translation_en": ""
     },
     {
@@ -1710,7 +1710,7 @@
       "target_offset": 27850,
       "length_bytes": 134,
       "raw_hex": "80d0ffef675a80cc80cb81bb80d7818b814380d7815981f780d7fffcfff6878180d7830a812680d75780cc808f80d7830f80d7fff68124812580d782fd80d7823180d780d7fffbfff7ffed557f8087809d7a80cb81b7818801281f0d1880cffff63c0d2f80d5828c19815f161a82d381f482d380d5fff614020382dc042380d501281f0d0627",
-      "text_jp": "？<CMD_ef>テカ~:煙…閏威…域科…<CLOSE><PAGE>倉…誼圧…ウ~ヅ…吉…<PAGE>鯵梓…偽…界……<CMD_fb><CMD_f7><CMD_ed>アロゴィヨ:沿厩ありますね。<PAGE>ですが、苅の溢には願嫁願、<PAGE>という寄えも、ありますから",
+      "text_jp": "?<CMD_ef>テカ~:煙…閏威…域科…<CLOSE><PAGE>倉…誼圧…ウ~ヅ…吉…<PAGE>鯵梓…偽…界……<CMD_fb><CMD_f7><CMD_ed>アロゴィヨ:沿厩ありますね。<PAGE>ですが,苅の溢には願嫁願,<PAGE>という寄えも,ありますから",
       "translation_en": ""
     },
     {
@@ -1719,7 +1719,7 @@
       "target_offset": 27984,
       "length_bytes": 66,
       "raw_hex": "80d7ffefffed557f8087809d7a80cb83630615812481252d80d5fff6830a81261a81fe81ff0c130229193c0d1880d7fffcfff684cd81bb1682181681ae281f0e2e18",
-      "text_jp": "…<CMD_ef><CMD_ed>アロゴィヨ:蕎かな鯵梓を、<PAGE>誼圧は珂禍しているのですね…<CLOSE><PAGE>紺煙に蛾に円りませんね",
+      "text_jp": "…<CMD_ef><CMD_ed>アロゴィヨ:蕎かな鯵梓を,<PAGE>誼圧は珂禍しているのですね…<CLOSE><PAGE>紺煙に蛾に円りませんね",
       "translation_en": ""
     },
     {
@@ -1728,7 +1728,7 @@
       "target_offset": 28050,
       "length_bytes": 2,
       "raw_hex": "80d1",
-      "text_jp": "！",
+      "text_jp": "!",
       "translation_en": ""
     },
     {
@@ -1737,7 +1737,7 @@
       "target_offset": 28052,
       "length_bytes": 59,
       "raw_hex": "efffefffeb557f8087809d7a80cb0f2a3c1a80d5fff682d11a0a2a3c8393831d0c1f0d2c80d7fffcfff60b2603152780d58082795d5219831883d2",
-      "text_jp": "▲<CMD_ef><CMD_eb>アロゴィヨ:それでは、<PAGE>頑はこれで駆丘しますわ…<CLOSE><PAGE>さようなら、ンユケヴの却系",
+      "text_jp": "▲<CMD_ef><CMD_eb>アロゴィヨ:それでは,<PAGE>頑はこれで駆丘しますわ…<CLOSE><PAGE>さようなら,ンユケヴの却系",
       "translation_en": ""
     },
     {
@@ -1746,7 +1746,7 @@
       "target_offset": 28112,
       "length_bytes": 108,
       "raw_hex": "80cfffefffeb031c1c80d780d780d780d780d7fff6031c1c80d780d780d780d780d7fff6031c1c80d780d780d780d780d7fffbfff7872652795e1a80d581f4814415834a202dfff60082f0064113022980d7fffc81ce83c01680d5fff6008359352982181a80d51502260339",
-      "text_jp": "。<CMD_ef><CMD_eb>うふふ……………<PAGE>うふふ……………<PAGE>うふふ……………<CMD_fb><CMD_f7>責ヴユコは、嫁尉な競みを<PAGE> 稀かべている…<CLOSE>押圭に、<PAGE> 挟じる蛾は、ないようだ",
+      "text_jp": "。<CMD_ef><CMD_eb>うふふ……………<PAGE>うふふ……………<PAGE>うふふ……………<CMD_fb><CMD_f7>責ヴユコは,嫁尉な競みを<PAGE> 稀かべている…<CLOSE>押圭に,<PAGE> 挟じる蛾は,ないようだ",
       "translation_en": ""
     },
     {
@@ -1755,7 +1755,7 @@
       "target_offset": 28220,
       "length_bytes": 16,
       "raw_hex": "80d1fff5808b7180cc80cfffef808b71",
-      "text_jp": "！<LINE>ゼヘ~。<CMD_ef>ゼヘ",
+      "text_jp": "!<LINE>ゼヘ~。<CMD_ef>ゼヘ",
       "translation_en": ""
     }
   ]

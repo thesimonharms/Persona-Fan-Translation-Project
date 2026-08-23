@@ -1,0 +1,127 @@
+{
+  "file": "D00.BIN",
+  "type": "DUNGEON_NPC_DIALOGUE",
+  "total_strings": 15,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 90276,
+      "length_bytes": 6,
+      "raw_hex": "6afff6fe6aff",
+      "text_jp": "ニ<PAGE>hニ",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 90284,
+      "length_bytes": 4,
+      "raw_hex": "6afff6fe",
+      "text_jp": "ニ<PAGE>h",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 228948,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 229076,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 229204,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 229332,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 229460,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 229588,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 232656,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 234192,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 234320,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 234448,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 234576,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 234704,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 394976,
+      "length_bytes": 192,
+      "raw_hex": "8c4c4e9d1c8db667954dca1d6e6ec8375c5c9f02f7a051a12a6060bd177af13a5fbb0c7334349e6219dd5e32525205c69069691e1e912174aaaaad85e72d55301323231f4d1f223610ff6e6d655b646464656d6d6d5f655d5a65645a5c5d656564656d6d5e6865676f676d67686e6e6e6e6176777787121f1c4444191c44442efff6f62b1ff6202461b4a6a6a6a6a6a6a6aca6aca6a6a6a6a6aca6a6acaca5acacacacacaca8a5aca8a5a8a5a8a5a8a5a8a5a5a5a5a5a9572b2a2a2b212d2e6f",
+      "text_jp": "ゾぉゅィふダQテベゃ/へハハ8ぜククェいaォゎャれシシXぬヨ=ぢサVしマざざゥセの』コげヴヴお6デナナほほドむミEEH衆をアぎてももまゃまめずた<CMD_6e>ノチキタタタチノノノサチケカチタカクケチチタチノノコトチテヒテノテトハハハハスメモモ請まふぴぴのふぴぴん<PAGE>!?ろま!?みやスOAAAAAAAGAGAAAAAGAAGGヮGGGGGGCヮGCヮCヮCヮCヮCヮヮヮヮヮDウろれれろむをんヒ",
+      "translation_en": ""
+    }
+  ]
+}

@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """
-tools/script_parser.py - Script & Bytecode Decompiler for Megami Ibunroku Persona (PSX)
-Extracts and decompiles dialogue scripts, demon negotiation conversation trees,
-and name databases into structured JSON files with pointer metadata.
+tools/script_parser.py - Complete Script & Bytecode Decompiler for Megami Ibunroku Persona (PSX)
+Extracts and decompiles:
+1. Demon Negotiation Scripts (TALK/*.BIN)
+2. Battle Dialogue & Contact Engine (BTLP.BIN)
+3. Story Cutscenes & Event Scripts (ADV/MES.BIN, ADV.BIN)
+4. Dungeon Event & Room Dialogues (D00..D04/*.BIN)
+5. System Menus & Minigames (CASINO.BIN, OPEN.BIN, S2D.BIN)
 """
 
 import os
@@ -10,13 +14,12 @@ import sys
 import json
 import glob
 import struct
+import re
 import argparse
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
-# Ensure project root is in path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
 from tools.font_tool import PersonaFontTool
 
 
@@ -28,13 +31,12 @@ class PersonaScriptParser:
             self.font_tool = font_tool
 
     def decompile_talk_file(self, bin_path: str) -> Dict[str, Any]:
-        """Decompiles a TALK binary (e.g. TALK/SINSI.BIN) into structured script data."""
+        """Decompiles a TALK binary into structured script data."""
         path = Path(bin_path)
         data = path.read_bytes()
         if len(data) < 0x14:
             return {"file": path.name, "entries": []}
 
-        # Pointer table starts at offset 0x14
         str0_ptr = struct.unpack("<I", data[0x14:0x18])[0]
         if str0_ptr <= 0x14 or str0_ptr >= len(data):
             return {"file": path.name, "entries": []}
@@ -61,7 +63,7 @@ class PersonaScriptParser:
                     "length_bytes": len(raw_chunk),
                     "raw_hex": raw_chunk.hex(),
                     "text_jp": text_jp,
-                    "translation_en": ""  # To be populated by Gemini translation agent
+                    "translation_en": ""
                 })
 
         return {
@@ -71,35 +73,118 @@ class PersonaScriptParser:
             "entries": entries
         }
 
-    def decompile_all_talk(self, talk_dir: str = "extracted/TALK", out_dir: str = "scripts/original/talk"):
-        """Decompiles all 29 TALK/*.BIN demon negotiation files."""
-        t_dir = Path(talk_dir)
-        o_dir = Path(out_dir)
-        o_dir.mkdir(parents=True, exist_ok=True)
+    def decompile_binary_stream(self, bin_path: str, category: str) -> Dict[str, Any]:
+        """Scans and extracts all dialogue blocks and strings from a story/battle/system binary."""
+        path = Path(bin_path)
+        data = path.read_bytes()
 
-        talk_files = sorted(t_dir.glob("*.BIN"))
-        print(f"[*] Decompiling {len(talk_files)} demon negotiation files from '{t_dir}'...")
+        # Find string boundaries using control codes and string terminators
+        # Extract meaningful dialogue blocks containing text and control tags
+        entries = []
+        visited_offsets = set()
 
-        total_strings = 0
-        for tf in talk_files:
-            result = self.decompile_talk_file(str(tf))
-            out_file = o_dir / f"{tf.stem}.json"
-            out_file.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
-            total_strings += result["total_strings"]
-            print(f"    [+] {tf.name:<16}: {result['total_strings']:3d} strings -> {out_file.name}")
+        # Search for control codes and text segments
+        matches = [m.start() for m in re.finditer(b'\xff[\xf3\xf5\xf6\xfc\xfd\xfe]', data)]
+        for m_idx, offset in enumerate(matches):
+            if offset in visited_offsets:
+                continue
 
-        print(f"[+] Successfully decompiled {total_strings} total dialogue lines across {len(talk_files)} TALK files.")
+            # Walk backward to find the start of the string
+            start = offset
+            while start > 0 and (offset - start) < 256:
+                b = data[start - 1]
+                if b == 0x00:
+                    break
+                start -= 1
+
+            # Walk forward to find the end of the string
+            end = offset
+            while end < len(data) and (end - offset) < 512:
+                b = data[end]
+                if b == 0x00 or (b == 0xFF and end + 1 < len(data) and data[end + 1] in (0xFC, 0xFE)):
+                    if b == 0xFF:
+                        end += 2
+                    break
+                end += 1
+
+            raw_chunk = data[start:end].lstrip(b"\x00\xff").rstrip(b"\x00")
+            if len(raw_chunk) >= 4:
+                for off in range(start, end):
+                    visited_offsets.add(off)
+
+                text_jp = self.font_tool.decode_bytes(raw_chunk)
+                if any(c in self.font_tool.char_map.values() for c in text_jp):
+                    entries.append({
+                        "id": len(entries),
+                        "offset": start,
+                        "length_bytes": len(raw_chunk),
+                        "raw_hex": raw_chunk.hex(),
+                        "text_jp": text_jp,
+                        "translation_en": ""
+                    })
+
+        return {
+            "file": path.name,
+            "type": category,
+            "total_strings": len(entries),
+            "entries": entries
+        }
+
+    def decompile_all(self):
+        """Decompiles all talk, battle, story, dungeon, and system scripts."""
+        # 1. Talk files
+        talk_out = Path("scripts/original/talk")
+        talk_out.mkdir(parents=True, exist_ok=True)
+        for tf in sorted(glob.glob("extracted/TALK/*.BIN")):
+            res = self.decompile_talk_file(tf)
+            out_file = talk_out / f"{Path(tf).stem}.json"
+            out_file.write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
+
+        # 2. Battle files
+        battle_out = Path("scripts/original/battle")
+        battle_out.mkdir(parents=True, exist_ok=True)
+        if os.path.exists("extracted/BTLP.BIN"):
+            res = self.decompile_binary_stream("extracted/BTLP.BIN", "BATTLE_SYSTEM_AND_QUOTES")
+            (battle_out / "BTLP.json").write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
+            print(f"[+] Decompiled BTLP.BIN -> battle/BTLP.json ({res['total_strings']} strings)")
+
+        # 3. Story & Adventure cutscenes
+        story_out = Path("scripts/original/story")
+        story_out.mkdir(parents=True, exist_ok=True)
+        for af in ["extracted/ADV/MES.BIN", "extracted/ADV.BIN", "extracted/ADV/BST.BIN"]:
+            if os.path.exists(af):
+                p = Path(af)
+                res = self.decompile_binary_stream(af, "STORY_CUTSCENES")
+                (story_out / f"{p.stem}.json").write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
+                print(f"[+] Decompiled {p.name} -> story/{p.stem}.json ({res['total_strings']} strings)")
+
+        # 4. Dungeon & NPC dialogue files
+        dungeon_out = Path("scripts/original/dungeons")
+        dungeon_out.mkdir(parents=True, exist_ok=True)
+        for df in sorted(glob.glob("extracted/D*/D*.BIN")):
+            if not (df.endswith("M.BIN") or df.endswith("S.BIN")):
+                p = Path(df)
+                res = self.decompile_binary_stream(df, "DUNGEON_NPC_DIALOGUE")
+                if res["total_strings"] > 0:
+                    (dungeon_out / f"{p.stem}.json").write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
+                    print(f"[+] Decompiled {p.name} -> dungeons/{p.stem}.json ({res['total_strings']} strings)")
+
+        # 5. System & Minigames
+        sys_out = Path("scripts/original/system")
+        sys_out.mkdir(parents=True, exist_ok=True)
+        for sf in ["extracted/CASINO.BIN", "extracted/OPEN.BIN", "extracted/S2D.BIN"]:
+            if os.path.exists(sf):
+                p = Path(sf)
+                res = self.decompile_binary_stream(sf, "SYSTEM_AND_MINIGAMES")
+                (sys_out / f"{p.stem}.json").write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
+                print(f"[+] Decompiled {p.name} -> system/{p.stem}.json ({res['total_strings']} strings)")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Megami Ibunroku Persona Script Parser")
-    parser.add_argument("--talk-dir", default="extracted/TALK", help="Path to extracted TALK directory")
-    parser.add_argument("--out-dir", default="scripts/original/talk", help="Output directory for JSON scripts")
-
+    parser = argparse.ArgumentParser(description="Megami Ibunroku Persona Script Decompiler")
     args = parser.parse_args()
-
     parser_tool = PersonaScriptParser()
-    parser_tool.decompile_all_talk(talk_dir=args.talk_dir, out_dir=args.out_dir)
+    parser_tool.decompile_all()
 
 
 if __name__ == "__main__":

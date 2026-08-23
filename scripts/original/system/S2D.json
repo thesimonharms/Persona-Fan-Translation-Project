@@ -1,0 +1,623 @@
+{
+  "file": "S2D.BIN",
+  "type": "SYSTEM_AND_MINIGAMES",
+  "total_strings": 77,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 111526,
+      "length_bytes": 4,
+      "raw_hex": "0534fffe",
+      "text_jp": "おざ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 111550,
+      "length_bytes": 4,
+      "raw_hex": "0534fffe",
+      "text_jp": "おざ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 112118,
+      "length_bytes": 4,
+      "raw_hex": "8430fffe",
+      "text_jp": "枯<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 112614,
+      "length_bytes": 4,
+      "raw_hex": "0432fffe",
+      "text_jp": "えげ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 166318,
+      "length_bytes": 4,
+      "raw_hex": "4010fffc",
+      "text_jp": "ぶた<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 225162,
+      "length_bytes": 8,
+      "raw_hex": "20a603804234fffe",
+      "text_jp": "みAうぼざ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 258128,
+      "length_bytes": 6,
+      "raw_hex": "edfffcfffdff",
+      "text_jp": "■<CLOSE><CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 258144,
+      "length_bytes": 6,
+      "raw_hex": "effffcfff6ff",
+      "text_jp": "▲<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 258242,
+      "length_bytes": 4,
+      "raw_hex": "fcfff6ff",
+      "text_jp": "f<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 258258,
+      "length_bytes": 4,
+      "raw_hex": "fcfffdff",
+      "text_jp": "f<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 258840,
+      "length_bytes": 4,
+      "raw_hex": "fcfffdff",
+      "text_jp": "f<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 259000,
+      "length_bytes": 5,
+      "raw_hex": "feffedfffc",
+      "text_jp": "h<CMD_ed><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 259008,
+      "length_bytes": 5,
+      "raw_hex": "fdffecfffc",
+      "text_jp": "g<CMD_ec><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 259016,
+      "length_bytes": 5,
+      "raw_hex": "fcffe9fffc",
+      "text_jp": "f<CMD_e9><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 259024,
+      "length_bytes": 5,
+      "raw_hex": "fcffe8fffc",
+      "text_jp": "f<CMD_e8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 259032,
+      "length_bytes": 5,
+      "raw_hex": "fdffe6fffc",
+      "text_jp": "g<CMD_e6><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 259128,
+      "length_bytes": 5,
+      "raw_hex": "fbffe5fffc",
+      "text_jp": "e<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 259136,
+      "length_bytes": 5,
+      "raw_hex": "f9ffe8fffc",
+      "text_jp": "c<CMD_e8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 259144,
+      "length_bytes": 5,
+      "raw_hex": "f8ffeafffc",
+      "text_jp": "b<CMD_ea><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "offset": 259152,
+      "length_bytes": 5,
+      "raw_hex": "f8ffecfffc",
+      "text_jp": "b<CMD_ec><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "offset": 259160,
+      "length_bytes": 5,
+      "raw_hex": "f9ffeefffc",
+      "text_jp": "c<CMD_ee><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 21,
+      "offset": 259168,
+      "length_bytes": 5,
+      "raw_hex": "fafff0fffc",
+      "text_jp": "d<CMD_f0><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 22,
+      "offset": 259176,
+      "length_bytes": 5,
+      "raw_hex": "fcfff1fffc",
+      "text_jp": "f<CMD_f1><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 23,
+      "offset": 259184,
+      "length_bytes": 5,
+      "raw_hex": "fdfff2fffc",
+      "text_jp": "g<CMD_f2><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 24,
+      "offset": 259256,
+      "length_bytes": 5,
+      "raw_hex": "fefffffffc",
+      "text_jp": "h<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 25,
+      "offset": 259264,
+      "length_bytes": 5,
+      "raw_hex": "fcfffdfffc",
+      "text_jp": "f<CHOICE id=255>f",
+      "translation_en": ""
+    },
+    {
+      "id": 26,
+      "offset": 259272,
+      "length_bytes": 5,
+      "raw_hex": "fbfffcfffc",
+      "text_jp": "e<CLOSE><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 27,
+      "offset": 259280,
+      "length_bytes": 5,
+      "raw_hex": "f9fffafffc",
+      "text_jp": "c<CMD_fa><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 28,
+      "offset": 259288,
+      "length_bytes": 5,
+      "raw_hex": "f8fff8fffc",
+      "text_jp": "b<CMD_f8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 29,
+      "offset": 259296,
+      "length_bytes": 5,
+      "raw_hex": "f7fff8fffc",
+      "text_jp": "a<CMD_f8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 30,
+      "offset": 259856,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe4fffc",
+      "text_jp": "a<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 31,
+      "offset": 259864,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe5fffc",
+      "text_jp": "a<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 32,
+      "offset": 259872,
+      "length_bytes": 5,
+      "raw_hex": "faffe6fffc",
+      "text_jp": "d<CMD_e6><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 33,
+      "offset": 259880,
+      "length_bytes": 5,
+      "raw_hex": "fbffe9fffc",
+      "text_jp": "e<CMD_e9><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 34,
+      "offset": 259888,
+      "length_bytes": 5,
+      "raw_hex": "fbfffbfffc",
+      "text_jp": "e<CMD_fb><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 35,
+      "offset": 259896,
+      "length_bytes": 5,
+      "raw_hex": "fafffefffc",
+      "text_jp": "d<END><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 36,
+      "offset": 259904,
+      "length_bytes": 5,
+      "raw_hex": "f7fffffffc",
+      "text_jp": "a<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 37,
+      "offset": 259952,
+      "length_bytes": 5,
+      "raw_hex": "fbfff3fffc",
+      "text_jp": "e<CMD_f3><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 38,
+      "offset": 259960,
+      "length_bytes": 5,
+      "raw_hex": "fbffeffffc",
+      "text_jp": "e<CMD_ef><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 39,
+      "offset": 259984,
+      "length_bytes": 5,
+      "raw_hex": "faffe4fffc",
+      "text_jp": "d<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 40,
+      "offset": 260400,
+      "length_bytes": 5,
+      "raw_hex": "faffe4fffc",
+      "text_jp": "d<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 41,
+      "offset": 260408,
+      "length_bytes": 5,
+      "raw_hex": "faffe5fffc",
+      "text_jp": "d<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 42,
+      "offset": 260416,
+      "length_bytes": 5,
+      "raw_hex": "fcffe6fffc",
+      "text_jp": "f<CMD_e6><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 43,
+      "offset": 260424,
+      "length_bytes": 5,
+      "raw_hex": "feffe8fffc",
+      "text_jp": "h<CMD_e8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 44,
+      "offset": 260440,
+      "length_bytes": 5,
+      "raw_hex": "fbfff9fffc",
+      "text_jp": "e<CMD_f9><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 45,
+      "offset": 260448,
+      "length_bytes": 5,
+      "raw_hex": "f5ffe8fffc",
+      "text_jp": "♂<CMD_e8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 46,
+      "offset": 260456,
+      "length_bytes": 5,
+      "raw_hex": "f4ffe6fffc",
+      "text_jp": "♀<CMD_e6><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 47,
+      "offset": 260464,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe5fffc",
+      "text_jp": "a<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 48,
+      "offset": 260472,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe4fffc",
+      "text_jp": "a<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 49,
+      "offset": 260480,
+      "length_bytes": 5,
+      "raw_hex": "ecffe4fffc",
+      "text_jp": "□<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 50,
+      "offset": 260488,
+      "length_bytes": 5,
+      "raw_hex": "ecffe5fffc",
+      "text_jp": "□<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 51,
+      "offset": 260496,
+      "length_bytes": 5,
+      "raw_hex": "efffe7fffc",
+      "text_jp": "▲<CMD_e7><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 52,
+      "offset": 260504,
+      "length_bytes": 5,
+      "raw_hex": "f0ffeafffc",
+      "text_jp": "※<CMD_ea><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 53,
+      "offset": 260816,
+      "length_bytes": 5,
+      "raw_hex": "feffe4fffc",
+      "text_jp": "h<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 54,
+      "offset": 260824,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe4fffc",
+      "text_jp": "a<CMD_e4><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 55,
+      "offset": 260832,
+      "length_bytes": 5,
+      "raw_hex": "f7ffe5fffc",
+      "text_jp": "a<CMD_e5><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 56,
+      "offset": 260840,
+      "length_bytes": 5,
+      "raw_hex": "f9ffe6fffc",
+      "text_jp": "c<CMD_e6><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 57,
+      "offset": 260848,
+      "length_bytes": 5,
+      "raw_hex": "fbffe8fffc",
+      "text_jp": "e<CMD_e8><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 58,
+      "offset": 260856,
+      "length_bytes": 5,
+      "raw_hex": "fbfffbfffc",
+      "text_jp": "e<CMD_fb><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 59,
+      "offset": 260864,
+      "length_bytes": 5,
+      "raw_hex": "fafffefffc",
+      "text_jp": "d<END><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 60,
+      "offset": 260872,
+      "length_bytes": 5,
+      "raw_hex": "f7fffffffc",
+      "text_jp": "a<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 61,
+      "offset": 260904,
+      "length_bytes": 5,
+      "raw_hex": "fefffefffc",
+      "text_jp": "h<END><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 62,
+      "offset": 260912,
+      "length_bytes": 5,
+      "raw_hex": "fdfffbfffc",
+      "text_jp": "g<CMD_fb><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 63,
+      "offset": 260920,
+      "length_bytes": 5,
+      "raw_hex": "fdffeafffc",
+      "text_jp": "g<CMD_ea><CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 64,
+      "offset": 267048,
+      "length_bytes": 8,
+      "raw_hex": "d8fffffff6ffffff",
+      "text_jp": "(<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 65,
+      "offset": 282132,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 66,
+      "offset": 282260,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 67,
+      "offset": 282388,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 68,
+      "offset": 282516,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 69,
+      "offset": 282644,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 70,
+      "offset": 282772,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 71,
+      "offset": 285840,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 72,
+      "offset": 287376,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 73,
+      "offset": 287504,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 74,
+      "offset": 287632,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 75,
+      "offset": 287760,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 76,
+      "offset": 287888,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    }
+  ]
+}

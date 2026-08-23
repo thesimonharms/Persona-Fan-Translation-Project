@@ -1,0 +1,175 @@
+{
+  "file": "D0F.BIN",
+  "type": "DUNGEON_NPC_DIALOGUE",
+  "total_strings": 21,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 35624,
+      "length_bytes": 6,
+      "raw_hex": "6afff6fe6aff",
+      "text_jp": "ニ<PAGE>hニ",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 35632,
+      "length_bytes": 4,
+      "raw_hex": "6afff6fe",
+      "text_jp": "ニ<PAGE>h",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 147036,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 147164,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 147292,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 147420,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 147548,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 147676,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 150744,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 152280,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 152408,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 152536,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 152664,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 152792,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 154572,
+      "length_bytes": 597,
+      "raw_hex": "9640404026268971ec2689b333333333336cb36c716c3371713371ecec267171402626898d40408d408d238d8d8d8d238d23ba23238dbaba23ba4b4b8dba4b93b2ffb254c4b2f6c4b29db28354ffc4ffc4f6c4fffffff6ffffc4a6ffffbdabffff0dfff745a6f7bd0d9bac45acababababefab213b5ebbef21bbe7bbbbe0e7b683848989892689ec71ec266d3333336c336c6c6c336c3333333371ecec2671718926ec268d89408d404040408d238d23238d232340234bba23234bba23baaaaec4c40a0a0ab2ff9d9db2b2b254c4f6ffb2f6ffffffbdffa6ffffabffffa6aba6a6abbdab45bdabababacac0d9b45abacacd09b213bd0d021bbd0a30a0a0ae727838b84ec2671713333ececce6c6d6cb36d6d51516dce6d336c6c3371337133337171ec7140ecec40898926894040408d40402323898d23238d8d4bba8daaf477ff0aff0a0a0a58ffc49d9dffc4ffff0dc4ffbdbda6abbdbdbdffababf7f7acab45abf74545ab9b2121bbbbabbb21213befd0ef05e75353d0e7270ae70a0a0aa10184305d713333336c33716c6dce6c518a51518a6d6dce6c6d6d3333333333b371333371897133262689ecec89268940404023232623238d408dbabaa7aaf494ff0a0aff0a0abdbdffffa6bdffa6a69bffabababababf7ab880d9b9b9bacbbac2145ab3befacefd0d0e7d0efe75ee7bbbbb65e53e727a1a3a3270a0a270a0a6101849adef33333336d333351ce8a6d51ce518a8a51ce516d6d516d33b36c6d6d716cb333ec33337171897133ec89892626898d8d898d238d408d2351f4aaaafcff0a0a0aff0af7abbda6a6bdfff7abacabacababab",
+      "text_jp": "ボぶぶぶよよジヘ□よジNごごごごごネNネヘネごヘヘごヘ□□よヘヘぶよよジダぶぶダぶダもダダダダもダもUももダUUもUぇぇダUぇビM<CMD_b2>オ4M!?4MィM強<CMD_c4><CMD_c4>!?4<PAGE><CMD_c4>A<CMD_bd>F<CMD_0d><CMD_f7>ぷAaXすポGぷGFFFF▲FむづコV▲むV&VV+&Q襟ジジジよジ□ヘ□よノごごごネごネネネごネごごごごヘ□□よヘヘジよ□よダジぶダぶぶぶぶダもダももダももぶもぇUももぇUもUEI44こここM<CMD_9d>ィMMMオ4!?<CMD_b2>!?<CMD_bd><CMD_a6><CMD_ab><CMD_a6>FAAFXFぷXFFFGGすポぷFGG?ポむづ??むV?ョこここ&ら倶栽よヘヘごご□□・ネノネNノノゎゎノ・ノごネネごヘごヘごごヘヘ□ヘぶ□□ぶジジよジぶぶぶダぶぶももジダももダダぇUダE♀モ<CMD_0a><CMD_0a>ここエ<CMD_c4>ィィ<CMD_c4><CMD_0d>4<CMD_bd>XAFXXX<CMD_ab>FaaGFぷFaぷぷFポむむVVFVむむづ▲?▲お&ノノ?&らこ&こここャあ枯ケヘごごごネごヘネノ・ネゎズゎゎズノノ・ネノノごごごごごNヘごごヘジヘごよよジ□□ジよジぶぶぶももよももダぶダUUBE♀ブ<CMD_0a>こ<CMD_0a>こXX<CMD_a6>X<CMD_a6>Aポ<CMD_ab>FFFFaFザすポポポGVGむぷFづ▲G▲??&?▲&コ&VVQコノ&らャョョらここらここスあ鉱【$ごごごノごごゎ・ズノゎ・ゎズズゎ・ゎノノゎノごNネノノヘネNご□ごごヘヘジヘご□ジジよよジダダジダもダぶダもゎ♀EEf<CMD_0a>ここ<CMD_0a>aFXAAX<CMD_f7>FGFGFFF",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 164108,
+      "length_bytes": 64,
+      "raw_hex": "f6ffc488a6bd0d0dfff6ff8888bdababbdab45abbd45bd9b883b219b21e4ac2105acac9b3b053be421e405e4a3d005e7e4e4d0a3a353a3b6a32424a124612761",
+      "text_jp": "!?<CMD_c4>ザAXすす<PAGE><CMD_88>ザXFFXFぷFXぷXポザづむポむ÷GむおGGポづおづ÷む÷お÷ョ?お&÷÷?ョョノョQョややャやスらス",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 164620,
+      "length_bytes": 64,
+      "raw_hex": "8b544fb29d9dfff6548b549dc49dfff6f6a6a6c4c4ffffff9da6bdffff0dbdff45a6ffbd0dab5888880d0d0d4588ab9b4588ab3b3b45ac9bbb27e7efb6d0d0b6",
+      "text_jp": "ゼオょMィィ<PAGE>オゼオィ4ィ<PAGE>!?AA44<CMD_9d>AX<CMD_0d>X<CMD_45>A<CMD_bd>すFエザザすすすぷザFポぷザFづづぷGポVら&▲Q??Q",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 165900,
+      "length_bytes": 64,
+      "raw_hex": "c5c5385fc7f3f314b72a04042ff239757565be3975be7db1a260b4f1ca0ea2cc60603131560ecc0e0e0ef10e0e5631b51d727239750909f514ffffc4fff6b22e",
+      "text_jp": "55ぞサ7$$とRれええが♡だムムチYだムYルLュシO=/せュ~シシぐぐイせ~せせせ=せせイぐPへホホだムけけ♂と<CMD_c4><PAGE>Mん",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 243841,
+      "length_bytes": 258,
+      "raw_hex": "202093f66e3b6cb8e64384d9a14b8cc787133c9cc04f9ae4c76cc4f311c7f38c57c77f7ed41fab933d92fc59e09dbcbcbceebd184e850fbb851dce71bb595c59564465790d6fd353ba52d35c527d166e70b059bb525cd31753ba560db24709506e835cd94ee5b04d05a0302f72727272727278125e35704f44935250db44506ff2f25244444c814486a0a051a89ea044b15c335e5a44514443661b81444444444d7f96225a8fe64366fa543434545eb1b18c34287f7ceaf0f09cd7e1447f814c4cd34352443444966628f018545e28d53aaa04275e84bac516bcba849c9cd73ac53a1e8f44ada86f4f4c4c4397446f68ea8626c12bb411081f131311bb1fbb75fffe",
+      "text_jp": "みみビ!?ハづネS#ぱ瑳ャぇゾ7逝でァ0ょペ÷7ネ4$ち7$ゾウ7ロレ-まFビどバfオ+ィWWW△Xねゅ昨V拶・ヘVオクオイぴチユすヒ<ノUヴ<クヴルにハフKオVヴク<ぬノUイすMぽけっハ況)ゅ%Kゃおォぎがホホホホホホヤつコじフょぴビヴっ」ぴっヒ♡♡ヴぴぴぉ尉伸ォゎCゥォぴLクごコカぴゎぴぱツひ尉ぴぴぴゃロボめカヅ#ぱツdオざざオコLLゾざりロリ○※※ァ…-ぴロ異ぉ<ぱヴぴざぴボツり※ねオコり,ぢEえらコ惚5にWU鋼ァ…ぢ5ぢほヅぴHCヒょぉぉぱパぴヒト○緒1ろOちくまててちVまVム<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "offset": 250242,
+      "length_bytes": 258,
+      "raw_hex": "bcbc304043b885d479d4e684dedec84087368f85e1c629293b48a98fa98fc8f74b9190501f1be09d806233bd4f24c0b02197071462596e5a7bd5060991b9354d526fb1700f7dbb7d7d7fd36cb2b1a77011d337ecf696852359666f091aae7e6f39b148b5a2cf8cd0fc1dd5daf54fb7b7b7b30e4f9d63446f6a6a6d6f8a4c8134cd648669f9f74cbd0c8a695251860dea1b93f9f9866f4f5a846e6ec613cfd15ee254fb54d144dd64d3e6d0bdf99d6d96cd66cd020e8f8f56e227aad7c53443f1d1e2e2aa04f1ad34f1cde535545484c6031516c4c5b0fdb285858585bbbe3b3bc59f3b056e3bbee15e8c960e504363219d2264c3e758d189b480ee9a26a526bcfffe",
+      "text_jp": "WWぎぶぱS需ユ-#坐【8ぶ舌ヅ終6るるづぁDヅDヅ8aぇドデっまひ+ィセごXょや0Kむパきとセオハカラ,かけドTじゃヴヒLフそルVルルロ<ネMLBフち<ぜ□!?ボ雑オツヒけはIレヒだLぁPュ。ゾ?fへ,「♂ょRRRNせょィソぴヒニニノヒズぉ庵.タ菖caぉXしズナヴゎ瞬○ひビcc証ょカ康ハ6て。!コ±オeオ!ぴ』タ<#?Xcィノボ.ツ.いせヅヅイ±らE…5ざぱ=!±±Eえ=Hざ=.%じオオ懇うなに45KgM蒔蒔VYづづ5ェづおハづY-コゾボせっぱソむィめタ3&エ!ジO△ペよヮよW<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "offset": 250497,
+      "length_bytes": 768,
+      "raw_hex": "bcfffe30454bc65684a3e68484dedef640b536b1f6561a718dc68745eb436a8727a35391d92920e0931b2eae4f065ce24f92c007021d0fac5a7bd50690916fd650a79038fbdfdc83358c59a6fbf775705d097550756a6b12f7128a6b83114daea7c0114814a2058c30fc1d0b4ff5b74fb7dab3229d216343c838c8a0684f44665466f9bdf9a8dd93f7bd69514444bd44448f344c5a7ff97f4c343b6ec504848c8cba5481fb4366444f8f33fbdc68b838968f9607f04f22e68ff0260404270e6334e228335e045e3584e5e2e54d2e97ff9009892784e01efdbbbebe5c9f3bbb3b3b3b3bbb3bbb6e8585d7e096509e9e607c4b4b6469dc41d1603f477759ef6f9afffdff4240d91a6e866d3edd43d4d9eb8ce1119df6f6f1f98d271350456dd8b8c64ba38d29c6209d5b8a2ee2e2d1d3d14fc1c007021ddfd45a7bd5714d6a6f134d098a126bdc3935131359388c8c70ae5d2626ac50386a35359f874c8a56664d0d91794814a9cf10d0fc1d97f5b7f5dbf5daa14b4b7c609e9ec85051f9a84481d00cf94c9ef7fbf70cea44648193f144d3818f50524dd034811b12056e5c84348cb1cd440c4f964c8ff026e5866f9d2296adfe076202c8f2f2f02e2e0796fc6bbac45428900454b1e21b5e34021840260e9272d712c4c76b853b85aa169f3b9f3b85bed76e3b6ebbbed7044df78a7c604b50023f3d6767d1241ee9597788a59a75feffa987507f3be6a34b84844327c81fe111b1c88566544b8c6c40878c571fc62953534b5320e0758abfe2baaf5cd35c7d8907021ddfac08680b0670916f134dae4cd691bf39fb1312dc83fbd65d597090a656706a91f86bcb874ce250bb4d99bfba981434cf8cd0fc1d97da4ff5f5daf5a102504b607c8abd4ca88f8fcd3566bd44448abd0c640cea93f193f7934d6643f24f506654514466e5120513547f838c44660ccb075e34cfc5d0704c5a47da8f5756fe0e4cf21b35184ab06b1e27c407c7d5e5e2b1546633aa1e96545eaa3e10c43bbb5cd7b79f3b9f5c5c9fbe9fbbbe85be6e056e3bd7ba96f944444faec80838643d8b24fc6b9a4759599a9a9a",
+      "text_jp": "W<END>ぎぷぇ6イ剛#硬【【!?ぶPずL!?イはヘダ6泉●ぱニ赤ョノド)るみ+ビひんIょかク±ょバ0きいへそGカラ,かデドヒ'っBデぞe】『去ゾオAeaムフケけムっムニヌつaつズヌ喫ゃIB0ちぁとュおゾぎfへさょ♂RょR「Nめィむソぱ8ぞ8ォトょぴツオツcXcC』ビaXナゎぴぴXぴぴヅざぉカロcロぉざづハ5え考ゾUオ歌ぱツぴょヅごe『トSぞボヅボき※ょめ#ヅ※よええらせソざ±りごコえコじ哉±%ゃんパ<CMD_90>けジら挫ほgVYYクェづVづづづづVづVハ蒔…+ボっゥゥシリぇぇタナ『べ!シびぽモオ▲ヒペ<CHOICE id=255>ぼぶ)はハ裳ば』ぱ-)●ゾ-ちィ!?!?=cダらてっぷノ(S6ぇョダる6みィキズん±±!<!ょ10きいへ】-カラ,ヘゃニヒてゃけズつヌ『だじててオぞゾゾフIケよよGっぞニじじェ旋ズイツゃすドユぁとD。た?fへパ♂R♂」♂「ャぇぇリシゥゥ8っゎcCぴ横しcぉゥaeaし○ぴタ営=ぴ<雲っヴゃ?ざ葵つおハク袴ゾL.ぴしょボぉヅ※よ%証ィめボHhきセい8♡♡※んんきボfヌU4オりデえオL±ひコざいねぶよせバホ…つ47ヌ酸煮にェづェづ弱…ハづハVY…えゃaズリシぇっいびどテテ!やほ★オモザヮペムh<CMD_a9>繊ロづ#ョぇ硬ぱら8ま-ちL8視オぇゾネぶ掃ウま6るノノぇノみ+ムズZ±UJク<クルジきいへ】GくトさかフドヒてゃIぉ'ドZだeてつ『堅'ケオフデAイフニドbヌ:旋±っVゃプZUピとざ。ゾ?fへパ「ょ♂♂「♂ャいっぇシリズXぉCヅヅ.じツXぴぴズXしタし○ビ=ビaビゃツぱ♡ょっツオゎぴツ%つおてオロ句ぴツし:きコざ。5?フぉカぽ「ヅウイhせぉ♡ひじねぅKヌほら4き7,%±LオツごEほボオコEばた4づVク…RェづェククェYェVY弱ハおハづ…UボcぴぴょI8くぞタどゼやfヌペぽオオペペペ",
+      "translation_en": ""
+    }
+  ]
+}

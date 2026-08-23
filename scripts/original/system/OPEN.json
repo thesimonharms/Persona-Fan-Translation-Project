@@ -1,0 +1,279 @@
+{
+  "file": "OPEN.BIN",
+  "type": "SYSTEM_AND_MINIGAMES",
+  "total_strings": 34,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 307650,
+      "length_bytes": 15,
+      "raw_hex": "30ef12fff32ee13fd04fdf21df0346",
+      "text_jp": "ぎ▲つ<CMD_f3>ん-び?ょ】む】うぺ",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 308338,
+      "length_bytes": 15,
+      "raw_hex": "1ce65ac52fe21ffff3fd02fd01f147",
+      "text_jp": "ふ#カ5が±ま<CMD_f3>gいgあ=ぽ",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 311008,
+      "length_bytes": 14,
+      "raw_hex": "1604e90f1110103222101102fffe",
+      "text_jp": "にえ★そちたたげめたちい<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 314834,
+      "length_bytes": 6,
+      "raw_hex": "2fdde41dfffe",
+      "text_jp": "が』÷へ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 315106,
+      "length_bytes": 11,
+      "raw_hex": "4ef25f0e02e24ede02fffe",
+      "text_jp": "ゅ♡サせい±ゅ【い<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 317090,
+      "length_bytes": 15,
+      "raw_hex": "4df002f53efff31f1da25eedf1f045",
+      "text_jp": "ゃ※い♂ば<CMD_f3>まへュコ■=※ぷ",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 318372,
+      "length_bytes": 13,
+      "raw_hex": "f10f22fff54f212f121ff30f45",
+      "text_jp": "=そめ<LINE>ょむがつま$そぷ",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 319074,
+      "length_bytes": 7,
+      "raw_hex": "c0bffbc2ecfffc",
+      "text_jp": "0Ze2□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 319922,
+      "length_bytes": 15,
+      "raw_hex": "e52e2013c3501ffee12ebff2fffd46",
+      "text_jp": "%んみて3っまh-んZ♡<CHOICE id=70>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 320994,
+      "length_bytes": 4,
+      "raw_hex": "f53d403f",
+      "text_jp": "♂どぶび",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 321346,
+      "length_bytes": 15,
+      "raw_hex": "f121fd21e010ff11f010fff31e0e47",
+      "text_jp": "=むgむ+た<CMD_11>※た<CMD_f3>ほせぽ",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 321730,
+      "length_bytes": 5,
+      "raw_hex": "dbc0f1fffc",
+      "text_jp": "」0=<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 321826,
+      "length_bytes": 9,
+      "raw_hex": "03202f0220fff311e0",
+      "text_jp": "うみがいみ<CMD_f3>ち+",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 325074,
+      "length_bytes": 7,
+      "raw_hex": "121f2e121ffff3",
+      "text_jp": "つまんつま<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 326501,
+      "length_bytes": 12,
+      "raw_hex": "e2120fd30110fffd112bdf29",
+      "text_jp": "±つそ<あた<CHOICE id=17>ろ】る",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 326722,
+      "length_bytes": 12,
+      "raw_hex": "11623eb0611ee0c10fe0fffe",
+      "text_jp": "ちセばKスほ+1そ+<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 328914,
+      "length_bytes": 15,
+      "raw_hex": "1fe1e4500e021fe3f1d2fff530294b",
+      "text_jp": "ま-÷っせいま×=*<LINE>ぎるぇ",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 329394,
+      "length_bytes": 15,
+      "raw_hex": "f0e11e1e110f01e1042ffff54c0e4b",
+      "text_jp": "※-ほほちそあ-えが<LINE>ぉせぇ",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 331042,
+      "length_bytes": 4,
+      "raw_hex": "ddeefffe",
+      "text_jp": "』△<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "offset": 338850,
+      "length_bytes": 15,
+      "raw_hex": "1e266ef54fd32fef0dcfffdefffd24",
+      "text_jp": "ほよハ♂ょ<が▲す。<CMD_de><CHOICE id=36>",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "offset": 340098,
+      "length_bytes": 8,
+      "raw_hex": "2b2301f11e01fffe",
+      "text_jp": "ろもあ=ほあ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 21,
+      "offset": 344386,
+      "length_bytes": 15,
+      "raw_hex": "1e21fff3fd22db13cd32ec32fd3225",
+      "text_jp": "ほむ<CMD_f3>gめ」て.げ□げgげゆ",
+      "translation_en": ""
+    },
+    {
+      "id": 22,
+      "offset": 345979,
+      "length_bytes": 4,
+      "raw_hex": "f0effffe",
+      "text_jp": "※▲<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 23,
+      "offset": 346866,
+      "length_bytes": 15,
+      "raw_hex": "0201fffdf2eed23dd320f121f0214a",
+      "text_jp": "いあ<CHOICE id=242>△*ど<み=む※むぅ",
+      "translation_en": ""
+    },
+    {
+      "id": 24,
+      "offset": 354866,
+      "length_bytes": 15,
+      "raw_hex": "0ee12fb03edef2fee2ff0ffff32e48",
+      "text_jp": "せ-がKば【♡h±<CMD_0f><CMD_f3>んぁ",
+      "translation_en": ""
+    },
+    {
+      "id": 25,
+      "offset": 356162,
+      "length_bytes": 7,
+      "raw_hex": "e323e0f211fffe",
+      "text_jp": "×も+♡ち<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 26,
+      "offset": 357570,
+      "length_bytes": 7,
+      "raw_hex": "11d0f2401efffe",
+      "text_jp": "ち?♡ぶほ<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 27,
+      "offset": 363522,
+      "length_bytes": 14,
+      "raw_hex": "01dca1d0f11f526f2f10b2ebfffe",
+      "text_jp": "あ『ャ?=まヴヒがたM●<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 28,
+      "offset": 364018,
+      "length_bytes": 15,
+      "raw_hex": "11fff30ded0f1141114f1d01dfd025",
+      "text_jp": "ち<CMD_f3>す■そちべちょへあ】?ゆ",
+      "translation_en": ""
+    },
+    {
+      "id": 29,
+      "offset": 365122,
+      "length_bytes": 9,
+      "raw_hex": "1c32012301010efffc",
+      "text_jp": "ふげあもああせ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 30,
+      "offset": 365141,
+      "length_bytes": 9,
+      "raw_hex": "dfc0ff424ff024fffe",
+      "text_jp": "】0<CMD_42>ょ※や<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 31,
+      "offset": 365394,
+      "length_bytes": 8,
+      "raw_hex": "11f332f01eeffffe",
+      "text_jp": "ち$げ※ほ▲<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 32,
+      "offset": 370642,
+      "length_bytes": 15,
+      "raw_hex": "eefffd1f1e0330121ee21cf00c0148",
+      "text_jp": "△<CHOICE id=31>ほうぎつほ±ふ※しあぁ",
+      "translation_en": ""
+    },
+    {
+      "id": 33,
+      "offset": 371410,
+      "length_bytes": 6,
+      "raw_hex": "fd2f0e222cd4",
+      "text_jp": "gがせめわ-",
+      "translation_en": ""
+    }
+  ]
+}
