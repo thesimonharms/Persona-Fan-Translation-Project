@@ -261,7 +261,7 @@ DEMON_ARCHETYPES: Dict[str, Dict[str, Any]] = {
         "templates": [
             "Teehee~! Are you here to play with me?<CLOSE><PAGE>Don't be boring, okay? Let's have fun!",
             "!?Yay! You're super funny!<LINE>Tell me a funny joke right now!<PAGE>Hehehe!",
-            "La la la~♪<CHOICE id=0><LINE>Do you like pretty flowers and magic?<CLOSE><PAGE>Let's play tag in the forest!",
+            "La la la~~<CHOICE id=0><LINE>Do you like pretty flowers and magic?<CLOSE><PAGE>Let's play tag in the forest!",
             "!?Mean meanie!<LINE>I hate you! You're no fun at all!<CLOSE>I'm gonna zap you with my magic!",
             "!?Aww, you're so sweet!<CHOICE id=1><LINE>Hehehe, I like you a lot!<CLOSE><PAGE>Let's be best friends forever!",
             "Sparkle sparkle~! Magic is the best!<LINE>Look at my pretty wings!<PAGE>Teehee~!",

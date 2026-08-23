@@ -9,7 +9,7 @@
       "length_bytes": 4,
       "raw_hex": "71fffdff",
       "text_jp": "ヘ<CHOICE id=255>",
-      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room?<PAGE>They say whoever wears it is<LINE>cursed to die on stage...<PAGE>It's so terrifying!"
     },
     {
       "id": 1,
@@ -17,7 +17,7 @@
       "length_bytes": 4,
       "raw_hex": "77fffdff",
       "text_jp": "モ<CHOICE id=255>",
-      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+      "translation_en": "The principal has locked all the<LINE>school gates!<LINE>Nobody can leave St. Hermelin<PAGE>High until the demon crisis is<LINE>resolved.<PAGE>What are we going to do?!"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "length_bytes": 6,
       "raw_hex": "6eff71fffdff",
       "text_jp": "ハ<CMD_71><CHOICE id=255>",
-      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways.<PAGE>Please stay safe out there."
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "length_bytes": 5,
       "raw_hex": "6eff74fffc",
       "text_jp": "ハ<CMD_74><CLOSE>",
-      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section.<PAGE>Be careful around the occult<LINE>books. <CLOSE>"
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "length_bytes": 6,
       "raw_hex": "6eff77fffdff",
       "text_jp": "ハ<CMD_77><CHOICE id=255>",
-      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district!<PAGE>They claim it's an industrial<LINE>accident, but we all saw the<LINE>dimensional portal!"
     },
     {
       "id": 5,
@@ -49,7 +49,7 @@
       "length_bytes": 6,
       "raw_hex": "6afff6fe6aff",
       "text_jp": "ニ<PAGE>hニ",
-      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General...<PAGE>Her mother works as a chief<LINE>engineer at SEBEC, doesn't she?"
     },
     {
       "id": 6,
@@ -65,7 +65,7 @@
       "length_bytes": 11,
       "raw_hex": "9077a97aa7aa7aaaf0fffe",
       "text_jp": "デモDヨBEヨE※<END>",
-      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler.<LINE>Here, we assist with the fusion<PAGE>and creation of new Personas.<PAGE>The possibilities of the soul<LINE>are limitless."
     },
     {
       "id": 8,
@@ -73,7 +73,7 @@
       "length_bytes": 11,
       "raw_hex": "9077797777aa77a7f0fffe",
       "text_jp": "デモユモモEモB※<END>",
-      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System.<LINE>He intends to overwrite our<PAGE>reality with a world of his own<LINE>design!<PAGE>You must stop him at all costs!"
     },
     {
       "id": 9,
@@ -81,7 +81,7 @@
       "length_bytes": 11,
       "raw_hex": "9077797a77aa97a7f0fffe",
       "text_jp": "デモユヨモEパB※<END>",
-      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus!<LINE>If we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
     },
     {
       "id": 10,
@@ -89,7 +89,7 @@
       "length_bytes": 11,
       "raw_hex": "9077797777aa7aa7f0fffe",
       "text_jp": "デモユモモEヨB※<END>",
-      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower...<LINE>Each tower is guarded by a<PAGE>manifestation of human regret<LINE>and sorrow.<PAGE>Steel your resolve, Persona<LINE>users!"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "length_bytes": 11,
       "raw_hex": "f0777977777777a7f0fffe",
       "text_jp": "※モユモモモモB※<END>",
-      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room?<PAGE>They say whoever wears it is<LINE>cursed to die on stage...<PAGE>It's so terrifying!"
     },
     {
       "id": 12,
@@ -105,7 +105,7 @@
       "length_bytes": 11,
       "raw_hex": "90997977a77aaaaaf0fffe",
       "text_jp": "デプユモBヨEE※<END>",
-      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+      "translation_en": "The principal has locked all the<LINE>school gates!<LINE>Nobody can leave St. Hermelin<PAGE>High until the demon crisis is<LINE>resolved.<PAGE>What are we going to do?!"
     },
     {
       "id": 13,
@@ -113,7 +113,7 @@
       "length_bytes": 11,
       "raw_hex": "1111111199f9ff9ff0fffe",
       "text_jp": "ちちちちプc<CMD_9f>※<END>",
-      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways.<PAGE>Please stay safe out there."
     },
     {
       "id": 14,
@@ -121,7 +121,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section.<PAGE>Be careful around the occult<LINE>books. <CLOSE>"
     },
     {
       "id": 15,
@@ -129,7 +129,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district!<PAGE>They claim it's an industrial<LINE>accident, but we all saw the<LINE>dimensional portal!"
     },
     {
       "id": 16,
@@ -137,7 +137,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General...<PAGE>Her mother works as a chief<LINE>engineer at SEBEC, doesn't she?"
     },
     {
       "id": 17,
@@ -153,7 +153,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler.<LINE>Here, we assist with the fusion<PAGE>and creation of new Personas.<PAGE>The possibilities of the soul<LINE>are limitless."
     },
     {
       "id": 19,
@@ -161,7 +161,7 @@
       "length_bytes": 603,
       "raw_hex": "9640404026268971ec2689b333333333336cb36c716c3371713371ecec267171402626898d40408d408d238d8d8d8d238d23ba23238dbaba23ba4b4b8dba4b93b2f6b254f6b2f69db2b2b25454f69dff9df69df6f6ffc4ffffc4a6fff6bdf7fff6bdf6f788a6f7bdbd9bac889bf7f7ababbbab213bbbbb2121bbe73bbba3d0b683848989892689ec71ec266d3333336c336c6c6c336c3333333371ecec2671718926ec268d89408d404040408d238d23238d232340234bba23234bba23baaaae9d9d0a0a0ab2ff9d9db2b2b254c4f6f6b2f6f6fff6bdf6fff6f6abffffa6f7a6a6abbdf788bdf7f7abacacbd9b9b88acacbb9b213bd0d021bbd0a30a0a0ae7e0838b84ec2671713333ececce6c6d6cb36d6d51516dce6d336c6c3371337133337171ec7140ecec40898926894040408d40402323898d23238d8d4bba8daaf477f60af60a0a0abdffc49db2ffc4f6ffbdc4ffbdbda6abbdbdbdffabf7bdf79bab88f7f78888ab9b2121bb3bab3b21213b21bb21d0e753b6d0e7e00ae70a0a0aa10184305d713333336c33716c6dce6c518a51518a6d6dce6c6d6d3333333333b371333371897133262689ecec89268940404023232623238d408dbabaa7aaf494ff0a0aff0a0abdbdfff6bdbdf6a6a69bffabababababbdf788bd9b9b9bacbbac2188883b21ac21bbd0e7d03be75ee7bbbbb6bb53d0e0a1a3a3e00a0ae00a0a6101849adef33333336d333351ce8a6d51ce518a8a51ce516d6d516d33b36c6d6d716cb333ec33337171897133ec89892626898d8d898d238d408d2351f4aaaafcff0a0a0aff0af7f7bda6a6bdffbdf7acabacababf721abab9bf7ac",
       "text_jp": "ボぶぶぶよよジヘ□よジNごごごごごネNネヘネごヘヘごヘ□□よヘヘぶよよジダぶぶダぶダもダダダダもダもUももダUUもUぇぇダUぇビM!?Mオ!?M!?ィMMMオオ!?ィ<CMD_9d>!?ィ!?!?<CMD_c4><CMD_c4>A<PAGE>Xa<PAGE>X!?aザAaXXポGザポaaFFVFむづVVむむV&づVョ?Q襟ジジジよジ□ヘ□よノごごごネごネネネごネごごごごヘ□□よヘヘジよ□よダジぶダぶぶぶぶダもダももダももぶもぇUももぇUもUEIィィこここM<CMD_9d>ィMMMオ4!?!?M!?!?<PAGE>X!?<PAGE>!?F<CMD_a6>aAAFXaザXaaFGGXポポザGGVポむづ??むV?ョこここ&+倶栽よヘヘごご□□・ネノネNノノゎゎノ・ノごネネごヘごヘごごヘヘ□ヘぶ□□ぶジジよジぶぶぶダぶぶももジダももダダぇUダE♀モ!?こ!?こここX<CMD_c4>ィM<CMD_c4>!?<CMD_bd>4<CMD_bd>XAFXXX<CMD_ab>aXaポFザaaザザFポむむVづFづむむづむVむ?&ノQ?&+こ&こここャあ枯ケヘごごごネごヘネノ・ネゎズゎゎズノノ・ネノノごごごごごNヘごごヘジヘごよよジ□□ジよジぶぶぶももよももダぶダUUBE♀ブ<CMD_0a>こ<CMD_0a>こXX<PAGE>XX!?AAポ<CMD_ab>FFFFXaザXポポポGVGむザザづむGむV?&?づ&コ&VVQVノ?+ャョョ+ここ+ここスあ鉱【$ごごごノごごゎ・ズノゎ・ゎズズゎ・ゎノノゎノごNネノノヘネNご□ごごヘヘジヘご□ジジよよジダダジダもダぶダもゎ♀EEf<CMD_0a>ここ<CMD_0a>aaXAAX<CMD_bd>aGFGFFaむFFポaG",
-      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System.<LINE>He intends to overwrite our<PAGE>reality with a world of his own<LINE>design!<PAGE>You must stop him at all costs!"
     },
     {
       "id": 20,
@@ -169,7 +169,7 @@
       "length_bytes": 64,
       "raw_hex": "f6ff3c0da6bdbdbdfff6ff0d0dbd88abbdab88abbd9bbd9b0d3b219b21d09b21d09b9b9b3bd03b5e21d0d05e53d0d0e75e5ed053535353b6536124a124a1e0a1",
       "text_jp": "!?<CMD_3c>すAXXX<PAGE><CMD_0d>すXザFXFザFXポXポすづむポむ?ポむ?ポポポづ?づコむ??コノ??&ココ?ノノノノQノスやャやャ+ャ",
-      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus!<LINE>If we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
     },
     {
       "id": 21,
@@ -177,7 +177,7 @@
       "length_bytes": 64,
       "raw_hex": "54b201f69dc4a6a6b254b2c4c4c4a6683cbda6fff6bdffbd9dbdbdffbd9bbdff9bbdffbd889b0d9b9b9b9b9b5e0dbd21219b9b5e5e5e2121b6a3b6e753b6d0a3",
       "text_jp": "オMあ!?ィ4AAMオM444AトでXA<PAGE>X<CMD_bd>ィXX<CMD_bd>ポX<CMD_9b>X<CMD_bd>ザポすポポポポポコすXむむポポコココむむQョQ&ノQ?ョ",
-      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower...<LINE>Each tower is guarded by a<PAGE>manifestation of human regret<LINE>and sorrow.<PAGE>Steel your resolve, Persona<LINE>users!"
     },
     {
       "id": 22,
@@ -185,7 +185,7 @@
       "length_bytes": 64,
       "raw_hex": "8b544fb29d9df6f6540154b2c49df6f6f6a6ffc49dfff6ff3ca6bdffff0dbdff88a6f6bd0d88bd0d88bd0d0d9b0d889b880dab3b3b9b9b9b3ba3d021b6bbbbb6",
       "text_jp": "ゼオょMィィ!?!?オあオM4ィ!?!?!?A<CMD_c4>ィ<PAGE><CMD_3c>AX<CMD_0d>X<CMD_88>A!?XすザXすザXすすポすザポザすFづづポポポづョ?むQVVQ",
-      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room?<PAGE>They say whoever wears it is<LINE>cursed to die on stage...<PAGE>It's so terrifying!"
     },
     {
       "id": 23,
@@ -193,7 +193,7 @@
       "length_bytes": 64,
       "raw_hex": "c5c5385f19f3f314b72a04042ff239750965753975be7dbea260b4f1ca0e569c6060b4b4560e600e0e0e0e0e0e99b4b472723939750909fe14fff6c4f6f6b2ff",
       "text_jp": "55ぞサの$$とRれええが♡だムけチムだムYルYュシO=/せイァシシOOイせシせせせせせせプOOホホだだムけけhと<PAGE>4!?!?M",
-      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+      "translation_en": "The principal has locked all the<LINE>school gates!<LINE>Nobody can leave St. Hermelin<PAGE>High until the demon crisis is<LINE>resolved.<PAGE>What are we going to do?!"
     },
     {
       "id": 24,
@@ -201,7 +201,7 @@
       "length_bytes": 5,
       "raw_hex": "fdfd4a4a4a",
       "text_jp": "ggぅぅぅ",
-      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways.<PAGE>Please stay safe out there."
     },
     {
       "id": 25,
@@ -209,7 +209,7 @@
       "length_bytes": 208,
       "raw_hex": "0e7e88fddede1d88357e7e7e7e7e7e7e7e7e7e7e7e35357e7e7e7e35357e7e7e0e7e7e3535353535353535883588353535883535353535353535358888f2f21df21d1ddedede4a4afdfdfdfffffdfd4a4adede1df2f2353535353588353535357e353535353535883588f288f21d1dde4a4afdfdfdfffdfdfd4a4a4adede1d1d1d8888888835883588353535353535357e7e35353535353535353588353535350e7e35358888888888f2f2f2888888f2f21df2f2f2f2f21d1dde4afdff1d887e1e1e5ded48d2e9c9a4306abfc87b7b86",
       "text_jp": "せレザg【【へザじレレレレレレレレレレレレじじレレレレじじレレレせレレじじじじじじじじザじザじじじザじじじじじじじじじザザ♡♡へ♡へへ【【【ぅぅggg<CHOICE id=253>ぅぅ【【へ♡♡じじじじじザじじじじレじじじじじじザじザ♡ザ♡へへ【ぅぅggg<CHOICE id=253>gぅぅぅ【【へへへザザザザじザじザじじじじじじじレレじじじじじじじじじザじじじじせレじじザザザザザ♡♡♡ザザザ♡♡へ♡♡♡♡♡へへ【ぅg<CMD_1d>ザレほほケ■ぁ*★9ッぎニZ8ララ",
-      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section.<PAGE>Be careful around the occult<LINE>books. <CLOSE>"
     },
     {
       "id": 26,
@@ -217,7 +217,7 @@
       "length_bytes": 4,
       "raw_hex": "fdfdfd4a",
       "text_jp": "gggぅ",
-      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district!<PAGE>They claim it's an industrial<LINE>accident, but we all saw the<LINE>dimensional portal!"
     },
     {
       "id": 27,
@@ -225,7 +225,7 @@
       "length_bytes": 161,
       "raw_hex": "7e881dff4a4adede1df28888f28888358835f2f2f21d1df288f2f2f2f2f288357e358888f2f2f2f2f2f21df2f2f2f21df2f2f21d1d1d1df2f2f2f21d1d1d1dde1ddedede4a4a4afdfdfffffffffffffd4a4adedede1d1d1df2f2f2f2f2f2f2f2f2f28888f2f21d1d1d1d1d1d1ddede4a4afdfdfffffffffffdfdfd4a4a4adedede1d1d1d1d1df2f2f2f2f2f21df2f288f288f2f2f21d1df2f2f21df2f2f2883512",
       "text_jp": "レザへ<CMD_4a>ぅ【【へ♡ザザ♡ザザじザじ♡♡♡へへ♡ザ♡♡♡♡♡ザじレじザザ♡♡♡♡♡♡へ♡♡♡♡へ♡♡♡へへへへ♡♡♡♡へへへへ【へ【【【ぅぅぅgg<CHOICE id=74>ぅ【【【へへへ♡♡♡♡♡♡♡♡♡♡ザザ♡♡へへへへへへへ【【ぅぅgg<CHOICE id=253>gぅぅぅ【【【へへへへへ♡♡♡♡♡♡へ♡♡ザ♡ザ♡♡♡へへ♡♡♡へ♡♡♡ザじつ",
-      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General...<PAGE>Her mother works as a chief<LINE>engineer at SEBEC, doesn't she?"
     },
     {
       "id": 28,
@@ -241,7 +241,7 @@
       "length_bytes": 216,
       "raw_hex": "ee92a24040e09749cd2fa2300b0b709efffffffffd4adede1d1d1df2f288358802f91f7475edb3592b2b062b062bc44141c4ea4e41c4c441c441c441c42b062b2b2bfe2b2b64ef5c278337e131e434c1151e18e15c0dc367066bbadbb5184bb2e0299cda66c92dbbf1efef5d5dd75db9e14f4fe14f4fe14f90e14fe19090e14fe14fe14f5db95db9b9b95db5b5aeacacae7c7c05efc6e16060f0595959595975c9c173c9d076bcd58a423d3d4f98983535e7e769696936363636b1b1b1b1e277b17738383838ea38ea65c4c465eab1e74ff086cccccc23a1",
       "text_jp": "△バュぶぶ+パぃ.がュぎささフゥ<CHOICE id=74>【【へへへ♡♡ザじザいcまミム■Nオろろかろかろ4べべ4○ゅべ44べ4べ4べ4ろかろろろhろろタ▲クら巨-ぐ÷ざ1なほね-クす3テかヌU」PねぇM+るァ「ツ9をV=▲▲ケケ…ケT-ょょ-ょょ-ょデ-ょ-デデ-ょ-ょ-ょケTケTTTケPPIGGIリリお▲6-シシ※オオオオオム91マ9?メW,ズぼどどょピピじじ&&ナナナずずずずLLLL±モLモぞぞぞぞ○ぞ○チ44チ○L&ょ※靭~~もャ",
-      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler.<LINE>Here, we assist with the fusion<PAGE>and creation of new Personas.<PAGE>The possibilities of the soul<LINE>are limitless."
     }
   ]
 }

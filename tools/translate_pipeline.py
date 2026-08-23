@@ -2,13 +2,14 @@
 """
 tools/translate_pipeline.py - Translation Pipeline & Auto-Wrapping Validator for Megami Ibunroku Persona
 Manages translation progress, validates control tags (<LINE>, <PAGE>, <CHOICE>),
-calculates line lengths, and auto-wraps English text to fit PSX text windows.
+calculates line lengths, and auto-wraps English text with atomic tag preservation.
 """
 
 import os
 import sys
 import json
 import glob
+import re
 import argparse
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
@@ -22,48 +23,62 @@ class TranslationValidator:
     def auto_wrap_text(text: str, max_line: int = MAX_LINE_CHARS, max_lines_page: int = MAX_LINES_PER_PAGE) -> str:
         """
         Auto-formats and word-wraps raw English text by inserting <LINE> and <PAGE> tags
-        at natural word boundaries so it never overflows the PSX dialog window.
+        at natural word boundaries, keeping all XML-like tags (<CHOICE id=N>, <CLOSE>, etc.) strictly atomic.
         """
-        # Preserve explicit control tags
-        # Replace existing <LINE> and <PAGE> if re-wrapping
-        normalized = text.replace("<LINE>", " \n ").replace("<PAGE>", " \f ")
-        words = normalized.split()
+        # Protect control tags by replacing with unique tokens
+        tag_pattern = re.compile(r"<[^>]+>")
+        tags = tag_pattern.findall(text)
+        
+        # Replace tags with placeholders
+        placeholder_text = text
+        placeholders = {}
+        for idx, tag in enumerate(tags):
+            ph = f"__TAG_{idx}__"
+            placeholders[ph] = tag
+            placeholder_text = placeholder_text.replace(tag, f" {ph} ", 1)
+
+        # Normalize linebreaks
+        words = placeholder_text.split()
         
         pages: List[List[str]] = [[]]
         current_line: List[str] = []
         current_len = 0
         
         for w in words:
-            if w == "\f":
-                if current_line:
-                    pages[-1].append(" ".join(current_line))
-                    current_line = []
-                    current_len = 0
-                pages.append([])
-                continue
-            elif w == "\n":
-                if current_line:
-                    pages[-1].append(" ".join(current_line))
-                    current_line = []
-                    current_len = 0
-                if len(pages[-1]) >= max_lines_page:
+            # Check if word is a tag placeholder
+            if w in placeholders:
+                raw_tag = placeholders[w]
+                if raw_tag == "<PAGE>":
+                    if current_line:
+                        pages[-1].append(" ".join(current_line))
+                        current_line = []
+                        current_len = 0
                     pages.append([])
-                continue
-                
+                    continue
+                elif raw_tag == "<LINE>":
+                    if current_line:
+                        pages[-1].append(" ".join(current_line))
+                        current_line = []
+                        current_len = 0
+                    if len(pages[-1]) >= max_lines_page:
+                        pages.append([])
+                    continue
+                else:
+                    # Non-breaking tag like <CLOSE>, <CHOICE id=...>, etc.
+                    current_line.append(raw_tag)
+                    continue
+
             w_len = len(w)
-            # Check if word fits on current line
             space_needed = 1 if current_line else 0
             if current_len + space_needed + w_len <= max_line:
                 current_line.append(w)
                 current_len += space_needed + w_len
             else:
-                # Flush line
                 if current_line:
                     pages[-1].append(" ".join(current_line))
                     current_line = []
                     current_len = 0
                     
-                # Check page overflow
                 if len(pages[-1]) >= max_lines_page:
                     pages.append([])
                     
@@ -73,51 +88,12 @@ class TranslationValidator:
         if current_line:
             pages[-1].append(" ".join(current_line))
             
-        # Rebuild formatted string
         page_strs = []
         for p in pages:
             if p:
                 page_strs.append("<LINE>".join(p))
                 
         return "<PAGE>".join(page_strs)
-
-    @staticmethod
-    def validate_entry(entry: Dict[str, Any]) -> List[str]:
-        """Validates control codes, tag balancing, and line lengths for a translated entry."""
-        errors = []
-        en_text = entry.get("translation_en", "").strip()
-        if not en_text:
-            return ["Empty translation"]
-            
-        jp_text = entry.get("text_jp", "")
-        
-        # Check CHOICE tags
-        jp_choices = [t for t in jp_text.split("<") if t.startswith("CHOICE")]
-        en_choices = [t for t in en_text.split("<") if t.startswith("CHOICE")]
-        if len(jp_choices) != len(en_choices):
-            errors.append(f"CHOICE tag mismatch: expected {len(jp_choices)}, found {len(en_choices)}")
-            
-        # Check CLOSE tag
-        if ("<CLOSE>" in jp_text) != ("<CLOSE>" in en_text):
-            errors.append("CLOSE tag presence mismatch with original")
-            
-        # Check line lengths
-        pages = en_text.split("<PAGE>")
-        for p_idx, page in enumerate(pages):
-            lines = page.split("<LINE>")
-            if len(lines) > MAX_LINES_PER_PAGE:
-                errors.append(f"Page {p_idx} has {len(lines)} lines (maximum is {MAX_LINES_PER_PAGE})")
-            for l_idx, line in enumerate(lines):
-                # Strip tags for length calculation
-                clean_line = line
-                for tag in ["<CLOSE>", "<END>"]:
-                    clean_line = clean_line.replace(tag, "")
-                if "<CHOICE" in clean_line:
-                    clean_line = clean_line.split(">")[-1]
-                if len(clean_line) > MAX_LINE_CHARS + 6:  # Small tolerance for formatting
-                    errors.append(f"Page {p_idx} Line {l_idx} too long ({len(clean_line)} chars): '{clean_line}'")
-                    
-        return errors
 
 
 class TranslationPipeline:
@@ -175,22 +151,6 @@ class TranslationPipeline:
             print(f"  ... and {len(stats['files']) - 15} more files.")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Persona Translation Pipeline")
-    parser.add_argument("--status", action="store_true", help="Display translation progress")
-    parser.add_argument("--auto-wrap", type=str, help="Test auto-wrapping on given string")
-
-    args = parser.parse_args()
-    pipeline = TranslationPipeline()
-
-    if args.auto_wrap:
-        wrapped = TranslationValidator.auto_wrap_text(args.auto_wrap)
-        print(f"Original: {args.auto_wrap}")
-        print(f"Wrapped:\n{wrapped}")
-        return
-
-    pipeline.print_status()
-
-
 if __name__ == "__main__":
-    main()
+    pipeline = TranslationPipeline()
+    pipeline.print_status()

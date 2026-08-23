@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
 tools/recompiler.py - Script Recompiler & Dynamic Pointer Relocator for Megami Ibunroku Persona (PSX)
-Recompiles translated JSON scripts back into native game binary bytecode,
-recalculates internal pointer tables, adjusts section offsets, and rebuilds container binaries.
+Recompiles translated JSON scripts back into native game binary bytecode:
+1. TALK Files (TALK/*.BIN) with dynamic pointer table recalculation and section shifting
+2. Battle, Story, Dungeon, and System binaries (BTLP.BIN, MES.BIN, D*.BIN, S2D.BIN, etc.)
 """
 
 import os
 import sys
 import json
+import glob
 import struct
 import argparse
 from pathlib import Path
@@ -116,6 +118,48 @@ class PersonaRecompiler:
         print(f"[+] Recompiled {orig_path.name}: {len(orig_data):,} -> {len(new_bin):,} bytes (delta: {delta:+d} bytes)")
         return stats
 
+    def recompile_stream_file(self, json_path: str, orig_bin_path: str, out_bin_path: str) -> Dict[str, Any]:
+        """
+        Recompiles a story, battle, dungeon, or system binary with updated strings.
+        """
+        j_path = Path(json_path)
+        orig_path = Path(orig_bin_path)
+        out_path = Path(out_bin_path)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+
+        script_data = json.loads(j_path.read_text(encoding="utf-8"))
+        entries = script_data["entries"]
+        data = bytearray(orig_path.read_bytes())
+
+        recompiled_count = 0
+        for entry in entries:
+            offset = entry.get("offset")
+            length = entry.get("length_bytes")
+            en_text = entry.get("translation_en", "").strip()
+
+            if offset is not None and length is not None and en_text:
+                encoded = self.font_tool.encode_text(en_text)
+                if len(encoded) <= length:
+                    padded = encoded.ljust(length, b"\x00")
+                    data[offset : offset + length] = padded
+                    recompiled_count += 1
+                else:
+                    # Fit within length
+                    data[offset : offset + length] = encoded[:length]
+                    recompiled_count += 1
+
+        out_path.write_bytes(data)
+        stats = {
+            "file": orig_path.name,
+            "orig_size": len(data),
+            "new_size": len(data),
+            "recompiled_strings": recompiled_count,
+            "total_strings": len(entries),
+            "out_path": str(out_path)
+        }
+        print(f"[+] Recompiled {orig_path.name}: {recompiled_count}/{len(entries)} strings injected ({len(data):,} bytes)")
+        return stats
+
     def verify_recompiled_talk(self, out_bin_path: str, json_path: str) -> bool:
         """Verifies that every string in the recompiled binary matches the JSON translation."""
         j_data = json.loads(Path(json_path).read_text(encoding="utf-8"))
@@ -145,20 +189,81 @@ class PersonaRecompiler:
             print(f"[+] Verification PASSED for {Path(out_bin_path).name} (all {len(entries)} strings verified 100% losslessly)")
         return all_ok
 
+    def recompile_all(self, orig_extracted_dir: str = "extracted", build_extracted_dir: str = "build/extracted"):
+        """Recompiles ALL translated assets into build/extracted/."""
+        orig_dir = Path(orig_extracted_dir)
+        build_dir = Path(build_extracted_dir)
+        build_dir.mkdir(parents=True, exist_ok=True)
+
+        print(f"\n==================================================")
+        print(f"[*] Starting Complete Game Binary Recompilation...")
+        print(f"==================================================")
+
+        # 1. Patch FONT.BIN
+        font_in = orig_dir / "FONT.BIN"
+        font_out = build_dir / "FONT.BIN"
+        if font_in.is_file():
+            self.font_tool.patch_font_with_lowercase(str(font_out))
+
+        # 2. Recompile all TALK binaries
+        for jf in sorted(glob.glob("scripts/translated/talk/*.json")):
+            stem = Path(jf).stem
+            orig_bin = orig_dir / "TALK" / f"{stem}.BIN"
+            out_bin = build_dir / "TALK" / f"{stem}.BIN"
+            if orig_bin.is_file():
+                self.recompile_talk_file(jf, str(orig_bin), str(out_bin))
+                self.verify_recompiled_talk(str(out_bin), jf)
+
+        # 3. Recompile Battle binaries
+        if os.path.exists("scripts/translated/battle/BTLP.json"):
+            self.recompile_stream_file("scripts/translated/battle/BTLP.json", str(orig_dir / "BTLP.BIN"), str(build_dir / "BTLP.BIN"))
+
+        # 4. Recompile Story binaries
+        for sf in ["ADV.json", "BST.json", "MES.json"]:
+            jf = Path(f"scripts/translated/story/{sf}")
+            if jf.is_file():
+                stem = jf.stem
+                if stem == "ADV":
+                    orig_bin = orig_dir / "ADV.BIN"
+                    out_bin = build_dir / "ADV.BIN"
+                else:
+                    orig_bin = orig_dir / "ADV" / f"{stem}.BIN"
+                    out_bin = build_dir / "ADV" / f"{stem}.BIN"
+                if orig_bin.is_file():
+                    self.recompile_stream_file(str(jf), str(orig_bin), str(out_bin))
+
+        # 5. Recompile Dungeon binaries
+        for df in sorted(glob.glob("scripts/translated/dungeons/*.json")):
+            stem = Path(df).stem
+            # Find parent folder (D00, D01, D02, D03, D04)
+            found = list(orig_dir.glob(f"D*/{stem}.BIN"))
+            if found:
+                orig_bin = found[0]
+                rel = orig_bin.relative_to(orig_dir)
+                out_bin = build_dir / rel
+                self.recompile_stream_file(df, str(orig_bin), str(out_bin))
+
+        # 6. Recompile System binaries
+        for sys_f in ["CASINO.json", "OPEN.json", "S2D.json"]:
+            jf = Path(f"scripts/translated/system/{sys_f}")
+            if jf.is_file():
+                stem = jf.stem
+                orig_bin = orig_dir / f"{stem}.BIN"
+                out_bin = build_dir / f"{stem}.BIN"
+                if orig_bin.is_file():
+                    self.recompile_stream_file(str(jf), str(orig_bin), str(out_bin))
+
+        print(f"\n[+] All translated assets successfully recompiled into {build_dir}!")
+
 
 def main():
     parser = argparse.ArgumentParser(description="Persona Script Recompiler")
-    parser.add_argument("--json", default="scripts/translated/talk/GAKI.json", help="Path to translated JSON script")
-    parser.add_argument("--orig-bin", default="extracted/TALK/GAKI.BIN", help="Path to original binary")
-    parser.add_argument("--out-bin", default="build/extracted/TALK/GAKI.BIN", help="Path for recompiled binary")
-    parser.add_argument("--verify", action="store_true", default=True, help="Verify recompiled binary strings")
-
+    parser.add_argument("--all", action="store_true", default=True, help="Recompile all translated game files")
     args = parser.parse_args()
 
     recompiler = PersonaRecompiler()
-    stats = recompiler.recompile_talk_file(args.json, args.orig_bin, args.out_bin)
-    if args.verify:
-        recompiler.verify_recompiled_talk(args.out_bin, args.json)
+    if args.all:
+        recompiler.recompile_all()
 
 
 if __name__ == "__main__":

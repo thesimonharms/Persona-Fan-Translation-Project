@@ -9,7 +9,7 @@
       "length_bytes": 4,
       "raw_hex": "0534fffe",
       "text_jp": "おざ<END>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 1,
@@ -17,7 +17,7 @@
       "length_bytes": 4,
       "raw_hex": "0534fffe",
       "text_jp": "おざ<END>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "length_bytes": 4,
       "raw_hex": "0432fffe",
       "text_jp": "えげ<END>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "length_bytes": 4,
       "raw_hex": "4010fffc",
       "text_jp": "ぶた<CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 5,
@@ -49,7 +49,7 @@
       "length_bytes": 8,
       "raw_hex": "20a603804234fffe",
       "text_jp": "みAうぼざ<END>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "length_bytes": 6,
       "raw_hex": "edfffcfffdff",
       "text_jp": "■<CLOSE><CHOICE id=255>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 7,
@@ -73,7 +73,7 @@
       "length_bytes": 4,
       "raw_hex": "fcfff6ff",
       "text_jp": "f<PAGE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 9,
@@ -81,7 +81,7 @@
       "length_bytes": 4,
       "raw_hex": "fcfffdff",
       "text_jp": "f<CHOICE id=255>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 10,
@@ -89,7 +89,7 @@
       "length_bytes": 4,
       "raw_hex": "fcfffdff",
       "text_jp": "f<CHOICE id=255>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "length_bytes": 5,
       "raw_hex": "feffedfffc",
       "text_jp": "h<CMD_ed><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 12,
@@ -113,7 +113,7 @@
       "length_bytes": 5,
       "raw_hex": "fcffe9fffc",
       "text_jp": "f<CMD_e9><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 14,
@@ -121,7 +121,7 @@
       "length_bytes": 5,
       "raw_hex": "fcffe8fffc",
       "text_jp": "f<CMD_e8><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 15,
@@ -129,7 +129,7 @@
       "length_bytes": 5,
       "raw_hex": "fdffe6fffc",
       "text_jp": "g<CMD_e6><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 16,
@@ -137,7 +137,7 @@
       "length_bytes": 5,
       "raw_hex": "fbffe5fffc",
       "text_jp": "e<CMD_e5><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 17,
@@ -153,7 +153,7 @@
       "length_bytes": 5,
       "raw_hex": "f8ffeafffc",
       "text_jp": "b<CMD_ea><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 19,
@@ -161,7 +161,7 @@
       "length_bytes": 5,
       "raw_hex": "f8ffecfffc",
       "text_jp": "b<CMD_ec><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 20,
@@ -169,7 +169,7 @@
       "length_bytes": 5,
       "raw_hex": "f9ffeefffc",
       "text_jp": "c<CMD_ee><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 21,
@@ -177,7 +177,7 @@
       "length_bytes": 5,
       "raw_hex": "fafff0fffc",
       "text_jp": "d<CMD_f0><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 22,
@@ -193,7 +193,7 @@
       "length_bytes": 5,
       "raw_hex": "fdfff2fffc",
       "text_jp": "g<CMD_f2><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 24,
@@ -201,7 +201,7 @@
       "length_bytes": 5,
       "raw_hex": "fefffffffc",
       "text_jp": "h<CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 25,
@@ -209,7 +209,7 @@
       "length_bytes": 5,
       "raw_hex": "fcfffdfffc",
       "text_jp": "f<CHOICE id=255>f",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 26,
@@ -217,7 +217,7 @@
       "length_bytes": 5,
       "raw_hex": "fbfffcfffc",
       "text_jp": "e<CLOSE><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 27,
@@ -233,7 +233,7 @@
       "length_bytes": 5,
       "raw_hex": "f8fff8fffc",
       "text_jp": "b<CMD_f8><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 29,
@@ -241,7 +241,7 @@
       "length_bytes": 5,
       "raw_hex": "f7fff8fffc",
       "text_jp": "a<CMD_f8><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 30,
@@ -249,7 +249,7 @@
       "length_bytes": 5,
       "raw_hex": "f7ffe4fffc",
       "text_jp": "a<CMD_e4><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 31,
@@ -257,7 +257,7 @@
       "length_bytes": 5,
       "raw_hex": "f7ffe5fffc",
       "text_jp": "a<CMD_e5><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 32,
@@ -273,7 +273,7 @@
       "length_bytes": 5,
       "raw_hex": "fbffe9fffc",
       "text_jp": "e<CMD_e9><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 34,
@@ -281,7 +281,7 @@
       "length_bytes": 5,
       "raw_hex": "fbfffbfffc",
       "text_jp": "e<CMD_fb><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 35,
@@ -289,7 +289,7 @@
       "length_bytes": 5,
       "raw_hex": "fafffefffc",
       "text_jp": "d<END><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 36,
@@ -297,7 +297,7 @@
       "length_bytes": 5,
       "raw_hex": "f7fffffffc",
       "text_jp": "a<CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 37,
@@ -313,7 +313,7 @@
       "length_bytes": 5,
       "raw_hex": "fbffeffffc",
       "text_jp": "e<CMD_ef><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 39,
@@ -321,7 +321,7 @@
       "length_bytes": 5,
       "raw_hex": "faffe4fffc",
       "text_jp": "d<CMD_e4><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 40,
@@ -329,7 +329,7 @@
       "length_bytes": 5,
       "raw_hex": "faffe4fffc",
       "text_jp": "d<CMD_e4><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 41,
@@ -337,7 +337,7 @@
       "length_bytes": 5,
       "raw_hex": "faffe5fffc",
       "text_jp": "d<CMD_e5><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 42,
@@ -353,7 +353,7 @@
       "length_bytes": 5,
       "raw_hex": "feffe8fffc",
       "text_jp": "h<CMD_e8><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 44,
@@ -361,7 +361,7 @@
       "length_bytes": 5,
       "raw_hex": "fbfff9fffc",
       "text_jp": "e<CMD_f9><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 45,
@@ -369,7 +369,7 @@
       "length_bytes": 5,
       "raw_hex": "f5ffe8fffc",
       "text_jp": "♂<CMD_e8><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 46,
@@ -377,7 +377,7 @@
       "length_bytes": 5,
       "raw_hex": "f4ffe6fffc",
       "text_jp": "♀<CMD_e6><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 47,
@@ -393,7 +393,7 @@
       "length_bytes": 5,
       "raw_hex": "f7ffe4fffc",
       "text_jp": "a<CMD_e4><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 49,
@@ -401,7 +401,7 @@
       "length_bytes": 5,
       "raw_hex": "ecffe4fffc",
       "text_jp": "□<CMD_e4><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 50,
@@ -409,7 +409,7 @@
       "length_bytes": 5,
       "raw_hex": "ecffe5fffc",
       "text_jp": "□<CMD_e5><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 51,
@@ -417,7 +417,7 @@
       "length_bytes": 5,
       "raw_hex": "efffe7fffc",
       "text_jp": "▲<CMD_e7><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 52,
@@ -433,7 +433,7 @@
       "length_bytes": 5,
       "raw_hex": "feffe4fffc",
       "text_jp": "h<CMD_e4><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 54,
@@ -441,7 +441,7 @@
       "length_bytes": 5,
       "raw_hex": "f7ffe4fffc",
       "text_jp": "a<CMD_e4><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 55,
@@ -449,7 +449,7 @@
       "length_bytes": 5,
       "raw_hex": "f7ffe5fffc",
       "text_jp": "a<CMD_e5><CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 56,
@@ -457,7 +457,7 @@
       "length_bytes": 5,
       "raw_hex": "f9ffe6fffc",
       "text_jp": "c<CMD_e6><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 57,
@@ -473,7 +473,7 @@
       "length_bytes": 5,
       "raw_hex": "fbfffbfffc",
       "text_jp": "e<CMD_fb><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 59,
@@ -481,7 +481,7 @@
       "length_bytes": 5,
       "raw_hex": "fafffefffc",
       "text_jp": "d<END><CLOSE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 60,
@@ -489,7 +489,7 @@
       "length_bytes": 5,
       "raw_hex": "f7fffffffc",
       "text_jp": "a<CLOSE>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 61,
@@ -497,7 +497,7 @@
       "length_bytes": 5,
       "raw_hex": "fefffefffc",
       "text_jp": "h<END><CLOSE>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 62,
@@ -513,7 +513,7 @@
       "length_bytes": 5,
       "raw_hex": "fdffeafffc",
       "text_jp": "g<CMD_ea><CLOSE>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 64,
@@ -521,7 +521,7 @@
       "length_bytes": 8,
       "raw_hex": "d8fffffff6ffffff",
       "text_jp": "(<PAGE>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 65,
@@ -529,7 +529,7 @@
       "length_bytes": 11,
       "raw_hex": "9077a97aa7aa7aaaf0fffe",
       "text_jp": "デモDヨBEヨE※<END>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 66,
@@ -537,7 +537,7 @@
       "length_bytes": 11,
       "raw_hex": "9077797777aa77a7f0fffe",
       "text_jp": "デモユモモEモB※<END>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 67,
@@ -553,7 +553,7 @@
       "length_bytes": 11,
       "raw_hex": "9077797777aa7aa7f0fffe",
       "text_jp": "デモユモモEヨB※<END>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 69,
@@ -561,7 +561,7 @@
       "length_bytes": 11,
       "raw_hex": "f0777977777777a7f0fffe",
       "text_jp": "※モユモモモモB※<END>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 70,
@@ -569,7 +569,7 @@
       "length_bytes": 11,
       "raw_hex": "90997977a77aaaaaf0fffe",
       "text_jp": "デプユモBヨEE※<END>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 71,
@@ -577,7 +577,7 @@
       "length_bytes": 11,
       "raw_hex": "1111111199f9ff9ff0fffe",
       "text_jp": "ちちちちプc<CMD_9f>※<END>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     },
     {
       "id": 72,
@@ -593,7 +593,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation)<PAGE>Press START button to begin your<LINE>journey."
     },
     {
       "id": 74,
@@ -601,7 +601,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+      "translation_en": "Game Saved Successfully.<LINE>Your memory card data has been<LINE>recorded. <CLOSE>"
     },
     {
       "id": 75,
@@ -609,7 +609,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪<LINE>Get your healing items,<PAGE>remedies, and antidotes right<LINE>here!<PAGE>Thank you for shopping at Satomi<LINE>Tadashi!"
     },
     {
       "id": 76,
@@ -617,7 +617,7 @@
       "length_bytes": 7,
       "raw_hex": "11111111eefffe",
       "text_jp": "ちちちち△<END>",
-      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store!<LINE>We're open 24/7, even during a<PAGE>dimensional demon apocalypse!<PAGE>What can I get for you today?"
     }
   ]
 }
