@@ -1,0 +1,879 @@
+{
+  "file": "D18.BIN",
+  "type": "DUNGEON_NPC_DIALOGUE",
+  "total_strings": 109,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 83196,
+      "length_bytes": 6,
+      "raw_hex": "6afff6fe6aff",
+      "text_jp": "ニ<PAGE>hニ",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 1,
+      "offset": 83204,
+      "length_bytes": 4,
+      "raw_hex": "6afff6fe",
+      "text_jp": "ニ<PAGE>h",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 2,
+      "offset": 219144,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 3,
+      "offset": 219272,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 4,
+      "offset": 219400,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 5,
+      "offset": 219528,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 6,
+      "offset": 219656,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 7,
+      "offset": 219784,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 8,
+      "offset": 222852,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 9,
+      "offset": 224388,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 10,
+      "offset": 224516,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 11,
+      "offset": 224644,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 12,
+      "offset": 224772,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 13,
+      "offset": 224900,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 14,
+      "offset": 291711,
+      "length_bytes": 7,
+      "raw_hex": "01fffffffffffe",
+      "text_jp": "あ<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 15,
+      "offset": 291711,
+      "length_bytes": 11,
+      "raw_hex": "01fffffffffffefcfffffc",
+      "text_jp": "あ<END>f<CLOSE>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 16,
+      "offset": 291716,
+      "length_bytes": 767,
+      "raw_hex": "fefcfffffcfdfaedfefdfefcf4e1d1d1ede1b3f4f5f4f4e2f4ede1c7e1f5e0dcd4ac61c3f4dca8b7edbbc7d0b37e736e7ea959213090b3c4c3adb2c4beb2aea9ad7a8c7e8498988e9296a38f9396a1a16e8cbbb5adadadadadadb5bbafadb3adb5b3adaca6a6bbc6d1c3bbbbd1d1d1c6d1c7c7d5d5e1d1d5e0e1c2f5fafafaf5f5e9e2eaf6f5b7bbf4f6eae9e3eaebebebebebe1ebeaebf6f2ebda96a6b3d1dce9fefba8ead4a86390eaeac2949473dce9eaeadcb0b7c2dadaea7e8585c2eae9bbdadadceaebebeae9eada5c4f5c8ba6a6a18ba1b3bbb3bbc7bbc6dce2f4f5f6fdffff1c76956a49655480b9c7c7c7c7c7cadac6c22b5fd4d4a8dafffffffffffdfefffffafdfefefcfefcfaf4d1d1c3d1e08ed1f5eed5d5d0d1c3d1e1f4dcc6bbbb7ba1dce2acb7d5d1d5dcbe8c7e8c8c9896213096adb5b5a9a3a3c4b5ad98988e7a70869892848470989f8684968b4c96a3a18598a3a3987e9fb5b5b5b5adada1a39694b3b5bbb5bbb5bed1c4c3c7b3a8c3d1d1c3b7d1d1b7a8f6ebebeaf5f6f5eaeaeaebf5f5f6f5eaddddd4ddddeaeaeaeaeaeaeaeaf5ebebf6ecebebebebf2fba894a8943863eae9d19ec2e9c787dadce9dc9ea8c2c2e9da6e85d5e9dcacdaeabbe9efeaeaeaeaea514985909a9a9a96a5bbbbbbbbaf9ec3e0ede0e0fcfefcfe8b3b495c5c806a94a8dadacacac7dae1edb74e67b7c2c2c7fffffdfffffffffdfafaf5fcfcf4f5fceddae1e0b3ace1e0c7d1d0c6c3c3c7c3a6b3daedc6bec4beb5b5c4bbb3bbb3a6b6beb58c9a7e968f614598a9a3a9ada38f9fb5b59f867358848f9fa3867a6570867c7b8f7a84989685908596a1984362adb5b3ada3a398968ca1b3b3adacbbb5bbbec3c7bbb5acb3c7d1bec7c7a8a6a8fef6ebeadfeaebeaddddeaeaeaeaeaeaddd2d2ced2d4dde2ddddddd6ddeaefebefebeaebebebecf2ea8ba8633844ddd4b7b7c2b78c3d446ed1dc9e9eb7b7b7dca88bdcdcd19aa1dce9dce9e2eaeadae13b6594908e8ea6a6acb3b5c2bbbbb3bed5e2e0fefde2f4fe5c0a1e33436a6a9e9eb7dadadadae1e1959ec2d5c2c2e1dafdffffff",
+      "text_jp": "hf<CLOSE>gd■hghf♀-!!■-N♀♂♀♀±♀■-7-♂+『-Gス3♀『CR■V7?NレマハレDオむぎデN43HM4YMIDHヨゾレ郊ピヂバボョヅビボャャハゾVPHHHHHHPVJHNHPNHGAAV6!3VV!!!6!77,,-!,+-2♂ddd♂♂★±○!?♂RV♀!?○★×○●●●●●-●○●!?♡●「ボAN!『★heC○-Cソデ○○2ブブマ『★○○『KR2「「○レ蒔2○★V「「『○●●○★○「クょクゼAAャゼャNVNV7V6『±♀♂!?g<CMD_1c>メベニぃチオT77777/「62ろサ--C「<CHOICE id=254><CMD_fa>ghhfhfd♀!!3!+ヂ!♂△,,?!3!-♀『6VVラャ『±GR,!,『YゾレゾゾピボむぎボHPPDョョ4PHピピヂヨフ織バ硬フピェ常ボゼぉボョャ漆ョョピレェPPPPHHャョボブNPVPVPY!437NC3!!3R!!RC!?●●○♂!?♂○○○●♂♂!?♂○』』-』』○○○○○○○○♂●●!?□●●●●♡eCブCブぞソ○★!ゥ2★7騨『★『ゥC22★「ハ囚★『G「○V★▲○○○○○ゎぃ七ペペペボヮVVVVJゥ3+■++fhfhゼづぃククニブC「「//7「-■RゅテR227<CHOICE id=255><CHOICE id=250>d♂ff♀♂f■「-+NG-+7!?63373AN「■6Y4YPP4VNVNAQYPゾペレボヅスぷピDョDHョヅェPPェ賞エ腔ェョ上チフ丞ラヅヨ郊ボ七悉ャピぱセHPNHョョピボゾャNNHGVPVY37VPGN7!Y77CACh!?●○】○●○』』○○○○○○』**・*-』±』』』'』○▲●▲●○●●●□♡○ゼCソぞぴ』-RR2Rゾどぴハ!『ゥゥRRR『Cゼ『『!ペャ『★『★±○○「-づチブデヂヂAAGNP2VVNY,±+hg±♀hクこほごぱニニゥゥR「「「「--ベゥ2,22-「g",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 17,
+      "offset": 292484,
+      "length_bytes": 765,
+      "raw_hex": "fafaf5ededf5ede1b7bb91b3dabbb3b3e1d5c6cbb3acb5b3c4ac9aa1b3dcc6bec4ad98b2adb2b5ad9898adb5a5847f898e8686869898989f99987b92adad8662708f8f867b8683717b7b7b7b868698a373281b399096764c157a98adada19886867e98a1a3aca1afacacb5b5bebba5acb5c3b5bbc7bbaf9a8bf6f6eaddddddeae3ddd2d4d6dcddd4d4d2d2c5c5c5c5c5d2d4d4ccd2ccd6e2eaeae3e3e7eaebebebdc8ba8943844d4ddb7a8b79e7e629ec2d1dcb7949e9e9ec3c4d0c4d5dcb38cacd1bbe2e9eaeab7c23b737e7e8c879a9690acacbbb9a5afbed1d0f5f5f6f6e2ea290d08255c8080949ea8c2cadae1da95469ed1e1cac2caeefdfffffffffdf9f4f5f4f4f4e0dabbbba67facacbbd0c2afacacb5a190b3b6b5a69684acb5dcbead7f6299a396a1adada39298a3847a7b7b8e86868f868f88969286868f92716272837142658f928686717b7b707b989628101551392c65513110589ca39c8f706e848e898ea1a1a3989aacafb3a56590a1a1309abbacaca662f6f6f5ddddd6ddddddd2ccd2d2d4d2c5c5cbc5c1c5c1bcbcccd2c8c5cbc5d2dde3eae3dfdfebebeb308b8b8b2b2163dca8c6c4c0b6aeb6c0bed5b79494949e85c3d0c6d0dce99a8ca8acdcd4e9eada9e515b5d677f8c8e8289a1acac9a4c90a5ad3ad5e2e2eaeacb391010467e9aa6949e9eafc7dae1b0386594c2e1c7c2e0eefcfffdfefef4fcfefcfaede1d5c7a8bba68991a1bbc7b3ac91968ea1acacb3c6a1847aa39ca68f532b2b7292848fa1a3a3865972867b7f7b7a867b627071717b727b86726d58717161392b428f967b71647b724d5d862b102328391542737173715b7b98968e6546738984737396ac96a6a5a190856e3d2b1712237489524785f6feebead6d2d2d2ccd2c5c5c5d2d2ccc5c1cbc5c0bcb8b4bcc5ccc5c5c5c1ccd6dddfeaebeaebf127659e852b1d30d4c6b5b6b6b5aea7b6b6d5bb948b948b8bd0c6c6d0dcdcd4949a9adcdcd1eae9c23c5d5d434973907e8e9a9a876a6a2c1d12122badcb99a4dc76353c3d60a5b99ca59e9eafcac7b5c2a8a89ebbe1c2c2b7fcfffff4",
+      "text_jp": "dd♂■■♂■-RVドN「VNN-,6:NGPN4GペャN『6Y4HピMHMPHピピHPヮ浩ジヂ擾織ピピェプピラバHH祥フヅヅ丈嬢ヘララララ擾ピョマりひだデボメぉなヨピHHャピ擾レピャョGャJGGPPYVヮGP3PV7VJペゼ!?!?○』』』○×』*-'『』--**55555*--~*~'±○○××&○●●●『ゼCブぞぴ-』RCRゥレセゥ2!『Rブゥゥゥ34?4,『NゾG!V±★○○R2づマレレゾ窓ボデGGVTヮJY!?♂♂!?!?±○るすくゆクワブゥC2/「-「ベぺゥ!-/2/△g<CHOICE id=249>♀♂♀♀♀+「VVAロGGV?2JGGPャデNQPAボ麹P『YHロセプョボャHHョバピョ校ララヂ擾ヅ醸ザボバ擾ヅバヘセホ玉ぼチヅバ擾ヘララフラピボりたなゎだわチゎぐたエァョァヅフハ肱ジヂャャョピペGJNヮチデャャぎペVGGAセ!?!?♂』』'』』』*~**-*55:5151WW~*85:5*』×○×】】●●●ぎゼゼゼろむソ『C640QIQ0Y,Rブブブゥ手?6?『★ペゾCG『-★○「ゥゎキケテロゾヂ萱ャGGペぉデヮHぢ,±±○○:だたたぺレペAブゥゥJ7「-Kぞチブ2-72+△f<CHOICE id=254>h♀fhfd■-,7CVAジドャV7NGドボヂャGGN6ャ校ョァAヅノろろホバ腔ャョョ渉ホ丈ロラヨ丈セフヘヘラホラ象ノエヘヘスだろぼヅボラヘタラホゃケ諸たもりだなぼマヘマヘキラピボヂチぺマジ拘マボGボAヮャデ雌どろぬつもミジヴぽ戎h●○'***~*555**~51:50WSOW5~5551~'』】○●○●=らチゥ三へぎ-6PQQPIBQQ,Vブゼブゼゼ?66?『『-ブペペ『『!○★2でケケぱぃマデレヂペペ岨ニわへつつろH:プッ『メじでどシヮTァヮゥゥJ/7P2CCゥV-22Rf<CMD_f4>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 18,
+      "offset": 293249,
+      "length_bytes": 513,
+      "raw_hex": "f4c2d1ededf4edeedcbb87a5bbb389639abbbeb3afa6a1a3a3b3adafafa6a69098a39689905f304e968f7a7a8f987a4e6486713a6883868f7a424442424e5883714d6d7164424239386486645869716d4d584210171b3c1b0e2c627b7b7a7a84968e9671256567707a7b73849091986e2a4f67672121314487877e767eebebebe2d6d2c5c5c5c1c5c1c0bcc0c0c1c1c0c0bcb8b4b1b4b8c1c5c1c1bdbdc1c8d3e3eaebf1eb2773a88b2b2b44c6d4aeaeaeaeaeb6aeaed1d19e8b8b9ebbb7bbc6c4c6d0d1c6b790c3e2b7d5eada293b3c525858677e84905c113365671d213064adaeb6c0cb496e76739cafbbb09e8b3d1d90b9b9af9476689ad5c7b7b7fefffdf9d1bbafd1d1d1d5e0d1a5b3a586867191acaeb3b5b5c3c3afa1a1a6a18998ad967b84a1b3c6bb7183967a71868f61627164642138507b8f62524e4e4e4d446152446d644d3138392d4e614448442c230e121b423c473c10091b2462705d7b707f84847a314f51707b71514c6e8e89654646677f737f9a734673748784eaddeae2d2c8c5bdbcbcb8bcbcbcb1abb8c0bcb8b1b1b4b4b6b1b1c1c1c1c1bdbdbdc8d3e3efebeb584d6285211d4470b7b6beaeaebec0b5b5bbd1b78565b7c3b7b7c3d1c3c3c7d1e9d5a6dcd19ac2e91f2a46625233284f7e7a5833336a867488ad8f64a3aec0cc6a7e78899ca695956a3b0e0930a68b879cafac90a6afafacfdfffffe",
+      "text_jp": "♀2!■■♀■△『V走VNジソペVYNJAャョョNHJJAAデピョボジデサぎゅボヅヨヨヅピヨゅタ詳ぢト近ヅヨぼぴぼぼゅエ玉ゃノヘタぼぼだぞタ章エナヘノゃエぼたぬひでひせわセララヨヨ貢ヂボヘゆチテフヨラマ膏ドピハれょテテむむぐぴ層レメレ●●●±'*5551510W001100WSOLOS1511XX18<×○●=●らマCゼろろぴ6-IIIIIQII!!ゥゼゼゥVRV646?!6Rデ3±R,○「るづでヴエエテレ膏クちごチテへむぎタHIQ0:ぃハメマァJVKゥゼどへデTTJブメトペ,7RRh<CHOICE id=249>!VJ!!!,+!ヮNヮ擾ヘドGINPP33JャャAャジピHボラ高N6Vヘ具ヨヘ醸スセヘタタむぞっラヅセヴゅゅゅゃぴスヴぴノタゃぐぞだをゅスぴぁぴわもせつひぼでぽでたけひやセフケラフロ硬ヨぐょゎフラヘゎぉハヂジチぺぺテロマロペマぺマミ奏○』○±*85XWWSWWWLFS0WSLLOOQLL1111XXX8<×▲●●エゃセ殺へぴフRQYIIY0PPV!R至R3RR3!337!★,A『!ペ2★まれぺセヴごりょレヨエごごニ醤ザHヅタョI0~ニレヤジァAベベニづせけぎAゼ総JGデAJJGg<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 19,
+      "offset": 306536,
+      "length_bytes": 26,
+      "raw_hex": "a4a4a0b1b1a4aaaeaeaea4b1bcc5ccd2cbd3d2d3dfdfe4ebfffc",
+      "text_jp": "ッッォLLッEIIIッLW5~*:<*<】】÷●<CLOSE>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 20,
+      "offset": 317784,
+      "length_bytes": 42,
+      "raw_hex": "a28d7d6666663aa29f9fdb9fd5dba5405ca1e3e3d5578757a9e8a9a967a94799d4e054e067cf8f5ffffc",
+      "text_jp": "ュダルツツツぢュェェ」ェ,」ヮぶクャ××,ウ賎D☆DDテDぽプ-+オ+テ。ヅサ<CLOSE>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 21,
+      "offset": 322136,
+      "length_bytes": 168,
+      "raw_hex": "8d7d66555555668d9f869f9fdb5c5c56d5d598984dd5cc57a98ea9a98e9b998e67a467a1e067cfcffffffffff5dcc0ebfefdfcebe9e2dcd4abb1d4ddead0cbd0d0d0dcc6b6d0d0d4b1c5c5aabab6d0dccbf1eacbd0d2bea3bcbac0bca3b67d6f558faaa3b2adb6b2aea398929fbcae9f9f98929892a4a0aea98f887145506d988f715072848691b6b2b6aeb6c5cbc0b286b3adbaaeadada3beb6ada39898aec4c0d2cb72a4b5b5c6",
+      "text_jp": "ダルツアアアツダェ尻ェ」ククイ,,ピピゃ,~ウDヂDDヂポプヂテッテャ+テ。。<LINE>『0●hgf●★±『-FL-』○?:???『6Q??-L55EUQ?『:=○:?*YョWU0WョQルヒアヅEョMHQMIョピバェWIェェピバピバッォIDヅザヘぷっノピヅヘっホ糠ドQMQIQ5:0M神HUIHHョYQHョピピI40*:ホッPP6",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 22,
+      "offset": 322392,
+      "length_bytes": 44,
+      "raw_hex": "7d7d66553655668d56a1a156db56a1a157d5d5d5d5f3a1d5a954e08ea9a954e05f67a167a4e0e067fffffffe",
+      "text_jp": "ルルツアずアツダイャャイ」イャャウ,,,,$ャ,Dオ+ヂDDオ+サテャテッ++テ<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 23,
+      "offset": 322648,
+      "length_bytes": 44,
+      "raw_hex": "7d7d55555536667ddbd5ccd5d5d59b98d5d598d5879b4d98a9a4cf67a167a467a4676767cfa4e0a1fdfffffc",
+      "text_jp": "ルルアアアずツル」,~,,,ポピ,,ピ,糟ゃピDッ。テャテッテッテテテ。ッ+ャg<CLOSE>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 24,
+      "offset": 322904,
+      "length_bytes": 168,
+      "raw_hex": "666655363655558dd58787989b579b89579b4d9b9b8798a1678f8fa15fa4a4e35f676767a48f67e0fdfffffffdfcfdfdfdfdfbf5f5ead4e2d0c6cbd0eaebe9e2d0d0c5d4dddce9ebdcc4beddd6dcd2a48888bcd3d0d0ddddddd2b2c0c5c5c5c4c4d2cbbabac5c1c5c5c5d2c5bdb5bcc5ba9f92a9d3ddd2c4bccbc5b2bad292728e98a372a9c4c4c4c4b6c5e2ddd2beadc5d2d0c6c6dce2dce2eae9d4c4be9f926f6f7dc4d2b2a7c6",
+      "text_jp": "ツツアずずアアダ,層ピポウポジウポゃポポ痩ャテヅヅャサッッ×サテテテッヅテ+g<CHOICE id=252>gggge♂♂○-±?6:?○●★±??5-』『★●『4Y』'『*ッザザW<??』』』*M055544*:UU51555*5XPW5UェバD<』*4W:5MU*バホヂピョホD4444Q5±』*YH5*?66『±『±○★-4Yェバヒヒル4*MB6",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 25,
+      "offset": 323160,
+      "length_bytes": 47,
+      "raw_hex": "666655363655557df4879898579b9b57d59bd55787d5d59b8f8fa1a1f65fa45f67a467cf8f67e3a4fffffffffffffe",
+      "text_jp": "ツツアずずアアル♀痩ピウポポウ,ポ,ウ柁,ポヅヅャャ!?サッサテッテ。ヅテ×ッ<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 26,
+      "offset": 323416,
+      "length_bytes": 168,
+      "raw_hex": "556655363636557d9bd59b9b9bd55789d54da187d5a157ccf667a4a4a4675fe36754548fa4e05f5ffffffffffffffffdfefef6fefef6f6eae9d0e9ebeae9eaf6f6f1eceae2eaeaf1e9d4dceafeecebeceaddebeaebeaeadcdddfebeacbc6d2d2d2d2d2dddddddfddddd0ddebebd2bcc4d3ddd2cbd2d2c5d2d2d0d2d2d2dfead09686a3dcddc4ad83cbe7eaebe7ddd4d2d0ddeaeaeaeaeaeaeaebebebebeaeaebebebebf6ebeadcd0",
+      "text_jp": "アツアずずずアルポ,ポポポ,ウジ,ゃャ柁ャウ~!?テッッッテサ×テオオヅッ+ササ<CHOICE id=254>h!?hh!?!?○★?★●○★○!?!?=□○±○○=★-『○h□●□○』●○●○○『』】●○:6*****』』』】』』?』●●*W4<』*:**5**?***】○?ボ唇『』4H携&○●&』-*?』○○○○○○○●●●●○○●●●●!?●○『?",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 27,
+      "offset": 323672,
+      "length_bytes": 168,
+      "raw_hex": "55555536363655669bccdc9bd59b57a19f86d5d5d557cc57a48fe1cf67a45f54a98ee36767cfcf5ffffffffffffffffffdfdfdfdfdfdfdfdfef5f6fce9e2f6f6f5f6f6ebebebebebdce9f6fceceaebebebf1f2ebe7ebeae9ebebe7d0dccbdcd2b1a4ddeadfe7eadfd3dff1f1e7d2c6b5d0d8e7ead2d0bac4d2d2c5ddc6dcdfddc4dcd1dde7ddadbef1f1ebebeaeaddddd5ddebebeaeaebebebecebf6ebebeaeaf6f6f5ebf5e9e9e2",
+      "text_jp": "アアアずずずアツポ~『ポ,ポウャェ垂,,ウ~ウッヅ-。テッサオDヂ×テテ。。サ<CHOICE id=253>ggggggh♂!?f★±!?!?♂!?!?●●●●●『★!?f□○●●●=♡●&●○★●●&?『:『*Lッ』○】&○】<】==&*6P?(&○*?U4**5』6『】』4『!』&』HY==●●○○』』,』●●○○●●●□●!?●●○○!?!?♂●♂★★±",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 28,
+      "offset": 323928,
+      "length_bytes": 50,
+      "raw_hex": "55555536363655668787a69b899b57d5a19fd5d5d5579bd58f8fb167e3a4cf6754a9676767cfa467fffffffffffffdfffffe",
+      "text_jp": "アアアずずずアツ層Aポジポウ,ャェ,,,ウポ,ヅヅLテ×ッ。テオDテテテ。ッテ<CHOICE id=255><END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 29,
+      "offset": 323928,
+      "length_bytes": 168,
+      "raw_hex": "55555536363655668787a69b899b57d5a19fd5d5d5579bd58f8fb167e3a4cf6754a9676767cfa467fffffffffffffdfffffefffffdfdfffdfdfef5f5ebf5fcc6f5fdfef6f6f6f5f5f5fcfdfbf2f1eac4ddfbfbe0e2fbf5fbfbebd5c6d0d0dddc8a8dddeaf1ebeaddeaecebebddddd2d0c4d2dfddd2d0c4dde7d2d0ddd5adddeae9d0e7eae7e3d0eaebebf1ebebeaeae3dddceaebebebebebebf6f6f5ebeae0ebf6f6f6eaf6f6e2e2",
+      "text_jp": "アアアずずずアツ層Aポジポウ,ャェ,,,ウポ,ヅヅLテ×ッ。テオDテテテ。ッテ<CHOICE id=255><END><CHOICE id=253><CHOICE id=253>h♂♂●♂f6♂gh!?!?!?♂♂♂fge♡=○4』ee+±e♂ee●,6??』『ズダ』○=●○』○□●●』』*?4*】』*?4』&*?』,H』○★?&○&×?○●●=●●○○×』『○●●●●●●!?!?♂●○+●!?!?!?○!?!?±±",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 30,
+      "offset": 324184,
+      "length_bytes": 168,
+      "raw_hex": "5555363636365566dcdca6d5d587874d9f9fd5899b4dd5d5e1e1fb67678f8fe0a9e867e35fe06767fffffffffffffdfffffdfffdfcfffffffdfdf6f6f5fef6e9fdfdfefefefef6fef5fcfdfefbf6e9b1ebfdfbe2e9fdeaf5f6eac6c3bac4e7b17797dceaf6f2eaebecf2ebebeaebd0c4d0d0e7dddcdddfe7dddde9e9eac3dcebebeaeaebeaeaeaebebebf1f1ebebf1eae7e9e9ebf6f6f2ebf1f6f6f6f6f6f5f6f6f6f6f6f6fbfbf4",
+      "text_jp": "アアずずずずアツ『『A,,層ゃェェ,ジポゃ,,--eテテヅヅ+D☆テ×サ+テテ<CHOICE id=255><CHOICE id=255>gf<CHOICE id=253>!?!?♂h!?★gghhhh!?h♂fghe!?★L●ge±★g○♂!?○63U4&Lモパ『○!?♡○●□♡●●○●?4??&』『』】&』』★★○3『●●○○●○○○●●●==●●=○&★★●!?!?♡●=!?!?!?!?!?♂!?!?!?!?!?!?ee♀",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 31,
+      "offset": 324440,
+      "length_bytes": 88,
+      "raw_hex": "555536363036556687dc8786a18787cb934d5798d598d5d58fe1cfa9548f8f8ecee05fa1676767671f809e657680afdadaedd19ec2e1dafcf4d1e1fdfffffffda6a6b6b6c5d2dfebddecfbf8f8f8f7fd5c29113349498019",
+      "text_jp": "アアずずぎずアツ堆宋ャ層:ビゃウピ,ピ,,ヅ-。Dオヅヅヂ・+サャテテテテまゥチメJ「「■!ゥ2-「f♀!-g<CHOICE id=166>AQQ5*】●』□ebbbagクるちごぃぃの",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 32,
+      "offset": 350080,
+      "length_bytes": 168,
+      "raw_hex": "a097a2b6c0aea0a7aaaeaeaeaba2b1bdd3d6d3d3d3d3ebebbcb6ccbcbcd3d6d2ccd2d3ebf1eae3ebf3fdf8fdf7fffff3f8f3f7f3f7f8f8f8ecf2ecf8f2ebecf8f8f2ecf1f2ebdeebdfdfdfebf2ebdeebded7dedfdfdfd7d3d7dfdfd8ccc8cecfc8c8d3d7d7d3d7d3cfcfd3dfded3c8c8cfd3d3d3cfcfc8cfd3d3cfd7d3d7ded7c8c8c8dededfcfbfdeecf2ecece8ececdef2f3f7f3f7f8f8f8f8f8f8f8f8f7f8f3f7fdf7fdf8f8f8",
+      "text_jp": "ォパュQ0IォBEIIIFュLX<'<<<<●●WQ~WW<'*~*<●=○×●$gbga<CMD_f3>b$a$abbb□♡□b♡●□bb♡□=♡●【●】】】●♡●【●【…【】】】…<…】】(~8・。88<……<…<。。<】【<88。<<<。。8。<<。…<…【…888【【】。Z【□♡□□☆□□【♡$a$abbbbbbbbab$agagbbb",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 33,
+      "offset": 350336,
+      "length_bytes": 168,
+      "raw_hex": "aab1a08daeaeaeaea2aaaeb8c0ab97abbdd3d3d3d3deececc4bcccc5b8d2dfddd3dfd3c8eaeaeaebfdf7f8f3fffdf3fff3f7f7fdf7f7f7fdf3f8f8f8f2f2f8f2f2f8f7f2ecf1f1ebe7ebececebdfdedee7deebdfdfdedfdfdeded7c8d3c8cfcfb4abd7d7d7d7d7d3cfd7dfdfd3d3d3bdc8d3d7d7d3cfc8cfd3d3d3d7d3d3d7dfd7dfdfdededed3dff2f2ecf2f2f2ecf2f2f2f7f8f7f8f7f8f8f8f8f8f8f7f8f8fbf3f7fdf8f8f8f8",
+      "text_jp": "ELォダIIIIュEIS0FパFX<<<<【□□4W~5S*】』<】<8○○○●gab$<CHOICE id=243><CMD_f3>aagaaag$bbb♡♡b♡♡ba♡□==●&●□□●】【【&【●】】【】】【【…8<8。。OF……………<。…】】<<<X8<……<。8。<<<…<<…】…】】【【【<】♡♡□♡♡♡□♡♡♡abababbbbbbabbe$agbbbb",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 34,
+      "offset": 350592,
+      "length_bytes": 168,
+      "raw_hex": "b8bca09baeaeaea2aab6b1b8cbccababb4bdbdb4bfdff2f7ccc0c5ccc5bcdddfdfdfd8d3ebeaebebf7fffdfdfdf8f8f3fff8fdf3fdf7fdf7fdf8f7f7ecf7f8deecf8f3f8ecf2ecebebecf2f2ebdee7c8d7f2ecdddfebeaebebdfcec8c8ced3ceababd3d7dfdfd7d3d7dedfd7d3d7d3cec8cfd7d3d3d3cfd7d7d3d7dfd7c8d7dededfdedededee7e8ecf2f2f2f2f2f2f2f2f2f7f8f8f7f8f7f8f8f8f8f8f8f7f8f8f7f8f8f7f7fbf8",
+      "text_jp": "SWォポIIIュEQLS:~FFOXXOZ】♡a~05~5W』】】】(<●○●●a<CHOICE id=253>gbb$<CMD_f8>g$gagagbaa□ab【□b$b□♡□●●□♡♡●【&8…♡□』】●○●●】・88・<・FF<…】】…<…【】…<…<・8。…<<<。……<…】…8…【【】【【【【&☆□♡♡♡♡♡♡♡♡♡abbababbbbbbabbabbaaeb",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 35,
+      "offset": 350848,
+      "length_bytes": 168,
+      "raw_hex": "d2ae97b8c1b2aaaab6b1b1b8cbd3bdababbdcfc8bfc9def2b1b1b8c0c5bdc8dfebdfd2ebecebeaebf8fdfdfff3f8f8fdfff8f7fbf8f7fdfdf7f8f7f8f7f8ecf2f8f8f8f7f7f7ececf1ecf2ecf2ebdfbfdeecf2dddff2dfe7dedfc8c5bdc8d7bdabb4cfdddeded7d7dee7d7d7d7d7ced3cecfd3d7d3d7d7d7d7d7dfdfdfcfdddeebdedededeebe8ecf2ecf2f2f2f2f3f2f2ececf8f8f8f7f8f7f8f8f8f8f8f8f8f8f3f7fbf3fdf3fb",
+      "text_jp": "*IパS1MEEQLLS:<XFFX。8Z9【♡LLS05X8】●】*●□●○●bgg<CMD_f3>bbg<CMD_f8>aebaggababab□♡bbbaaa□□=□♡□♡●】Z【□♡』】♡】&【】85X8…XFO。』【【……【&…………・<・。<…<……………】】】。』【●【【【【●☆□♡□♡♡♡♡$♡♡□□bbbababbbbbbbb$ae$g$e",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 36,
+      "offset": 357780,
+      "length_bytes": 15,
+      "raw_hex": "52fffeaee5e5e5afafafaffefffffe",
+      "text_jp": "ヴ<END>I%%%JJJJh<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 37,
+      "offset": 357780,
+      "length_bytes": 98,
+      "raw_hex": "52fffeaee5e5e5afafafaffefffffe87affefe42fefeaffefefefefe42fec3fb46bb46bb16bb3d2b7f99e04564c1e03e89ed3eede04040e04045397f20bb46464646efd0f0fcfcfc9ae242edfefefefffffff4ffffffffffffff40fffffffffffffe",
+      "text_jp": "ヴ<END>I%%%JJJJh<END>蔵hhぼhhJhhhhhぼh3eぺVぺVにVどろロプ+ぷタ1+ばジ■ば■+ぶぶ+ぶぷだロみVぺぺぺぺ▲?※fffペ±ぼ■hhh<CMD_f4><CMD_40><END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 38,
+      "offset": 357780,
+      "length_bytes": 100,
+      "raw_hex": "52fffeaee5e5e5afafafaffefffffe87affefe42fefeaffefefefefe42fec3fb46bb46bb16bb3d2b7f99e04564c1e03e89ed3eede04040e04045397f20bb46464646efd0f0fcfcfc9ae242edfefefefffffff4ffffffffffffff40fffffffffffffefffe",
+      "text_jp": "ヴ<END>I%%%JJJJh<END>蔵hhぼhhJhhhhhぼh3eぺVぺVにVどろロプ+ぷタ1+ばジ■ば■+ぶぶ+ぶぷだロみVぺぺぺぺ▲?※fffペ±ぼ■hhh<CMD_f4><CMD_40><END><END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 39,
+      "offset": 368020,
+      "length_bytes": 8,
+      "raw_hex": "5bfffffbfffbfffe",
+      "text_jp": "キ<CMD_fb><CMD_fb><END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 40,
+      "offset": 375556,
+      "length_bytes": 6,
+      "raw_hex": "afffbefffffe",
+      "text_jp": "J<CMD_be><END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 41,
+      "offset": 376324,
+      "length_bytes": 4,
+      "raw_hex": "fefffffe",
+      "text_jp": "h<END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 42,
+      "offset": 376468,
+      "length_bytes": 104,
+      "raw_hex": "a2eacf64efbbbe2c7f2b3d6440402aed4514163d0c3312134512893389331d1a1a27272a1a2a8b896121215c8654ed40404599890f33404040c89de9e270a0f7bb2c742b2c64996e646e6ea4a4f770cf9bee3759642c9fa62b99a66e4646bebb4242424242fefffe",
+      "text_jp": "ュ○。タ▲VYわロろどタぶぶれ■ぷとにどしごつてぷつジごジごへははらられはれゼジスむむク梢■ぶぶぷプジそごぶぶぶ8ィ★±フォaVわミろわタプハタハハッッaフ。ポ△ぜオタわェAろプAハぺぺYVぼぼぼぼぼh<END>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 43,
+      "offset": 376580,
+      "length_bytes": 9,
+      "raw_hex": "affffffffffffffffe",
+      "text_jp": "J<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 44,
+      "offset": 376836,
+      "length_bytes": 8,
+      "raw_hex": "e5afffafffaefffe",
+      "text_jp": "%J<CMD_af><CMD_ae><END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 45,
+      "offset": 378004,
+      "length_bytes": 104,
+      "raw_hex": "e4aee5afafd075bfacd0eaafaffefefeffffaf42424604be426e973da62c46ea99f5396e4564582888b08756a8e2db245de5bbcbed7f568d7acfe3e5bead72a8d0efae74bbbbbbbebbbeaa61beafaabebbeeedee64eabbbbbebb2cef4512be424242464646fbfffe",
+      "text_jp": "÷I%JJ?ムZG?○JJhhh<CMD_af>ぼぼぺえYぼハパどAわぺ○プ♂だハぷタエりザK詮C±」やケ%V:■ロイダヨ。×%YHホC?▲IミVVVYVYEスYJEYV△■△タ○VVYVわ▲ぷつYぼぼぼぺぺぺe<END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 46,
+      "offset": 378260,
+      "length_bytes": 12,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 47,
+      "offset": 378260,
+      "length_bytes": 18,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 48,
+      "offset": 378260,
+      "length_bytes": 20,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 49,
+      "offset": 378260,
+      "length_bytes": 22,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffefffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END><END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 50,
+      "offset": 378260,
+      "length_bytes": 24,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffefffefffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END><END><END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 51,
+      "offset": 378260,
+      "length_bytes": 70,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffefffefffefe42cef7a82c467f9964aa7f2ced6c288d24b08face2dc17b1afe5aff7aaed5773f8f4feefac72ade372fefffffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END><END><END>hぼ・aCわぺロプタEロわ■ネりダやKヅG±『ぬLJ%JaE■ウマb♀h▲GホH×ホh<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 52,
+      "offset": 378260,
+      "length_bytes": 72,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffefffefffefe42cef7a82c467f9964aa7f2ced6c288d24b08face2dc17b1afe5aff7aaed5773f8f4feefac72ade372fefffffefffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END><END><END>hぼ・aCわぺロプタEロわ■ネりダやKヅG±『ぬLJ%JaE■ウマb♀h▲GホH×ホh<END><END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 53,
+      "offset": 378260,
+      "length_bytes": 105,
+      "raw_hex": "aeaffee5ffbff9f9f3f9fffeffffffaffffefffefffefffefe42cef7a82c467f9964aa7f2ced6c288d24b08face2dc17b1afe5aff7aaed5773f8f4feefac72ade372fefffffefffeffeeeaa4feafe5afafd0aea640402baf42febbe5e5fefefeffffaffe42fefffffe",
+      "text_jp": "IJh%<CMD_bf>cc$c<END><CMD_af><END><END><END><END>hぼ・aCわぺロプタEロわ■ネりダやKヅG±『ぬLJ%JaE■ウマb♀h▲GホH×ホh<END><END><CMD_ee>○ッhJ%JJ?IAぶぶろJぼhV%%hhh<CMD_af>hぼh<END>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 54,
+      "offset": 378884,
+      "length_bytes": 11,
+      "raw_hex": "39bb393d64113333eafffe",
+      "text_jp": "だVだどタちごご○<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 55,
+      "offset": 379028,
+      "length_bytes": 19,
+      "raw_hex": "feaef8f974742caeafe5efe5bb64fefefffffe",
+      "text_jp": "hIbcミミわIJ%▲%Vタhh<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 56,
+      "offset": 379140,
+      "length_bytes": 10,
+      "raw_hex": "fc99fc3940273dbefffe",
+      "text_jp": "fプfだぶらどY<END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 57,
+      "offset": 379284,
+      "length_bytes": 18,
+      "raw_hex": "e4bbbb74efe5feafaeeffeff73f4fffffffe",
+      "text_jp": "÷VVミ▲%hJI▲h<CMD_73>♀<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 58,
+      "offset": 379284,
+      "length_bytes": 99,
+      "raw_hex": "e4bbbb74efe5feafaeeffeff73f4fffffffefefe42fea6fefef442e5bebefee5bb5757cb8f8fc62cafae2cefbebee5e5afe5a8f8afe59fe5affeaf70e3f8f4afe59bcbe5feafeaf4afefe5feafe5e5e5beef406e6eea2bea74be42af42fefe42fefffe",
+      "text_jp": "÷VVミ▲%hJI▲h<CMD_73>♀<END>hhぼhAhh♀ぼ%YYh%Vウウ:ヅヅ6わJIわ▲YY%%J%CbJ%ェ%JhJフ×b♀J%ポ:%hJ○♀J▲%hJ%%%Y▲ぶハハ○ろ○ミYぼJぼhhぼh<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 59,
+      "offset": 379396,
+      "length_bytes": 4,
+      "raw_hex": "3dfcfffc",
+      "text_jp": "どf<CLOSE>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 60,
+      "offset": 379396,
+      "length_bytes": 11,
+      "raw_hex": "3dfcfffcfefffffffffffe",
+      "text_jp": "どf<CLOSE>h<END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 61,
+      "offset": 379540,
+      "length_bytes": 18,
+      "raw_hex": "ae74afe5aee5e5e5f8e5aefefef7cee5fffe",
+      "text_jp": "IミJ%I%%%b%Ihha・%<END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 62,
+      "offset": 379540,
+      "length_bytes": 77,
+      "raw_hex": "ae74afe5aee5e5e5f8e5aefefef7cee5fffeaffefefefefeaffed0afbeafafe5bb7356c8c87072eee5e5bbbebb46e5fefefee4cf7097afffffffffaae4f4e5e5fff5cb70f4fffff4e5e5affffe",
+      "text_jp": "IミJ%I%%%b%Ihha・%<END>JhhhhhJh?JYJJ%Vマイ88フホ△%%VYVぺ%hhh÷。フパJ<CMD_aa>÷♀%%<LINE>:フ♀<CMD_f4>%%J<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 63,
+      "offset": 379540,
+      "length_bytes": 79,
+      "raw_hex": "ae74afe5aee5e5e5f8e5aefefef7cee5fffeaffefefefefeaffed0afbeafafe5bb7356c8c87072eee5e5bbbebb46e5fefefee4cf7097afffffffffaae4f4e5e5fff5cb70f4fffff4e5e5affffefffe",
+      "text_jp": "IミJ%I%%%b%Ihha・%<END>JhhhhhJh?JYJJ%Vマイ88フホ△%%VYVぺ%hhh÷。フパJ<CMD_aa>÷♀%%<LINE>:フ♀<CMD_f4>%%J<END><END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 64,
+      "offset": 379652,
+      "length_bytes": 11,
+      "raw_hex": "fefabb393daffffffffffe",
+      "text_jp": "hdVだどJ<END>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 65,
+      "offset": 403604,
+      "length_bytes": 128,
+      "raw_hex": "fa9595956a6a7a7a7a7979939368f3f3f3f2f2f2f292d4d492d44ec84e4ed4d492c1c1c84dd3c8c8d3d3d3d3d3d3c84dc84d77d3b7777777c8b6e7c8c8e1e17aafdfe9af8c8c8c8cdcededdeedf9f9c0ccf9ccccccccf980ccf98080ccf9f97d7df9f9c07d7d959595958787878789898989df04dfdf04fafa9005fefdfefffe",
+      "text_jp": "dベベベニニヨヨヨユユビビト$$$♡♡♡♡バ--バ-ゅ8ゅゅ--バ118ゃ<88<<<<<<8ゃ8ゃモ<Rモモモ8Q&88--ヨJ】★Jゾゾゾゾ『■■【■cc0~c~~~~c~cワ~ccルルcc0ルルベベベベ層層ジジジジ】え】】えddデおhgh<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 66,
+      "offset": 403860,
+      "length_bytes": 216,
+      "raw_hex": "951e95956a6a6a7a7af79393939368f3f3cacaf2f2d5f2929292d4c1c14ed4d44ec1c1c8d3c8c8c8d3d3c8c8c8c8c8c84d4d77c8d37777e177777777e1c8e17af4c2dfe9e9c2c2f9bfdda39595dec0f9c0c0c0c07dc0c0c0f9f9f9f9f9f97d7d7d7d7d7d7d95958787878789898989898904df040404fafa90fbfbfefffffdfeffffffffffffc8cdffcd5fcdc8c8315f315f435f4b387364646464644b6431316464644b4b644b4b4b4b4b4b43ca5d5d434342433842c9b49e979797979797c7b5b5858b8b4a9a4949654455514949494a5252819b9a564b",
+      "text_jp": "ベほベベニニニヨヨaビビビビト$$//♡♡,♡バババ-11ゅ--ゅ118<888<<888888ゃゃモ8<モモ-モモモモ-8-ヨ♀2】★★22cZ』ョベベ【0c0000ル000ccccccルルルルルルルベベ層層ジジジジジジえ】えええddデeeh<CHOICE id=254><CMD_c8>.<CMD_cd>サ.88ぐサぐサぱサぇぞマタタタタタぇタぐぐタタタぇぇタぇぇぇぇぇぇぱ/ケケぱぱぼぱぞぼ9Oゥパパパパパパ7PP鴫ゼぅペぃぃチぴアゎぃぃぃぅヴヴ洩ペイぇ",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 67,
+      "offset": 404628,
+      "length_bytes": 126,
+      "raw_hex": "2afa959595952a6af97a93f779939393686868f3f3f3f3f2f2d5929292924e4e4e4e4ec1d4f44ed4c8c1c1c1e1c1c1c1c8e1c8c8c8e1c8c8e1c87777c8f4c17a968c96af8ce9dfe9e9d08c8c8c8cc0ed95de7dde7d95957d9595959595957d959595958787878789898989df0404df04df0404fafafafa90fb0505fefffe",
+      "text_jp": "れdベベベベれニcヨビaユビビビトトト$$$$♡♡,ババババゅゅゅゅゅ1-♀ゅ-8111-1118-888-88-8モモ8♀1ヨボゾボJゾ★】★★?ゾゾゾゾ0■ベ【ル【ルベベルベベベベベベルベベベベ層層ジジジジ】ええ】え】ええddddデeおおh<END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 68,
+      "offset": 404884,
+      "length_bytes": 127,
+      "raw_hex": "9595951e9595956a6a7a7a79f779939393686868c2f3f3f3caf2f2d592d4d492d4d4d4924ed4c1d4c1c1c1c1c1c1c1c1c8e169c8e1c8c1c87bc8f4c87bc1d47afcdf9696dfafc2dfc2afd08cc0878c95959595958c95958c9595879587958787878787878789898904df0404dfdf040404fa96fafafafbfbfb05fdfffffffe",
+      "text_jp": "ベベベほベベベニニヨヨユaユビビビトトト2$$$/♡♡,バ--バ---バゅ-1-111111118-ナ8-818ラ8♀8ラ1-ヨf】ボボ】J2】2J?ゾ0掃ベベベベベゾベベゾベベ漕漕層層層惣ジジえ】ええ】】えええdボdddeeeおg<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 69,
+      "offset": 405140,
+      "length_bytes": 126,
+      "raw_hex": "fa9595959595956a6a6a7af779937993936868686868c2f3f3f3caf2ca92f2d592d49292d4d4c14ed4d4d4d4d4c1c1c1c1e1c8e1c1c1f4d4c1c1f4c1c8e1d47afce0e0e0efdfe0dfdf8c8cd0878a8795958c95958787878787878787878787878787878989898904df8904df04040404fa96fafafa90fbfb05fefefffffe",
+      "text_jp": "dベベベベベベニニニヨaユビユビビトトトトト2$$$/♡/バ♡,バ-ババ--1ゅ-----1111-8-11♀-11♀18--ヨf+++▲】+】】ゾゾ?想漕ベゾベベ層層層層層層層惣ジジジえ】ジえ】ええええdボdddデeeおhh<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 70,
+      "offset": 405396,
+      "length_bytes": 125,
+      "raw_hex": "2efc1e951e1e95956a6a6a7a7af7f779939368d668686868f3f3caf3f2caf2f2f2d5d5d5d5929292d492d5d4d4d4d4c8f4c1c8c1d4c1d4d4e1f4d4f4c1e1f47ae0fcdfe0fce09696e98c8ce9898787878787878787878787877d8789898987898989890489dfdfdf040404040404fafafafafc90fbfbfbfbfbfefffffe",
+      "text_jp": "んfほベほほベベニニニヨヨaaユビビト'トトトト$$/$♡/♡♡♡,,,,バババ-バ,----8♀181-1---♀-♀1-♀ヨ+f】+f+ボボ★ゾゾ★ジ層層層層層層ル惣ジジ惣ジジジえジ】】】ええええええddddfデeeeeeh<END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 71,
+      "offset": 405396,
+      "length_bytes": 128,
+      "raw_hex": "2efc1e951e1e95956a6a6a7a7af7f779939368d668686868f3f3caf3f2caf2f2f2d5d5d5d5929292d492d5d4d4d4d4c8f4c1c8c1d4c1d4d4e1f4d4f4c1e1f47ae0fcdfe0fce09696e98c8ce9898787878787878787878787877d8789898987898989890489dfdfdf040404040404fafafafafc90fbfbfbfbfbfefffffefbfffe",
+      "text_jp": "んfほベほほベベニニニヨヨaaユビビト'トトトト$$/$♡/♡♡♡,,,,バババ-バ,----8♀181-1---♀-♀1-♀ヨ+f】+f+ボボ★ゾゾ★ジ層層層層層層ル惣ジジ惣ジジジえジ】】】ええええええddddfデeeeeeh<END>e<END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 72,
+      "offset": 405652,
+      "length_bytes": 124,
+      "raw_hex": "fb959595fc9595956a6a6a6af97a7af7f7f7797993936868686868f3cacaf3cacacaf2d5d5caf5f5f5d5d4d5d5d4d5d4f4c1f4d4d4c1d4d4d4c1d5f5d4ecd47ae0e0dfe0fcfcef96e9d08cde8c89d087de87898987898989877d89898989898904898989df040404df0404fafafafafafcfbfafbfbfbfb0505fefffe",
+      "text_jp": "eベベベfベベベニニニニcヨヨaaaユユビビトトトトト$//$///♡,,/♂♂♂,-,,-,-♀1♀--1---1,♂-□-ヨ++】+ff▲ボ★?ゾ【ゾジ?耐惣ジ惣ジジ僧ジジジジジジえジジジ】えええ】ええdddddfedeeeeおおh<END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 73,
+      "offset": 406932,
+      "length_bytes": 126,
+      "raw_hex": "d22efafafafafafafafafafc1efc95956a6a6a6af9f97af779f7f7f7f7f7f7f793d6f7d6d69344d6f879d644d6d6d6d6f8f8f86bc2f6cacac2f868c2f6caf37afc90fb90fceffcfadfd0d08904040404dfdfdfd0df96957dde95df0404fafa04fafafafafafafafafbfafafbfbfbfb05fb05fb05fbfbfafa0404fefefffe",
+      "text_jp": "*んdddddddddfほfベベニニニニccヨaユaaaaaaaビ'a''ビぴ'bユ'ぴ''''bbbヌ2!?//2bト2!?/$ヨfデeデf▲fd】??ジええええ】】】?】ボベル【ベ】ええddえddddddddeddeeeeおeおeおeeddええhh<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 74,
+      "offset": 407700,
+      "length_bytes": 123,
+      "raw_hex": "fbfb2efbfb2727d22727fbfbfbfafafafafcfafcfcfcfc956afc95da95da6a6af9f96af9f9daaff9aff9f9f9f9aff9f7f7f7f7f7f7f77993f793d6f7f7f7797afbfbfefdfd90e0df96fafcfa969689df04960404df96fafadf96dffafafb89dffbfb05fa05fbfb05fafb05050505fe05fe05fefe05fe05fefefffe",
+      "text_jp": "eeんeeらら*ららeeeddddfdffffベニfベ「ベ「ニニccニcc「JcJccccJcaaaaaaaユビaビ'aaaユヨeehggデ+】ボdfdボボジ】えボええ】ボdd】ボ】ddeジ】eeおdおeeおdeおおおおhおhおhhおhおhh<END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 75,
+      "offset": 408724,
+      "length_bytes": 19,
+      "raw_hex": "fdc4383737d73157690b51512aaf4e8f4aa019",
+      "text_jp": "g4ぞぜぜ…ぐウナさゎゎれJゅヅぅォの",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 76,
+      "offset": 450984,
+      "length_bytes": 10,
+      "raw_hex": "fc3bfe0f3bfe3bfefffe",
+      "text_jp": "fづhそづhづh<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 77,
+      "offset": 451240,
+      "length_bytes": 9,
+      "raw_hex": "fa8efcfef771fefffe",
+      "text_jp": "dヂfhaヘh<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 78,
+      "offset": 451240,
+      "length_bytes": 12,
+      "raw_hex": "fa8efcfef771fefffefffffe",
+      "text_jp": "dヂfhaヘh<END><END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 79,
+      "offset": 455649,
+      "length_bytes": 77,
+      "raw_hex": "045c80b3988484ac988f84848e435c4c5c7b7165717184737085858c4376a1a18e9196968e96a3a19c989aa1a1a1a19a949eb3bbc3bbbbbbd1d1d1e1e1dae1edededf4f4f4f5edfdfffffffffc",
+      "text_jp": "えクNピ硬Gピヅ硬ヂぱクぉクラヘチヘヘ拘フ蒔ゾぱメャャヂドボボヂボョャァピペャャャャペブゥNV3VVV!!!--「-■■■♀♀♀♂■g<CLOSE>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 80,
+      "offset": 455905,
+      "length_bytes": 77,
+      "raw_hex": "046e869896877a96ac98967a7b6e4c4370848465624f7b867a658c76297a9690768c968f8e6a96acacaca3a1a698969a94b3bbbbbbc3bbc7dae1e1e1d1c2e1edf4eddaf9f4dadafffffffffffe",
+      "text_jp": "えハ織ボ阻ボGピボヨラハぉぱフ硬チセょラ上チゾメるヨボデメゾボヅヂニボGGGョャAピボペブNVVV3V7「---!2-■♀■「c♀「「<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 81,
+      "offset": 455977,
+      "length_bytes": 254,
+      "raw_hex": "fefcfdfef9fefef6fafcfcf4eed1d1bbc7d587d1f4e2d5d5d0c7c3c2e1f4d5c6bbb37ba1dcdca8b3d0d1d5dcbe8c7e848c9896213096adb2b2a398a3beb5ad92988c7a708698928484709298868496854c8fa1988598a3a3987e9fb5b5b2adadad9c9c9694afb3bbb3b5b5bbc6c6bebbb3a8bbc6d1beb7d1c6a8a8f7f8daf4fcfaf9edd1d1e1edede0e0f4dab7c2c2856ec2c2a8b7bba8a8a8a8a8768bc2dab7a6aca69a96bb9e9ea6948bacac9465764f6a6e24117a8e96a196847b86a1b398705c3b6e7a8e967a624c5c7a7470846a85968e768b808c9a8f2a51a6adadaca3a1969a85a6bbbbb3bbc7c7d1d5e1e1e1e1daededf4f4fafadadaedfffffe",
+      "text_jp": "hfghchh!?dff♀△!!V7,堕♀±,,?732-♀,6VNラャ『『CN?!,『Yゾレ考ピボむぎボHMMョピョYPHバピゾヨフ織バ硬フバピ常ボ姿ヅャピ漆ョョピレェPPMHHHァァボブJNVNPPV66YVNCV6!YR!6CCab「♀fdc■!!-■■++♀「R22雌22CRVCCCCCメゼ2「RAGAペボVゥゥAブゼGGブチメょニハやちヨヂボャボ梗信Nピフクづハヨヂボヨセぉクヨミフ巷悉ヂメゼゾペヅれゎAHHGョャボペ射VVNV77!,----「■■♀♀dd「「■<END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 82,
+      "offset": 455982,
+      "length_bytes": 768,
+      "raw_hex": "fcfdfef9fefef6fafcfcf4eed1d1bbc7d587d1f4e2d5d5d0c7c3c2e1f4d5c6bbb37ba1dcdca8b3d0d1d5dcbe8c7e848c9896213096adb2b2a398a3beb5ad92988c7a708698928484709298868496854c8fa1988598a3a3987e9fb5b5b2adadad9c9c9694afb3bbb3b5b5bbc6c6bebbb3a8bbc6d1beb7d1c6a8a8f7f8daf4fcfaf9edd1d1e1edede0e0f4dab7c2c2856ec2c2a8b7bba8a8a8a8a8768bc2dab7a6aca69a96bb9e9ea6948bacac9465764f6a6e24117a8e96a196847b86a1b398705c3b6e7a8e967a624c5c7a7470846a85968e768b808c9a8f2a51a6adadaca3a1969a85a6bbbbb3bbc7c7d1d5e1e1e1e1daededf4f4fafadadaedfffffefffffffffdfaf4f4f5faf4f4f5edd1e1d5b3acdadcc3d1d0c3c3c3c3bba6acdae1c6b5bebab5b2c6b5b3b5aca6b5bead8c967a8e8f594498a39fa3a99f889fb2b59f8673587b8698a1867a5b6e837c7a8f738498967e8c859698964265a9adb3ada3a196968598b3b3adacb5b3b5bebbc3bbb3acb3c3c7bec3bea8a6a8daf4dcf4f5fcfcdadad1dadae1dada9e8b5c8bb7a8859ed1c2b3b394859a94b39476769eedb7acb39a859696a1a19a858c9aa6946a5c736e6e6e70848e8e968e966486a3ac844f5c7b847a76867e64717a7a84848498ac73160c22909076330873a1adb3ac98918e8bacacb3bbb3c3bec7d1dae1eddae1edf4edfafafafae1dafdfffdfdfffffff4f4f4ededf4e1e1b3b390acd1bbacb3d5d5becbb3acb5adbeac96a1b3dcc6bac3ad98a9adadb2ad9698a4b5a37e7e86868686869296929898927b96a9ad8662708f8f867b867b6d7b7b7b7b868392a373281b348e8e7342157a98a9ac989886867e969c9fa3a1ada5acb5b5bbbba5acb3bbb5b5c7b5af9a8cdae0faf4fef4dadad1d1e1e1dac29e9e853b8b8b9edaa8948b94a66a6a94a8a68b6a4c9eb7edb3a14f298487858ca69a8e848796765c6e6e7673737e7a847f84967a718496735c627164335c8e968484717a7b737a96a61605075c32226549220465a6b3a196858596a6a6acb5bbbbbbbbd1d5e1da94d1e1ed59edfaf4f4edb7fefffffffffe",
+      "text_jp": "fghchh!?dff♀△!!V7,堕♀±,,?732-♀,6VNラャ『『CN?!,『Yゾレ考ピボむぎボHMMョピョYPHバピゾヨフ織バ硬フバピ常ボ姿ヅャピ漆ョョピレェPPMHHHァァボブJNVNPPV66YVNCV6!YR!6CCab「♀fdc■!!-■■++♀「R22雌22CRVCCCCCメゼ2「RAGAペボVゥゥAブゼGGブチメょニハやちヨヂボャボ梗信Nピフクづハヨヂボヨセぉクヨミフ巷悉ヂメゼゾペヅれゎAHHGョャボペ射VVNV77!,----「■■♀♀dd「「■<END><CHOICE id=250>♀♀♂d♀♀♂■!-,NG「『3!?3333VAG「-6PYUPM6PNPGAPYHゾボヨヂヅオぴピョェョDェザェMPェ賞エラ織ャ上キハ琴ヨヅマ郊ボレゾ悉ピボぼチDHNHョャボボ漆NNHGPNPYV3VNGN37Y3YCAC「♀『♀♂ff「「!「「-「「ゥゼクゼRC偲!2NNブ質ブNブメメゥ■RGNペ悉ボャャペ竺ペAブニクマハハハフ肱ヂボヂボタ唇G護クラ校メ冗タヘヨヨ硬郊GマにしめデデメごくマャHNGピドヂゼGGNVN3Y7!「-■「-■♀■dddd-「g<CHOICE id=253><CMD_f4>♀♀■■♀--NNデG!VGN,,Y:NGPHYGボャN『6U3HピDHHMHボピッPョレレ擾擾埴ボバピピバラボDH祥フヅヅ丈丈ノララララ嬢バョマりひざヂヂマぼなヨピDGピピ擾レボァェョャHヮGPPVVヮGNVPP7PJペゾ「+d♀h♀「「!!--「2ゥゥ酸ゼゼゥ「CブゼブAニニブCAゼニぉゥR■Nャょる紅竺Aペヂ紅ボメクハハメママレヨ浩貢ヨヘ貢マクセヘタごクヂボ硬ヘヨラマヨボAにおきクげめチぃめえチANャボ蒔ボAAGPVVVV!,-「ブ!-■オ■d♀♀■Rh<END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 83,
+      "offset": 456745,
+      "length_bytes": 764,
+      "raw_hex": "fef4edf4e2eee2e0d1b7b3a67baca6bbd0b7afa5a6b59a90acb5b5a18e7bacb3d5b6ad7b629999969ca9a7a38f8f9884747b7b86848686868f868f9686838f927062717b713d58869286837171727071929628101551392b5c5131105898a3968e706e7b86848996a1a19696acadaca15b8ea19c3090b3aca59a62c2f4edede0dae9f4edebeddac2b78bb0855c5c80b7c2a89e766a658b9e9ea8d1945c499a8b94801f030358846585909a96733b657a6a746e657e734c6570626884747a71704c7064582a22438e968474707b7a516e8e22061622330839858484846a8eaca59a764f909ca1949eb3c7bbc3cadad1b7b77651231d42c2eda894dafcfffdfefcedfcfcf5f5eddad1bba6b39a898e9cb3beb3ac8f8e8ea1aca6b3be9a847aa1989c8e502b2b72968486989f99865971847a7b7b74867b6264717172717286726d4e71716139274286967b68647b714d59862b101e28391238737173645b7b989186654673867f736e90a590a1a5a190766e382b171223748652477edaf4f4c28b9ec2dae0ededdab74994b0a85c3385a8c2b0a8948b9a9aa6a6a8a89e9e85949a9480803f082286705c6e8b9a6533587a65255b7a848765332a2a2a654c7b703c6270643b2a3343708e7465747a745c6e4f0611153b15042a858e8e878e96a6a6a68e22858c8ba1a6a6b3b7bbc7a84980c2b7514e7394edede1ede1faffffedbbc7e1edede0e0d5b37f9cb3b3846391b5bbb3aca6a1a3a3adadacada6a68e989d9689895d304e92867a7a8f98714e6483713a6483868671423842424e4e7b71476d6d64423839396386614e6871644d584210171b391b0e2c627a7b7a717b8e8e8e71236567707475737a8e90986a2a4667672121314484827a7376e1f4f4daa89485b7b7c2e1edda9eb09e655c3b76a8afa8b7c2c2d1b094949e94768ba68e5c6a9eb7e0d154738c65657a844f4f5b4d5808113973845c4c51434c5c3b62584362644c2a3b33325870585d5d3b1c06081c4c49654f080119227e87748e87969aa6963f6a8596a6a18b85a6b7bba8858bb7dac2e1edda9ee1ededf4fe",
+      "text_jp": "h♀■♀±△±+!RNAラGAV?RJヮAPペデGPPャヂラGN,QHラセププボァDBョヅヅピ控ララ常擾醸醸ボ嬢ヅバフセヘラヘどエ埴嬢ヘヘホフヘバボりたなゎだろクゎぐたエピョボヂフハラ常ジボャャボボGHGャキヂャァぎデNGヮペセ2♀■■+「★♀■●■「2RゼK氏クR2CゥメニチゼゥゥC!ブクぃペゼブまううエ孔七ペボマづチヨニミハチレマぉチフセト控ヨヘフぉフタエれめぱヂボ控フラヨゎハヂめかにめごくだ自硬ニヂGヮペメょデァャブゥN7V3/「!RRメゎもへぼ2■Cブ「f<CHOICE id=254>f■ff♂♂■「!VANペジヂァNYNGヅヂヂャGANYペ校ャピァヂっろろホボ糠ピェプ渉ヘ校ララミ丈セタヘヘホヘホ象ノゅヘヘスだらぼ殖ラトタラヘゃオ諸たほりだつぞマヘマタキラピド笑ぺマ剰マハデヮデャヮャデメハぞろぬつもミ晶ぽレ「♀♀2ゼゥ2「+■■「RぃブKCクご赦2KCブゼペペAACCゥゥ嫉ペブワびくめ詔クハゼペチごエヨチゆキヨ紅チごれれれチぉラフでセフタづれごぱフヂミチミヨミクハょかちなづなえれ宍ヂ掻ボAAAヂめ竺ゼャAANRV7Cぃ2Rゎゅマブ■■-■-d<CMD_ed>V7-■■++,NロァNN垢ドPVNGAャョョHHGHAAヂピィボジジケぎゅバ上ヨヅピヘゅタ玉ぢタ近詳ぼぞぼぼゅゅラヘぽノノタぼぞだだソ礁ゅトヘタゃエぼたぬひだひせわセヨラヨヘラヂヂヂヘもチテフミムマヨヂデピニれぺテテむむぐぴ甲ヨマメ-♀♀「Cブ灼R2-■「ゥKゥチクづメCJCR22!KブブゥブメゼAヂクニゥR+!オマゾチチヨ護ょキゃエくちだマ勾ぉゎぱぉクづセエぱセタぉれづごげエフエケケづふかくふぉぃチょくあのめレ租ヂ燥ペAボびニ悉Aャゼ射RVC鴫R「2-■「ゥ-■■♀h",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 84,
+      "offset": 457257,
+      "length_bytes": 256,
+      "raw_hex": "edbbc7e1edede0e0d5b37f9cb3b3846391b5bbb3aca6a1a3a3adadacada6a68e989d9689895d304e92867a7a8f98714e6483713a6483868671423842424e4e7b71476d6d64423839396386614e6871644d584210171b391b0e2c627a7b7a717b8e8e8e71236567707475737a8e90986a2a4667672121314484827a7376e1f4f4daa89485b7b7c2e1edda9eb09e655c3b76a8afa8b7c2c2d1b094949e94768ba68e5c6a9eb7e0d154738c65657a844f4f5b4d5808113973845c4c51434c5c3b62584362644c2a3b33325870585d5d3b1c06081c4c49654f080119227e87748e87969aa6963f6a8596a6a18b85a6b7bba8858bb7dac2e1edda9ee1ededf4fefffe",
+      "text_jp": "■V7-■■++,NロァNN垢ドPVNGAャョョHHGHAAヂピィボジジケぎゅバ上ヨヅピヘゅタ玉ぢタ近詳ぼぞぼぼゅゅラヘぽノノタぼぞだだソ礁ゅトヘタゃエぼたぬひだひせわセヨラヨヘラヂヂヂヘもチテフミムマヨヂデピニれぺテテむむぐぴ甲ヨマメ-♀♀「Cブ灼R2-■「ゥKゥチクづメCJCR22!KブブゥブメゼAヂクニゥR+!オマゾチチヨ護ょキゃエくちだマ勾ぉゎぱぉクづセエぱセタぉれづごげエフエケケづふかくふぉぃチょくあのめレ租ヂ燥ペAボびニ悉Aャゼ射RVC鴫R「2-■「ゥ-■■♀h<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 85,
+      "offset": 462078,
+      "length_bytes": 126,
+      "raw_hex": "020a0a080501082a3d2a0d071601023d5132467e67463f51676e6b6b465476a6b7a8b7c7c2c7c7c7c2dafff5c68f727c8175505f96917e70745d6270687e525d8686918958687468687e734e313827313831212b12123158231b313134594217090e1b4d392d170610592c2331261010130d02040213281c161c0d0f130d",
+      "text_jp": "いここくおあくれどれすきにあいどゎげぺレテぺびゎテハヌヌぺオメARCR727772「<LINE>6ヅホリ右っサボドレフミケセフトレヴケ擾ドジエトミトトレマゅぐぞらぐぞぐむろつつぐエもひぐぐざオぼぬけせひゃだをぬかたオわもぐよたたてすいえいてりふにふすそてす",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 86,
+      "offset": 470418,
+      "length_bytes": 152,
+      "raw_hex": "0507030d0d185f6959413c352e32465f5b0806020206fcfcf4b374f4b794658bb7a8806025448b3c122646787e543d40605b172b3d1d2f5b2a092168511b2a2a2538684e04091e241504151e182415253f46735b2c2a5c252c707f5e76766a786b4f54321009125d737e82465b5e73875b150d257860323c1e121e2f1e120926262c3d2f3456b09c9ea580808bc2b0c2d1a8c2787367fffe",
+      "text_jp": "おきうすすねサナオべでじんげぺサキくかいいかff♀Nミ♀RブチゼRCシゆぴゼでつよぺヤレオどぶシキぬろどへがキれけむトゎひれれゆぞトゅえけほやなえなほねやなゆびぺマキわれクゆわフロコメメニヤヌょオげたけつケマレ鎧キコマ銭なすゆヤシげでほつほがほつけよよわどがざイKァゥヮワゼ2K2!C2ヤマテ<END>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 87,
+      "offset": 473128,
+      "length_bytes": 258,
+      "raw_hex": "fdfef5da6989b3b37f74a5916b6c4e4e7452304459527868444760564864381d4468622b6887907e6056605b68842b122c3c2817312a2325151a353f1e1825241e1818324c463f4f3f2f3f35201f2e3b4043605b402a2f5e6e79671b04101506100606020218110102041105010817695f5f75693c335154705f69311e1e140dfefcf5bb7fedc2947387c2b78b6b314e944717385187875e4752736b213852263d6734122d745d2835343147725909122c2c23092325232c1e3251515d51383465343462746b7e7e738273565b3d170e216874878951676a7e90671b12327f683d462617253c2517122d2d374a3d3d6bafa5a6b087949ec2c2c2e1a8c287827afffc",
+      "text_jp": "gh♂「ナジNNロミヮドヌネゅゅミヴぎぴオヴヤトぴぽシイぁタぞへぴトセろト早レシイシキト己つわでりぬぐれもゆなはじびほねゆやほねねげぉぺびょびがびじみまんづぶぱシキぶれがコハユテひえたなかたかかいいねちあいえちおあくぬナササムナでごゎオフサナぐほほとすhf♂Vロ■2ブマ袖Rゼヌぐゅブぽぬぞゎ層コぽヴマヌむぞヴよどテざつをミケりじざぐぽホオけつわわもけもゆもわほげゎゎケゎぞざチざざセミヌレレマ活イキどぬせむトミ惣ゎテニレデテひつげロトどぺよぬゆでゆぬつををぜぅどどヌJヮAK槽ゥ222-C2喪ヨ<CLOSE>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 88,
+      "offset": 481448,
+      "length_bytes": 258,
+      "raw_hex": "fefef5e2e2f4e2c0ad7da3c7b3a5989c9c9c9c9c72889f92a4ad8f7288937f8f9c7f8964506159453a503a457263444545507c7c646350595a6472724e508f8a92646363636353453a3a455a4e3a775045303a4545303a63503645454572695972885f30304588868fada39993a4aea4aec0b6b6cbd4e2e2f4f5f4e2e2e9f4f4fcfce2c6bec6bb9d7c5a729c917f7b7584848189637c8f88a3a38671868f7b89967f7f615059503e3a4e304564643a3a3a4e727159593a4e45506468383a7b86644e4e4e484e3d30212730443121593026172127272730714e2b3a38447b7352748e5d0e12174e474e7b685d4a888888888d92868f93999c9da3995952595d59fffe",
+      "text_jp": "hh♂±±♀±0Hルョ7NヮピァァァァァホザェバッHヅホザビロヅァロジタっスオぷぢっぢぷホソぴぷぷっリリタソっオカタホホゅっヅズバタソソソソノぷぢぢぷカゅぢモっぷぎぢぷぷぎぢソっずぷぷぷホナオホザサぎぎぷザ醸HョプビッIッI0QQ:-±±♀♂♀±±★♀♀ff±6Y6Vィリカホァドロラム硬浦ソリヅザョョ詳醸ラジボロロスっオっばぢゅぎぷタタぢぢぢゅホヘオオぢゅぷっタトぞぢラ章ゅゅゅぁゅどぎむらぎぴぐむオぎよぬむらららぎヘゅろぢぞぴラマヴミヂケせつぬゅぽゅラトケぅザザザザダバ醸ビプァィョプオヴオケオ<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 89,
+      "offset": 481576,
+      "length_bytes": 258,
+      "raw_hex": "fcfce2c6bec6bb9d7c5a729c917f7b7584848189637c8f88a3a38671868f7b89967f7f615059503e3a4e304564643a3a3a4e727159593a4e45506468383a7b86644e4e4e484e3d30212730443121593026172127272730714e2b3a38447b7352748e5d0e12174e474e7b685d4a888888888d92868f93999c9da3995952595d59fffeeabcb1b6beae99a4d4d5b5adad98989c9ca38686a4a4aea77b88918888988f71505945506153455030305a7c50446464638877453030598372665330458a8f637263505050453030305a726364635350645a30213650534e45305a778f7c5a506336368a998892b5a49893a3aeb5aeb6a3adbed4e2e2eaf5f5f5f5f5f6f6fffc",
+      "text_jp": "ff±6Y6Vィリカホァドロラム硬浦ソリヅザョョ詳醸ラジボロロスっオっばぢゅぎぷタタぢぢぢゅホヘオオぢゅぷっタトぞぢラ章ゅゅゅぁゅどぎむらぎぴぐむオぎよぬむらららぎヘゅろぢぞぴラマヴミヂケせつぬゅぽゅラトケぅザザザザダバ醸ビプァィョプオヴオケオ<END>○WLQYIプッ-,PHHピピァァョ擾ッッIBラザドザザピヅヘっオぷっスノぷっぎぎカリっぴタタソザモぷぎぎオ桐ツノぎぷズヅソホソっっっぷぎぎぎカホソタソノっタカぎむずっノゅぷぎカモヅリカっソずずズプザバPッピビョIPIQョHY-±±○♂♂♂♂♂!?!?<CLOSE>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 90,
+      "offset": 483245,
+      "length_bytes": 258,
+      "raw_hex": "fefee2b2a2e0f4d0ae998897b5c0c6b59888777271938f81837c55457ca3635a50456688886172978f63728399a38845365a615a6372727d8a8863867b88886f637c7c725036455a5050617b635036303661615a5a7c45459299927c868692886f889fb6a48f83888a99a4adb5997d8d9baeaed0dcc0c4e2f4f6f5c4c6bebed5e2dcb5887cb5bea3867b637b98a3ae988675636d5a8989757b7245457c986150453a637b7b596d8f8f5a64728f987b3a3045454e5064617283725859647a7b504e64644e3a2730443031425b442b2112213838302d522121717b64475252644e384e648f7047383e42474e585d382127303a304862383e52697f74ebf6fcfcfdfffe",
+      "text_jp": "hh±Mュ+♀?IプザパP06Pピザモホヘビヅ唄リアぷリョソカっぷツザザスホパヅソホ喰ョザぷずカスカソホホルズザソ丈ザザヒソリリホっずぷカっっスラソっずぎずススカカリぷぷバプバリ擾バザヒザェQッヅ吟ズプッHPプルダポII?『04±♀!?♂46YY,±『PザリPYョ丈ソラピョIピ鉦ソノカジジムラホぷぷリピスっぷぢソララオノヅヅカタホヅピラぢぎぷぷゅっタスホ桐エオタヨラっゅタタゅぢらぎぴぎぐぼキぴろむつむぞぞぎをヴむむヘラタぽヴヴタゅぞゅタヅフぽぞばぼぽゅエケぞむらぎぢぎぁセぞばヴナロミ●!?ffg<END>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 91,
+      "offset": 483500,
+      "length_bytes": 258,
+      "raw_hex": "fdfffee2d0bed0e2beb6ae927d7dc4c4cbc6ae668399927c7b7c8f63698899725a5a5a77998686a9928897888f998a5a5a3636639272637c7d9292868886837c77887c5a5072727c5050506f7b634530556f6d635a6f8845558f9998888892a388869898a49992928f99a4ada9a9978a8daeb6cbdce2c5b1d2e9f4eae2e9ede2f4f5e9bea392a9b5988888696363a3adb5b5985a728f81717172866369819863535050728f7b759f8f7c8f727b8f8350453030537d5350696d83886d597171645f71643a3053506430312b45583e2112304e4d443044612127647b715959647b524d625f715d524744455259534d302b2b3a444d5d5d3e2b4e5d745deaf5fdfffffe",
+      "text_jp": "g<END>±?Y?±YQIバルル44:6Iツ喰バリラリヅソナザプホカカカモプ擾Dバザパザヅプズカカずずソバホソリルババ杖嬢リモザリカっホホリっっっヒラソぷぎアヒノソカヒザぷアヅプピザザバョザ織ピップババヅプッHDDパズダIQ:『±5L*★♀○±★■±♀♂★YョバDPピザザナソソョHPPピカホヅ陰ヘホ称ナ栄ソノっっホヅラムェヅリヅホラヅ叫ぷぎぎノルノっナノ吟ノオヘヘタサヘタぢぎノっタぎぐろぷエばむつぎゅゃぴぎぴスむらタラヘオオタラヴゃセサヘケヴぽぴぷヴオノゃぎろろぢぴゃケケばろゅケミケ○♂g<END>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 92,
+      "offset": 484010,
+      "length_bytes": 768,
+      "raw_hex": "fcfed6bcc5bcb8bcdce2dccbc6b6927797bebec4cbb6a47d7c8688aca55a666f988686928a99a4c0beb2aeaa978f8a7d929797726f6f7d929292a08a7d88978a997c92928a816f50775a7788927c7b775a6372837c6372926f5572636f5566a0b2a08a8a979fa4aaa38aada999aaa49f99a4aebac0d4e2bcbcd2c5ccddeaede0f4f5b59798929292adb5b3a5a39372557ca39db5c0a78f776d75869c9c5050638f7b7c86838a93b5b5aea49f8f83727c7c8f8f5a5a5a63758683926f637263778f637271755f503a503a4e63715953503a384e59593a4e733a3044303a213a728f7150455a5f7069644464594e594e44384445474e6870453a4e44455970fefdfffdfedde2d4bcc4e2ebe2dcd0d0ae7d8db5adaec0bc938f7c83989292666377a4a39292aeaec4c0b6a9928886928f7d8f72837c726f7c929297a9a09b97a08aa07d868d9999928d8f888a92999292977d72728372778f8f5066777d5a555577aa9b66558aa4aeb2b68aa9a99997a0aeaeaeb1bccbbcc5abb4d2e2d2ebf6fcfcfcf5eab5b6ae9299aeb6b5adadad925577988f98a4ad867b71728986865a5a6f9292868f99a3b5b6ad9f7c7272867c6f7b5a6363615a637b7c88928a8f886f7b8f64647b86837b72695a69717b71717459454e614e5064642730454e27212744836330214571717b7b445a62483a4e59504e4e4e5d445a3030485d4e7589eafefff5fffdfdfdf6eaeaf4e2e2e2d0d0978dbeb2b599a4a998887d9892776f7d7daea499a3a4a5a4aeb2a3888698a392887d837c7c8a8a7c88725a7da9a9aaaa839b8f889299999299989f97999292886f72727c838377836f557d928855666f8a8a6f7c77b2aeaeb6b6a0a4aaa48d8da2bac0c6c0cbcbc5b4b4d6eaf5eaf6c4f5fed0f6f5eae9cbb5b5beb5b5b5adb27777a39898889298887b728f866363727799989292989892a3a98f7b7b86967c7b726363717c6f6372503a6392979f8f63836971727b7b7b717586727c71715f454e4e4e59504e5944215064592730305950303a387b7b747b86595964593a3045686268595d5d483a3a5974866989ebfb",
+      "text_jp": "fh'W5WSW『±『:6QバモパYY4:Qッルリ杖Gヮカツヒピ擾バズプッ0YMIEパヅズルバパパホヒヒルバババォズルザパズプリババズ蔭っモカモザバリラモカソホ琴ソホバヒアホソヒアツォMォズズパェッEョズHDプEッェプッIU0-±WW*5~』○■+♀♂PパピバババHPNヮョビホアリョィP0Bヅモノム食ァっっソヅラリ嬢ズビPPIッェヅ桐リリヅヅカカカソム嬢バヒソホソモヅソホヘムサっぢっぢゅソヘオノっぢぞゅオオぢゅマぢぎぴぎぢむぢホヅヘっぷカサフナタぴタオゅオゅぴぞぴぷぽゅトフぷぢゅぴぷオフhg<CHOICE id=254>』±-W4±●±『??IルダPHI0Wビヅリ虞ババツソモッョババII40QDバザ埴ヅルヅホ琴ホヒリババパDォポパォズォル蒸ププバダヅザズバプババパルホホ桐モヅヅっツモルカアアモEポツアズッIMQズDDプパォIIILW:W5FO*±*●!?fff♂○PQIバプIQPHHHバアモピヅピッH丈ヘホジ擾カカヒババ醸プョPQHェリホホ丞ヒラカソソスカソラリザバズヅザヒラヅタタラ嬢ラホナカナヘラヘヘミオぷゅスゅっタタらぎぷゅらむらぴ蕎ぎむぷヘヘララぴカセぁぢゅオっゅゅゅケぴカぎぎぁケゅムジ○h<LINE><CHOICE id=253>g!?○○♀±±±??パダYMPプッDピザルピバモヒルルIップョッヮッIMョザ織ョバザル琴リズズリザホカルDDEE偶ヅザバププバプピェパプババザヒホホリ衿モ曲アルバザアツヒズズヒリモMIIQQォッEッダダュU060::5OO'○♂○!?4♂h?!?♂○★:PPYPPPHMモモョピピザバピザラホヅ称ソホモプピババピピバョDヅララ殖リラホソソヘリヒソホっぢソバパェヅソ仰ヘホラララヘム象リヘヘサぷゅゅゅオっゅオぴむっタオらぎぎオっぎぢぞララミラ渉オタオぢぎぷトセトオケケぁぢぢオミ菖ジ●e",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 93,
+      "offset": 484525,
+      "length_bytes": 258,
+      "raw_hex": "fdfdfdf6eaeaf4e2e2e2d0d0978dbeb2b599a4a998887d9892776f7d7daea499a3a4a5a4aeb2a3888698a392887d837c7c8a8a7c88725a7da9a9aaaa839b8f889299999299989f97999292886f72727c838377836f557d928855666f8a8a6f7c77b2aeaeb6b6a0a4aaa48d8da2bac0c6c0cbcbc5b4b4d6eaf5eaf6c4f5fed0f6f5eae9cbb5b5beb5b5b5adb27777a39898889298887b728f866363727799989292989892a3a98f7b7b86967c7b726363717c6f6372503a6392979f8f63836971727b7b7b717586727c71715f454e4e4e59504e5944215064592730305950303a387b7b747b86595964593a3045686268595d5d483a3a5974866989ebfbffeaeafffe",
+      "text_jp": "ggg!?○○♀±±±??パダYMPプッDピザルピバモヒルルIップョッヮッIMョザ織ョバザル琴リズズリザホカルDDEE偶ヅザバププバプピェパプババザヒホホリ衿モ曲アルバザアツヒズズヒリモMIIQQォッEッダダュU060::5OO'○♂○!?4♂h?!?♂○★:PPYPPPHMモモョピピザバピザラホヅ称ソホモプピババピピバョDヅララ殖リラホソソヘリヒソホっぢソバパェヅソ仰ヘホラララヘム象リヘヘサぷゅゅゅオっゅオぴむっタオらぎぎオっぎぢぞララミラ渉オタオぢぎぷトセトオケケぁぢぢオミ菖ジ●e<CMD_ea>○<END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 94,
+      "offset": 485547,
+      "length_bytes": 258,
+      "raw_hex": "feebf6f6eff6f5f4eff6f6f5eaeae2dceaeac6d0eaeac0a0b6b5a4b6dcb5b6d4c6bac3b6d0d0bec6e9beb5b592aebcb1b8c0c0bc7d558a92775597a9b6c4b69faab8bcb1b1a49f998a9fb8b1b19f928f996f556666b19299a3a9a9a3a3a49fbabed2ddd2d2cbbad2baa097b1cbb1bcabc5c5d0d2f5fefefdfed3ebfeebfefcf5e2d0d6d0c0d0c6bec0d4d0d0c3c4c0bed0c6b5b5e2dcae92a4a393adc4a7adc0b5adada3b5beadb5c4ada3988692ae99a4b2aea96f3a72866345728899929f7c8899a398998683725a83999288726359693a3030368f61637a747b71717468918faebca9a498819f7f504464866463506364716898b5c0c6b55086a17ffffffffffe",
+      "text_jp": "h●!?!?▲!?♂♀▲!?!?♂○○±『○○6?○○0ォQPッQ『PQ-6U3Q??Y6★YPPバIWLS00WルアズバモアパDQ4QェESWLLッェプズェSLLェバヅプヒアツツLバプョDDョョッェUY*』**:U*UォパL:LWF55?*♂hhgh<●h●hf♂±?'?0?6Y0-??340Y?6PP±『IバッョビH4BH0PHHョPYHP4Hョピ埴IプッMIDヒぢホ称ぷホザプバェリザプョピプ嬢ホカ喰バザホソオナぢぎぎずヅスソヨミラヘヘミトドヅIWDッピ頴ロっぴタ章ソっソタヘトピP06Pっ信ロ<END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 95,
+      "offset": 485553,
+      "length_bytes": 258,
+      "raw_hex": "f5f4eff6f6f5eaeae2dceaeac6d0eaeac0a0b6b5a4b6dcb5b6d4c6bac3b6d0d0bec6e9beb5b592aebcb1b8c0c0bc7d558a92775597a9b6c4b69faab8bcb1b1a49f998a9fb8b1b19f928f996f556666b19299a3a9a9a3a3a49fbabed2ddd2d2cbbad2baa097b1cbb1bcabc5c5d0d2f5fefefdfed3ebfeebfefcf5e2d0d6d0c0d0c6bec0d4d0d0c3c4c0bed0c6b5b5e2dcae92a4a393adc4a7adc0b5adada3b5beadb5c4ada3988692ae99a4b2aea96f3a72866345728899929f7c8899a398998683725a83999288726359693a3030368f61637a747b71717468918faebca9a498819f7f504464866463506364716898b5c0c6b55086a17ffffffffffef6fefdfffffe",
+      "text_jp": "♂♀▲!?!?♂○○±『○○6?○○0ォQPッQ『PQ-6U3Q??Y6★YPPバIWLS00WルアズバモアパDQ4QェESWLLッェプズェSLLェバヅプヒアツツLバプョDDョョッェUY*』**:U*UォパL:LWF55?*♂hhgh<●h●hf♂±?'?0?6Y0-??340Y?6PP±『IバッョビH4BH0PHHョPYHP4Hョピ埴IプッMIDヒぢホ称ぷホザプバェリザプョピプ嬢ホカ喰バザホソオナぢぎぎずヅスソヨミラヘヘミトドヅIWDッピ頴ロっぴタ章ソっソタヘトピP06Pっ信ロ<END>!?hg<END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 96,
+      "offset": 485673,
+      "length_bytes": 396,
+      "raw_hex": "fcf5e2d0d6d0c0d0c6bec0d4d0d0c3c4c0bed0c6b5b5e2dcae92a4a393adc4a7adc0b5adada3b5beadb5c4ada3988692ae99a4b2aea96f3a72866345728899929f7c8899a398998683725a83999288726359693a3030368f61637a747b71717468918faebca9a498819f7f504464866463506364716898b5c0c6b55086a17ffffffffffef6fefdfffffef5f4eaeaeaebeaf4f6f5c6d0eacbc6ae99cbc4b2c699bec4bac6c4d5e2d0d1e2dccbc4998fb2c5cbd0b2c1ae556f7daaa0a0b6bcbcc5bcaea4b6c0bcb1a9a9a097a0bcb1b1a49f92986f666f77928a8aa9a3a9a4b5c4bec0c5d6ddddddb1cbd0b6c0d0d4dde2eac5b4d2d6ebfefefdfdebdffef6f6fefffdfee2dce2eaf6f6e2cbc6c6c0c0cbc6d0eae2adbed0b6b3a388b6b5a4b68faeb2adb2b5bec4b6b5bec0b6ae8e7c9fb6bcba99b299555566928a8f97a4a499a48f8699a4a9998f8f7c6f72a49288727164713a3036456150507b717a7b8998968f9db2baaeb27b98987b869698a399a3725a7b7ba4c0c6c4c68f63a3988ffffffffffdf6eafdfffffffffc",
+      "text_jp": "f♂±?'?0?6Y0-??340Y?6PP±『IバッョビH4BH0PHHョPYHP4Hョピ埴IプッMIDヒぢホ称ぷホザプバェリザプョピプ嬢ホカ喰バザホソオナぢぎぎずヅスソヨミラヘヘミトドヅIWDッピ頴ロっぴタ章ソっソタヘトピP06Pっ信ロ<END>!?hg<END>♂♀○○○●○♀!?♂6?○:6Iプ:4M6プY4U64,±?!±『:4プヅM5:?M1IアヒルEォォQWW5WIッQ0WLDDォパォWLLッェバピヒツヒモバズズDョDッP4Y05'』』』L:?Q0?-』±○5O*'●hhgg●】h!?!?h<CHOICE id=254>±『±○!?!?±:6600:6?○±HY?QNョザQPッQヅIMHMPY4QPY0QIヂリェQWUプMプアアツバズヅパッップッヅ職ッDプヅヅリヒホッバザホヘタヘぢぎずぷスっっラヘヨラジピボヅィMUIMラピピラ殖ピョプョホカララッ0646ヅソョピヅ<CHOICE id=246>○g<CLOSE>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 97,
+      "offset": 485931,
+      "length_bytes": 258,
+      "raw_hex": "fee2dce2eaf6f6e2cbc6c6c0c0cbc6d0eae2adbed0b6b3a388b6b5a4b68faeb2adb2b5bec4b6b5bec0b6ae8e7c9fb6bcba99b299555566928a8f97a4a499a48f8699a4a9998f8f7c6f72a49288727164713a3036456150507b717a7b8998968f9db2baaeb27b98987b869698a399a3725a7b7ba4c0c6c4c68f63a3988ffffffffffdf6eafdfffffffffcf6f5ebc1c5eaebf6dcdce2dcdce2cbb6dcd0dcbad2c5b2c0bedce2d5fbf6d4d2d4c4adc5c0cbc5aebc8d77558abaaabcbac4bcc4b2a9a9b1c5bca9a9aaaaa9aab6b4c0bcb2a98a6f6f8ab5a98a7d97a3a9b5d2cccecbd2ddeaddd2b2d2d4dddddcdcd2ebeaeae2ddeaf6fbfbfefdd7f2fefefdfffffffffc",
+      "text_jp": "h±『±○!?!?±:6600:6?○±HY?QNョザQPッQヅIMHMPY4QPY0QIヂリェQWUプMプアアツバズヅパッップッヅ職ッDプヅヅリヒホッバザホヘタヘぢぎずぷスっっラヘヨラジピボヅィMUIMラピピラ殖ピョプョホカララッ0646ヅソョピヅ<CHOICE id=246>○g<CLOSE>!?♂●15○●!?『『±『『±:Q『?『U*5M0Y『±,e!?-*-4H50:5IWダモアズUEWU4W4MDDL5WDDEEDEQO0WMDズヒヒズPDズルパョDP*~・:*』○』*M*-』』『『*●○○±』○!?eehg…♡hhg<CLOSE>",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    },
+    {
+      "id": 98,
+      "offset": 486059,
+      "length_bytes": 257,
+      "raw_hex": "fdf6eafdfffffffffcf6f5ebc1c5eaebf6dcdce2dcdce2cbb6dcd0dcbad2c5b2c0bedce2d5fbf6d4d2d4c4adc5c0cbc5aebc8d77558abaaabcbac4bcc4b2a9a9b1c5bca9a9aaaaa9aab6b4c0bcb2a98a6f6f8ab5a98a7d97a3a9b5d2cccecbd2ddeaddd2b2d2d4dddddcdcd2ebeaeae2ddeaf6fbfbfefdd7f2fefefdfffffffffcdcbeebfefefcebdcd4d0d0a0a4d0d4e2c4c0c6c6c6d0beafc6c4c6aababc99aeadc6c4c0eae9c0c4c4b28fb2a9b6b293ae776355729f92a999aaaaa398888f92b2a08f8f888f8f7d9892a498817b5a3645618e7f5a4563747486aea9a9a3adbac0b6a47aa3a3b2a3a19898adada3988f88a4b6b6c4c06398adacb6fffffffffe",
+      "text_jp": "g!?○g<CLOSE>!?♂●15○●!?『『±『『±:Q『?『U*5M0Y『±,e!?-*-4H50:5IWダモアズUEWU4W4MDDL5WDDEEDEQO0WMDズヒヒズPDズルパョDP*~・:*』○』*M*-』』『『*●○○±』○!?eehg…♡hhg<CLOSE>『Y●hhf●『-??ォッ?-±40666?YJ646EUWプIH640○★044MヅMDQMビIモソアホェバDプEEョピザヅバMォヅヅザヅヅルピバッピ卯カずぷスヂロカぷソミミ浸DDョHU0QッヨョョMョャピピHHョピヅザッQQ40ソピHGQ<END>",
+      "translation_en": "Hypnos Tower... Nemesis Tower...<LINE>Thanatos Tower... Each tower is<LINE>guarded by a manifestation of<PAGE>human regret and sorrow. Steel<LINE>your resolve, Persona users!"
+    },
+    {
+      "id": 99,
+      "offset": 486067,
+      "length_bytes": 257,
+      "raw_hex": "fcf6f5ebc1c5eaebf6dcdce2dcdce2cbb6dcd0dcbad2c5b2c0bedce2d5fbf6d4d2d4c4adc5c0cbc5aebc8d77558abaaabcbac4bcc4b2a9a9b1c5bca9a9aaaaa9aab6b4c0bcb2a98a6f6f8ab5a98a7d97a3a9b5d2cccecbd2ddeaddd2b2d2d4dddddcdcd2ebeaeae2ddeaf6fbfbfefdd7f2fefefdfffffffffcdcbeebfefefcebdcd4d0d0a0a4d0d4e2c4c0c6c6c6d0beafc6c4c6aababc99aeadc6c4c0eae9c0c4c4b28fb2a9b6b293ae776355729f92a999aaaaa398888f92b2a08f8f888f8f7d9892a498817b5a3645618e7f5a4563747486aea9a9a3adbac0b6a47aa3a3b2a3a19898adada3988f88a4b6b6c4c06398adacb6fffffffffef6f6fefdfefdfffe",
+      "text_jp": "f!?♂●15○●!?『『±『『±:Q『?『U*5M0Y『±,e!?-*-4H50:5IWダモアズUEWU4W4MDDL5WDDEEDEQO0WMDズヒヒズPDズルパョDP*~・:*』○』*M*-』』『『*●○○±』○!?eehg…♡hhg<CLOSE>『Y●hhf●『-??ォッ?-±40666?YJ646EUWプIH640○★044MヅMDQMビIモソアホェバDプEEョピザヅバMォヅヅザヅヅルピバッピ卯カずぷスヂロカぷソミミ浸DDョHU0QッヨョョMョャピピHHョピヅザッQQ40ソピHGQ<END>!?!?hghg<END>",
+      "translation_en": "Did you hear the rumors about<LINE>the Snow Queen mask in the drama<LINE>room? They say whoever wears it<PAGE>is cursed to die on stage...<LINE>It's so terrifying!"
+    },
+    {
+      "id": 100,
+      "offset": 486186,
+      "length_bytes": 256,
+      "raw_hex": "fcdcbeebfefefcebdcd4d0d0a0a4d0d4e2c4c0c6c6c6d0beafc6c4c6aababc99aeadc6c4c0eae9c0c4c4b28fb2a9b6b293ae776355729f92a999aaaaa398888f92b2a08f8f888f8f7d9892a498817b5a3645618e7f5a4563747486aea9a9a3adbac0b6a47aa3a3b2a3a19898adada3988f88a4b6b6c4c06398adacb6fffffffffef6f6fefdfefdfffef5f5ead2d2bcd4eaefeaebf5f5f6eadcdcdcdccbdce3d2c0c6e2f4fef6c0d0dcc4c4ccd2babec0bcbc8a97b1d0d2bebabcb6bac4aec5bcb6c5c5baa9b2a9aebcc5bcc5c1b2a48a8aa0bebac0be8a7da3a9d2ddd2dddddde3eadfbccbd2dfeadfe2d2eaebf2eae2e2ecfbf6fefdfeebfefdfdfdfffffffe",
+      "text_jp": "f『Y●hhf●『-??ォッ?-±40666?YJ646EUWプIH640○★044MヅMDQMビIモソアホェバDプEEョピザヅバMォヅヅザヅヅルピバッピ卯カずぷスヂロカぷソミミ浸DDョHU0QッヨョョMョャピピHHョピヅザッQQ40ソピHGQ<END>!?!?hghg<END>♂♂○**W-○▲○●♂♂!?○『『『『:『×*06±♀h!?0?『44~*UY0WWズパL?*YUWQU4I5WQ55UDMDIW5W51MッズズォYU0YズルョD*』*』』』×○】W:*】○】±*○●♡○±±□e!?hgh●hggg<END>",
+      "translation_en": "The principal has locked all the<LINE>school gates! Nobody can leave<LINE>St. Hermelin High until the<PAGE>demon crisis is resolved. What<LINE>are we going to do?!"
+    },
+    {
+      "id": 101,
+      "offset": 486314,
+      "length_bytes": 384,
+      "raw_hex": "fef6f6fefdfefdfffef5f5ead2d2bcd4eaefeaebf5f5f6eadcdcdcdccbdce3d2c0c6e2f4fef6c0d0dcc4c4ccd2babec0bcbc8a97b1d0d2bebabcb6bac4aec5bcb6c5c5baa9b2a9aebcc5bcc5c1b2a48a8aa0bebac0be8a7da3a9d2ddd2dddddde3eadfbccbd2dfeadfe2d2eaebf2eae2e2ecfbf6fefdfeebfefdfdfdfffffffef4dcd0f4eae2f5f5ead0d4cbb6b1a4bed0dcdce2e2eaeadcc6cbcbc6bec6d4c5b5bacbdcebeaaebcc4b5b2bac4a4a9b2aaaa777da3bcc4ad9fa3999f9f92b2a499b1b29f8f928f86a4aa999999887b50637298969c986150717badb5adbab6c0c0c4bc8fa1adb5c0baa398b5c6c4b3989cadbeb2bed0b598b5b5c4b6fffffffdfbfefdfdfffffffdf6dcebf5f5d4bcdcebf5ebe2dcdcddddeae2e2eae0e0d0dde2dcd0d4b58aa9ddcec4cbddddcbb2bdd2c5aac4d2d3ddd0aea9aea9c4bad2cbb1c5c8c5b2aeb2b1d2ddd2c5d2d2d2c4d0c08aa0a0b6a08ab2dcdfdddddddfeaeaeadfb1dcddddeaebeaebecf6f6ead2e9f5f6d8d3dfebfdfdfdfefdfffffffc",
+      "text_jp": "h!?!?hghg<END>♂♂○**W-○▲○●♂♂!?○『『『『:『×*06±♀h!?0?『44~*UY0WWズパL?*YUWQU4I5WQ55UDMDIW5W51MッズズォYU0YズルョD*』*』』』×○】W:*】○】±*○●♡○±±□e!?hgh●hggg<END>♀『?♀○±♂♂○?-:QLッY?『『±±○○『6::6Y6-5PU:『●○IW4PMU4ッDMEEモルョW4HェョプェェバMップLMェヅバヅ娠EプププザラっソホピボァピスっヘラHPHUQ004WヅャHP0UョピP64NピァHYMY?PピPP4Q<CHOICE id=251>hgg<CHOICE id=246>『●♂♂-W『●♂●±『『』』○±±○++?』±『?-PズD』・4:』』:MX*5E4*<』?IDID4U*:L585MIML*』*5***4?0ズォォQォズM『】』』』】○○○】L『』』○●○●□!?!?○*★♂!?(<】●ggghg<CLOSE>",
+      "translation_en": "Welcome to the school infirmary.<LINE>Let me tend to your wounds<LINE>before you head back out into<PAGE>the hallways. Please stay safe<LINE>out there."
+    },
+    {
+      "id": 102,
+      "offset": 486578,
+      "length_bytes": 379,
+      "raw_hex": "fdf6dcebf5f5d4bcdcebf5ebe2dcdcddddeae2e2eae0e0d0dde2dcd0d4b58aa9ddcec4cbddddcbb2bdd2c5aac4d2d3ddd0aea9aea9c4bad2cbb1c5c8c5b2aeb2b1d2ddd2c5d2d2d2c4d0c08aa0a0b6a08ab2dcdfdddddddfeaeaeadfb1dcddddeaebeaebecf6f6ead2e9f5f6d8d3dfebfdfdfdfefdfffffffce2e9f5fcfcf6f6f5dcaec4dcd5b5a4bee2eadcd4d0c6d2d2dcd4d4d4d0d0becbd2c6bec0a37c97d0bcb5bacbd2b59faec4b292b2bcc4c5b698929292a3a9bcba9fb2b6b298928f92b1c5b2a9b1bab1a3ad985a727296775a8fb2c0bcbcbcbcd0cbd0b67badb5b5bac0bac0d0d0d4b3869ab3ad7c778898c4c0bab5bbfffffffffffffffffffffffdfef6eaf5e9d4d4ddf4f5eae2d0d0c5dce2dceaf5dcc4bae2dde2d0a78a8ac4d3d0d2e2e7e3d2b6c5d2d0d2cbc6d2d0bed0d3c5ccdcd2d2d3d2bad2c5c4aaa0badde7ddd2d2d3d2c4d0ddaa92a0a9b697bcddddddddd2dfebebeadcc5dfebebeae9ebf6f2f6f6fbf6f5f5e7d6cfc9d7fefdececfdfdfffffffffc",
+      "text_jp": "g!?『●♂♂-W『●♂●±『『』』○±±○++?』±『?-PズD』・4:』』:MX*5E4*<』?IDID4U*:L585MIML*』*5***4?0ズォォQォズM『】』』』】○○○】L『』』○●○●□!?!?○*★♂!?(<】●ggghg<CLOSE>±★♂ff!?!?♂『I4『,PッY±○『-?6**『---??Y:*6Y0ョリパ?WPU:*PェI4MバMW45QピバババョDWUェMQMピバヅバL5MDLULョHピカホホボモカヅM0WWWW?:?QラHPPU0U0??-N色NHリモザピ40UPV<CHOICE id=254>!?○♂★--』♀♂○±??5『±『○♂『4U±』±?Bズズ4<?*±&×*Q5*?*:6*?Y?<5~『**<*U*54EォU』&』**<*4?』EバォDQパW』』』』*】●●○『5】●●○★●!?♡!?!?e!?♂♂&'。9…hg□□gg<CLOSE>",
+      "translation_en": "The library is quiet... but I<LINE>can hear strange whispers from<LINE>the old folklore section. Be<PAGE>careful around the occult<LINE>books.<CLOSE>"
+    },
+    {
+      "id": 103,
+      "offset": 486835,
+      "length_bytes": 380,
+      "raw_hex": "fdfef6eaf5e9d4d4ddf4f5eae2d0d0c5dce2dceaf5dcc4bae2dde2d0a78a8ac4d3d0d2e2e7e3d2b6c5d2d0d2cbc6d2d0bed0d3c5ccdcd2d2d3d2bad2c5c4aaa0badde7ddd2d2d3d2c4d0ddaa92a0a9b697bcddddddddd2dfebebeadcc5dfebebeae9ebf6f2f6f6fbf6f5f5e7d6cfc9d7fefdececfdfdfffffffffcfdfdfdfef6f4f4e2d1dcc6bebec6e2eadcdcc0c4bed0d0d0dcead0beb5d2cbd0c6997c77b6c5c0c4d4d2d4c4a9b6bcbac0b6bac5beb2b2b6b6bababcc5bcb1a9b1b6b296889fd0d2c5b6b1bcbca3aec588617b86926392bab6b6baadc4d4d2cbada3bec5c4beb5d0dcd0dcddddc6bbb59283665a6fbec5a499befffffffffffffffffffffffffdfef5f5eac5eae9eaf6f4e9e2e2ead2c6e9eaeadcd0c4e9effeebeac4b2dddddce2e7eaddd6dde3d0cbd0d2dcd0d0ddd8ddddd8ead2d8dde7dcc4c8d2d2b1c4ddeaddddd2d2ddd2ddeaf1a99297cbbaaad0c4b18dd2ebecebeaddddeaebf1ebecf6f2f6f2fbfbfefbebfbfefbdffdfffffffdfbfffffffffffffe",
+      "text_jp": "gh!?○♂★--』♀♂○±??5『±『○♂『4U±』±?Bズズ4<?*±&×*Q5*?*:6*?Y?<5~『**<*U*54EォU』&』**<*4?』EバォDQパW』』』』*】●●○『5】●●○★●!?♡!?!?e!?♂♂&'。9…hg□□gg<CLOSE>gggh!?♀♀±!『6YY6±○『『04Y???『○?YP*:?6プリモQ504-*-4DQWU0QU5YMMQQUUW5WLDLQMボザェ?*5QLWWョI5ザスラ埴ソバUQQUH4-*:HョY54YP?『?『』』6VPバ響カヒY5ップY<CHOICE id=254>♂♂○5○★○!?♀★±±○*6★○○『?4★▲h●○4M』』『±&○』'』×?:?*『??』(』』(○*(』&『48**L4』○』』**』*』○=Dバパ:UE?4Lダ*●□●○』』○●=●□!?♡!?♡eehe●ehe】g<CHOICE id=251><END>",
+      "translation_en": "SEBEC's security forces have<LINE>sealed off the downtown<LINE>district! They claim it's an<PAGE>industrial accident, but we all<LINE>saw the dimensional portal!"
+    },
+    {
+      "id": 104,
+      "offset": 487089,
+      "length_bytes": 380,
+      "raw_hex": "fdfef5f5eac5eae9eaf6f4e9e2e2ead2c6e9eaeadcd0c4e9effeebeac4b2dddddce2e7eaddd6dde3d0cbd0d2dcd0d0ddd8ddddd8ead2d8dde7dcc4c8d2d2b1c4ddeaddddd2d2ddd2ddeaf1a99297cbbaaad0c4b18dd2ebecebeaddddeaebf1ebecf6f2f6f2fbfbfefbebfbfefbdffdfffffffdfbfffffffffffffefcfefbf6f6f6f4e0dcd1aed0d0e9f5e2dcd0dce2c6bedce2e9d0c4badce9f6e7ddbaa9d2d2d0d4dddddccbcbd2beb6babcc4c4c4c5c4c5c5d2d0c5c4c5d2bab2bac4bc98adcbd2c5c5bac0bcb6bcdcd2866471ac928fb3a38e5aadddddd4c5bab5c4cbcbd0dcddddd4d4e9e9e9dcadd0d4dc8ad0eadce2d5adfffffffffffffffffffffdfffffdfef5ebdceaf5ebe9eaf6f6ebebe9dde7e2f1e2d2d2e2fdf5eaebeadce7eaeaf1eae2ddeaebead0c6d4d2d2d0d2ddddddeaddead2e7f1ebddc4c5ddddd3d2ddddd2d3ddd6ddddddebebdcaaa0b1eaeadcc097ddebecf1ebebebe7eaebecf2f6ecfbf2f6fbfbfefdfbfdfdfdfdfdfffffffdfdfffffffffffffffe",
+      "text_jp": "gh♂♂○5○★○!?♀★±±○*6★○○『?4★▲h●○4M』』『±&○』'』×?:?*『??』(』』(○*(』&『48**L4』○』』**』*』○=Dバパ:UE?4Lダ*●□●○』』○●=●□!?♡!?♡eehe●ehe】g<CHOICE id=251><END>fhe!?!?!?♀+『!I??★♂±『?『±6Y『±★?4U『★!?&』UD**?-』』『::*YQUW4445455*?545*UMU4WピH:*55U0WQW『*章ヘGバヅNョヂカH』』-5UP4::?『』』--★★★『H?-『ズ?○『±,H<CHOICE id=255><CHOICE id=254>♂●『○♂●★○!?!?●●★』&±=±**±g♂○●○『&○○=○±』○●○?6-**?*』』』○』○*&=●』45』』<*』』*<』'』』』●●『EォL○○『0パ』●□=●●●&○●□♡!?□e♡!?eehgeggggg<CHOICE id=253><END>",
+      "translation_en": "I heard Maki Sonomura has been<LINE>hospitalized for months at<LINE>Mikage General... Her mother<PAGE>works as a chief engineer at<LINE>SEBEC, doesn't she?"
+    },
+    {
+      "id": 105,
+      "offset": 487351,
+      "length_bytes": 258,
+      "raw_hex": "f5ebdceaf5ebe9eaf6f6ebebe9dde7e2f1e2d2d2e2fdf5eaebeadce7eaeaf1eae2ddeaebead0c6d4d2d2d0d2ddddddeaddead2e7f1ebddc4c5ddddd3d2ddddd2d3ddd6ddddddebebdcaaa0b1eaeadcc097ddebecf1ebebebe7eaebecf2f6ecfbf2f6fbfbfefdfbfdfdfdfdfdfffffffdfdfffffffffffffffefefefcfcfef5f5e2dcbedcf4e9dcdcf5f6eaebdcdce2ddeadccbd0e2feebeaebe9d0ddddeaddddd0d2ddeadcbebec1c4c4c4c4d2d2d2d6d2d2c0d2dfeac5aeb5c5d2c5c0c5c5bac0c0bcc5c5c5d8ddbe867298d0d0be986fbaddddeaddd2cbc5c4d4dcdcdddde9dde2eaeaeaeadce2eaeaeaeaf5eae2d5c6fffffffffffffffffffffffffffffffffe",
+      "text_jp": "♂●『○♂●★○!?!?●●★』&±=±**±g♂○●○『&○○=○±』○●○?6-**?*』』』○』○*&=●』45』』<*』』*<』'』』』●●『EォL○○『0パ』●□=●●●&○●□♡!?□e♡!?eehgeggggg<CHOICE id=253><END>hhffh♂♂±『Y『♀★『『♂!?○●『『±』○『:?±h●○●★?』』○』』?*』○『YY14444***'**0*】○5IP5*5055U00W555(』Y象ピ??YピヒU』』○』*:54-『『』』★』±○○○○『±○○○○♂○±,6<END>",
+      "translation_en": "The Mikage Ruins have suddenly<LINE>appeared near the shrine!<LINE>Ancient demons are pouring out<PAGE>of the subterranean depths!"
+    },
+    {
+      "id": 106,
+      "offset": 487460,
+      "length_bytes": 524,
+      "raw_hex": "fdfdfffffffffffffffefefefcfcfef5f5e2dcbedcf4e9dcdcf5f6eaebdcdce2ddeadccbd0e2feebeaebe9d0ddddeaddddd0d2ddeadcbebec1c4c4c4c4d2d2d2d6d2d2c0d2dfeac5aeb5c5d2c5c0c5c5bac0c0bcc5c5c5d8ddbe867298d0d0be986fbaddddeaddd2cbc5c4d4dcdcdddde9dde2eaeaeaeadce2eaeaeaeaf5eae2d5c6fffffffffffffffffffffffffffffffffef6fcfee9ddf5f6eaebecebeaeaeaeadce2f5fcf5eaebebeaeaeceae7eae2dcebebead0dcc6d2d2b1a0dddde7eaeadfddddebebead2cbbad2d3eaead3d2c4d0ddd8d3ddd4ddeae7dce9dceaebeabcd2ebf2f2ecebebebf1eaebf6f6f2f6f2fbfbfbfef7fefbfefdfdfdfdfffffdfdfdfffffffffffffffffdfefefdfdfefefdfcf5f5f6dcd0f5f6f4f5f5ebeaeaeaead0dcf5fcebeaeaeaeaeaf2eae9eae9dceaeae9c6d0bec4d0a997d2dddddddddcc5ddeaeadcc5bea9c4c5dcddc5c0b2bac5c5c4d0bec4ddd2c3d0c3dcdcd298adeaeaeaeaddddd4d2c6dceaeae2e9eaeaeaebebf5eaeae2e2f5f5ebf5f5dcd5dcfffffffffffffffffffffffffffffffffdfdf6ebeaebf6c5ebfef6ebebebeaeaf4fcfdf6ebeaeabcdcf6f6dce2f6f5fcfbebd0c3c6d0d2d28a97d2eaebeadfddeaebf1ead8ddd2c5c4d8ddddd2d2c5dddfddd2eadcbadfeaeadceaf1ebebdcebf2f2ecf2ebebf1ebf1eaf2f6f6fbfbfbfbfef7fef7fefbfdfdfdfdfdfdfffdfdfffffffffffffdfffffe",
+      "text_jp": "gg<END>hhffh♂♂±『Y『♀★『『♂!?○●『『±』○『:?±h●○●★?』』○』』?*』○『YY14444***'**0*】○5IP5*5055U00W555(』Y象ピ??YピヒU』』○』*:54-『『』』★』±○○○○『±○○○○♂○±,6<END>!?fh★』♂!?○●□●○○○○『±♂f♂○●●○○□○&○±『●●○?『6**Lォ』』&○○】』』●●○*:U*<○○<*4?』(<』-』○&『★『○●○W*●♡♡□●●●=○●!?!?♡!?♡eeehahehgggg<CHOICE id=253>g<CHOICE id=254>hgghhgf♂♂!?『?♂!?♀♂♂●○○○○?『♂f●○○○○○♡○★○★『○○★6?Y4?Dパ*』』』』『5』○○『5YD45『』50MU554?Y4』*3?3『『*ピH○○○○』』-*6『○○±★○○○●●♂○○±±♂♂●♂♂『,『<CHOICE id=253>!?●○●!?5●h!?●●●○○♀fg!?●○○W『!?!?『±!?♂fe●?36?**ズパ*○●○】』○●=○(』*54(』』**5』】』*○『U】○○『○=●●『●♡♡□♡●●=●=○♡!?!?eeeehahahegggggg<CHOICE id=253><CHOICE id=255><END>",
+      "translation_en": "Welcome to the Velvet Room,<LINE>traveler. Here, we assist with<LINE>the fusion and creation of new<PAGE>Personas. The possibilities of<LINE>the soul are limitless."
+    },
+    {
+      "id": 107,
+      "offset": 487730,
+      "length_bytes": 387,
+      "raw_hex": "fefdfdfefefdfcf5f5f6dcd0f5f6f4f5f5ebeaeaeaead0dcf5fcebeaeaeaeaeaf2eae9eae9dceaeae9c6d0bec4d0a997d2dddddddddcc5ddeaeadcc5bea9c4c5dcddc5c0b2bac5c5c4d0bec4ddd2c3d0c3dcdcd298adeaeaeaeaddddd4d2c6dceaeae2e9eaeaeaebebf5eaeae2e2f5f5ebf5f5dcd5dcfffffffffffffffffffffffffffffffffdfdf6ebeaebf6c5ebfef6ebebebeaeaf4fcfdf6ebeaeabcdcf6f6dce2f6f5fcfbebd0c3c6d0d2d28a97d2eaebeadfddeaebf1ead8ddd2c5c4d8ddddd2d2c5dddfddd2eadcbadfeaeadceaf1ebebdcebf2f2ecf2ebebf1ebf1eaf2f6f6fbfbfbfbfef7fef7fefbfdfdfdfdfdfdfffdfdfffffffffffffdfffffefffdfdfdfffdfefef4f4eaf4fcbef4fdfef5f5f5f4f4f4fcfdf6f1eae9b6d0f6fcd5e0f6f4f6f6eac4bec3c3d2cb6f8ad0ddeaeaddd2ddebeaead2d2c4beb5c5d8d2c4c4b5d2dcc5c4d2c4a1d0dddcc7d2ddddd4c3dde7eaeaeae9e9dddcdcd0e9eaeaeaeaeaeaf5f5f5eae2d5eaf5f6f4e0f5f5e0d5fffffffffffffffffffffffffe",
+      "text_jp": "hgghhgf♂♂!?『?♂!?♀♂♂●○○○○?『♂f●○○○○○♡○★○★『○○★6?Y4?Dパ*』』』』『5』○○『5YD45『』50MU554?Y4』*3?3『『*ピH○○○○』』-*6『○○±★○○○●●♂○○±±♂♂●♂♂『,『<CHOICE id=253>!?●○●!?5●h!?●●●○○♀fg!?●○○W『!?!?『±!?♂fe●?36?**ズパ*○●○】』○●=○(』*54(』』**5』】』*○『U】○○『○=●●『●♡♡□♡●●=●=○♡!?!?eeeehahahegggggg<CHOICE id=253><CHOICE id=255><END><CHOICE id=253>g<CHOICE id=254>h♀♀○♀fY♀gh♂♂♂♀♀♀fg!?=○★Q?!?f,+!?♀!?!?○4Y33*:ヒズ?』○○』*』●○○**4YP5(*44P*『54*4ャ?』『7*』』-3』&○○○★★』『『?★○○○○○○♂♂♂○±,○♂!?♀+♂♂+,<END>",
+      "translation_en": "Takahisa Kandori has taken<LINE>control of the Deva System. He<LINE>intends to overwrite our reality<PAGE>with a world of his own design!<LINE>You must stop him at all costs!"
+    },
+    {
+      "id": 108,
+      "offset": 487863,
+      "length_bytes": 496,
+      "raw_hex": "fdfdf6ebeaebf6c5ebfef6ebebebeaeaf4fcfdf6ebeaeabcdcf6f6dce2f6f5fcfbebd0c3c6d0d2d28a97d2eaebeadfddeaebf1ead8ddd2c5c4d8ddddd2d2c5dddfddd2eadcbadfeaeadceaf1ebebdcebf2f2ecf2ebebf1ebf1eaf2f6f6fbfbfbfbfef7fef7fefbfdfdfdfdfdfdfffdfdfffffffffffffdfffffefffdfdfdfffdfefef4f4eaf4fcbef4fdfef5f5f5f4f4f4fcfdf6f1eae9b6d0f6fcd5e0f6f4f6f6eac4bec3c3d2cb6f8ad0ddeaeaddd2ddebeaead2d2c4beb5c5d8d2c4c4b5d2dcc5c4d2c4a1d0dddcc7d2ddddd4c3dde7eaeaeae9e9dddcdcd0e9eaeaeaeaeaeaf5f5f5eae2d5eaf5f6f4e0f5f5e0d5fffffffffffffffffffffffffefffffffdfdf6f1ebf6f5ddfcfbf6f6f6f6f5f5eaf5fef6f6ebdcabeafef6dce0fee9f4f2e9bebab2c4ddaa7d97d0e9ebebdde7ebf1eadfdfeac4d0c5d0ddd8d2dddddfdddddde9eac4dcecebf1ebf1f1ebf1ecebebebebecf2ececebebebf6fbfbf8f2fbfefdfbfdfdfdfdfdfdfffdfffffdfdfffffffffffdfefffffdfdfefafdfffffdfef5f5f4fcf5dcfefdfefefefefcfcf4fafdfcf6f6dca0eafdf6e1e0fee9f4f5dcbbb3adc3dca06f8ac4dcf6ebddeaebebeaddddddc3c3c4c4dcd2d0d2d2ddd2d2dcdcdcb5d1e7eaddeadddddde9eaeaeae9eaeaeae9e9e9dcd5eaf5f5ebeaeaf5f6f5f5f5f4f5f6f5f5f5f6f6fced",
+      "text_jp": "gg!?●○●!?5●h!?●●●○○♀fg!?●○○W『!?!?『±!?♂fe●?36?**ズパ*○●○】』○●=○(』*54(』』**5』】』*○『U】○○『○=●●『●♡♡□♡●●=●=○♡!?!?eeeehahahegggggg<CHOICE id=253><CHOICE id=255><END><CHOICE id=253>g<CHOICE id=254>h♀♀○♀fY♀gh♂♂♂♀♀♀fg!?=○★Q?!?f,+!?♀!?!?○4Y33*:ヒズ?』○○』*』●○○**4YP5(*44P*『54*4ャ?』『7*』』-3』&○○○★★』『『?★○○○○○○♂♂♂○±,○♂!?♀+♂♂+,<END><CHOICE id=253>!?=●!?♂』fe!?!?!?!?♂♂○♂h!?!?●『F○h!?『+h★♀♡★YUM4』Eルパ?★●●』&●=○】】○4?5?』(*』』】』』』★○4『□●=●==●=□●●●●□♡□□●●●!?eeb♡ehgegggggg<CHOICE id=255><CHOICE id=253><CHOICE id=254><CHOICE id=253>hdg<CHOICE id=254>♂♂♀f♂『hghhhhff♀dgf!?!?『ォ○g!?-+h★♀♂『VNH3『ォヒズ4『!?●』○●●○』』』3344『*?**』**『『『P!&○』○』』』★○○○★○○○★★★『,○♂♂●○○♂!?♂♂♂♀♂!?♂♂♂!?!?f■",
+      "translation_en": "The Snow Queen's ice is<LINE>spreading across the campus! If<LINE>we don't destroy the three<PAGE>cursed mirrors in the towers,<LINE>the whole school will freeze<LINE>forever!"
+    }
+  ]
+}

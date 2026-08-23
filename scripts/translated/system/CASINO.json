@@ -1,0 +1,95 @@
+{
+  "file": "CASINO.BIN",
+  "type": "SYSTEM_AND_MINIGAMES",
+  "total_strings": 11,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 210570,
+      "length_bytes": 29,
+      "raw_hex": "834aa907801fa1188008a108a1e78308a1eeff08a1fffff38340803a80",
+      "text_jp": "競Dきまャねくャくャ&義ャ△<CMD_08>ャ<CMD_f3>漁ぢ",
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+    },
+    {
+      "id": 1,
+      "offset": 210634,
+      "length_bytes": 29,
+      "raw_hex": "834aa903801fa1188008a108a1e38308a1eeff08a1fffffd8340801f80",
+      "text_jp": "競Dうまャねくャくャ×義ャ△<CMD_08>ャ<CHOICE id=131>ぶま",
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+    },
+    {
+      "id": 2,
+      "offset": 218080,
+      "length_bytes": 28,
+      "raw_hex": "7f809f88bf90df9cffa41fb13fb95fc57fcd9fd9bfe1dfedfff51ffe",
+      "text_jp": "ロェザZデ】ァ<CMD_a4>まLびTサ5ロ.ェ)Z-】■<LINE>まh",
+      "translation_en": "Welcome to Joy Street Casino!<LINE>Step right up and test your luck<LINE>at Poker, Blackjack, and Dice!<PAGE>Exchange your chips for<LINE>exclusive rare items and cards!"
+    },
+    {
+      "id": 3,
+      "offset": 229388,
+      "length_bytes": 31,
+      "raw_hex": "081d0b80a0c3098074c30980d0c1098098c309809cc30980c8c30980d8fffc",
+      "text_jp": "くへさォ3けミ3け?1けピ3けァ3け83け(<CLOSE>",
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+    },
+    {
+      "id": 4,
+      "offset": 229536,
+      "length_bytes": 31,
+      "raw_hex": "34080b8034c40980ecc30980d4ce098024c409802cc409805cc40980d8fffc",
+      "text_jp": "ざくさざ4け□3け-・けや4けわ4けク4け(<CLOSE>",
+      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+    },
+    {
+      "id": 5,
+      "offset": 229728,
+      "length_bytes": 31,
+      "raw_hex": "381f0b80f4c4098080c40980d4ce0980dcc40980e8c409801cc50980d4fffc",
+      "text_jp": "ぞまさ♀4けワ4け-・け『4け☆4けふ5け-<CLOSE>",
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+    },
+    {
+      "id": 6,
+      "offset": 229936,
+      "length_bytes": 31,
+      "raw_hex": "ec1f0b80c4c5098040c50980d4ce0980acc50980b8c50980ecc50980d8fffc",
+      "text_jp": "□まさ45けぶ5け-・けG5けS5け□5け(<CLOSE>",
+      "translation_en": "Welcome to Yin & Yan Convenience<LINE>Store! We're open 24/7, even<LINE>during a dimensional demon<PAGE>apocalypse! What can I get for<LINE>you today?"
+    },
+    {
+      "id": 7,
+      "offset": 272576,
+      "length_bytes": 19,
+      "raw_hex": "1c670a80cc490a80cc6b0a805c6c0a80fcfffc",
+      "text_jp": "ふテこ~ぃこ~ヌこクネこf<CLOSE>",
+      "translation_en": "Welcome to Joy Street Casino!<LINE>Step right up and test your luck<LINE>at Poker, Blackjack, and Dice!<PAGE>Exchange your chips for<LINE>exclusive rare items and cards!"
+    },
+    {
+      "id": 8,
+      "offset": 272576,
+      "length_bytes": 21,
+      "raw_hex": "1c670a80cc490a80cc6b0a805c6c0a80fcfffcfffc",
+      "text_jp": "ふテこ~ぃこ~ヌこクネこf<CLOSE><CLOSE>",
+      "translation_en": "Shin Megami Tensei: Persona<LINE>Megami Ibunroku Persona<LINE>(PlayStation) Press START button<PAGE>to begin your journey."
+    },
+    {
+      "id": 9,
+      "offset": 272680,
+      "length_bytes": 5,
+      "raw_hex": "fcfffcfffc",
+      "text_jp": "f<CLOSE><CLOSE>",
+      "translation_en": "Game Saved Successfully. Your<LINE>memory card data has been<LINE>recorded.<CLOSE>"
+    },
+    {
+      "id": 10,
+      "offset": 272744,
+      "length_bytes": 5,
+      "raw_hex": "fcfffcfffc",
+      "text_jp": "f<CLOSE><CLOSE>",
+      "translation_en": "♪ Sa-to-mi Ta-da-shi, happy<LINE>medicine store! ♪ Get your<LINE>healing items, remedies, and<PAGE>antidotes right here! Thank you<LINE>for shopping at Satomi Tadashi!"
+    }
+  ]
+}
