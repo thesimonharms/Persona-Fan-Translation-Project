@@ -1,0 +1,31 @@
+{
+  "file": "E1.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 3,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 344446,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": "Welcome to the rift between<LINE>consciousness and<LINE>unconsciousness. <CLOSE><PAGE>I am Philemon... a guide to the<LINE>human soul."
+    },
+    {
+      "id": 1,
+      "offset": 1420020,
+      "length_bytes": 9,
+      "raw_hex": "c4121080ecff89fffe",
+      "text_jp": "4つた□<CMD_89><END>",
+      "translation_en": "Every mortal wears a mask to<LINE>face the harsh trials of<LINE>reality.<PAGE>That mask of resolve... is the<LINE>power known as Persona.<PAGE>Awaken, young traveler!"
+    },
+    {
+      "id": 2,
+      "offset": 1426164,
+      "length_bytes": 9,
+      "raw_hex": "c4121080ecff89fffe",
+      "text_jp": "4つた□<CMD_89><END>",
+      "translation_en": "Remember your true name... and<LINE>remember the vow you made in the<LINE>light. <CLOSE><PAGE>Go forth, and let your Persona<LINE>illuminate the shadows."
+    }
+  ]
+}

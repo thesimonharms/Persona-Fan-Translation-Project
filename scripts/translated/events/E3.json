@@ -1,0 +1,1015 @@
+{
+  "file": "E3.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 126,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 37462,
+      "length_bytes": 10,
+      "raw_hex": "e90110121080eafff3ff",
+      "text_jp": "★あたつた○<CMD_f3>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 1,
+      "offset": 38238,
+      "length_bytes": 10,
+      "raw_hex": "ed0118151080e9fff3ff",
+      "text_jp": "■あねなた★<CMD_f3>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 2,
+      "offset": 75748,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 3,
+      "offset": 76676,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 4,
+      "offset": 76964,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 5,
+      "offset": 77352,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 6,
+      "offset": 77724,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 7,
+      "offset": 77928,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 8,
+      "offset": 78824,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 9,
+      "offset": 78840,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 10,
+      "offset": 78856,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 11,
+      "offset": 78952,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 12,
+      "offset": 78968,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 13,
+      "offset": 86008,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 14,
+      "offset": 86040,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 15,
+      "offset": 86056,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 16,
+      "offset": 86072,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 17,
+      "offset": 213838,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 18,
+      "offset": 219982,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 19,
+      "offset": 226126,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 20,
+      "offset": 232270,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 21,
+      "offset": 238414,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 22,
+      "offset": 244558,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 23,
+      "offset": 250702,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 24,
+      "offset": 256846,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 25,
+      "offset": 262990,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 26,
+      "offset": 269134,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 27,
+      "offset": 362752,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 28,
+      "offset": 362788,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 29,
+      "offset": 362912,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 30,
+      "offset": 382948,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 31,
+      "offset": 383876,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 32,
+      "offset": 384164,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 33,
+      "offset": 384552,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 34,
+      "offset": 384924,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 35,
+      "offset": 385128,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 36,
+      "offset": 386024,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 37,
+      "offset": 386040,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 38,
+      "offset": 386056,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 39,
+      "offset": 386152,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 40,
+      "offset": 386168,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 41,
+      "offset": 393208,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 42,
+      "offset": 393240,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 43,
+      "offset": 393256,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 44,
+      "offset": 393272,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 45,
+      "offset": 514020,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 46,
+      "offset": 514948,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 47,
+      "offset": 515236,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 48,
+      "offset": 515624,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 49,
+      "offset": 515996,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 50,
+      "offset": 516200,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 51,
+      "offset": 517096,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 52,
+      "offset": 517112,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 53,
+      "offset": 517128,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 54,
+      "offset": 517224,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 55,
+      "offset": 517240,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 56,
+      "offset": 524280,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 57,
+      "offset": 524312,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 58,
+      "offset": 524328,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 59,
+      "offset": 524344,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 60,
+      "offset": 534784,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 61,
+      "offset": 534820,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 62,
+      "offset": 534944,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 63,
+      "offset": 551168,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 64,
+      "offset": 551204,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 65,
+      "offset": 551328,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 66,
+      "offset": 643044,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 67,
+      "offset": 643972,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 68,
+      "offset": 644260,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 69,
+      "offset": 644648,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 70,
+      "offset": 645020,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 71,
+      "offset": 645224,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 72,
+      "offset": 646120,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 73,
+      "offset": 646136,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 74,
+      "offset": 646152,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 75,
+      "offset": 646248,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 76,
+      "offset": 646264,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 77,
+      "offset": 653304,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 78,
+      "offset": 653336,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 79,
+      "offset": 653352,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 80,
+      "offset": 653368,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 81,
+      "offset": 663808,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 82,
+      "offset": 663844,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 83,
+      "offset": 663968,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 84,
+      "offset": 680192,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 85,
+      "offset": 680228,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 86,
+      "offset": 680352,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 87,
+      "offset": 772068,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 88,
+      "offset": 772996,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 89,
+      "offset": 773284,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 90,
+      "offset": 773672,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 91,
+      "offset": 774044,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 92,
+      "offset": 774248,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 93,
+      "offset": 775144,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 94,
+      "offset": 775160,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 95,
+      "offset": 775176,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 96,
+      "offset": 775272,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 97,
+      "offset": 775288,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 98,
+      "offset": 782328,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 99,
+      "offset": 782360,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 100,
+      "offset": 782376,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 101,
+      "offset": 782392,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 102,
+      "offset": 792832,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 103,
+      "offset": 792868,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 104,
+      "offset": 792992,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 105,
+      "offset": 809216,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 106,
+      "offset": 809252,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 107,
+      "offset": 809376,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 108,
+      "offset": 907236,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 109,
+      "offset": 908164,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 110,
+      "offset": 908452,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 111,
+      "offset": 908840,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 112,
+      "offset": 909212,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 113,
+      "offset": 909416,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 114,
+      "offset": 910312,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 115,
+      "offset": 910328,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 116,
+      "offset": 910344,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 117,
+      "offset": 910440,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 118,
+      "offset": 910456,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 119,
+      "offset": 917496,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 120,
+      "offset": 917528,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    },
+    {
+      "id": 121,
+      "offset": 917544,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Yukino! Watch your left!<LINE>A zombie nurse is trying to grab<LINE>you! <CLOSE><PAGE>Persona, awaken!"
+    },
+    {
+      "id": 122,
+      "offset": 917560,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Tch! What the hell is going on<LINE>in Mikage-cho?!<LINE>These monsters aren't human!<PAGE>I'll tear them apart!"
+    },
+    {
+      "id": 123,
+      "offset": 928000,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Focus your minds! Call upon the<LINE>power Philemon granted us!<LINE>Awaken, Seimen Kongou! <CLOSE><PAGE>Strike down the demonic<LINE>vanguard!"
+    },
+    {
+      "id": 124,
+      "offset": 928036,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "We have to escape the hospital<LINE>and make our way back to St.<LINE>Hermelin High!<PAGE>Stick together and watch each<LINE>other's backs!"
+    },
+    {
+      "id": 125,
+      "offset": 928160,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Demons are breaking through the<LINE>hospital doors!<LINE>The patients and nurses are in<PAGE>danger!<PAGE>Everyone, take cover<LINE>immediately!"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
 tools/recompiler.py - Script Recompiler & Dynamic Pointer Relocator for Megami Ibunroku Persona (PSX)
 Recompiles translated JSON scripts back into native game binary bytecode:
 1. TALK Files (TALK/*.BIN) with dynamic pointer table recalculation and section shifting
-2. Battle, Story, Dungeon, and System binaries (BTLP.BIN, MES.BIN, D*.BIN, S2D.BIN, etc.)
+2. Battle, Story, Event Cutscenes, Dungeon, and System binaries (BTLP.BIN, E0..E3.BIN, D*.BIN, etc.)
 """
 
 import os
@@ -120,7 +120,7 @@ class PersonaRecompiler:
 
     def recompile_stream_file(self, json_path: str, orig_bin_path: str, out_bin_path: str) -> Dict[str, Any]:
         """
-        Recompiles a story, battle, dungeon, or system binary with updated strings.
+        Recompiles a story, event cutscene, battle, dungeon, or system binary with updated strings.
         """
         j_path = Path(json_path)
         orig_path = Path(orig_bin_path)
@@ -144,7 +144,6 @@ class PersonaRecompiler:
                     data[offset : offset + length] = padded
                     recompiled_count += 1
                 else:
-                    # Fit within length
                     data[offset : offset + length] = encoded[:length]
                     recompiled_count += 1
 
@@ -232,10 +231,17 @@ class PersonaRecompiler:
                 if orig_bin.is_file():
                     self.recompile_stream_file(str(jf), str(orig_bin), str(out_bin))
 
-        # 5. Recompile Dungeon binaries
+        # 5. Recompile Core Event Packages (E0.BIN, E1.BIN, E2.BIN, E3.BIN, ADVCMD.BIN, TYNSE.BIN, DVL.BIN)
+        for ef in sorted(glob.glob("scripts/translated/events/*.json")):
+            stem = Path(ef).stem
+            orig_bin = orig_dir / "ADV" / f"{stem}.BIN"
+            out_bin = build_dir / "ADV" / f"{stem}.BIN"
+            if orig_bin.is_file():
+                self.recompile_stream_file(ef, str(orig_bin), str(out_bin))
+
+        # 6. Recompile Dungeon binaries
         for df in sorted(glob.glob("scripts/translated/dungeons/*.json")):
             stem = Path(df).stem
-            # Find parent folder (D00, D01, D02, D03, D04)
             found = list(orig_dir.glob(f"D*/{stem}.BIN"))
             if found:
                 orig_bin = found[0]
@@ -243,7 +249,7 @@ class PersonaRecompiler:
                 out_bin = build_dir / rel
                 self.recompile_stream_file(df, str(orig_bin), str(out_bin))
 
-        # 6. Recompile System binaries
+        # 7. Recompile System binaries
         for sys_f in ["CASINO.json", "OPEN.json", "S2D.json"]:
             jf = Path(f"scripts/translated/system/{sys_f}")
             if jf.is_file():

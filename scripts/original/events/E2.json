@@ -1,0 +1,735 @@
+{
+  "file": "E2.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 91,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 135550,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 252694,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 361254,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "offset": 393188,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "offset": 394116,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "offset": 394404,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "offset": 394792,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "offset": 395164,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "offset": 395368,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "offset": 396264,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "offset": 396280,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "offset": 396296,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "offset": 396392,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "offset": 396408,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "offset": 403448,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "offset": 403480,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "offset": 403496,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "offset": 403512,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "offset": 423908,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "offset": 424836,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "offset": 425124,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 21,
+      "offset": 425512,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 22,
+      "offset": 425884,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 23,
+      "offset": 426088,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 24,
+      "offset": 426984,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 25,
+      "offset": 427000,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 26,
+      "offset": 427016,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 27,
+      "offset": 427112,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 28,
+      "offset": 427128,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 29,
+      "offset": 434168,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 30,
+      "offset": 434200,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 31,
+      "offset": 434216,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 32,
+      "offset": 434232,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 33,
+      "offset": 713534,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 34,
+      "offset": 1145088,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 35,
+      "offset": 1145124,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 36,
+      "offset": 1145248,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 37,
+      "offset": 1227106,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 38,
+      "offset": 1313646,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 39,
+      "offset": 1365988,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 40,
+      "offset": 1366916,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 41,
+      "offset": 1367204,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 42,
+      "offset": 1367592,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 43,
+      "offset": 1367964,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 44,
+      "offset": 1368168,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 45,
+      "offset": 1369064,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 46,
+      "offset": 1369080,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 47,
+      "offset": 1369096,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 48,
+      "offset": 1369192,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 49,
+      "offset": 1369208,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 50,
+      "offset": 1376248,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 51,
+      "offset": 1376280,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 52,
+      "offset": 1376296,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 53,
+      "offset": 1376312,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 54,
+      "offset": 1401526,
+      "length_bytes": 4,
+      "raw_hex": "d2fffdff",
+      "text_jp": "*<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 55,
+      "offset": 1409914,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 56,
+      "offset": 1486820,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 57,
+      "offset": 1487748,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 58,
+      "offset": 1488036,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 59,
+      "offset": 1488424,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 60,
+      "offset": 1488796,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 61,
+      "offset": 1489000,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 62,
+      "offset": 1489896,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 63,
+      "offset": 1489912,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 64,
+      "offset": 1489928,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 65,
+      "offset": 1490024,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 66,
+      "offset": 1490040,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 67,
+      "offset": 1497080,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 68,
+      "offset": 1497112,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 69,
+      "offset": 1497128,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 70,
+      "offset": 1497144,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 71,
+      "offset": 1616750,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 72,
+      "offset": 1642468,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 73,
+      "offset": 1643396,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 74,
+      "offset": 1643684,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 75,
+      "offset": 1644072,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 76,
+      "offset": 1644444,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 77,
+      "offset": 1644648,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 78,
+      "offset": 1645544,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": ""
+    },
+    {
+      "id": 79,
+      "offset": 1645560,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 80,
+      "offset": 1645576,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 81,
+      "offset": 1645672,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 82,
+      "offset": 1645688,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 83,
+      "offset": 1652728,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 84,
+      "offset": 1652760,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 85,
+      "offset": 1652776,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 86,
+      "offset": 1652792,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 87,
+      "offset": 1663232,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 88,
+      "offset": 1663268,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 89,
+      "offset": 1663392,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 90,
+      "offset": 1679776,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": ""
+    }
+  ]
+}

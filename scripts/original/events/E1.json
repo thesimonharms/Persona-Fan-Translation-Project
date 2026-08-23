@@ -1,0 +1,31 @@
+{
+  "file": "E1.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 3,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 344446,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "offset": 1420020,
+      "length_bytes": 9,
+      "raw_hex": "c4121080ecff89fffe",
+      "text_jp": "4つた□<CMD_89><END>",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "offset": 1426164,
+      "length_bytes": 9,
+      "raw_hex": "c4121080ecff89fffe",
+      "text_jp": "4つた□<CMD_89><END>",
+      "translation_en": ""
+    }
+  ]
+}

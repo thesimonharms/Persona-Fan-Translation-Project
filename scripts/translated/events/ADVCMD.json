@@ -1,0 +1,159 @@
+{
+  "file": "ADVCMD.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 19,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 33640,
+      "length_bytes": 11,
+      "raw_hex": "9077a97aa7aa7aaaf0fffe",
+      "text_jp": "デモDヨBEヨE※<END>",
+      "translation_en": "Persona, Persona, please come to<LINE>us... <CLOSE><PAGE>Are you sure this ancient ritual<LINE>actually works, guys?"
+    },
+    {
+      "id": 1,
+      "offset": 33768,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa77a7f0fffe",
+      "text_jp": "デモユモモEモB※<END>",
+      "translation_en": "Hey! Quit shaking the table,<LINE>Brown!<LINE>You're gonna ruin the whole<PAGE>Persona ritual! <CLOSE><PAGE>Mark's trying to concentrate!"
+    },
+    {
+      "id": 2,
+      "offset": 33896,
+      "length_bytes": 11,
+      "raw_hex": "9077797a77aa97a7f0fffe",
+      "text_jp": "デモユヨモEパB※<END>",
+      "translation_en": "Quiet down, both of you!<LINE>A true gentleman observes<LINE>supernatural phenomena with<PAGE>scientific rigor.<PAGE>Let us see if the spirits<LINE>answer."
+    },
+    {
+      "id": 3,
+      "offset": 34024,
+      "length_bytes": 11,
+      "raw_hex": "9077797777aa7aa7f0fffe",
+      "text_jp": "デモユモモEヨB※<END>",
+      "translation_en": "Like, this is taking forever!<LINE>If a demon doesn't show up in<LINE>five seconds, I'm going to the<PAGE>mall! <CLOSE><PAGE>My legs are getting totally<LINE>numb!"
+    },
+    {
+      "id": 4,
+      "offset": 34152,
+      "length_bytes": 11,
+      "raw_hex": "f0777977777777a7f0fffe",
+      "text_jp": "※モユモモモモB※<END>",
+      "translation_en": "Something's happening...<LINE>The air in the classroom is<LINE>turning ice cold...<PAGE>Get ready, everyone!"
+    },
+    {
+      "id": 5,
+      "offset": 34280,
+      "length_bytes": 11,
+      "raw_hex": "90997977a77aaaaaf0fffe",
+      "text_jp": "デプユモBヨEE※<END>",
+      "translation_en": "Whoa! Look at the window!<LINE>A golden butterfly... it's<LINE>glowing in mid-air! <CLOSE><PAGE>Is that... a lightning bolt?!"
+    },
+    {
+      "id": 6,
+      "offset": 37348,
+      "length_bytes": 11,
+      "raw_hex": "1111111199f9ff9ff0fffe",
+      "text_jp": "ちちちちプc<CMD_9f>※<END>",
+      "translation_en": "GAAAHHHH!<LINE>MY HEAD! IT FEELS LIKE IT'S<LINE>TEARING APART! <CLOSE><PAGE>WHAT THE HELL IS THIS POWER?!"
+    },
+    {
+      "id": 7,
+      "offset": 38884,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Stand firm, everyone!<LINE>Do not let your consciousness<LINE>fade into the abyss!<PAGE>Nanjo, hold on!"
+    },
+    {
+      "id": 8,
+      "offset": 39012,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Saeko-sensei! The students in<LINE>classroom 2-4 collapsed!<LINE>Call an ambulance to St.<PAGE>Hermelin High immediately!"
+    },
+    {
+      "id": 9,
+      "offset": 39140,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Maki... wait for me at the<LINE>hospital...<LINE>I have to make sure you're<PAGE>safe... <CLOSE>"
+    },
+    {
+      "id": 10,
+      "offset": 39268,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Persona... Persona... answer our<LINE>call! <CLOSE><PAGE>Unleash the power within our<LINE>hearts!"
+    },
+    {
+      "id": 11,
+      "offset": 39396,
+      "length_bytes": 7,
+      "raw_hex": "11111111eefffe",
+      "text_jp": "ちちちち△<END>",
+      "translation_en": "Persona, Persona, please come to<LINE>us... <CLOSE><PAGE>Are you sure this ancient ritual<LINE>actually works, guys?"
+    },
+    {
+      "id": 12,
+      "offset": 65001,
+      "length_bytes": 123,
+      "raw_hex": "9e8b9eb4d0bed01d01b401819e8b9e9e9eaf74f1bd52a5a552bbbdd9fcd2feeeeea8a822ddbd065750747474b350505050b2d79c15f99a8acecfcfcfce8adedecede84cc945ca8d1fffff3a8fcee9492bdc2f68acecea5cde9fcee94a6a65294c4b79ee5df8492529aaefdaedfe894a5a5cb525206cc84527e7e7e",
+      "text_jp": "ゥゼゥO?Y?へあOあ穎ゼゥゥゥJミ=XヴヮヮヴVX)f*h△△CCめ』XかウっミミミNっっっっM…ァなcペズ・。。。・ズ【【・【痕ブクC!<CMD_f3>Cf△ブバX2!?ズ・・ヮ.★f△ブAAヴブ4Rゥ%】荒ヴペIgI】☆ブヮヮ:ヴヴか~鯉レレレ",
+      "translation_en": "Hey! Quit shaking the table,<LINE>Brown!<LINE>You're gonna ruin the whole<PAGE>Persona ritual! <CLOSE><PAGE>Mark's trying to concentrate!"
+    },
+    {
+      "id": 13,
+      "offset": 153816,
+      "length_bytes": 9,
+      "raw_hex": "70ff70cfffc0cffffc",
+      "text_jp": "フ<CMD_70>。<CMD_c0>。<CLOSE>",
+      "translation_en": "Quiet down, both of you!<LINE>A true gentleman observes<LINE>supernatural phenomena with<PAGE>scientific rigor.<PAGE>Let us see if the spirits<LINE>answer."
+    },
+    {
+      "id": 14,
+      "offset": 153816,
+      "length_bytes": 13,
+      "raw_hex": "70ff70cfffc0cffffce0cffffc",
+      "text_jp": "フ<CMD_70>。<CMD_c0>。<CLOSE>+。<CLOSE>",
+      "translation_en": "Like, this is taking forever!<LINE>If a demon doesn't show up in<LINE>five seconds, I'm going to the<PAGE>mall! <CLOSE><PAGE>My legs are getting totally<LINE>numb!"
+    },
+    {
+      "id": 15,
+      "offset": 167508,
+      "length_bytes": 8,
+      "raw_hex": "fdd00fc00ffcfffe",
+      "text_jp": "g?そ0そf<END>",
+      "translation_en": "Something's happening...<LINE>The air in the classroom is<LINE>turning ice cold...<PAGE>Get ready, everyone!"
+    },
+    {
+      "id": 16,
+      "offset": 169549,
+      "length_bytes": 6,
+      "raw_hex": "c0cc0cc0fffc",
+      "text_jp": "0~し0<CLOSE>",
+      "translation_en": "Whoa! Look at the window!<LINE>A golden butterfly... it's<LINE>glowing in mid-air! <CLOSE><PAGE>Is that... a lightning bolt?!"
+    },
+    {
+      "id": 17,
+      "offset": 169570,
+      "length_bytes": 7,
+      "raw_hex": "d0fcffd0fffffd",
+      "text_jp": "?f<CMD_d0><CHOICE id=0>",
+      "translation_en": "GAAAHHHH!<LINE>MY HEAD! IT FEELS LIKE IT'S<LINE>TEARING APART! <CLOSE><PAGE>WHAT THE HELL IS THIS POWER?!"
+    },
+    {
+      "id": 18,
+      "offset": 171544,
+      "length_bytes": 9,
+      "raw_hex": "d00fd00fc00ffcfffe",
+      "text_jp": "?そ?そ0そf<END>",
+      "translation_en": "Stand firm, everyone!<LINE>Do not let your consciousness<LINE>fade into the abyss!<PAGE>Nanjo, hold on!"
+    }
+  ]
+}

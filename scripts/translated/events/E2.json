@@ -1,0 +1,735 @@
+{
+  "file": "E2.BIN",
+  "type": "STORY_EVENT_PACKAGE",
+  "total_strings": 91,
+  "entries": [
+    {
+      "id": 0,
+      "offset": 135550,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 1,
+      "offset": 252694,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 2,
+      "offset": 361254,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 3,
+      "offset": 393188,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 4,
+      "offset": 394116,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 5,
+      "offset": 394404,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 6,
+      "offset": 394792,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 7,
+      "offset": 395164,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 8,
+      "offset": 395368,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 9,
+      "offset": 396264,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 10,
+      "offset": 396280,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 11,
+      "offset": 396296,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 12,
+      "offset": 396392,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 13,
+      "offset": 396408,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 14,
+      "offset": 403448,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 15,
+      "offset": 403480,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 16,
+      "offset": 403496,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 17,
+      "offset": 403512,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 18,
+      "offset": 423908,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 19,
+      "offset": 424836,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 20,
+      "offset": 425124,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 21,
+      "offset": 425512,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 22,
+      "offset": 425884,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 23,
+      "offset": 426088,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 24,
+      "offset": 426984,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 25,
+      "offset": 427000,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 26,
+      "offset": 427016,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 27,
+      "offset": 427112,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 28,
+      "offset": 427128,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 29,
+      "offset": 434168,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 30,
+      "offset": 434200,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 31,
+      "offset": 434216,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 32,
+      "offset": 434232,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 33,
+      "offset": 713534,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 34,
+      "offset": 1145088,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 35,
+      "offset": 1145124,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 36,
+      "offset": 1145248,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 37,
+      "offset": 1227106,
+      "length_bytes": 4,
+      "raw_hex": "defffdff",
+      "text_jp": "【<CHOICE id=255>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 38,
+      "offset": 1313646,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 39,
+      "offset": 1365988,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 40,
+      "offset": 1366916,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 41,
+      "offset": 1367204,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 42,
+      "offset": 1367592,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 43,
+      "offset": 1367964,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 44,
+      "offset": 1368168,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 45,
+      "offset": 1369064,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 46,
+      "offset": 1369080,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 47,
+      "offset": 1369096,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 48,
+      "offset": 1369192,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 49,
+      "offset": 1369208,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 50,
+      "offset": 1376248,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 51,
+      "offset": 1376280,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 52,
+      "offset": 1376296,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 53,
+      "offset": 1376312,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 54,
+      "offset": 1401526,
+      "length_bytes": 4,
+      "raw_hex": "d2fffdff",
+      "text_jp": "*<CHOICE id=255>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 55,
+      "offset": 1409914,
+      "length_bytes": 4,
+      "raw_hex": "e6fffdff",
+      "text_jp": "#<CHOICE id=255>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 56,
+      "offset": 1486820,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 57,
+      "offset": 1487748,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 58,
+      "offset": 1488036,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 59,
+      "offset": 1488424,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 60,
+      "offset": 1488796,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 61,
+      "offset": 1489000,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 62,
+      "offset": 1489896,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 63,
+      "offset": 1489912,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 64,
+      "offset": 1489928,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 65,
+      "offset": 1490024,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 66,
+      "offset": 1490040,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 67,
+      "offset": 1497080,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 68,
+      "offset": 1497112,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 69,
+      "offset": 1497128,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 70,
+      "offset": 1497144,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 71,
+      "offset": 1616750,
+      "length_bytes": 4,
+      "raw_hex": "e7fffdff",
+      "text_jp": "&<CHOICE id=255>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 72,
+      "offset": 1642468,
+      "length_bytes": 7,
+      "raw_hex": "94191080dcfffc",
+      "text_jp": "ブのた『<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 73,
+      "offset": 1643396,
+      "length_bytes": 7,
+      "raw_hex": "c41c1080d4fffc",
+      "text_jp": "4ふた-<CLOSE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 74,
+      "offset": 1643684,
+      "length_bytes": 8,
+      "raw_hex": "441b1080b6fff3ff",
+      "text_jp": "ぴひたQ<CMD_f3>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 75,
+      "offset": 1644072,
+      "length_bytes": 7,
+      "raw_hex": "04221080ecfffc",
+      "text_jp": "えめた□<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 76,
+      "offset": 1644444,
+      "length_bytes": 7,
+      "raw_hex": "14201080c4fffc",
+      "text_jp": "とみた4<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 77,
+      "offset": 1644648,
+      "length_bytes": 7,
+      "raw_hex": "041f1080aefffc",
+      "text_jp": "えまたI<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 78,
+      "offset": 1645544,
+      "length_bytes": 7,
+      "raw_hex": "d4311080f8fffe",
+      "text_jp": "-ぐたb<END>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 79,
+      "offset": 1645560,
+      "length_bytes": 8,
+      "raw_hex": "e4311080f8fffdff",
+      "text_jp": "÷ぐたb<CHOICE id=255>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 80,
+      "offset": 1645576,
+      "length_bytes": 7,
+      "raw_hex": "f4311080fcfffc",
+      "text_jp": "♀ぐたf<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 81,
+      "offset": 1645672,
+      "length_bytes": 8,
+      "raw_hex": "54321080fcfff6ff",
+      "text_jp": "オげたf<PAGE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 82,
+      "offset": 1645688,
+      "length_bytes": 8,
+      "raw_hex": "64321080f8fff5ff",
+      "text_jp": "タげたb<LINE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 83,
+      "offset": 1652728,
+      "length_bytes": 8,
+      "raw_hex": "644f1080f4fff5ff",
+      "text_jp": "タょた♀<LINE>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 84,
+      "offset": 1652760,
+      "length_bytes": 7,
+      "raw_hex": "844f1080f4fffc",
+      "text_jp": "護た♀<CLOSE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 85,
+      "offset": 1652776,
+      "length_bytes": 7,
+      "raw_hex": "944f1080f4fffc",
+      "text_jp": "ブょた♀<CLOSE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    },
+    {
+      "id": 86,
+      "offset": 1652792,
+      "length_bytes": 7,
+      "raw_hex": "a44f1080f4fffc",
+      "text_jp": "ッょた♀<CLOSE>",
+      "translation_en": "Maki! How are you feeling today?<LINE>We brought you some flowers from<LINE>school! <CLOSE><PAGE>Mark even drew a funny picture<LINE>for you!"
+    },
+    {
+      "id": 87,
+      "offset": 1663232,
+      "length_bytes": 7,
+      "raw_hex": "68131080c8fffc",
+      "text_jp": "トてた8<CLOSE>",
+      "translation_en": "Thank you, everyone...<LINE>I've been painting this<LINE>landscape from my window for so<PAGE>long...<PAGE>A world where we could all run<LINE>freely outside under the blue<LINE>sky."
+    },
+    {
+      "id": 88,
+      "offset": 1663268,
+      "length_bytes": 8,
+      "raw_hex": "98141080c8fffdff",
+      "text_jp": "ピとた8<CHOICE id=255>",
+      "translation_en": "Don't worry, Maki! Once you're<LINE>discharged, we'll all go hang<LINE>out at Peace Diner together!<PAGE>Mark's treating everyone to<LINE>burgers!"
+    },
+    {
+      "id": 89,
+      "offset": 1663392,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Wait... did you feel that<LINE>tremor?!<LINE>The hospital walls are shaking!<PAGE>What's happening in town?! <CLOSE><PAGE>Look outside... a giant purple<LINE>barrier?!"
+    },
+    {
+      "id": 90,
+      "offset": 1679776,
+      "length_bytes": 8,
+      "raw_hex": "f8131080a8fff5ff",
+      "text_jp": "bてたC<LINE>",
+      "translation_en": "Mikage General Hospital is quiet<LINE>today...<LINE>Maki Sonomura's room is just<PAGE>down this hallway.<PAGE>Let's go visit her, guys."
+    }
+  ]
+}
