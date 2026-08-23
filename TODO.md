@@ -7,11 +7,11 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
 ## 🎯 Target 1: Megami Ibunroku Persona (PSX)
 
 ### 📦 Phase 1: Disc & Asset Extraction
-- [ ] **1.1. Disc Extractor (`tools/extractor.py`)**
-  - [ ] Implement ISO9660 Mode 2 / 2352 raw sector reader and directory tree walker.
-  - [ ] Extract all game files preserving directory hierarchy into `extracted/`.
-  - [ ] Parse and validate engine fast-lookup tables (`FNAME.DAT`, `FSECT.DAT`, `FSIZE.DAT`).
-  - [ ] Generate extraction manifest with LBA offsets, sector ranges, and file sizes (`extracted/manifest.json`).
+- [x] **1.1. Disc Extractor (`tools/extractor.py`)**
+  - [x] Implement ISO9660 Mode 2 / 2352 raw sector reader and directory tree walker.
+  - [x] Extract all game files preserving directory hierarchy into `extracted/`.
+  - [x] Parse and validate engine fast-lookup tables (`FNAME.DAT`, `FSECT.DAT`, `FSIZE.DAT`).
+  - [x] Generate extraction manifest with LBA offsets, sector ranges, and file sizes (`extracted/manifest.json`).
 - [ ] **1.2. Asset Identification & Classification**
   - [ ] Map all script files across `/TALK/` (demon negotiation), `/D00/`..`/D04/` (dungeons/events), and `NAME.BIN` (names/items).
   - [ ] Document all file formats and compression types (if any).
