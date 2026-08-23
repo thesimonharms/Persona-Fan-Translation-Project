@@ -1,0 +1,2113 @@
+{
+  "file": "KOKURI.BIN",
+  "type": "TALK_DEMON_NEGOTIATION",
+  "total_strings": 234,
+  "entries": [
+    {
+      "id": 0,
+      "pointer_offset": 20,
+      "target_offset": 8192,
+      "length_bytes": 113,
+      "raw_hex": "80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 1,
+      "pointer_offset": 24,
+      "target_offset": 8325,
+      "length_bytes": 115,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d702fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…い<CMD_fb><CMD_f7>……………………………………………………………………………………………や<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 2,
+      "pointer_offset": 28,
+      "target_offset": 8440,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 3,
+      "pointer_offset": 32,
+      "target_offset": 8615,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 4,
+      "pointer_offset": 36,
+      "target_offset": 8748,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 5,
+      "pointer_offset": 40,
+      "target_offset": 8887,
+      "length_bytes": 135,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>……………………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 6,
+      "pointer_offset": 44,
+      "target_offset": 9022,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73efffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ば<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 7,
+      "pointer_offset": 48,
+      "target_offset": 9155,
+      "length_bytes": 108,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 8,
+      "pointer_offset": 52,
+      "target_offset": 9263,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 9,
+      "pointer_offset": 56,
+      "target_offset": 9372,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "………………………だ<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 10,
+      "pointer_offset": 60,
+      "target_offset": 9496,
+      "length_bytes": 105,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 11,
+      "pointer_offset": 64,
+      "target_offset": 9601,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 12,
+      "pointer_offset": 68,
+      "target_offset": 9764,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 13,
+      "pointer_offset": 72,
+      "target_offset": 9897,
+      "length_bytes": 115,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d702fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…い<CMD_fb><CMD_f7>……………………………………………………………………………………………や<CMD_fb><CMD_f7>………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 14,
+      "pointer_offset": 76,
+      "target_offset": 10012,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 15,
+      "pointer_offset": 80,
+      "target_offset": 10187,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 16,
+      "pointer_offset": 84,
+      "target_offset": 10311,
+      "length_bytes": 109,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 17,
+      "pointer_offset": 88,
+      "target_offset": 10420,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 18,
+      "pointer_offset": 92,
+      "target_offset": 10583,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 19,
+      "pointer_offset": 96,
+      "target_offset": 10716,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 20,
+      "pointer_offset": 100,
+      "target_offset": 10840,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 21,
+      "pointer_offset": 104,
+      "target_offset": 11003,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 22,
+      "pointer_offset": 108,
+      "target_offset": 11136,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 23,
+      "pointer_offset": 112,
+      "target_offset": 11260,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 24,
+      "pointer_offset": 116,
+      "target_offset": 11423,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 25,
+      "pointer_offset": 120,
+      "target_offset": 11556,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 26,
+      "pointer_offset": 124,
+      "target_offset": 11695,
+      "length_bytes": 135,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>……………………………………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 27,
+      "pointer_offset": 128,
+      "target_offset": 11830,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73efffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ば<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 28,
+      "pointer_offset": 132,
+      "target_offset": 11993,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 29,
+      "pointer_offset": 136,
+      "target_offset": 12126,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 30,
+      "pointer_offset": 140,
+      "target_offset": 12265,
+      "length_bytes": 135,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>……………………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 31,
+      "pointer_offset": 144,
+      "target_offset": 12400,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73efffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ば<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 32,
+      "pointer_offset": 148,
+      "target_offset": 12563,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 33,
+      "pointer_offset": 152,
+      "target_offset": 12696,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 34,
+      "pointer_offset": 156,
+      "target_offset": 12820,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 35,
+      "pointer_offset": 160,
+      "target_offset": 12995,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 36,
+      "pointer_offset": 164,
+      "target_offset": 13128,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 37,
+      "pointer_offset": 168,
+      "target_offset": 13267,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 38,
+      "pointer_offset": 172,
+      "target_offset": 13372,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 39,
+      "pointer_offset": 176,
+      "target_offset": 13505,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 40,
+      "pointer_offset": 180,
+      "target_offset": 13629,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 41,
+      "pointer_offset": 184,
+      "target_offset": 13804,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 42,
+      "pointer_offset": 188,
+      "target_offset": 13937,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 43,
+      "pointer_offset": 192,
+      "target_offset": 14061,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 44,
+      "pointer_offset": 196,
+      "target_offset": 14224,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 45,
+      "pointer_offset": 200,
+      "target_offset": 14357,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 46,
+      "pointer_offset": 204,
+      "target_offset": 14496,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 47,
+      "pointer_offset": 208,
+      "target_offset": 14601,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 48,
+      "pointer_offset": 212,
+      "target_offset": 14734,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 49,
+      "pointer_offset": 216,
+      "target_offset": 14873,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 50,
+      "pointer_offset": 220,
+      "target_offset": 15048,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 51,
+      "pointer_offset": 224,
+      "target_offset": 15181,
+      "length_bytes": 146,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71dfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d710fffbfff780d780d780d780d780d780d780d708fffbfff780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…………………………………………………………………………へ<CMD_fb><CMD_f7>………………………………………た<CMD_fb><CMD_f7>…………………く<CMD_fb><CMD_f7>……………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 52,
+      "pointer_offset": 228,
+      "target_offset": 15327,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70ffff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………そ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 53,
+      "pointer_offset": 232,
+      "target_offset": 15490,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 54,
+      "pointer_offset": 236,
+      "target_offset": 15623,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 55,
+      "pointer_offset": 240,
+      "target_offset": 15762,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 56,
+      "pointer_offset": 244,
+      "target_offset": 15867,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 57,
+      "pointer_offset": 248,
+      "target_offset": 16000,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 58,
+      "pointer_offset": 252,
+      "target_offset": 16139,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 59,
+      "pointer_offset": 256,
+      "target_offset": 16314,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 60,
+      "pointer_offset": 260,
+      "target_offset": 16447,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 61,
+      "pointer_offset": 264,
+      "target_offset": 16571,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 62,
+      "pointer_offset": 268,
+      "target_offset": 16734,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 63,
+      "pointer_offset": 272,
+      "target_offset": 16858,
+      "length_bytes": 135,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>……………………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 64,
+      "pointer_offset": 276,
+      "target_offset": 16993,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73efffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ば<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 65,
+      "pointer_offset": 280,
+      "target_offset": 17156,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 66,
+      "pointer_offset": 284,
+      "target_offset": 17289,
+      "length_bytes": 146,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71dfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d710fffbfff780d780d780d780d780d780d780d708fffbfff780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…………………………………………………………………………へ<CMD_fb><CMD_f7>………………………………………た<CMD_fb><CMD_f7>…………………く<CMD_fb><CMD_f7>……………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 67,
+      "pointer_offset": 288,
+      "target_offset": 17435,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70ffff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………そ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 68,
+      "pointer_offset": 292,
+      "target_offset": 17598,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 69,
+      "pointer_offset": 296,
+      "target_offset": 17731,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 70,
+      "pointer_offset": 300,
+      "target_offset": 17855,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 71,
+      "pointer_offset": 304,
+      "target_offset": 18030,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 72,
+      "pointer_offset": 308,
+      "target_offset": 18163,
+      "length_bytes": 115,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d702fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…い<CMD_fb><CMD_f7>……………………………………………………………………………………………や<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 73,
+      "pointer_offset": 312,
+      "target_offset": 18278,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 74,
+      "pointer_offset": 316,
+      "target_offset": 18453,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 75,
+      "pointer_offset": 320,
+      "target_offset": 18586,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 76,
+      "pointer_offset": 324,
+      "target_offset": 18725,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 77,
+      "pointer_offset": 328,
+      "target_offset": 18830,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 78,
+      "pointer_offset": 332,
+      "target_offset": 18963,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 79,
+      "pointer_offset": 336,
+      "target_offset": 19087,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 80,
+      "pointer_offset": 340,
+      "target_offset": 19262,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 81,
+      "pointer_offset": 344,
+      "target_offset": 19395,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 82,
+      "pointer_offset": 348,
+      "target_offset": 19519,
+      "length_bytes": 105,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 83,
+      "pointer_offset": 352,
+      "target_offset": 19624,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 84,
+      "pointer_offset": 356,
+      "target_offset": 19757,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 85,
+      "pointer_offset": 360,
+      "target_offset": 19896,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 86,
+      "pointer_offset": 364,
+      "target_offset": 20001,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 87,
+      "pointer_offset": 368,
+      "target_offset": 20140,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 88,
+      "pointer_offset": 372,
+      "target_offset": 20245,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 89,
+      "pointer_offset": 376,
+      "target_offset": 20420,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 90,
+      "pointer_offset": 380,
+      "target_offset": 20553,
+      "length_bytes": 108,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 91,
+      "pointer_offset": 384,
+      "target_offset": 20661,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 92,
+      "pointer_offset": 388,
+      "target_offset": 20824,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 93,
+      "pointer_offset": 392,
+      "target_offset": 20948,
+      "length_bytes": 109,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 94,
+      "pointer_offset": 396,
+      "target_offset": 21057,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 95,
+      "pointer_offset": 400,
+      "target_offset": 21232,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 96,
+      "pointer_offset": 404,
+      "target_offset": 21365,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 97,
+      "pointer_offset": 408,
+      "target_offset": 21504,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 98,
+      "pointer_offset": 412,
+      "target_offset": 21609,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 99,
+      "pointer_offset": 416,
+      "target_offset": 21742,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 100,
+      "pointer_offset": 420,
+      "target_offset": 21881,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 101,
+      "pointer_offset": 424,
+      "target_offset": 21986,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 102,
+      "pointer_offset": 428,
+      "target_offset": 22119,
+      "length_bytes": 139,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 103,
+      "pointer_offset": 432,
+      "target_offset": 22258,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………す<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 104,
+      "pointer_offset": 436,
+      "target_offset": 22363,
+      "length_bytes": 124,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d703fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……う<CMD_fb><CMD_f7>…………………………………………………………………………………………………………る<CMD_fb><CMD_f7>……………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 105,
+      "pointer_offset": 440,
+      "target_offset": 22487,
+      "length_bytes": 135,
+      "raw_hex": "80d780d780d780d780d70bfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………さ<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………………………………や<CMD_fb><CMD_f7>……………………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 106,
+      "pointer_offset": 444,
+      "target_offset": 22622,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73efffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ば<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 107,
+      "pointer_offset": 448,
+      "target_offset": 22785,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 108,
+      "pointer_offset": 452,
+      "target_offset": 22918,
+      "length_bytes": 109,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 109,
+      "pointer_offset": 456,
+      "target_offset": 23027,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 110,
+      "pointer_offset": 460,
+      "target_offset": 23190,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 111,
+      "pointer_offset": 464,
+      "target_offset": 23323,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 112,
+      "pointer_offset": 468,
+      "target_offset": 23456,
+      "length_bytes": 156,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 113,
+      "pointer_offset": 472,
+      "target_offset": 23612,
+      "length_bytes": 156,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 114,
+      "pointer_offset": 476,
+      "target_offset": 23768,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 115,
+      "pointer_offset": 480,
+      "target_offset": 23877,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 116,
+      "pointer_offset": 484,
+      "target_offset": 23986,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 117,
+      "pointer_offset": 488,
+      "target_offset": 24161,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………ふ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 118,
+      "pointer_offset": 492,
+      "target_offset": 24336,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 119,
+      "pointer_offset": 496,
+      "target_offset": 24469,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 120,
+      "pointer_offset": 500,
+      "target_offset": 24602,
+      "length_bytes": 156,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 121,
+      "pointer_offset": 504,
+      "target_offset": 24758,
+      "length_bytes": 156,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 122,
+      "pointer_offset": 508,
+      "target_offset": 24914,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 123,
+      "pointer_offset": 512,
+      "target_offset": 25019,
+      "length_bytes": 105,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 124,
+      "pointer_offset": 516,
+      "target_offset": 25124,
+      "length_bytes": 175,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 125,
+      "pointer_offset": 520,
+      "target_offset": 25299,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………ふ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 126,
+      "pointer_offset": 524,
+      "target_offset": 25474,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 127,
+      "pointer_offset": 528,
+      "target_offset": 25607,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 128,
+      "pointer_offset": 532,
+      "target_offset": 25740,
+      "length_bytes": 161,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d70a80d780d70d80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>………………………こ……す……………………………………………………………………………ろ<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 129,
+      "pointer_offset": 536,
+      "target_offset": 25901,
+      "length_bytes": 161,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d70a80d780d70d80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>………………………こ……す……………………………………………………………………………ろ<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 130,
+      "pointer_offset": 540,
+      "target_offset": 26062,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 131,
+      "pointer_offset": 544,
+      "target_offset": 26171,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 132,
+      "pointer_offset": 548,
+      "target_offset": 26280,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 133,
+      "pointer_offset": 552,
+      "target_offset": 26443,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………は<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 134,
+      "pointer_offset": 556,
+      "target_offset": 26606,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 135,
+      "pointer_offset": 560,
+      "target_offset": 26739,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 136,
+      "pointer_offset": 564,
+      "target_offset": 26872,
+      "length_bytes": 161,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d70380d780d780d780d780d780d780d780d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……う…………………………せ…………………………………………………………………………ろ<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 137,
+      "pointer_offset": 568,
+      "target_offset": 27033,
+      "length_bytes": 161,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d70380d780d780d780d780d780d780d780d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……う…………………………せ…………………………………………………………………………ろ<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 138,
+      "pointer_offset": 572,
+      "target_offset": 27194,
+      "length_bytes": 105,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 139,
+      "pointer_offset": 576,
+      "target_offset": 27299,
+      "length_bytes": 105,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71bfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>……………………………………………………………………ひ<CMD_fb><CMD_f7>……………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 140,
+      "pointer_offset": 580,
+      "target_offset": 27404,
+      "length_bytes": 163,
+      "raw_hex": "80d780d780d780d780d73dfffbfff780d702fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………ど<CMD_fb><CMD_f7>…い<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 141,
+      "pointer_offset": 584,
+      "target_offset": 27567,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………は<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 142,
+      "pointer_offset": 588,
+      "target_offset": 27730,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………は<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 143,
+      "pointer_offset": 592,
+      "target_offset": 27863,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 144,
+      "pointer_offset": 596,
+      "target_offset": 27996,
+      "length_bytes": 156,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 145,
+      "pointer_offset": 600,
+      "target_offset": 28152,
+      "length_bytes": 156,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 146,
+      "pointer_offset": 604,
+      "target_offset": 28308,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 147,
+      "pointer_offset": 608,
+      "target_offset": 28417,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 148,
+      "pointer_offset": 612,
+      "target_offset": 28526,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 149,
+      "pointer_offset": 616,
+      "target_offset": 28701,
+      "length_bytes": 175,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………ふ<LINE>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………………………………ふ<CMD_fb><CMD_f7>………………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 150,
+      "pointer_offset": 620,
+      "target_offset": 28876,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71cfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ふ<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 151,
+      "pointer_offset": 624,
+      "target_offset": 29009,
+      "length_bytes": 133,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71efffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>……………………………………………………………………………ほ<CMD_fb><CMD_f7>…………………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 152,
+      "pointer_offset": 628,
+      "target_offset": 29142,
+      "length_bytes": 156,
+      "raw_hex": "80d780d780d780d71efffbfff780d780d703fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "…………ほ<CMD_fb><CMD_f7>……う<LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 153,
+      "pointer_offset": 632,
+      "target_offset": 29298,
+      "length_bytes": 156,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d7020380d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d729fffbfff780d780d780d780d780d70680d780d780d70a80d780d780d70e80d780d780d780d780d780d7151680d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>…いう…………………さ……………………………………………………………………………る<CMD_fb><CMD_f7>……………か………こ………せ………………なに…………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 154,
+      "pointer_offset": 636,
+      "target_offset": 29454,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 155,
+      "pointer_offset": 640,
+      "target_offset": 29563,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 156,
+      "pointer_offset": 644,
+      "target_offset": 29672,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 157,
+      "pointer_offset": 648,
+      "target_offset": 29835,
+      "length_bytes": 163,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………は<LINE>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………………………………は<CMD_fb><CMD_f7>…………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 158,
+      "pointer_offset": 652,
+      "target_offset": 29998,
+      "length_bytes": 121,
+      "raw_hex": "d780d780d780d780d780d780d780d780d71afff54880d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d73dfffbfff70180d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71980d780d780d780d780d780d780",
+      "text_jp": "………………………は<LINE>ぁ…………か…………………………………ど<CMD_fb><CMD_f7>あ…………か………………………………………………の………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 159,
+      "pointer_offset": 656,
+      "target_offset": 30119,
+      "length_bytes": 168,
+      "raw_hex": "d780d780d780d780d780d780d780d780d729ffef80d780d780d780d780d780d780d780d780d70a80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………る<CMD_ef>………………………こ…………………………………………………………………………………れ<CMD_fb><CMD_f7>…………………………………………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 160,
+      "pointer_offset": 660,
+      "target_offset": 30287,
+      "length_bytes": 29,
+      "raw_hex": "80d780d780d780d72480d780d780d780d729ffef80d780d70380d780d7",
+      "text_jp": "…………や…………る<CMD_ef>……う……",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 161,
+      "pointer_offset": 664,
+      "target_offset": 30316,
+      "length_bytes": 68,
+      "raw_hex": "0680d780d780d780d780d780d780d780d70fffef80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d73980d780d780d780d780d780d780d780d780",
+      "text_jp": "か……………………そ<CMD_ef>………………………………………だ……………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 162,
+      "pointer_offset": 668,
+      "target_offset": 30384,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d780d780d780d780d722ffef80d702fff680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72680d780d780d780d780d72cfffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d73980d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………め<CMD_ef>…い<PAGE>…………………………………………………………よ……………わ<CMD_fb><CMD_f7>………………………………………だ……………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 163,
+      "pointer_offset": 672,
+      "target_offset": 30517,
+      "length_bytes": 168,
+      "raw_hex": "d780d780d780d780d780d780d780d780d722ffef80d780d780d780d780d780d780d780d780d70a80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………め<CMD_ef>………………………こ…………………………………………………………………………………れ<CMD_fb><CMD_f7>…………………………………………………………………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 164,
+      "pointer_offset": 676,
+      "target_offset": 30685,
+      "length_bytes": 77,
+      "raw_hex": "80d780d780d780d72480d780d780d780d729ffef80d780d780d780d780d780d780d780d780d780d70b80d780d780d780d780d780d780d780d780d780d780d780d780d780d73e80d780d780d780",
+      "text_jp": "…………や…………る<CMD_ef>…………………………さ……………………………………ば………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 165,
+      "pointer_offset": 680,
+      "target_offset": 30762,
+      "length_bytes": 167,
+      "raw_hex": "d780d780d780d780d780d780d780d780d727ffef80d780d780d780d780d780d780d780d780d70a80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72380d780d780d780d780d780d72afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "………………………ら<CMD_ef>………………………こ………………………………………………………………も………………れ<CMD_fb><CMD_f7>…………………………………………………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 166,
+      "pointer_offset": 684,
+      "target_offset": 30929,
+      "length_bytes": 158,
+      "raw_hex": "80d780d780d780d72480d780d780d780d729ffef80d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71a80d780d780d780d780d780d780d780d780d724fffbfff780d780d780d780d780d780d70780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………や…………る<CMD_ef>…………………く……………………………………………は………………………や<CMD_fb><CMD_f7>………………き……………………………………………………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 167,
+      "pointer_offset": 688,
+      "target_offset": 31087,
+      "length_bytes": 82,
+      "raw_hex": "2280d780d780d780d780d780d780d780d72bffef80d780d70380d780d780d780d780d70980d780d780d780d780d780d780d780d780d780d71480d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "め……………………ろ<CMD_ef>……う……………け…………………………と………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 168,
+      "pointer_offset": 692,
+      "target_offset": 31169,
+      "length_bytes": 85,
+      "raw_hex": "d780d780d780d780d780d780d780d780d72affef80d780d780d70480d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………れ<CMD_ef>………え…か………………………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 169,
+      "pointer_offset": 696,
+      "target_offset": 31254,
+      "length_bytes": 87,
+      "raw_hex": "d780d780d780d780d780d780d780d780d72bffef80d780d780d70480d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………ろ<CMD_ef>………え…か…………………………………………………………………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 170,
+      "pointer_offset": 700,
+      "target_offset": 31341,
+      "length_bytes": 146,
+      "raw_hex": "d780d780d780d780d780d72980d780d780d1ffef0180d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71680d780d780d71a80d780d780d71efffbfff780d780d780d780d780d780d780d780d780d70a80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………る……！<CMD_ef>あ……………………………………………………に………は………ほ<CMD_fb><CMD_f7>………………………こ……………………………………………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 171,
+      "pointer_offset": 704,
+      "target_offset": 31487,
+      "length_bytes": 95,
+      "raw_hex": "d780d72480d780d780d780d7292a80d780d1ffef0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2efffbfff7230380d524221080d1fffcfff6114e2e1481aa0c13242e15021480",
+      "text_jp": "……や…………るれ…！<CMD_ef>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろん<CMD_fb><CMD_f7>もう、やめた！<CLOSE><PAGE>ちゅんと越してやんないと",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 172,
+      "pointer_offset": 708,
+      "target_offset": 31582,
+      "length_bytes": 47,
+      "raw_hex": "d5fff6828a80d583bd4d133e4d060c3980cfffef5b80cc7f80d1fffcfff682d6814b1a80d52303841a81c239062780",
+      "text_jp": "、<PAGE>粥、刑ゃてばゃかしだ。<CMD_ef>キ~ロ！<CLOSE><PAGE>危畏は、もう弦遠だから",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 173,
+      "pointer_offset": 712,
+      "target_offset": 31629,
+      "length_bytes": 48,
+      "raw_hex": "d5fff6828a4d11195780cc808f24292680cfffef051f0480d58124812515191680d5fff6094d0a0380d50d330f033906",
+      "text_jp": "、<PAGE>粥ゃちのウ~ヅやるよ。<CMD_ef>おまえ、鯵梓なのに、<PAGE>けゃこう、すごそうだか",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 174,
+      "pointer_offset": 716,
+      "target_offset": 31677,
+      "length_bytes": 51,
+      "raw_hex": "2780d5fff6114e2e1481aa0c1324292680cfffef5b80cc7f80d100fffc0f2e3c234d1380d5fff6828a4d11195780cc808f2324",
+      "text_jp": "ら、<PAGE>ちゅんと越してやるよ。<CMD_ef>キ~ロ！ <CLOSE>そんでもゃて、<PAGE>粥ゃちのウ~ヅもや",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 175,
+      "pointer_offset": 720,
+      "target_offset": 31728,
+      "length_bytes": 53,
+      "raw_hex": "292680cffff602102a2812080e28392b80d0ffef80d70280d780d780d780d780d780d780d73380d780d70dfffbfff780d780d780d7",
+      "text_jp": "るよ。<PAGE>いたれりつくせりだろ？<CMD_ef>…い…………………ご……す<CMD_fb><CMD_f7>………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 176,
+      "pointer_offset": 724,
+      "target_offset": 31781,
+      "length_bytes": 167,
+      "raw_hex": "80d780d780d70780d780d780d780d780d70dffef80d780d780d780d780d780d780d780d780d70a80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72afffbfff70180d780d780d780d780d780d780d73280d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………き……………す<CMD_ef>………………………こ…………………………………………………………………………………れ<CMD_fb><CMD_f7>あ…………………げ…………………………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 177,
+      "pointer_offset": 728,
+      "target_offset": 31948,
+      "length_bytes": 49,
+      "raw_hex": "d780d780d780d780d780d780d780d780d729ffef114e2e1481aa0d06270b80d7fffcfff60f2e151680d5828a4d11190a14",
+      "text_jp": "………………………る<CMD_ef>ちゅんと越すからさ…<CLOSE><PAGE>そんなに、粥ゃちのこと",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 178,
+      "pointer_offset": 732,
+      "target_offset": 31997,
+      "length_bytes": 37,
+      "raw_hex": "f6853b2f270d1980d5242213082a2680d7ffef828a4d11195780cc808f242906270b80cfff",
+      "text_jp": "！？酸がらすの、やめてくれよ…<CMD_ef>粥ゃちのウ~ヅやるからさ。",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 179,
+      "pointer_offset": 736,
+      "target_offset": 32035,
+      "length_bytes": 101,
+      "raw_hex": "f61580d50f2a152781a684531502261580d0ffef80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "！？な、それなら益交ないよな？<CMD_ef>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 180,
+      "pointer_offset": 740,
+      "target_offset": 32136,
+      "length_bytes": 101,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff580d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 181,
+      "pointer_offset": 744,
+      "target_offset": 32237,
+      "length_bytes": 60,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff580d780d780d780d780d70680d780d780d70a80d780d780d70efff680d780d780d780d780d71516ff",
+      "text_jp": "……………………れ<CMD_f1><LINE>……………か………こ………せ<PAGE>……………なに",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 182,
+      "pointer_offset": 748,
+      "target_offset": 32297,
+      "length_bytes": 122,
+      "raw_hex": "f680d780d780d780d780d780d780d726fff1fff580d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d780d780d70a80d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "！？…………………よ<CMD_f1><LINE>……………か……………………………………なに<CMD_fb><CMD_f7>………………………こ………せ………………………………………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 183,
+      "pointer_offset": 752,
+      "target_offset": 32419,
+      "length_bytes": 106,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff580d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d70280d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE>……………か……………………………………なに<CMD_fb><CMD_f7>…い………………………し………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 184,
+      "pointer_offset": 756,
+      "target_offset": 32525,
+      "length_bytes": 106,
+      "raw_hex": "d780d780d780d780d780d780d780d71efff1fff580d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d70280d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………ほ<CMD_f1><LINE>……………か……………………………………なに<CMD_fb><CMD_f7>…い………………………し………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 185,
+      "pointer_offset": 760,
+      "target_offset": 32631,
+      "length_bytes": 76,
+      "raw_hex": "d780d780d780d780d780d780d780d71efff1fff55b80cc7f80d1fffcfff6835f819f80d180d1008182825c39261580d180d1fffbfff7014d80d1fff683dc81ba160c4e414d114e4d1080d7ff",
+      "text_jp": "……………………ほ<CMD_f1><LINE>キ~ロ！<CLOSE><PAGE>矯頴！！ 嘘角だよな！！<CMD_fb><CMD_f7>あゃ！<PAGE>警焔にしゅべゃちゅゃた…",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 186,
+      "pointer_offset": 764,
+      "target_offset": 32707,
+      "length_bytes": 63,
+      "raw_hex": "fcfff61f0180d502022480d55b80cc7f80d1fff55b80cc7f80d100835f819f821881fb11020280d1fffcfff6140a2b3c8124812580d5828a4d112ffff63d0a",
+      "text_jp": "[G_252]<PAGE>まあ、いいや、キ~ロ！<LINE>キ~ロ！ 矯頴蛾歌ちいい！<CLOSE><PAGE>ところで鯵梓、粥ゃちが<PAGE>どこ",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 187,
+      "pointer_offset": 768,
+      "target_offset": 32770,
+      "length_bytes": 103,
+      "raw_hex": "1982c7390680d52c062906154880d0fffd00fff5ffee80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "の含だか、わかるかなぁ？<CHOICE id=0><LINE><CMD_ee>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 188,
+      "pointer_offset": 772,
+      "target_offset": 32873,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff5ffed80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d780d780d70a80d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE><CMD_ed>……………か……………………………………なに<CMD_fb><CMD_f7>………………………こ………せ………………………………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 189,
+      "pointer_offset": 776,
+      "target_offset": 32997,
+      "length_bytes": 103,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff5ffee80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE><CMD_ee>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 190,
+      "pointer_offset": 780,
+      "target_offset": 33100,
+      "length_bytes": 108,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff5ffec80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d70280d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE><CMD_ec>……………か……………………………………なに<CMD_fb><CMD_f7>…い………………………し………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 191,
+      "pointer_offset": 784,
+      "target_offset": 33208,
+      "length_bytes": 103,
+      "raw_hex": "d780d780d780d780d780d780d780d71efff1fff5ffee80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………ほ<CMD_f1><LINE><CMD_ee>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 192,
+      "pointer_offset": 788,
+      "target_offset": 33311,
+      "length_bytes": 103,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff5ffeb80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE><CMD_eb>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 193,
+      "pointer_offset": 792,
+      "target_offset": 33414,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff5ffed80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d780d780d70a80d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE><CMD_ed>……………か……………………………………なに<CMD_fb><CMD_f7>………………………こ………せ………………………………………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 194,
+      "pointer_offset": 796,
+      "target_offset": 33538,
+      "length_bytes": 108,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff5ffec80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d70280d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE><CMD_ec>……………か……………………………………なに<CMD_fb><CMD_f7>…い………………………し………………………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 195,
+      "pointer_offset": 800,
+      "target_offset": 33646,
+      "length_bytes": 124,
+      "raw_hex": "d780d780d780d780d780d780d780d71efff1fff5ffed80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d780d780d70a80d780d780d70e80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………ほ<CMD_f1><LINE><CMD_ed>……………か……………………………………なに<CMD_fb><CMD_f7>………………………こ………せ………………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 196,
+      "pointer_offset": 804,
+      "target_offset": 33770,
+      "length_bytes": 103,
+      "raw_hex": "d780d780d780d780d780d780d780d726fff1fff5ffeb80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………よ<CMD_f1><LINE><CMD_eb>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 197,
+      "pointer_offset": 808,
+      "target_offset": 33873,
+      "length_bytes": 108,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff5ffec80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d70280d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………れ<CMD_f1><LINE><CMD_ec>……………か……………………………………なに<CMD_fb><CMD_f7>…い………………………し………………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 198,
+      "pointer_offset": 812,
+      "target_offset": 33981,
+      "length_bytes": 103,
+      "raw_hex": "d780d780d780d780d780d780d780d71efff1fff5ffeb80d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d71516fffbfff780d780d780d780d780d780d780d70880d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………ほ<CMD_f1><LINE><CMD_eb>……………か……………………………………なに<CMD_fb><CMD_f7>…………………く…………………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 199,
+      "pointer_offset": 816,
+      "target_offset": 34084,
+      "length_bytes": 129,
+      "raw_hex": "d780d780d780d780d780d780d780d72afff1fff580d70280d780d780d780d70780d780d780d780d780d780d780d780d71080d74d80d780d780d716fffbfff780d780d70380d780d780d70780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71a80d780d780d74280d780d780d780d780d7",
+      "text_jp": "……………………れ<CMD_f1><LINE>…い…………き……………………た…ゃ………に<CMD_fb><CMD_f7>……う………き………………………………………………は………ぼ……………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 200,
+      "pointer_offset": 820,
+      "target_offset": 34213,
+      "length_bytes": 176,
+      "raw_hex": "80d780d780d780d780d780d780d780d780d0ffef80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71280d780d780d780d780d780d780d780d780d780d780d780d71f80d780d780d780d780d780d780d72780d780d780d780d72efffbfff780d780d780d780d780d780d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780d780d71880d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "……………………？<CMD_ef>……………………………………………つ………………………………ま…………………ら…………ん<CMD_fb><CMD_f7>……………………………し……………………………ね……………………………",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 201,
+      "pointer_offset": 824,
+      "target_offset": 34389,
+      "length_bytes": 83,
+      "raw_hex": "80d780d780d780d780d780d780d780d780d1ffef80d70280d780d70580d780d780d780d780d780d70c80d780d70f80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………！<CMD_ef>…い……お………………し……そ………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 202,
+      "pointer_offset": 828,
+      "target_offset": 34472,
+      "length_bytes": 148,
+      "raw_hex": "d780d780d780d780d780d780d780d780d72bffef80d70280d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d725fffbfff780d70280d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………ろ<CMD_ef>…い………か………………………………………………………………………………ゆ<CMD_fb><CMD_f7>…い………か………………………………………………………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 203,
+      "pointer_offset": 832,
+      "target_offset": 34620,
+      "length_bytes": 153,
+      "raw_hex": "d780d780d780d780d780d780d780d780d725ffef80d780d780d780d780d72f80d780d780d780d780d780d780d780d780d780d780d71280d780d780d780d71780d780d780d780d780d780d780d71f80d780d780d780d780d780d780d727fffbfff780d70280d780d780d780d70780d780d780d780d780d780d780d73880d780d780d71380d780d780d780d780d71980d780d780d780d780d780",
+      "text_jp": "………………………ゆ<CMD_ef>……………が……………………………つ…………ぬ…………………ま…………………ら<CMD_fb><CMD_f7>…い…………き…………………ぞ………て……………の……………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 204,
+      "pointer_offset": 836,
+      "target_offset": 34773,
+      "length_bytes": 107,
+      "raw_hex": "d72080d780d780d72480d780d780d780d729ffef80d780d70380d780d780d70780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d74280d780d780d780d780d780d780d780d780d780d780d780d780d72dfffbff",
+      "text_jp": "…み………や…………る<CMD_ef>……う………き…………………………………………………………ぼ…………………………………を<CMD_fb>",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 205,
+      "pointer_offset": 840,
+      "target_offset": 34880,
+      "length_bytes": 146,
+      "raw_hex": "f780d780d70380d780d780d70780d780d70affef80d70280d780d70580d780d780d780d780d780d70c80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72380d780d780d780d780d780d780d72bfffbfff780d70280d70480d780d780d780d780d780d780d780d780d780d73880d780d780d780d780d780d780d7",
+      "text_jp": "[G_247]……う………き……こ<CMD_ef>…い……お………………し…………………………………………………………も…………………ろ<CMD_fb><CMD_f7>…い…え…………………………ぞ…………………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 206,
+      "pointer_offset": 844,
+      "target_offset": 35026,
+      "length_bytes": 85,
+      "raw_hex": "80d780d71980d780d780d780d780d780d720ffef80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71280d780d71580d780d780d780d780d780d780d71d80d780d780d780d780d7",
+      "text_jp": "……の………………み<CMD_ef>……………………………………………つ……な…………………へ……………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 207,
+      "pointer_offset": 848,
+      "target_offset": 35111,
+      "length_bytes": 85,
+      "raw_hex": "80d72480d780d780d780d780d780d780d72effef80d70280d780d780d780d780d70880d780d780d780d780d780d780d73980d780d780d780d71580d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "…や…………………ん<CMD_ef>…い……………く…………………だ…………な…………………………………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 208,
+      "pointer_offset": 852,
+      "target_offset": 35196,
+      "length_bytes": 150,
+      "raw_hex": "d780d780d780d72780d780d780d780d780d1ffef80d780d780d7040580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71ffffbfff780d70280d780d780d780d780d780d780d73380d780d70d80d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d7",
+      "text_jp": "…………ら…………！<CMD_ef>………えお…………………………………………………………………ま<CMD_fb><CMD_f7>…い…………………ご……す…………………………………………………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 209,
+      "pointer_offset": 856,
+      "target_offset": 35346,
+      "length_bytes": 48,
+      "raw_hex": "80d780d780d780d780d780d780d780d780d1ffef80d780d780d780d780d70680d780d780d780d780d780d780d780d780",
+      "text_jp": "……………………！<CMD_ef>……………か……………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 210,
+      "pointer_offset": 860,
+      "target_offset": 35394,
+      "length_bytes": 8,
+      "raw_hex": "d780d780d780d780",
+      "text_jp": "…………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 211,
+      "pointer_offset": 864,
+      "target_offset": 35402,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d718ffef5b80cc7f80d1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71ffffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d717fffbff",
+      "text_jp": "……………ね<CMD_ef>キ~ロ！<LINE>………………………………………………………………………………ま<CMD_fb><CMD_f7>…………………………………………………………ぬ<CMD_fb>",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 212,
+      "pointer_offset": 868,
+      "target_offset": 35535,
+      "length_bytes": 118,
+      "raw_hex": "f780d780d780d780d780d780d780d780d709fff580d780d780d780d780d72f80d780d780d780d780d780d780d780d780d780d780d74dfffbfff780d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "[G_247]……………………け<LINE>……………が……………………………ゃ<CMD_fb><CMD_f7>……………か………………………………………………………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 213,
+      "pointer_offset": 872,
+      "target_offset": 35653,
+      "length_bytes": 139,
+      "raw_hex": "d780d780d780d780d780d780d780d780d728fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "………………………り<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 214,
+      "pointer_offset": 876,
+      "target_offset": 35792,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 215,
+      "pointer_offset": 880,
+      "target_offset": 35901,
+      "length_bytes": 61,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d780d70780d780d780d780d780d780d70e80d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>………………き………………せ…………………",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 216,
+      "pointer_offset": 884,
+      "target_offset": 35962,
+      "length_bytes": 8,
+      "raw_hex": "d780d780d780d780",
+      "text_jp": "…………",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    },
+    {
+      "id": 217,
+      "pointer_offset": 888,
+      "target_offset": 35970,
+      "length_bytes": 133,
+      "raw_hex": "d780d780d780d780d71fffef5b80cc7f80d1fff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d71ffffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d717fffbff",
+      "text_jp": "……………ま<CMD_ef>キ~ロ！<LINE>………………………………………………………………………………ま<CMD_fb><CMD_f7>…………………………………………………………ぬ<CMD_fb>",
+      "translation_en": "Take the Tarot Card of the Fox<LINE>Spirit.<CLOSE> Summon Kokuri-san<LINE>whenever you need answers from<PAGE>beyond the veil."
+    },
+    {
+      "id": 218,
+      "pointer_offset": 892,
+      "target_offset": 36103,
+      "length_bytes": 118,
+      "raw_hex": "f780d780d780d780d780d780d780d780d709fff580d780d780d780d780d72f80d780d780d780d780d780d780d780d780d780d780d74dfffbfff780d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "[G_247]……………………け<LINE>……………が……………………………ゃ<CMD_fb><CMD_f7>……………か………………………………………………………………",
+      "translation_en": "The ritual is properly closed.<LINE>Kokuri-san, Kokuri-san, return<LINE>to your realm!"
+    },
+    {
+      "id": 219,
+      "pointer_offset": 896,
+      "target_offset": 36221,
+      "length_bytes": 139,
+      "raw_hex": "d780d780d780d780d780d780d780d780d728fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "………………………り<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The fox vanishes into the<LINE>twilight mist...<CMD_ef>...Kon<LINE>kon, goodbye!"
+    },
+    {
+      "id": 220,
+      "pointer_offset": 900,
+      "target_offset": 36360,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "Farewell...<CLOSE> Remember to<LINE>always say goodbye to the<LINE>spirits..."
+    },
+    {
+      "id": 221,
+      "pointer_offset": 904,
+      "target_offset": 36469,
+      "length_bytes": 58,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d70380d780d780d70780d780d780d780d780d780d70e80d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……う………き………………せ………………",
+      "translation_en": "Kokuri-san, Kokuri-san... who is<LINE>that standing before me?<CLOSE><LINE>Hehehe... have you come to ask<PAGE>the spirits for your future?"
+    },
+    {
+      "id": 222,
+      "pointer_offset": 908,
+      "target_offset": 36527,
+      "length_bytes": 8,
+      "raw_hex": "d780d780d780d780",
+      "text_jp": "…………",
+      "translation_en": "!?The coin is moving across the<LINE>board... Yes... No... Tell me<LINE>what you desire to know... Ask<PAGE>your question, human..."
+    },
+    {
+      "id": 223,
+      "pointer_offset": 912,
+      "target_offset": 36535,
+      "length_bytes": 8,
+      "raw_hex": "d780d780d780d780",
+      "text_jp": "…………",
+      "translation_en": "The spirits know all your<LINE>secrets...<CHOICE id=0> Who do<LINE>you love? When will you<PAGE>die?<CLOSE> Shall the coin<LINE>reveal the truth?"
+    },
+    {
+      "id": 224,
+      "pointer_offset": 916,
+      "target_offset": 36543,
+      "length_bytes": 139,
+      "raw_hex": "d71effef5b80cc7f80d1fff55b80cc7f80d0fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…ほ<CMD_ef>キ~ロ！<LINE>キ~ロ？<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "!?You removed your finger from<LINE>the coin without saying goodbye!<LINE>THE SPIRITS ARE CURSED WITH<PAGE>FURY!<CLOSE>You shall suffer the<LINE>fox's wrath!"
+    },
+    {
+      "id": 225,
+      "pointer_offset": 920,
+      "target_offset": 36682,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?The coin spells out<LINE>'FRIEND'...<CHOICE id=1> Hehehe,<LINE>the spirits are pleased with<PAGE>your manners...<CLOSE> Let the<LINE>fox spirit guide your fortune."
+    },
+    {
+      "id": 226,
+      "pointer_offset": 924,
+      "target_offset": 36791,
+      "length_bytes": 79,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff580d780d780d780d780d70680d780d780d780d780d780d780d780d780d780d71180d780d780d780d780d780d780d780d780d780d780d780d780d780",
+      "text_jp": "………………………だ<LINE>……………か…………………………ち…………………………………",
+      "translation_en": "Kokuri-san knows all! Past,<LINE>present, and the grave! Every<LINE>hidden lie is written on the<PAGE>board! Hehehe! Kon kon!"
+    },
+    {
+      "id": 227,
+      "pointer_offset": 928,
+      "target_offset": 36870,
+      "length_bytes": 8,
+      "raw_hex": "d780d780d780d780",
+      "text_jp": "…………",
+      "translation_en": "The coin rests upon<LINE>'PEACE'...<CLOSE> You have shown<LINE>proper respect to the spirit<PAGE>world. The fox shall protect you<LINE>from misfortune."
+    },
+    {
+      "id": 228,
+      "pointer_offset": 932,
+      "target_offset": 36878,
+      "length_bytes": 139,
+      "raw_hex": "d780d780d780d727fff1fff55b80cc7f80d1fff580d780d780d780d780d780d780d780d780d70afffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d72bfffbfff780d780d780d780",
+      "text_jp": "…………ら<CMD_f1><LINE>キ~ロ！<LINE>………………………こ<CMD_fb><CMD_f7>………………………………………………………………………………………………………………ろ<CMD_fb><CMD_f7>………",
+      "translation_en": "The coin spells 'DEATH'!!<CLOSE><LINE>You broke the sacred rules of<LINE>the ritual! Curse upon your<PAGE>household! Kon!"
+    },
+    {
+      "id": 229,
+      "pointer_offset": 936,
+      "target_offset": 37017,
+      "length_bytes": 109,
+      "raw_hex": "d780d780d780d780d780d780d780d780d70dfff580d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d780d715fffbfff780d780d780d780d780d780d780d780d780d780d780d780d780d737fffbfff780d780d780d780d780d780d780",
+      "text_jp": "………………………す<LINE>……………………………………………………な<CMD_fb><CMD_f7>…………………………………ぜ<CMD_fb><CMD_f7>………………",
+      "translation_en": "!?Do not look away from the<LINE>planchette! The spirits demand<LINE>your full attention!"
+    },
+    {
+      "id": 230,
+      "pointer_offset": 940,
+      "target_offset": 37126,
+      "length_bytes": 37,
+      "raw_hex": "d780d780d780d780d780d780d780d780d739fff50f2a1a80d55b7380a16580cffffcfff605",
+      "text_jp": "………………………だ<LINE>それは、キマャチ。<CLOSE><PAGE>お",
+      "translation_en": "Kon kon! What a delightful<LINE>fortune! The spirit board brings<LINE>us together in harmony. Let the<PAGE>fox aid your destiny."
+    },
+    {
+      "id": 231,
+      "pointer_offset": 944,
+      "target_offset": 37163,
+      "length_bytes": 38,
+      "raw_hex": "2a80d58418812680d582800739093d0b80cffff50f2a1a80d5474d08280b2e80d7fffcfff605",
+      "text_jp": "れ、厳圧、兜きだけどさ。<LINE>それは、ぽゃくりさん…<CLOSE><PAGE>お",
+      "translation_en": "Leave a sweet offering upon the<LINE>spirit altar! Fried tofu or<LINE>shiny silver coins!<CLOSE>"
+    },
+    {
+      "id": 232,
+      "pointer_offset": 948,
+      "target_offset": 37201,
+      "length_bytes": 44,
+      "raw_hex": "1f0480d581f485d9150a14826703152680d7fff50f2a1a80d50a08280a082880d1fffcfff6072080d51a360c",
+      "text_jp": "まえ、嫁就なこと顎うなよ…<LINE>それは、こくりこくり！<CLOSE><PAGE>きみ、はずし",
+      "translation_en": "!?Shiny Macca for the shrine<LINE>fund! The fox spirits accept<LINE>your generous gift! Kon kon!"
+    },
+    {
+      "id": 233,
+      "pointer_offset": 952,
+      "target_offset": 37245,
+      "length_bytes": 4679,
+      "raw_hex": "10062780d5fff681554d1324293780d180d1fff5808b7180cc80cffff5808b000800000a08000015080000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8493842e812480d0fff502070f0315812480d0fff5817502812480d0fff581759e009f00000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380bb00bc00bc000000bd00be00be000000bf00c000c0000000b300b400b4000000c100c200c2000000c300c400c4000000b500b600b6000000c500c600c6000000b700b800b8000000b900ba00ba000000cb00cc00cd00c7009f00a000a100a200a300a400a500a600a700ffffce00ffffffffffffa800a700ffffffffffffffffffffffffffffffffcf00ffffffffffffa900aa00ffffffffffffffffffffffffffffffffc800ffffffffffffab00ac00ffffffffffffffffffffffffffffffffd000ffffffffffffad00ae00af00b000a400ffffffffffffffffffffc900ffffffffffffb100b200a800ffffffffffffffffffffffffffffca00ffffffffffff9f00a400ffffffffffffffffffffffffffffffff6e006f006f007000710071007200730073007400750075007600770077007800790079007a007b007b007c007d007d007e007f007f008000810081008200830083008400850085008600870087008800890089008a008b008b008c008d008d008e008f008f009000910091009200930093009400950095009600970097009800990099009a009b009b009c009d009d00d100ffffd200d300d400d500d600031e011e00000132021ed700ffffd800d900da00db00dc00031e011e00000132021edd00ffffde00df00df00e000e10003140014011401320214e200ffffe300ffffdb00e400e500031e001e001e0132021e00000000000000000300000001000200ffffffff0300ff0104000500ffffffff0300060007000800ffffffff030009000a000b00ffffffff03000c000d000e00ffffffff03000f0010001100ffffffff0300120013001400ffffffff0300150016001700ffffffff0300180019001a00ffffffff03001b001c001d00ffffffff0200ff01ff01ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff080003031e1ee600e600020002021e1ee700e700010001014646e800e800080002021e1ee900e900020001014646ea00ea00010003031e1eeb00eb00020003031e1eec00ec00010002021e1eed00ed00010001013232ee00ee00020000000000ef00ef00040001011e1ef000f000010002021e1ef100f10002001ee50000f200f20001001ee63232f300f300010000001e1ef400f40004001ee70505f500f500010002021e1ef600f600010001011e1ef700f700010003031e1ef800f800040000001e1ef900f90002001eeb4646fa00fa00040001011e1efb00fb00080002021e1efc00fc00010001014646fd00fd0002001eee1e1efe00fe00080003031e1eff00ff00010001011e1e0001000101001ef032320101010102001ef11e1e020102010100020232320301030102001ef2f2f2ffffffff08001ef3f3f3ffffffff010000000000ffffffff08001ef4f4f4ffffffff01001ef5f5f5ffffffff010000000000ffffffff04001ef6f6f6ffffffff020032f7f7f7ffffffff010000000000ffffffff04001ef8f8f8ffffffff02001ef9f9f9ffffffff010000000000ffffffff04001efafafaffffffff01001efbfbfbffffffff010000000000ffffffff01001efcfcfcffffffff04001efdfdfdffffffff010000000000ffffffff02001efefefeffffffff08001effffffffffffff04001e000000ffffffff02001e010101ffffffff08001e020202ffffffff010000000000ffffffff08001e030303ffffffff02001e040404ffffffff010000000000ffffffff08001e050505ffffffff02001e060606ffffffff01001e070707ffffffff04001e080808ffffffff01001e090909ffffffff010000000000ffffffff08001e0a0a0affffffff02001e0b0b0bffffffff010000000000ffffffff04001e0c0c0cffffffff0800000d0d0dffffffff010000000000ffffffff04001e0e0e0effffffff08001e0f0f0fffffffff010000000000ffffffff08001e101010ffffffff02001e111111ffffffff010000000000ffffffff01001e121212ffffffff08001e131313ffffffff010000000000ffffffff01001e141414ffffffff020032151515ffffffff010000000000ffffffff02001e161616ffffffff08001e171717ffffffff020000181818ffffffff",
+      "text_jp": "たから、<PAGE>遺ゃてやるぜ！！<LINE>ゼヘ~。<LINE>ゼ く  こく  なく  <CMD_84>ビ戸鯵？<LINE>いきそうな鯵？<LINE>右い鯵？<LINE>右ゥ ェ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  [G_256][G_256]禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ！ <CMD_d2> ＜ ー 、 ’ うほあほ  あげいほ… <CMD_d8> ） 「 」 『 うほあほ  あげいほ』 <CMD_de> 】 】 ＋ － うと とあとあげいと± <CMD_e3> <CMD_db> ÷ ％ うほ ほ ほあげいほ        う   あ い <CMD_03> <CMD_01>え お <CMD_03> か き く <CMD_03> け こ さ <CMD_03> し す せ <CMD_03> そ た ち <CMD_03> つ て と <CMD_03> な に ぬ <CMD_03> ね の は <CMD_03> ひ ふ へ <CMD_02> <CMD_01><CMD_01><CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ううほほ＃ ＃ い いいほほ＆ ＆ あ ああぺぺ☆ ☆ く いいほほ★ ★ い ああぺぺ○ ○ あ ううほほ● ● い ううほほ□ □ あ いいほほ■ ■ あ ああげげ△ △ い     ▲ ▲ え ああほほ※ ※ あ いいほほ＝ ＝ い ほ％  ♡ ♡ あ ほ＃げげ＄ ＄ あ   ほほ♀ ♀ え ほ＆おお♂ ♂ あ いいほほ！？ ！？ あ ああほほ[G_247] [G_247] あ ううほほ[G_248] [G_248] え   ほほ[G_249] [G_249] い ほ●ぺぺ[G_250] [G_250] え ああほほ[G_251] [G_251] く いいほほ[G_252] [G_252] あ ああぺぺ[G_253] [G_253] い ほ△ほほ[G_254] [G_254] く ううほほ<CMD_00><CMD_00>あ ああほほ あ ああ ほ※げげああああい ほ＝ほほいあいああ いいげげうあうあい ほ♡♡♡<CMD_08> ほ＄＄＄<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ！？！？！？<CMD_02> げ[G_247][G_247][G_247]<CMD_01>     <CMD_04> ほ[G_248][G_248][G_248]<CMD_02> ほ[G_249][G_249][G_249]<CMD_01>     <CMD_04> ほ[G_250][G_250][G_250]<CMD_01> ほ[G_251][G_251][G_251]<CMD_01>     <CMD_01> ほ[G_252][G_252][G_252]<CMD_04> ほ[G_253][G_253][G_253]<CMD_01>     <CMD_02> ほ[G_254][G_254][G_254]<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
+      "translation_en": "A radiant Life Stone glowing<LINE>with spiritual essence... The<LINE>altar is blessed with holy<PAGE>light!"
+    }
+  ]
+}

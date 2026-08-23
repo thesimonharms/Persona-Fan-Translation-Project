@@ -1,0 +1,2086 @@
+{
+  "file": "ALIEN.BIN",
+  "type": "TALK_DEMON_NEGOTIATION",
+  "total_strings": 231,
+  "entries": [
+    {
+      "id": 0,
+      "pointer_offset": 20,
+      "target_offset": 8192,
+      "length_bytes": 76,
+      "raw_hex": "80c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 1,
+      "pointer_offset": 24,
+      "target_offset": 8288,
+      "length_bytes": 33,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
+      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 2,
+      "pointer_offset": 28,
+      "target_offset": 8322,
+      "length_bytes": 112,
+      "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 3,
+      "pointer_offset": 32,
+      "target_offset": 8434,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 4,
+      "pointer_offset": 36,
+      "target_offset": 8530,
+      "length_bytes": 101,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c2",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>987532",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 5,
+      "pointer_offset": 40,
+      "target_offset": 8632,
+      "length_bytes": 80,
+      "raw_hex": "80c1fff680c780c480c180c280c380c680c9fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "1<PAGE>7412369<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 6,
+      "pointer_offset": 44,
+      "target_offset": 8712,
+      "length_bytes": 95,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 7,
+      "pointer_offset": 48,
+      "target_offset": 8808,
+      "length_bytes": 33,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
+      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 8,
+      "pointer_offset": 52,
+      "target_offset": 8842,
+      "length_bytes": 80,
+      "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "52<PAGE>41863！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 9,
+      "pointer_offset": 56,
+      "target_offset": 8922,
+      "length_bytes": 89,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？4175369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 10,
+      "pointer_offset": 60,
+      "target_offset": 9012,
+      "length_bytes": 72,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 11,
+      "pointer_offset": 64,
+      "target_offset": 9084,
+      "length_bytes": 100,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 12,
+      "pointer_offset": 68,
+      "target_offset": 9184,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 13,
+      "pointer_offset": 72,
+      "target_offset": 9280,
+      "length_bytes": 33,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
+      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 14,
+      "pointer_offset": 76,
+      "target_offset": 9314,
+      "length_bytes": 112,
+      "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 15,
+      "pointer_offset": 80,
+      "target_offset": 9426,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 16,
+      "pointer_offset": 84,
+      "target_offset": 9516,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 17,
+      "pointer_offset": 88,
+      "target_offset": 9616,
+      "length_bytes": 100,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "62<PAGE>41863…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 18,
+      "pointer_offset": 92,
+      "target_offset": 9716,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 19,
+      "pointer_offset": 96,
+      "target_offset": 9812,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 20,
+      "pointer_offset": 100,
+      "target_offset": 9902,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 21,
+      "pointer_offset": 104,
+      "target_offset": 10002,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 22,
+      "pointer_offset": 108,
+      "target_offset": 10098,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 23,
+      "pointer_offset": 112,
+      "target_offset": 10188,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 24,
+      "pointer_offset": 116,
+      "target_offset": 10288,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 25,
+      "pointer_offset": 120,
+      "target_offset": 10384,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 26,
+      "pointer_offset": 124,
+      "target_offset": 10488,
+      "length_bytes": 79,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 27,
+      "pointer_offset": 128,
+      "target_offset": 10568,
+      "length_bytes": 99,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 28,
+      "pointer_offset": 132,
+      "target_offset": 10668,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 29,
+      "pointer_offset": 136,
+      "target_offset": 10764,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 30,
+      "pointer_offset": 140,
+      "target_offset": 10868,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 31,
+      "pointer_offset": 144,
+      "target_offset": 10940,
+      "length_bytes": 100,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 32,
+      "pointer_offset": 148,
+      "target_offset": 11040,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 33,
+      "pointer_offset": 152,
+      "target_offset": 11136,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 34,
+      "pointer_offset": 156,
+      "target_offset": 11226,
+      "length_bytes": 112,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 35,
+      "pointer_offset": 160,
+      "target_offset": 11338,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 36,
+      "pointer_offset": 164,
+      "target_offset": 11434,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 37,
+      "pointer_offset": 168,
+      "target_offset": 11538,
+      "length_bytes": 79,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 38,
+      "pointer_offset": 172,
+      "target_offset": 11618,
+      "length_bytes": 95,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 39,
+      "pointer_offset": 176,
+      "target_offset": 11714,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 40,
+      "pointer_offset": 180,
+      "target_offset": 11804,
+      "length_bytes": 112,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 41,
+      "pointer_offset": 184,
+      "target_offset": 11916,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 42,
+      "pointer_offset": 188,
+      "target_offset": 12012,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 43,
+      "pointer_offset": 192,
+      "target_offset": 12102,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 44,
+      "pointer_offset": 196,
+      "target_offset": 12202,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 45,
+      "pointer_offset": 200,
+      "target_offset": 12298,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 46,
+      "pointer_offset": 204,
+      "target_offset": 12402,
+      "length_bytes": 79,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 47,
+      "pointer_offset": 208,
+      "target_offset": 12482,
+      "length_bytes": 95,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 48,
+      "pointer_offset": 212,
+      "target_offset": 12578,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 49,
+      "pointer_offset": 216,
+      "target_offset": 12682,
+      "length_bytes": 111,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 50,
+      "pointer_offset": 220,
+      "target_offset": 12794,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 51,
+      "pointer_offset": 224,
+      "target_offset": 12890,
+      "length_bytes": 99,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c880c980c880c580c2fffbfff780c480c180c880c680c3fff680c780c480c180c8",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 52,
+      "pointer_offset": 228,
+      "target_offset": 12990,
+      "length_bytes": 100,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "62<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 53,
+      "pointer_offset": 232,
+      "target_offset": 13090,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 54,
+      "pointer_offset": 236,
+      "target_offset": 13186,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 55,
+      "pointer_offset": 240,
+      "target_offset": 13290,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 56,
+      "pointer_offset": 244,
+      "target_offset": 13362,
+      "length_bytes": 96,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 57,
+      "pointer_offset": 248,
+      "target_offset": 13458,
+      "length_bytes": 93,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c780c580c880c980c680c3fff680c880c580c2fff680c780c480c180c880c980c680c580c3fffbfff780c780c480c180c280c380c680c9fff680c480c180c780c580c3",
+      "text_jp": "！？7412369！<LINE>741758963<PAGE>852<PAGE>74189653<CMD_fb><CMD_f7>7412369<PAGE>41753",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 58,
+      "pointer_offset": 252,
+      "target_offset": 13552,
+      "length_bytes": 112,
+      "raw_hex": "80c680c9fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "69<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 59,
+      "pointer_offset": 256,
+      "target_offset": 13664,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 60,
+      "pointer_offset": 260,
+      "target_offset": 13760,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 61,
+      "pointer_offset": 264,
+      "target_offset": 13850,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 62,
+      "pointer_offset": 268,
+      "target_offset": 13950,
+      "length_bytes": 90,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "63<PAGE>41863！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 63,
+      "pointer_offset": 272,
+      "target_offset": 14040,
+      "length_bytes": 80,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "1863<PAGE>852！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 64,
+      "pointer_offset": 276,
+      "target_offset": 14120,
+      "length_bytes": 99,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 65,
+      "pointer_offset": 280,
+      "target_offset": 14220,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 66,
+      "pointer_offset": 284,
+      "target_offset": 14316,
+      "length_bytes": 99,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c880c980c880c580c2fffbfff780c480c180c880c680c3fff680c780c480c180c8",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>78974145123<PAGE>789852<CMD_fb><CMD_f7>41863<PAGE>7418",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 67,
+      "pointer_offset": 288,
+      "target_offset": 14416,
+      "length_bytes": 100,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "62<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 68,
+      "pointer_offset": 292,
+      "target_offset": 14516,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 69,
+      "pointer_offset": 296,
+      "target_offset": 14612,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 70,
+      "pointer_offset": 300,
+      "target_offset": 14702,
+      "length_bytes": 112,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 71,
+      "pointer_offset": 304,
+      "target_offset": 14814,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 72,
+      "pointer_offset": 308,
+      "target_offset": 14910,
+      "length_bytes": 33,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
+      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 73,
+      "pointer_offset": 312,
+      "target_offset": 14944,
+      "length_bytes": 112,
+      "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 74,
+      "pointer_offset": 316,
+      "target_offset": 15056,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 75,
+      "pointer_offset": 320,
+      "target_offset": 15152,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 76,
+      "pointer_offset": 324,
+      "target_offset": 15256,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 77,
+      "pointer_offset": 328,
+      "target_offset": 15328,
+      "length_bytes": 96,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 78,
+      "pointer_offset": 332,
+      "target_offset": 15424,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 79,
+      "pointer_offset": 336,
+      "target_offset": 15514,
+      "length_bytes": 112,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "1863<PAGE>852！<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 80,
+      "pointer_offset": 340,
+      "target_offset": 15626,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 81,
+      "pointer_offset": 344,
+      "target_offset": 15722,
+      "length_bytes": 89,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "！？7412369！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 82,
+      "pointer_offset": 348,
+      "target_offset": 15812,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 83,
+      "pointer_offset": 352,
+      "target_offset": 15912,
+      "length_bytes": 96,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "62<PAGE>41863…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 84,
+      "pointer_offset": 356,
+      "target_offset": 16008,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 85,
+      "pointer_offset": 360,
+      "target_offset": 16112,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 86,
+      "pointer_offset": 364,
+      "target_offset": 16184,
+      "length_bytes": 104,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "8741<PAGE>852…<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 87,
+      "pointer_offset": 368,
+      "target_offset": 16288,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 88,
+      "pointer_offset": 372,
+      "target_offset": 16360,
+      "length_bytes": 112,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 89,
+      "pointer_offset": 376,
+      "target_offset": 16472,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 90,
+      "pointer_offset": 380,
+      "target_offset": 16568,
+      "length_bytes": 33,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c880c580c2fff680c780c580c9",
+      "text_jp": "！？7412369！<LINE>852<PAGE>759",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 91,
+      "pointer_offset": 384,
+      "target_offset": 16602,
+      "length_bytes": 100,
+      "raw_hex": "80c580c2fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "52<PAGE>41863！<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 92,
+      "pointer_offset": 388,
+      "target_offset": 16702,
+      "length_bytes": 90,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "63<PAGE>41863！<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 93,
+      "pointer_offset": 392,
+      "target_offset": 16792,
+      "length_bytes": 100,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "1863<PAGE>852！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 94,
+      "pointer_offset": 396,
+      "target_offset": 16892,
+      "length_bytes": 112,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3fffbfff780c780c480c180c280c380c680c9fff680c780c480c180c480c580c680c980c680c3",
+      "text_jp": "62<PAGE>41863…<LINE>741456963<PAGE>7412369<PAGE>741456963<CMD_fb><CMD_f7>7412369<PAGE>741456963",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 95,
+      "pointer_offset": 400,
+      "target_offset": 17004,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 96,
+      "pointer_offset": 404,
+      "target_offset": 17100,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 97,
+      "pointer_offset": 408,
+      "target_offset": 17204,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 98,
+      "pointer_offset": 412,
+      "target_offset": 17276,
+      "length_bytes": 96,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 99,
+      "pointer_offset": 416,
+      "target_offset": 17372,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 100,
+      "pointer_offset": 420,
+      "target_offset": 17476,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 101,
+      "pointer_offset": 424,
+      "target_offset": 17548,
+      "length_bytes": 96,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "8741<PAGE>852…<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 102,
+      "pointer_offset": 428,
+      "target_offset": 17644,
+      "length_bytes": 103,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c980c580c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1",
+      "text_jp": "！？7412369！<LINE>741953<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>23698741<PAGE>9875321",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 103,
+      "pointer_offset": 432,
+      "target_offset": 17748,
+      "length_bytes": 71,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 104,
+      "pointer_offset": 436,
+      "target_offset": 17820,
+      "length_bytes": 90,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c280c380c680c9fff680c780c480c180c880c980c680c580c3fff680c780c480c180c280c380c680c9fffbfff780c980c880c780c580c380c280c1fff680c4",
+      "text_jp": "8741<PAGE>852…<LINE>7412369<PAGE>74189653<PAGE>7412369<CMD_fb><CMD_f7>9875321<PAGE>4",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 105,
+      "pointer_offset": 440,
+      "target_offset": 17910,
+      "length_bytes": 80,
+      "raw_hex": "80c180c880c680c3fff680c880c580c280d1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "1863<PAGE>852！<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 106,
+      "pointer_offset": 444,
+      "target_offset": 17990,
+      "length_bytes": 99,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 107,
+      "pointer_offset": 448,
+      "target_offset": 18090,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 108,
+      "pointer_offset": 452,
+      "target_offset": 18186,
+      "length_bytes": 99,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "！？7412369！<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 109,
+      "pointer_offset": 456,
+      "target_offset": 18286,
+      "length_bytes": 100,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c480c580c680c980c680c3fffbfff780c480c180c880c680c3fff680c780c480c180c480c580c680c9",
+      "text_jp": "62<PAGE>41863…<LINE>741456963<PAGE>41863<PAGE>741456963<CMD_fb><CMD_f7>41863<PAGE>7414569",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 110,
+      "pointer_offset": 460,
+      "target_offset": 18386,
+      "length_bytes": 96,
+      "raw_hex": "80c680c3fff680c480c180c880c680c380d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "63<PAGE>41863！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 111,
+      "pointer_offset": 464,
+      "target_offset": 18482,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 112,
+      "pointer_offset": 468,
+      "target_offset": 18578,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 113,
+      "pointer_offset": 472,
+      "target_offset": 18686,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 114,
+      "pointer_offset": 476,
+      "target_offset": 18794,
+      "length_bytes": 80,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 115,
+      "pointer_offset": 480,
+      "target_offset": 18874,
+      "length_bytes": 79,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "！？4175369…<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 116,
+      "pointer_offset": 484,
+      "target_offset": 18954,
+      "length_bytes": 89,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "！？4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 117,
+      "pointer_offset": 488,
+      "target_offset": 19044,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 118,
+      "pointer_offset": 492,
+      "target_offset": 19134,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 119,
+      "pointer_offset": 496,
+      "target_offset": 19230,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 120,
+      "pointer_offset": 500,
+      "target_offset": 19326,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 121,
+      "pointer_offset": 504,
+      "target_offset": 19434,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 122,
+      "pointer_offset": 508,
+      "target_offset": 19542,
+      "length_bytes": 80,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 123,
+      "pointer_offset": 512,
+      "target_offset": 19622,
+      "length_bytes": 99,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "！？4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 124,
+      "pointer_offset": 516,
+      "target_offset": 19722,
+      "length_bytes": 90,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "62<PAGE>41863…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 125,
+      "pointer_offset": 520,
+      "target_offset": 19812,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 126,
+      "pointer_offset": 524,
+      "target_offset": 19902,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 127,
+      "pointer_offset": 528,
+      "target_offset": 19998,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 128,
+      "pointer_offset": 532,
+      "target_offset": 20094,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 129,
+      "pointer_offset": 536,
+      "target_offset": 20202,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 130,
+      "pointer_offset": 540,
+      "target_offset": 20310,
+      "length_bytes": 100,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "4145123！<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 131,
+      "pointer_offset": 544,
+      "target_offset": 20410,
+      "length_bytes": 72,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "62<PAGE>41863…<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 132,
+      "pointer_offset": 548,
+      "target_offset": 20482,
+      "length_bytes": 90,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "8741<PAGE>852…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 133,
+      "pointer_offset": 552,
+      "target_offset": 20572,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 134,
+      "pointer_offset": 556,
+      "target_offset": 20662,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 135,
+      "pointer_offset": 560,
+      "target_offset": 20758,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 136,
+      "pointer_offset": 564,
+      "target_offset": 20854,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 137,
+      "pointer_offset": 568,
+      "target_offset": 20962,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 138,
+      "pointer_offset": 572,
+      "target_offset": 21070,
+      "length_bytes": 80,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 139,
+      "pointer_offset": 576,
+      "target_offset": 21150,
+      "length_bytes": 71,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c480c580c680c980c680c3fff680c880c580c2fff680c780c480c180c880c680c2fffbfff780c280c380c680c9",
+      "text_jp": "！？4175369…<LINE>741456963<PAGE>852<PAGE>741862<CMD_fb><CMD_f7>2369",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 140,
+      "pointer_offset": 580,
+      "target_offset": 21222,
+      "length_bytes": 90,
+      "raw_hex": "80c880c780c480c1fff680c880c580c280d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "8741<PAGE>852…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 141,
+      "pointer_offset": 584,
+      "target_offset": 21312,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 142,
+      "pointer_offset": 588,
+      "target_offset": 21402,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 143,
+      "pointer_offset": 592,
+      "target_offset": 21498,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 144,
+      "pointer_offset": 596,
+      "target_offset": 21594,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 145,
+      "pointer_offset": 600,
+      "target_offset": 21702,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 146,
+      "pointer_offset": 604,
+      "target_offset": 21810,
+      "length_bytes": 100,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "4145123！<CMD_f1><LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 147,
+      "pointer_offset": 608,
+      "target_offset": 21910,
+      "length_bytes": 80,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "62<PAGE>41863…<LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 148,
+      "pointer_offset": 612,
+      "target_offset": 21990,
+      "length_bytes": 89,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "！？4175369…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 149,
+      "pointer_offset": 616,
+      "target_offset": 22080,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 150,
+      "pointer_offset": 620,
+      "target_offset": 22170,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "7412369！<CMD_f1><LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 151,
+      "pointer_offset": 624,
+      "target_offset": 22266,
+      "length_bytes": 95,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c480c180c480c580c680c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1",
+      "text_jp": "！？7412369！<LINE>741456963<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 152,
+      "pointer_offset": 628,
+      "target_offset": 22362,
+      "length_bytes": 107,
+      "raw_hex": "f680c780c480c180c280c380c680c980d1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "！？7412369！<LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 153,
+      "pointer_offset": 632,
+      "target_offset": 22470,
+      "length_bytes": 108,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c580c980c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c980c580c3fffbfff780c280c380c680c980c880c780c480c1fff680c980c880c780c580c380c280c1fff680c780c880c980c7",
+      "text_jp": "4145123！<CMD_f1><LINE>75952<PAGE>23698741<PAGE>741953<CMD_fb><CMD_f7>23698741<PAGE>9875321<PAGE>7897",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 154,
+      "pointer_offset": 636,
+      "target_offset": 22578,
+      "length_bytes": 80,
+      "raw_hex": "80c480c180c480c580c180c280c380d1fff1fff580c780c480c180c980c580c3fff680c880c580c2fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3",
+      "text_jp": "4145123！<CMD_f1><LINE>741953<PAGE>852<PAGE>741953<CMD_fb><CMD_f7>78974145123",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 155,
+      "pointer_offset": 640,
+      "target_offset": 22658,
+      "length_bytes": 99,
+      "raw_hex": "f680c480c180c780c580c380c680c980d7fff580c480c180c780c580c380c680c9fff680c480c180c880c680c3fff680c780c880c980c580c180c280c380c5fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "！？4175369…<LINE>4175369<PAGE>41863<PAGE>78951235<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 156,
+      "pointer_offset": 644,
+      "target_offset": 22758,
+      "length_bytes": 90,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d7fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "62<PAGE>41863…<LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 157,
+      "pointer_offset": 648,
+      "target_offset": 22848,
+      "length_bytes": 90,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c480c180c880c680c3fff6",
+      "text_jp": "7412369！<CMD_f1><LINE>741758963<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>41863<PAGE>",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 158,
+      "pointer_offset": 652,
+      "target_offset": 22938,
+      "length_bytes": 102,
+      "raw_hex": "80c780c480c180c280c380c680c980d1fff1fff580c780c880c980c780c480c180c480c5fff680c780c480c180c880c980c680c580c3fff680c880c580c2fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c780c580c380c6",
+      "text_jp": "7412369！<CMD_f1><LINE>78974145<PAGE>74189653<PAGE>852<CMD_fb><CMD_f7>78974145123<PAGE>417536",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 159,
+      "pointer_offset": 656,
+      "target_offset": 23040,
+      "length_bytes": 96,
+      "raw_hex": "80c9fff680c780c480c180c880c680c280d1ffef80c780c480c180c880c980c680c5fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c980c880c780c480c180c280c3fff680c780c880c9",
+      "text_jp": "9<PAGE>741862！<CMD_ef>7418965<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>9874123<PAGE>789",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 160,
+      "pointer_offset": 660,
+      "target_offset": 23136,
+      "length_bytes": 94,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d7ffef80c780c480c180c880c980c680c580c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c780c480c180c280c3fff680c780c480c1",
+      "text_jp": "74145123…<CMD_ef>74189653<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>74123<PAGE>741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 161,
+      "pointer_offset": 664,
+      "target_offset": 23230,
+      "length_bytes": 100,
+      "raw_hex": "80c280c3fff680c780c580c980c580c280d0ffef80c780c480c180c880c680c2fff680c480c180c880c680c3fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "23<PAGE>75952？<CMD_ef>741862<PAGE>41863<PAGE>741758963<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 162,
+      "pointer_offset": 668,
+      "target_offset": 23330,
+      "length_bytes": 72,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d1ffef80c780c480c280c280c580c380c680c9fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3",
+      "text_jp": "62<PAGE>41863！<CMD_ef>74225369<PAGE>78974145123<PAGE>41863",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 163,
+      "pointer_offset": 672,
+      "target_offset": 23402,
+      "length_bytes": 63,
+      "raw_hex": "fbfff780c780c480c180c980c580c380d7ffef80c980c880c780c480c180c580c680c580c2fff680c880c580c2fff680c780c880c980c780c480c180c480c5",
+      "text_jp": "[G_251]<CMD_f7>741953…<CMD_ef>987415652<PAGE>852<PAGE>78974145",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 164,
+      "pointer_offset": 676,
+      "target_offset": 23466,
+      "length_bytes": 111,
+      "raw_hex": "fbfff780c780c880c980c880c580c280d1ffef80c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c9",
+      "text_jp": "[G_251]<CMD_f7>789852！<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 165,
+      "pointer_offset": 680,
+      "target_offset": 23578,
+      "length_bytes": 64,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c980c880c780c480c180c580c680c580c2fff680c880c580c2fff680c780c880c980c780c480c180c480c5",
+      "text_jp": "74145123！<CMD_ef>987415652<PAGE>852<PAGE>78974145",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 166,
+      "pointer_offset": 684,
+      "target_offset": 23642,
+      "length_bytes": 57,
+      "raw_hex": "fbfff780c780c880c980c880c580c280d1ffef80c780c480c180c880c680c2fff680c780c480c180c280c380c680c9fff680c780c480c180c2",
+      "text_jp": "[G_251]<CMD_f7>789852！<CMD_ef>741862<PAGE>7412369<PAGE>7412",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 167,
+      "pointer_offset": 688,
+      "target_offset": 23700,
+      "length_bytes": 64,
+      "raw_hex": "80c3fffbfff780c780c480c180c280c380d1ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
+      "text_jp": "3<CMD_fb><CMD_f7>74123！<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 168,
+      "pointer_offset": 692,
+      "target_offset": 23764,
+      "length_bytes": 75,
+      "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c280c3fffb",
+      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>741456963<PAGE>78974145123<PAGE>74123<CMD_fb>",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 169,
+      "pointer_offset": 696,
+      "target_offset": 23840,
+      "length_bytes": 123,
+      "raw_hex": "f780c780c480c180c880c980c680c580d1ffef80c980c880c780c480c180c580c680c580c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c480c580c680c980c680c3fffbfff780c280c380c680c980c880c780c480c1fff680c780c480c180c780c580c880c980c680c3fff680c780c880c9",
+      "text_jp": "[G_247]7418965！<CMD_ef>987415652<PAGE>23698741<PAGE>741456963<CMD_fb><CMD_f7>23698741<PAGE>741758963<PAGE>789",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 170,
+      "pointer_offset": 700,
+      "target_offset": 23964,
+      "length_bytes": 70,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c780c880c980c780c480c180c480c5fff680c280c380c680c980c880c780c480c1fff680c280c380c680c980c880c780c4",
+      "text_jp": "74145123！<CMD_ef>78974145<PAGE>23698741<PAGE>2369874",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 171,
+      "pointer_offset": 704,
+      "target_offset": 24034,
+      "length_bytes": 92,
+      "raw_hex": "80c1fffbfff780c780c480c180c280c380d7ffef80c780c580c980c580c2fff680c480c180c880c680c3fff680c780c480c180c980c580c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c8",
+      "text_jp": "1<CMD_fb><CMD_f7>74123…<CMD_ef>75952<PAGE>41863<PAGE>741953<CMD_fb><CMD_f7>78974145123<PAGE>7418",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 172,
+      "pointer_offset": 708,
+      "target_offset": 24126,
+      "length_bytes": 64,
+      "raw_hex": "80c680c2fff680c480c180c880c680c380d1ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
+      "text_jp": "62<PAGE>41863！<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 173,
+      "pointer_offset": 712,
+      "target_offset": 24190,
+      "length_bytes": 101,
+      "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c480c180c880c680c3fff680c980c880c780c480c180c280c3fff680c980c880c780c480c180c280c3fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c180c880c980c6",
+      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>41863<PAGE>9874123<PAGE>9874123<CMD_fb><CMD_f7>78974145123<PAGE>741896",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 174,
+      "pointer_offset": 716,
+      "target_offset": 24292,
+      "length_bytes": 64,
+      "raw_hex": "80c5fff680c780c880c980c880c580c280d7ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
+      "text_jp": "5<PAGE>789852…<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 175,
+      "pointer_offset": 720,
+      "target_offset": 24356,
+      "length_bytes": 111,
+      "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c780c480c180c880c980c580c380c2fff680c780c580c980c580c2fff680c780c880c9",
+      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>74189532<PAGE>75952<PAGE>78974145123<CMD_fb><CMD_f7>74189532<PAGE>75952<PAGE>789",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 176,
+      "pointer_offset": 724,
+      "target_offset": 24468,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d7ffef80c780c480c180c880c980c680c5fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c980c880c780c480c180c280c3fff680c780c880c9",
+      "text_jp": "74145123…<CMD_ef>7418965<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>9874123<PAGE>789",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 177,
+      "pointer_offset": 728,
+      "target_offset": 24564,
+      "length_bytes": 76,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c580c380c2fff680c780c880c980c780c480c180c480c580c180c2",
+      "text_jp": "74145123！<CMD_ef>23698741<PAGE>74189532<PAGE>7897414512",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 178,
+      "pointer_offset": 732,
+      "target_offset": 24640,
+      "length_bytes": 64,
+      "raw_hex": "80c3fffbfff780c780c580c980c580c280d7ffef80c980c880c780c480c180c280c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c580c3",
+      "text_jp": "3<CMD_fb><CMD_f7>75952…<CMD_ef>9874123<PAGE>41863<PAGE>74189653",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 179,
+      "pointer_offset": 736,
+      "target_offset": 24704,
+      "length_bytes": 73,
+      "raw_hex": "fbfff780c780c480c180c880c680c280d1ffef80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "[G_251]<CMD_f7>741862！<CMD_ef>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 180,
+      "pointer_offset": 740,
+      "target_offset": 24778,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 181,
+      "pointer_offset": 744,
+      "target_offset": 24852,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 182,
+      "pointer_offset": 748,
+      "target_offset": 24926,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 183,
+      "pointer_offset": 752,
+      "target_offset": 25000,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 184,
+      "pointer_offset": 756,
+      "target_offset": 25074,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 185,
+      "pointer_offset": 760,
+      "target_offset": 25148,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852…<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 186,
+      "pointer_offset": 764,
+      "target_offset": 25222,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff580c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 187,
+      "pointer_offset": 768,
+      "target_offset": 25296,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 188,
+      "pointer_offset": 772,
+      "target_offset": 25372,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 189,
+      "pointer_offset": 776,
+      "target_offset": 25448,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 190,
+      "pointer_offset": 780,
+      "target_offset": 25524,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852…<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 191,
+      "pointer_offset": 784,
+      "target_offset": 25600,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffee80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852…<CMD_f1><LINE><CMD_ee>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 192,
+      "pointer_offset": 788,
+      "target_offset": 25676,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 193,
+      "pointer_offset": 792,
+      "target_offset": 25752,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 194,
+      "pointer_offset": 796,
+      "target_offset": 25828,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 195,
+      "pointer_offset": 800,
+      "target_offset": 25904,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffed80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ed>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 196,
+      "pointer_offset": 804,
+      "target_offset": 25980,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 197,
+      "pointer_offset": 808,
+      "target_offset": 26056,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d1fff1fff5ffec80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852！<CMD_f1><LINE><CMD_ec>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 198,
+      "pointer_offset": 812,
+      "target_offset": 26132,
+      "length_bytes": 75,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff5ffeb80c780c880c980c880c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？789852…<CMD_f1><LINE><CMD_eb>789852<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 199,
+      "pointer_offset": 816,
+      "target_offset": 26208,
+      "length_bytes": 73,
+      "raw_hex": "f680c780c880c980c880c580c280d7fff1fff580c980c880c780c480c180c580c680c580c2fff680c280c380c680c980c880c780c480c1fffbfff780c280c380c680c980c880c780c4",
+      "text_jp": "！？789852…<CMD_f1><LINE>987415652<PAGE>23698741<CMD_fb><CMD_f7>2369874",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 200,
+      "pointer_offset": 820,
+      "target_offset": 26282,
+      "length_bytes": 108,
+      "raw_hex": "80c1fff680c780c480c180c880c680c280d1ffef80c480c180c780c580c380c680c9fff680c280c380c680c980c880c780c480c1fff680c980c880c780c480c180c580c680c580c2fffbfff780c280c380c680c980c880c780c480c1fff680c280c380c680c980c880c780c4",
+      "text_jp": "1<PAGE>741862！<CMD_ef>4175369<PAGE>23698741<PAGE>987415652<CMD_fb><CMD_f7>23698741<PAGE>2369874",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 201,
+      "pointer_offset": 824,
+      "target_offset": 26390,
+      "length_bytes": 108,
+      "raw_hex": "80c1fff680c780c480c180c880c680c280d1ffef80c780c480c180c880c680c2fff680c480c180c880c680c3fff680c480c180c780c580c380c680c9fffbfff780c980c880c780c480c180c580c680c580c2fff680c780c880c980c780c480c180c480c580c180c280c3fff6",
+      "text_jp": "1<PAGE>741862！<CMD_ef>741862<PAGE>41863<PAGE>4175369<CMD_fb><CMD_f7>987415652<PAGE>78974145123<PAGE>",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 202,
+      "pointer_offset": 828,
+      "target_offset": 26498,
+      "length_bytes": 80,
+      "raw_hex": "80c780c480c180c880c980c680c580c380d7ffef80c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fff680c780c480c180c880c980c680c5fffbfff780c780c480c180c880c9",
+      "text_jp": "74189653…<CMD_ef>741456963<PAGE>41863<PAGE>7418965<CMD_fb><CMD_f7>74189",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 203,
+      "pointer_offset": 832,
+      "target_offset": 26578,
+      "length_bytes": 64,
+      "raw_hex": "80c680c5fff680c780c580c980c580c280d1ffef80c780c480c180c880c980c680c5fff680c480c180c880c680c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "65<PAGE>75952！<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 204,
+      "pointer_offset": 836,
+      "target_offset": 26642,
+      "length_bytes": 63,
+      "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c880c980c680c5fff680c480c180c880c680c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？9875321！<CMD_ef>7418965<PAGE>41863<CMD_fb><CMD_f7>9875321",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 205,
+      "pointer_offset": 840,
+      "target_offset": 26706,
+      "length_bytes": 77,
+      "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c880c980c580c380c2fff680c780c880c980c780c480c180c480c580c180c280c3fffbfff780c980c880c780c580c380c280c1",
+      "text_jp": "！？9875321！<CMD_ef>74189532<PAGE>78974145123<CMD_fb><CMD_f7>9875321",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 206,
+      "pointer_offset": 844,
+      "target_offset": 26784,
+      "length_bytes": 97,
+      "raw_hex": "f680c780c880c980c880c580c280d180d1ffef80c980c880c780c580c380c280c1fff680c780c480c180c880c980c680c5fff680c280c380c680c980c880c780c480c1fffbfff780c280c380c680c980c880c780c480c1fff680c780c480c180c9",
+      "text_jp": "！？789852！！<CMD_ef>9875321<PAGE>7418965<PAGE>23698741<CMD_fb><CMD_f7>23698741<PAGE>7419",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 207,
+      "pointer_offset": 848,
+      "target_offset": 26882,
+      "length_bytes": 96,
+      "raw_hex": "80c580c3fff680c780c580c980c580c280d1ffef80c780c480c180c880c980c580c380c2fff680c280c380c680c980c880c780c480c1fff680c780c480c180c880c980c680c580c3fffbfff780c780c880c980c780c480c180c480c580c180c2",
+      "text_jp": "53<PAGE>75952！<CMD_ef>74189532<PAGE>23698741<PAGE>74189653<CMD_fb><CMD_f7>7897414512",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 208,
+      "pointer_offset": 852,
+      "target_offset": 26978,
+      "length_bytes": 84,
+      "raw_hex": "80c3fff680c780c480c180c880c680c280d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c880c980c780c480c180c480c580c180c280c3fff680c480c180c880c680c3fffbfff780c780c480c2",
+      "text_jp": "3<PAGE>741862！<CMD_ef>741456963<PAGE>78974145123<PAGE>41863<CMD_fb><CMD_f7>742",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 209,
+      "pointer_offset": 856,
+      "target_offset": 27062,
+      "length_bytes": 94,
+      "raw_hex": "80c680c9fff680c780c580c980c580c280d7ffef80c780c480c180c780c580c880c980c680c3fff680c280c380c680c980c880c780c480c1fff680c480c180c780c580c380c680c9fffbfff780c780c880c980c780c480c180c480c580c1",
+      "text_jp": "69<PAGE>75952…<CMD_ef>741758963<PAGE>23698741<PAGE>4175369<CMD_fb><CMD_f7>789741451",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 210,
+      "pointer_offset": 860,
+      "target_offset": 27156,
+      "length_bytes": 96,
+      "raw_hex": "80c280c3fff680c780c580c980c580c280d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
+      "text_jp": "23<PAGE>75952！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 211,
+      "pointer_offset": 864,
+      "target_offset": 27252,
+      "length_bytes": 93,
+      "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
+      "text_jp": "！？9875321！<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 212,
+      "pointer_offset": 868,
+      "target_offset": 27346,
+      "length_bytes": 94,
+      "raw_hex": "80c780c480c180c480c580c680c980c680c3ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
+      "text_jp": "741456963<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 213,
+      "pointer_offset": 872,
+      "target_offset": 27440,
+      "length_bytes": 50,
+      "raw_hex": "80c780c480c180c480c580c680c980c680c3ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "741456963<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    },
+    {
+      "id": 214,
+      "pointer_offset": 876,
+      "target_offset": 27490,
+      "length_bytes": 50,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "Provide mineral or energetic<LINE>sample for molecular analysis.<LINE>Tribute required for telemetry<PAGE>verification.<CLOSE>"
+    },
+    {
+      "id": 215,
+      "pointer_offset": 880,
+      "target_offset": 27540,
+      "length_bytes": 98,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c780c580c880c980c680c3fff680c480c180c880c680c3fff680c980c880c780c580c380c280c1fffbfff780c780c880c980c780c480c180c480c580c180c280c3fff680c780c4",
+      "text_jp": "23<PAGE>74123！<CMD_ef>741758963<PAGE>41863<PAGE>9875321<CMD_fb><CMD_f7>78974145123<PAGE>74",
+      "translation_en": "!?Macca currency sample<LINE>accepted. Analyzing terrestrial<LINE>economic tokens... Value<PAGE>verified."
+    },
+    {
+      "id": 216,
+      "pointer_offset": 884,
+      "target_offset": 27638,
+      "length_bytes": 96,
+      "raw_hex": "80c180c980c580c3fff680c880c580c280d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
+      "text_jp": "1953<PAGE>852！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "translation_en": "Life Stone energy matrix<LINE>acquired! High-density<LINE>biological photon emission...<PAGE>Energy reserves recharged to<LINE>100%!"
+    },
+    {
+      "id": 217,
+      "pointer_offset": 888,
+      "target_offset": 27734,
+      "length_bytes": 93,
+      "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
+      "text_jp": "！？9875321！<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "translation_en": "Transmitting quantum Tarot Card<LINE>data stream into your neural<LINE>memory.<CLOSE> Summon cosmic<PAGE>support across subspace<LINE>frequencies."
+    },
+    {
+      "id": 218,
+      "pointer_offset": 892,
+      "target_offset": 27828,
+      "length_bytes": 94,
+      "raw_hex": "80c780c480c180c480c580c680c980c680c3ffef80c780c480c180c480c580c680c980c680c3fff680c780c480c180c280c380c680c9fff680c780c480c180c780c580c880c980c680c3fffbfff780c780c480c180c880c980c680c5fff6",
+      "text_jp": "741456963<CMD_ef>741456963<PAGE>7412369<PAGE>741758963<CMD_fb><CMD_f7>7418965<PAGE>",
+      "translation_en": "Telemetry link permanently<LINE>synchronized. Execute planetary<LINE>objectives with cosmic<PAGE>precision!"
+    },
+    {
+      "id": 219,
+      "pointer_offset": 896,
+      "target_offset": 27922,
+      "length_bytes": 50,
+      "raw_hex": "80c780c480c180c480c580c680c980c680c3ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "741456963<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "Disengaging cloaking matrix...<LINE>Zzzzzt...<CMD_ef>...Returning to<LINE>orbit."
+    },
+    {
+      "id": 220,
+      "pointer_offset": 900,
+      "target_offset": 27972,
+      "length_bytes": 50,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "Transmission terminated.<CLOSE><LINE>Maintain planetary stability,<LINE>specimen."
+    },
+    {
+      "id": 221,
+      "pointer_offset": 904,
+      "target_offset": 28022,
+      "length_bytes": 96,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c880c980c580c280c1fff680c780c880c980c780c480c180c480c580c180c280c3fff680c780c480c280c280c580c380c680c9fffbfff780c780c880c980c780c480c180c480c580c1",
+      "text_jp": "23<PAGE>74123！<CMD_ef>789521<PAGE>78974145123<PAGE>74225369<CMD_fb><CMD_f7>789741451",
+      "translation_en": "Zzzzzzt... Bzzzzz... Earth<LINE>specimen detected.<CLOSE><LINE>Initiating cognitive resonance<PAGE>scan... Query: Intent?"
+    },
+    {
+      "id": 222,
+      "pointer_offset": 908,
+      "target_offset": 28118,
+      "length_bytes": 96,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
+      "text_jp": "23<PAGE>74123！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "translation_en": "!?Frequency match confirmed.<LINE>Your cranial waves indicate<LINE>primitive emotional distress.<PAGE>State coordinates and objective,<LINE>biological unit."
+    },
+    {
+      "id": 223,
+      "pointer_offset": 912,
+      "target_offset": 28214,
+      "length_bytes": 11,
+      "raw_hex": "f680c980c880c780c580c3",
+      "text_jp": "！？98753",
+      "translation_en": "Observing planetary<LINE>evolution.<CHOICE id=0><LINE>Carbon-based life forms exhibit<PAGE>paradoxical behavior<LINE>patterns...<CLOSE> Do you seek<LINE>interstellar assimilation?"
+    },
+    {
+      "id": 224,
+      "pointer_offset": 916,
+      "target_offset": 28226,
+      "length_bytes": 50,
+      "raw_hex": "80c280c180d1ffef80a680a780a880d780d0fff580c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "21！<CMD_ef>ABC…？<LINE>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "!?Hostile frequency detected!<LINE>Disrupting synaptic pathways!<LINE>Eradicating anomalous biological<PAGE>specimen!<CLOSE>Zzzzzzt!"
+    },
+    {
+      "id": 225,
+      "pointer_offset": 920,
+      "target_offset": 28276,
+      "length_bytes": 50,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "!?Harmonic resonance<LINE>achieved.<CHOICE id=1><LINE>Fascinating neural capacity for<PAGE>a primitive terrestrial<LINE>species...<CLOSE> Transmitting<LINE>advanced cosmic coordinates..."
+    },
+    {
+      "id": 226,
+      "pointer_offset": 924,
+      "target_offset": 28326,
+      "length_bytes": 66,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c280c3fff680c880c580c2fffbfff780c780c880c980c780c480c180c480c5fff680c780c880c9",
+      "text_jp": "23<PAGE>74123！<CMD_ef>74123<PAGE>852<CMD_fb><CMD_f7>78974145<PAGE>789",
+      "translation_en": "The universe operates upon<LINE>mathematical equilibrium!<LINE>Entropy and cosmic expansion<PAGE>guide all star systems! Bzzzzzt!"
+    },
+    {
+      "id": 227,
+      "pointer_offset": 928,
+      "target_offset": 28392,
+      "length_bytes": 96,
+      "raw_hex": "80c780c480c180c480c580c180c280c380d1ffef80c780c880c980c880c580c2fff680c780c480c180c480c580c680c980c680c3fff680c480c180c880c680c3fffbfff780c480c180c780c580c380c680c9fff680c780c480c180c980c580c3",
+      "text_jp": "74145123！<CMD_ef>789852<PAGE>741456963<PAGE>41863<CMD_fb><CMD_f7>4175369<PAGE>741953",
+      "translation_en": "Analysis<LINE>complete...<CLOSE>Specimen<LINE>exhibits superior evolutionary<PAGE>potential. Establishing<LINE>telemetry link with terrestrial<LINE>ally."
+    },
+    {
+      "id": 228,
+      "pointer_offset": 932,
+      "target_offset": 28488,
+      "length_bytes": 49,
+      "raw_hex": "f680c980c880c780c580c380c280c180d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "！？9875321！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "Null output!<CLOSE> Biological<LINE>specimen deemed defective!<LINE>Initiating immediate neural<PAGE>purge! Bzzzt!"
+    },
+    {
+      "id": 229,
+      "pointer_offset": 936,
+      "target_offset": 28538,
+      "length_bytes": 50,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef80c780c480c180c980c580c3fff680c880c580c2fffbfff780c780c480c1",
+      "text_jp": "23<PAGE>74123！<CMD_ef>741953<PAGE>852<CMD_fb><CMD_f7>741",
+      "translation_en": "!?Do not attempt ocular<LINE>disruption. Cosmic optics<LINE>operate beyond your visible<PAGE>spectrum."
+    },
+    {
+      "id": 230,
+      "pointer_offset": 940,
+      "target_offset": 28588,
+      "length_bytes": 4644,
+      "raw_hex": "80c280c3fff680c780c480c180c280c380d1ffef808b7180ccffef80ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9e009f00000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380bb00bc00bc000000bd00be00be000000bf00c000c0000000b300b400b4000000c100c200c2000000c300c400c4000000b500b600b6000000c500c600c6000000b700b800b8000000b900ba00ba000000cb00cc00cd00c7009f00a000a100a200a300a400a500a600a700ffffce00ffffffffffffa800a700ffffffffffffffffffffffffffffffffcf00ffffffffffffa900aa00ffffffffffffffffffffffffffffffffc800ffffffffffffab00ac00ffffffffffffffffffffffffffffffffd000ffffffffffffad00ae00af00b000a400ffffffffffffffffffffc900ffffffffffffb100b200a800ffffffffffffffffffffffffffffca00ffffffffffff9f00a400ffffffffffffffffffffffffffffffff6e006f006f007000710071007200730073007400750075007600770077007800790079007a007b007b007c007d007d007e007f007f008000810081008200830083008400850085008600870087008800890089008a008b008b008c008d008d008e008f008f009000910091009200930093009400950095009600970097009800990099009a009b009b009c009d009d00d100ffffd200d300d400d500d600031e0105010501320132d700ffffd800d900da00db00dc00031e0105010501320132dd00ffffde00df00df00e000e10003140014011401320132e200ffffe300ffffdb00e400e5000032001e00140132013200000000000000000300000001000200ffffffff0300ff0104000500ffffffff0300060007000800ffffffff030009000a000b00ffffffff03000c000d000e00ffffffff03000f0010001100ffffffff0300120013001400ffffffff0300150016001700ffffffff0300180019001a00ffffffff03001b001c001d00ffffffff0200ff01ff01ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff080003031e1ee600e600020002021e1ee700e700010001014646e800e800080002021e1ee900e900020001014646ea00ea00010003031e1eeb00eb00020003031e1eec00ec00010002021e1eed00ed00010001013232ee00ee00020000000000ef00ef00040001011e1ef000f000010002021e1ef100f10002001ee50000f200f20001001ee63232f300f300010000001e1ef400f40004001ee70505f500f500010002021e1ef600f600010001011e1ef700f700010003031e1ef800f800040000001e1ef900f90002001eeb4646fa00fa00040001011e1efb00fb00080002021e1efc00fc00010001014646fd00fd0002001eee1e1efe00fe00080003031e1eff00ff00010001011e1e0001000101001ef032320101010102001ef11e1e020102010100020232320301030102001ef2f2f2ffffffff08001ef3f3f3ffffffff010000000000ffffffff08001ef4f4f4ffffffff01001ef5f5f5ffffffff010000000000ffffffff04001ef6f6f6ffffffff020032f7f7f7ffffffff010000000000ffffffff04001ef8f8f8ffffffff02001ef9f9f9ffffffff010000000000ffffffff04001efafafaffffffff01001efbfbfbffffffff010000000000ffffffff01001efcfcfcffffffff04001efdfdfdffffffff010000000000ffffffff02001efefefeffffffff08001effffffffffffff04001e000000ffffffff02001e010101ffffffff08001e020202ffffffff010000000000ffffffff08001e030303ffffffff02001e040404ffffffff010000000000ffffffff08001e050505ffffffff02001e060606ffffffff01001e070707ffffffff04001e080808ffffffff01001e090909ffffffff010000000000ffffffff08001e0a0a0affffffff02001e0b0b0bffffffff010000000000ffffffff04001e0c0c0cffffffff0800000d0d0dffffffff010000000000ffffffff04001e0e0e0effffffff08001e0f0f0fffffffff010000000000ffffffff08001e101010ffffffff02001e111111ffffffff010000000000ffffffff01001e121212ffffffff08001e131313ffffffff010000000000ffffffff01001e141414ffffffff020032151515ffffffff010000000000ffffffff02001e161616ffffffff08001e171717ffffffff020000181818ffffffff",
+      "text_jp": "23<PAGE>74123！<CMD_ef>ゼヘ~<CMD_ef>[G_255]<CMD_9e> ェ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  [G_256][G_256]禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ！ <CMD_d2> ＜ ー 、 ’ うほあおあおあげあげ… <CMD_d8> ） 「 」 『 うほあおあおあげあげ』 <CMD_de> 】 】 ＋ － うと とあとあげあげ± <CMD_e3> <CMD_db> ÷ ％  げ ほ とあげあげ        う   あ い <CMD_03> <CMD_01>え お <CMD_03> か き く <CMD_03> け こ さ <CMD_03> し す せ <CMD_03> そ た ち <CMD_03> つ て と <CMD_03> な に ぬ <CMD_03> ね の は <CMD_03> ひ ふ へ <CMD_02> <CMD_01><CMD_01><CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ううほほ＃ ＃ い いいほほ＆ ＆ あ ああぺぺ☆ ☆ く いいほほ★ ★ い ああぺぺ○ ○ あ ううほほ● ● い ううほほ□ □ あ いいほほ■ ■ あ ああげげ△ △ い     ▲ ▲ え ああほほ※ ※ あ いいほほ＝ ＝ い ほ％  ♡ ♡ あ ほ＃げげ＄ ＄ あ   ほほ♀ ♀ え ほ＆おお♂ ♂ あ いいほほ！？ ！？ あ ああほほ[G_247] [G_247] あ ううほほ[G_248] [G_248] え   ほほ[G_249] [G_249] い ほ●ぺぺ[G_250] [G_250] え ああほほ[G_251] [G_251] く いいほほ[G_252] [G_252] あ ああぺぺ[G_253] [G_253] い ほ△ほほ[G_254] [G_254] く ううほほ<CMD_00><CMD_00>あ ああほほ あ ああ ほ※げげああああい ほ＝ほほいあいああ いいげげうあうあい ほ♡♡♡<CMD_08> ほ＄＄＄<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ！？！？！？<CMD_02> げ[G_247][G_247][G_247]<CMD_01>     <CMD_04> ほ[G_248][G_248][G_248]<CMD_02> ほ[G_249][G_249][G_249]<CMD_01>     <CMD_04> ほ[G_250][G_250][G_250]<CMD_01> ほ[G_251][G_251][G_251]<CMD_01>     <CMD_01> ほ[G_252][G_252][G_252]<CMD_04> ほ[G_253][G_253][G_253]<CMD_01>     <CMD_02> ほ[G_254][G_254][G_254]<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
+      "translation_en": "Optimal outcome confirmed.<LINE>Alliance protocol 404<LINE>authorized. Synchronizing<PAGE>tactical data with terrestrial<LINE>champion."
+    }
+  ]
+}

@@ -1,0 +1,2617 @@
+{
+  "file": "POLUTAR.BIN",
+  "type": "TALK_DEMON_NEGOTIATION",
+  "total_strings": 290,
+  "entries": [
+    {
+      "id": 0,
+      "pointer_offset": 20,
+      "target_offset": 8192,
+      "length_bytes": 42,
+      "raw_hex": "031b501b5080d1fffcfff60583220b2e0081aa0c8166000202184b80d6fffbfff712020082da2d000610",
+      "text_jp": "うひっひっ！<CLOSE><PAGE>お吸さん 越し印 いいねぇ’<CMD_fb><CMD_f7>つい 奇を かた",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 1,
+      "pointer_offset": 24,
+      "target_offset": 8254,
+      "length_bytes": 30,
+      "raw_hex": "2109114e0315fff65460354e150226fffd00fff5034d074980cc80d1fffc",
+      "text_jp": "むけちゅうな<PAGE>オシじゅないよ<CHOICE id=0><LINE>うゃきぃ~！<CLOSE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 2,
+      "pointer_offset": 28,
+      "target_offset": 8284,
+      "length_bytes": 31,
+      "raw_hex": "f60f2e1581aa1a0082d8071008150280d1fff5031b1b1b80d1fffcfff6fff0",
+      "text_jp": "！？そんな越は 器きたくない！<LINE>うひひひ！<CLOSE><PAGE><CMD_f0>",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 3,
+      "pointer_offset": 32,
+      "target_offset": 8316,
+      "length_bytes": 57,
+      "raw_hex": "19008094592f0082d282d3151980d0fffd01fff50f2e155f796d3cfff68094592d00838981dd0c260339152e1380d7fffbfff7031b501b5080",
+      "text_jp": "の ブオが 顔願なの？<CHOICE id=1><LINE>そんなサユノで<PAGE>ブオを 銀屋しようだなんて…<CMD_fb><CMD_f7>うひっひっ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 4,
+      "pointer_offset": 36,
+      "target_offset": 8373,
+      "length_bytes": 33,
+      "raw_hex": "d1fffcfff60583220b2e0005230c2b021501fff5034d074980cc80d1fffcfff680",
+      "text_jp": "！<CLOSE><PAGE>お吸さん おもしろいなあ<LINE>うゃきぃ~！<CLOSE><PAGE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 5,
+      "pointer_offset": 40,
+      "target_offset": 8406,
+      "length_bytes": 32,
+      "raw_hex": "945916005a7f5781af294d131980d0fffd02fff5031b5080d780d7fff6809480",
+      "text_jp": "ブオに カロウ園るゃての？<CHOICE id=2><LINE>うひっ……<PAGE>ブ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 6,
+      "pointer_offset": 44,
+      "target_offset": 8438,
+      "length_bytes": 35,
+      "raw_hex": "d7fffc8094592f82d70c104d1302031980d0fff5031b501b5080d1fffcfff6152e3906",
+      "text_jp": "…<CLOSE>ブオが喜したゃていうの？<LINE>うひっひっ！<CLOSE><PAGE>なんだか",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 7,
+      "pointer_offset": 48,
+      "target_offset": 8474,
+      "length_bytes": 30,
+      "raw_hex": "0f19821816fff6154d130710150180d780d7fff58094591a000f2e150005",
+      "text_jp": "その蛾に<PAGE>なゃてきたなあ……<LINE>ブオは そんな お",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 8,
+      "pointer_offset": 52,
+      "target_offset": 8504,
+      "length_bytes": 42,
+      "raw_hex": "832f845215fff6fff0354e15023880d180d1fff5031b5080d780d7fffcfff60583220b2e0081aa0c1329",
+      "text_jp": "笈鯉な<PAGE><CMD_f0>じゅないぞ！！<LINE>うひっ……<CLOSE><PAGE>お吸さん 越してる",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 9,
+      "pointer_offset": 56,
+      "target_offset": 8546,
+      "length_bytes": 43,
+      "raw_hex": "819219fff683cc2f0a2c0280d780d7fffd03fff5034d074980cc80d1fffcfff65261702f00595c7a4a80d6",
+      "text_jp": "叡の<PAGE>敬がこわい……<CHOICE id=3><LINE>うゃきぃ~！<CLOSE><PAGE>ヴスフが オクヨぅ’",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 10,
+      "pointer_offset": 60,
+      "target_offset": 8589,
+      "length_bytes": 30,
+      "raw_hex": "80d1fffcfff6809459005c7a1a82f20280d1fff5031b5080d780d7fffcff",
+      "text_jp": "！<CLOSE><PAGE>ブオ クヨは徽い！<LINE>うひっ……<CLOSE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 11,
+      "pointer_offset": 64,
+      "target_offset": 8619,
+      "length_bytes": 49,
+      "raw_hex": "f60583220b2e006a808f0a2c2a13292680d7fff5031b1b1b80d1fff60583220b2e006a796a79391880d1fffcfff6527f5b",
+      "text_jp": "！？お吸さん ニヅこわれてるよ…<LINE>うひひひ！<PAGE>お吸さん ニユニユだね！<CLOSE><PAGE>ヴロキ",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 12,
+      "pointer_offset": 68,
+      "target_offset": 8668,
+      "length_bytes": 40,
+      "raw_hex": "80cc7a80d10082d706824f4d1380d1fffd04fff5152e3c000f2e1516fff6821c821015194c80d0ff",
+      "text_jp": "~ヨ！ 喜か劃ゃて！<CHOICE id=4><LINE>なんで そんなに<PAGE>駕蚊なのぉ？",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 13,
+      "pointer_offset": 72,
+      "target_offset": 8708,
+      "length_bytes": 6,
+      "raw_hex": "fcfff6031b50",
+      "text_jp": "[G_252]<PAGE>うひっ",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 14,
+      "pointer_offset": 76,
+      "target_offset": 8714,
+      "length_bytes": 43,
+      "raw_hex": "1b5080d100031b501b5080d1fff5243980d1fff58094592f82d282d3152e396980d1fff62c80cc02002c80",
+      "text_jp": "ひっ！ うひっひっ！<LINE>やだ！<LINE>ブオが顔願なんだナ！<PAGE>わ~い わ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 15,
+      "pointer_offset": 80,
+      "target_offset": 8757,
+      "length_bytes": 41,
+      "raw_hex": "cc0280d1fff680945900032a0c02154880d1fff5034d074980cc80d1fff68094591a000f2e15823902",
+      "text_jp": "~い！<PAGE>ブオ うれしいなぁ！<LINE>うゃきぃ~！<PAGE>ブオは そんな凱い",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 16,
+      "pointer_offset": 84,
+      "target_offset": 8798,
+      "length_bytes": 45,
+      "raw_hex": "82678351161afff61b4d06062715023880d1fff5031b80d780d7fffcfff6058585114e2e80d780d7fffcfff615",
+      "text_jp": "顎喬には<PAGE>ひゃかからないぞ！<LINE>うひ……<CLOSE><PAGE>お蒔ちゅん……<CLOSE><PAGE>な",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 17,
+      "pointer_offset": 88,
+      "target_offset": 8843,
+      "length_bytes": 70,
+      "raw_hex": "80d7fffc1516060018274d132980d0fffd05fff5031b1b1b80d1fffcfff6058585114e2e00fff0190a14fff62608002c064d132918fffbfff7058585114e2e00230c060c13ff",
+      "text_jp": "…<CLOSE>なにか ねらゃてる？<CHOICE id=5><LINE>うひひひ！<CLOSE><PAGE>お蒔ちゅん <CMD_f0>のこと<PAGE>よく わかゃてるね<CMD_fb><CMD_f7>お蒔ちゅん もしかして",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 18,
+      "pointer_offset": 92,
+      "target_offset": 8913,
+      "length_bytes": 73,
+      "raw_hex": "f6813c811d19819c8125152e354e150280d0fff5031b501b5080d1fffcfff6058585114e2e130002071528fff6817d150a148267032e391880d6fffbfff70f0302030069614d13fff6",
+      "text_jp": "！？伊穐の瑛梓なんじゅない？<LINE>うひっひっ！<CLOSE><PAGE>お蒔ちゅんて いきなり<PAGE>窺なこと顎うんだね’<CMD_fb><CMD_f7>そういう ナスゃて<PAGE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 19,
+      "pointer_offset": 96,
+      "target_offset": 8986,
+      "length_bytes": 46,
+      "raw_hex": "3d0a3c00830381ae2a1308291980d0fffd06fff50f2e152c090015022680d1fff6058585114e2e130b48fffcfff6",
+      "text_jp": "どこで 擬円れてくるの？<CHOICE id=6><LINE>そんなわけ ないよ！<PAGE>お蒔ちゅんてさぁ<CLOSE><PAGE>",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 20,
+      "pointer_offset": 100,
+      "target_offset": 9032,
+      "length_bytes": 40,
+      "raw_hex": "809057354e15021900809080cc5780d180d1fff5031b1b1b80d1fffcfff6244d4328000f03152e39",
+      "text_jp": "デウじゅないの デ~ウ！！<LINE>うひひひ！<CLOSE><PAGE>やゃぱり そうなんだ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 21,
+      "pointer_offset": 104,
+      "target_offset": 9072,
+      "length_bytes": 31,
+      "raw_hex": "f680945923000f2e1582182f0c13102e39fff5031b501b5080d1fffcfff615",
+      "text_jp": "！？ブオも そんな蛾がしてたんだ<LINE>うひっひっ！<CLOSE><PAGE>な",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 22,
+      "pointer_offset": 108,
+      "target_offset": 9104,
+      "length_bytes": 30,
+      "raw_hex": "2e3c000f2e1516fff6053f042919061580d0fff5034d074980cc80d1fffc",
+      "text_jp": "んで そんなに<PAGE>おびえるのかな？<LINE>うゃきぃ~！<CLOSE>",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 23,
+      "pointer_offset": 112,
+      "target_offset": 9134,
+      "length_bytes": 24,
+      "raw_hex": "f68094592628230003290b023880cc80d1fff5031b1b1b80",
+      "text_jp": "！？ブオよりも うるさいぞ~！<LINE>うひひひ",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 24,
+      "pointer_offset": 116,
+      "target_offset": 9159,
+      "length_bytes": 90,
+      "raw_hex": "d1fffcfff6853b02392b0300031b1b1b80d1fff5031b501b5080d1fffcfff6230c060c13000583220b2e80d7fffcfff680905780d000809057151980d0fffbfff78094592d00667f80950d29152e13fff68090573c0c50008090",
+      "text_jp": "！<CLOSE><PAGE>酸いだろう うひひひ！<LINE>うひっひっ！<CLOSE><PAGE>もしかして お吸さん…<CLOSE><PAGE>デウ？ デウなの？<CMD_fb><CMD_f7>ブオを ツロベするなんて<PAGE>デウでしっ デ",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 25,
+      "pointer_offset": 120,
+      "target_offset": 9249,
+      "length_bytes": 48,
+      "raw_hex": "5780905780d1fff6144d13238090573c0c50fff5034d074980cc80d1fffcfff68094591a008285393880d180d180d1ff",
+      "text_jp": "ウデウ！<PAGE>とゃてもデウでしっ<LINE>うゃきぃ~！<CLOSE><PAGE>ブオは 噛だぞ！！！",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 26,
+      "pointer_offset": 124,
+      "target_offset": 9297,
+      "length_bytes": 60,
+      "raw_hex": "f615222e1580d1000b0d3880d180d1fffd07fff5031b80d780d7fffcfff6849e834039261880d7fffbfff70f0302035f796d1afff65d7a809080cc11",
+      "text_jp": "！？なめんな！ さすぞ！！<CHOICE id=7><LINE>うひ……<CLOSE><PAGE>降漁だよね…<CMD_fb><CMD_f7>そういうサユノは<PAGE>ケヨデ~ち",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 27,
+      "pointer_offset": 128,
+      "target_offset": 9357,
+      "length_bytes": 59,
+      "raw_hex": "4e2e16fff682674d13082a29061580d7fff5836c031b1b1b80d1fffcfff60583220b2e23000582382f825c0280d1fffbfff7fff019815f3c1afff6",
+      "text_jp": "ゅんに<PAGE>顎ゃてくれるかな…<LINE>暁うひひひ！<CLOSE><PAGE>お吸さんも お貝が角い！<CMD_fb><CMD_f7><CMD_f0>の溢では<PAGE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 28,
+      "pointer_offset": 132,
+      "target_offset": 9416,
+      "length_bytes": 44,
+      "raw_hex": "809459272ffff681b78245062c0202232e18fff5031b501b5080d1fffcfff60583220b2e19808280a2808381",
+      "text_jp": "ブオらが<PAGE>沿該かわいいもんね<LINE>うひっひっ！<CLOSE><PAGE>お吸さんのンュガ",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 29,
+      "pointer_offset": 136,
+      "target_offset": 9460,
+      "length_bytes": 52,
+      "raw_hex": "82825c3926fff669612f5d7f5f7f391880d1fff5814d863600834a041502fffcfff60180d7fffc82d600815681c52f2c02114e4d",
+      "text_jp": "蒲クだよ<PAGE>ナスがケロサロだね！<LINE>移勝 競えない<CLOSE><PAGE>あ…<CLOSE>危 医塩がわいちゅゃ",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 30,
+      "pointer_offset": 140,
+      "target_offset": 9512,
+      "length_bytes": 28,
+      "raw_hex": "10fffcfff60583220b2e0081342e3c020226fff5031b80d780d7fffc",
+      "text_jp": "た<CLOSE><PAGE>お吸さん 庵んでいいよ<LINE>うひ……<CLOSE>",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 31,
+      "pointer_offset": 144,
+      "target_offset": 9540,
+      "length_bytes": 33,
+      "raw_hex": "f61280d7fffc121f2715022e39093d80d7fff5031b1b1b80d1fffcfff6031b1b1b",
+      "text_jp": "！？つ…<CLOSE>つまらないんだけど…<LINE>うひひひ！<CLOSE><PAGE>うひひひ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 32,
+      "pointer_offset": 148,
+      "target_offset": 9574,
+      "length_bytes": 26,
+      "raw_hex": "1b80d1fffcfff6031b1b1b1b1b80d1fffd08fff5031b501b5080",
+      "text_jp": "ひ！<CLOSE><PAGE>うひひひひひ！<CHOICE id=8><LINE>うひっひっ",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 33,
+      "pointer_offset": 152,
+      "target_offset": 9600,
+      "length_bytes": 33,
+      "raw_hex": "d1fffcfff60f2a062780d0000f2a062780d0fff539062782d780d0fffcfff6fff0",
+      "text_jp": "！<CLOSE><PAGE>それから？ それから？<LINE>だから喜？<CLOSE><PAGE><CMD_f0>",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 34,
+      "pointer_offset": 156,
+      "target_offset": 9633,
+      "length_bytes": 38,
+      "raw_hex": "394d13fff66c70354e15022e392680d180d1fff5031b1b1b80d1fffcfff60f0302030082d73c",
+      "text_jp": "だゃて<PAGE>ネフじゅないんだよ！！<LINE>うひひひ！<CLOSE><PAGE>そういう 喜で",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 35,
+      "pointer_offset": 160,
+      "target_offset": 9671,
+      "length_bytes": 38,
+      "raw_hex": "23150281aa23fff6020226184b80d6fffd09fff5031b501b5080d1fffcfff60d4d3308008218",
+      "text_jp": "もない越も<PAGE>いいよねぇ’<CHOICE id=9><LINE>うひっひっ！<CLOSE><PAGE>すゃごく 蛾",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 36,
+      "pointer_offset": 164,
+      "target_offset": 9709,
+      "length_bytes": 43,
+      "raw_hex": "81fb112608fff61b4d06064d114e4d1080d1fff5034d074980cc80d1fffcfff682d70d2e392680d180d1ff",
+      "text_jp": "歌ちよく<PAGE>ひゃかかゃちゅゃた！<LINE>うゃきぃ~！<CLOSE><PAGE>喜すんだよ！！",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 37,
+      "pointer_offset": 168,
+      "target_offset": 9752,
+      "length_bytes": 40,
+      "raw_hex": "f60a1983378095638433843280d180d180d1fff5031b80d780d7fffcfff682d63d07000f2e1580d7",
+      "text_jp": "！？この巨ベソ糊狐！！！<LINE>うひ……<CLOSE><PAGE>危どき そんな…",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 38,
+      "pointer_offset": 172,
+      "target_offset": 9792,
+      "length_bytes": 40,
+      "raw_hex": "fcfff67580905326000583220b2efffd0afff5031b501b5080d1fffcfff65580d0000f2a82d780d0",
+      "text_jp": "[G_252]<PAGE>ムデノよ お吸さん<CHOICE id=10><LINE>うひっひっ！<CLOSE><PAGE>ア？ それ喜？",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 39,
+      "pointer_offset": 176,
+      "target_offset": 9833,
+      "length_bytes": 80,
+      "raw_hex": "f681168178262800842a81650c0f0380d1fff5034d074980cc80d1fffcfff615222e150080947f80947f80d180d1fff68094591a000f2e1523190227150280d1fffbfff70a198094592f830f0c02191a",
+      "text_jp": "！？哀羽より 孤允しそう！<LINE>うゃきぃ~！<CLOSE><PAGE>なめんな ブロブロ！！<PAGE>ブオは そんなものいらない！<CMD_fb><CMD_f7>このブオが吉しいのは",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 40,
+      "pointer_offset": 180,
+      "target_offset": 9914,
+      "length_bytes": 33,
+      "raw_hex": "80d5fff6828219232e152e39264c80d1fff1fff50f2a000202184bfff680945916",
+      "text_jp": "、<PAGE>蒲のもんなんだよぉ！<CMD_f1><LINE>それ いいねぇ<PAGE>ブオに",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 41,
+      "pointer_offset": 184,
+      "target_offset": 9948,
+      "length_bytes": 45,
+      "raw_hex": "082a2919061548fff6031b1b1b80d1fffd0bfff5031b501b5080d1fffcfff60583220b2e130082498188837b83",
+      "text_jp": "くれるのかなぁ<PAGE>うひひひ！<CHOICE id=11><LINE>うひっひっ！<CLOSE><PAGE>お吸さんて 馨厩欽",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 42,
+      "pointer_offset": 188,
+      "target_offset": 9993,
+      "length_bytes": 40,
+      "raw_hex": "20152e3918fff60f03020319008280073926fff5034d074980cc80d1fffcfff6fff0160021064d13",
+      "text_jp": "みなんだね<PAGE>そういうの 兜きだよ<LINE>うゃきぃ~！<CLOSE><PAGE><CMD_f0>に むかゃて",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 43,
+      "pointer_offset": 192,
+      "target_offset": 10033,
+      "length_bytes": 26,
+      "raw_hex": "f626082300170917091480d180d1fffd0cfff5031b1b1b80d1ff",
+      "text_jp": "！？よくも ぬけぬけと！！<CHOICE id=12><LINE>うひひひ！",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 44,
+      "pointer_offset": 196,
+      "target_offset": 10060,
+      "length_bytes": 44,
+      "raw_hex": "f60583220b2e190082670314052880d180d1fff5031b501b5080d1fffcfff60c80d7fffc0c3f2a2980d780d7",
+      "text_jp": "！？お吸さんの 顎うとおり！！<LINE>うひっひっ！<CLOSE><PAGE>し…<CLOSE>しびれる……",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 45,
+      "pointer_offset": 200,
+      "target_offset": 10104,
+      "length_bytes": 42,
+      "raw_hex": "fcfff6809459230082674d132010021548fff515222e15260080947f80947f80d180d1fffcfff6152227",
+      "text_jp": "[G_252]<PAGE>ブオも 顎ゃてみたいなぁ<LINE>なめんなよ ブロブロ！！<CLOSE><PAGE>なめら",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 46,
+      "pointer_offset": 204,
+      "target_offset": 10147,
+      "length_bytes": 29,
+      "raw_hex": "2a29191afff60f4d11198463152e393880d1fff5031b80d780d7fffcff",
+      "text_jp": "れるのは<PAGE>そゃちの垢なんだぞ！<LINE>うひ……<CLOSE>",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 47,
+      "pointer_offset": 208,
+      "target_offset": 10176,
+      "length_bytes": 45,
+      "raw_hex": "f60a80d7fffc853b02260380d780d7fffd0dfff51d4b0080945910114d13fff60f2e15824c1600821b272a1329",
+      "text_jp": "！？こ…<CLOSE>酸いよう……<CHOICE id=13><LINE>へぇ ブオたちゃて<PAGE>そんな柿に 餓られてる",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 48,
+      "pointer_offset": 212,
+      "target_offset": 10221,
+      "length_bytes": 40,
+      "raw_hex": "2e39fffcfff6837681f71615291548fffd0efff521062106210680d180d1fffcfff60f230f23184b",
+      "text_jp": "んだ<CLOSE><PAGE>均科になるなぁ<CHOICE id=14><LINE>むかむかむか！！<CLOSE><PAGE>そもそもねぇ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 49,
+      "pointer_offset": 216,
+      "target_offset": 10261,
+      "length_bytes": 32,
+      "raw_hex": "f60f1983cc2f0082ec0e15022e392680d1fff5031b1b1b80d1fffcfff602020a",
+      "text_jp": "！？その敬が 汽せないんだよ！<LINE>うひひひ！<CLOSE><PAGE>いいこ",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 50,
+      "pointer_offset": 220,
+      "target_offset": 10294,
+      "length_bytes": 36,
+      "raw_hex": "148267031880d1fff6787f787f00787f787ffff5031b501b5080d1fffcfff60f2a2f005d",
+      "text_jp": "と顎うね！<PAGE>ヤロヤロ ヤロヤロ<LINE>うひっひっ！<CLOSE><PAGE>それが ケ",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 51,
+      "pointer_offset": 224,
+      "target_offset": 10330,
+      "length_bytes": 72,
+      "raw_hex": "809275814819fff6808b7f5e152e391880d1fff51a1b80d0fffcfff61f0b060082a8238117411502080e16fff6808b7f5e394d138267031980d1fffbfff70583220b2e0081628188",
+      "text_jp": "バム易の<PAGE>ゼロコなんだね！<LINE>はひ？<CLOSE><PAGE>まさか 歓も愛べないくせに<PAGE>ゼロコだゃて顎うの！<CMD_fb><CMD_f7>お吸さん 茨厩",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 52,
+      "pointer_offset": 228,
+      "target_offset": 10402,
+      "length_bytes": 43,
+      "raw_hex": "0c15023cfff6230375737c2680d180d180d1fff50583220b2e00757a1880d1fffcfff63c23008094591981",
+      "text_jp": "しないで<PAGE>もうムマリよ！！！<LINE>お吸さん ムヨね！<CLOSE><PAGE>でも ブオの",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 53,
+      "pointer_offset": 232,
+      "target_offset": 10445,
+      "length_bytes": 35,
+      "raw_hex": "662ffff636042e372e0082d4832f392680d1fff5031b501b5080d1fffcfff624281f0d",
+      "text_jp": "ツが<PAGE>ずえんぜん 企笈だよ！<LINE>うひっひっ！<CLOSE><PAGE>やります",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 54,
+      "pointer_offset": 236,
+      "target_offset": 10480,
+      "length_bytes": 34,
+      "raw_hex": "0680d0fffcfff624272a1f0d0680d0fffd0ffff5034d074980cc80d1fffcfff6676f",
+      "text_jp": "か？<CLOSE><PAGE>やられますか？<CHOICE id=15><LINE>うゃきぃ~！<CLOSE><PAGE>テヒ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 55,
+      "pointer_offset": 240,
+      "target_offset": 10514,
+      "length_bytes": 27,
+      "raw_hex": "7f80850c4e412afff680905780d180d180d1fff5031b80d780d7ff",
+      "text_jp": "ログしゅべれ<PAGE>デウ！！！<LINE>うひ……",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 56,
+      "pointer_offset": 244,
+      "target_offset": 10541,
+      "length_bytes": 41,
+      "raw_hex": "fcfff682821981c581653c00853b024980d6fff5031b501b5080d1fffcfff60583220b2e00821b1222",
+      "text_jp": "[G_252]<PAGE>蒲の塩允で 酸いぃ’<LINE>うひっひっ！<CLOSE><PAGE>お吸さん 餓つめ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 57,
+      "pointer_offset": 248,
+      "target_offset": 10582,
+      "length_bytes": 44,
+      "raw_hex": "298157832f2ffff682cf032e354e150280d0fff5822b825d19fff03914827b4d13fff680905716000c132915",
+      "text_jp": "る井笈が<PAGE>贋うんじゅない？<LINE>改赫の<CMD_f0>だと叶ゃて<PAGE>デウに してるな",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 58,
+      "pointer_offset": 252,
+      "target_offset": 10626,
+      "length_bytes": 42,
+      "raw_hex": "4880d1fffcfff67257007257007257007257fff5031b1b1b80d1fffcfff6809459160082d70626031519",
+      "text_jp": "ぁ！<CLOSE><PAGE>ホウ ホウ ホウ ホウ<LINE>うひひひ！<CLOSE><PAGE>ブオに 喜かようなの",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 59,
+      "pointer_offset": 256,
+      "target_offset": 10668,
+      "length_bytes": 41,
+      "raw_hex": "80d0fff6184b184b001580cc1680d0fffd10fff5031b501b5080d1fffcfff61d80cc000f03152e39ff",
+      "text_jp": "？<PAGE>ねぇねぇ な~に？<CHOICE id=16><LINE>うひっひっ！<CLOSE><PAGE>へ~ そうなんだ",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 60,
+      "pointer_offset": 260,
+      "target_offset": 10709,
+      "length_bytes": 47,
+      "raw_hex": "f63c2300152e06005460080b021548fffd11fff50f2e152c090015022680d1fffcfff60583220b2e130b48fff68090",
+      "text_jp": "！？でも なんか オシくさいなぁ<CHOICE id=17><LINE>そんなわけ ないよ！<CLOSE><PAGE>お吸さんてさぁ<PAGE>デ",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 61,
+      "pointer_offset": 264,
+      "target_offset": 10756,
+      "length_bytes": 42,
+      "raw_hex": "57354e150219fffc00809080cc5780d180d1fff5031b1b1b80d1fffcfff6244d4328000f03152e39fffc",
+      "text_jp": "ウじゅないの<CLOSE> デ~ウ！！<LINE>うひひひ！<CLOSE><PAGE>やゃぱり そうなんだ<CLOSE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 62,
+      "pointer_offset": 268,
+      "target_offset": 10798,
+      "length_bytes": 49,
+      "raw_hex": "f680945923000f2e1582182f0c13102e39fff580a780b480b40080a780b480b480d1fffcfff68094591afff0393880d1ff",
+      "text_jp": "！？ブオも そんな蛾がしてたんだ<LINE>BOO BOO！<CLOSE><PAGE>ブオは<CMD_f0>だぞ！",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 63,
+      "pointer_offset": 272,
+      "target_offset": 10848,
+      "length_bytes": 31,
+      "raw_hex": "f6813d8116190a140015222e152680d180d1fff580bc80ba80ad80ae80d780",
+      "text_jp": "！？位哀のこと なめんなよ！！<LINE>WUHI…",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 64,
+      "pointer_offset": 276,
+      "target_offset": 10879,
+      "length_bytes": 45,
+      "raw_hex": "d7fffcfff680977a80977a0080977a80977afff50f2e1581aa2628fff68094591981662f00853b02232e1880d1",
+      "text_jp": "…<CLOSE><PAGE>パヨパヨ パヨパヨ<LINE>そんな越より<PAGE>ブオの印が 酸いもんね！",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 65,
+      "pointer_offset": 280,
+      "target_offset": 10924,
+      "length_bytes": 51,
+      "raw_hex": "fcfff6184b0083021981aa0c1326fffd12fff5058585114e2e80d1fff6812f83e31981dd83820080ac80b480b480a9391880d1",
+      "text_jp": "[G_252]<PAGE>ねぇ 技の越してよ<CHOICE id=18><LINE>お蒔ちゅん！<PAGE>鮎劇の屋菌 GOODだね！",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 66,
+      "pointer_offset": 284,
+      "target_offset": 10976,
+      "length_bytes": 56,
+      "raw_hex": "fcfff671531483183581fc1f2a061580d0fff580a780b480b40080a780b480b480d1fff67880a18097354e15074e6a7f6a7f80d180d1fffc",
+      "text_jp": "[G_252]<PAGE>ヘノと却じ河まれかな？<LINE>BOO BOO！<PAGE>ヤャパじゅなきゅニロニロ！！<CLOSE>",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 67,
+      "pointer_offset": 288,
+      "target_offset": 11033,
+      "length_bytes": 40,
+      "raw_hex": "f6184b007880a18097824f4d1326fffd13fff580ba80ad80ae80ad80ae80ad80ae80ad80ae80d1ff",
+      "text_jp": "！？ねぇ ヤャパ劃ゃてよ<CHOICE id=19><LINE>UHIHIHIHI！",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 68,
+      "pointer_offset": 292,
+      "target_offset": 11074,
+      "length_bytes": 48,
+      "raw_hex": "fcfff60f19607f8083007880807953392618fff580bc80b480b40080ad80be80b480ad80be80b480d1fffcfff6058585",
+      "text_jp": "[G_252]<PAGE>そのシロガ ヤワユノだよね<LINE>WOO HYOHYO！<CLOSE><PAGE>お蒔",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 69,
+      "pointer_offset": 296,
+      "target_offset": 11122,
+      "length_bytes": 47,
+      "raw_hex": "114e2e00577d53530a14fff68267032e3918fff580a780b480b40080a780b480b480d1fffcfff68094591a000f2e15",
+      "text_jp": "ちゅん ウルノノこと<PAGE>顎うんだね<LINE>BOO BOO！<CLOSE><PAGE>ブオは そんな",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 70,
+      "pointer_offset": 300,
+      "target_offset": 11169,
+      "length_bytes": 52,
+      "raw_hex": "16fff66280a2537a808f354e150280d180d1fff580ba80ad80ae80ad80ae80ad80ae80ad80ae80d1fffcfff674520080936180cc",
+      "text_jp": "に<PAGE>セュノヨヅじゅない！！<LINE>UHIHIHIHI！<CLOSE><PAGE>ミヴ ビス~",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 71,
+      "pointer_offset": 304,
+      "target_offset": 11221,
+      "length_bytes": 58,
+      "raw_hex": "f6823904100200823904100280d0fffd14fff580bc80b480b40080ad80be80b480ad80be80b480d1fffcfff6058585114e2e23008111817d3918",
+      "text_jp": "！？凱えたい 凱えたい？<CHOICE id=20><LINE>WOO HYOHYO！<CLOSE><PAGE>お蒔ちゅんも 〇窺だね",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 72,
+      "pointer_offset": 308,
+      "target_offset": 11280,
+      "length_bytes": 48,
+      "raw_hex": "f682d68169006c702f012a3e80b480b00bfff580a780b480b40080a780b480b480d1fffcfff68094591a000f2e150005",
+      "text_jp": "！？危因 ネフがあればOKさ<LINE>BOO BOO！<CLOSE><PAGE>ブオは そんな お",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 73,
+      "pointer_offset": 312,
+      "target_offset": 11329,
+      "length_bytes": 63,
+      "raw_hex": "832f845215fff6fff0354e15023880d180d1fff580ba80ad80ae80ad80ae80ad80ae80ad80ae80d1fffcfff680945923001f39535a292e39fff680ba80ad80",
+      "text_jp": "笈鯉な<PAGE><CMD_f0>じゅないぞ！！<LINE>UHIHIHIHI！<CLOSE><PAGE>ブオも まだノカるんだ<PAGE>UH",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 74,
+      "pointer_offset": 316,
+      "target_offset": 11392,
+      "length_bytes": 68,
+      "raw_hex": "ae80ad80ae0080ad80ae80ad80ae80d180d1fff5031b501b5080d1fffcfff6058585114e2e130b48fff6020282ca81fb4d13291880d1fffbfff7fff01623000f2e156c80",
+      "text_jp": "IHI HIHI！！<LINE>うひっひっ！<CLOSE><PAGE>お蒔ちゅんてさぁ<PAGE>いい玩歌ゃてるね！<CMD_fb><CMD_f7><CMD_f0>にも そんなネ",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 75,
+      "pointer_offset": 320,
+      "target_offset": 11460,
+      "length_bytes": 30,
+      "raw_hex": "8f530a14fff682670429756300021502232efff515222e1580d180d180d1",
+      "text_jp": "ヅノこと<PAGE>顎えるムソ いないもん<LINE>なめんな！！！",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 76,
+      "pointer_offset": 324,
+      "target_offset": 11490,
+      "length_bytes": 39,
+      "raw_hex": "f6809580cc8097797f812680d180d180d1fff5031b80d780d7fffcfff60f80d7fffc0f2e154880",
+      "text_jp": "！？ベ~パユロ圧！！！<LINE>うひ……<CLOSE><PAGE>そ…<CLOSE>そんなぁ",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 77,
+      "pointer_offset": 328,
+      "target_offset": 11530,
+      "length_bytes": 75,
+      "raw_hex": "d7fff60f0a1f3c00826703152e1380d780d7fff5031b501b5080d1fffcfff6058585114e2e13fff68094592d003d030c10021906154880d0fffbfff7230c060c13fff6809459195e80987a",
+      "text_jp": "…<PAGE>そこまで 顎うなんて……<LINE>うひっひっ！<CLOSE><PAGE>お蒔ちゅんて<PAGE>ブオを どうしたいのかなぁ？<CMD_fb><CMD_f7>もしかして<PAGE>ブオのコピヨ",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 78,
+      "pointer_offset": 332,
+      "target_offset": 11605,
+      "length_bytes": 77,
+      "raw_hex": "5780cc808f2ffff6830f0c021980d0fffd15fff5034d074980cc80d1fffcfff6809480d7fffc80945916003d80d7fffcfff63d030c2b4d138267032e39264c80d180d1fffbfff72136060c0813",
+      "text_jp": "ウ~ヅが<PAGE>吉しいの？<CHOICE id=21><LINE>うゃきぃ~！<CLOSE><PAGE>ブ…<CLOSE>ブオに ど…<CLOSE><PAGE>どうしろゃて顎うんだよぉ！！<CMD_fb><CMD_f7>むずかしくて",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 79,
+      "pointer_offset": 336,
+      "target_offset": 11682,
+      "length_bytes": 45,
+      "raw_hex": "f62c062e15022e3977809e80cc80d180d1fff52c80cc02002c80cc0280d1fffcfff60d2980d1008094590d2926",
+      "text_jp": "！？わかんないんだモゥ~！！<LINE>わ~い わ~い！<CLOSE><PAGE>する！ ブオするよ",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 80,
+      "pointer_offset": 340,
+      "target_offset": 11728,
+      "length_bytes": 44,
+      "raw_hex": "80d1fffcfff60202154800058585114e2e13fff5031b501b5080d1fff6058585114e2e00817d15194cfffcff",
+      "text_jp": "！<CLOSE><PAGE>いいなぁ お蒔ちゅんて<LINE>うひっひっ！<PAGE>お蒔ちゅん 窺なのぉ<CLOSE>",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 81,
+      "pointer_offset": 344,
+      "target_offset": 11772,
+      "length_bytes": 31,
+      "raw_hex": "f68238062780d526392a2f819813292680d1fff539062782d780d0fffcfff6",
+      "text_jp": "！？貝から、よだれが栄てるよ！<LINE>だから喜？<CLOSE><PAGE>",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 82,
+      "pointer_offset": 348,
+      "target_offset": 11803,
+      "length_bytes": 40,
+      "raw_hex": "737f808f080b02191afff675808b80d180d1fff5031b80d780d7fffcfff68124812519828c828d4d",
+      "text_jp": "マロヅくさいのは<PAGE>ムゼ！！<LINE>うひ……<CLOSE><PAGE>鯵梓の苅瓦ゃ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 83,
+      "pointer_offset": 352,
+      "target_offset": 11843,
+      "length_bytes": 74,
+      "raw_hex": "13fff656607c5d532e391880d780d7fffd16fff5031b501b5080d1fffcfff6058585114e2e000f2a4d13fff6809459190082b52d14294d130a1480d0fffbfff7595e595e80d780d7fffc",
+      "text_jp": "て<PAGE>イシリケノんだね……<CHOICE id=22><LINE>うひっひっ！<CLOSE><PAGE>お蒔ちゅん それゃて<PAGE>ブオの 缶をとるゃてこと？<CMD_fb><CMD_f7>オコオコ……<CLOSE>",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 84,
+      "pointer_offset": 356,
+      "target_offset": 11917,
+      "length_bytes": 44,
+      "raw_hex": "f6809459161afff682b5152e1300665326fff5034d074980cc80d1fffcfff615222e15264c80d180d180d1ff",
+      "text_jp": "！？ブオには<PAGE>缶なんて ツノよ<LINE>うゃきぃ~！<CLOSE><PAGE>なめんなよぉ！！！",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 85,
+      "pointer_offset": 360,
+      "target_offset": 11962,
+      "length_bytes": 28,
+      "raw_hex": "f68090570080905700809080cc5780d180d1fff5031b80d780d7fffc",
+      "text_jp": "！？デウ デウ デ~ウ！！<LINE>うひ……<CLOSE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 86,
+      "pointer_offset": 364,
+      "target_offset": 11990,
+      "length_bytes": 45,
+      "raw_hex": "f60f80d7fffc0f03151980d780d7fffd17fff5811181244d4702080e16fff60f2e150a1400826703152e13fff6",
+      "text_jp": "！？そ…<CLOSE>そうなの……<CHOICE id=23><LINE>〇鯵ゃぽいくせに<PAGE>そんなこと 顎うなんて<PAGE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 87,
+      "pointer_offset": 368,
+      "target_offset": 12036,
+      "length_bytes": 39,
+      "raw_hex": "8094591a0083e8120210384c80d180d180d1fff5031b80d780d7fffcfff6230c060c1300809459",
+      "text_jp": "ブオは 桁ついたぞぉ！！！<LINE>うひ……<CLOSE><PAGE>もしかして ブオ",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 88,
+      "pointer_offset": 372,
+      "target_offset": 12075,
+      "length_bytes": 39,
+      "raw_hex": "f6058585114e2e160082f22c2a132980d7fff5031b1b1b80d1fffcfff6152e0600234d1400234d",
+      "text_jp": "！？お蒔ちゅんに 徽われてる…<LINE>うひひひ！<CLOSE><PAGE>なんか もゃと もゃ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 89,
+      "pointer_offset": 376,
+      "target_offset": 12115,
+      "length_bytes": 46,
+      "raw_hex": "14fff682674d13830f0c022680cc2efffd18fff5031b501b5080d1fffcfff6058585114e2e1300152e3c23fff681",
+      "text_jp": "と<PAGE>顎ゃて吉しいよ~ん<CHOICE id=24><LINE>うひっひっ！<CLOSE><PAGE>お蒔ちゅんて なんでも<PAGE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 90,
+      "pointer_offset": 380,
+      "target_offset": 12161,
+      "length_bytes": 43,
+      "raw_hex": "bc4d1329201002005e8085532480d1fffd19fff5058585114e2e0011504d14fff63e062800811181243906",
+      "text_jp": "Wゃてるみたい コグノや！<CHOICE id=25><LINE>お蒔ちゅん ちっゃと<PAGE>ばかり 〇鯵だか",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 91,
+      "pointer_offset": 384,
+      "target_offset": 12204,
+      "length_bytes": 56,
+      "raw_hex": "274d13fff6020282181615280d3080d180d1fff5031b1b1b80d1fffcfff60f2e150a1400809459394d13fff62c064d13292e39232e18fffb",
+      "text_jp": "らゃて<PAGE>いい蛾になりすぎ！！<LINE>うひひひ！<CLOSE><PAGE>そんなこと ブオだゃて<PAGE>わかゃてるんだもんね<CMD_fb>",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 92,
+      "pointer_offset": 388,
+      "target_offset": 12260,
+      "length_bytes": 44,
+      "raw_hex": "f75578533c0c5080d0fff6031b1b1b80d1fff58094591a00fff0152e393880d180d1fff60f2e150a140d2919",
+      "text_jp": "[G_247]アヤノでしっ？<PAGE>うひひひ！<LINE>ブオは <CMD_f0>なんだぞ！！<PAGE>そんなことするの",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 93,
+      "pointer_offset": 392,
+      "target_offset": 12305,
+      "length_bytes": 24,
+      "raw_hex": "1afff60110281f0400152e39062780d180d1fff5031b80d7",
+      "text_jp": "は<PAGE>あたりまえ なんだから！！<LINE>うひ…",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 94,
+      "pointer_offset": 396,
+      "target_offset": 12329,
+      "length_bytes": 41,
+      "raw_hex": "80d7fffcfff6547f002c064d102680d780d7fff5031b1b1b80d1fffcfff6394d13008094591a18fff6",
+      "text_jp": "…<CLOSE><PAGE>オロ わかゃたよ……<LINE>うひひひ！<CLOSE><PAGE>だゃて ブオはね<PAGE>",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 95,
+      "pointer_offset": 400,
+      "target_offset": 12370,
+      "length_bytes": 45,
+      "raw_hex": "1f3986778678829b008198131502192780d1fff5184b184b00058585114e2efff656745d7c530a1481bc4d1329",
+      "text_jp": "まだ鐘障寛 栄てないのら！<LINE>ねぇねぇ お蒔ちゅん<PAGE>イミケリノこと燕ゃてる",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 96,
+      "pointer_offset": 404,
+      "target_offset": 12415,
+      "length_bytes": 41,
+      "raw_hex": "1527fff60581aa000c2603264c80ccfffd1afff53d0a821b132e1980d180d1fffcfff6034d074980cc",
+      "text_jp": "なら<PAGE>お越 しようよぉ~<CHOICE id=26><LINE>どこ餓てんの！！<CLOSE><PAGE>うゃきぃ~",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 97,
+      "pointer_offset": 408,
+      "target_offset": 12456,
+      "length_bytes": 30,
+      "raw_hex": "80d1fff6725772570d29384c80cc80d180d1fff5809480d780945980d780",
+      "text_jp": "！<PAGE>ホウホウするぞぉ~！！<LINE>ブ…ブオ…",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 98,
+      "pointer_offset": 412,
+      "target_offset": 12486,
+      "length_bytes": 32,
+      "raw_hex": "d7fffcfff682d706007d7a020a140c1080d0fff5031b501b5080d1fffcfff618",
+      "text_jp": "…<CLOSE><PAGE>喜か ルヨいことした？<LINE>うひっひっ！<CLOSE><PAGE>ね",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 99,
+      "pointer_offset": 416,
+      "target_offset": 12518,
+      "length_bytes": 36,
+      "raw_hex": "4b184b0082d780d00082d780d00082d780d0fff5034d074980cc80d1fffcfff63d0a821b",
+      "text_jp": "ぇねぇ 喜？ 喜？ 喜？<LINE>うゃきぃ~！<CLOSE><PAGE>どこ餓",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 100,
+      "pointer_offset": 420,
+      "target_offset": 12554,
+      "length_bytes": 47,
+      "raw_hex": "13291980d0fff65b7c5e2680d780d7fffd1bfff5031b80d780d7fffc80940080945980d7fffcfff682f11a00058322",
+      "text_jp": "てるの？<PAGE>キリコよ……<CHOICE id=27><LINE>うひ……<CLOSE>ブ ブオ…<CLOSE><PAGE>紀は お吸",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 101,
+      "pointer_offset": 424,
+      "target_offset": 12601,
+      "length_bytes": 36,
+      "raw_hex": "0b2e16fff61880d7fffc18272c2a132980d7fff5031b501b5080d1fffcfff60583220b2e",
+      "text_jp": "さんに<PAGE>ね…<CLOSE>ねらわれてる…<LINE>うひっひっ！<CLOSE><PAGE>お吸さん",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 102,
+      "pointer_offset": 428,
+      "target_offset": 12637,
+      "length_bytes": 37,
+      "raw_hex": "00053d0c81a684532ffff65780a15b535326fff5034d074980cc80d1fff615222e152680d1",
+      "text_jp": " おどし益交が<PAGE>ウャキノノよ<LINE>うゃきぃ~！<PAGE>なめんなよ！",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 103,
+      "pointer_offset": 432,
+      "target_offset": 12674,
+      "length_bytes": 43,
+      "raw_hex": "80d1fffcfff6853b0815023880d180d180d1fff5031b80d780d7fffcfff60f80d7fffc0f2e151915022603",
+      "text_jp": "！<CLOSE><PAGE>酸くないぞ！！！<LINE>うひ……<CLOSE><PAGE>そ…<CLOSE>そんなのないよう",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 104,
+      "pointer_offset": 436,
+      "target_offset": 12717,
+      "length_bytes": 34,
+      "raw_hex": "80d7fffcfff61f3900fff024292e390280d1fff5034d074980cc80d1fffcfff6034d",
+      "text_jp": "…<CLOSE><PAGE>まだ <CMD_f0>やるんだい！<LINE>うゃきぃ~！<CLOSE><PAGE>うゃ",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 105,
+      "pointer_offset": 440,
+      "target_offset": 12751,
+      "length_bytes": 28,
+      "raw_hex": "074980cc80d1fffcfff6034d074980cc80d1fff5031b80d780d7fffc",
+      "text_jp": "きぃ~！<CLOSE><PAGE>うゃきぃ~！<LINE>うひ……<CLOSE>",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 106,
+      "pointer_offset": 444,
+      "target_offset": 12779,
+      "length_bytes": 27,
+      "raw_hex": "f6031b80d780d7fffcfff6031b80d780d7fff5031b1b1b80d1fffc",
+      "text_jp": "！？うひ……<CLOSE><PAGE>うひ……<LINE>うひひひ！<CLOSE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 107,
+      "pointer_offset": 448,
+      "target_offset": 12807,
+      "length_bytes": 46,
+      "raw_hex": "f6031b1b1b80d1fffcfff6031b1b1b80d1fff50583220b2e007080875d80a27f80d0fffcfff682d6816900809459",
+      "text_jp": "！？うひひひ！<CLOSE><PAGE>うひひひ！<LINE>お吸さん フゴケュロ？<CLOSE><PAGE>危因 ブオ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 108,
+      "pointer_offset": 452,
+      "target_offset": 12854,
+      "length_bytes": 30,
+      "raw_hex": "1623fff683300413001e0c02154880d780d7fff5031b80d780d7fffcfff6",
+      "text_jp": "にも<PAGE>級えて ほしいなぁ……<LINE>うひ……<CLOSE><PAGE>",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 109,
+      "pointer_offset": 456,
+      "target_offset": 12884,
+      "length_bytes": 71,
+      "raw_hex": "811681338127021a00853b02264c80d780d7fff5031b1b1b80d1fffcfff60583220b2e1900657980a159fff60d4d3302184b80d1fffbfff70f2e39090054705314fff67c588394",
+      "text_jp": "哀安斡いは 酸いよぉ……<LINE>うひひひ！<CLOSE><PAGE>お吸さんの チユャオ<PAGE>すゃごいねぇ！<CMD_fb><CMD_f7>そんだけ オフノと<PAGE>リエ駈",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 110,
+      "pointer_offset": 460,
+      "target_offset": 12955,
+      "length_bytes": 37,
+      "raw_hex": "160018101f2a2926fffcfff6031b1b1b80d1fff5031b501b5080d1fffcfff6809459002608",
+      "text_jp": "に ねたまれるよ<CLOSE><PAGE>うひひひ！<LINE>うひっひっ！<CLOSE><PAGE>ブオ よく",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 111,
+      "pointer_offset": 464,
+      "target_offset": 12992,
+      "length_bytes": 63,
+      "raw_hex": "2c062e1502093dfff6841a84600281aa3918fff5031b501b5080d1fffcfff6812481251981aa4d13fff656745d7c53150180d780d7fffbfff7180418040012",
+      "text_jp": "わかんないけど<PAGE>弦后い越だね<LINE>うひっひっ！<CLOSE><PAGE>鯵梓の越ゃて<PAGE>イミケリノなあ……<CMD_fb><CMD_f7>ねえねえ つ",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 112,
+      "pointer_offset": 468,
+      "target_offset": 13055,
+      "length_bytes": 40,
+      "raw_hex": "023c16fff6152e0600082a29261880d0fff1fff5034d074980cc80d1fffcfff639062700152e1519",
+      "text_jp": "いでに<PAGE>なんか くれるよね？<CMD_f1><LINE>うゃきぃ~！<CLOSE><PAGE>だから なんなの",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 113,
+      "pointer_offset": 472,
+      "target_offset": 13095,
+      "length_bytes": 49,
+      "raw_hex": "80d1fff603290b022600230380d180d180d1fff5034d074980cc80d1fffcfff60f2e1581aa1a82d8071008150280d1fff6",
+      "text_jp": "！<PAGE>うるさいよ もう！！！<LINE>うゃきぃ~！<CLOSE><PAGE>そんな越は器きたくない！<PAGE>",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 114,
+      "pointer_offset": 476,
+      "target_offset": 13144,
+      "length_bytes": 41,
+      "raw_hex": "8094591a81872f830f0c021980d180d1fff1fff5031b80d780d7fffcfff680945980d7fffc827282f1",
+      "text_jp": "ブオは姥が吉しいの！！<CMD_f1><LINE>うひ……<CLOSE><PAGE>ブオ…<CLOSE>括紀",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 115,
+      "pointer_offset": 480,
+      "target_offset": 13185,
+      "length_bytes": 26,
+      "raw_hex": "2dfff681bc4d130c1f4d1020100280d780d7fff5031b80d780d7",
+      "text_jp": "を<PAGE>燕ゃてしまゃたみたい……<LINE>うひ……",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 116,
+      "pointer_offset": 484,
+      "target_offset": 13211,
+      "length_bytes": 50,
+      "raw_hex": "fcfff6809459161a8324839615022680d7fff5031b1b1b80d1fff68094591900827b4d1014052819fff681ce83c081833948",
+      "text_jp": "[G_252]<PAGE>ブオには弓具ないよ…<LINE>うひひひ！<PAGE>ブオの 叶ゃたとおりの<PAGE>押圭唄だぁ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 117,
+      "pointer_offset": 488,
+      "target_offset": 13262,
+      "length_bytes": 35,
+      "raw_hex": "fbfff7fff01afff6577f2f0002022e3926fff5031b1b1b80d1fffcfff6812481254d13",
+      "text_jp": "[G_251]<CMD_f7><CMD_f0>は<PAGE>ウロが いいんだよ<LINE>うひひひ！<CLOSE><PAGE>鯵梓ゃて",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 118,
+      "pointer_offset": 492,
+      "target_offset": 13298,
+      "length_bytes": 41,
+      "raw_hex": "0082e682e7150a14fff682670326184b80ccfff5031b501b5080d1fffcfff6809459190081432f2c06",
+      "text_jp": " 棋棄なこと<PAGE>顎うよねぇ~<LINE>うひっひっ！<CLOSE><PAGE>ブオの 威がわか",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 119,
+      "pointer_offset": 496,
+      "target_offset": 13339,
+      "length_bytes": 60,
+      "raw_hex": "292e3980d1fff60720000d33022e391880d1fff58094591981432f00830f0c021980d1fffcfff6809180a159790b0e272a114e4d1080d7fffcfff685",
+      "text_jp": "るんだ！<PAGE>きみ すごいんだね！<LINE>ブオの威が 吉しいの！<CLOSE><PAGE>ドャオユさせられちゅゃた…<CLOSE><PAGE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 120,
+      "pointer_offset": 500,
+      "target_offset": 13399,
+      "length_bytes": 52,
+      "raw_hex": "440781c3140c130082d706830f0c0215fff1fff5034d074980cc80d1fffcfff68094591afff039384c80cc80cc80d180d1fffcff",
+      "text_jp": "ぴき鉛として 喜か吉しいな<CMD_f1><LINE>うゃきぃ~！<CLOSE><PAGE>ブオは<CMD_f0>だぞぉ~~！！<CLOSE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 121,
+      "pointer_offset": 504,
+      "target_offset": 13451,
+      "length_bytes": 41,
+      "raw_hex": "f6812481251600814300833a0e15022680d1fff5034d074980cc80d1fff6121f2715022680d180d1ff",
+      "text_jp": "！？鯵梓に 威 挙せないよ！<LINE>うゃきぃ~！<PAGE>つまらないよ！！",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 122,
+      "pointer_offset": 508,
+      "target_offset": 13492,
+      "length_bytes": 26,
+      "raw_hex": "fcfff63906270082d706260a0e4b80d1fff1fff5031b80d780d7",
+      "text_jp": "[G_252]<PAGE>だから 喜かよこせぇ！<CMD_f1><LINE>うひ……",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 123,
+      "pointer_offset": 512,
+      "target_offset": 13518,
+      "length_bytes": 19,
+      "raw_hex": "fcfff6809459161a8324839615022680d7fff5",
+      "text_jp": "[G_252]<PAGE>ブオには弓具ないよ…<LINE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 124,
+      "pointer_offset": 516,
+      "target_offset": 13538,
+      "length_bytes": 32,
+      "raw_hex": "031b80d780d7fffcfff65375392680d780d7fff5031b1b1b80d1fff6114d1423",
+      "text_jp": "うひ……<CLOSE><PAGE>ノムだよ……<LINE>うひひひ！<PAGE>ちゃとも",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 125,
+      "pointer_offset": 520,
+      "target_offset": 13571,
+      "length_bytes": 29,
+      "raw_hex": "2c062e1502fffcfff63c2300837f0c021548fff5031b1b1b80d1fffcff",
+      "text_jp": "わかんない<CLOSE><PAGE>でも 筋しいなぁ<LINE>うひひひ！<CLOSE>",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 126,
+      "pointer_offset": 524,
+      "target_offset": 13600,
+      "length_bytes": 52,
+      "raw_hex": "f68480272a294d13000202821881fb1180d1fff5031b501b5080d1fffcfff68094592d0083bd270e2912232880d0fffbfff7595e",
+      "text_jp": "！？港られるゃて いい蛾歌ち！<LINE>うひっひっ！<CLOSE><PAGE>ブオを 刑らせるつもり？<CMD_fb><CMD_f7>オコ",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 127,
+      "pointer_offset": 528,
+      "target_offset": 13652,
+      "length_bytes": 60,
+      "raw_hex": "595e80d780d7fffcfff66e7f158124391548fff5031b501b5080d1fffcfff60f2e152e354e008094591afff6152e1423150226fffbfff7234d14fff6",
+      "text_jp": "オコ……<CLOSE><PAGE>ハロな鯵だなぁ<LINE>うひっひっ！<CLOSE><PAGE>そんなんじゅ ブオは<PAGE>なんともないよ<CMD_fb><CMD_f7>もゃと<PAGE>",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 128,
+      "pointer_offset": 532,
+      "target_offset": 13712,
+      "length_bytes": 31,
+      "raw_hex": "1e06190a14000c1326fff6690069006980d0fff5034d074980cc80d1fffcff",
+      "text_jp": "ほかのこと してよ<PAGE>ナ ナ ナ？<LINE>うゃきぃ~！<CLOSE>",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 129,
+      "pointer_offset": 536,
+      "target_offset": 13743,
+      "length_bytes": 41,
+      "raw_hex": "f68094592d00809057160d29152680d180d1fff5034d074980cc80d1fff6121f2715022680d180d1ff",
+      "text_jp": "！？ブオを デウにするなよ！！<LINE>うゃきぃ~！<PAGE>つまらないよ！！",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 130,
+      "pointer_offset": 540,
+      "target_offset": 13784,
+      "length_bytes": 33,
+      "raw_hex": "fcfff63906270082d706260a0e4b80d1fff1fff5031b80d780d7fffcfff6809459",
+      "text_jp": "[G_252]<PAGE>だから 喜かよこせぇ！<CMD_f1><LINE>うひ……<CLOSE><PAGE>ブオ",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 131,
+      "pointer_offset": 544,
+      "target_offset": 13817,
+      "length_bytes": 47,
+      "raw_hex": "2f0053752f290a140c13fff6837f0c0280d0fff5031b80d780d7fffcfff68094591621064d13000f19816d816980d7",
+      "text_jp": "が ノムがることして<PAGE>筋しい？<LINE>うひ……<CLOSE><PAGE>ブオにむかゃて その淫因…",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 132,
+      "pointer_offset": 548,
+      "target_offset": 13864,
+      "length_bytes": 31,
+      "raw_hex": "fcfff6230c060c130075809053812480d7fff5031b1b1b80d1fff6114d1423",
+      "text_jp": "[G_252]<PAGE>もしかして ムデノ鯵…<LINE>うひひひ！<PAGE>ちゃとも",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 133,
+      "pointer_offset": 552,
+      "target_offset": 13897,
+      "length_bytes": 57,
+      "raw_hex": "2c062e1502fffcfff63c2300837f0c021548fff5031b1b1b80d1fffcfff682dc0413290a14fff62c064d114e4d10232e1880d1fffbfff78094",
+      "text_jp": "わかんない<CLOSE><PAGE>でも 筋しいなぁ<LINE>うひひひ！<CLOSE><PAGE>寄えてること<PAGE>わかゃちゅゃたもんね！<CMD_fb><CMD_f7>ブ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 134,
+      "pointer_offset": 556,
+      "target_offset": 13954,
+      "length_bytes": 35,
+      "raw_hex": "59000f2e152e354efff682e2321502232e18fff5031b501b5080d1fffcfff6184b184b",
+      "text_jp": "オ そんなんじゅ<PAGE>机げないもんね<LINE>うひっひっ！<CLOSE><PAGE>ねぇねぇ",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 135,
+      "pointer_offset": 560,
+      "target_offset": 13990,
+      "length_bytes": 36,
+      "raw_hex": "8302162382d706fff6244d13200e132680d0fff5031b501b5080d1fffcfff626050c0080",
+      "text_jp": "技にも喜か<PAGE>やゃてみせてよ？<LINE>うひっひっ！<CLOSE><PAGE>よおし ",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 136,
+      "pointer_offset": 564,
+      "target_offset": 14026,
+      "length_bytes": 31,
+      "raw_hex": "94592f82d706fff623274d1301322926fff1fff5034d074980cc80d1fffcff",
+      "text_jp": "ブオが喜か<PAGE>もらゃてあげるよ<CMD_f1><LINE>うゃきぃ~！<CLOSE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 137,
+      "pointer_offset": 568,
+      "target_offset": 14057,
+      "length_bytes": 54,
+      "raw_hex": "f6121f2e1502264c80cc80cc80d180d180d1fff5034d074980cc80d1fff6121f2e1502fffcfff681342e3c020226fffbfff73c230081",
+      "text_jp": "！？つまんないよぉ~~！！！<LINE>うゃきぃ~！<PAGE>つまんない<CLOSE><PAGE>庵んでいいよ<CMD_fb><CMD_f7>でも ",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 138,
+      "pointer_offset": 572,
+      "target_offset": 14111,
+      "length_bytes": 38,
+      "raw_hex": "3417814016fff682d706001150033902fff1fff5031b80d780d7fffcfff602071528000f2e15",
+      "text_jp": "ざぬ囲に<PAGE>喜か ちっうだい<CMD_f1><LINE>うひ……<CLOSE><PAGE>いきなり そんな",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 139,
+      "pointer_offset": 576,
+      "target_offset": 14149,
+      "length_bytes": 35,
+      "raw_hex": "5b6580d7fffcfff652617081fb4d132980d0fff5031b80d780d7fffcfff6230c060c13",
+      "text_jp": "キチ…<CLOSE><PAGE>ヴスフ歌ゃてる？<LINE>うひ……<CLOSE><PAGE>もしかして",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 140,
+      "pointer_offset": 580,
+      "target_offset": 14184,
+      "length_bytes": 28,
+      "raw_hex": "80d7fffcfff65380a1114e4d1329812480d0fff5031b1b1b80d1fffc",
+      "text_jp": "…<CLOSE><PAGE>ノャちゅゃてる鯵？<LINE>うひひひ！<CLOSE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 141,
+      "pointer_offset": 584,
+      "target_offset": 14212,
+      "length_bytes": 26,
+      "raw_hex": "f6837f0c021548fff6837f0c022680cc2efff52c80cc02002c80",
+      "text_jp": "！？筋しいなぁ<PAGE>筋しいよ~ん<LINE>わ~い わ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 142,
+      "pointer_offset": 588,
+      "target_offset": 14239,
+      "length_bytes": 35,
+      "raw_hex": "cc0280d1fffcfff6837f0c02154880d180d1fff5031b501b5080d1fffcfff602021548",
+      "text_jp": "~い！<CLOSE><PAGE>筋しいなぁ！！<LINE>うひっひっ！<CLOSE><PAGE>いいなぁ",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 143,
+      "pointer_offset": 592,
+      "target_offset": 14275,
+      "length_bytes": 42,
+      "raw_hex": "0d33080002021548fff63d030c2603061548fff53d030c260306154880d7fffcfff60f2a354e0180d580",
+      "text_jp": "すごく いいなぁ<PAGE>どうしようかなぁ<LINE>どうしようかなぁ…<CLOSE><PAGE>それじゅあ、",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 144,
+      "pointer_offset": 596,
+      "target_offset": 14317,
+      "length_bytes": 37,
+      "raw_hex": "945919fff67959555e650702131880d1fff1fff5034d074980cc80d1fffcfff60f2e152e3c",
+      "text_jp": "ブオの<PAGE>ユオアコチきいてね！<CMD_f1><LINE>うゃきぃ~！<CLOSE><PAGE>そんなんで",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 145,
+      "pointer_offset": 600,
+      "target_offset": 14355,
+      "length_bytes": 44,
+      "raw_hex": "81543529fff6809459354e15022680d180d1fff5034d074980cc80d1fffcfff68094591a008187830f393880",
+      "text_jp": "違じる<PAGE>ブオじゅないよ！！<LINE>うゃきぃ~！<CLOSE><PAGE>ブオは 姥吉だぞ",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 146,
+      "pointer_offset": 604,
+      "target_offset": 14399,
+      "length_bytes": 34,
+      "raw_hex": "d180d1fff68187830f152e39384c80d1fff1fff5031b80d780d7fffcfff602122314",
+      "text_jp": "！！<PAGE>姥吉なんだぞぉ！<CMD_f1><LINE>うひ……<CLOSE><PAGE>いつもと",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 147,
+      "pointer_offset": 608,
+      "target_offset": 14434,
+      "length_bytes": 34,
+      "raw_hex": "82cf03525f2ffff681981307102680d780d7fff5031b80d780d7fffcfff60a198218",
+      "text_jp": "贋うヴサが<PAGE>栄てきたよ……<LINE>うひ……<CLOSE><PAGE>この蛾",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 148,
+      "pointer_offset": 612,
+      "target_offset": 14468,
+      "length_bytes": 26,
+      "raw_hex": "81fb111afff6024d100200152e392b0380d7fff5031b1b1b80d1",
+      "text_jp": "歌ちは<PAGE>いゃたい なんだろう…<LINE>うひひひ！",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 149,
+      "pointer_offset": 616,
+      "target_offset": 14494,
+      "length_bytes": 36,
+      "raw_hex": "fcfff60f030a15084d114e80d180d180d1fff5031b1b1b80d1fffcfff60a2a4d13007654",
+      "text_jp": "[G_252]<PAGE>そうこなくゃちゅ！！！<LINE>うひひひ！<CLOSE><PAGE>これゃて メオ",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 150,
+      "pointer_offset": 620,
+      "target_offset": 14531,
+      "length_bytes": 40,
+      "raw_hex": "7d59fff60d2a0d2a4d13000a1439261880d1fff50f1914052800392680cc2e80d1fffcfff6809459",
+      "text_jp": "ルオ<PAGE>すれすれゃて ことだよね！<LINE>そのとおり だよ~ん！<CLOSE><PAGE>ブオ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 151,
+      "pointer_offset": 624,
+      "target_offset": 14571,
+      "length_bytes": 68,
+      "raw_hex": "190a14002608fff681bc4d13292e391880d1fff5031b501b5080d1fffcfff60f03392618000f03827b033c0c5080d0fffbfff70380cc2e141880d7fffcfff6354e010082",
+      "text_jp": "のこと よく<PAGE>燕ゃてるんだね！<LINE>うひっひっ！<CLOSE><PAGE>そうだよね そう叶うでしっ？<CMD_fb><CMD_f7>う~んとね…<CLOSE><PAGE>じゅあ ",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 152,
+      "pointer_offset": 628,
+      "target_offset": 14639,
+      "length_bytes": 33,
+      "raw_hex": "d706fff62012023c0023270503061548fff1fff5034d074980cc80d1fffcfff682",
+      "text_jp": "…か<PAGE>みついで もらおうかなぁ<CMD_f1><LINE>うゃきぃ~！<CLOSE><PAGE>",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 153,
+      "pointer_offset": 632,
+      "target_offset": 14672,
+      "length_bytes": 48,
+      "raw_hex": "4282183c0082674d131502392b0380d180d1fff5034d074980cc80d1fffcfff6354e010b00fffc0f2a2f82428218394d",
+      "text_jp": "ぼ蛾で 顎ゃてないだろう！！<LINE>うゃきぃ~！<CLOSE><PAGE>じゅあさ <CLOSE>それが碍蛾だゃ",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 154,
+      "pointer_offset": 636,
+      "target_offset": 14720,
+      "length_bytes": 39,
+      "raw_hex": "13fff65d80a4545b2d821b0e132680d1fff1fff5031b80d780d7fffcfff63d030c13000f2e1516",
+      "text_jp": "て<PAGE>ケッオキを餓せてよ！<CMD_f1><LINE>うひ……<CLOSE><PAGE>どうして そんなに",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 155,
+      "pointer_offset": 640,
+      "target_offset": 14759,
+      "length_bytes": 33,
+      "raw_hex": "f6809459190a140081a10c0219061580d7fff5031b80d780d7fffcfff60a2e1516",
+      "text_jp": "！？ブオのこと 衛しいのかな…<LINE>うひ……<CLOSE><PAGE>こんなに",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 156,
+      "pointer_offset": 644,
+      "target_offset": 14793,
+      "length_bytes": 38,
+      "raw_hex": "00053913272a2914fff681502f005b7d5326fff5031b1b1b80d1fffcfff6152e06001b0b0c40",
+      "text_jp": " おだてられると<PAGE>胃が キルノよ<LINE>うひひひ！<CLOSE><PAGE>なんか ひさしぶ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 157,
+      "pointer_offset": 648,
+      "target_offset": 14831,
+      "length_bytes": 32,
+      "raw_hex": "2816fff6808780a4545880847f392680cc2efff5031b1b1b80d1fffcfff60f03",
+      "text_jp": "りに<PAGE>ゴッオエギロだよ~ん<LINE>うひひひ！<CLOSE><PAGE>そう",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 158,
+      "pointer_offset": 652,
+      "target_offset": 14863,
+      "length_bytes": 46,
+      "raw_hex": "152e3926fff6fff01a005e8085532e390627fff51580cc2e3900824d195e80987a5780cc808ffff623030081fb4d",
+      "text_jp": "なんだよ<PAGE><CMD_f0>は コグノんだから<LINE>な~んだ 蛎のコピヨウ~ヅ<PAGE>もう 歌ゃ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 159,
+      "pointer_offset": 656,
+      "target_offset": 14909,
+      "length_bytes": 45,
+      "raw_hex": "13292e391880d1fffcfff6031b1b1b1b80d1fff58094590080997a6180997a83f2fff60a1980b280b880ac2d82",
+      "text_jp": "てるんだね！<CLOSE><PAGE>うひひひひ！<LINE>ブオ プヨスプヨ件<PAGE>このMSGを",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 160,
+      "pointer_offset": 660,
+      "target_offset": 14954,
+      "length_bytes": 73,
+      "raw_hex": "1b1027fff658712300031b1b1b1b80d14d0bffef014d2a4b80cc80d0fffcfff68094592628230083c4022e354e150280d0fffbfff72480cc020083c48122809b80d180d180d1fff65e",
+      "text_jp": "ひたら<PAGE>エヘも うひひひひ！ゃさ<CMD_ef>あゃれぇ~？<CLOSE><PAGE>ブオよりも 形いんじゅない？<CMD_fb><CMD_f7>や~い 形葦ポ！！！<PAGE>コ",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 161,
+      "pointer_offset": 664,
+      "target_offset": 15027,
+      "length_bytes": 33,
+      "raw_hex": "80987a5780cc808f013215022680d63980d1ffef040480d180d1fffcfff60f2e15",
+      "text_jp": "ピヨウ~ヅあげないよ’だ！<CMD_ef>ええ！！<CLOSE><PAGE>そんな",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 162,
+      "pointer_offset": 668,
+      "target_offset": 15060,
+      "length_bytes": 24,
+      "raw_hex": "000b200c020a14fff682672c15023c2680ccffef2680cc80",
+      "text_jp": " さみしいこと<PAGE>顎わないでよ~<CMD_ef>よ~",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 163,
+      "pointer_offset": 672,
+      "target_offset": 15084,
+      "length_bytes": 10,
+      "raw_hex": "cc0c80d180d1fffcfff6",
+      "text_jp": "~し！！<CLOSE><PAGE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 164,
+      "pointer_offset": 676,
+      "target_offset": 15094,
+      "length_bytes": 22,
+      "raw_hex": "0a2a0001322980d1ffef0a2a230001322918ffef3c23",
+      "text_jp": "これ あげる！<CMD_ef>これも あげるね<CMD_ef>でも",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 165,
+      "pointer_offset": 680,
+      "target_offset": 15116,
+      "length_bytes": 19,
+      "raw_hex": "001f4880d780d7fffcfff60a2a0001322926ff",
+      "text_jp": " まぁ……<CLOSE><PAGE>これ あげるよ",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 166,
+      "pointer_offset": 684,
+      "target_offset": 15135,
+      "length_bytes": 45,
+      "raw_hex": "ef354e011880ccfff6031b1b1b1b1b1b80d1ffef23030080945981d20615074e80d7fffcfff6fff04d1300012e",
+      "text_jp": "▲じゅあね~<PAGE>うひひひひひひ！<CMD_ef>もう ブオ殴かなきゅ…<CLOSE><PAGE><CMD_f0>ゃて あん",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 167,
+      "pointer_offset": 688,
+      "target_offset": 15180,
+      "length_bytes": 22,
+      "raw_hex": "1f28fff68192812500142a15022e392680d1ffef0a2a",
+      "text_jp": "まり<PAGE>叡梓 とれないんだよ！<CMD_ef>これ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 168,
+      "pointer_offset": 692,
+      "target_offset": 15202,
+      "length_bytes": 38,
+      "raw_hex": "000132290627fff682ec0c13264c80d780d7ffef5871141a2303fff681aa0c10081502232e18",
+      "text_jp": " あげるから<PAGE>汽してよぉ……<CMD_ef>エヘとはもう<PAGE>越したくないもんね",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 169,
+      "pointer_offset": 696,
+      "target_offset": 15240,
+      "length_bytes": 37,
+      "raw_hex": "4bfffcfff6809053809180cc80d180d180d1ffef58714d1300836c4d132918fff60a2a0001",
+      "text_jp": "ぇ<CLOSE><PAGE>デノド~！！！<CMD_ef>エヘゃて 暁ゃてるね<PAGE>これ あ",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 170,
+      "pointer_offset": 700,
+      "target_offset": 15277,
+      "length_bytes": 42,
+      "raw_hex": "32290627fff62303008090538090530c2603ffef82d61982ed821a2dfff681b782673c826703152a3e80",
+      "text_jp": "げるから<PAGE>もう デノデノしよう<CMD_ef>危の畿雅を<PAGE>沿顎で顎うなれば",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 171,
+      "pointer_offset": 704,
+      "target_offset": 15319,
+      "length_bytes": 51,
+      "raw_hex": "d7fffcfff6034d074980cc00152e393880d1ffef82d681501423262b0c084a80d7fffcfff6354e15084d1300809459195780cc",
+      "text_jp": "…<CLOSE><PAGE>うゃきぃ~ なんだぞ！<CMD_ef>危胃ともよろしくぅ…<CLOSE><PAGE>じゅなくゃて ブオのウ~",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 172,
+      "pointer_offset": 708,
+      "target_offset": 15370,
+      "length_bytes": 52,
+      "raw_hex": "808f2dfff6811181f916000c131880d180d1ffef81c8221080d100809459231202130880d180d1fffcfff63c23000f0302038350",
+      "text_jp": "ヅを<PAGE>〇果に してね！！<CMD_ef>甥めた！ ブオもついてく！！<CLOSE><PAGE>でも そういう叫",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 173,
+      "pointer_offset": 712,
+      "target_offset": 15422,
+      "length_bytes": 35,
+      "raw_hex": "161afff6020615022e39261880d780d780d7ffef80945900818b0319005375152e39ff",
+      "text_jp": "には<PAGE>いかないんだよね………<CMD_ef>ブオ 閏うの ノムなんだ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 174,
+      "pointer_offset": 716,
+      "target_offset": 15457,
+      "length_bytes": 21,
+      "raw_hex": "fcfff6835d02190053751600154d114e4d10ffef0f",
+      "text_jp": "[G_252]<PAGE>狂いの ノムに なゃちゅゃた<CMD_ef>そ",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 175,
+      "pointer_offset": 720,
+      "target_offset": 15478,
+      "length_bytes": 48,
+      "raw_hex": "19062c2880d7fffcfff60a2a2d0001322918ffef031b80d780d780d780d7fffcfff680945919005e80987a5780cc808f",
+      "text_jp": "のかわり…<CLOSE><PAGE>これを あげるね<CMD_ef>うひ…………<CLOSE><PAGE>ブオの コピヨウ~ヅ",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 176,
+      "pointer_offset": 724,
+      "target_offset": 15526,
+      "length_bytes": 40,
+      "raw_hex": "f6013229062700821b82e20c1380d780d7ffef031b501b5080d180d1fff6fff014812481254d1380",
+      "text_jp": "！？あげるから 餓机して……<CMD_ef>うひっひっ！！<PAGE><CMD_f0>と鯵梓ゃて",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 177,
+      "pointer_offset": 728,
+      "target_offset": 15567,
+      "length_bytes": 52,
+      "raw_hex": "d7fffcfff63602402e0082cf032e391880d1fff5031b501b5080d180d1fffcfff680945900828083ca82103c5380a180955380d1",
+      "text_jp": "…<CLOSE><PAGE>ずいぶん 贋うんだね！<LINE>うひっひっ！！<CLOSE><PAGE>ブオ 兜掲蚊でノャベノ！",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 178,
+      "pointer_offset": 732,
+      "target_offset": 15619,
+      "length_bytes": 46,
+      "raw_hex": "f6835f100c1300082a2906154880d0fff1fff5034d074980cc80d180d1fffcfff6152e3c000583220b2e2f008360",
+      "text_jp": "！？矯たして くれるかなぁ？<CMD_f1><LINE>うゃきぃ~！！<CLOSE><PAGE>なんで お吸さんが 胸",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 179,
+      "pointer_offset": 736,
+      "target_offset": 15666,
+      "length_bytes": 46,
+      "raw_hex": "04291980d0152e390600835c1012154880d1fff5034d074980cc80d180d1fffcfff60a198094591983bd282dfff6",
+      "text_jp": "えるの？なんだか 況たつなぁ！<LINE>うゃきぃ~！！<CLOSE><PAGE>このブオの刑りを<PAGE>",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 180,
+      "pointer_offset": 740,
+      "target_offset": 15712,
+      "length_bytes": 85,
+      "raw_hex": "0c362210092a3e0082d706082a4b80d1fff1fff5031b80d780d780d7fffcfff6853b0f0315812416fff6840d0609114e4d10150180d7fffbfff7230c060c1027fff60c80d7fffc0c3e062a29062380d7fffcfff653",
+      "text_jp": "しずめたければ 喜かくれぇ！<CMD_f1><LINE>うひ………<CLOSE><PAGE>酸そうな鯵に<PAGE>謙かけちゅゃたなあ…<CMD_fb><CMD_f7>もしかしたら<PAGE>し…<CLOSE>しばかれるかも…<CLOSE><PAGE>ノ",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 181,
+      "pointer_offset": 744,
+      "target_offset": 15797,
+      "length_bytes": 70,
+      "raw_hex": "7580cc80d1000f2e1519537580cc80cc80d1fff5031b80d780d780d7fffcfff60a142c4d13000508093d1880d7fffbfff7809480d7fffc8094591afff6842a81650c08150226",
+      "text_jp": "ム~！ そんなのノム~~！<LINE>うひ………<CLOSE><PAGE>ことわゃて おくけどね…<CMD_fb><CMD_f7>ブ…<CLOSE>ブオは<PAGE>孤允しくないよ",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 182,
+      "pointer_offset": 748,
+      "target_offset": 15867,
+      "length_bytes": 34,
+      "raw_hex": "80d7fffcfff684e533100415020c80d780d7fff5031b1b1b80d180d1fff680945918",
+      "text_jp": "…<CLOSE><PAGE>哉ごたえないし……<LINE>うひひひ！！<PAGE>ブオね",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 183,
+      "pointer_offset": 752,
+      "target_offset": 15901,
+      "length_bytes": 36,
+      "raw_hex": "4bfffcfff682d6144d13230082fc0c022e39fff5031b1b1b80d180d1fff60583220b2e14",
+      "text_jp": "ぇ<CLOSE><PAGE>危とゃても 亀しいんだ<LINE>うひひひ！！<PAGE>お吸さんと",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 184,
+      "pointer_offset": 756,
+      "target_offset": 15938,
+      "length_bytes": 46,
+      "raw_hex": "82f83f10021548fffcfff602023c0c5080d0fff5ffee81248125394880d1fff6152e060072571208093d4c80ccff",
+      "text_jp": "輝びたいなぁ<CLOSE><PAGE>いいでしっ？<LINE><CMD_ee>鯵梓だぁ！<PAGE>なんか ホウつくけどぉ~",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 185,
+      "pointer_offset": 760,
+      "target_offset": 15984,
+      "length_bytes": 60,
+      "raw_hex": "fcfff60a191f1f81c1291923005375391548fff5ffed152e3c00812481251a81248125151980d180d0fff62c062e00154880cc02002680cc2efffcff",
+      "text_jp": "[G_252]<PAGE>このまま薗るのも ノムだなぁ<LINE><CMD_ed>なんで 鯵梓は鯵梓なの！？<PAGE>わかん なぁ~い よ~ん<CLOSE>",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 186,
+      "pointer_offset": 764,
+      "target_offset": 16044,
+      "length_bytes": 49,
+      "raw_hex": "f6725712084a80cc0627001150033902fff1fff5ffec031b5080d780d780d7fffcfff65b7d53231900821b100b4d13fff6",
+      "text_jp": "！？ホウつくぅ~から ちっうだい<CMD_f1><LINE><CMD_ec>うひっ………<CLOSE><PAGE>キルノもの 餓たさゃて<PAGE>",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 187,
+      "pointer_offset": 768,
+      "target_offset": 16093,
+      "length_bytes": 49,
+      "raw_hex": "82d6190080945916809680a1617980d780d7fff5ffee82d706001b062a29746a2dfff682ed35102e39093d80d780d7fffc",
+      "text_jp": "危の ブオにボャスユ……<LINE><CMD_ee>喜か ひかれるミニを<PAGE>畿じたんだけど……<CLOSE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 188,
+      "pointer_offset": 772,
+      "target_offset": 16142,
+      "length_bytes": 40,
+      "raw_hex": "f611504d14008394824e821b4980d780d7fff5ffee82d6813a19008094591a184bfff6812481252f",
+      "text_jp": "！？ちっゃと 駈鈎餓ぃ……<LINE><CMD_ee>危杏の ブオはねぇ<PAGE>鯵梓が",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 189,
+      "pointer_offset": 776,
+      "target_offset": 16184,
+      "length_bytes": 53,
+      "raw_hex": "7361736182800716fff615280f03152e3948fff5ffeb82042e15006574808b62830f0c022e3948fff60380cc2e0081248125230202",
+      "text_jp": "マスマス兜きに<PAGE>なりそうなんだぁ<LINE><CMD_eb>苛んな チミゼセ吉しいんだぁ<PAGE>う~ん 鯵梓もいい",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 190,
+      "pointer_offset": 780,
+      "target_offset": 16237,
+      "length_bytes": 47,
+      "raw_hex": "154880d7fffcfff6152e130082dc04102869fff5ffec0583220b2e80d782c780d080d780d7fffcfff682c715194c80",
+      "text_jp": "なぁ…<CLOSE><PAGE>なんて 寄えたりナ<LINE><CMD_ec>お吸さん…含？……<CLOSE><PAGE>含なのぉ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 191,
+      "pointer_offset": 784,
+      "target_offset": 16284,
+      "length_bytes": 51,
+      "raw_hex": "d180d1fffcfff682c7152e39264c80d780d7fff5ffed034d0780d780d780d7fffcfff65b80d7fffc5b7d53354e1502064880d1",
+      "text_jp": "！！<CLOSE><PAGE>含なんだよぉ……<LINE><CMD_ed>うゃき………<CLOSE><PAGE>キ…<CLOSE>キルノじゅないかぁ！",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 192,
+      "pointer_offset": 788,
+      "target_offset": 16335,
+      "length_bytes": 47,
+      "raw_hex": "fcfff63c230082e2321502384c80cc80d1fff5ffed034d071b1b1b80cc80d180d1fffcfff6595e595e80d780d7fffc",
+      "text_jp": "[G_252]<PAGE>でも 机げないぞぉ~！<LINE><CMD_ed>うゃきひひひ~！！<CLOSE><PAGE>オコオコ……<CLOSE>",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 193,
+      "pointer_offset": 792,
+      "target_offset": 16383,
+      "length_bytes": 89,
+      "raw_hex": "f63c230080945983bd4d13292e392680d1fff5ffeb808e795d80a25e15835f819f80d180d1fffcfff6230300809459160082d706fff6082a290c060015022e392680d1fffbfff7041d1d1d1d80d1fff6830f0c02746a00024d",
+      "text_jp": "！？でも ブオ刑ゃてるんだよ！<LINE><CMD_eb>ヂユケュコな矯頴！！<CLOSE><PAGE>もう ブオに 喜か<PAGE>くれるしか ないんだよ！<CMD_fb><CMD_f7>えへへへへ！<PAGE>吉しいミニ いゃ",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 194,
+      "pointer_offset": 796,
+      "target_offset": 16473,
+      "length_bytes": 46,
+      "raw_hex": "430201292e39fff682d72f0202061548fff1fff5ffeb4208190081452ffff680977a80977a851f04132980d780d7",
+      "text_jp": "ぱいあるんだ<PAGE>喜がいいかなぁ<CMD_f1><LINE><CMD_eb>ぼくの 惟が<PAGE>パヨパヨ擦えてる……",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 195,
+      "pointer_offset": 800,
+      "target_offset": 16519,
+      "length_bytes": 60,
+      "raw_hex": "fcfff681d4818480977a02062380d180d1fff5ffec031b5080d780d780d7fffcfff6812481251a00240b0c022e39261880d0fffbfff7390627008094",
+      "text_jp": "[G_252]<PAGE>翁欝パヨいかも！！<LINE><CMD_ec>うひっ………<CLOSE><PAGE>鯵梓は やさしいんだよね？<CMD_fb><CMD_f7>だから ブ",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 196,
+      "pointer_offset": 804,
+      "target_offset": 16580,
+      "length_bytes": 42,
+      "raw_hex": "591afff6826982100c13130002022e392618fff5031b501b5080d1fff6812481254d130056745d7c5318",
+      "text_jp": "オは<PAGE>笠蚊してて いいんだよね<LINE>うひっひっ！<PAGE>鯵梓ゃて イミケリノね",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 197,
+      "pointer_offset": 808,
+      "target_offset": 16622,
+      "length_bytes": 49,
+      "raw_hex": "fcfff6809459160082d71981db061580d0ffef034d074980cc80d180d1fffcfff60a2e1581ce83c01a005375392680d1ff",
+      "text_jp": "[G_252]<PAGE>ブオに 喜の荻かな？<CMD_ef>うゃきぃ~！！<CLOSE><PAGE>こんな押圭は ノムだよ！",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 198,
+      "pointer_offset": 812,
+      "target_offset": 16672,
+      "length_bytes": 48,
+      "raw_hex": "f68094591a0083bd4d10384c80d180d180d1ffef031b80d780d780d7fffcfff6152e3c0f2e1581ce83c00d291980d7ff",
+      "text_jp": "！？ブオは 刑ゃたぞぉ！！！<CMD_ef>うひ………<CLOSE><PAGE>なんでそんな押圭するの…",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 199,
+      "pointer_offset": 816,
+      "target_offset": 16720,
+      "length_bytes": 45,
+      "raw_hex": "fcfff680945900853b02260380d780d780d7ffef031b1b1b80d100031b1b1b80d1fffcfff60d4d330800837f0c",
+      "text_jp": "[G_252]<PAGE>ブオ 酸いよう………<CMD_ef>うひひひ！ うひひひ！<CLOSE><PAGE>すゃごく 筋し",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 200,
+      "pointer_offset": 820,
+      "target_offset": 16765,
+      "length_bytes": 40,
+      "raw_hex": "064d104880d180d1fff6547b5d532680cc2effef1280d61f80d62880d6fffcfff60a190080945916",
+      "text_jp": "かゃたぁ！！<PAGE>オラケノよ~ん<CMD_ef>つ’ま’り’<CLOSE><PAGE>この ブオに",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 201,
+      "pointer_offset": 824,
+      "target_offset": 16805,
+      "length_bytes": 51,
+      "raw_hex": "f682d7060c1300830f0c022e3c0c5080d1ffef031b5080d780d780d7fffcfff60f2a3c80d7121f2880d780d7fffcfff6809480",
+      "text_jp": "！？喜かして 吉しいんでしっ！<CMD_ef>うひっ………<CLOSE><PAGE>それで…つまり……<CLOSE><PAGE>ブ",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 202,
+      "pointer_offset": 828,
+      "target_offset": 16857,
+      "length_bytes": 48,
+      "raw_hex": "d7fffc8094591682d72d82262119061580d7ffef0a2e151600837f0c021983cd221380d1fffcfff680945900152e3c23",
+      "text_jp": "…<CLOSE>ブオに喜を悔むのかな…<CMD_ef>こんなに 筋しいの景めて！<CLOSE><PAGE>ブオ なんでも",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 203,
+      "pointer_offset": 832,
+      "target_offset": 16906,
+      "length_bytes": 43,
+      "raw_hex": "8267030a14fff6070213000132292680cc2effef034d0780d780d780d7fffcfff6031b1b00031b50031b1b",
+      "text_jp": "顎うこと<PAGE>きいて あげるよ~ん<CMD_ef>うゃき………<CLOSE><PAGE>うひひ うひっうひひ",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 204,
+      "pointer_offset": 836,
+      "target_offset": 16949,
+      "length_bytes": 43,
+      "raw_hex": "80d1fff6034d1b0003070307031b80d780d7ffef0f2e1581ce83c08183152e1380d1fffcfff68094590080",
+      "text_jp": "！<PAGE>うゃひ うきうきうひ……<CMD_ef>そんな押圭唄なんて！<CLOSE><PAGE>ブオ ",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 205,
+      "pointer_offset": 840,
+      "target_offset": 16992,
+      "length_bytes": 42,
+      "raw_hex": "90571a82f2021519fff6595e595e80d780d7ffef031b5080d780d780d7fffcfff68124812513005e8085",
+      "text_jp": "デウは徽いなの<PAGE>オコオコ……<CMD_ef>うひっ………<CLOSE><PAGE>鯵梓て コグ",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 206,
+      "pointer_offset": 844,
+      "target_offset": 17034,
+      "length_bytes": 29,
+      "raw_hex": "53184b80ccfff61f024d114e03154800031bffef80945918000582292f",
+      "text_jp": "ノねぇ~<PAGE>まいゃちゅうなぁ うひ<CMD_ef>ブオね お戒が",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 207,
+      "pointer_offset": 848,
+      "target_offset": 17063,
+      "length_bytes": 12,
+      "raw_hex": "830f0c0215fff6fff8857a3c",
+      "text_jp": "吉しいな<PAGE><CMD_f8>次で",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 208,
+      "pointer_offset": 852,
+      "target_offset": 17076,
+      "length_bytes": 42,
+      "raw_hex": "02022680ccffef2c80cc02002c80cc0280d1fff5152e39264c80cc80cc80d1fff681fb4d131502354e15",
+      "text_jp": "いいよ~<CMD_ef>わ~い わ~い！<LINE>なんだよぉ~~！<PAGE>歌ゃてないじゅな",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 209,
+      "pointer_offset": 856,
+      "target_offset": 17118,
+      "length_bytes": 6,
+      "raw_hex": "020680d180d1",
+      "text_jp": "いか！！",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 210,
+      "pointer_offset": 860,
+      "target_offset": 17124,
+      "length_bytes": 33,
+      "raw_hex": "f680977f80977f80d180d1fff50a2b0d26fff580945900811681782f830f0c0215",
+      "text_jp": "！？パロパロ！！<LINE>ころすよ<LINE>ブオ 哀羽が吉しいな",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 211,
+      "pointer_offset": 864,
+      "target_offset": 17158,
+      "length_bytes": 34,
+      "raw_hex": "48fff681b7123c0002022e39093d154880d7ffef2c80cc02002c80cc0280d1fffcff",
+      "text_jp": "ぁ<PAGE>沿つで いいんだけどなぁ…<CMD_ef>わ~い わ~い！<CLOSE>",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 212,
+      "pointer_offset": 868,
+      "target_offset": 17192,
+      "length_bytes": 54,
+      "raw_hex": "f68116817839002c80cc02002c80cc0280d1fff5040480d10081fb4d131502194c80d1fffcfff6230c060c13008090573c0c5080d0ff",
+      "text_jp": "！？哀羽だ わ~い わ~い！<LINE>ええ！ 歌ゃてないのぉ！<CLOSE><PAGE>もしかして デウでしっ？",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 213,
+      "pointer_offset": 872,
+      "target_offset": 17246,
+      "length_bytes": 40,
+      "raw_hex": "fcfff6809080cc5700809080cc5780d180d1fff515222e1580d1fffcfff6866e0081173e0d384c80",
+      "text_jp": "[G_252]<PAGE>デ~ウ デ~ウ！！<LINE>なめんな！<CLOSE><PAGE>訟 愛ばすぞぉ",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 214,
+      "pointer_offset": 876,
+      "target_offset": 17286,
+      "length_bytes": 35,
+      "raw_hex": "d1fff68081785e2300823629384c80d180d1fff5808b730623000c2a1502093d80d780",
+      "text_jp": "！<PAGE>ヲヤコも 開るぞぉ！！<LINE>ゼマかも しれないけど…",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 215,
+      "pointer_offset": 880,
+      "target_offset": 17321,
+      "length_bytes": 33,
+      "raw_hex": "d7fffcfff6fff42ffff6830f0c02154880d7ffef034d0f4c80cc80cc80cc80d180",
+      "text_jp": "…<CLOSE><PAGE><CMD_f4>が<PAGE>吉しいなぁ…<CMD_ef>うゃそぉ~~~！",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 216,
+      "pointer_offset": 884,
+      "target_offset": 17354,
+      "length_bytes": 49,
+      "raw_hex": "d1fffcfff62c80cc02002c80cc0280d180d1fff5244d43280081fb4d1315022e39fffcfff60180d7fffc1f10003d4d0619",
+      "text_jp": "！<CLOSE><PAGE>わ~い わ~い！！<LINE>やゃぱり 歌ゃてないんだ<CLOSE><PAGE>あ…<CLOSE>また どゃかの",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 217,
+      "pointer_offset": 888,
+      "target_offset": 17403,
+      "length_bytes": 35,
+      "raw_hex": "f68081785e0082364d114e4d1080d780d7fff50f033926184bfff60c50032f15022618",
+      "text_jp": "！？ヲヤコ 開ゃちゅゃた……<LINE>そうだよねぇ<PAGE>しっうがないよね",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 218,
+      "pointer_offset": 892,
+      "target_offset": 17439,
+      "length_bytes": 49,
+      "raw_hex": "4b80d780d7fffcfff63c2300fffc5b7c5e26fff5020215480081fc815e4d1380d7fffcfff60f2a0056535d5319061580d0",
+      "text_jp": "ぇ……<CLOSE><PAGE>でも <CLOSE>キリコよ<LINE>いいなぁ 河壱ゃて…<CLOSE><PAGE>それ イノケノのかな？",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 219,
+      "pointer_offset": 896,
+      "target_offset": 17488,
+      "length_bytes": 32,
+      "raw_hex": "f680945916230081670c002c09132680d1ffef0580d7842a81650c0f0380d7ff",
+      "text_jp": "！？ブオにも 咽し わけてよ！<CMD_ef>お…孤允しそう…",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 220,
+      "pointer_offset": 900,
+      "target_offset": 17521,
+      "length_bytes": 41,
+      "raw_hex": "fcfff6024d103980cc071f80cc0d80d180d1fff580d780d7809459161afff682d32715024d13826703",
+      "text_jp": "[G_252]<PAGE>いゃただ~きま~す！！<LINE>……ブオには<PAGE>願らないゃて顎う",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 221,
+      "pointer_offset": 904,
+      "target_offset": 17562,
+      "length_bytes": 37,
+      "raw_hex": "1980d0fffcfff6725712084a80cc80d180d1fff582fc0c02154880d6fffcfff63c23008094",
+      "text_jp": "の？<CLOSE><PAGE>ホウつくぅ~！！<LINE>亀しいなぁ’<CLOSE><PAGE>でも ブ",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 222,
+      "pointer_offset": 908,
+      "target_offset": 17599,
+      "length_bytes": 8,
+      "raw_hex": "591682da1a150209",
+      "text_jp": "オに奇はないけ",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 223,
+      "pointer_offset": 912,
+      "target_offset": 17607,
+      "length_bytes": 39,
+      "raw_hex": "3d18fff6031b1b1b80d1fff566737f6680d1fff5031b1b1b80d1fffcfff6031b1b1b80d1fffcff",
+      "text_jp": "どね<PAGE>うひひひ！<LINE>ツマロツ！<LINE>うひひひ！<CLOSE><PAGE>うひひひ！<CLOSE>",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 224,
+      "pointer_offset": 916,
+      "target_offset": 17646,
+      "length_bytes": 8,
+      "raw_hex": "f6031b031b1b031b",
+      "text_jp": "！？うひうひひうひ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 225,
+      "pointer_offset": 920,
+      "target_offset": 17654,
+      "length_bytes": 11,
+      "raw_hex": "1b1b80d180d180d180d1ff",
+      "text_jp": "ひひ！！！！",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 226,
+      "pointer_offset": 924,
+      "target_offset": 17665,
+      "length_bytes": 16,
+      "raw_hex": "f566737f6680d1fff584a24d102980d6",
+      "text_jp": "♂ツマロツ！<LINE>鴻ゃたる’",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 227,
+      "pointer_offset": 928,
+      "target_offset": 17681,
+      "length_bytes": 19,
+      "raw_hex": "80d1fff50202816985240c1329354e2e80d1ff",
+      "text_jp": "！<LINE>いい因皐してるじゅん！",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 228,
+      "pointer_offset": 932,
+      "target_offset": 17700,
+      "length_bytes": 32,
+      "raw_hex": "f566737f66fffcfff681342e3c02022680d7fff50f000f2e154880d780d7fffc",
+      "text_jp": "♂ツマロツ<CLOSE><PAGE>庵んでいいよ…<LINE>そ そんなぁ……<CLOSE>",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 229,
+      "pointer_offset": 936,
+      "target_offset": 17732,
+      "length_bytes": 33,
+      "raw_hex": "f680945900fffc3d030c102702021980d0fff5151680d0fffcfff60c4b80ccfffc",
+      "text_jp": "！？ブオ <CLOSE>どうしたらいいの？<LINE>なに？<CLOSE><PAGE>しぇ~<CLOSE>",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 230,
+      "pointer_offset": 940,
+      "target_offset": 17766,
+      "length_bytes": 39,
+      "raw_hex": "4d1380d7fffcfff658710081342e3c020226fff5032e008094593926fffcfff65371002c062e15",
+      "text_jp": "ゃて…<CLOSE><PAGE>エヘ 庵んでいいよ<LINE>うん ブオだよ<CLOSE><PAGE>ノヘ わかんな",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 231,
+      "pointer_offset": 944,
+      "target_offset": 17805,
+      "length_bytes": 13,
+      "raw_hex": "02093dfff6052321072f00fffc",
+      "text_jp": "いけど<PAGE>おもむきが <CLOSE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 232,
+      "pointer_offset": 948,
+      "target_offset": 17818,
+      "length_bytes": 30,
+      "raw_hex": "01291880d1fff50f80d70f03151980d780d7fff50480d1fffc0011504d14",
+      "text_jp": "あるね！<LINE>そ…そうなの……<LINE>え！<CLOSE> ちっゃと",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 233,
+      "pointer_offset": 952,
+      "target_offset": 17848,
+      "length_bytes": 53,
+      "raw_hex": "f6808f58808f580c1307102680d62e8705fff5577380d100536880d100695b80d180d1fffcfff68094590083358165012980d62eff",
+      "text_jp": "！？ヅエヅエしてきたよ’ん栖<LINE>ウマ！ ノト！ ナキ！！<CLOSE><PAGE>ブオ 去允ある’ん",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 234,
+      "pointer_offset": 956,
+      "target_offset": 17902,
+      "length_bytes": 46,
+      "raw_hex": "fcfff60180d7fffc0077808b7b3c114e4d10fff5010f0a1a000afffc80d7853b0280d780d7fff65b7d53140a2b15",
+      "text_jp": "[G_252]<PAGE>あ…<CLOSE> モゼラでちゅゃた<LINE>あそこは こ<CLOSE>…酸い……<PAGE>キルノところな",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 235,
+      "pointer_offset": 960,
+      "target_offset": 17948,
+      "length_bytes": 48,
+      "raw_hex": "2e39261880d780d7fffcfff6031b80d780d7fff51516000f2a80d0fffcfff6546012072280d100809780cc7a19815f3c",
+      "text_jp": "んだよね……<CLOSE><PAGE>うひ……<LINE>なに それ？<CLOSE><PAGE>オシつきめ！ パ~ヨの溢で",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 236,
+      "pointer_offset": 964,
+      "target_offset": 17996,
+      "length_bytes": 15,
+      "raw_hex": "f681aa152e06003c07292c09150226",
+      "text_jp": "！？越なんか できるわけないよ",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 237,
+      "pointer_offset": 968,
+      "target_offset": 18012,
+      "length_bytes": 15,
+      "raw_hex": "80d1fff5808480a180d7fffc80d7ff",
+      "text_jp": "！<LINE>ギャ…<CLOSE>…",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 238,
+      "pointer_offset": 972,
+      "target_offset": 18027,
+      "length_bytes": 37,
+      "raw_hex": "fc80d7fff56f80a180d7fffc80d7fffc80d7fff51516000d292e392680cc80cc80d1fffcff",
+      "text_jp": "[G_252]…<LINE>ヒャ…<CLOSE>…<CLOSE>…<LINE>なに するんだよ~~！<CLOSE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 239,
+      "pointer_offset": 976,
+      "target_offset": 18064,
+      "length_bytes": 36,
+      "raw_hex": "f60e4d060800834a4d131019164980cc80d1fff5031b1b1b1b1b1b80d1fff6031b1b1b1b",
+      "text_jp": "！？せゃかく 競ゃてたのにぃ~！<LINE>うひひひひひひ！<PAGE>うひひひひ",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 240,
+      "pointer_offset": 980,
+      "target_offset": 18100,
+      "length_bytes": 41,
+      "raw_hex": "1b1b1b80d1fff6031b1b1b1b1b1b1b1b80d1fff5032e00032efff60583220b2e14008094594d13fff6",
+      "text_jp": "ひひひ！<PAGE>うひひひひひひひひ！<LINE>うん うん<PAGE>お吸さんと ブオゃて<PAGE>",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 241,
+      "pointer_offset": 984,
+      "target_offset": 18141,
+      "length_bytes": 23,
+      "raw_hex": "6d809b80cc797f8083003e4d1128391880d1fff5354e01",
+      "text_jp": "ノポ~ユロガ ばゃちりだね！<LINE>じゅあ",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 242,
+      "pointer_offset": 988,
+      "target_offset": 18165,
+      "length_bytes": 37,
+      "raw_hex": "152e3cfff60f2e1581aa000c101980d180d1fff5152e39144c80d180d1fffcfff653808279",
+      "text_jp": "なんで<PAGE>そんな越 したの！！<LINE>なんだとぉ！！<CLOSE><PAGE>ノンユ",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 243,
+      "pointer_offset": 992,
+      "target_offset": 18202,
+      "length_bytes": 64,
+      "raw_hex": "5e81241afff682f20215192780d680d680d1fff50202154880d7fffcfff60f19768091000202154880d180d1fffbfff7809459161afff63c071502093d80d780",
+      "text_jp": "コ鯵は<PAGE>徽いなのら’’！<LINE>いいなぁ…<CLOSE><PAGE>そのメド いいなぁ！！<CMD_fb><CMD_f7>ブオには<PAGE>できないけど…",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 244,
+      "pointer_offset": 996,
+      "target_offset": 18266,
+      "length_bytes": 44,
+      "raw_hex": "d7fffcfff6837f0c025d7f80947a391880d1fff50480d1008242836980d180d1fff61a240800115003390226",
+      "text_jp": "…<CLOSE><PAGE>筋しいケロブヨだね！<LINE>え！ 碍仰！！<PAGE>はやく ちっうだいよ",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 245,
+      "pointer_offset": 1000,
+      "target_offset": 18310,
+      "length_bytes": 49,
+      "raw_hex": "80d6fffcfff6031b80d100837f0c204980d1fff50480cc000f0315194c80d780d7fffcfff60d4d33080082181615292e39",
+      "text_jp": "’<CLOSE><PAGE>うひ！ 筋しみぃ！<LINE>え~ そうなのぉ……<CLOSE><PAGE>すゃごく 蛾になるんだ",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 246,
+      "pointer_offset": 1004,
+      "target_offset": 18359,
+      "length_bytes": 52,
+      "raw_hex": "093d80d6fff60380cc2e00152e392b0380d0fff50480d780d7fffcfff6fff0168362064d13000f19816d816980d780d7fffcfff6",
+      "text_jp": "けど’<PAGE>う~ん なんだろう？<LINE>え……<CLOSE><PAGE><CMD_f0>に興かゃて その淫因……<CLOSE><PAGE>",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 247,
+      "pointer_offset": 1008,
+      "target_offset": 18411,
+      "length_bytes": 37,
+      "raw_hex": "230c060c1300808e7f808780a27880cc80d0fff57257725700fffc7257809a80d180d1fffc",
+      "text_jp": "もしかして ヂロゴュヤ~？<LINE>ホウホウ <CLOSE>ホウペ！！<CLOSE>",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 248,
+      "pointer_offset": 1012,
+      "target_offset": 18448,
+      "length_bytes": 32,
+      "raw_hex": "f680847a707f2d809057160d29154880d1fff50380d7fffc031b80d7fffc031b",
+      "text_jp": "！？ギヨフロをデウにするなぁ！<LINE>う…<CLOSE>うひ…<CLOSE>うひ",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 249,
+      "pointer_offset": 1016,
+      "target_offset": 18481,
+      "length_bytes": 38,
+      "raw_hex": "80d7fffcfff6392a0600615e5a6480d780d7fff5827283cc3c826703152680d1fff61a36060c",
+      "text_jp": "…<CLOSE><PAGE>だれか スコカタ……<LINE>括敬で顎うなよ！<PAGE>はずかし",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 250,
+      "pointer_offset": 1020,
+      "target_offset": 18519,
+      "length_bytes": 32,
+      "raw_hex": "0281248125391580d1fff681342e3c020226fff50f80d7fffc0f03151980d780",
+      "text_jp": "い鯵梓だな！<PAGE>庵んでいいよ<LINE>そ…<CLOSE>そうなの…",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 251,
+      "pointer_offset": 1024,
+      "target_offset": 18551,
+      "length_bytes": 57,
+      "raw_hex": "d7fffcfff68124812513000a2c0280d780d7fff50480d000fffc1b07820080d00084c607820080d0fff6677f675980d0006c596c5980d0fffc",
+      "text_jp": "…<CLOSE><PAGE>鯵梓て こわい……<LINE>え？ <CLOSE>ひき禾？ 懇き禾？<PAGE>テロテオ？ ネオネオ？<CLOSE>",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 252,
+      "pointer_offset": 1028,
+      "target_offset": 18608,
+      "length_bytes": 24,
+      "raw_hex": "f6184b0082d72f6c596c590d29194c80d0fff5032e00032e",
+      "text_jp": "！？ねぇ 喜がネオネオするのぉ？<LINE>うん うん",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 253,
+      "pointer_offset": 1032,
+      "target_offset": 18633,
+      "length_bytes": 29,
+      "raw_hex": "f624292680d1008094592429232e1880d1fff50300034d0f80d780d7ff",
+      "text_jp": "！？やるよ！ ブオやるもんね！<LINE>う うゃそ……",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 254,
+      "pointer_offset": 1036,
+      "target_offset": 18663,
+      "length_bytes": 40,
+      "raw_hex": "fcfff6230c060c130070808a151980d780d7fff5725780d180d1fffcfff6809459198218160c1329",
+      "text_jp": "[G_252]<PAGE>もしかして フズなの……<LINE>ホウ！！<CLOSE><PAGE>ブオの蛾にしてる",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 255,
+      "pointer_offset": 1040,
+      "target_offset": 18703,
+      "length_bytes": 42,
+      "raw_hex": "0a14fff682674d10150180cc80cc80d180d1fff5031b1b1b80d1fffcfff602023c0c500380d1fffc0080",
+      "text_jp": "こと<PAGE>顎ゃたなあ~~！！<LINE>うひひひ！<CLOSE><PAGE>いいでしっう！<CLOSE> ",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 256,
+      "pointer_offset": 1044,
+      "target_offset": 18745,
+      "length_bytes": 41,
+      "raw_hex": "9459161afff65c717f8083070615022680d1fff50480d780d7fffcfff63d0a00821b13291980d7fffc",
+      "text_jp": "ブオには<PAGE>クヘロガきかないよ！<LINE>え……<CLOSE><PAGE>どこ 餓てるの…<CLOSE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 257,
+      "pointer_offset": 1048,
+      "target_offset": 18786,
+      "length_bytes": 8,
+      "raw_hex": "f60583220b2e00ff",
+      "text_jp": "！？お吸さん ",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 258,
+      "pointer_offset": 1052,
+      "target_offset": 18795,
+      "length_bytes": 39,
+      "raw_hex": "fc557c535780d780d7fff575808b80d180d1fff5031b1b1b80d1fffcfff6244d43281880d180d1",
+      "text_jp": "[G_252]アリノウ……<LINE>ムゼ！！<LINE>うひひひ！<CLOSE><PAGE>やゃぱりね！！",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 259,
+      "pointer_offset": 1056,
+      "target_offset": 18834,
+      "length_bytes": 32,
+      "raw_hex": "fcfff68094591a00391f0e15022680cc2efff52c80cc02002c80cc0280d1fff6",
+      "text_jp": "[G_252]<PAGE>ブオは だませないよ~ん<LINE>わ~い わ~い！<PAGE>",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 260,
+      "pointer_offset": 1060,
+      "target_offset": 18867,
+      "length_bytes": 31,
+      "raw_hex": "0f19866e008094592f82364d102e392680d1fff515160005841a1380d0fffc",
+      "text_jp": "その訟 ブオが開ゃたんだよ！<LINE>なに お弦て？<CLOSE>",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 261,
+      "pointer_offset": 1064,
+      "target_offset": 18898,
+      "length_bytes": 38,
+      "raw_hex": "f68094592d0066737f662680d180d180d1fff5032e80d1fffcfff60a19812415270080945919",
+      "text_jp": "！？ブオを ツマロツよ！！！<LINE>うん！<CLOSE><PAGE>この鯵なら ブオの",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 262,
+      "pointer_offset": 1068,
+      "target_offset": 18937,
+      "length_bytes": 38,
+      "raw_hex": "f60202809580cc656680cc1600152a2918fff515222e1580d180d1fffcfff68585114e2e0023",
+      "text_jp": "！？いいベ~チツ~に なれるね<LINE>なめんな！！<CLOSE><PAGE>蒔ちゅん も",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 263,
+      "pointer_offset": 1072,
+      "target_offset": 18976,
+      "length_bytes": 37,
+      "raw_hex": "0381b78169fff6527379570081d2071580d1fff5392a000f2a80d0fff68094590081bc2715",
+      "text_jp": "う沿因<PAGE>ヴマユウ 殴きな！<LINE>だれ それ？<PAGE>ブオ 燕らな",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 264,
+      "pointer_offset": 1076,
+      "target_offset": 19013,
+      "length_bytes": 61,
+      "raw_hex": "021548fffcfff6392a152e392b0380d780d7fff580d780d780d780d780d780d780d780d780d780d780d780d7fffcfff60a2e151600240b0c02152e1380",
+      "text_jp": "いなぁ<CLOSE><PAGE>だれなんだろう……<LINE>………………………………<CLOSE><PAGE>こんなに やさしいなんて",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 265,
+      "pointer_offset": 1080,
+      "target_offset": 19074,
+      "length_bytes": 38,
+      "raw_hex": "d7fff682d7060054782f0129062380d780d7fff5152e0600058585114e2e13fff60581390b2e",
+      "text_jp": "…<PAGE>喜か オヤがあるかも……<LINE>なんか お蒔ちゅんて<PAGE>お鞍さん",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 266,
+      "pointer_offset": 1084,
+      "target_offset": 19112,
+      "length_bytes": 28,
+      "raw_hex": "0020100215140afff601292e391880d780d7fff5031b1b1b80d1fffc",
+      "text_jp": " みたいなとこ<PAGE>あるんだね……<LINE>うひひひ！<CLOSE>",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 267,
+      "pointer_offset": 1088,
+      "target_offset": 19140,
+      "length_bytes": 45,
+      "raw_hex": "f68094594d1300812482180129154880d1fff51a1b80d000152e151980d0fffcfff61f480b06000a198094592d",
+      "text_jp": "！？ブオゃて 鯵蛾あるなぁ！<LINE>はひ？ なんなの？<CLOSE><PAGE>まぁさか このブオを",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 268,
+      "pointer_offset": 1092,
+      "target_offset": 19186,
+      "length_bytes": 37,
+      "raw_hex": "f60627064d13001502392b031880d180d1fff5031b80d780d7fffcfff682d60011504d1480",
+      "text_jp": "！？からかゃて ないだろうね！！<LINE>うひ……<CLOSE><PAGE>危 ちっゃと",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 269,
+      "pointer_offset": 1096,
+      "target_offset": 19224,
+      "length_bytes": 14,
+      "raw_hex": "d7fffcfff60515061983b5824e2f",
+      "text_jp": "…<CLOSE><PAGE>おなかの群鈎が",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 270,
+      "pointer_offset": 1100,
+      "target_offset": 19238,
+      "length_bytes": 27,
+      "raw_hex": "80d780d7fff5032e00fffc8218160c150226fff5031b80d780d7ff",
+      "text_jp": "……<LINE>うん <CLOSE>蛾にしないよ<LINE>うひ……",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 271,
+      "pointer_offset": 1104,
+      "target_offset": 19265,
+      "length_bytes": 28,
+      "raw_hex": "fcfff6058585114e2e13005c808f80d780d7fff51580cc2e3900849e",
+      "text_jp": "[G_252]<PAGE>お蒔ちゅんて クヅ……<LINE>な~んだ 降",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 272,
+      "pointer_offset": 1108,
+      "target_offset": 19293,
+      "length_bytes": 30,
+      "raw_hex": "8340152e39fffcfff626064d10002680cc2efff5031b031b80d1fffcfff6",
+      "text_jp": "漁なんだ<CLOSE><PAGE>よかゃた よ~ん<LINE>うひうひ！<CLOSE><PAGE>",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    },
+    {
+      "id": 273,
+      "pointer_offset": 1112,
+      "target_offset": 19323,
+      "length_bytes": 39,
+      "raw_hex": "808a59808a590d2982ed354980cc80d180d1fff55580cc80d180d000152e3c00152e3c80d0fffc",
+      "text_jp": "ズオズオする畿じぃ~！！<LINE>ア~！？ なんで なんで？<CLOSE>",
+      "translation_en": "!?Whooooosh! I'm invisible, but<LINE>I can pinch your ears! Hehehe!<LINE>Are you scared yet, human? Boo!"
+    },
+    {
+      "id": 274,
+      "pointer_offset": 1116,
+      "target_offset": 19362,
+      "length_bytes": 49,
+      "raw_hex": "f6152e3c0082672c15022e392680cc80d1fff50f2e150a14001502080e164980d1fffcfff6058585114e2e1400024d0c50",
+      "text_jp": "！？なんで 顎わないんだよ~！<LINE>そんなこと ないくせにぃ！<CLOSE><PAGE>お蒔ちゅんと いゃしっ",
+      "translation_en": "Rattle rattle!<CHOICE id=0> I<LINE>love throwing plates and<LINE>breaking windows!<CLOSE> Wanna<PAGE>make a big mess with me?!"
+    },
+    {
+      "id": 275,
+      "pointer_offset": 1120,
+      "target_offset": 19412,
+      "length_bytes": 26,
+      "raw_hex": "1527fff60a1981f12300152e06837f0c0f03fff503032e80d1ff",
+      "text_jp": "なら<PAGE>この可も なんか筋しそう<LINE>ううん！",
+      "translation_en": "!?Hey! Don't try to catch me!<LINE>You can't hit what you can't<LINE>touch! Blah!<CLOSE>Clatter<PAGE>clatter bang!"
+    },
+    {
+      "id": 276,
+      "pointer_offset": 1124,
+      "target_offset": 19438,
+      "length_bytes": 35,
+      "raw_hex": "f65e80855380d1fffcfff65e8085532680d1fff5809459184b80d1fffcfff657737814",
+      "text_jp": "！？コグノ！<CLOSE><PAGE>コグノよ！<LINE>ブオねぇ！<CLOSE><PAGE>ウマヤと",
+      "translation_en": "!?Yay, you like my noisy<LINE>tricks!<CHOICE id=1> Hehehe!<LINE>We're gonna have so much fun<PAGE>haunting people!<CLOSE> Let's<LINE>make all the lights flicker!"
+    },
+    {
+      "id": 277,
+      "pointer_offset": 1128,
+      "target_offset": 19473,
+      "length_bytes": 27,
+      "raw_hex": "0616866f2919fff6836881c5152e392680d1fff5072a1080d780d7",
+      "text_jp": "かに証るの<PAGE>驚塩なんだよ！<LINE>きれた……",
+      "translation_en": "Crash! Bang! Clatter! The house<LINE>is haunted and nobody can sleep!<LINE>Hehehe! Boo!"
+    },
+    {
+      "id": 278,
+      "pointer_offset": 1132,
+      "target_offset": 19500,
+      "length_bytes": 20,
+      "raw_hex": "fcfff6230300072a1026008094591a80d1fff515",
+      "text_jp": "[G_252]<PAGE>もう きれたよ ブオは！<LINE>な",
+      "translation_en": "Hehehe... you're super<LINE>fun!<CLOSE> I won't throw any<LINE>teacups at your head, promise!"
+    },
+    {
+      "id": 279,
+      "pointer_offset": 1136,
+      "target_offset": 19521,
+      "length_bytes": 26,
+      "raw_hex": "222e1580d1fffcfff681342e3c02022680d1fff5031b501b5080",
+      "text_jp": "めんな！<CLOSE><PAGE>庵んでいいよ！<LINE>うひっひっ",
+      "translation_en": "Boring! Boring!<CLOSE> I'm gonna<LINE>knock over your bookshelf!<LINE>Clatter clatter!"
+    },
+    {
+      "id": 280,
+      "pointer_offset": 1140,
+      "target_offset": 19547,
+      "length_bytes": 21,
+      "raw_hex": "d1fffcfff60583220b2e006f6901291880d1fff51c",
+      "text_jp": "！<CLOSE><PAGE>お吸さん ヒナあるね！<LINE>ふ",
+      "translation_en": "!?Stop looking around! I'm right<LINE>behind you! Hehehe!"
+    },
+    {
+      "id": 281,
+      "pointer_offset": 1144,
+      "target_offset": 19568,
+      "length_bytes": 46,
+      "raw_hex": "80cc2e80d7fffcfff61527008094592380d1fff5812481252f000f2e1516fff683258326394d10152e1380d7fffc",
+      "text_jp": "~ん…<CLOSE><PAGE>なら ブオも！<LINE>鯵梓が そんなに<PAGE>急救だゃたなんて…<CLOSE>",
+      "translation_en": "Yaaay! A human who loves ghost<LINE>pranks! Let's cause chaos<LINE>together!"
+    },
+    {
+      "id": 282,
+      "pointer_offset": 1148,
+      "target_offset": 19614,
+      "length_bytes": 32,
+      "raw_hex": "f68094590081bc2715064d102e392680d7fff5839383810c10061580d7fffcff",
+      "text_jp": "！？ブオ 燕らなかゃたんだよ…<LINE>駆芹したかな…<CLOSE>",
+      "translation_en": "Give me shiny coins to throw at<LINE>people! Clatter clatter!<CLOSE>"
+    },
+    {
+      "id": 283,
+      "pointer_offset": 1152,
+      "target_offset": 19647,
+      "length_bytes": 53,
+      "raw_hex": "f681168178160d2a3e0023270410062380d7fff5040480d10081fb4d131502194c80d1fffcfff601190b0180d7fffc811681781aff",
+      "text_jp": "！？哀羽にすれば もらえたかも…<LINE>ええ！ 歌ゃてないのぉ！<CLOSE><PAGE>あのさあ…<CLOSE>哀羽は",
+      "translation_en": "!?Macca! Wheee! It makes such a<LINE>nice jingling sound! Hehehe!"
+    },
+    {
+      "id": 284,
+      "pointer_offset": 1156,
+      "target_offset": 19700,
+      "length_bytes": 32,
+      "raw_hex": "f681ce83c01982d282d381ac152e392680d6fff5839383810c10061580d7fffc",
+      "text_jp": "！？押圭の顔願榎なんだよ’<LINE>駆芹したかな…<CLOSE>",
+      "translation_en": "A glowing Life Stone! It floats<LINE>in the air! Wheee! Look at it<LINE>spin!"
+    },
+    {
+      "id": 285,
+      "pointer_offset": 1160,
+      "target_offset": 19732,
+      "length_bytes": 45,
+      "raw_hex": "f6058229160d2a3e0023270410062380d7fff50f033926184b80d7fff6820581780039232e184b80d780d7fffc",
+      "text_jp": "！？お戒にすれば もらえたかも…<LINE>そうだよねぇ…<PAGE>茄羽 だもんねぇ……<CLOSE>",
+      "translation_en": "Here's my Tarot Card! Clatter<LINE>clatter!<CLOSE> Call me when you<LINE>want to scare the pants off your<PAGE>enemies!"
+    },
+    {
+      "id": 286,
+      "pointer_offset": 1164,
+      "target_offset": 19778,
+      "length_bytes": 39,
+      "raw_hex": "f63c2300838d815339150180d780d780d7fff580d780d7809459161afff682d32715024d138267",
+      "text_jp": "！？でも 区謂だなあ………<LINE>……ブオには<PAGE>願らないゃて顎",
+      "translation_en": "Ghost pact sealed! Hehehe! We're<LINE>gonna haunt this whole town<LINE>together!"
+    },
+    {
+      "id": 287,
+      "pointer_offset": 1168,
+      "target_offset": 19818,
+      "length_bytes": 74,
+      "raw_hex": "031980d0fffcfff658714d130002093680d7fff5034d074980cc80d1fffcfff603074d030780d7fff603074980cc80cc80d180d1fffbfff7152e390600545854580c114e4d1080d7fffc",
+      "text_jp": "うの？<CLOSE><PAGE>エヘゃて いけず…<LINE>うゃきぃ~！<CLOSE><PAGE>うきゃうき…<PAGE>うきぃ~~！！<CMD_fb><CMD_f7>なんだか オエオエしちゅゃた…<CLOSE>",
+      "translation_en": "Whooooosh! Off through the<LINE>keyhole!<CMD_ef>...Hehehe, boo!"
+    },
+    {
+      "id": 288,
+      "pointer_offset": 1172,
+      "target_offset": 19892,
+      "length_bytes": 59,
+      "raw_hex": "824d195e80987a5780cc808f0001322980d1ffef80d780d780d70f03390180d180d1fffcfff6809459195e80987a5780cc808f2d0001322980d1ff",
+      "text_jp": "蛎のコピヨウ~ヅ あげる！<CMD_ef>………そうだあ！！<CLOSE><PAGE>ブオのコピヨウ~ヅを あげる！",
+      "translation_en": "See ya! Clatter bang!<CLOSE><LINE>Watch out for falling vases!"
+    },
+    {
+      "id": 289,
+      "pointer_offset": 1176,
+      "target_offset": 19951,
+      "length_bytes": 5201,
+      "raw_hex": "fc80987a606616152a3e0081b78336392618ffef809480d7fffc809459195780cc808f1afff6074d14002f2e3e292680d1fffcfff65480d7fffc5460354e15022680d1ffef00080000060800000d080000140800001d080000260800002e080000350800003a080000440800004a080000540800005f080000670800006e0800007c080000850800008b080000960800009c080000a3080000ab080000b2080000bd080000c5080000ca080000d8080000df080000ed080000f9080000040900000f090000140900001b090000220900002b0900003209000039090000410900004b09000052090000570900005d090000620900006a0900007209000079090000800900008c090000960900009e090000a9090000b4090000b9090000c3090000cb090000d3090000de090000eb090000f7090000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff83bc3529fff583bc351502fff582d282d339fff581f482d282d339fff50b2716838981ddfff58162849a0d29fff584d9834a21fff5162721fff580be80b20c4b80ccfff507200626fff582821615022680d7fff55871195778808b8705fff5827f86f13926fff55e78723926fff55952787a7f809780cc7a3926fff584ac0c13202b26fff524222b26fff5834a022d80d5142229fff51e4d1408fff50202261548fff5260815021548fff540025c537ffff5815f81cc2d82161329fff581503c242b03fff524272efff5830a83941a836381163c0129fff51c1c2e80d7fff51c2e80d10083c481222280d1fff5828a1a80d583100c0238fff5152780d55769820a04fff5021f191a855c820039fff5242937fff524272a2937fff56b66150237fff573808b70150237fff56e60150237fff583bc352b26fff554603980cc37fff5845b843983cb8340fff5567380cc7ffff56b7052fff580a680b9fff50a2024fff580b480b080d1fff580b3873a80d1fff50f0315194cfff582cf03194cfff5390627815a09134b80d1fff58218160c15023c4bfff50f031519264cfff5808780a480cc593926fff5834c0883930e1580d1fff5242210fff50f2e150a14150226fff580d7260c1526fff55773781981aafff50b27168162849a0d29fff511274d14821b138162849afff580817f102a138162849afff51f4d10088162849afff51f4d109e00a200000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380b800b800b9000000ba00ba00bb000000bc00bc00bd000000b000b000b1000000be00be00bf000000c000c000c1000000b200b200b3000000c200c200c3000000b400b400b5000000b600b600b7000000c800c900ca00c400a200a1009f00a000a400a500a300a600ab00ffffcb00ffffffffffffa700ab00ffffffffffffffffffffffffffffffffcc00ffffffffffffa800a900ffffffffffffffffffffffffffffffffc500ffffffffffffaa001f01ffffffffffffffffffffffffffffffffcd00ffffffffffffac002001ad00ae00a500ffffffffffffffffffffc600ffffffffffffaf002101a700ffffffffffffffffffffffffffffc700ffffffffffffa200a500ffffffffffffffffffffffffffffffff6e006e006f007000700071007200720073007400740075007600760077007800780079007a007a007b007c007c007d007e007e007f008000800081008200820083008400840085008600860087008800880089008a008a008b008c008c008d008e008e008f009000900091009200920093009400940095009600960097009800980099009a009a009b009c009c009d00ce00ffffcf00d0001901d1001a0103320128021e011e0000d200ffffd300d4001b01d5001c01001e01280005011e0000d600ffffd700d800d800d9001d01031400000100011e0000da00ffffdb00ffffdb00dc001e01033200000000011e00000000000000000000020000000100ffffffffffff020002000300ffffffffffff020004000500ffffffffffff020006000700ffffffffffff020008000900ffffffffffff02000a000b00ffffffffffff03000c000d000e00ffffffff02000f001000ffffffffffff020011001200ffffffffffff020013001400ffffffffffff020015001600ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff010003031e1edd00dd00010001011e1ee000e000010000000000ffffffff010003031e1edf00df00010001011e1ee000e000010000000000ffffffff010001013232e100e100010000001e1ee200e200010000000000ffffffff010001013232e300e300010002021e1ee400e400010000000000ffffffff010001011e1ee500e500010000001e1ee600e600010000000000ffffffff010002021e1ee700e700010000001e1ee800e800010000000000ffffffff010000001e1ee900e900010002021e1eea00ea00010001011e1eeb00eb00010002021e1eec00ec00010003031e1eed00ed00010000000000ffffffff010001011e1eee00ee00010003031e1eef00ef00010000000000ffffffff010000001e1ef000f000010001011e1ef100f100010000000000ffffffff010001011e1ef200f200010003031e1ef300f300010000000000ffffffff010003031e1ef400f400010000001e1ef500f500010000000000ffffffff010002021e1ef600f600010001013232f700f700010000000000ffffffff010002021e1ef800f800010001011e1ef900f900010000000000ffffffff010002021e1efa00fa00010000001e1efb00fb00010000000000ffffffff010000001e1efc00fc00010002021e1efd00fd00010000000000ffffffff010001011e1efe00fe00010003031e1eff00ff00010002021e1e00010001010001011e1e01010101010003031e1e02010201010000000000ffffffff010003031e1e03010301010001011e1e04010401010000000000ffffffff010003031e1e05010501010001011e1e06010601010000001e1e07010701010002021e1e08010801010000001e1e09010901010000000000ffffffff010003031e1e0a010a01010001011e1e0b010b01010000000000ffffffff010002021e1e0c010c010100030300000d010d01010000000000ffffffff010002021e1e0e010e01010003031e1e0f010f01010000000000ffffffff010003031e1e10011001010001011e1e11011101010000000000ffffffff010000001e1e12011201010003031e1e13011301010000000000ffffffff010000001e1e1401140101000101323215011501010000000000ffffffff010001011e1e16011601010003031e1e1701170101000101000018011801",
+      "text_jp": "[G_252]ピヨシツになれば 沿居だよね<CMD_ef>ブ…<CLOSE>ブオのウ~ヅは<PAGE>きゃと がんばるよ！<CLOSE><PAGE>オ…<CLOSE>オシじゅないよ！<CMD_ef> く  かく  すく  とく  へく  よく  んく  じく  ぢく  ぴく  ぅく  オく  サく  テく  ハく  リく  埼  ゼく  ボく  ァく  ョく  Fく  Mく  Xく  5く  /く  （く  】く  ■く  [G_249]く  えけ  そけ  とけ  ひけ  めけ  ろけ  げけ  だけ  べけ  ぇけ  ヴけ  ウけ  ケけ  セけ  ニけ  ホけ  ユけ  け  ゾけ  ボけ  ゥけ  Dけ  Oけ  Tけ  3け  :け  ＜け  【け  ●け  [G_247]け  <CMD_83>Wじる<LINE>傾じない<LINE>顔願だ<LINE>嫁顔願だ<LINE>さらに銀屋<LINE>茨鉱する<LINE>瑳競む<LINE>にらむ<LINE>YMしぇ~<LINE>きみかよ<LINE>蒲にないよ…<LINE>エヘのウヤゼ栖<LINE>株裾だよ<LINE>コヤホだよ<LINE>オヴヤヨロパ~ヨだよ<LINE>麹してみろよ<LINE>やめろよ<LINE>競いを、とめる<LINE>ほゃとく<LINE>いいよなぁ<LINE>よくないなぁ<LINE>ぶいクノロ<LINE>溢往を臥てる<LINE>胃でやろう<LINE>やらん<LINE>誼駈は蕎哀である<LINE>ふふん…<LINE>ふん！ 形葦め！<LINE>粥は、吃しいぞ<LINE>なら、ウナ課え<LINE>いまのは氏禾だ<LINE>やるぜ<LINE>やられるぜ<LINE>ヌツないぜ<LINE>マゼフないぜ<LINE>ハシないぜ<LINE>傾じろよ<LINE>オシだ~ぜ<LINE>効誇携漁<LINE>イマ~ロ<LINE>ヌフヴ<LINE>AT<LINE>こみや<LINE>OK！<LINE>N千！<LINE>そうなのぉ<LINE>贋うのぉ<LINE>だから育けてぇ！<LINE>蛾にしないでぇ<LINE>そうなのよぉ<LINE>ゴッ~オだよ<LINE>凶く駆せな！<LINE>やめた<LINE>そんなことないよ<LINE>…よしなよ<LINE>ウマヤの越<LINE>さらに茨鉱する<LINE>ちらゃと餓て茨鉱<LINE>ヲロたれて茨鉱<LINE>まゃたく茨鉱<LINE>まゃたゥ ュ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うS S T   U U V   W W X   K K L   Y Y Z   0 0 1   M M N   2 2 3   O O P   Q Q R   8 9 / 4 ュ ャ ェ ォ ッ ヮ ョ A F <CMD_cb> <CMD_a7> F <CMD_cc> <CMD_a8> D <CMD_c5> <CMD_aa> まあ<CMD_cd> <CMD_ac> みあH I ヮ <CMD_c6> <CMD_af> むあB <CMD_c7> <CMD_a2> ヮ <CMD_6e> ハ ヒ フ フ ヘ ホ ホ マ ミ ミ ム メ メ モ ヤ ヤ ユ ヨ ヨ ラ リ リ ル レ レ ロ   [G_256]禾禾宜拳拳冴宿宿政ザ ザ ジ ズ ズ ゼ ゾ ゾ ダ ヂ ヂ ヅ デ デ ド バ バ ビ ブ ブ ベ ボ ボ パ ピ ピ プ ペ ペ ポ ァ ァ ィ ・ <CMD_cf> ？ のあ！ はあうげありいほあほ  ＊ <CMD_d3> ー ひあ、 ふあ ほあり おあほ  ’ <CMD_d7> （ （ ） へあうと  あ あほ  「 <CMD_db> <CMD_db> 『 ほあうげ    あほ          い   あ <CMD_02> い う <CMD_02> え お <CMD_02> か き <CMD_02> く け <CMD_02> こ さ <CMD_03> し す せ <CMD_02> そ た <CMD_02> ち つ <CMD_02> て と <CMD_02> な に <CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_01> ううほほ』 』 あ ああほほ＋ ＋ あ     <CMD_01> ううほほ】 】 あ ああほほ＋ ＋ あ     <CMD_01> ああげげ－ － あ   ほほ± ± あ     <CMD_01> ああげげ× × あ いいほほ÷ ÷ あ     <CMD_01> ああほほ％ ％ あ   ほほ＃ ＃ あ     <CMD_01> いいほほ＆ ＆ あ   ほほ☆ ☆ あ     <CMD_01>   ほほ★ ★ あ いいほほ○ ○ あ ああほほ● ● あ いいほほ□ □ あ ううほほ■ ■ あ     <CMD_01> ああほほ△ △ あ ううほほ▲ ▲ あ     <CMD_01>   ほほ※ ※ あ ああほほ＝ ＝ あ     <CMD_01> ああほほ♡ ♡ あ ううほほ＄ ＄ あ     <CMD_01> ううほほ♀ ♀ あ   ほほ♂ ♂ あ     <CMD_01> いいほほ！？ ！？ あ ああげげ[G_247] [G_247] あ     <CMD_01> いいほほ[G_248] [G_248] あ ああほほ[G_249] [G_249] あ     <CMD_01> いいほほ[G_250] [G_250] あ   ほほ[G_251] [G_251] あ     <CMD_01>   ほほ[G_252] [G_252] あ いいほほ[G_253] [G_253] あ     <CMD_01> ああほほ[G_254] [G_254] あ ううほほ<CMD_00><CMD_00>あ いいほほ あ ああ ああほほあああああ ううほほいあいああ     <CMD_01> ううほほうあうああ ああほほえあえああ     <CMD_01> ううほほおあおああ ああほほかあかああ   ほほきあきああ いいほほくあくああ   ほほけあけああ     <CMD_01> ううほほこあこああ ああほほさあさああ     <CMD_01> いいほほしあしああ うう  すあすああ     <CMD_01> いいほほせあせああ ううほほそあそああ     <CMD_01> ううほほたあたああ ああほほちあちああ     <CMD_01>   ほほつあつああ ううほほてあてああ     <CMD_01>   ほほとあとああ ああげげなあなああ     <CMD_01> ああほほにあにああ ううほほぬあぬああ ああ  ねあねあ",
+      "translation_en": "Hehehe! Clatter clatter! Things<LINE>go bump in the night!<CLOSE> Did<LINE>you see that chair fly across<PAGE>the room?!"
+    }
+  ]
+}
