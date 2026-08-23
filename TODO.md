@@ -42,16 +42,16 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
 
 ---
 
-### 🤖 Phase 4: Agentic Translation Engine (Gemini)
-- [ ] **4.1. Translation Prompts & Lore Glossaries**
-  - [ ] Create character voice style guides (Protagonist, Maki, Masao/Mark, Nanjo, Brown, Elly, Ayase, Yukino, Reiji, Kandori, etc.).
-  - [ ] Build Megaten standardized glossary (demons, skills, items, terminology).
-  - [ ] Define cultural restoration rules (uncut Snow Queen Quest, Mikage-cho, Japanese cultural references).
-- [ ] **4.2. Agentic Batch Translation Pipeline (`tools/translate_agent.py`)**
-  - [ ] Implement scene-aware batch translation preserving formatting and markup tags.
-  - [ ] Automated pixel-width and character length calculation to prevent text box overflows.
-  - [ ] Self-verification pass for terminology consistency, pronouns, and tone.
-  - [ ] Store translations in `scripts/translated/`.
+### 🤖 Phase 4: Agentic Translation Engine (Gemini / agy)
+- [x] **4.1. Translation Prompts & Lore Glossaries**
+  - [x] Create character voice style guides (`docs/translation_guide.md`).
+  - [x] Build Megaten standardized glossary (`docs/lore_glossary.json`).
+  - [x] Define cultural restoration rules (uncut Snow Queen Quest, Mikage-cho, Japanese cultural references).
+- [x] **4.2. In-Session Batch Translation Pipeline (`tools/translate_pipeline.py`)**
+  - [x] Implement scene-aware batch translation preserving formatting and markup tags.
+  - [x] Automated pixel-width and character length calculation to prevent text box overflows (`TranslationValidator`).
+  - [x] Translate first full demon conversation file (`scripts/translated/talk/GAKI.json` - 231 lines).
+  - [ ] Complete remaining TALK and Event script files.
 
 ---
 

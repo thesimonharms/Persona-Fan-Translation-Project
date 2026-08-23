@@ -1,0 +1,33 @@
+{
+  "spells_and_skills": {
+    "agi_series": ["Agi", "Maragi", "Agilao", "Maragion", "Agidyne", "Maragidyne"],
+    "bufu_series": ["Bufu", "Mabufu", "Bufula", "Mabufula", "Bufudyne", "Mabufudyne"],
+    "zio_series": ["Zio", "Mazio", "Zionga", "Mazionga", "Ziodyne", "Maziodyne"],
+    "garu_series": ["Garu", "Magaru", "Garula", "Magarula", "Garudyne", "Magarudyne"],
+    "kouha_series": ["Hama", "Mahama", "Hamaon", "Mahamaon"],
+    "eiha_series": ["Mudo", "Mamudo", "Mudoon", "Mamudoon"],
+    "almighty_series": ["Megido", "Megidola", "Megidolaon"],
+    "healing": ["Dia", "Media", "Diarama", "Mediarama", "Diarahan", "Mediarahan", "Recarm", "Samarecarm", "Patra", "Me Patra", "Posumudi"]
+  },
+  "key_locations": {
+    "Mikage-cho": "御影町 (Original town name, replaced with Lunarvale in US)",
+    "St. Hermelin High School": "聖エルミン学園",
+    "Yin & Yan": "コンビニ ヤン・ヤン",
+    "Joy Street": "ジョイ通り",
+    "SEBEC": "セベク (Saeki Electronics & Biological & Energy Corporation)",
+    "Mikage Ruins": "御影遺跡",
+    "Alraya Shrine": "荒谷神社",
+    "Velvet Room": "ベルベットルーム"
+  },
+  "lore_concepts": {
+    "Persona": "ペルソナ",
+    "Shadow": "シャドウ",
+    "Philemon": "フィレモン",
+    "Nyarlathotep": "ニャルラトホテプ",
+    "Snow Queen": "雪の女王",
+    "Deva System": "デヴァ・システム",
+    "SPELL": "魔法",
+    "RUMOR": "噂",
+    "CONTACT": "コンタクト / 悪魔交渉"
+  }
+}
