@@ -23,9 +23,9 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
   - [x] Extract and decode 2,048 16x16 1-bpp glyph bitmaps from `FONT.BIN`.
   - [x] Generate comprehensive 2-byte Gojūon/Kanji table mapping file (`docs/tbl/persona_jp.tbl` and JSON).
   - [x] Create font previewer/renderer script (render glyphs to ASCII/bitmap).
-- [ ] **2.2. Font Expansion & VWF Support**
-  - [ ] Design ASCII/half-width 8x16 font glyphs for English text.
-  - [ ] Implement font table patcher for single-byte/half-width Latin characters.
+- [x] **2.2. Font Expansion & Lowercase ASCII Support**
+  - [x] Design crisp 16x16 font glyphs for English lowercase letters `a`..`z`.
+  - [x] Implement font table patcher for ASCII and special characters (`tools/font_tool.py --patch-lowercase`).
   - [ ] Reverse-engineer MIPS R3000 font rendering routine in `SLPS_005.00` for Variable Width Font (VWF) support.
 
 ---
@@ -56,13 +56,14 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
 ---
 
 ### 🔄 Phase 5: Recompiler & Dynamic Pointer Relocation
-- [ ] **5.1. Script Recompiler (`tools/recompiler.py`)**
-  - [ ] Re-encode translated English strings into game bytecode and control codes.
-  - [ ] Recalculate all internal relative and absolute pointer offsets.
-  - [ ] Rebuild container binaries (`TALK/*.BIN`, `D*/*.BIN`, `NAME.BIN`).
-- [ ] **5.2. File System Table Relocator**
-  - [ ] Update `FSECT.DAT` and `FSIZE.DAT` lookup tables for expanded files.
-  - [ ] Update ISO9660 directory records and LBA sector pointers.
+- [x] **5.1. Script Recompiler (`tools/recompiler.py`)**
+  - [x] Re-encode translated English strings into game bytecode and control codes.
+  - [x] Recalculate all internal relative and absolute pointer offsets.
+  - [x] Rebuild container binaries (`TALK/*.BIN`) with dynamic section shifting.
+  - [x] 100% lossless string round-trip verification.
+- [x] **5.2. File System Table Relocator (`tools/table_relocator.py`)**
+  - [x] Update `FSECT.DAT` and `FSIZE.DAT` lookup tables for expanded files.
+  - [x] Update ISO9660 directory records and LBA sector pointers.
 
 ---
 

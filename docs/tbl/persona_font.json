@@ -1459,51 +1459,51 @@
     },
     {
       "glyph_id": 208,
-      "char": "？",
+      "char": "?",
       "hex_bytes": "80d0",
-      "unicode": "U+FF1F",
+      "unicode": "U+003F",
       "is_kanji": false
     },
     {
       "glyph_id": 209,
-      "char": "！",
+      "char": "!",
       "hex_bytes": "80d1",
-      "unicode": "U+FF01",
+      "unicode": "U+0021",
       "is_kanji": false
     },
     {
       "glyph_id": 210,
-      "char": "＊",
+      "char": "*",
       "hex_bytes": "80d2",
-      "unicode": "U+FF0A",
+      "unicode": "U+002A",
       "is_kanji": false
     },
     {
       "glyph_id": 211,
-      "char": "＜",
+      "char": "<",
       "hex_bytes": "80d3",
-      "unicode": "U+FF1C",
+      "unicode": "U+003C",
       "is_kanji": false
     },
     {
       "glyph_id": 212,
-      "char": "ー",
+      "char": "-",
       "hex_bytes": "80d4",
-      "unicode": "U+30FC",
+      "unicode": "U+002D",
       "is_kanji": false
     },
     {
       "glyph_id": 213,
-      "char": "、",
+      "char": ",",
       "hex_bytes": "80d5",
-      "unicode": "U+3001",
+      "unicode": "U+002C",
       "is_kanji": false
     },
     {
       "glyph_id": 214,
-      "char": "’",
+      "char": "'",
       "hex_bytes": "80d6",
-      "unicode": "U+2019",
+      "unicode": "U+0027",
       "is_kanji": false
     },
     {
@@ -1515,16 +1515,16 @@
     },
     {
       "glyph_id": 216,
-      "char": "（",
+      "char": "(",
       "hex_bytes": "80d8",
-      "unicode": "U+FF08",
+      "unicode": "U+0028",
       "is_kanji": false
     },
     {
       "glyph_id": 217,
-      "char": "）",
+      "char": ")",
       "hex_bytes": "80d9",
-      "unicode": "U+FF09",
+      "unicode": "U+0029",
       "is_kanji": false
     },
     {
@@ -1571,16 +1571,16 @@
     },
     {
       "glyph_id": 224,
-      "char": "＋",
+      "char": "+",
       "hex_bytes": "80e0",
-      "unicode": "U+FF0B",
+      "unicode": "U+002B",
       "is_kanji": false
     },
     {
       "glyph_id": 225,
-      "char": "－",
+      "char": "-",
       "hex_bytes": "80e1",
-      "unicode": "U+FF0D",
+      "unicode": "U+002D",
       "is_kanji": false
     },
     {
@@ -1606,23 +1606,23 @@
     },
     {
       "glyph_id": 229,
-      "char": "％",
+      "char": "%",
       "hex_bytes": "80e5",
-      "unicode": "U+FF05",
+      "unicode": "U+0025",
       "is_kanji": false
     },
     {
       "glyph_id": 230,
-      "char": "＃",
+      "char": "#",
       "hex_bytes": "80e6",
-      "unicode": "U+FF03",
+      "unicode": "U+0023",
       "is_kanji": false
     },
     {
       "glyph_id": 231,
-      "char": "＆",
+      "char": "&",
       "hex_bytes": "80e7",
-      "unicode": "U+FF06",
+      "unicode": "U+0026",
       "is_kanji": false
     },
     {
@@ -1690,9 +1690,9 @@
     },
     {
       "glyph_id": 241,
-      "char": "＝",
+      "char": "=",
       "hex_bytes": "80f1",
-      "unicode": "U+FF1D",
+      "unicode": "U+003D",
       "is_kanji": false
     },
     {
@@ -1704,9 +1704,9 @@
     },
     {
       "glyph_id": 243,
-      "char": "＄",
+      "char": "$",
       "hex_bytes": "80f3",
-      "unicode": "U+FF04",
+      "unicode": "U+0024",
       "is_kanji": false
     },
     {
@@ -1725,198 +1725,198 @@
     },
     {
       "glyph_id": 246,
-      "char": "！？",
+      "char": "!?",
       "hex_bytes": "80f6",
       "unicode": "N/A",
       "is_kanji": false
     },
     {
       "glyph_id": 247,
-      "char": "[GLYPH_247]",
+      "char": "a",
       "hex_bytes": "80f7",
-      "unicode": "N/A",
+      "unicode": "U+0061",
       "is_kanji": false
     },
     {
       "glyph_id": 248,
-      "char": "[GLYPH_248]",
+      "char": "b",
       "hex_bytes": "80f8",
-      "unicode": "N/A",
+      "unicode": "U+0062",
       "is_kanji": false
     },
     {
       "glyph_id": 249,
-      "char": "[GLYPH_249]",
+      "char": "c",
       "hex_bytes": "80f9",
-      "unicode": "N/A",
+      "unicode": "U+0063",
       "is_kanji": false
     },
     {
       "glyph_id": 250,
-      "char": "[GLYPH_250]",
+      "char": "d",
       "hex_bytes": "80fa",
-      "unicode": "N/A",
+      "unicode": "U+0064",
       "is_kanji": false
     },
     {
       "glyph_id": 251,
-      "char": "[GLYPH_251]",
+      "char": "e",
       "hex_bytes": "80fb",
-      "unicode": "N/A",
+      "unicode": "U+0065",
       "is_kanji": false
     },
     {
       "glyph_id": 252,
-      "char": "[GLYPH_252]",
+      "char": "f",
       "hex_bytes": "80fc",
-      "unicode": "N/A",
+      "unicode": "U+0066",
       "is_kanji": false
     },
     {
       "glyph_id": 253,
-      "char": "[GLYPH_253]",
+      "char": "g",
       "hex_bytes": "80fd",
-      "unicode": "N/A",
+      "unicode": "U+0067",
       "is_kanji": false
     },
     {
       "glyph_id": 254,
-      "char": "[GLYPH_254]",
+      "char": "h",
       "hex_bytes": "80fe",
-      "unicode": "N/A",
+      "unicode": "U+0068",
       "is_kanji": false
     },
     {
       "glyph_id": 255,
-      "char": "[GLYPH_255]",
+      "char": "i",
       "hex_bytes": "80ff",
-      "unicode": "N/A",
+      "unicode": "U+0069",
       "is_kanji": false
     },
     {
       "glyph_id": 256,
-      "char": "[GLYPH_256]",
+      "char": "j",
       "hex_bytes": "8100",
-      "unicode": "N/A",
+      "unicode": "U+006A",
       "is_kanji": false
     },
     {
       "glyph_id": 257,
-      "char": "[GLYPH_257]",
+      "char": "k",
       "hex_bytes": "8101",
-      "unicode": "N/A",
+      "unicode": "U+006B",
       "is_kanji": false
     },
     {
       "glyph_id": 258,
-      "char": "[GLYPH_258]",
+      "char": "l",
       "hex_bytes": "8102",
-      "unicode": "N/A",
+      "unicode": "U+006C",
       "is_kanji": false
     },
     {
       "glyph_id": 259,
-      "char": "[GLYPH_259]",
+      "char": "m",
       "hex_bytes": "8103",
-      "unicode": "N/A",
+      "unicode": "U+006D",
       "is_kanji": false
     },
     {
       "glyph_id": 260,
-      "char": "[GLYPH_260]",
+      "char": "n",
       "hex_bytes": "8104",
-      "unicode": "N/A",
+      "unicode": "U+006E",
       "is_kanji": false
     },
     {
       "glyph_id": 261,
-      "char": "[GLYPH_261]",
+      "char": "o",
       "hex_bytes": "8105",
-      "unicode": "N/A",
+      "unicode": "U+006F",
       "is_kanji": false
     },
     {
       "glyph_id": 262,
-      "char": "[GLYPH_262]",
+      "char": "p",
       "hex_bytes": "8106",
-      "unicode": "N/A",
+      "unicode": "U+0070",
       "is_kanji": false
     },
     {
       "glyph_id": 263,
-      "char": "[GLYPH_263]",
+      "char": "q",
       "hex_bytes": "8107",
-      "unicode": "N/A",
+      "unicode": "U+0071",
       "is_kanji": false
     },
     {
       "glyph_id": 264,
-      "char": "[GLYPH_264]",
+      "char": "r",
       "hex_bytes": "8108",
-      "unicode": "N/A",
+      "unicode": "U+0072",
       "is_kanji": false
     },
     {
       "glyph_id": 265,
-      "char": "[GLYPH_265]",
+      "char": "s",
       "hex_bytes": "8109",
-      "unicode": "N/A",
+      "unicode": "U+0073",
       "is_kanji": false
     },
     {
       "glyph_id": 266,
-      "char": "[GLYPH_266]",
+      "char": "t",
       "hex_bytes": "810a",
-      "unicode": "N/A",
+      "unicode": "U+0074",
       "is_kanji": false
     },
     {
       "glyph_id": 267,
-      "char": "[GLYPH_267]",
+      "char": "u",
       "hex_bytes": "810b",
-      "unicode": "N/A",
+      "unicode": "U+0075",
       "is_kanji": false
     },
     {
       "glyph_id": 268,
-      "char": "[GLYPH_268]",
+      "char": "v",
       "hex_bytes": "810c",
-      "unicode": "N/A",
+      "unicode": "U+0076",
       "is_kanji": false
     },
     {
       "glyph_id": 269,
-      "char": "[GLYPH_269]",
+      "char": "w",
       "hex_bytes": "810d",
-      "unicode": "N/A",
+      "unicode": "U+0077",
       "is_kanji": false
     },
     {
       "glyph_id": 270,
-      "char": "[GLYPH_270]",
+      "char": "x",
       "hex_bytes": "810e",
-      "unicode": "N/A",
+      "unicode": "U+0078",
       "is_kanji": false
     },
     {
       "glyph_id": 271,
-      "char": "[GLYPH_271]",
+      "char": "y",
       "hex_bytes": "810f",
-      "unicode": "N/A",
+      "unicode": "U+0079",
       "is_kanji": false
     },
     {
       "glyph_id": 272,
-      "char": "々",
+      "char": "z",
       "hex_bytes": "8110",
-      "unicode": "U+3005",
+      "unicode": "U+007A",
       "is_kanji": false
     },
     {
       "glyph_id": 273,
-      "char": "〇",
+      "char": "々",
       "hex_bytes": "8111",
-      "unicode": "U+3007",
+      "unicode": "U+3005",
       "is_kanji": false
     },
     {
