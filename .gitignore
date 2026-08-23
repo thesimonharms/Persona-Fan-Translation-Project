@@ -1,0 +1,28 @@
+# ROMs and Disc Images
+psx/
+*.bin
+*.cue
+*.iso
+*.img
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Build & Temporary extraction artifacts
+build/
+dist/
+extracted/
+scratch/
+*.tmp
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
