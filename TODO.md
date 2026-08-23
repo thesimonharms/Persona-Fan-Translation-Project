@@ -12,17 +12,17 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
   - [x] Extract all game files preserving directory hierarchy into `extracted/`.
   - [x] Parse and validate engine fast-lookup tables (`FNAME.DAT`, `FSECT.DAT`, `FSIZE.DAT`).
   - [x] Generate extraction manifest with LBA offsets, sector ranges, and file sizes (`extracted/manifest.json`).
-- [ ] **1.2. Asset Identification & Classification**
-  - [ ] Map all script files across `/TALK/` (demon negotiation), `/D00/`..`/D04/` (dungeons/events), and `NAME.BIN` (names/items).
-  - [ ] Document all file formats and compression types (if any).
+- [x] **1.2. Asset Identification & Classification**
+  - [x] Map all script files across `/TALK/` (demon negotiation), `/D00/`..`/D04/` (dungeons/events), and `NAME.BIN` (names/items).
+  - [x] Document all file formats and compression types.
 
 ---
 
 ### 🔤 Phase 2: Font & Character Mapping System
-- [ ] **2.1. Font Table Dumper (`tools/font_tool.py`)**
-  - [ ] Extract and decode 2,048 16x16 1-bpp glyph bitmaps from `FONT.BIN`.
-  - [ ] Generate comprehensive 2-byte Gojūon/Kanji table mapping file (`docs/tbl/persona_jp.tbl` and JSON).
-  - [ ] Create font previewer/renderer script (render glyphs to PNG/ASCII).
+- [x] **2.1. Font Table Dumper (`tools/font_tool.py`)**
+  - [x] Extract and decode 2,048 16x16 1-bpp glyph bitmaps from `FONT.BIN`.
+  - [x] Generate comprehensive 2-byte Gojūon/Kanji table mapping file (`docs/tbl/persona_jp.tbl` and JSON).
+  - [x] Create font previewer/renderer script (render glyphs to ASCII/bitmap).
 - [ ] **2.2. Font Expansion & VWF Support**
   - [ ] Design ASCII/half-width 8x16 font glyphs for English text.
   - [ ] Implement font table patcher for single-byte/half-width Latin characters.
@@ -31,12 +31,12 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
 ---
 
 ### 📜 Phase 3: Script & Bytecode Decompilation
-- [ ] **3.1. Script Parser & Decompiler (`tools/script_parser.py`)**
-  - [ ] Disassemble dialogue, control codes (`<PAGE>`, `<LINE>`, `<NAME>`, `<COLOR>`, `<CHOICE>`), and pointer tables.
-  - [ ] Parse Demon Negotiation scripts (`TALK/*.BIN`).
+- [x] **3.1. Script Parser & Decompiler (`tools/script_parser.py`)**
+  - [x] Disassemble dialogue, control codes (`<PAGE>`, `<LINE>`, `<NAME>`, `<COLOR>`, `<CHOICE>`), and pointer tables.
+  - [x] Parse Demon Negotiation scripts (`TALK/*.BIN` - 13,279 strings across 29 files).
   - [ ] Parse Story & Dungeon Event scripts (`D*/*S.BIN` / `*M.BIN`).
   - [ ] Parse Name/Item/Spell databases (`NAME.BIN`, `NAMEDT.BIN`).
-  - [ ] Export scripts to structured JSON/PO files in `scripts/original/`.
+  - [x] Export scripts to structured JSON files in `scripts/original/talk/`.
 - [ ] **3.2. Context & Scene Graph Extractor**
   - [ ] Link dialogue lines with speaker IDs, scene metadata, and branching choices.
 

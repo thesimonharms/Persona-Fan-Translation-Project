@@ -1,0 +1,2086 @@
+{
+  "file": "MAYOERU.BIN",
+  "type": "TALK_DEMON_NEGOTIATION",
+  "total_strings": 231,
+  "entries": [
+    {
+      "id": 0,
+      "pointer_offset": 20,
+      "target_offset": 8192,
+      "length_bytes": 19,
+      "raw_hex": "81fc817e6a82857780d7fffcfff65b6a00fff3",
+      "text_jp": "河丑ニ噛モ…<CLOSE><PAGE>キニ <CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 1,
+      "pointer_offset": 24,
+      "target_offset": 8231,
+      "length_bytes": 37,
+      "raw_hex": "007efff6830f5e7a656b0083ca818f6680d7fff55480cc80cc80d1fffcfff6fff30067fff6",
+      "text_jp": " レ<PAGE>吉コヨチヌ 掲雲ツ…<LINE>オ~~！<CLOSE><PAGE><CMD_f3> テ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 2,
+      "pointer_offset": 28,
+      "target_offset": 8268,
+      "length_bytes": 38,
+      "raw_hex": "81d25981a3834666808f0066536a808b80d1fff554809b809b80d1fffcfff681fc817e6a8285",
+      "text_jp": "殴オ鋭供ツヅ ツノニゼ！<LINE>オポポ！<CLOSE><PAGE>河丑ニ噛",
+      "translation_en": ""
+    },
+    {
+      "id": 3,
+      "pointer_offset": 32,
+      "target_offset": 8306,
+      "length_bytes": 41,
+      "raw_hex": "7780d7fffcfff6fff3006b0082fc5d53808afff581fc817e6a82857780d7fffcfff6fff30067008389",
+      "text_jp": "モ…<CLOSE><PAGE><CMD_f3> ヌ 亀ケノズ<LINE>河丑ニ噛モ…<CLOSE><PAGE><CMD_f3> テ 銀",
+      "translation_en": ""
+    },
+    {
+      "id": 4,
+      "pointer_offset": 36,
+      "target_offset": 8347,
+      "length_bytes": 47,
+      "raw_hex": "71fff682d77e0083687754650053546a808bfff55480cc80cc80d1fffc007257635980d1fff6606a81fc817e6a8145",
+      "text_jp": "ヘ<PAGE>喜レ 驚モオチ ノオニゼ<LINE>オ~~！<CLOSE> ホウソオ！<PAGE>シニ河丑ニ惟",
+      "translation_en": ""
+    },
+    {
+      "id": 5,
+      "pointer_offset": 40,
+      "target_offset": 8394,
+      "length_bytes": 36,
+      "raw_hex": "00fff36afff681b781f867005d64757a80d1fff581e07a81a383465e78006653fff6fff3",
+      "text_jp": " <CMD_f3>ニ<PAGE>沿暇テ ケタムヨ！<LINE>桶ヨ鋭供コヤ ツノ<PAGE><CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 6,
+      "pointer_offset": 44,
+      "target_offset": 8431,
+      "length_bytes": 45,
+      "raw_hex": "7e00859c5d64fff6837f5d536a5780d780d7fff584d37d7b7a00667f64fff6827b80a164740071665780a161ff",
+      "text_jp": "レ 蔀ケタ<PAGE>筋ケノニウ……<LINE>唆ルラヨ ツロタ<PAGE>叶ャタミ ヘツウャス",
+      "translation_en": ""
+    },
+    {
+      "id": 7,
+      "pointer_offset": 48,
+      "target_offset": 8476,
+      "length_bytes": 33,
+      "raw_hex": "fcfff681fc817e6a82850053538252808b66fff55480cc80cc80d1fffcfff6fff3",
+      "text_jp": "[G_252]<PAGE>河丑ニ噛 ノノ廓ゼツ<LINE>オ~~！<CLOSE><PAGE><CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 8,
+      "pointer_offset": 52,
+      "target_offset": 8509,
+      "length_bytes": 36,
+      "raw_hex": "006774fff6868979808100527a6a808b80d1fff5525480a180d7fffcfff681fc817e6a81",
+      "text_jp": " テミ<PAGE>浄ユヲ ヴヨニゼ！<LINE>ヴオャ…<CLOSE><PAGE>河丑ニ",
+      "translation_en": ""
+    },
+    {
+      "id": 9,
+      "pointer_offset": 56,
+      "target_offset": 8545,
+      "length_bytes": 45,
+      "raw_hex": "848081fff6fff07e0084d354656b80d780d7fff55480cc80cc80d1fffcfff6822b832f66824f7e008186737c80",
+      "text_jp": "港禍！？<CMD_f0>レ 唆オチヌ……<LINE>オ~~！<CLOSE><PAGE>改笈ツ劃レ 鰻マリ",
+      "translation_en": ""
+    },
+    {
+      "id": 10,
+      "pointer_offset": 60,
+      "target_offset": 8590,
+      "length_bytes": 48,
+      "raw_hex": "d1fff65b6a814580810056575d59667a80d1fff5525480a180d7fffcfff66c808f53840d00fffc6c808f5e80827a80d7",
+      "text_jp": "！<PAGE>キニ惟ヲ イウケオツヨ！<LINE>ヴオャ…<CLOSE><PAGE>ネヅノ謙 <CLOSE>ネヅコンヨ…",
+      "translation_en": ""
+    },
+    {
+      "id": 11,
+      "pointer_offset": 64,
+      "target_offset": 8638,
+      "length_bytes": 46,
+      "raw_hex": "fcfff66c808f535b65005c7b7a577480d7fff554809b809b80d1fffcfff6824f6b005353746a808b80d7fffcfff6",
+      "text_jp": "[G_252]<PAGE>ネヅノキチ クラヨウミ…<LINE>オポポ！<CLOSE><PAGE>劃ヌ ノノミニゼ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 12,
+      "pointer_offset": 68,
+      "target_offset": 8685,
+      "length_bytes": 38,
+      "raw_hex": "81fc817e6a84b57e00827b5381985f7a80d1fff5fff30067fff68198820d66535b65006653ff",
+      "text_jp": "河丑ニ獄レ 叶ノ栄サヨ！<LINE><CMD_f3> テ<PAGE>栄迦ツノキチ ツノ",
+      "translation_en": ""
+    },
+    {
+      "id": 13,
+      "pointer_offset": 72,
+      "target_offset": 8723,
+      "length_bytes": 45,
+      "raw_hex": "fcfff681fc817e6b0081f48277808b7c5466fff55480cc80cc80d1fffcfff6fff00065812481256b008144808f",
+      "text_jp": "[G_252]<PAGE>河丑ヌ 嫁褐ゼリオツ<LINE>オ~~！<CLOSE><PAGE><CMD_f0> チ鯵梓ヌ 尉ヅ",
+      "translation_en": ""
+    },
+    {
+      "id": 14,
+      "pointer_offset": 76,
+      "target_offset": 8768,
+      "length_bytes": 47,
+      "raw_hex": "545dfff684807166808f0082d85a686680d1fff554809b809b80d1fffcfff681fc817e6a812667008480707b7a6680",
+      "text_jp": "オケ<PAGE>港ヘツヅ 器カトツ！<LINE>オポポ！<CLOSE><PAGE>河丑ニ圧テ 港フラヨツ",
+      "translation_en": ""
+    },
+    {
+      "id": 15,
+      "pointer_offset": 80,
+      "target_offset": 8815,
+      "length_bytes": 47,
+      "raw_hex": "8ffff682d7825680927900808b7c545780d1fff55480cc80cc80d1fffcfff6fff3006b83b183b2808780a2665380d1",
+      "text_jp": "ヅ<PAGE>喜核バユ ゼリオウ！<LINE>オ~~！<CLOSE><PAGE><CMD_f3> ヌ勲君ゴュツノ！",
+      "translation_en": ""
+    },
+    {
+      "id": 16,
+      "pointer_offset": 84,
+      "target_offset": 8862,
+      "length_bytes": 47,
+      "raw_hex": "f654577b665380d100870e5c7b665380d1fff5525480a180d7fffcfff6841f86616b853b5380d7fffcfff681fc817e",
+      "text_jp": "！？オウラツノ！ 製クラツノ！<LINE>ヴオャ…<CLOSE><PAGE>絃礁ヌ酸ノ…<CLOSE><PAGE>河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 17,
+      "pointer_offset": 88,
+      "target_offset": 8910,
+      "length_bytes": 41,
+      "raw_hex": "6a818480d7fffc82d77e00865e7f808e537afff554809b809b80d1fffcfff6fff3006b81f75380d1ff",
+      "text_jp": "ニ欝…<CLOSE>喜レ 症ロヂノヨ<LINE>オポポ！<CLOSE><PAGE><CMD_f3> ヌ科ノ！",
+      "translation_en": ""
+    },
+    {
+      "id": 18,
+      "pointer_offset": 92,
+      "target_offset": 8951,
+      "length_bytes": 48,
+      "raw_hex": "fcfff681fc817e6a81260053535b65826754fff55b5b6b00827a5380d7fffcfff681aa833e808100665380d7fffcfff6",
+      "text_jp": "[G_252]<PAGE>河丑ニ圧 ノノキチ顎オ<LINE>キキヌ 鰹ノ…<CLOSE><PAGE>越距ヲ ツノ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 19,
+      "pointer_offset": 96,
+      "target_offset": 8999,
+      "length_bytes": 42,
+      "raw_hex": "81fc817e6a8184808100547875705d5380d7fff581fc817e6a81260083706358808b80d1fffcfff68512",
+      "text_jp": "河丑ニ欝ヲ オヤムフケノ…<LINE>河丑ニ圧 極ソエゼ！<CLOSE><PAGE>窄",
+      "translation_en": ""
+    },
+    {
+      "id": 20,
+      "pointer_offset": 100,
+      "target_offset": 9041,
+      "length_bytes": 47,
+      "raw_hex": "68536400fff3008081fff6747854808a80d1fff554809b809b80d1fffcfff681b763827882ca67006680a16180d1ff",
+      "text_jp": "トノタ <CMD_f3> ヲ<PAGE>ミヤオズ！<LINE>オポポ！<CLOSE><PAGE>沿ソ轄玩テ ツャス！",
+      "translation_en": ""
+    },
+    {
+      "id": 21,
+      "pointer_offset": 104,
+      "target_offset": 9088,
+      "length_bytes": 39,
+      "raw_hex": "f6526a828c808e00846367821663808a80d1fff5fff3006afff681f75c0081bc80a1647a00667f",
+      "text_jp": "！？ヴニ苅ヂ 垢テ臥ソズ！<LINE><CMD_f3> ニ<PAGE>科ク 燕ャタヨ ツロ",
+      "translation_en": ""
+    },
+    {
+      "id": 22,
+      "pointer_offset": 108,
+      "target_offset": 9127,
+      "length_bytes": 62,
+      "raw_hex": "64fff681fc817e6a812600557853808a80d1fff55480cc80cc80d1fffc00547a5c53808a80d1fffcfff6812481256a81268081008267545b657efff683bc",
+      "text_jp": "タ<PAGE>河丑ニ圧 アヤノズ！<LINE>オ~~！<CLOSE> オヨクノズ！<CLOSE><PAGE>鯵梓ニ圧ヲ 顎オキチレ<PAGE>傾",
+      "translation_en": ""
+    },
+    {
+      "id": 23,
+      "pointer_offset": 112,
+      "target_offset": 9189,
+      "length_bytes": 44,
+      "raw_hex": "80877a6f808f0082c66280927b64665380d1fff554809b809b80d1fffcfff6fff3006b0081f75380d1fff681",
+      "text_jp": "ゴヨヒヅ 丸セバラタツノ！<LINE>オポポ！<CLOSE><PAGE><CMD_f3> ヌ 科ノ！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 24,
+      "pointer_offset": 116,
+      "target_offset": 9233,
+      "length_bytes": 46,
+      "raw_hex": "fc817e6a8126007480a165853b80817b80d1fff55b5b827a5380d1fff6825a57538346808100535380d7fffcfff6",
+      "text_jp": "[G_252]丑ニ圧 ミャチ酸ヲラ！<LINE>キキ鰹ノ！<PAGE>穫ウノ供ヲ ノノ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 25,
+      "pointer_offset": 120,
+      "target_offset": 9279,
+      "length_bytes": 50,
+      "raw_hex": "81fc817e6a814500825a576054808b6680d7fff55480cc80cc80d1fffcfff3006bfff681fc817e6a82856700833581656680",
+      "text_jp": "河丑ニ惟 穫ウシオゼツ…<LINE>オ~~！<CLOSE><CMD_f3> ヌ<PAGE>河丑ニ噛テ 去允ツ",
+      "translation_en": ""
+    },
+    {
+      "id": 26,
+      "pointer_offset": 124,
+      "target_offset": 9329,
+      "length_bytes": 50,
+      "raw_hex": "8f665380d1fff665796359808a007d7b80d1fff5525480a180d7fffcfff6fff3006b8487008285808e527a80d7fffcfff681",
+      "text_jp": "ヅツノ！<PAGE>チユソオズ ルラ！<LINE>ヴオャ…<CLOSE><PAGE><CMD_f3> ヌ紅 噛ヂヴヨ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 27,
+      "pointer_offset": 128,
+      "target_offset": 9379,
+      "length_bytes": 23,
+      "raw_hex": "fc817e6a82857700820382be80a1615780d7fff554809b",
+      "text_jp": "[G_252]丑ニ噛モ 花鑑ャスウ…<LINE>オポ",
+      "translation_en": ""
+    },
+    {
+      "id": 28,
+      "pointer_offset": 132,
+      "target_offset": 9402,
+      "length_bytes": 42,
+      "raw_hex": "809b80d1fffcfff67780a15d80a280cc80d1fff581fc817e6a82858081fff6fff3006a00842682c96678",
+      "text_jp": "ポ！<CLOSE><PAGE>モャケュ~！<LINE>河丑ニ噛ヲ<PAGE><CMD_f3> ニ 古巌ツヤ",
+      "translation_en": ""
+    },
+    {
+      "id": 29,
+      "pointer_offset": 136,
+      "target_offset": 9444,
+      "length_bytes": 20,
+      "raw_hex": "f65b6a828c7400837f5d5300808b7c5466fff554",
+      "text_jp": "！？キニ苅ミ 筋ケノ ゼリオツ<LINE>オ",
+      "translation_en": ""
+    },
+    {
+      "id": 30,
+      "pointer_offset": 140,
+      "target_offset": 9465,
+      "length_bytes": 29,
+      "raw_hex": "80cc80cc80d1fffcfff66370787f80d180d1fff55980d7fffc82225d80",
+      "text_jp": "~~！<CLOSE><PAGE>ソフヤロ！！<LINE>オ…<CLOSE>壊ケ",
+      "translation_en": ""
+    },
+    {
+      "id": 31,
+      "pointer_offset": 144,
+      "target_offset": 9494,
+      "length_bytes": 32,
+      "raw_hex": "d7fffcfff6813468576500827b80a16180d7fff554809b809b80d1fffcfff682",
+      "text_jp": "…<CLOSE><PAGE>庵トウチ 叶ャス…<LINE>オポポ！<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 32,
+      "pointer_offset": 148,
+      "target_offset": 9526,
+      "length_bytes": 35,
+      "raw_hex": "1080810081675d00825a57596680a16180d1fff581fc817e6a82857780d7fffcfff6ff",
+      "text_jp": "たヲ 咽ケ 穫ウオツャス！<LINE>河丑ニ噛モ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 33,
+      "pointer_offset": 152,
+      "target_offset": 9561,
+      "length_bytes": 43,
+      "raw_hex": "f3006bfff681aa6a837a587e0082d8586153fff55480cc80cc80d1fffcfff681fc817e6a828c828d6a0081",
+      "text_jp": "＄ ヌ<PAGE>越ニ欣エレ 器エスノ<LINE>オ~~！<CLOSE><PAGE>河丑ニ苅瓦ニ ",
+      "translation_en": ""
+    },
+    {
+      "id": 34,
+      "pointer_offset": 156,
+      "target_offset": 9604,
+      "length_bytes": 44,
+      "raw_hex": "aa66808ffff682d8586159006653808a80d1fff55c798084665386eb86ec80d7fffcfff65b5b6b0084996153",
+      "text_jp": "Eツヅ<PAGE>器エスオ ツノズ！<LINE>クユギツノ据杉…<CLOSE><PAGE>キキヌ 酵スノ",
+      "translation_en": ""
+    },
+    {
+      "id": 35,
+      "pointer_offset": 160,
+      "target_offset": 9648,
+      "length_bytes": 43,
+      "raw_hex": "577800665380d7fffcfff662650082fc5d53fff5fff3006774fff681678256819281c38081005280a16180",
+      "text_jp": "ウヤ ツノ…<CLOSE><PAGE>セチ 亀ケノ<LINE><CMD_f3> テミ<PAGE>咽核叡鉛ヲ ヴャス",
+      "translation_en": ""
+    },
+    {
+      "id": 36,
+      "pointer_offset": 164,
+      "target_offset": 9691,
+      "length_bytes": 37,
+      "raw_hex": "d7fffcfff66663575d5300827b538198808bfff55480cc80cc80d1fffcfff682d77e005e7a",
+      "text_jp": "…<CLOSE><PAGE>ツソウケノ 叶ノ栄ゼ<LINE>オ~~！<CLOSE><PAGE>喜レ コヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 37,
+      "pointer_offset": 168,
+      "target_offset": 9728,
+      "length_bytes": 36,
+      "raw_hex": "80d1fff6fff3006b0083bd80a161808a80d1fff581fc817e6a82857780d7fffcfff6fff3",
+      "text_jp": "！<PAGE><CMD_f3> ヌ 刑ャスズ！<LINE>河丑ニ噛モ…<CLOSE><PAGE><CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 38,
+      "pointer_offset": 172,
+      "target_offset": 9764,
+      "length_bytes": 49,
+      "raw_hex": "007e008544575d64fff6837f5d536a5780d7fff570808b0081fc5864536184b5fff6fff3006a00833467005280a161fff6",
+      "text_jp": " レ 刺ウケタ<PAGE>筋ケノニウ…<LINE>フゼ 河エタノス獄<PAGE><CMD_f3> ニ 牛テ ヴャス<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 39,
+      "pointer_offset": 176,
+      "target_offset": 9813,
+      "length_bytes": 49,
+      "raw_hex": "57745d7b665380d7fffc81e07a83466780d7fff55480cc80cc80d1fffcfff6fff300808100830f5d536a6bfff681fc817e",
+      "text_jp": "ウミケラツノ…<CLOSE>桶ヨ供テ…<LINE>オ~~！<CLOSE><PAGE><CMD_f3> ヲ 吉ケノニヌ<PAGE>河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 40,
+      "pointer_offset": 180,
+      "target_offset": 9862,
+      "length_bytes": 42,
+      "raw_hex": "6a814580d100812e6a81d25881a3808b80d1fff554809b809b80d1fffcfff6607b527a6500825a575357",
+      "text_jp": "ニ惟！ 綾ニ殴エ鋭ゼ！<LINE>オポポ！<CLOSE><PAGE>シラヴヨチ 穫ウノウ",
+      "translation_en": ""
+    },
+    {
+      "id": 41,
+      "pointer_offset": 184,
+      "target_offset": 9904,
+      "length_bytes": 49,
+      "raw_hex": "7480d7fffcfff6808b80a161780082fc5d53fff581fc817e6a82856a008267545b65fff683af5d530057745d7b6653fffc",
+      "text_jp": "ミ…<CLOSE><PAGE>ゼャスヤ 亀ケノ<LINE>河丑ニ噛ニ 顎オキチ<PAGE>桑ケノ ウミケラツノ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 42,
+      "pointer_offset": 188,
+      "target_offset": 9953,
+      "length_bytes": 53,
+      "raw_hex": "f6844983a57b00835983d35d64757a808afff55480cc80cc80d1fffcfff682ca808e6b00667f65808e74008267557a80d1fff681f7",
+      "text_jp": "！？梧窟ラ 挟経ケタムヨズ<LINE>オ~~！<CLOSE><PAGE>玩ヂヌ ツロチヂミ 顎アヨ！<PAGE>科",
+      "translation_en": ""
+    },
+    {
+      "id": 43,
+      "pointer_offset": 192,
+      "target_offset": 10007,
+      "length_bytes": 43,
+      "raw_hex": "59816253595f670081fc81c58218808b80d1fff554809b809b80d1fffcfff681815880810053536680d1ff",
+      "text_jp": "オ茨ノオサテ 河塩蛾ゼ！<LINE>オポポ！<CLOSE><PAGE>渦エヲ ノノツ！",
+      "translation_en": ""
+    },
+    {
+      "id": 44,
+      "pointer_offset": 196,
+      "target_offset": 10050,
+      "length_bytes": 49,
+      "raw_hex": "f681fc817e667800575900527a809358808bfff581fc817e6a82857780d7fffcfff683bd86a578665965740082d85b557a",
+      "text_jp": "！？河丑ツヤ ウオ ヴヨビエゼ<LINE>河丑ニ噛モ…<CLOSE><PAGE>刑寝ヤツオチミ 器キアヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 45,
+      "pointer_offset": 200,
+      "target_offset": 10099,
+      "length_bytes": 43,
+      "raw_hex": "fcfff65d575d0081115866840d00535366fff55480cc80cc80d1fffcfff6fff3006b0081628144808e527a",
+      "text_jp": "[G_252]<PAGE>ケウケ 〇エツ謙 ノノツ<LINE>オ~~！<CLOSE><PAGE><CMD_f3> ヌ 茨尉ヂヴヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 46,
+      "pointer_offset": 204,
+      "target_offset": 10143,
+      "length_bytes": 38,
+      "raw_hex": "80d1fff681fc817e6a82850082ec5f665366fff5525480a180d7fffcfff65c80d7fffc827a53",
+      "text_jp": "！<PAGE>河丑ニ噛 汽サツノツ<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>鰹ノ",
+      "translation_en": ""
+    },
+    {
+      "id": 47,
+      "pointer_offset": 208,
+      "target_offset": 10181,
+      "length_bytes": 52,
+      "raw_hex": "80d7fffcfff6fff3006b00813d59665380d7fff581fc817e6a828574008134698090fff6fff3006a83946700667b7a808afffcff",
+      "text_jp": "…<CLOSE><PAGE><CMD_f3> ヌ 位オツノ…<LINE>河丑ニ噛ミ 庵ナデ<PAGE><CMD_f3> ニ駈テ ツラヨズ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 48,
+      "pointer_offset": 212,
+      "target_offset": 10233,
+      "length_bytes": 53,
+      "raw_hex": "f65d575d005b5b6b0084e95964827a5380d7fff581fc817e808b5778650082a36782667a6680d1fff6fff3006b0081fc817e6a6359",
+      "text_jp": "！？ケウケ キキヌ 彩オタ鰹ノ…<LINE>河丑ゼウヤチ 敢テ額ヨツ！<PAGE><CMD_f3> ヌ 河丑ニソオ",
+      "translation_en": ""
+    },
+    {
+      "id": 49,
+      "pointer_offset": 216,
+      "target_offset": 10286,
+      "length_bytes": 43,
+      "raw_hex": "8370fff65e8083007d577a6a808b80d180d1fff554809b809b80d1fffcfff681fc817e6a82856a00826754",
+      "text_jp": "極<PAGE>コガ ルウヨニゼ！！<LINE>オポポ！<CLOSE><PAGE>河丑ニ噛ニ 顎オ",
+      "translation_en": ""
+    },
+    {
+      "id": 50,
+      "pointer_offset": 220,
+      "target_offset": 10329,
+      "length_bytes": 50,
+      "raw_hex": "81ba7980d1fff6fff3006b005c535b5480d1fff5667a6f808f80d7fffc607b8081fff6526a828c808e0083d181d280a1647a",
+      "text_jp": "焔ユ！<PAGE><CMD_f3> ヌ クノキオ！<LINE>ツヨヒヅ…<CLOSE>シラヲ<PAGE>ヴニ苅ヂ 稽殴ャタヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 51,
+      "pointer_offset": 224,
+      "target_offset": 10379,
+      "length_bytes": 55,
+      "raw_hex": "0084a3795780d7fffcfff3007484a3796153fff55480cc80cc80d1fffcfff681fc817e6a81457e00821b5f809178575e6680d1fffcfff6",
+      "text_jp": " 剛ユウ…<CLOSE><CMD_f3> ミ剛ユスノ<LINE>オ~~！<CLOSE><PAGE>河丑ニ惟レ 餓サドヤウコツ！<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 52,
+      "pointer_offset": 228,
+      "target_offset": 10434,
+      "length_bytes": 55,
+      "raw_hex": "5480cc80cc80d1fffc00821867597d7f80d1fff581fc817e6a82857780d7fffc83725381456afff67d79676b0082d4832f53808a80d1ff",
+      "text_jp": "オ~~！<CLOSE> 蛾テオルロ！<LINE>河丑ニ噛モ…<CLOSE>桐ノ惟ニ<PAGE>ルユテヌ 企笈ノズ！",
+      "translation_en": ""
+    },
+    {
+      "id": 53,
+      "pointer_offset": 232,
+      "target_offset": 10489,
+      "length_bytes": 39,
+      "raw_hex": "f681346980900077798452755767667a80d1fff5841a846053808a0081fc817e6a828580d1fffc",
+      "text_jp": "！？庵ナデ モユ鯉ムウテツヨ！<LINE>弦后ノズ 河丑ニ噛！<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 54,
+      "pointer_offset": 236,
+      "target_offset": 10528,
+      "length_bytes": 47,
+      "raw_hex": "f681b15d5382678351576500827b80a161fff55480cc80cc80d1fffcfff6fff30067008516836257545780d1fff681",
+      "text_jp": "！？奄ケノ顎喬ウチ 叶ャス<LINE>オ~~！<CLOSE><PAGE><CMD_f3> テ 桜興ウオウ！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 55,
+      "pointer_offset": 240,
+      "target_offset": 10576,
+      "length_bytes": 42,
+      "raw_hex": "fc817e6a8251828d7e0083305564757a80d1fff5525480a180d7fffcfff65980d7fffc82225d53fffcff",
+      "text_jp": "[G_252]丑ニ各瓦レ 級アタムヨ！<LINE>ヴオャ…<CLOSE><PAGE>オ…<CLOSE>壊ケノ<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 56,
+      "pointer_offset": 244,
+      "target_offset": 10618,
+      "length_bytes": 40,
+      "raw_hex": "f6821f665357780082e280847754576680d7fff5821b6373787b7a65fff6667f808b5700825a5753",
+      "text_jp": "！？解ツノウヤ 机ギモオウツ…<LINE>餓ソマヤラヨチ<PAGE>ツロゼウ 穫ウノ",
+      "translation_en": ""
+    },
+    {
+      "id": 57,
+      "pointer_offset": 248,
+      "target_offset": 10658,
+      "length_bytes": 47,
+      "raw_hex": "80d7fffcfff67480a16500821b637364597bfff55480cc80cc80d1fffcfff6856582386a00849a83a66b00835d5380",
+      "text_jp": "…<CLOSE><PAGE>ミャチ 餓ソマタオラ<LINE>オ~~！<CLOSE><PAGE>至貝ニ 鉱沓ヌ 狂ノ",
+      "translation_en": ""
+    },
+    {
+      "id": 58,
+      "pointer_offset": 252,
+      "target_offset": 10705,
+      "length_bytes": 34,
+      "raw_hex": "d1fff6821b7a6680d10083b183b2746a80d1fff5846c7e00827b5381985e80d7fffc",
+      "text_jp": "！<PAGE>餓ヨツ！ 勲君ミニ！<LINE>広レ 叶ノ栄コ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 59,
+      "pointer_offset": 256,
+      "target_offset": 10739,
+      "length_bytes": 49,
+      "raw_hex": "f6526a85456b00808f545d647a576680d7fff582e682e7660081aa808780a266535780d1fffcfff67580a180957900526a",
+      "text_jp": "！？ヴニ司ヌ ヅオケタヨウツ…<LINE>棋棄ツ 越ゴュツノウ！<CLOSE><PAGE>ムャベユ ヴニ",
+      "translation_en": ""
+    },
+    {
+      "id": 60,
+      "pointer_offset": 260,
+      "target_offset": 10789,
+      "length_bytes": 46,
+      "raw_hex": "828c6bfff6841a84606054808b66809a80d7fff55480cc80cc80d1fffcfff681fc817e6a82850083707e00635966",
+      "text_jp": "苅ヌ<PAGE>弦后シオゼツペ…<LINE>オ~~！<CLOSE><PAGE>河丑ニ噛 極レ ソオツ",
+      "translation_en": ""
+    },
+    {
+      "id": 61,
+      "pointer_offset": 264,
+      "target_offset": 10835,
+      "length_bytes": 48,
+      "raw_hex": "80d1fff6fff30083b183b267005e7a6680d1fff554809b809b80d1fffcfff681aa6a00811280810081b9556180d1fff6",
+      "text_jp": "！<PAGE><CMD_f3> 勲君テ コヨツ！<LINE>オポポ！<CLOSE><PAGE>越ニ 亜ヲ 炎アス！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 62,
+      "pointer_offset": 268,
+      "target_offset": 10883,
+      "length_bytes": 52,
+      "raw_hex": "526a828c808e0082c75700870e5d64757c54fff55480cc80cc80d1fffc00fff30067fff6853b53005b65667f5700665380d1fff6",
+      "text_jp": "ヴニ苅ヂ 含ウ 製ケタムリオ<LINE>オ~~！<CLOSE> <CMD_f3> テ<PAGE>酸ノ キチツロウ ツノ！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 63,
+      "pointer_offset": 272,
+      "target_offset": 10935,
+      "length_bytes": 37,
+      "raw_hex": "5480cc80cc80d1fffc00715980917a6680d1fff5525480a180d7fffcfff65c80d7fffc827a",
+      "text_jp": "オ~~！<CLOSE> ヘオドヨツ！<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>鰹",
+      "translation_en": ""
+    },
+    {
+      "id": 64,
+      "pointer_offset": 276,
+      "target_offset": 10972,
+      "length_bytes": 50,
+      "raw_hex": "5380d7fffcfff65980d7fffc82225d5380d7fff554809b809b80d1fffcfff681fc817e6a81266b00607f6681aa8081fff685",
+      "text_jp": "ノ…<CLOSE><PAGE>オ…<CLOSE>壊ケノ…<LINE>オポポ！<CLOSE><PAGE>河丑ニ圧ヌ シロツ越ヲ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 65,
+      "pointer_offset": 280,
+      "target_offset": 11022,
+      "length_bytes": 48,
+      "raw_hex": "3b536a5780d0fffc0083b183b2808b66809afff55353840d7e005d647a66fff681fc817e6a812677fffc00834c598134",
+      "text_jp": "づノニウ？<CLOSE> 勲君ゼツペ<LINE>ノノ謙レ ケタヨツ<PAGE>河丑ニ圧モ<CLOSE> 凶オ庵",
+      "translation_en": ""
+    },
+    {
+      "id": 66,
+      "pointer_offset": 284,
+      "target_offset": 11070,
+      "length_bytes": 41,
+      "raw_hex": "7f808efff6fff300650083ba6700824f5654fff55480cc80cc80d1fffcfff6822b832f66824f7e0081",
+      "text_jp": "ロヂ<PAGE><CMD_f3> チ 祁テ 劃イオ<LINE>オ~~！<CLOSE><PAGE>改笈ツ劃レ ",
+      "translation_en": ""
+    },
+    {
+      "id": 67,
+      "pointer_offset": 288,
+      "target_offset": 11111,
+      "length_bytes": 41,
+      "raw_hex": "86737c80d1fff6775a5300827a59667a80d1fff554809b809b80d1fffcfff6824f6b007753746a808b",
+      "text_jp": "賞リ！<PAGE>モカノ 鰹オツヨ！<LINE>オポポ！<CLOSE><PAGE>劃ヌ モノミニゼ",
+      "translation_en": ""
+    },
+    {
+      "id": 68,
+      "pointer_offset": 292,
+      "target_offset": 11152,
+      "length_bytes": 49,
+      "raw_hex": "80d7fffcfff68218814380810084437a80d1fff581fc817e6a81267780d7fffcfff6808f545354811483887e005d64537a",
+      "text_jp": "…<CLOSE><PAGE>蛾威ヲ 呉ヨ！<LINE>河丑ニ圧モ…<CLOSE><PAGE>ヅオノオ娃吟レ ケタノヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 69,
+      "pointer_offset": 296,
+      "target_offset": 11201,
+      "length_bytes": 56,
+      "raw_hex": "80d0fff6fff3006b0081fc817e650082cf54fff55480cc80cc80d1fffc00fff3006774fff68689798081527a80d1fffc00605453545b656b",
+      "text_jp": "？<PAGE><CMD_f3> ヌ 河丑チ 贋オ<LINE>オ~~！<CLOSE> <CMD_f3> テミ<PAGE>浄ユヲヴヨ！<CLOSE> シオノオキチヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 70,
+      "pointer_offset": 300,
+      "target_offset": 11257,
+      "length_bytes": 46,
+      "raw_hex": "f681fc817e6a824e82dd670082675580d1fff581fc817e6a84b56b00fff3006774fff68139808100536180d7fffc",
+      "text_jp": "！？河丑ニ鈎岐テ 顎ア！<LINE>河丑ニ獄ヌ <CMD_f3> テミ<PAGE>鞍ヲ ノス…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 71,
+      "pointer_offset": 304,
+      "target_offset": 11304,
+      "length_bytes": 34,
+      "raw_hex": "f684955d8092796700827b5381985d6177fff581fc817e6a8126670084d37d7b6180",
+      "text_jp": "！？講ケバユテ 叶ノ栄ケスモ<LINE>河丑ニ圧テ 唆ルラス",
+      "translation_en": ""
+    },
+    {
+      "id": 72,
+      "pointer_offset": 308,
+      "target_offset": 11339,
+      "length_bytes": 49,
+      "raw_hex": "d7fffcfff65c82be546a7400813d59665366fff55480cc80cc80d1fffc00fff3006bfff682de82376a00757a5b65fff681",
+      "text_jp": "…<CLOSE><PAGE>ク鑑オニミ 位オツノツ<LINE>オ~~！<CLOSE> <CMD_f3> ヌ<PAGE>希階ニ ムヨキチ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 73,
+      "pointer_offset": 312,
+      "target_offset": 11388,
+      "length_bytes": 55,
+      "raw_hex": "bc80a1647a80d100fffc607b6b82cf5480d1fff5fff3006b0086128160808b8081fff681fc817e6a830381f96b008198820d6653577480",
+      "text_jp": "Wャタヨ！ <CLOSE>シラヌ贋オ！<LINE><CMD_f3> ヌ 循逸ゼヲ<PAGE>河丑ニ擬果ヌ 栄迦ツノウミ",
+      "translation_en": ""
+    },
+    {
+      "id": 74,
+      "pointer_offset": 316,
+      "target_offset": 11443,
+      "length_bytes": 46,
+      "raw_hex": "d7fff65a808f0084d3536b0082fc5d53808afff5813d82ca5780d7fffcfff681fc817e6a81848081007759826754",
+      "text_jp": "…<PAGE>カヅ 唆ノヌ 亀ケノズ<LINE>位玩ウ…<CLOSE><PAGE>河丑ニ欝ヲ モオ顎オ",
+      "translation_en": ""
+    },
+    {
+      "id": 75,
+      "pointer_offset": 320,
+      "target_offset": 11489,
+      "length_bytes": 23,
+      "raw_hex": "80d7fffcfff6fff3006b82677d6653006a67fff581fc81",
+      "text_jp": "…<CLOSE><PAGE><CMD_f3> ヌ顎ルツノ ニテ<LINE>河",
+      "translation_en": ""
+    },
+    {
+      "id": 76,
+      "pointer_offset": 324,
+      "target_offset": 11512,
+      "length_bytes": 36,
+      "raw_hex": "7e6a00595f67fff681c5821880817a6680d1fff5525480a180d7fffcfff65c80d7fffc82",
+      "text_jp": "レニ オサテ<PAGE>塩蛾ヲヨツ！<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 77,
+      "pointer_offset": 328,
+      "target_offset": 11548,
+      "length_bytes": 56,
+      "raw_hex": "7a5380d7fffcfff66380d7fffc86575380d7fff582938158650082f880926a6bfff681fc817e6a00818f84906a007754808bfffcfff6526a",
+      "text_jp": "ヨノ…<CLOSE><PAGE>ソ…<CLOSE>沼ノ…<LINE>勘亥チ 輝バニヌ<PAGE>河丑ニ 雲膏ニ モオゼ<CLOSE><PAGE>ヴニ",
+      "translation_en": ""
+    },
+    {
+      "id": 78,
+      "pointer_offset": 332,
+      "target_offset": 11604,
+      "length_bytes": 44,
+      "raw_hex": "824181107e0082e4819a808e587a577480d7fff55480cc80cc80d1fffcfff6fff300670082d77e0082267280",
+      "text_jp": "涯々レ 既泳ヂエヨウミ…<LINE>オ~~！<CLOSE><PAGE><CMD_f3> テ 喜レ 悔ホ",
+      "translation_en": ""
+    },
+    {
+      "id": 79,
+      "pointer_offset": 336,
+      "target_offset": 11648,
+      "length_bytes": 44,
+      "raw_hex": "d0fffcfff67d57787f00808e6b66535780d1fff554809b809b80d1fffcfff681fc817e6a8126667f64fff674",
+      "text_jp": "？<CLOSE><PAGE>ルウヤロ ヂヌツノウ！<LINE>オポポ！<CLOSE><PAGE>河丑ニ圧ツロタ<PAGE>ミ",
+      "translation_en": ""
+    },
+    {
+      "id": 80,
+      "pointer_offset": 340,
+      "target_offset": 11692,
+      "length_bytes": 53,
+      "raw_hex": "5481628188808b6500827b80a164536180d1fff581fc817e6a81267780d7fffc607f6667fff682d6808100865753667800fffc8134",
+      "text_jp": "オ茨厩ゼチ 叶ャタノス！<LINE>河丑ニ圧モ…<CLOSE>シロツテ<PAGE>危ヲ 沼ノツヤ <CLOSE>庵",
+      "translation_en": ""
+    },
+    {
+      "id": 81,
+      "pointer_offset": 344,
+      "target_offset": 11745,
+      "length_bytes": 50,
+      "raw_hex": "7f808efff6fff3006700667a80815353808afff55480cc80cc80d1fffcfff68145808100527a808b5a0082315365827b5580",
+      "text_jp": "ロヂ<PAGE><CMD_f3> テ ツヨヲノノズ<LINE>オ~~！<CLOSE><PAGE>惟ヲ ヴヨゼカ 界ノチ叶ア",
+      "translation_en": ""
+    },
+    {
+      "id": 82,
+      "pointer_offset": 348,
+      "target_offset": 11795,
+      "length_bytes": 44,
+      "raw_hex": "d1fff6fff300808100747854808a80d180d1fff5525480a180d7fffcfff65c80d7fffc827a6054808b6680d7",
+      "text_jp": "！<PAGE><CMD_f3> ヲ ミヤオズ！！<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>鰹シオゼツ…",
+      "translation_en": ""
+    },
+    {
+      "id": 83,
+      "pointer_offset": 352,
+      "target_offset": 11839,
+      "length_bytes": 45,
+      "raw_hex": "fcfff681fc817e740086815d536a5780d7fff581fc817e6a81267780d7fffcfff6fff30067839354746a006653",
+      "text_jp": "[G_252]<PAGE>河丑ミ 場ケノニウ…<LINE>河丑ニ圧モ…<CLOSE><PAGE><CMD_f3> テ駆オミニ ツノ",
+      "translation_en": ""
+    },
+    {
+      "id": 84,
+      "pointer_offset": 356,
+      "target_offset": 11885,
+      "length_bytes": 48,
+      "raw_hex": "f6859c5d647400816281c58165808b808afff5fff3006b8162814480d1fff6839354746a0082d774665380d180d1fff6",
+      "text_jp": "！？蔀ケタミ 茨塩允ゼズ<LINE><CMD_f3> ヌ茨尉！<PAGE>駆オミニ 喜ミツノ！！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 85,
+      "pointer_offset": 360,
+      "target_offset": 11934,
+      "length_bytes": 30,
+      "raw_hex": "81fc817e6a8145808100830f5d5380d180d1fff5525480a180d7fffcfff6",
+      "text_jp": "河丑ニ惟ヲ 吉ケノ！！<LINE>ヴオャ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 86,
+      "pointer_offset": 364,
+      "target_offset": 11964,
+      "length_bytes": 49,
+      "raw_hex": "f3007efff6859c5d6400837f5d535780d7fff5fff3007e00538087737a6680d1fffcfff65b7b808e6b0081fc817e6a84b5",
+      "text_jp": "＄ レ<PAGE>蔀ケタ 筋ケノウ…<LINE><CMD_f3> レ ノゴマヨツ！<CLOSE><PAGE>キラヂヌ 河丑ニ獄",
+      "translation_en": ""
+    },
+    {
+      "id": 87,
+      "pointer_offset": 368,
+      "target_offset": 12014,
+      "length_bytes": 45,
+      "raw_hex": "65fff6817d7d78665300808e6b66535780d1fff5525480a180d7fffcfff65e808559827a5380d7fffc827a5357",
+      "text_jp": "チ<PAGE>窺ルヤツノ ヂヌツノウ！<LINE>ヴオャ…<CLOSE><PAGE>コグオ鰹ノ…<CLOSE>鰹ノウ",
+      "translation_en": ""
+    },
+    {
+      "id": 88,
+      "pointer_offset": 372,
+      "target_offset": 12059,
+      "length_bytes": 59,
+      "raw_hex": "78fff66780d7fffc82e280847754576680d7fff554809b809b80d1fffc0053808773787b7a6afff681c5811f6500821881fb628081535380d7fffc",
+      "text_jp": "ヤ<PAGE>テ…<CLOSE>机ギモオウツ…<LINE>オポポ！<CLOSE> ノゴマヤラヨニ<PAGE>塩握チ 蛾歌セヲノノ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 89,
+      "pointer_offset": 376,
+      "target_offset": 12118,
+      "length_bytes": 68,
+      "raw_hex": "f682d75767008238826f736171615380d7fff581fc817e6a81266a008267545b65fff67480a16574808b80d7fffbfff7745d575d61780081fc817e6a8126fff6fff3006a",
+      "text_jp": "！？喜ウテ 貝割マスヘスノ…<LINE>河丑ニ圧ニ 顎オキチ<PAGE>ミャチミゼ…<CMD_fb><CMD_f7>ミケウケスヤ 河丑ニ圧<PAGE><CMD_f3> ニ",
+      "translation_en": ""
+    },
+    {
+      "id": 90,
+      "pointer_offset": 380,
+      "target_offset": 12187,
+      "length_bytes": 58,
+      "raw_hex": "0081e07a8346fff681bc80a1647a577480d7fff581fc817e6a81266700fff3006afff682d78081007d577a6a808b80d1fffcfff65480cc80cc80",
+      "text_jp": " 桶ヨ供<PAGE>燕ャタヨウミ…<LINE>河丑ニ圧テ <CMD_f3> ニ<PAGE>喜ヲ ルウヨニゼ！<CLOSE><PAGE>オ~~",
+      "translation_en": ""
+    },
+    {
+      "id": 91,
+      "pointer_offset": 384,
+      "target_offset": 12245,
+      "length_bytes": 47,
+      "raw_hex": "d1fffc0081fc81c58218808b808a80d180d1fff581fc6a85f9816586ed6b0083155366fffcfff65d57740077590082",
+      "text_jp": "！<CLOSE> 河塩蛾ゼズ！！<LINE>河ニ渋允椙ヌ 砧ノツ<CLOSE><PAGE>ケウミ モオ ",
+      "translation_en": ""
+    },
+    {
+      "id": 92,
+      "pointer_offset": 388,
+      "target_offset": 12292,
+      "length_bytes": 57,
+      "raw_hex": "915780a16464fff6842a81656054808b80d7fff55480cc80cc80d1fffc00fff3006bfff682168401668111812480d1fffc00605453545b656b",
+      "text_jp": "ドウャタタ<PAGE>孤允シオゼ…<LINE>オ~~！<CLOSE> <CMD_f3> ヌ<PAGE>臥捲ツ〇鯵！<CLOSE> シオノオキチヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 93,
+      "pointer_offset": 392,
+      "target_offset": 12349,
+      "length_bytes": 40,
+      "raw_hex": "f682de82376a824e82dd670082675580d1fff5525480a180d7fffcfff65b80d7fffc853b5380d7ff",
+      "text_jp": "！？希階ニ鈎岐テ 顎ア！<LINE>ヴオャ…<CLOSE><PAGE>キ…<CLOSE>酸ノ…",
+      "translation_en": ""
+    },
+    {
+      "id": 94,
+      "pointer_offset": 396,
+      "target_offset": 12390,
+      "length_bytes": 47,
+      "raw_hex": "fcfff66780d7fffc82e280847754576680d7fff5fff300740081fc817e6a84b56bfff67759008139670083bd787b61",
+      "text_jp": "[G_252]<PAGE>テ…<CLOSE>机ギモオウツ…<LINE><CMD_f3> ミ 河丑ニ獄ヌ<PAGE>モオ 鞍テ 刑ヤラス",
+      "translation_en": ""
+    },
+    {
+      "id": 95,
+      "pointer_offset": 400,
+      "target_offset": 12437,
+      "length_bytes": 41,
+      "raw_hex": "f684955d8092796700827b5381985d6177fff581fc817e6a81267780d7fffcfff6637b6659005d6653",
+      "text_jp": "！？講ケバユテ 叶ノ栄ケスモ<LINE>河丑ニ圧モ…<CLOSE><PAGE>ソラツオ ケツノ",
+      "translation_en": ""
+    },
+    {
+      "id": 96,
+      "pointer_offset": 404,
+      "target_offset": 12479,
+      "length_bytes": 56,
+      "raw_hex": "808efff6526a828c6a0081aa7e005d64597bfff55480cc80cc80d1fffc008162849a5c7b6180d1fffcfff67280855380d1fffc0081fc817e",
+      "text_jp": "ヂ<PAGE>ヴニ苅ニ 越レ ケタオラ<LINE>オ~~！<CLOSE> 茨鉱クラス！<CLOSE><PAGE>ホグノ！<CLOSE> 河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 97,
+      "pointer_offset": 408,
+      "target_offset": 12535,
+      "length_bytes": 38,
+      "raw_hex": "6afff6595f6700825a5759006653808a80d1fff5525480a180d7fffcfff65c80d7fffc827a53",
+      "text_jp": "ニ<PAGE>オサテ 穫ウオ ツノズ！<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>鰹ノ",
+      "translation_en": ""
+    },
+    {
+      "id": 98,
+      "pointer_offset": 412,
+      "target_offset": 12573,
+      "length_bytes": 41,
+      "raw_hex": "80d7fffcfff65b5b7400827a5e80827a80d7fff581fc817e6a82857780d7fffcfff682be557a00fff3",
+      "text_jp": "…<CLOSE><PAGE>キキミ 鰹コンヨ…<LINE>河丑ニ噛モ…<CLOSE><PAGE>鑑アヨ <CMD_f3>",
+      "translation_en": ""
+    },
+    {
+      "id": 99,
+      "pointer_offset": 416,
+      "target_offset": 12614,
+      "length_bytes": 56,
+      "raw_hex": "006afff681aa8157832f67006680a164597bfff55480cc80cc80d1fffc008162849a5c7b6180d1fffcfff67280855380d1fffc0081fc817e",
+      "text_jp": " ニ<PAGE>越井笈テ ツャタオラ<LINE>オ~~！<CLOSE> 茨鉱クラス！<CLOSE><PAGE>ホグノ！<CLOSE> 河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 100,
+      "pointer_offset": 420,
+      "target_offset": 12670,
+      "length_bytes": 53,
+      "raw_hex": "6afff6595f6700825a5759006653808a80d1fff5525480a180d7fffcfff65b5b6b00808f80d7fffc808f5b808b7c5480d7fffcfff6",
+      "text_jp": "ニ<PAGE>オサテ 穫ウオ ツノズ！<LINE>ヴオャ…<CLOSE><PAGE>キキヌ ヅ…<CLOSE>ヅキゼリオ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 101,
+      "pointer_offset": 424,
+      "target_offset": 12723,
+      "length_bytes": 46,
+      "raw_hex": "849961530081fc817e8090577900537a80d7fff581fc817e6a82857780d7fffcfff6606a81450081815880810053",
+      "text_jp": "酵スノ 河丑デウユ ノヨ…<LINE>河丑ニ噛モ…<CLOSE><PAGE>シニ惟 渦エヲ ノ",
+      "translation_en": ""
+    },
+    {
+      "id": 102,
+      "pointer_offset": 428,
+      "target_offset": 12769,
+      "length_bytes": 50,
+      "raw_hex": "5366fff6fff3006b830f5d596680a16180d1fff55480cc80cc80d1fffcfff6fff3006b00853b808178665380d1fff681fc81",
+      "text_jp": "ノツ<PAGE><CMD_f3> ヌ吉ケオツャス！<LINE>オ~~！<CLOSE><PAGE><CMD_f3> ヌ 酸ヲヤツノ！<PAGE>河",
+      "translation_en": ""
+    },
+    {
+      "id": 103,
+      "pointer_offset": 432,
+      "target_offset": 12819,
+      "length_bytes": 44,
+      "raw_hex": "7e6a814500832f670081ae7b7a70808e80d1fff5525480a180d7fffcfff6fff30082be80a1647a808b5a80d7",
+      "text_jp": "レニ惟 笈テ 円ラヨフヂ！<LINE>ヴオャ…<CLOSE><PAGE><CMD_f3> 鑑ャタヨゼカ…",
+      "translation_en": ""
+    },
+    {
+      "id": 104,
+      "pointer_offset": 436,
+      "target_offset": 12863,
+      "length_bytes": 44,
+      "raw_hex": "fcfff666808900811e81167e005e7a80d7fff55480cc80cc80d1fffcfff67557705d53808a80d10081fc817e",
+      "text_jp": "[G_252]<PAGE>ツジ 悪哀レ コヨ…<LINE>オ~~！<CLOSE><PAGE>ムウフケノズ！ 河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 105,
+      "pointer_offset": 440,
+      "target_offset": 12908,
+      "length_bytes": 33,
+      "raw_hex": "80d1fff6815580a16400757c545780d180d1fff5525480a180d7fffcfff681fc81",
+      "text_jp": "！<PAGE>遺ャタ ムリオウ！！<LINE>ヴオャ…<CLOSE><PAGE>河",
+      "translation_en": ""
+    },
+    {
+      "id": 106,
+      "pointer_offset": 444,
+      "target_offset": 12941,
+      "length_bytes": 52,
+      "raw_hex": "7e6a82858081fff656575d596680a16180d7fff5607b6b0081fc817e6a86eb86ec5780d0fffcfff6fff30080810081fc58645361",
+      "text_jp": "レニ噛ヲ<PAGE>イウケオツャス…<LINE>シラヌ 河丑ニ据杉ウ？<CLOSE><PAGE><CMD_f3> ヲ 河エタノス",
+      "translation_en": ""
+    },
+    {
+      "id": 107,
+      "pointer_offset": 448,
+      "target_offset": 12993,
+      "length_bytes": 47,
+      "raw_hex": "f684b5650082cf80a16400817d808b808afff55b5b6b00827a5380d7fffcfff686aa837f808100665380d7fffcfff6",
+      "text_jp": "！？獄チ 贋ャタ 窺ゼズ<LINE>キキヌ 鰹ノ…<CLOSE><PAGE>新筋ヲ ツノ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 108,
+      "pointer_offset": 452,
+      "target_offset": 13041,
+      "length_bytes": 35,
+      "raw_hex": "81fc817e6a8285808100547875705d5380d7fff5525480a180d7fffcfff65c80d7fffc",
+      "text_jp": "河丑ニ噛ヲ オヤムフケノ…<LINE>ヴオャ…<CLOSE><PAGE>ク…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 109,
+      "pointer_offset": 456,
+      "target_offset": 13076,
+      "length_bytes": 44,
+      "raw_hex": "827a5380d7fffcfff65980d7fffc82225d53fff581f4827b827c808b80d7fffcfff68210808100825a707a80",
+      "text_jp": "鰹ノ…<CLOSE><PAGE>オ…<CLOSE>壊ケノ<LINE>嫁叶椛ゼ…<CLOSE><PAGE>蚊ヲ 穫フヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 110,
+      "pointer_offset": 460,
+      "target_offset": 13120,
+      "length_bytes": 47,
+      "raw_hex": "d7fffcfff682d66b005e80855900837f5d53fff581fc6a82ca808100527a65fff68204537c0081aa5f7a6a808b6680",
+      "text_jp": "…<CLOSE><PAGE>危ヌ コグオ 筋ケノ<LINE>河ニ玩ヲ ヴヨチ<PAGE>苛ノリ 越サヨニゼツ",
+      "translation_en": ""
+    },
+    {
+      "id": 111,
+      "pointer_offset": 464,
+      "target_offset": 13167,
+      "length_bytes": 51,
+      "raw_hex": "d7fffcfff6606a82ca808100830f5d5380d7fff581aa6b007759007d5780a16180d7fffcfff65d575d00fff3006b00827a53ff",
+      "text_jp": "…<CLOSE><PAGE>シニ玩ヲ 吉ケノ…<LINE>越ヌ モオ ルウャス…<CLOSE><PAGE>ケウケ <CMD_f3> ヌ 鰹ノ",
+      "translation_en": ""
+    },
+    {
+      "id": 112,
+      "pointer_offset": 468,
+      "target_offset": 13218,
+      "length_bytes": 41,
+      "raw_hex": "fcfff682d75700825a5753746a00597bfff1fff55480cc80cc80d1fffcfff681fc817e6a81457e0081",
+      "text_jp": "[G_252]<PAGE>喜ウ 穫ウノミニ オラ<CMD_f1><LINE>オ~~！<CLOSE><PAGE>河丑ニ惟レ ",
+      "translation_en": ""
+    },
+    {
+      "id": 113,
+      "pointer_offset": 472,
+      "target_offset": 13259,
+      "length_bytes": 41,
+      "raw_hex": "fb636678fff6fff300670083247d7a6680d1fff55480cc80cc80d1fffcfff6606a81aa670083358165",
+      "text_jp": "[G_251]ソツヤ<PAGE><CMD_f3> テ 弓ルヨツ！<LINE>オ~~！<CLOSE><PAGE>シニ越テ 去允",
+      "translation_en": ""
+    },
+    {
+      "id": 114,
+      "pointer_offset": 476,
+      "target_offset": 13300,
+      "length_bytes": 32,
+      "raw_hex": "6653fff6825a5753818700775b5f80d1fff1fff5525480a180d7fffcfff65b7d",
+      "text_jp": "ツノ<PAGE>穫ウノ姥 モキサ！<CMD_f1><LINE>ヴオャ…<CLOSE><PAGE>キル",
+      "translation_en": ""
+    },
+    {
+      "id": 115,
+      "pointer_offset": 480,
+      "target_offset": 13332,
+      "length_bytes": 31,
+      "raw_hex": "5380d7fff683346b00808f5b576680d780d7fff5525480a180d7fffcfff6ff",
+      "text_jp": "ノ…<PAGE>牛ヌ ヅキウツ……<LINE>ヴオャ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 116,
+      "pointer_offset": 484,
+      "target_offset": 13363,
+      "length_bytes": 35,
+      "raw_hex": "f300676bfff683248396665380d780d780d7fff5fff3006bfff681fc817e650081aa80",
+      "text_jp": "＄ テヌ<PAGE>弓具ツノ………<LINE><CMD_f3> ヌ<PAGE>河丑チ 越",
+      "translation_en": ""
+    },
+    {
+      "id": 117,
+      "pointer_offset": 488,
+      "target_offset": 13398,
+      "length_bytes": 40,
+      "raw_hex": "8100808e5864fff66564740082fc5d53808afff554809b809b80d1fffcfff681fc817e6a0081aa5e",
+      "text_jp": "[G_256]ヂエタ<PAGE>チタミ 亀ケノズ<LINE>オポポ！<CLOSE><PAGE>河丑ニ 越コ",
+      "translation_en": ""
+    },
+    {
+      "id": 118,
+      "pointer_offset": 492,
+      "target_offset": 13438,
+      "length_bytes": 29,
+      "raw_hex": "5b65fff66580a164740061736700667a80d1fff553535774005d7b6653",
+      "text_jp": "キチ<PAGE>チャタミ スマテ ツヨ！<LINE>ノノウミ ケラツノ",
+      "translation_en": ""
+    },
+    {
+      "id": 119,
+      "pointer_offset": 496,
+      "target_offset": 13467,
+      "length_bytes": 31,
+      "raw_hex": "80d7fffcfff670808b00808b73808b5a808ffff581fc817e6700814300575f",
+      "text_jp": "…<CLOSE><PAGE>フゼ ゼマゼカヅ<LINE>河丑テ 威 ウサ",
+      "translation_en": ""
+    },
+    {
+      "id": 120,
+      "pointer_offset": 500,
+      "target_offset": 13498,
+      "length_bytes": 41,
+      "raw_hex": "8090fff681e07a834600808e587a577480d7fff55480cc80cc80d1fffcfff681fc817e6a81457e0081",
+      "text_jp": "デ<PAGE>桶ヨ供 ヂエヨウミ…<LINE>オ~~！<CLOSE><PAGE>河丑ニ惟レ ",
+      "translation_en": ""
+    },
+    {
+      "id": 121,
+      "pointer_offset": 504,
+      "target_offset": 13539,
+      "length_bytes": 21,
+      "raw_hex": "fb636678fff6fff300670083247d7a6680d1fff5ff",
+      "text_jp": "[G_251]ソツヤ<PAGE><CMD_f3> テ 弓ルヨツ！<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 122,
+      "pointer_offset": 508,
+      "target_offset": 13560,
+      "length_bytes": 24,
+      "raw_hex": "f3006bfff6814300575d6159665380d180d1fff5fff30081",
+      "text_jp": "＄ ヌ<PAGE>威 ウケスオツノ！！<LINE><CMD_f3> ",
+      "translation_en": ""
+    },
+    {
+      "id": 123,
+      "pointer_offset": 512,
+      "target_offset": 13584,
+      "length_bytes": 31,
+      "raw_hex": "fc817e6afff6846367008216647a576680d7fff5525480a180d7fffcfff6ff",
+      "text_jp": "[G_252]丑ニ<PAGE>垢テ 臥タヨウツ…<LINE>ヴオャ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 124,
+      "pointer_offset": 516,
+      "target_offset": 13615,
+      "length_bytes": 32,
+      "raw_hex": "f3006bfff682be80a1647a808b5a80d780d7fff5fff06a00814300830f5d536a",
+      "text_jp": "＄ ヌ<PAGE>鑑ャタヨゼカ……<LINE><CMD_f0>ニ 威 吉ケノニ",
+      "translation_en": ""
+    },
+    {
+      "id": 125,
+      "pointer_offset": 520,
+      "target_offset": 13647,
+      "length_bytes": 31,
+      "raw_hex": "5780d1fff682fc5d536600858357536680d7fff5fff3006bfff68463670082",
+      "text_jp": "ウ！<PAGE>亀ケノツ 耳ウノツ…<LINE><CMD_f3> ヌ<PAGE>垢テ ",
+      "translation_en": ""
+    },
+    {
+      "id": 126,
+      "pointer_offset": 524,
+      "target_offset": 13678,
+      "length_bytes": 40,
+      "raw_hex": "16637780d1fffcfff66f7f65006f7f6580d1fff5fff3006a0083bd797efff684a253615300656b80",
+      "text_jp": "にソモ！<CLOSE><PAGE>ヒロチ ヒロチ！<LINE><CMD_f3> ニ 刑ユレ<PAGE>鴻ノスノ チヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 127,
+      "pointer_offset": 528,
+      "target_offset": 13718,
+      "length_bytes": 45,
+      "raw_hex": "d7fffcfff683ca818f660081fc817e808b66fff581fc817e6a81847780d7fffcfff682d75700747880a164757a",
+      "text_jp": "…<CLOSE><PAGE>掲雲ツ 河丑ゼツ<LINE>河丑ニ欝モ…<CLOSE><PAGE>喜ウ ミヤャタムヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 128,
+      "pointer_offset": 532,
+      "target_offset": 13764,
+      "length_bytes": 36,
+      "raw_hex": "5778fff6fff3008218675380a164597bfff1fff55480cc80cc80d1fffcfff6fff30083b1",
+      "text_jp": "ウヤ<PAGE><CMD_f3> 蛾テノャタオラ<CMD_f1><LINE>オ~~！<CLOSE><PAGE><CMD_f3> 勲",
+      "translation_en": ""
+    },
+    {
+      "id": 129,
+      "pointer_offset": 536,
+      "target_offset": 13800,
+      "length_bytes": 53,
+      "raw_hex": "83b2675e7a5780d1fff682ec5f66536680d1fff55480cc80cc80d1fffc00fff3006bfff683bd80a161808a80d1fffc00808e74fff6",
+      "text_jp": "君テコヨウ！<PAGE>汽サツノツ！<LINE>オ~~！<CLOSE> <CMD_f3> ヌ<PAGE>刑ャスズ！<CLOSE> ヂミ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 130,
+      "pointer_offset": 540,
+      "target_offset": 13853,
+      "length_bytes": 28,
+      "raw_hex": "815e8085530070808b00812567824954fff1fff5525480a180d7fffc",
+      "text_jp": "壱グノ フゼ 梓テ馨オ<CMD_f1><LINE>ヴオャ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 131,
+      "pointer_offset": 544,
+      "target_offset": 13881,
+      "length_bytes": 38,
+      "raw_hex": "f681fc817e6a81840081f76054808b80d7fff5525480a180d7fffcfff680905767005c7b6180",
+      "text_jp": "！？河丑ニ欝 科シオゼ…<LINE>ヴオャ…<CLOSE><PAGE>デウテ クラス",
+      "translation_en": ""
+    },
+    {
+      "id": 132,
+      "pointer_offset": 548,
+      "target_offset": 13920,
+      "length_bytes": 34,
+      "raw_hex": "d7fff682be80a1647a808b5a00666a6780d7fff5fff3006bfff65363740082e682e7",
+      "text_jp": "…<PAGE>鑑ャタヨゼカ ツニテ…<LINE><CMD_f3> ヌ<PAGE>ノソミ 棋棄",
+      "translation_en": ""
+    },
+    {
+      "id": 133,
+      "pointer_offset": 552,
+      "target_offset": 13954,
+      "length_bytes": 51,
+      "raw_hex": "808e00536153fff6808b57780083bd786653fff5fff3006b0081fc817e808780a26653fff6808b57780081fc817e6a0082ed82",
+      "text_jp": "ヂ ノスノ<PAGE>ゼウヤ 刑ヤツノ<LINE><CMD_f3> ヌ 河丑ゴュツノ<PAGE>ゼウヤ 河丑ニ 畿",
+      "translation_en": ""
+    },
+    {
+      "id": 134,
+      "pointer_offset": 556,
+      "target_offset": 14005,
+      "length_bytes": 44,
+      "raw_hex": "1a8195819a6bfff6667f808e7400837f5d53fff581fc817e6a00818477fff67480a1650083c27e00839b5980",
+      "text_jp": "は影泳ヌ<PAGE>ツロヂミ 筋ケノ<LINE>河丑ニ 欝モ<PAGE>ミャチ 型レ 偶オ",
+      "translation_en": ""
+    },
+    {
+      "id": 135,
+      "pointer_offset": 560,
+      "target_offset": 14049,
+      "length_bytes": 61,
+      "raw_hex": "815353fff6fff300825082eb5d64537a808afff581fc817e6a0081b783c26b008335816582025380d7fffcfff6808e7400fff30083c2808e586653fff6",
+      "text_jp": "謂ノ<PAGE><CMD_f3> 嚇気ケタノヨズ<LINE>河丑ニ 沿型ヌ 去允箇ノ…<CLOSE><PAGE>ヂミ <CMD_f3> 型ヂエツノ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 136,
+      "pointer_offset": 564,
+      "target_offset": 14110,
+      "length_bytes": 45,
+      "raw_hex": "808b57780082d75700747880a164757afff1fff55480cc80cc80d1fffcfff6607b80810082d7808b650053546a",
+      "text_jp": "ゼウヤ 喜ウ ミヤャタムヨ<CMD_f1><LINE>オ~~！<CLOSE><PAGE>シラヲ 喜ゼチ ノオニ",
+      "translation_en": ""
+    },
+    {
+      "id": 137,
+      "pointer_offset": 568,
+      "target_offset": 14155,
+      "length_bytes": 48,
+      "raw_hex": "808bfff663707866530081f482e7808b80d1fff5fff3006a83bd79830f5d535780d1fffcfff683137981205c5f610084",
+      "text_jp": "ゼ<PAGE>ソフヤツノ 嫁棄ゼ！<LINE><CMD_f3> ニ刑ユ吉ケノウ！<CLOSE><PAGE>橘ユ渥クサス ",
+      "translation_en": ""
+    },
+    {
+      "id": 138,
+      "pointer_offset": 572,
+      "target_offset": 14203,
+      "length_bytes": 43,
+      "raw_hex": "8c808bfff682d75700638083665580d1fff1fff5525480a180d7fffcfff6667f5700827a5380d7fffcfff6",
+      "text_jp": "ゾゼ<PAGE>喜ウ ソガツア！<CMD_f1><LINE>ヴオャ…<CLOSE><PAGE>ツロウ 鰹ノ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 139,
+      "pointer_offset": 576,
+      "target_offset": 14246,
+      "length_bytes": 42,
+      "raw_hex": "81fc817e6a812481fc00827a6054808b80d7fff55c80d7fffc827a80d7fffcfff681fc817e6584a56474",
+      "text_jp": "河丑ニ鯵河 鰹シオゼ…<LINE>ク…<CLOSE>鰹…<CLOSE><PAGE>河丑チ号タミ",
+      "translation_en": ""
+    },
+    {
+      "id": 140,
+      "pointer_offset": 580,
+      "target_offset": 14289,
+      "length_bytes": 46,
+      "raw_hex": "825a5759665380d7fff681e07c54576680d7fff581fc817e6b0082e682e7808b6680d1fffcfff6fff3007400834c",
+      "text_jp": "穫ウオツノ…<PAGE>桶リオウツ…<LINE>河丑ヌ 棋棄ゼツ！<CLOSE><PAGE><CMD_f3> ミ 凶",
+      "translation_en": ""
+    },
+    {
+      "id": 141,
+      "pointer_offset": 584,
+      "target_offset": 14335,
+      "length_bytes": 36,
+      "raw_hex": "08fff681d25881a37e00821b635a775480d1fff55353808a007480a165757b80d1fffcff",
+      "text_jp": "く<PAGE>殴エ鋭レ 餓ソカモオ！<LINE>ノノズ ミャチムラ！<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 142,
+      "pointer_offset": 588,
+      "target_offset": 14371,
+      "length_bytes": 42,
+      "raw_hex": "f6fff3008081fff6821b646400757a577866fff5fff3006b0081fc817e67fff683358165527a80d7fffc",
+      "text_jp": "！？<CMD_f3> ヲ<PAGE>餓タタ ムヨウヤツ<LINE><CMD_f3> ヌ 河丑テ<PAGE>去允ヴヨ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 143,
+      "pointer_offset": 592,
+      "target_offset": 14413,
+      "length_bytes": 42,
+      "raw_hex": "f684d3536700826680a164740053535766fff581fc817e6500819281257efff683ba675d647400535380",
+      "text_jp": "！？唆ノテ 額ャタミ ノノウツ<LINE>河丑チ 叡梓レ<PAGE>祁テケタミ ノノ",
+      "translation_en": ""
+    },
+    {
+      "id": 144,
+      "pointer_offset": 596,
+      "target_offset": 14456,
+      "length_bytes": 39,
+      "raw_hex": "81fff6fff3007400822582265e7a808afff1fff55480cc80cc80d1fffcfff6fff3006b00fff080",
+      "text_jp": "禍！？<CMD_f3> ミ 怪悔コヨズ<CMD_f1><LINE>オ~~！<CLOSE><PAGE><CMD_f3> ヌ <CMD_f0>",
+      "translation_en": ""
+    },
+    {
+      "id": 145,
+      "pointer_offset": 600,
+      "target_offset": 14495,
+      "length_bytes": 54,
+      "raw_hex": "8bfff681fc817e656b008157537b665380d1fff5fff30081d25881a30083285e80d1fffcfff681fc817e6700757a00819281256b0066",
+      "text_jp": "ゼ<PAGE>河丑チヌ 井ノラツノ！<LINE><CMD_f3> 殴エ鋭 求コ！<CLOSE><PAGE>河丑テ ムヨ 叡梓ヌ ツ",
+      "translation_en": ""
+    },
+    {
+      "id": 146,
+      "pointer_offset": 604,
+      "target_offset": 14549,
+      "length_bytes": 41,
+      "raw_hex": "5380d1fff6819281256b0084a25580d1fff1fff5525480a180d7fffcfff681fc817e6b0080887a5357",
+      "text_jp": "ノ！<PAGE>叡梓ヌ 鴻ア！<CMD_f1><LINE>ヴオャ…<CLOSE><PAGE>河丑ヌ ザヨノウ",
+      "translation_en": ""
+    },
+    {
+      "id": 147,
+      "pointer_offset": 608,
+      "target_offset": 14590,
+      "length_bytes": 49,
+      "raw_hex": "7880d7fffcfff682d7576a00870a577480d7fff5525480a180d7fffcfff681fc817e6a81d28154007d5778665380d7fffc",
+      "text_jp": "ヤ…<CLOSE><PAGE>喜ウニ 盛ウミ…<LINE>ヴオャ…<CLOSE><PAGE>河丑ニ殴違 ルウヤツノ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 148,
+      "pointer_offset": 612,
+      "target_offset": 14639,
+      "length_bytes": 43,
+      "raw_hex": "f65480d7fffc5980d7fffc82225d53fffcfff554809b809b80d1fffcfff6fff30080810082d282d3666a57",
+      "text_jp": "！？オ…<CLOSE>オ…<CLOSE>壊ケノ<CLOSE><LINE>オポポ！<CLOSE><PAGE><CMD_f3> ヲ 顔願ツニウ",
+      "translation_en": ""
+    },
+    {
+      "id": 149,
+      "pointer_offset": 616,
+      "target_offset": 14683,
+      "length_bytes": 46,
+      "raw_hex": "80d1fffcfff66564740082fc5d53808a80d1fff5fff3006b0084d3826d008111828058fffcfff681fc817e6a8184",
+      "text_jp": "！<CLOSE><PAGE>チタミ 亀ケノズ！<LINE><CMD_f3> ヌ 唆鰍 〇兜エ<CLOSE><PAGE>河丑ニ欝",
+      "translation_en": ""
+    },
+    {
+      "id": 150,
+      "pointer_offset": 620,
+      "target_offset": 14729,
+      "length_bytes": 44,
+      "raw_hex": "770081b7833667fff684d3826d5d775480d1fff5fff3006b0083c4538184fff6538087736179005d6653fff6",
+      "text_jp": "モ 沿居テ<PAGE>唆鰍ケモオ！<LINE><CMD_f3> ヌ 形ノ欝<PAGE>ノゴマスユ ケツノ<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 151,
+      "pointer_offset": 624,
+      "target_offset": 14773,
+      "length_bytes": 49,
+      "raw_hex": "81fc817e6a818400826982105e7a80817753fff581fc817e6a81840053535b6500826754fff6fff3006b008218675380a1",
+      "text_jp": "河丑ニ欝 笠蚊コヨヲモノ<LINE>河丑ニ欝 ノノキチ 顎オ<PAGE><CMD_f3> ヌ 蛾テノャ",
+      "translation_en": ""
+    },
+    {
+      "id": 152,
+      "pointer_offset": 628,
+      "target_offset": 14822,
+      "length_bytes": 29,
+      "raw_hex": "61fff682d75700747880a16400757c54fff1fff55480cc80cc80d1fffc",
+      "text_jp": "ス<PAGE>喜ウ ミヤャタ ムリオ<CMD_f1><LINE>オ~~！<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 153,
+      "pointer_offset": 632,
+      "target_offset": 14851,
+      "length_bytes": 45,
+      "raw_hex": "f6fff3006bfff683700082ec5c665380d1fff5824282105700808f5457fff652755d5300746a808b80d1fff684",
+      "text_jp": "！？<CMD_f3> ヌ<PAGE>極 汽クツノ！<LINE>碍蚊ウ ヅオウ<PAGE>ヴムケノ ミニゼ！<PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 154,
+      "pointer_offset": 636,
+      "target_offset": 14897,
+      "length_bytes": 40,
+      "raw_hex": "0383cf6a0066536a808100813d5380d1fff1fff5525480a180d7fffcfff6fff3006b005353fff080",
+      "text_jp": "う渓ニ ツノニヲ 位ノ！<CMD_f1><LINE>ヴオャ…<CLOSE><PAGE><CMD_f3> ヌ ノノ<CMD_f0>",
+      "translation_en": ""
+    },
+    {
+      "id": 155,
+      "pointer_offset": 640,
+      "target_offset": 14937,
+      "length_bytes": 41,
+      "raw_hex": "d7fffcfff65778577d7b6400537a80d080d7fff5525480a180d7fffcfff681fc817e6a005e7a5b65ff",
+      "text_jp": "…<CLOSE><PAGE>ウヤウルラタ ノヨ？…<LINE>ヴオャ…<CLOSE><PAGE>河丑ニ コヨキチ",
+      "translation_en": ""
+    },
+    {
+      "id": 156,
+      "pointer_offset": 644,
+      "target_offset": 14978,
+      "length_bytes": 54,
+      "raw_hex": "f682d7570083b080810052796054808b80d7fff5fff3006b005e8085536a808b80d1fffcfff681fc817e6a008184007759007d577a80",
+      "text_jp": "！？喜ウ 鍬ヲ ヴユシオゼ…<LINE><CMD_f3> ヌ コグノニゼ！<CLOSE><PAGE>河丑ニ 欝 モオ ルウヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 157,
+      "pointer_offset": 648,
+      "target_offset": 15032,
+      "length_bytes": 44,
+      "raw_hex": "d1fff67480a165008267546a808b80d180d1fff5605b70808e0082677d7b7a65fff6fff30084968088575d53",
+      "text_jp": "！<PAGE>ミャチ 顎オニゼ！！<LINE>シキフヂ 顎ルラヨチ<PAGE><CMD_f3> 貢ザウケノ",
+      "translation_en": ""
+    },
+    {
+      "id": 158,
+      "pointer_offset": 652,
+      "target_offset": 15076,
+      "length_bytes": 41,
+      "raw_hex": "80d7fffcfff6808e740082fc5d53808a80d1fff5fff3006a005e80987a5780cc808ffff681fb80a164",
+      "text_jp": "…<CLOSE><PAGE>ヂミ 亀ケノズ！<LINE><CMD_f3> ニ コピヨウ~ヅ<PAGE>歌ャタ",
+      "translation_en": ""
+    },
+    {
+      "id": 159,
+      "pointer_offset": 656,
+      "target_offset": 15117,
+      "length_bytes": 19,
+      "raw_hex": "7a6a5780d7fffcfff6811181f967005d7c77ff",
+      "text_jp": "ヨニウ…<CLOSE><PAGE>〇果テ ケリモ",
+      "translation_en": ""
+    },
+    {
+      "id": 160,
+      "pointer_offset": 660,
+      "target_offset": 15136,
+      "length_bytes": 27,
+      "raw_hex": "ef5b7b7e00757afff6811181f967005d7c77ffef80d780d7fffcff",
+      "text_jp": "▲キラレ ムヨ<PAGE>〇果テ ケリモ<CMD_ef>……<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 161,
+      "pointer_offset": 664,
+      "target_offset": 15163,
+      "length_bytes": 25,
+      "raw_hex": "f6fff3006bfff67061005c82be546a5780d7ffeffff3006bff",
+      "text_jp": "！？<CMD_f3> ヌ<PAGE>フス ク鑑オニウ…<CMD_ef><CMD_f3> ヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 162,
+      "pointer_offset": 668,
+      "target_offset": 15188,
+      "length_bytes": 39,
+      "raw_hex": "f68294815880810082cf545778fff6808b73fff5fff3006bfff681fc817e670083358165527a80",
+      "text_jp": "！？勧亥ヲ 贋オウヤ<PAGE>ゼマ<LINE><CMD_f3> ヌ<PAGE>河丑テ 去允ヴヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 163,
+      "pointer_offset": 672,
+      "target_offset": 15227,
+      "length_bytes": 36,
+      "raw_hex": "81fff683c4530081fc817e6b0082f253808bffef819881a9536a00841c8153808bfff65b",
+      "text_jp": "禍！？形ノ 河丑ヌ 徽ノゼ<CMD_ef>栄謁ノニ 源謂ゼ<PAGE>キ",
+      "translation_en": ""
+    },
+    {
+      "id": 164,
+      "pointer_offset": 676,
+      "target_offset": 15263,
+      "length_bytes": 41,
+      "raw_hex": "7b7e00757afffcfff6811181f967005d7c77ffef808e6b005682827b808b6680d7fffcfff6fff3006b",
+      "text_jp": "ラレ ムヨ<CLOSE><PAGE>〇果テ ケリモ<CMD_ef>ヂヌ イ蒲ラゼツ…<CLOSE><PAGE><CMD_f3> ヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 165,
+      "pointer_offset": 680,
+      "target_offset": 15305,
+      "length_bytes": 38,
+      "raw_hex": "7061fff682be536a836e670081987a6a808bffeffff3006b0081fc817e6a8184fff682186781",
+      "text_jp": "フス<PAGE>鑑ノニ局テ 栄ヨニゼ<CMD_ef><CMD_f3> ヌ 河丑ニ欝<PAGE>蛾テ",
+      "translation_en": ""
+    },
+    {
+      "id": 166,
+      "pointer_offset": 684,
+      "target_offset": 15343,
+      "length_bytes": 31,
+      "raw_hex": "ae80a1615778fff65b7b74005280847a808affeffff3006bfff681d25881a3",
+      "text_jp": "Iャスウヤ<PAGE>キラミ ヴギヨズ<CMD_ef><CMD_f3> ヌ<PAGE>殴エ鋭",
+      "translation_en": ""
+    },
+    {
+      "id": 167,
+      "pointer_offset": 688,
+      "target_offset": 15375,
+      "length_bytes": 43,
+      "raw_hex": "83285d808efff684f15d536a808b808180d7ffeffff3006774fff681e07a81a38346808100808e586180d1",
+      "text_jp": "求ケヂ<PAGE>犀ケノニゼヲ…<CMD_ef><CMD_f3> テミ<PAGE>桶ヨ鋭供ヲ ヂエス！",
+      "translation_en": ""
+    },
+    {
+      "id": 168,
+      "pointer_offset": 692,
+      "target_offset": 15418,
+      "length_bytes": 35,
+      "raw_hex": "fcfff65780cc808f007e00777c5d5980d7ffef525480a180d7fffc525480a180d7fffc",
+      "text_jp": "[G_252]<PAGE>ウ~ヅ レ モリケオ…<CMD_ef>ヴオャ…<CLOSE>ヴオャ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 169,
+      "pointer_offset": 696,
+      "target_offset": 15454,
+      "length_bytes": 33,
+      "raw_hex": "f65b7b808e007680d7fffc82ec5d6480d7ffeffff3006b00745485fe586180d1ff",
+      "text_jp": "！？キラヂ メ…<CLOSE>汽ケタ…<CMD_ef><CMD_f3> ヌ ミオ叔エス！",
+      "translation_en": ""
+    },
+    {
+      "id": 170,
+      "pointer_offset": 700,
+      "target_offset": 15488,
+      "length_bytes": 43,
+      "raw_hex": "f682be80a164618166808100837f5d5380d1fff582be80a164618166808100837f5d5380d1fffcfff65b7b",
+      "text_jp": "！？鑑ャタス印ヲ 筋ケノ！<LINE>鑑ャタス印ヲ 筋ケノ！<CLOSE><PAGE>キラ",
+      "translation_en": ""
+    },
+    {
+      "id": 171,
+      "pointer_offset": 704,
+      "target_offset": 15532,
+      "length_bytes": 51,
+      "raw_hex": "757a5778fff6fff3006b00745481d25980d1ffef60545355809080d7fffcfff65e8085590083bd80a1616a0084955d80927980",
+      "text_jp": "ムヨウヤ<PAGE><CMD_f3> ヌ ミオ殴オ！<CMD_ef>シオノアデ…<CLOSE><PAGE>コグオ 刑ャスニ 講ケバユ",
+      "translation_en": ""
+    },
+    {
+      "id": 172,
+      "pointer_offset": 708,
+      "target_offset": 15583,
+      "length_bytes": 38,
+      "raw_hex": "d1fff6667f57005e80a158795d61577480d7ffef667f808e576680d0fffcfff6705200535375",
+      "text_jp": "！<PAGE>ツロウ コャエユケスウミ…<CMD_ef>ツロヂウツ？<CLOSE><PAGE>フヴ ノノム",
+      "translation_en": ""
+    },
+    {
+      "id": 173,
+      "pointer_offset": 712,
+      "target_offset": 15621,
+      "length_bytes": 41,
+      "raw_hex": "f65e80987a5780cc808f00757a808a80d1ffef81fc817e650081b783366678fff6858357530080987a",
+      "text_jp": "！？コピヨウ~ヅ ムヨズ！<CMD_ef>河丑チ 沿居ツヤ<PAGE>耳ウノ ピヨ",
+      "translation_en": ""
+    },
+    {
+      "id": 174,
+      "pointer_offset": 716,
+      "target_offset": 15663,
+      "length_bytes": 53,
+      "raw_hex": "60660067fff6667b7a0057745d7b665380d7ffef80d780d75e80987a5780cc808f00757a80d7fffcfff681e07a83347e0081fb80a1",
+      "text_jp": "シツ テ<PAGE>ツラヨ ウミケラツノ…<CMD_ef>……コピヨウ~ヅ ムヨ…<CLOSE><PAGE>桶ヨ牛レ 歌ャ",
+      "translation_en": ""
+    },
+    {
+      "id": 175,
+      "pointer_offset": 720,
+      "target_offset": 15716,
+      "length_bytes": 34,
+      "raw_hex": "647afff680987a60660067005d64597b80d7ffef525480a180d7fffcfff6fff3006b",
+      "text_jp": "タヨ<PAGE>ピヨシツ テ ケタオラ…<CMD_ef>ヴオャ…<CLOSE><PAGE><CMD_f3> ヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 176,
+      "pointer_offset": 724,
+      "target_offset": 15750,
+      "length_bytes": 33,
+      "raw_hex": "f681fc817e6500818c54821800665380d7ffef81fc817e6a8184676bfff65b7b7e",
+      "text_jp": "！？河丑チ 噂オ蛾 ツノ…<CMD_ef>河丑ニ欝テヌ<PAGE>キラレ",
+      "translation_en": ""
+    },
+    {
+      "id": 177,
+      "pointer_offset": 728,
+      "target_offset": 15785,
+      "length_bytes": 40,
+      "raw_hex": "5280847afffcfff6811181f967005d64597bffef81fc817e6700808f545e7b8090fff6816281f967",
+      "text_jp": "ヴギヨ<CLOSE><PAGE>〇果テ ケタオラ<CMD_ef>河丑テ ヅオコラデ<PAGE>茨果テ",
+      "translation_en": ""
+    },
+    {
+      "id": 178,
+      "pointer_offset": 732,
+      "target_offset": 15826,
+      "length_bytes": 43,
+      "raw_hex": "81e0785f64fff6597b7a576680d780d780d7ffeffff3006afff65e80987a5780cc808f005280847a577880",
+      "text_jp": "桶ヤサタ<PAGE>オラヨウツ………<CMD_ef><CMD_f3> ニ<PAGE>コピヨウ~ヅ ヴギヨウヤ",
+      "translation_en": ""
+    },
+    {
+      "id": 179,
+      "pointer_offset": 736,
+      "target_offset": 15869,
+      "length_bytes": 74,
+      "raw_hex": "d7fffcfff6827a536a6b00665d675d6480d7ffef535366809a00535366809a80d1fff6606a8145fff65280a161576054808b66809a80d7fffbfff7fff3006bfff681fc817e6a81458081",
+      "text_jp": "…<CLOSE><PAGE>鰹ノニヌ ツケテケタ…<CMD_ef>ノノツペ ノノツペ！<PAGE>シニ惟<PAGE>ヴャスウシオゼツペ…<CMD_fb><CMD_f7><CMD_f3> ヌ<PAGE>河丑ニ惟ヲ",
+      "translation_en": ""
+    },
+    {
+      "id": 180,
+      "pointer_offset": 740,
+      "target_offset": 15943,
+      "length_bytes": 49,
+      "raw_hex": "f6816281586700830f5d596680a16180d1fff581fc817e6a81846678fff6825a575381870081fb80a1647a808b7c80d7ff",
+      "text_jp": "！？茨亥テ 吉ケオツャス！<LINE>河丑ニ欝ツヤ<PAGE>穫ウノ姥 歌ャタヨゼリ…",
+      "translation_en": ""
+    },
+    {
+      "id": 181,
+      "pointer_offset": 744,
+      "target_offset": 15993,
+      "length_bytes": 77,
+      "raw_hex": "fcfff6656757590082d75700830f5d53fff1fff5606a8145fff65280a161576054808b80d7fff6808e7400fff3006a82cf5480d1fffbfff7fff3006bfff6839282f200813d596680a16180d1ff",
+      "text_jp": "[G_252]<PAGE>チテウオ 喜ウ 吉ケノ<CMD_f1><LINE>シニ惟<PAGE>ヴャスウシオゼ…<PAGE>ヂミ <CMD_f3> ニ贋オ！<CMD_fb><CMD_f7><CMD_f3> ヌ<PAGE>躯徽 位オツャス！",
+      "translation_en": ""
+    },
+    {
+      "id": 182,
+      "pointer_offset": 748,
+      "target_offset": 16070,
+      "length_bytes": 74,
+      "raw_hex": "f681fc817e6a81846a005f53808b808a80d1fff5606a8145fff65280a161576054808b80d7fff6808e7400fff3006a82cf5480d1fffbfff75480cc80cc80d1fffcfff682df6700586180",
+      "text_jp": "！？河丑ニ欝ニ サノゼズ！<LINE>シニ惟<PAGE>ヴャスウシオゼ…<PAGE>ヂミ <CMD_f3> ニ贋オ！<CMD_fb><CMD_f7>オ~~！<CLOSE><PAGE>幾テ エス",
+      "translation_en": ""
+    },
+    {
+      "id": 183,
+      "pointer_offset": 752,
+      "target_offset": 16144,
+      "length_bytes": 81,
+      "raw_hex": "8a80d1fff682d75700775b5f80d180d1fff1fff5525480a180d7fffcfff6667f570082a8821880810082cf5480d7fff6819f808100665380d7fffbfff77580a1809579fff65b5b740084a5821081380081",
+      "text_jp": "ズ！<PAGE>喜ウ モキサ！！<CMD_f1><LINE>ヴオャ…<CLOSE><PAGE>ツロウ 歓蛾ヲ 贋オ…<PAGE>頴ヲ ツノ…<CMD_fb><CMD_f7>ムャベユ<PAGE>キキミ 号蚊闇 ",
+      "translation_en": ""
+    },
+    {
+      "id": 184,
+      "pointer_offset": 756,
+      "target_offset": 16225,
+      "length_bytes": 77,
+      "raw_hex": "3d5380d7fffcfff670610082be54576680d7fff5fff3007400846c6bfff681fc817e808b80a1617f808b80d7fffcfff665647400535381fc817e808b80a16180d7fffbfff7819a81c36a81fc81",
+      "text_jp": "どノ…<CLOSE><PAGE>フス 鑑オウツ…<LINE><CMD_f3> ミ 広ヌ<PAGE>河丑ゼャスロゼ…<CLOSE><PAGE>チタミ ノノ河丑ゼャス…<CMD_fb><CMD_f7>泳鉛ニ河",
+      "translation_en": ""
+    },
+    {
+      "id": 185,
+      "pointer_offset": 760,
+      "target_offset": 16302,
+      "length_bytes": 46,
+      "raw_hex": "7e6bfff6853b5381fc817e00666a576680d7fff582e682e7808b665280d7fffcfff67580a18095790081fc817e65",
+      "text_jp": "レヌ<PAGE>酸ノ河丑 ツニウツ…<LINE>棋棄ゼツヴ…<CLOSE><PAGE>ムャベユ 河丑チ",
+      "translation_en": ""
+    },
+    {
+      "id": 186,
+      "pointer_offset": 764,
+      "target_offset": 16348,
+      "length_bytes": 60,
+      "raw_hex": "00537a65fff6828c6a815f808100825a5753fff554809b809b80d10081fc817e650081aa808e587a80d1fff6667f808b570082fc5d53665280d7fffc",
+      "text_jp": " ノヨチ<PAGE>苅ニ溢ヲ 穫ウノ<LINE>オポポ！ 河丑チ 越ヂエヨ！<PAGE>ツロゼウ 亀ケノツヴ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 187,
+      "pointer_offset": 768,
+      "target_offset": 16408,
+      "length_bytes": 78,
+      "raw_hex": "f682be80a16157538081005280a161808afff5ffed607f6600535381fc817e7efff681fb80a1647a00667f64fff6667f570080887a53808a80d180d1fffbfff77257635980d100fffc5a808f80d7",
+      "text_jp": "！？鑑ャスウノヲ ヴャスズ<LINE><CMD_ed>シロツ ノノ河丑レ<PAGE>歌ャタヨ ツロタ<PAGE>ツロウ ザヨノズ！！<CMD_fb><CMD_f7>ホウソオ！ <CLOSE>カヅ…",
+      "translation_en": ""
+    },
+    {
+      "id": 188,
+      "pointer_offset": 772,
+      "target_offset": 16487,
+      "length_bytes": 83,
+      "raw_hex": "fcfff670808b0081aa6b0082d85364757afff5ffed607f6600535381fc817e7efff681fb80a1647a00667f64fff6667f570080887a53808a80d180d1fffbfff782df6700586180d1fffcfff682d75700775b5f",
+      "text_jp": "[G_252]<PAGE>フゼ 越ヌ 器ノタムヨ<LINE><CMD_ed>シロツ ノノ河丑レ<PAGE>歌ャタヨ ツロタ<PAGE>ツロウ ザヨノズ！！<CMD_fb><CMD_f7>幾テ エス！<CLOSE><PAGE>喜ウ モキサ",
+      "translation_en": ""
+    },
+    {
+      "id": 189,
+      "pointer_offset": 776,
+      "target_offset": 16571,
+      "length_bytes": 46,
+      "raw_hex": "8090fff681ce83c07e005d64757a80d1fff1fff5ffec81fc817e6a8184650081aa5d6153fff6808b577800840d57",
+      "text_jp": "デ<PAGE>押圭レ ケタムヨ！<CMD_f1><LINE><CMD_ec>河丑ニ欝チ 越ケスノ<PAGE>ゼウヤ 謙ウ",
+      "translation_en": ""
+    },
+    {
+      "id": 190,
+      "pointer_offset": 780,
+      "target_offset": 16617,
+      "length_bytes": 60,
+      "raw_hex": "5a6180d7fff6827a536a00665d808b7780d7fff5ffee8360556400597b6180d7fffcfff681fc817e6a818400825a576054808b5a808f80d7fffcfff6",
+      "text_jp": "カス…<PAGE>鰹ノニ ツケゼモ…<LINE><CMD_ee>胸アタ オラス…<CLOSE><PAGE>河丑ニ欝 穫ウシオゼカヅ…<CLOSE><PAGE>",
+      "translation_en": ""
+    },
+    {
+      "id": 191,
+      "pointer_offset": 784,
+      "target_offset": 16677,
+      "length_bytes": 50,
+      "raw_hex": "745481675d008394824e821b7754576680d7fff5ffee81fc817e6a818400837f5d605480d1fff6fff3006b0081fc817e6a5b",
+      "text_jp": "ミオ咽ケ 駈鈎餓モオウツ…<LINE><CMD_ee>河丑ニ欝 筋ケシオ！<PAGE><CMD_f3> ヌ 河丑ニキ",
+      "translation_en": ""
+    },
+    {
+      "id": 192,
+      "pointer_offset": 788,
+      "target_offset": 16727,
+      "length_bytes": 55,
+      "raw_hex": "65fff677590081bc796159006680a16180d1fff5ffeb5b7f66670082e682e7666a6bfff681fc817e6a818480810085835753577880d1ff",
+      "text_jp": "チ<PAGE>モオ 燕ユスオ ツャス！<LINE><CMD_eb>キロツテ 棋棄ツニヌ<PAGE>河丑ニ欝ヲ 耳ウノウヤ！",
+      "translation_en": ""
+    },
+    {
+      "id": 193,
+      "pointer_offset": 792,
+      "target_offset": 16782,
+      "length_bytes": 61,
+      "raw_hex": "fcfff6fff3006b0082ed83145e7a808a80d1fff5ffec5480cc80cc80d1fffc00525480a180d7fffcfff65480cc80cc80d1fffc00525480a180d7fffcff",
+      "text_jp": "[G_252]<PAGE><CMD_f3> ヌ 畿詰コヨズ！<LINE><CMD_ec>オ~~！<CLOSE> ヴオャ…<CLOSE><PAGE>オ~~！<CLOSE> ヴオャ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 194,
+      "pointer_offset": 796,
+      "target_offset": 16843,
+      "length_bytes": 74,
+      "raw_hex": "f68218808100817d670066796054808b80d7fff5ffed821882695900832781f95c7b6180d7fffcfff682be557a00fff3007efff682d7808b6500827b80a1647a80d1fffbfff7ffec5375",
+      "text_jp": "！？蛾ヲ 窺テ ツユシオゼ…<LINE><CMD_ed>蛾笠オ 朽果クラス…<CLOSE><PAGE>鑑アヨ <CMD_f3> レ<PAGE>喜ゼチ 叶ャタヨ！<CMD_fb><CMD_f7><CMD_ec>ノム",
+      "translation_en": ""
+    },
+    {
+      "id": 195,
+      "pointer_offset": 800,
+      "target_offset": 16917,
+      "length_bytes": 49,
+      "raw_hex": "80d7fffcfff6827b80a1647a6a57665280d7fff5ffeb82fc5d53757800835c8081821663757880d7fffcfff6fff3006bff",
+      "text_jp": "…<CLOSE><PAGE>叶ャタヨニウツヴ…<LINE><CMD_eb>亀ケノムヤ 況ヲ臥ソムヤ…<CLOSE><PAGE><CMD_f3> ヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 196,
+      "pointer_offset": 804,
+      "target_offset": 16966,
+      "length_bytes": 42,
+      "raw_hex": "f681fc817e8081007759007d5778665380d1fff5ffedfff3006b0084dc809183bd7a80d1fff681fc817e",
+      "text_jp": "！？河丑ヲ モオ ルウヤツノ！<LINE><CMD_ed><CMD_f3> ヌ 鎖ド刑ヨ！<PAGE>河丑",
+      "translation_en": ""
+    },
+    {
+      "id": 197,
+      "pointer_offset": 808,
+      "target_offset": 17008,
+      "length_bytes": 41,
+      "raw_hex": "6a81847780d7fffcfff682d75700597bfff1fff5ffec525480a180d7fffcfff6808b5a808f00821080",
+      "text_jp": "ニ欝モ…<CLOSE><PAGE>喜ウ オラ<CMD_f1><LINE><CMD_ec>ヴオャ…<CLOSE><PAGE>ゼカヅ 蚊",
+      "translation_en": ""
+    },
+    {
+      "id": 198,
+      "pointer_offset": 812,
+      "target_offset": 17049,
+      "length_bytes": 41,
+      "raw_hex": "810085f87a6a6bfff6668089808b7c5480d7fff5ffebfff3006bfff670808a00808780a266535a808f",
+      "text_jp": "[G_256]汁ヨニヌ<PAGE>ツジゼリオ…<LINE><CMD_eb><CMD_f3> ヌ<PAGE>フズ ゴュツノカヅ",
+      "translation_en": ""
+    },
+    {
+      "id": 199,
+      "pointer_offset": 816,
+      "target_offset": 17090,
+      "length_bytes": 46,
+      "raw_hex": "f6667f5700853b536a808182e782ed80d7fff5fff3006b0081fc817e6a81848081fff6828058676680a16100fffc",
+      "text_jp": "！？ツロウ 酸ノニヲ棄畿…<LINE><CMD_f3> ヌ 河丑ニ欝ヲ<PAGE>兜エテツャス <CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 200,
+      "pointer_offset": 820,
+      "target_offset": 17137,
+      "length_bytes": 51,
+      "raw_hex": "833b53808565fff682d7808e74005859808affef54545480cc80cc80d180d1fffcfff681fc817e6a818400811182f253808b80",
+      "text_jp": "渠ノグチ<PAGE>喜ヂミ エオズ<CMD_ef>オオオ~~！！<CLOSE><PAGE>河丑ニ欝 〇徽ノゼ",
+      "translation_en": ""
+    },
+    {
+      "id": 201,
+      "pointer_offset": 824,
+      "target_offset": 17188,
+      "length_bytes": 35,
+      "raw_hex": "d180d1fff683077963536400757a80d180d1ffef525480a180d7fffcfff6525480a180",
+      "text_jp": "！！<PAGE>祇ユソノタ ムヨ！！<CMD_ef>ヴオャ…<CLOSE><PAGE>ヴオャ",
+      "translation_en": ""
+    },
+    {
+      "id": 202,
+      "pointer_offset": 828,
+      "target_offset": 17223,
+      "length_bytes": 17,
+      "raw_hex": "d7fffcfff6568334670081e07961537780",
+      "text_jp": "…<CLOSE><PAGE>イ牛テ 桶ユスノモ",
+      "translation_en": ""
+    },
+    {
+      "id": 203,
+      "pointer_offset": 832,
+      "target_offset": 17240,
+      "length_bytes": 52,
+      "raw_hex": "d7ffeffff3006bfff682475f808b665280d7ffef81fc817e6a81846b0082f253808bfffcfff6808e74006280a480a16583358165",
+      "text_jp": "…<CMD_ef><CMD_f3> ヌ<PAGE>骸サゼツヴ…<CMD_ef>河丑ニ欝ヌ 徽ノゼ<CLOSE><PAGE>ヂミ セッャチ去允",
+      "translation_en": ""
+    },
+    {
+      "id": 204,
+      "pointer_offset": 836,
+      "target_offset": 17292,
+      "length_bytes": 48,
+      "raw_hex": "527afffcfff682d77e008226726a808b80d0ffef525480a180d7fffc5280d7fffcfff68267545b6582d859577880d7ff",
+      "text_jp": "ヴヨ<CLOSE><PAGE>喜レ 悔ホニゼ？<CMD_ef>ヴオャ…<CLOSE>ヴ…<CLOSE><PAGE>顎オキチ器オウヤ…",
+      "translation_en": ""
+    },
+    {
+      "id": 205,
+      "pointer_offset": 840,
+      "target_offset": 17340,
+      "length_bytes": 51,
+      "raw_hex": "fcfff6808f545d6400830f5d536a576680d7ffeffff3006b0081fc817e6a81848081fff68111828058676680a16100fffc833b",
+      "text_jp": "[G_252]<PAGE>ヅオケタ 吉ケノニウツ…<CMD_ef><CMD_f3> ヌ 河丑ニ欝ヲ<PAGE>〇兜エテツャス <CLOSE>渠",
+      "translation_en": ""
+    },
+    {
+      "id": 206,
+      "pointer_offset": 844,
+      "target_offset": 17391,
+      "length_bytes": 48,
+      "raw_hex": "53808565fff682d7808e740086a6557a808affef5480cc80cc80d1fffc525480a180d7fffcfff6525480a180d7fffc52",
+      "text_jp": "ノグチ<PAGE>喜ヂミ 審アヨズ<CMD_ef>オ~~！<CLOSE>ヴオャ…<CLOSE><PAGE>ヴオャ…<CLOSE>ヴ",
+      "translation_en": ""
+    },
+    {
+      "id": 207,
+      "pointer_offset": 848,
+      "target_offset": 17439,
+      "length_bytes": 48,
+      "raw_hex": "5480a180d7fffcfff65480cc80cc80d1fffcffef80d780d780d780d7fffcfff681fc817e6a81456b00830f5d538081ff",
+      "text_jp": "オャ…<CLOSE><PAGE>オ~~！<CLOSE><CMD_ef>…………<CLOSE><PAGE>河丑ニ惟ヌ 吉ケノヲ",
+      "translation_en": ""
+    },
+    {
+      "id": 208,
+      "pointer_offset": 852,
+      "target_offset": 17487,
+      "length_bytes": 48,
+      "raw_hex": "f6812755665381456b0083358165665380d1ffef80d780d780d780d7fffcfff6607b00535381fc817e808b6680d7fffc",
+      "text_jp": "！？斡アツノ惟ヌ 去允ツノ！<CMD_ef>…………<CLOSE><PAGE>シラ ノノ河丑ゼツ…<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 209,
+      "pointer_offset": 856,
+      "target_offset": 17535,
+      "length_bytes": 34,
+      "raw_hex": "f6821b64640086ba7b80947b005e7a80d7ffeffff3006bfff6568229808100830f5d",
+      "text_jp": "！？餓タタ 診ラブラ コヨ…<CMD_ef><CMD_f3> ヌ<PAGE>イ戒ヲ 吉ケ",
+      "translation_en": ""
+    },
+    {
+      "id": 210,
+      "pointer_offset": 860,
+      "target_offset": 17570,
+      "length_bytes": 28,
+      "raw_hex": "53808afff6fff8857a808e00835f82ee808bffef54809b809b80d1ff",
+      "text_jp": "ノズ<PAGE><CMD_f8>次ヂ 矯祈ゼ<CMD_ef>オポポ！",
+      "translation_en": ""
+    },
+    {
+      "id": 211,
+      "pointer_offset": 864,
+      "target_offset": 17598,
+      "length_bytes": 44,
+      "raw_hex": "fcfff681fc817e6a81840053538252808b66fff581fb80a1646653808a80d180d1fffcfff65480cc80cc80d1",
+      "text_jp": "[G_252]<PAGE>河丑ニ欝 ノノ廓ゼツ<LINE>歌ャタツノズ！！<CLOSE><PAGE>オ~~！",
+      "translation_en": ""
+    },
+    {
+      "id": 212,
+      "pointer_offset": 868,
+      "target_offset": 17642,
+      "length_bytes": 33,
+      "raw_hex": "f681fc817e6a81840083706353616680d1fff5525480d7fffcfff681fb80a16466",
+      "text_jp": "！？河丑ニ欝 極ソノスツ！<LINE>ヴオ…<CLOSE><PAGE>歌ャタツ",
+      "translation_en": ""
+    },
+    {
+      "id": 213,
+      "pointer_offset": 872,
+      "target_offset": 17676,
+      "length_bytes": 18,
+      "raw_hex": "537f808780a2fff65d576180810066535766",
+      "text_jp": "ノロゴュ<PAGE>ケウスヲ ツノウツ",
+      "translation_en": ""
+    },
+    {
+      "id": 214,
+      "pointer_offset": 876,
+      "target_offset": 17694,
+      "length_bytes": 23,
+      "raw_hex": "f5fff3007efff6823959821b7a667780d1fff5525480a1",
+      "text_jp": "♂<CMD_f3> レ<PAGE>凱オ餓ヨツモ！<LINE>ヴオャ",
+      "translation_en": ""
+    },
+    {
+      "id": 215,
+      "pointer_offset": 880,
+      "target_offset": 17718,
+      "length_bytes": 35,
+      "raw_hex": "80d7fffcfff6fff3006c748087536a6780d7fff5fff3006bfff681168178808100830f",
+      "text_jp": "…<CLOSE><PAGE><CMD_f3> ネミゴノニテ…<LINE><CMD_f3> ヌ<PAGE>哀羽ヲ 吉",
+      "translation_en": ""
+    },
+    {
+      "id": 216,
+      "pointer_offset": 884,
+      "target_offset": 17753,
+      "length_bytes": 28,
+      "raw_hex": "5d53808afff681b763808e00835f82ee808bffef54809b809b80d1ff",
+      "text_jp": "ケノズ<PAGE>沿ソヂ 矯祈ゼ<CMD_ef>オポポ！",
+      "translation_en": ""
+    },
+    {
+      "id": 217,
+      "pointer_offset": 888,
+      "target_offset": 17781,
+      "length_bytes": 49,
+      "raw_hex": "fcfff681fc817e6a818400828058808b808afff581fb80a164665380d1fff681fc817e6a81846b0083b183b25780d0fffc",
+      "text_jp": "[G_252]<PAGE>河丑ニ欝 兜エゼズ<LINE>歌ャタツノ！<PAGE>河丑ニ欝ヌ 勲君ウ？<CLOSE>",
+      "translation_en": ""
+    },
+    {
+      "id": 218,
+      "pointer_offset": 892,
+      "target_offset": 17830,
+      "length_bytes": 33,
+      "raw_hex": "f65880a1650083b183b2666a808b7c5466fff5525480d7fffcfff681fb80a16466",
+      "text_jp": "！？エャチ 勲君ツニゼリオツ<LINE>ヴオ…<CLOSE><PAGE>歌ャタツ",
+      "translation_en": ""
+    },
+    {
+      "id": 219,
+      "pointer_offset": 896,
+      "target_offset": 17864,
+      "length_bytes": 30,
+      "raw_hex": "537f808780a2fff65d576180810066535766fff581fc817e6a81847780d1",
+      "text_jp": "ノロゴュ<PAGE>ケウスヲ ツノウツ<LINE>河丑ニ欝モ！",
+      "translation_en": ""
+    },
+    {
+      "id": 220,
+      "pointer_offset": 900,
+      "target_offset": 17894,
+      "length_bytes": 43,
+      "raw_hex": "f6fff3007efff6823959821b7a667780d1fff5808b73666a80d7fffcfff6808e7400568229667800597b61",
+      "text_jp": "！？<CMD_f3> レ<PAGE>凱オ餓ヨツモ！<LINE>ゼマツニ…<CLOSE><PAGE>ヂミ イ戒ツヤ オラス",
+      "translation_en": ""
+    },
+    {
+      "id": 221,
+      "pointer_offset": 904,
+      "target_offset": 17938,
+      "length_bytes": 30,
+      "raw_hex": "5766fff683046700825082eb5d775480a165fff5fff3006bfff682058178",
+      "text_jp": "ウツ<PAGE>欺テ 嚇気ケモオャチ<LINE><CMD_f3> ヌ<PAGE>茄羽",
+      "translation_en": ""
+    },
+    {
+      "id": 222,
+      "pointer_offset": 908,
+      "target_offset": 17968,
+      "length_bytes": 44,
+      "raw_hex": "808100830f5d53808afff6fff40080815353ffef54809b809b80d1fffcfff681fc817e6a818400828058808b",
+      "text_jp": "ヲ 吉ケノズ<PAGE><CMD_f4> ヲノノ<CMD_ef>オポポ！<CLOSE><PAGE>河丑ニ欝 兜エゼ",
+      "translation_en": ""
+    },
+    {
+      "id": 223,
+      "pointer_offset": 912,
+      "target_offset": 18012,
+      "length_bytes": 20,
+      "raw_hex": "808a80d1fff682065d64757a808a80d180d1fff5",
+      "text_jp": "ズ！<PAGE>荷ケタムヨズ！！<LINE>",
+      "translation_en": ""
+    },
+    {
+      "id": 224,
+      "pointer_offset": 916,
+      "target_offset": 18032,
+      "length_bytes": 25,
+      "raw_hex": "5280a1fffc605480d7fffcfff656575d5369fff581fc817e6a",
+      "text_jp": "ヴャ<CLOSE>シオ…<CLOSE><PAGE>イウケノナ<LINE>河丑ニ",
+      "translation_en": ""
+    },
+    {
+      "id": 225,
+      "pointer_offset": 920,
+      "target_offset": 18057,
+      "length_bytes": 29,
+      "raw_hex": "81846bfff6830f70717b00808b6680d180d1fff581fc817e6a81846bff",
+      "text_jp": "欝ヌ<PAGE>吉フヘラ ゼツ！！<LINE>河丑ニ欝ヌ",
+      "translation_en": ""
+    },
+    {
+      "id": 226,
+      "pointer_offset": 924,
+      "target_offset": 18086,
+      "length_bytes": 42,
+      "raw_hex": "f6fff4007efff682065d647a7f808b6680d1fff5fff3006bfff681fc817e6a81fc8218808100830f5d53",
+      "text_jp": "！？<CMD_f4> レ<PAGE>荷ケタヨロゼツ！<LINE><CMD_f3> ヌ<PAGE>河丑ニ河蛾ヲ 吉ケノ",
+      "translation_en": ""
+    },
+    {
+      "id": 227,
+      "pointer_offset": 928,
+      "target_offset": 18128,
+      "length_bytes": 39,
+      "raw_hex": "808afff681b781e953808e00835f82ee808bffef54809b809b80d180d1fffcfff6842a81655d60",
+      "text_jp": "ズ<PAGE>沿下ノヂ 矯祈ゼ<CMD_ef>オポポ！！<CLOSE><PAGE>孤允ケシ",
+      "translation_en": ""
+    },
+    {
+      "id": 228,
+      "pointer_offset": 932,
+      "target_offset": 18167,
+      "length_bytes": 40,
+      "raw_hex": "5480d180d1fff65361808b58705e80d180d1fff5fff0676bfff681f482d3808b65008267546a5780",
+      "text_jp": "オ！！<PAGE>ノスゼエフコ！！<LINE><CMD_f0>テヌ<PAGE>嫁願ゼチ 顎オニウ",
+      "translation_en": ""
+    },
+    {
+      "id": 229,
+      "pointer_offset": 936,
+      "target_offset": 18207,
+      "length_bytes": 34,
+      "raw_hex": "d1fff681fc817e6a81840075668252808b66fff56280a480a165fff681e954808b5a",
+      "text_jp": "！<PAGE>河丑ニ欝 ムツ廓ゼツ<LINE>セッャチ<PAGE>下オゼカ",
+      "translation_en": ""
+    },
+    {
+      "id": 230,
+      "pointer_offset": 940,
+      "target_offset": 18241,
+      "length_bytes": 4643,
+      "raw_hex": "666a6780d7fffcfff6fff3005c715d5380d7fff5808b7180ccfff5ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9e009f00000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380bb00bc00bc000000bd00be00be000000bf00c000c0000000b300b400b4000000c100c200c2000000c300c400c4000000b500b600b6000000c500c600c6000000b700b800b8000000b900ba00ba000000cb00cc00cd00c7009f00a000a100a200a300a400a500a600a700ffffce00ffffffffffffa800a700ffffffffffffffffffffffffffffffffcf00ffffffffffffa900aa00ffffffffffffffffffffffffffffffffc800ffffffffffffab00ac00ffffffffffffffffffffffffffffffffd000ffffffffffffad00ae00af00b000a400ffffffffffffffffffffc900ffffffffffffb100b200a800ffffffffffffffffffffffffffffca00ffffffffffff9f00a400ffffffffffffffffffffffffffffffff6e006f006f007000710071007200730073007400750075007600770077007800790079007a007b007b007c007d007d007e007f007f008000810081008200830083008400850085008600870087008800890089008a008b008b008c008d008d008e008f008f009000910091009200930093009400950095009600970097009800990099009a009b009b009c009d009d00d100ffffd200d300d400d500d600033201280000011e0000d700ffffd800d900da00db00dc00001e0128000001280000dd00ffffde00df00df00e000e100031e00000100011e031ee200ffffe300ffffdb00e400e500001e00000000012800000000000000000000020000000100ffffffffffff020002000300ffffffffffff020004000500ffffffffffff020006000700ffffffffffff020008000900ffffffffffff02000a000b00ffffffffffff03000c000d000e00ffffffff02000f001000ffffffffffff020011001200ffffffffffff020013001400ffffffffffff020015001600ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff08001eddddddffffffff02001ee0e0e0ffffffff010000000000ffffffff08001edfdfdfffffffff02001ee0e0e0ffffffff010000000000ffffffff020032e1e1e1ffffffff01001ee2e2e2ffffffff010000000000ffffffff020032e3e3e3ffffffff04001ee4e4e4ffffffff010000000000ffffffff02001ee5e5e5ffffffff01001ee6e6e6ffffffff010000000000ffffffff04001ee7e7e7ffffffff010014e8e8e8ffffffff010000000000ffffffff01001ee9e9e9ffffffff04001eeaeaeaffffffff02001eebebebffffffff04001eecececffffffff08001eedededffffffff010000000000ffffffff02001eeeeeeeffffffff08001eefefefffffffff010000000000ffffffff01001ef0f0f0ffffffff02001ef1f1f1ffffffff010000000000ffffffff02001ef2f2f2ffffffff08001ef3f3f3ffffffff010000000000ffffffff08001ef4f4f4ffffffff01001ef5f5f5ffffffff010000000000ffffffff04001ef6f6f6ffffffff020032f7f7f7ffffffff010000000000ffffffff04001ef8f8f8ffffffff02001ef9f9f9ffffffff010000000000ffffffff04001efafafaffffffff01001efbfbfbffffffff010000000000ffffffff01001efcfcfcffffffff04001efdfdfdffffffff010000000000ffffffff02001efefefeffffffff08001effffffffffffff04001e000000ffffffff02001e010101ffffffff08001e020202ffffffff010000000000ffffffff08001e030303ffffffff02001e040404ffffffff010000000000ffffffff08001e050505ffffffff02001e060606ffffffff01001e070707ffffffff04001e080808ffffffff01001e090909ffffffff010000000000ffffffff08001e0a0a0affffffff02001e0b0b0bffffffff010000000000ffffffff04001e0c0c0cffffffff0800000d0d0dffffffff010000000000ffffffff04001e0e0e0effffffff08001e0f0f0fffffffff010000000000ffffffff08001e101010ffffffff02001e111111ffffffff010000000000ffffffff01001e121212ffffffff08001e131313ffffffff010000000000ffffffff01001e141414ffffffff020032151515ffffffff010000000000ffffffff02001e161616ffffffff08001e171717ffffffff020000181818ffffffff",
+      "text_jp": "ツニテ…<CLOSE><PAGE><CMD_f3> クヘケノ…<LINE>ゼヘ~<LINE><CMD_9e> ェ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  [G_256][G_256]禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ！ <CMD_d2> ＜ ー 、 ’ うげあり  あほ  … <CMD_d8> ） 「 」 『  ほあり  あり  』 <CMD_de> 】 】 ＋ － うほ  あ あほうほ± <CMD_e3> <CMD_db> ÷ ％  ほ    あり          い   あ <CMD_02> い う <CMD_02> え お <CMD_02> か き <CMD_02> く け <CMD_02> こ さ <CMD_03> し す せ <CMD_02> そ た <CMD_02> ち つ <CMD_02> て と <CMD_02> な に <CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ほ』』』<CMD_02> ほ＋＋＋<CMD_01>     <CMD_08> ほ】】】<CMD_02> ほ＋＋＋<CMD_01>     <CMD_02> げ－－－<CMD_01> ほ±±±<CMD_01>     <CMD_02> げ×××<CMD_04> ほ÷÷÷<CMD_01>     <CMD_02> ほ％％％<CMD_01> ほ＃＃＃<CMD_01>     <CMD_04> ほ＆＆＆<CMD_01> と☆☆☆<CMD_01>     <CMD_01> ほ★★★<CMD_04> ほ○○○<CMD_02> ほ●●●<CMD_04> ほ□□□<CMD_08> ほ■■■<CMD_01>     <CMD_02> ほ△△△<CMD_08> ほ▲▲▲<CMD_01>     <CMD_01> ほ※※※<CMD_02> ほ＝＝＝<CMD_01>     <CMD_02> ほ♡♡♡<CMD_08> ほ＄＄＄<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ！？！？！？<CMD_02> げ[G_247][G_247][G_247]<CMD_01>     <CMD_04> ほ[G_248][G_248][G_248]<CMD_02> ほ[G_249][G_249][G_249]<CMD_01>     <CMD_04> ほ[G_250][G_250][G_250]<CMD_01> ほ[G_251][G_251][G_251]<CMD_01>     <CMD_01> ほ[G_252][G_252][G_252]<CMD_04> ほ[G_253][G_253][G_253]<CMD_01>     <CMD_02> ほ[G_254][G_254][G_254]<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
+      "translation_en": ""
+    }
+  ]
+}
