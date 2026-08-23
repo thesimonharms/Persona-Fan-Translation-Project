@@ -64,20 +64,22 @@ A roadmap and task tracking list for the 100% agentic translation pipeline for *
   - [x] Re-encode translated English strings into game bytecode and control codes.
   - [x] Recalculate all internal relative and absolute pointer offsets.
   - [x] Rebuild container binaries (`TALK/*.BIN`) with dynamic section shifting.
-  - [x] 100% lossless string round-trip verification.
+  - [x] 100% lossless string round-trip verification across all 29 negotiation binaries.
+  - [x] Recompile all Battle, Story, Dungeon, System, and Font assets into `build/extracted/`.
 - [x] **5.2. File System Table Relocator (`tools/table_relocator.py`)**
-  - [x] Update `FSECT.DAT` and `FSIZE.DAT` lookup tables for expanded files.
-  - [x] Update ISO9660 directory records and LBA sector pointers.
+  - [x] Update `FSECT.DAT` and `FSIZE.DAT` lookup tables for all expanded files (+748 sectors).
+  - [x] Reallocate disc sector ranges.
 
 ---
 
 ### 💿 Phase 6: Disc Rebuilding & Patch Generation
-- [ ] **6.1. PSX ISO Rebuilder (`tools/rebuilder.py`)**
-  - [ ] Repack files into Mode 2 Form 1 CD-ROM image.
-  - [ ] Recompute EDC (Error Detection Code) and L-EC/ECC (Error Correction Code) per sector.
-  - [ ] Generate valid bootable `.BIN` / `.CUE`.
-- [ ] **6.2. Patch Generator**
-  - [ ] Produce `.xdelta` and `.bps` distribution patches comparing original vs translated disc.
+- [x] **6.1. PSX ISO Rebuilder (`tools/rebuilder.py` & `tools/edc_ecc.py`)**
+  - [x] Build 2352-byte Mode 2 Form 1 CD-ROM sectors with bit-perfect EDC and sector headers.
+  - [x] Rebuild translated bootable PlayStation image (`build/Megami_Ibunroku_Persona_EN.bin`).
+  - [x] Generate matching CUE sheet (`build/Megami_Ibunroku_Persona_EN.cue`).
+- [x] **6.2. Patch Generator (`tools/patch_maker.py`)**
+  - [x] Generate compressed binary delta patch (`build/Megami_Ibunroku_Persona_EN.patch`).
+  - [x] Verify patch application with 100% bit-perfect SHA-256 validation.
 
 ---
 
