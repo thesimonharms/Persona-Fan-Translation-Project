@@ -17,10 +17,11 @@ Strategies:
                 encode longer than the original are SKIPPED (left Japanese)
                 and reported.
 
-Encoding (see docs/EXTRACTION_HANDOFF.md):
-  1-byte glyphs 0x00-0xFF (0x80-0x87 reserved as 2-byte leads),
-  2-byte glyphs 0x80|hi,lo -> ((hi&0x7F)<<8)|lo.
-  NOTE: lowercase a-z are glyphs 1827-1861 = 2 bytes each.
+Encoding (see docs/EXTRACTION_HANDOFF.md and tools/font_remap.py):
+  1-byte glyphs 0x00-0x7F only. 0x80-0x87 are 2-byte leads; 0xFF is the
+  control lead. Glyphs >= 128 always use 2-byte form 0x80|hi, lo.
+  English letters/punct encode through leftover-safe 1-byte kana slots
+  (docs/tbl/font_remap_en.json). Translation JSON is never rewritten.
 """
 import json
 import struct
@@ -29,115 +30,22 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from tools.extractor2 import extract_talk, decode, TBL
+from tools.font_remap import (
+    encode_gid, encode_text as remap_encode_text, fit_event_text, patch_font,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "extracted"
 OUT = ROOT / "build/extracted"
 
-# Font remap: lowercase a-z and punctuation mapped to 1-byte kana slots.
-# FONT.BIN bitmaps overwritten to match. See docs/tbl/font_remap.json.
-FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap_full.json"
-FONT_REMAP = {}
-if FONT_REMAP_PATH.is_file():
-    FONT_REMAP = json.loads(FONT_REMAP_PATH.read_text())
-
-TAG_BYTES = {
-    "<PAUSE>": b"\xff\xf1", "<NAME?>": b"\xff\xf3", "<LINE>": b"\xff\xf5",
-    "<PAGE>": b"\xff\xf6", "<MENU_A>": b"\xff\xfb", "<MENU_B>": b"\xff\xf7",
-    "<CLOSE>": b"\xff\xfc", "<CHOICE>": b"\xff\xfd", "<END>": b"\xff\xfe",
-}
-
-FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap.json"
-# Ambiguous tag: decode collapsed FF EF/EE/ED/EB into <VOICE?>. Disambiguate
-# against the original raw bytes; default EF.
-VOICE_CODES = (0xEF, 0xEE, 0xED, 0xEB)
-
-# Common translation punctuation -> closest in-font glyph
-CHAR_FALLBACK = {
-    "\u2014": "\u30fc", "\u2013": "\u30fc", "~": "\u301c",   # dashes/tilde -> ー/〜
-    "\u2018": "'", "\u2019": "'", "\u201c": '"', "\u201d": '"',
-    "\u00a0": " ", "\u3000": " ",
-}
-
 REV = {}
 for _gid, _ch in TBL.items():
     REV.setdefault(_ch, _gid)
 
-# Override with font remap: lowercase/punct -> 1-byte kana slots
-for _ch, _gid in FONT_REMAP.items():
-    REV[_ch] = _gid
-
 
 def encode_text(text: str, orig_raw: bytes = None):
     """Encode tagged English/JP text to game bytes. Returns (bytes, errors)."""
-    out = bytearray()
-    errors = []
-    i = 0
-    n = len(text)
-    while i < n:
-        # named tags
-        matched = False
-        for tag, b in TAG_BYTES.items():
-            if text.startswith(tag, i):
-                out.extend(b)
-                i += len(tag)
-                matched = True
-                break
-        if matched:
-            continue
-        # <VOICE?>: disambiguate EF/EE/ED/EB from original bytes
-        if text.startswith("<VOICE?>", i):
-            code = 0xEF
-            if orig_raw:
-                for k in range(len(orig_raw) - 1):
-                    if orig_raw[k] == 0xFF and orig_raw[k + 1] in VOICE_CODES:
-                        code = orig_raw[k + 1]
-                        break
-            out.extend(bytes([0xFF, code]))
-            i += 8
-            continue
-        # [FF] = lone trailing FF byte (boundary artifact)
-        if text.startswith("[FF]", i):
-            out.append(0xFF)
-            i += 4
-            continue
-        # [xx] raw control
-        if text[i] == "[" and i + 3 <= n and text[i + 3] == "]":
-            try:
-                code = int(text[i + 1:i + 3], 16)
-                out.extend(bytes([0xFF, code]))
-                i += 4
-                continue
-            except ValueError:
-                pass
-        # {2xx} raw glyph id
-        if text[i] == "{" and text.find("}", i) != -1:
-            j = text.find("}", i)
-            try:
-                gid = int(text[i + 1:j])
-                out.extend(encode_gid(gid))
-                i = j + 1
-                continue
-            except ValueError:
-                pass
-        ch = text[i]
-        if ch in CHAR_FALLBACK:
-            ch = CHAR_FALLBACK[ch]
-        gid = REV.get(ch)
-        if gid is None:
-            errors.append(ch)
-            i += 1
-            continue
-        out.extend(encode_gid(gid))
-        i += 1
-    return bytes(out), errors
-
-def encode_gid(gid: int) -> bytes:
-    """All glyphs >= 128 MUST use 2-byte form (lead + index).
-    Single bytes >= 0x88 are NOT valid text codes."""
-    if gid < 0x80:
-        return bytes([gid])
-    return bytes([0x80 | (gid >> 8), gid & 0xFF])
+    return remap_encode_text(text, orig_raw=orig_raw, rev=REV)
 
 
 # ------------------------------------------------------------- TALK rebuild
@@ -249,21 +157,27 @@ def patch_event_file(json_path: Path, orig_bin: Path, out_bin: Path) -> dict:
     d = json.loads(json_path.read_text(encoding="utf-8"))
     data = bytearray(orig_bin.read_bytes())
     stats = {"file": str(orig_bin.relative_to(SRC)), "translated": 0,
-             "skipped_overflow": [], "skipped_error": [], "encode_errors": []}
+             "drop_speaker": 0, "skipped_overflow": [], "skipped_error": [],
+             "encode_errors": []}
     for e in d["entries"]:
         en = e.get("translation_en", "").strip()
         if not en:
             continue
-        enc, errs = encode_text(en, orig_raw=bytes.fromhex(e.get("raw_hex", "")))
+        orig_raw = bytes.fromhex(e.get("raw_hex", ""))
+        _, errs = encode_text(en, orig_raw=orig_raw)
         if errs:
             stats["encode_errors"].append((e["offset"], errs))
         off, ln = e["offset"], e["length_bytes"]
-        if len(enc) > ln:
+        enc, method = fit_event_text(en, ln, orig_raw=orig_raw, rev=REV)
+        if enc is None:
+            full, _ = encode_text(en, orig_raw=orig_raw)
             stats["skipped_overflow"].append(
-                {"offset": off, "need": len(enc), "have": ln, "en": en[:40]})
+                {"offset": off, "need": len(full), "have": ln, "en": en[:80]})
             continue
         data[off:off + ln] = enc.ljust(ln, b"\x00")
         stats["translated"] += 1
+        if method == "drop_speaker":
+            stats["drop_speaker"] += 1
     out_bin.parent.mkdir(parents=True, exist_ok=True)
     out_bin.write_bytes(data)
     return stats
@@ -282,6 +196,9 @@ def main():
     OUT = ROOT / args.out
 
     report = {"talk": [], "events": []}
+
+    n_glyphs = patch_font(SRC / "FONT.BIN", OUT / "FONT.BIN")
+    print(f"[FONT] patched {n_glyphs} 1-byte Latin slots -> {OUT / 'FONT.BIN'}")
 
     # 1. TALK rebuilds
     for jp in sorted((ROOT / args.translated_dir / "talk").glob("*.json")):
@@ -307,7 +224,9 @@ def main():
         st = patch_event_file(jp, SRC / brel, OUT / brel)
         report["events"].append(st)
         ov = len(st["skipped_overflow"])
+        dropped = st.get("drop_speaker", 0)
         print(f"[EVT ] {st['file']}: {st['translated']} patched"
+              + (f", {dropped} speaker-dropped" if dropped else "")
               + (f", {ov} OVERFLOW-SKIPPED" if ov else ""))
 
     # summary

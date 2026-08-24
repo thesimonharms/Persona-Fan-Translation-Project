@@ -27,13 +27,14 @@ print(f'Translation pool: {len(have)}')
 
 TBL = {int(k): v for k, v in json.loads(
     Path('docs/tbl/persona_char_table_v2.json').read_text(encoding='utf-8')).items()}
-FONT_REMAP = json.loads(Path('docs/tbl/font_remap_full.json').read_text())
-
 REV = {}
 for gid, ch in sorted(TBL.items()):
     REV.setdefault(ch, gid)
-for ch, gid in FONT_REMAP.items():
-    REV[ch] = gid
+
+def gid_cost(gid):
+    # Safe 1-byte range is 0x00-0x7F only. 0x80-0x87 are 2-byte leads
+    # and 0xFF is the control lead.
+    return 1 if gid < 0x80 else 2
 
 def encode_cost(text):
     total = 0; i = 0; n = len(text)
@@ -47,25 +48,20 @@ def encode_cost(text):
             total += 2; i += 4; continue
         gid = REV.get(text[i])
         if gid is None: return -1
-        total += 1 if gid < 0x80 else 2
+        total += gid_cost(gid)
         i += 1
     return total
 
 def condense(text, budget):
     if encode_cost(text) <= budget: return text, True
-    t = text[0] + text[1:].lower() if len(text) > 1 else text.lower()
-    if encode_cost(t) <= budget: return t, True
-    words = t.split()
+    words = text.split()
     while len(words) > 1:
         words.pop()
         cand = ' '.join(words)
         if not cand.endswith(('.','!','?')): cand += '.'
         c = encode_cost(cand)
         if 0 <= c <= budget: return cand, True
-    for l in range(len(t), 0, -1):
-        c = encode_cost(t[:l])
-        if 0 <= c <= budget: return t[:l], True
-    return '', False
+    return '', False  # never hard-truncate; keep Japanese instead
 
 os.makedirs('scripts/final_v2', exist_ok=True)
 

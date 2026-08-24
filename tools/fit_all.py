@@ -1,61 +1,27 @@
-#!/usr/bin/env python3"""
+#!/usr/bin/env python3
 """
-tools/fit_all.py - Auto-condense all translations to fit their byte budgets.
+tools/fit_all.py - Preview how many translations fit under the encode-time
+1-byte remap. Does NOT rewrite scripts/translated/.
 
-Strategy per string:
-1. Try full translation (2-byte ASCII encoding)
-2. Remove control tags that are optional (<PAGE> -> nothing)
-3. Lowercase everything (lowercase = 1 byte via font remap)
-4. Progressive word-boundary truncation
-5. Abbreviation pass (common word substitutions)
-6. Hard truncate to fit
-
-Also handles TALK files via pointer-table rebuild.
+Writes a report to build/fit_preview.json only.
 """
 import json, sys, os
 from pathlib import Path
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 ROOT = Path(__file__).resolve().parent.parent
 
-# Build encoding cost table
-import struct
-TBL = {int(k): v for k, v in json.loads(
-    (ROOT / "docs/tbl/persona_char_table_v2.json").read_text(encoding="utf-8")).items()}
-FONT_REMAP = json.loads((ROOT / "docs/tbl/font_remap_full.json").read_text())
+from tools.extractor2 import TBL
+from tools.font_remap import encode_text, drop_speaker
 
-# Build REV with font remap priority
 REV = {}
-for gid, ch in sorted(TBL.items()):
+for gid, ch in TBL.items():
     REV.setdefault(ch, gid)
-for ch, gid in FONT_REMAP.items():
-    REV[ch] = gid
 
 def encode_cost(text):
-    """Exact byte cost of encoding text."""
-    total = 0
-    i = 0
-    n = len(text)
-    while i < n:
-        # Tags
-        matched = False
-        for tag in ["<LINE>", "<PAGE>", "<CLOSE>", "<END>", "<CHOICE>",
-                    "<PAUSE>", "<MENU_A>", "<MENU_B>", "<NAME?>"]:
-            if text.startswith(tag, i):
-                total += 2
-                i += len(tag)
-                matched = True
-                break
-        if matched:
-            continue
-        if text[i] == "[" and i + 3 <= n and text[i+3] == "]":
-            total += 2; i += 4; continue
-        ch = text[i]
-        gid = REV.get(ch)
-        if gid is None:
-            return -1
-        total += 1 if gid < 0x80 else 2
-        i += 1
-    return total
+    enc, errs = encode_text(text, rev=REV)
+    if errs:
+        return -1
+    return len(enc)
 
 # Common abbreviations that preserve meaning while saving bytes
 ABBREVIATIONS = {
@@ -85,12 +51,7 @@ def condense(text: str, budget: int) -> tuple:
     # Step 1: Remove optional spacing
     t = text.replace("  ", " ")
 
-    # Step 2: Lowercase everything except first char
-    t = t[0] + t[1:].lower() if len(t) > 1 else t.lower()
-    if encode_cost(t) <= budget:
-        return t, True
-
-    # Step 3: Apply abbreviations iteratively
+    # Step 2: Apply abbreviations iteratively
     changed = True
     while changed:
         changed = False
@@ -102,7 +63,7 @@ def condense(text: str, budget: int) -> tuple:
                 if len(new) < len(t):
                     t = new; changed = True
 
-    # Step 4: Drop filler words
+    # Step 3: Drop filler words
     fillers = [" really ", " very ", " quite ", " just ", " even ",
                " actually ", " basically ", " literally ", " totally "]
     for f in fillers:
@@ -111,7 +72,7 @@ def condense(text: str, budget: int) -> tuple:
             if encode_cost(t) <= budget:
                 return t, True
 
-    # Step 5: Word-boundary truncation with ellipsis
+    # Step 4: Word-boundary truncation with ellipsis
     words = t.split()
     while len(words) > 1:
         words.pop()
@@ -121,60 +82,61 @@ def condense(text: str, budget: int) -> tuple:
         if encode_cost(candidate) <= budget:
             return candidate, True
 
-    # Step 6: Hard truncate
-    for l in range(len(t), 0, -1):
-        if encode_cost(t[:l]) <= budget:
-            return t[:l], True
-
+    # Never hard-truncate: a mid-sentence cut reads worse than Japanese.
     return "", False
 
 
 def main():
-    stats = {"total": 0, "fit_full": 0, "fit_condensed": 0, "failed": 0}
-    
-    for fname in ["E0", "E1", "E2", "E3"]:
-        src = ROOT / "scripts/original2/events" / f"ADV__{fname}.BIN.json"
+    stats = {"total": 0, "fit_full": 0, "fit_drop_speaker": 0, "failed": 0}
+    leftovers = []
+
+    files = [
+        ("E0", ROOT / "scripts/translated/events/E0.json"),
+        ("E1", ROOT / "scripts/translated/events/E1.json"),
+        ("E2", ROOT / "scripts/translated/events/E2.json"),
+        ("E3", ROOT / "scripts/translated/events/E3.json"),
+        ("ADV", ROOT / "scripts/translated/story/ADV.json"),
+        ("S2D", ROOT / "scripts/translated/system/S2D.json"),
+    ]
+    for fname, src in files:
         d = json.loads(src.read_text(encoding="utf-8"))
-        
-        refit = 0
+        file_failed = 0
         for e in d["entries"]:
             en = e.get("translation_en", "").strip()
             budget = e["length_bytes"]
             stats["total"] += 1
-            
             if not en:
                 stats["failed"] += 1
+                file_failed += 1
                 continue
-                
             c = encode_cost(en)
-            if c < 0:
-                e["translation_en"] = ""
-                stats["failed"] += 1
-                continue
-            if c <= budget:
+            if 0 <= c <= budget:
                 stats["fit_full"] += 1
                 continue
-            
-            fitted, ok = condense(en, budget)
-            if ok:
-                e["translation_en"] = fitted
-                stats["fit_condensed"] += 1
-                refit += 1
-            else:
-                # Last resort: empty string (keep Japanese)
-                e["translation_en"] = ""
-                stats["failed"] += 1
-        
-        print(f"{fname}: {refit} condensed, "
-              f"{stats['total']} total")
-        with open(f"scripts/final_v2/{fname}.json", "w", encoding="utf-8") as fh:
-            json.dump(d, fh, ensure_ascii=False)
-    
-    print(f"\nSummary:")
+            dropped = drop_speaker(en)
+            cd = encode_cost(dropped)
+            if dropped != en and 0 <= cd <= budget:
+                stats["fit_drop_speaker"] += 1
+                continue
+            stats["failed"] += 1
+            file_failed += 1
+            leftovers.append({
+                "file": fname, "offset": e.get("offset"),
+                "budget": budget, "need": c, "en": en[:80],
+                "text_jp": e.get("text_jp", "")[:40],
+            })
+        print(f"{fname}: leftover {file_failed}")
+
+    out = ROOT / "build/fit_preview.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps({"stats": stats, "leftovers": leftovers},
+                              ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"\nSummary (scripts/translated left untouched):")
     print(f"  Full fit: {stats['fit_full']}")
-    print(f"  Condensed: {stats['fit_condensed']}")
+    print(f"  Speaker-drop fit: {stats['fit_drop_speaker']}")
     print(f"  Failed: {stats['failed']}")
     print(f"  Total: {stats['total']}")
+    print(f"  Report: {out}")
 
 if __name__ == "__main__":
     main()
