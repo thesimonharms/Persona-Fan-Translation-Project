@@ -34,13 +34,20 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "extracted"
 OUT = ROOT / "build/extracted"
 
-# ------------------------------------------------------------------ encoder
+# Font remap: lowercase a-z and punctuation mapped to 1-byte kana slots.
+# FONT.BIN bitmaps overwritten to match. See docs/tbl/font_remap.json.
+FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap.json"
+FONT_REMAP = {}
+if FONT_REMAP_PATH.is_file():
+    FONT_REMAP = json.loads(FONT_REMAP_PATH.read_text())
+
 TAG_BYTES = {
     "<PAUSE>": b"\xff\xf1", "<NAME?>": b"\xff\xf3", "<LINE>": b"\xff\xf5",
     "<PAGE>": b"\xff\xf6", "<MENU_A>": b"\xff\xfb", "<MENU_B>": b"\xff\xf7",
     "<CLOSE>": b"\xff\xfc", "<CHOICE>": b"\xff\xfd", "<END>": b"\xff\xfe",
 }
 
+FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap.json"
 # Ambiguous tag: decode collapsed FF EF/EE/ED/EB into <VOICE?>. Disambiguate
 # against the original raw bytes; default EF.
 VOICE_CODES = (0xEF, 0xEE, 0xED, 0xEB)
@@ -54,7 +61,12 @@ CHAR_FALLBACK = {
 
 REV = {}
 for _gid, _ch in TBL.items():
-    REV.setdefault(_ch, _gid)  # prefer lowest gid (canonical)
+    REV.setdefault(_ch, _gid)
+
+# Override with font remap: lowercase/punct -> 1-byte kana slots
+for _ch, _gid in FONT_REMAP.items():
+    REV[_ch] = _gid
+
 
 def encode_text(text: str, orig_raw: bytes = None):
     """Encode tagged English/JP text to game bytes. Returns (bytes, errors)."""
@@ -120,11 +132,10 @@ def encode_text(text: str, orig_raw: bytes = None):
         i += 1
     return bytes(out), errors
 
-
 def encode_gid(gid: int) -> bytes:
-    """All glyphs >= 128 MUST use 2-byte form. Single bytes >= 0x88 are NOT
-    valid text codes — the renderer treats any high byte as a lead."""
     if gid < 0x80:
+        return bytes([gid])
+    if 0x88 <= gid <= 0xFE:
         return bytes([gid])
     return bytes([0x80 | (gid >> 8), gid & 0xFF])
 

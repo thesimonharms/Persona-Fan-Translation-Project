@@ -78298,6 +78298,94 @@
    "raw_hex": "81d2082f2602",
    "text_jp": "行くがよい",
    "translation_en": "and go forth in safety."
+  },
+  {
+   "id": 9787,
+   "offset": 9579,
+   "length_bytes": 14,
+   "raw_hex": "9057160c10232e354e15022e3915",
+   "text_jp": "バカにしたもんじゃないんだな",
+   "translation_en": "Don't mess with us!"
+  },
+  {
+   "id": 9788,
+   "offset": 9604,
+   "length_bytes": 9,
+   "raw_hex": "81cd820d2f032e172e",
+   "text_jp": "孛禾がうんぬん",
+   "translation_en": "All that Persona talk,"
+  },
+  {
+   "id": 9789,
+   "offset": 10176,
+   "length_bytes": 6,
+   "raw_hex": "987a60660b1f",
+   "text_jp": "ペルソナさま",
+   "translation_en": "O Persona,"
+  },
+  {
+   "id": 9790,
+   "offset": 10184,
+   "length_bytes": 6,
+   "raw_hex": "987a60660b1f",
+   "text_jp": "ペルソナさま",
+   "translation_en": "O Persona,"
+  },
+  {
+   "id": 9791,
+   "offset": 10220,
+   "length_bytes": 6,
+   "raw_hex": "987a60660b1f",
+   "text_jp": "ペルソナさま",
+   "translation_en": "O Persona,"
+  },
+  {
+   "id": 9792,
+   "offset": 10228,
+   "length_bytes": 6,
+   "raw_hex": "987a60660b1f",
+   "text_jp": "ペルソナさま",
+   "translation_en": "O Persona,"
+  },
+  {
+   "id": 9793,
+   "offset": 10127,
+   "length_bytes": 4,
+   "raw_hex": "1e02354e",
+   "text_jp": "ほいじゃ",
+   "translation_en": "Alright then,"
+  },
+  {
+   "id": 9794,
+   "offset": 10788,
+   "length_bytes": 4,
+   "raw_hex": "132e224b",
+   "text_jp": "てんめぇ",
+   "translation_en": "you're one"
+  },
+  {
+   "id": 9795,
+   "offset": 10840,
+   "length_bytes": 5,
+   "raw_hex": "821b13202b",
+   "text_jp": "見てみろ",
+   "translation_en": "Look over there..."
+  },
+  {
+   "id": 9796,
+   "offset": 10982,
+   "length_bytes": 8,
+   "raw_hex": "1e2a821b2b244d43",
+   "text_jp": "ほれ見ろやっぱ",
+   "translation_en": "See? Told ya."
+  },
+  {
+   "id": 9797,
+   "offset": 11005,
+   "length_bytes": 5,
+   "raw_hex": "0a19814014",
+   "text_jp": "この前と",
+   "translation_en": "It's different from last time..."
   }
  ]
 }

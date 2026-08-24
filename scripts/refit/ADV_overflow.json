@@ -1,0 +1,326 @@
+{
+ "file": "ADV.BIN",
+ "count": 40,
+ "entries": [
+  {
+   "id": 2,
+   "offset": 338068,
+   "text_jp": "何もないようだ",
+   "current_en": "Note: 'Used in The Snow Queen play long ago. It feels like bad luck, so the goods are to the right o",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 3,
+   "offset": 338144,
+   "text_jp": "そちらからは",
+   "current_en": "From that direction,",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 4,
+   "offset": 338152,
+   "text_jp": "とれない",
+   "current_en": "it cannot be reached.",
+   "byte_budget": 4,
+   "max_chars": 2
+  },
+  {
+   "id": 5,
+   "offset": 346436,
+   "text_jp": "このペルソナは…",
+   "current_en": "This Persona is...",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 6,
+   "offset": 355856,
+   "text_jp": "ゲ{204}ムを終了します",
+   "current_en": "or dealer busts (Pays 1:1).",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 7,
+   "offset": 355884,
+   "text_jp": "璽源を切って下さい",
+   "current_en": "Please turn off the power.",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 8,
+   "offset": 355899,
+   "text_jp": "(何かボタンを掫すと",
+   "current_en": "(Pressing any button",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 9,
+   "offset": 355945,
+   "text_jp": "セットされていません",
+   "current_en": "is not inserted.",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 10,
+   "offset": 355958,
+   "text_jp": "セ{204}ブが申禾ません",
+   "current_en": "Cannot save.",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 11,
+   "offset": 355976,
+   "text_jp": "払注するメモリ{204}カ{204}ドの",
+   "current_en": "on the specified Memory Card.",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 12,
+   "offset": 356012,
+   "text_jp": "メモリ{204}カ{204}ドが壞れています",
+   "current_en": "The Memory Card is damaged.",
+   "byte_budget": 18,
+   "max_chars": 9
+  },
+  {
+   "id": 13,
+   "offset": 356032,
+   "text_jp": "このメモリ{204}カ{204}ドには",
+   "current_en": "On this Memory Card,",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 14,
+   "offset": 356048,
+   "text_jp": "セ{204}ブ申禾ません",
+   "current_en": "cannot save.",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 15,
+   "offset": 356077,
+   "text_jp": "空き容蕈がありません",
+   "current_en": "there is not enough free space.",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 16,
+   "offset": 356092,
+   "text_jp": "セ{204}ブが申禾ません",
+   "current_en": "Cannot save.",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 17,
+   "offset": 356112,
+   "text_jp": "セ{204}ブは無事完了しました",
+   "current_en": "Save completed successfully.",
+   "byte_budget": 18,
+   "max_chars": 9
+  },
+  {
+   "id": 18,
+   "offset": 356149,
+   "text_jp": "フォ{204}マットされていません",
+   "current_en": "is not formatted.",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 19,
+   "offset": 356169,
+   "text_jp": "フォ{204}マットしますか?",
+   "current_en": "Format it?",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 20,
+   "offset": 356205,
+   "text_jp": "フォ{204}マットしています",
+   "current_en": "Formatting...",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 21,
+   "offset": 356236,
+   "text_jp": "メモリ{204}カ{204}ドのフォ{204}マットが終了しました",
+   "current_en": "Memory Card formatting is complete.",
+   "byte_budget": 29,
+   "max_chars": 14
+  },
+  {
+   "id": 22,
+   "offset": 356272,
+   "text_jp": "メモリ{204}カ{204}ドのフォ{204}マットに失敗しました",
+   "current_en": "Failed to format Memory Card.",
+   "byte_budget": 29,
+   "max_chars": 14
+  },
+  {
+   "id": 23,
+   "offset": 356308,
+   "text_jp": "デ{204}タを霄き込んでいます",
+   "current_en": "Writing data...",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 24,
+   "offset": 356352,
+   "text_jp": "宇剖デ{204}タのセ{204}ブが",
+   "current_en": "System data save",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 25,
+   "offset": 356370,
+   "text_jp": "完了しました",
+   "current_en": "has completed.",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 26,
+   "offset": 356380,
+   "text_jp": "ゲ{204}ムを終了します",
+   "current_en": "or dealer busts (Pays 1:1).",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 27,
+   "offset": 356416,
+   "text_jp": "このデ{204}タの轅きを始めることができます",
+   "current_en": "You can continue playing from this data.",
+   "byte_budget": 23,
+   "max_chars": 11
+  },
+  {
+   "id": 28,
+   "offset": 356443,
+   "text_jp": "このまま璽源を切って下さい",
+   "current_en": "Please turn off the power now.",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 29,
+   "offset": 356462,
+   "text_jp": "(何かボタンを掫すと",
+   "current_en": "(Pressing any button",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 30,
+   "offset": 356479,
+   "text_jp": "タイトル画面に戻ります)",
+   "current_en": "will return to the title screen.)",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 31,
+   "offset": 356509,
+   "text_jp": "赱のデ{204}タは",
+   "current_en": "The previous data",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 32,
+   "offset": 356520,
+   "text_jp": "消えてしまいます",
+   "current_en": "will be overwritten.",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 33,
+   "offset": 356533,
+   "text_jp": "部霄きしますか?",
+   "current_en": "Overwrite it?",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 34,
+   "offset": 356603,
+   "text_jp": "部霄きすることはできません",
+   "current_en": "Cannot overwrite.",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 35,
+   "offset": 356624,
+   "text_jp": "セ{204}ブデ{204}タ(Sデ{204}タ)領域に宇剖デ{204}タ(Cデ{204}タ)を",
+   "current_en": "System data (C Data) into Save Data (S Data) block",
+   "byte_budget": 47,
+   "max_chars": 23
+  },
+  {
+   "id": 36,
+   "offset": 356673,
+   "text_jp": "部霄きすることはできません",
+   "current_en": "Cannot overwrite.",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 37,
+   "offset": 356761,
+   "text_jp": "据め解き放つときが禾ましたか…",
+   "current_en": "Has the time come to unleash it...?",
+   "byte_budget": 20,
+   "max_chars": 10
+  },
+  {
+   "id": 38,
+   "offset": 356785,
+   "text_jp": "ならば共に貰いしその別なる沚",
+   "current_en": "Then in exchange for that other soul",
+   "byte_budget": 18,
+   "max_chars": 9
+  },
+  {
+   "id": 39,
+   "offset": 356808,
+   "text_jp": "さに替えて",
+   "current_en": "you received together,",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 40,
+   "offset": 356816,
+   "text_jp": "あなたに返しましょうかな…",
+   "current_en": "shall I return it to you...?",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 42,
+   "offset": 356850,
+   "text_jp": "手に入れた",
+   "current_en": "Believe in the future.",
+   "byte_budget": 7,
+   "max_chars": 3
+  }
+ ]
+}

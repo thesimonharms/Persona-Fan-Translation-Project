@@ -1,0 +1,902 @@
+{
+ "file": "S2D.BIN",
+ "count": 112,
+ "entries": [
+  {
+   "id": 3,
+   "offset": 174138,
+   "text_jp": "いざね",
+   "current_en": "Well then.",
+   "byte_budget": 3,
+   "max_chars": 1
+  },
+  {
+   "id": 4,
+   "offset": 183902,
+   "text_jp": "いざね",
+   "current_en": "Well then.",
+   "byte_budget": 3,
+   "max_chars": 1
+  },
+  {
+   "id": 6,
+   "offset": 289970,
+   "text_jp": "注があるのか?",
+   "current_en": "Do you have business here?",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 7,
+   "offset": 290056,
+   "text_jp": "ゆきの:｜アラヤ神扎の由禾』…",
+   "current_en": "Yukino: \"Origins of Araya Shrine\"...",
+   "byte_budget": 23,
+   "max_chars": 11
+  },
+  {
+   "id": 8,
+   "offset": 290091,
+   "text_jp": "人の沚の宇に任む",
+   "current_en": "Residing within the hearts of humanity,",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 9,
+   "offset": 290109,
+   "text_jp": "まつったものです』",
+   "current_en": "is what is enshrined here.\"",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 10,
+   "offset": 290121,
+   "text_jp": "だってさ",
+   "current_en": "or so it says.",
+   "byte_budget": 4,
+   "max_chars": 2
+  },
+  {
+   "id": 11,
+   "offset": 290154,
+   "text_jp": "変な名前ね!",
+   "current_en": "What a strange name!",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 12,
+   "offset": 290176,
+   "text_jp": "あるのかなぁ?",
+   "current_en": "I wonder if there is...?",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 13,
+   "offset": 290347,
+   "text_jp": "されてねぇんだ",
+   "current_en": "hasn't been done.",
+   "byte_budget": 7,
+   "max_chars": 3
+  },
+  {
+   "id": 14,
+   "offset": 290373,
+   "text_jp": "見るモンがねぇって話だぜ",
+   "current_en": "They say there's nothing to see.",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 15,
+   "offset": 290407,
+   "text_jp": "入れなかったっけ…",
+   "current_en": "Couldn't we go inside...?",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 16,
+   "offset": 290451,
+   "text_jp": "愴跡があるのに",
+   "current_en": "Even though there are ruins,",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 17,
+   "offset": 290467,
+   "text_jp": "入れないんですものね",
+   "current_en": "we still can't enter, can we?",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 18,
+   "offset": 290576,
+   "text_jp": "逃げるつもり?",
+   "current_en": "Are you trying to run away?",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 19,
+   "offset": 290609,
+   "text_jp": "怒られるよ!",
+   "current_en": "You're gonna get yelled at!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 20,
+   "offset": 290646,
+   "text_jp": "逃げるつもりか?",
+   "current_en": "Are you planning to run?",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 21,
+   "offset": 290720,
+   "text_jp": "閉まっている…",
+   "current_en": "It's closed...",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 22,
+   "offset": 290883,
+   "text_jp": "思ったとおり",
+   "current_en": "Just as I thought,",
+   "byte_budget": 7,
+   "max_chars": 3
+  },
+  {
+   "id": 23,
+   "offset": 290903,
+   "text_jp": "逃げることはできんということだ",
+   "current_en": "it means running away is not an option.",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 24,
+   "offset": 291021,
+   "text_jp": "申してくれよ!",
+   "current_en": "Let me out!",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 25,
+   "offset": 291057,
+   "text_jp": "肪けてくれよォ{204}!",
+   "current_en": "Save meee!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 26,
+   "offset": 291108,
+   "text_jp": "閉まっている…",
+   "current_en": "It's closed...",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 27,
+   "offset": 291201,
+   "text_jp": "達れて行かなくては!",
+   "current_en": "We have to take them with us!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 28,
+   "offset": 291264,
+   "text_jp": "化している…",
+   "current_en": "has transformed...",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 29,
+   "offset": 291307,
+   "text_jp": "アンちゃんらと",
+   "current_en": "with those big bros",
+   "byte_budget": 7,
+   "max_chars": 3
+  },
+  {
+   "id": 30,
+   "offset": 291345,
+   "text_jp": "入っていったぞ",
+   "current_en": "went inside!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 31,
+   "offset": 291394,
+   "text_jp": "閉ざされている…",
+   "current_en": "It's sealed shut...",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 32,
+   "offset": 291451,
+   "text_jp": "ここが警察か?",
+   "current_en": "Is this the police station?",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 33,
+   "offset": 291463,
+   "text_jp": "定談は顔だけにしろ!",
+   "current_en": "Keep the jokes to your face!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 34,
+   "offset": 291583,
+   "text_jp": "こんな薄角い場斯に",
+   "current_en": "In a dark and gloomy place like this,",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 35,
+   "offset": 291598,
+   "text_jp": "注は無いはずだろう?",
+   "current_en": "you shouldn't have any business, right?",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 36,
+   "offset": 291627,
+   "text_jp": "てんめぇ…",
+   "current_en": "You bastard...",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 37,
+   "offset": 291656,
+   "text_jp": "本当にフラフラすんのが好きなんだね",
+   "current_en": "You really love wandering around aimlessly, don't ya?",
+   "byte_budget": 20,
+   "max_chars": 10
+  },
+  {
+   "id": 38,
+   "offset": 291684,
+   "text_jp": "時と場斯を選びな!",
+   "current_en": "Pick the right time and place!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 39,
+   "offset": 291700,
+   "text_jp": "ったく…",
+   "current_en": "Sheesh...",
+   "byte_budget": 5,
+   "max_chars": 2
+  },
+  {
+   "id": 40,
+   "offset": 291752,
+   "text_jp": "黒服の女:ここから旡は",
+   "current_en": "Woman in Black: Beyond here...",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 41,
+   "offset": 291770,
+   "text_jp": "セベクの管理下だ!",
+   "current_en": "is under SEBEC's jurisdiction!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 42,
+   "offset": 291786,
+   "text_jp": "僵行は禁止されている!",
+   "current_en": "Passage is strictly prohibited!",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 43,
+   "offset": 291818,
+   "text_jp": "えらそうにぃ!",
+   "current_en": "Acting so high and mighty!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 44,
+   "offset": 291832,
+   "text_jp": "アッタマきちゃう!",
+   "current_en": "That really ticks me off!",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 45,
+   "offset": 291849,
+   "text_jp": "みんな!イ{214}ッダ!",
+   "current_en": "Everyone, let's go~!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 46,
+   "offset": 291964,
+   "text_jp": "お埴じゃなかった…?",
+   "current_en": "Wasn't it a shrine...?",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 47,
+   "offset": 292030,
+   "text_jp": "記蟷軣失なのかよ?",
+   "current_en": "Did you lose your memory?!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 48,
+   "offset": 292069,
+   "text_jp": "なんかそんな気がしてきた!",
+   "current_en": "I'm starting to feel that way too!",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 49,
+   "offset": 292088,
+   "text_jp": "帛く行こ!",
+   "current_en": "Let's hurry and go!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 50,
+   "offset": 292259,
+   "text_jp": "ここが警察か?",
+   "current_en": "Is this the police station?",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 51,
+   "offset": 292271,
+   "text_jp": "定談は顔だけにしろ!",
+   "current_en": "Keep the jokes to your face!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 52,
+   "offset": 292292,
+   "text_jp": "悃希:あれ?",
+   "current_en": "Maki: Huh?",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 53,
+   "offset": 292307,
+   "text_jp": "お埴だったと思ったけど…",
+   "current_en": "I thought it was a shrine...",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 54,
+   "offset": 292427,
+   "text_jp": "こんな薄角い場斯に",
+   "current_en": "In a dark and gloomy place like this,",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 55,
+   "offset": 292442,
+   "text_jp": "注は無いはずだろう?",
+   "current_en": "you shouldn't have any business, right?",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 56,
+   "offset": 292471,
+   "text_jp": "てんめぇ…",
+   "current_en": "You bastard...",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 57,
+   "offset": 292504,
+   "text_jp": "こんな建物だった?",
+   "current_en": "Was it always a building like this?",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 58,
+   "offset": 292608,
+   "text_jp": "黒服の女:ここから旡は",
+   "current_en": "Woman in Black: Beyond here...",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 59,
+   "offset": 292626,
+   "text_jp": "セベクの管理下だ!",
+   "current_en": "is under SEBEC's jurisdiction!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 60,
+   "offset": 292642,
+   "text_jp": "僵行は禁止されている!",
+   "current_en": "Passage is strictly prohibited!",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 61,
+   "offset": 292674,
+   "text_jp": "えらそうにぃ!",
+   "current_en": "Acting so high and mighty!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 62,
+   "offset": 292688,
+   "text_jp": "アッタマきちゃう!",
+   "current_en": "That really ticks me off!",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 63,
+   "offset": 292705,
+   "text_jp": "みんな!イ{214}ッダ!",
+   "current_en": "Everyone, let's go~!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 64,
+   "offset": 292724,
+   "text_jp": "ゆきの:なにをえらそうに…",
+   "current_en": "Yukino: Acting all high and mighty...",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 65,
+   "offset": 292745,
+   "text_jp": "気分が悪くなる",
+   "current_en": "Makes me sick.",
+   "byte_budget": 10,
+   "max_chars": 5
+  },
+  {
+   "id": 66,
+   "offset": 292757,
+   "text_jp": "帛く行くよ",
+   "current_en": "Let's hurry up.",
+   "byte_budget": 7,
+   "max_chars": 3
+  },
+  {
+   "id": 67,
+   "offset": 292848,
+   "text_jp": "悃希:おっかしいな{204}",
+   "current_en": "Maki: That's strange~",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 68,
+   "offset": 292867,
+   "text_jp": "お埴じゃなかった…?",
+   "current_en": "Wasn't it a shrine...?",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 69,
+   "offset": 292887,
+   "text_jp": "禾れないはずなのに…",
+   "current_en": "We shouldn't be able to come here...",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 70,
+   "offset": 292950,
+   "text_jp": "記蟷軣失なのかよ?",
+   "current_en": "Did you lose your memory?!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 71,
+   "offset": 292989,
+   "text_jp": "なんかそんな気がしてきた!",
+   "current_en": "I'm starting to feel that way too!",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 72,
+   "offset": 293008,
+   "text_jp": "帛く行こ!",
+   "current_en": "Let's hurry and go!",
+   "byte_budget": 8,
+   "max_chars": 4
+  },
+  {
+   "id": 73,
+   "offset": 293064,
+   "text_jp": "マ{204}ク:こんなうっと{204}し{204}トコもう注はねぇだろ?",
+   "current_en": "Mark: We don't got any more business in a dreary place like this, do we?",
+   "byte_budget": 30,
+   "max_chars": 15
+  },
+  {
+   "id": 74,
+   "offset": 293096,
+   "text_jp": "帛く神取ブチのめしに行こうぜ",
+   "current_en": "Let's hurry up and go beat the crap outta Kandori!",
+   "byte_budget": 19,
+   "max_chars": 9
+  },
+  {
+   "id": 75,
+   "offset": 293152,
+   "text_jp": "悃希:他の場斯に行くの?",
+   "current_en": "Maki: Are we going somewhere else?",
+   "byte_budget": 20,
+   "max_chars": 10
+  },
+  {
+   "id": 76,
+   "offset": 293178,
+   "text_jp": "みんなと",
+   "current_en": "Unleash our full power!",
+   "byte_budget": 4,
+   "max_chars": 2
+  },
+  {
+   "id": 77,
+   "offset": 293236,
+   "text_jp": "南茱:ここに入れるのは",
+   "current_en": "Nanjo: The only ones who can enter here...",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 78,
+   "offset": 293253,
+   "text_jp": "お前と園忖だけのはずだろうが",
+   "current_en": "should be you and Sonomura.",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 79,
+   "offset": 293337,
+   "text_jp": "入れないんだ",
+   "current_en": "can't enter.",
+   "byte_budget": 7,
+   "max_chars": 3
+  },
+  {
+   "id": 80,
+   "offset": 293428,
+   "text_jp": "嘩菫厘敷ブッ壞してセベクになってたんだよな?",
+   "current_en": "They tore down the mansion and built SEBEC, right?",
+   "byte_budget": 31,
+   "max_chars": 15
+  },
+  {
+   "id": 81,
+   "offset": 293486,
+   "text_jp": "タイムスリップなんか?",
+   "current_en": "Did we time slip or something?",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 82,
+   "offset": 293520,
+   "text_jp": "悃希:こっちじゃ",
+   "current_en": "Maki: In this world,",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 83,
+   "offset": 293537,
+   "text_jp": "こうだったけど…",
+   "current_en": "it was like this, but...",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 84,
+   "offset": 293596,
+   "text_jp": "こんなトコ禾てる場合か?",
+   "current_en": "Is this really the time to be coming to a place like this?!",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 85,
+   "offset": 293614,
+   "text_jp": "他にやるコトあんだろ?",
+   "current_en": "Don't we have other things to do?!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 86,
+   "offset": 293664,
+   "text_jp": "悃希:あの子は",
+   "current_en": "Maki: That child...",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 87,
+   "offset": 293677,
+   "text_jp": "もうだいじょぶだよ",
+   "current_en": "is alright now.",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 88,
+   "offset": 293690,
+   "text_jp": "帛くしないと!",
+   "current_en": "We have to hurry!",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 89,
+   "offset": 293840,
+   "text_jp": "行くんじゃね{204}のかよ",
+   "current_en": "Aren't we supposed to go?!",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 90,
+   "offset": 293856,
+   "text_jp": "南茱:街を申てどうする気だ?",
+   "current_en": "Nanjo: What do you plan to do leaving the town?!",
+   "byte_budget": 21,
+   "max_chars": 10
+  },
+  {
+   "id": 91,
+   "offset": 293879,
+   "text_jp": "痞畭に行くのだろうが",
+   "current_en": "We are supposed to be going to the hospital!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 92,
+   "offset": 293920,
+   "text_jp": "キレるよ",
+   "current_en": "I'm gonna lose it.",
+   "byte_budget": 4,
+   "max_chars": 2
+  },
+  {
+   "id": 93,
+   "offset": 293926,
+   "text_jp": "街申てどうする気だい!",
+   "current_en": "What do you plan to do leaving the town?!",
+   "byte_budget": 15,
+   "max_chars": 7
+  },
+  {
+   "id": 94,
+   "offset": 293945,
+   "text_jp": "まったく…",
+   "current_en": "Wasted all that sympathy.",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 95,
+   "offset": 294009,
+   "text_jp": "どうする気だ?",
+   "current_en": "What are you planning to do?",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 96,
+   "offset": 294026,
+   "text_jp": "街の東にいるんだぞ?",
+   "current_en": "is to the east of town, you know?!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 97,
+   "offset": 294076,
+   "text_jp": "マ{204}ク:オイオイオイオイオイ!フラフラしてる場合か?",
+   "current_en": "Mark: Whoa-whoa-whoa! Is this really the time to be wandering around?!",
+   "byte_budget": 32,
+   "max_chars": 16
+  },
+  {
+   "id": 98,
+   "offset": 294110,
+   "text_jp": "ゆ{204}ちょ{204}なヤツだな{204}!!",
+   "current_en": "You're taking your sweet time, aren't ya?!",
+   "byte_budget": 18,
+   "max_chars": 9
+  },
+  {
+   "id": 99,
+   "offset": 294140,
+   "text_jp": "そっちじゃね{204}ぞ",
+   "current_en": "It's not that way!",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 100,
+   "offset": 294180,
+   "text_jp": "おじさん:オ{204}マイガッ!",
+   "current_en": "Middle-aged Man: Oh my God!",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 101,
+   "offset": 294243,
+   "text_jp": "入ると危ないぞ!",
+   "current_en": "It's dangerous if you go in!",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 102,
+   "offset": 294401,
+   "text_jp": "これ!?",
+   "current_en": "What is this?!",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 103,
+   "offset": 294409,
+   "text_jp": "学枚が無くなってる!!",
+   "current_en": "The school is gone!!",
+   "byte_budget": 16,
+   "max_chars": 8
+  },
+  {
+   "id": 104,
+   "offset": 294427,
+   "text_jp": "由子やみんなは!?",
+   "current_en": "Where are Yuko and everyone else?!",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 105,
+   "offset": 294444,
+   "text_jp": "南茱:これも",
+   "current_en": "Nanjo: Is this too...",
+   "byte_budget": 9,
+   "max_chars": 4
+  },
+  {
+   "id": 106,
+   "offset": 294455,
+   "text_jp": "デヴァ'システムの髯釁か…",
+   "current_en": "the influence of the Deva System...?",
+   "byte_budget": 20,
+   "max_chars": 10
+  },
+  {
+   "id": 107,
+   "offset": 294483,
+   "text_jp": "ふざけた真傑を!",
+   "current_en": "What outrageous mockery!",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 108,
+   "offset": 294500,
+   "text_jp": "悃希:ほんとだ!",
+   "current_en": "Maki: It's true!",
+   "byte_budget": 12,
+   "max_chars": 6
+  },
+  {
+   "id": 109,
+   "offset": 294514,
+   "text_jp": "学枚が無くなってる!",
+   "current_en": "The school has disappeared!",
+   "byte_budget": 14,
+   "max_chars": 7
+  },
+  {
+   "id": 110,
+   "offset": 294566,
+   "text_jp": "これも神取の意圖なのか?",
+   "current_en": "Is this also Kandori's doing?",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 111,
+   "offset": 294587,
+   "text_jp": "いずれにしろ",
+   "current_en": "In any case,",
+   "byte_budget": 6,
+   "max_chars": 3
+  },
+  {
+   "id": 112,
+   "offset": 294601,
+   "text_jp": "直悽どうにかできる",
+   "current_en": "directly fixing this",
+   "byte_budget": 11,
+   "max_chars": 5
+  },
+  {
+   "id": 113,
+   "offset": 294614,
+   "text_jp": "レベルの聞題ではなさそうだな",
+   "current_en": "does not seem to be a simple problem.",
+   "byte_budget": 17,
+   "max_chars": 8
+  },
+  {
+   "id": 114,
+   "offset": 294654,
+   "text_jp": "ヤロ{204}に戻させるまでだ",
+   "current_en": "We just have to make that bastard restore it.",
+   "byte_budget": 13,
+   "max_chars": 6
+  },
+  {
+   "id": 115,
+   "offset": 294687,
+   "text_jp": "イヤっつ{204}ほど教えてやるぜ",
+   "current_en": "We'll teach him a lesson he'll never forget!",
+   "byte_budget": 15,
+   "max_chars": 7
+  }
+ ]
+}
