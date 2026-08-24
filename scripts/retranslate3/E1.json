@@ -1,5 +1,2160 @@
 {
- "file": "E1",
- "count": 0,
- "strings": []
+ "file": "ADV/E1.BIN",
+ "entries": [
+  {
+   "id": 0,
+   "text_jp": "何だかよく わっかんないけど",
+   "translation_en": "I don't really get what's going on,"
+  },
+  {
+   "id": 1,
+   "text_jp": "超 ラッキ{204}じゃん!!",
+   "translation_en": "Super lucky, right?!"
+  },
+  {
+   "id": 2,
+   "text_jp": "たまきちゃんとただしくんが",
+   "translation_en": "Tamaki-chan and Tadashi-kun are"
+  },
+  {
+   "id": 3,
+   "text_jp": "ほ みぃ…?",
+   "translation_en": "Look at that...?"
+  },
+  {
+   "id": 4,
+   "text_jp": "ま いいけどね",
+   "translation_en": "Well, whatever works."
+  },
+  {
+   "id": 5,
+   "text_jp": "ゆきの:さて と",
+   "translation_en": "Yukino: Well then,"
+  },
+  {
+   "id": 6,
+   "text_jp": "そろそろ 覬玉を",
+   "translation_en": "It's about time we find our true friend..."
+  },
+  {
+   "id": 7,
+   "text_jp": "ときどき すっごく",
+   "translation_en": "Sometimes, it gets really..."
+  },
+  {
+   "id": 8,
+   "text_jp": "う{204}ん 超 惰熱吋{204}ィ",
+   "translation_en": "Yeah, super passionate~!"
+  },
+  {
+   "id": 9,
+   "text_jp": "アヤセ:うぅん アヤセも",
+   "translation_en": "Ayase: Mmm, Ayase too,"
+  },
+  {
+   "id": 10,
+   "text_jp": "こんな アっツ{204}い",
+   "translation_en": "so freakin' hot..."
+  },
+  {
+   "id": 11,
+   "text_jp": "南茱:やつら まだ",
+   "translation_en": "Nanjo: Those guys are still..."
+  },
+  {
+   "id": 12,
+   "text_jp": "これでは何のために 二人を",
+   "translation_en": "If this continues, what was the point of rescuing the two of them..."
+  },
+  {
+   "id": 13,
+   "text_jp": "これで 文句はないだろう",
+   "translation_en": "You can't complain about this, right?"
+  },
+  {
+   "id": 14,
+   "text_jp": "ほ 三人とも無事だったのは",
+   "translation_en": "See, the three of them were safe,"
+  },
+  {
+   "id": 15,
+   "text_jp": "たまきちゃん まだ",
+   "translation_en": "Is Tamaki-chan still..."
+  },
+  {
+   "id": 16,
+   "text_jp": "何で このおれ達を草し置いて",
+   "translation_en": "Why'd you leave us behind?!"
+  },
+  {
+   "id": 17,
+   "text_jp": "おれ達 ちょッとギモン!",
+   "translation_en": "We have our doubts about that!"
+  },
+  {
+   "id": 18,
+   "text_jp": "おれ達ッて チョ{204}ッと",
+   "translation_en": "We're just a little..."
+  },
+  {
+   "id": 19,
+   "text_jp": "リ{204}ダ{204}の素質 抜群だゼ!!",
+   "translation_en": "My leadership qualities are outstanding!!"
+  },
+  {
+   "id": 20,
+   "text_jp": "エリ{204}:まだ ヒュプノスの",
+   "translation_en": "Elly: Still, Hypnos's..."
+  },
+  {
+   "id": 21,
+   "text_jp": "ほ 残ってるわけでは",
+   "translation_en": "It's not like there's any left..."
+  },
+  {
+   "id": 22,
+   "text_jp": "さぁ 夢の宇にまで私を",
+   "translation_en": "Come on, coming all the way into my dream"
+  },
+  {
+   "id": 23,
+   "text_jp": "いじめにきた あいつらを",
+   "translation_en": "to bully me, you jerks..."
+  },
+  {
+   "id": 24,
+   "text_jp": "エンリョは いらないね!",
+   "translation_en": "No need to hold back!"
+  },
+  {
+   "id": 25,
+   "text_jp": "か     り してもらうからな!",
+   "translation_en": "We'll make you pay for that!"
+  },
+  {
+   "id": 26,
+   "text_jp": "もう いないんだ",
+   "translation_en": "They're not here anymore."
+  },
+  {
+   "id": 27,
+   "text_jp": "まだ やるかい?",
+   "translation_en": "You still wanna go?"
+  },
+  {
+   "id": 28,
+   "text_jp": "アタシは いっこうに",
+   "translation_en": "I don't mind at all."
+  },
+  {
+   "id": 29,
+   "text_jp": "羨く つまらんものだ",
+   "translation_en": "Envious, what a boring thing."
+  },
+  {
+   "id": 30,
+   "text_jp": "自らの 手で",
+   "translation_en": "With your own hands,"
+  },
+  {
+   "id": 31,
+   "text_jp": "大勝刮だった ワケだけど…",
+   "translation_en": "It was a total victory, but..."
+  },
+  {
+   "id": 32,
+   "text_jp": "ほ みたか!",
+   "translation_en": "See that?!"
+  },
+  {
+   "id": 33,
+   "text_jp": "ほ ど{204}だ!",
+   "translation_en": "How's that?!"
+  },
+  {
+   "id": 34,
+   "text_jp": "久美:みなさん ホントに",
+   "translation_en": "Kumi: Everyone, please..."
+  },
+  {
+   "id": 35,
+   "text_jp": "訪惑になんか のらないで…",
+   "translation_en": "Don't fall for the temptation..."
+  },
+  {
+   "id": 36,
+   "text_jp": "それが わかっただけでも",
+   "translation_en": "Even just knowing that,"
+  },
+  {
+   "id": 37,
+   "text_jp": "が 夢に逃げては",
+   "translation_en": "Running away into dreams..."
+  },
+  {
+   "id": 38,
+   "text_jp": "もう 弱い人間なんかじゃ…",
+   "translation_en": "I'm not a weak person anymore..."
+  },
+  {
+   "id": 39,
+   "text_jp": "ありませんわ",
+   "translation_en": "Certainly not."
+  },
+  {
+   "id": 40,
+   "text_jp": "一人でも",
+   "translation_en": "Even if I'm all alone,"
+  },
+  {
+   "id": 41,
+   "text_jp": "ブラウン:なァ{204}んか コレ",
+   "translation_en": "Brown: What's up with this..."
+  },
+  {
+   "id": 42,
+   "text_jp": "おれ達は 内向吋だしぃ",
+   "translation_en": "We're the introverted type, after all~"
+  },
+  {
+   "id": 43,
+   "text_jp": "女じゃないから パスな",
+   "translation_en": "I'm not a girl, so I'll pass."
+  },
+  {
+   "id": 44,
+   "text_jp": "また あの擇聞部厘のトコ",
+   "translation_en": "Back to that newspaper club room again..."
+  },
+  {
+   "id": 45,
+   "text_jp": "ワタクシ あ{204}たたち人間と",
+   "translation_en": "We, the beings beyond humans,"
+  },
+  {
+   "id": 46,
+   "text_jp": "じゃ的車僵り 美智子の",
+   "translation_en": "Just as planned, I'll tell you"
+  },
+  {
+   "id": 47,
+   "text_jp": "弱息 もバッチリ教えて",
+   "translation_en": "all about Michiko's weaknesses!"
+  },
+  {
+   "id": 48,
+   "text_jp": "では ごきげんよう』",
+   "translation_en": "Well then, farewell.\""
+  },
+  {
+   "id": 49,
+   "text_jp": "ま アタシはハナっから",
+   "translation_en": "Well, I never cared from the start."
+  },
+  {
+   "id": 50,
+   "text_jp": "そのつもり だけどね",
+   "translation_en": "That was the plan, though."
+  },
+  {
+   "id": 51,
+   "text_jp": "アンタの忤格じゃ 黙って",
+   "translation_en": "With your personality, staying quiet is..."
+  },
+  {
+   "id": 52,
+   "text_jp": "ほ ｜鍖の破片』は?",
+   "translation_en": "Look, what about the Mirror Shard?"
+  },
+  {
+   "id": 53,
+   "text_jp": "ほ おぉ!?なんてこと!?",
+   "translation_en": "Oh?! What on earth!?"
+  },
+  {
+   "id": 54,
+   "text_jp": "ほ これでは!!",
+   "translation_en": "Look at this!!"
+  },
+  {
+   "id": 55,
+   "text_jp": "ほ 坩りなすぎてよ!!",
+   "translation_en": "This is way too unfair!!"
+  },
+  {
+   "id": 56,
+   "text_jp": "ほ それどころか……",
+   "translation_en": "Far from it..."
+  },
+  {
+   "id": 57,
+   "text_jp": "ほ まさか奴等あの擇聞を",
+   "translation_en": "Don't tell me they read that newspaper..."
+  },
+  {
+   "id": 58,
+   "text_jp": "ほ バカな!?",
+   "translation_en": "That's ridiculous!?"
+  },
+  {
+   "id": 59,
+   "text_jp": "いいえ そんな",
+   "translation_en": "No, that can't be..."
+  },
+  {
+   "id": 60,
+   "text_jp": "どうなってもいい』という",
+   "translation_en": "\"I don't care what happens,\" that's..."
+  },
+  {
+   "id": 61,
+   "text_jp": "ほ 感惰などという",
+   "translation_en": "Feelings and emotions like that..."
+  },
+  {
+   "id": 62,
+   "text_jp": "ほ そう アンタ運人間の",
+   "translation_en": "Yes, you humans..."
+  },
+  {
+   "id": 63,
+   "text_jp": "ほ なぜ??",
+   "translation_en": "Why??"
+  },
+  {
+   "id": 64,
+   "text_jp": "アンタ運は 何の見返りもなく",
+   "translation_en": "You guys expect nothing in return..."
+  },
+  {
+   "id": 65,
+   "text_jp": "美智子 理解できませんわ!",
+   "translation_en": "Michiko cannot comprehend this!"
+  },
+  {
+   "id": 66,
+   "text_jp": "ほ このままじゃ!!",
+   "translation_en": "If this keeps up!!"
+  },
+  {
+   "id": 67,
+   "text_jp": "南茱:ま いつもの俺ならば",
+   "translation_en": "Nanjo: Well, if it were my usual self,"
+  },
+  {
+   "id": 68,
+   "text_jp": "それは この俺を",
+   "translation_en": "Are you trying to insult me,"
+  },
+  {
+   "id": 69,
+   "text_jp": "南茱 舌を本気で",
+   "translation_en": "Nanjo, to get serious?!"
+  },
+  {
+   "id": 70,
+   "text_jp": "まさか手達 俺をあそこまで",
+   "translation_en": "I can't believe they went that far..."
+  },
+  {
+   "id": 71,
+   "text_jp": "犬下の南茱 舌達を",
+   "translation_en": "To look down upon the great Nanjo..."
+  },
+  {
+   "id": 72,
+   "text_jp": "そして 何よりも!!",
+   "translation_en": "And above all else!!"
+  },
+  {
+   "id": 73,
+   "text_jp": "たァ{204}ッぷり 返してやるぜッ",
+   "translation_en": "I'll pay you back in full!!"
+  },
+  {
+   "id": 74,
+   "text_jp": "南茱:フン しらじらしい",
+   "translation_en": "Nanjo: Hmph, how shameless."
+  },
+  {
+   "id": 75,
+   "text_jp": "黛 梠手にするなよ",
+   "translation_en": "Mayuzumi, don't pay any attention to them."
+  },
+  {
+   "id": 76,
+   "text_jp": "ゆ ゆきのさん",
+   "translation_en": "Yu-Yukino-san..."
+  },
+  {
+   "id": 77,
+   "text_jp": "ここで逃げたら なんか",
+   "translation_en": "If we run away here, somehow..."
+  },
+  {
+   "id": 78,
+   "text_jp": "恒しいしィ",
+   "translation_en": "it feels awful~"
+  },
+  {
+   "id": 79,
+   "text_jp": "さっすが 一番話があいそうな",
+   "translation_en": "As expected, the one I get along with best..."
+  },
+  {
+   "id": 80,
+   "text_jp": "ま いいわ",
+   "translation_en": "Well, fine."
+  },
+  {
+   "id": 81,
+   "text_jp": "みんなにタダであげちゃう",
+   "translation_en": "I'll give it to everyone for free!"
+  },
+  {
+   "id": 82,
+   "text_jp": "アヤセ なんとなくアイツ",
+   "translation_en": "Ayase somehow feels like that guy..."
+  },
+  {
+   "id": 83,
+   "text_jp": "ウソだけはツいてないような",
+   "translation_en": "At least he's not lying."
+  },
+  {
+   "id": 84,
+   "text_jp": "アヤセ そんな気がする",
+   "translation_en": "Ayase has that feeling."
+  },
+  {
+   "id": 85,
+   "text_jp": "あの 巨合子ってヤツ",
+   "translation_en": "That Yuriko person..."
+  },
+  {
+   "id": 86,
+   "text_jp": "超 ヒキョ{204}者じゃん!",
+   "translation_en": "She's super underhanded, isn't she?!"
+  },
+  {
+   "id": 87,
+   "text_jp": "いやいや マジで",
+   "translation_en": "No, no, seriously,"
+  },
+  {
+   "id": 88,
+   "text_jp": "とって この塔のTrapは",
+   "translation_en": "For us, the traps in this tower..."
+  },
+  {
+   "id": 89,
+   "text_jp": "準偏して ね",
+   "translation_en": "Make sure you're prepared, okay?"
+  },
+  {
+   "id": 90,
+   "text_jp": "か 身体から",
+   "translation_en": "My... My body..."
+  },
+  {
+   "id": 91,
+   "text_jp": "何かが 何かが",
+   "translation_en": "Something... Something is..."
+  },
+  {
+   "id": 92,
+   "text_jp": "ざ{204}んねん でしたぁ{204}!",
+   "translation_en": "Too bad for youuu!"
+  },
+  {
+   "id": 93,
+   "text_jp": "じゃ ペナルティでぇ",
+   "translation_en": "Then as a penalty~"
+  },
+  {
+   "id": 94,
+   "text_jp": "超 ヒキョ{204}なヤツぅ{204}!",
+   "translation_en": "What a super cowardly jerk~!"
+  },
+  {
+   "id": 95,
+   "text_jp": "もぉ 払えないよぉ{204}!",
+   "translation_en": "I can't pay anymore~!"
+  },
+  {
+   "id": 96,
+   "text_jp": "巨合子:ふ{204}ん 悪渾だけは",
+   "translation_en": "Yuriko: Hmph, all you have is bad luck."
+  },
+  {
+   "id": 97,
+   "text_jp": "アト少しで",
+   "translation_en": "Just a little more..."
+  },
+  {
+   "id": 98,
+   "text_jp": "じゃ 待ってるよ{204}!",
+   "translation_en": "Well, I'll be waiting~!"
+  },
+  {
+   "id": 99,
+   "text_jp": "残衾だったわね 時間切れよ…",
+   "translation_en": "Too bad for you, time's up..."
+  },
+  {
+   "id": 100,
+   "text_jp": "でも 前庄はここで終わり",
+   "translation_en": "But the preamble ends here."
+  },
+  {
+   "id": 101,
+   "text_jp": "さあ ｜永遠の夜』という名の",
+   "translation_en": "Now, enter the realm known as \"Eternal Night\"!"
+  },
+  {
+   "id": 102,
+   "text_jp": "何が 始まッちまッたんだい?!まさか 巨合子のヤツ!",
+   "translation_en": "What just started?! Don't tell me Yuriko did this!"
+  },
+  {
+   "id": 103,
+   "text_jp": "ほ この宝箱闢けるとき",
+   "translation_en": "When opening this treasure chest,"
+  },
+  {
+   "id": 104,
+   "text_jp": "ほ アヤセが悪いの?",
+   "translation_en": "Is it Ayase's fault?"
+  },
+  {
+   "id": 105,
+   "text_jp": "悪いのは 巨合子だしィ…",
+   "translation_en": "The bad one is Yuriko..."
+  },
+  {
+   "id": 106,
+   "text_jp": "ほ どぉ?",
+   "translation_en": "How's that?"
+  },
+  {
+   "id": 107,
+   "text_jp": "なんか!超 クヤシイ!!",
+   "translation_en": "Man! That's super frustrating!!"
+  },
+  {
+   "id": 108,
+   "text_jp": "超 ダマされたッて感じ?!",
+   "translation_en": "I feel totally ripped off?!"
+  },
+  {
+   "id": 109,
+   "text_jp": "でも 独そうだしなァ",
+   "translation_en": "Still, it looks tough..."
+  },
+  {
+   "id": 110,
+   "text_jp": "ただ この旡に行って",
+   "translation_en": "I just wanted to go to this floor,"
+  },
+  {
+   "id": 111,
+   "text_jp": "みたいだけ みたいな",
+   "translation_en": "just wanted to see it, like..."
+  },
+  {
+   "id": 112,
+   "text_jp": "なんだけどォ ダメ?",
+   "translation_en": "That's how it is, is that bad?"
+  },
+  {
+   "id": 113,
+   "text_jp": "いまさら 俺運に",
+   "translation_en": "At this point, to us..."
+  },
+  {
+   "id": 114,
+   "text_jp": "それに ロウソクの部厘で",
+   "translation_en": "Besides, in the candle room..."
+  },
+  {
+   "id": 115,
+   "text_jp": "ふっ 俺運の",
+   "translation_en": "Heh, our..."
+  },
+  {
+   "id": 116,
+   "text_jp": "おい 尤コロ!",
+   "translation_en": "Hey, doggy!"
+  },
+  {
+   "id": 117,
+   "text_jp": "手達 巨合子に命令されて",
+   "translation_en": "Are you taking orders from Yuriko?"
+  },
+  {
+   "id": 118,
+   "text_jp": "エリ{204}:ふふ 旡榲の",
+   "translation_en": "Elly: Fufu, the teacher's..."
+  },
+  {
+   "id": 119,
+   "text_jp": "そして ここは",
+   "translation_en": "And here is..."
+  },
+  {
+   "id": 120,
+   "text_jp": "あなた Yurikoの命令で",
+   "translation_en": "Are you following Yuriko's orders?"
+  },
+  {
+   "id": 121,
+   "text_jp": "こっちも",
+   "translation_en": "Over here too..."
+  },
+  {
+   "id": 122,
+   "text_jp": "注事がなければ な",
+   "translation_en": "If there's nothing urgent, that is."
+  },
+  {
+   "id": 123,
+   "text_jp": "く た0ふた厂",
+   "translation_en": "..."
+  },
+  {
+   "id": 124,
+   "text_jp": "なんて ゆ{204}から",
+   "translation_en": "Saying something like that,"
+  },
+  {
+   "id": 125,
+   "text_jp": "こう 身が帆きシまるような",
+   "translation_en": "It really straightens your spine."
+  },
+  {
+   "id": 126,
+   "text_jp": "ブラウンのペルソナがいる",
+   "translation_en": "Brown's Persona is here!"
+  },
+  {
+   "id": 127,
+   "text_jp": "ぷぉみ  うかわ!",
+   "translation_en": "Look out!"
+  },
+  {
+   "id": 128,
+   "text_jp": "超 あやしい",
+   "translation_en": "Super suspicious..."
+  },
+  {
+   "id": 129,
+   "text_jp": "彼女 誰なんだろ?",
+   "translation_en": "Who is that girl?"
+  },
+  {
+   "id": 130,
+   "text_jp": "うん この｜鍖の破片』",
+   "translation_en": "Yeah, this Mirror Shard..."
+  },
+  {
+   "id": 131,
+   "text_jp": "この鍖 独い菫の力を",
+   "translation_en": "This mirror holds a powerful dark magic,"
+  },
+  {
+   "id": 132,
+   "text_jp": "沚菫アイテムよね きっと",
+   "translation_en": "It's definitely a key item!"
+  },
+  {
+   "id": 133,
+   "text_jp": "あ そう",
+   "translation_en": "Oh, really?"
+  },
+  {
+   "id": 134,
+   "text_jp": "いらないんだ コレ",
+   "translation_en": "You don't need this?"
+  },
+  {
+   "id": 135,
+   "text_jp": "じゃあ あたしが",
+   "translation_en": "Then I'll..."
+  },
+  {
+   "id": 136,
+   "text_jp": "はぁ{204} 惰けない!",
+   "translation_en": "Haaah, how pathetic!"
+  },
+  {
+   "id": 137,
+   "text_jp": "じゃあ あんたが私と一緒に禾て5000円分",
+   "translation_en": "Then come with me and spend 5,000 yen..."
+  },
+  {
+   "id": 138,
+   "text_jp": "じゃあ すぐ",
+   "translation_en": "Then hurry up"
+  },
+  {
+   "id": 139,
+   "text_jp": "5000円 芹そろえて",
+   "translation_en": "and scrape together 5,000 yen!"
+  },
+  {
+   "id": 140,
+   "text_jp": "真理子:ほんと あたし",
+   "translation_en": "Mariko: Seriously, I have to..."
+  },
+  {
+   "id": 141,
+   "text_jp": "写真 投情しなきゃ!",
+   "translation_en": "submit the photos!"
+  },
+  {
+   "id": 142,
+   "text_jp": "宝箱は すでに空だ",
+   "translation_en": "The treasure chest is already empty."
+  },
+  {
+   "id": 143,
+   "text_jp": "ぐごぐ  うえら言うじゃないスか",
+   "translation_en": "Look who's talking!"
+  },
+  {
+   "id": 144,
+   "text_jp": "あの ブリっ子ぶりからは",
+   "translation_en": "Acting all cutesy like that..."
+  },
+  {
+   "id": 145,
+   "text_jp": "どうせ アタシ運が",
+   "translation_en": "Anyway, we're..."
+  },
+  {
+   "id": 146,
+   "text_jp": "それとも また何か企んでる",
+   "translation_en": "Or are you plotting something again?"
+  },
+  {
+   "id": 147,
+   "text_jp": "キタないオバサンやババアに",
+   "translation_en": "Turning into dirty old hags and biddies..."
+  },
+  {
+   "id": 148,
+   "text_jp": "ねェ そうしよ??ね?",
+   "translation_en": "Hey, let's do that, okay?"
+  },
+  {
+   "id": 149,
+   "text_jp": "言う僵りこの塔に禾て 本当に",
+   "translation_en": "Just as you say, coming to this tower really..."
+  },
+  {
+   "id": 150,
+   "text_jp": "巨合子 かわいいまんま",
+   "translation_en": "Yuriko stays cute forever!"
+  },
+  {
+   "id": 151,
+   "text_jp": "でも 巨合子一人っきりで",
+   "translation_en": "But being all by herself,"
+  },
+  {
+   "id": 152,
+   "text_jp": "ちょっとタイクツだったしィ",
+   "translation_en": "Yuriko was getting kind of bored~"
+  },
+  {
+   "id": 153,
+   "text_jp": "入れたモノ それは",
+   "translation_en": "What we put in... That was..."
+  },
+  {
+   "id": 154,
+   "text_jp": "そして この塔における",
+   "translation_en": "And inside this tower,"
+  },
+  {
+   "id": 155,
+   "text_jp": "そりゃあ",
+   "translation_en": "Well of course,"
+  },
+  {
+   "id": 156,
+   "text_jp": "捨ててまで",
+   "translation_en": "Throwing it away, even..."
+  },
+  {
+   "id": 157,
+   "text_jp": "おれ達運は 歓しかネェなァ",
+   "translation_en": "All we want is fun!"
+  },
+  {
+   "id": 158,
+   "text_jp": "｜永遠の美』なんて さ",
+   "translation_en": "\"Eternal Beauty\" or whatever,"
+  },
+  {
+   "id": 159,
+   "text_jp": "悪ィけど パス1ッ!だゼ!!",
+   "translation_en": "Sorry, but that's a hard pass!!"
+  },
+  {
+   "id": 160,
+   "text_jp": "巨合子:う うるさいッ!",
+   "translation_en": "Yuriko: S-Shut up!"
+  },
+  {
+   "id": 161,
+   "text_jp": "お 女なんかにオトメゴコロが",
+   "translation_en": "A woman like you doesn't understand a maiden's heart!"
+  },
+  {
+   "id": 162,
+   "text_jp": "ねぇ あ あなたはどォ?",
+   "translation_en": "Hey, w-what about you?"
+  },
+  {
+   "id": 163,
+   "text_jp": "見たところあなた この宇では",
+   "translation_en": "Looking at you, you're the cutest"
+  },
+  {
+   "id": 164,
+   "text_jp": "イッチ番 かわいいしィ",
+   "translation_en": "one in this whole school,"
+  },
+  {
+   "id": 165,
+   "text_jp": "コト わかるでしょう?",
+   "translation_en": "You understand what I mean, right?"
+  },
+  {
+   "id": 166,
+   "text_jp": "もう超 MMC!!",
+   "translation_en": "Totally MMC!!"
+  },
+  {
+   "id": 167,
+   "text_jp": "いたくなんか ナイ!",
+   "translation_en": "It doesn't hurt at all!"
+  },
+  {
+   "id": 168,
+   "text_jp": "巨合子 あきらめろ",
+   "translation_en": "Yuriko, give it up."
+  },
+  {
+   "id": 169,
+   "text_jp": "このなかで一番 手達と話が",
+   "translation_en": "The one among us who would get along"
+  },
+  {
+   "id": 170,
+   "text_jp": "あいそうな 綾臘が",
+   "translation_en": "best with you, Ayase,"
+  },
+  {
+   "id": 171,
+   "text_jp": "もう 一人もいないぞ",
+   "translation_en": "isn't on your side anymore."
+  },
+  {
+   "id": 172,
+   "text_jp": "私 あなたを見直しましてよ!",
+   "translation_en": "I have a whole new respect for you!"
+  },
+  {
+   "id": 173,
+   "text_jp": "さァ Yurikoさん",
+   "translation_en": "Now then, Miss Yuriko,"
+  },
+  {
+   "id": 174,
+   "text_jp": "もう ここにはいませんわ!",
+   "translation_en": "Nobody is here anymore!"
+  },
+  {
+   "id": 175,
+   "text_jp": "さ どうしますか!!",
+   "translation_en": "Now, what will you do!!"
+  },
+  {
+   "id": 176,
+   "text_jp": "ゆ 巨合子ちゃんが",
+   "translation_en": "Yu-Yuriko-chan..."
+  },
+  {
+   "id": 177,
+   "text_jp": "せっかく せっかく",
+   "translation_en": "After all that... after all that!"
+  },
+  {
+   "id": 178,
+   "text_jp": "みんなを みんなを",
+   "translation_en": "Everyone... everyone..."
+  },
+  {
+   "id": 179,
+   "text_jp": "みんなと みんなと",
+   "translation_en": "With everyone... with everyone..."
+  },
+  {
+   "id": 180,
+   "text_jp": "どうして どうして",
+   "translation_en": "Why... why?!"
+  },
+  {
+   "id": 181,
+   "text_jp": "もぉ ゆるさないんだから!!",
+   "translation_en": "I'm never gonna forgive you!!"
+  },
+  {
+   "id": 182,
+   "text_jp": "南茱朧にいえば アンタ",
+   "translation_en": "Speaking in Nanjo's terms, you..."
+  },
+  {
+   "id": 183,
+   "text_jp": "いや アンタの場合",
+   "translation_en": "No, in your case,"
+  },
+  {
+   "id": 184,
+   "text_jp": "一日 迅んでも",
+   "translation_en": "Even if you run for a whole day,"
+  },
+  {
+   "id": 185,
+   "text_jp": "さぁ かかってこい!",
+   "translation_en": "Come on, bring it on!"
+  },
+  {
+   "id": 186,
+   "text_jp": "もいっぺん 迅んで!",
+   "translation_en": "Run away one more time!"
+  },
+  {
+   "id": 187,
+   "text_jp": "ほ ｜雪の女王』なんて…",
+   "translation_en": "The \"Snow Queen\" or whatever..."
+  },
+  {
+   "id": 188,
+   "text_jp": "ほ やられちゃった…",
+   "translation_en": "I got beaten..."
+  },
+  {
+   "id": 189,
+   "text_jp": "ほ いいんだもん…",
+   "translation_en": "I don't care anymore..."
+  },
+  {
+   "id": 190,
+   "text_jp": "ほ なんだもん…",
+   "translation_en": "Because that's how it is..."
+  },
+  {
+   "id": 191,
+   "text_jp": "ほ ｜迅ぬ』んだもん…",
+   "translation_en": "I'm gonna run away..."
+  },
+  {
+   "id": 192,
+   "text_jp": "ほ いるのか?",
+   "translation_en": "Is someone there?"
+  },
+  {
+   "id": 193,
+   "text_jp": "そんなにキツイこといわないで",
+   "translation_en": "Don't say such harsh things."
+  },
+  {
+   "id": 194,
+   "text_jp": "ネ アヤセこのコ",
+   "translation_en": "Hey, Ayase thinks this girl..."
+  },
+  {
+   "id": 195,
+   "text_jp": "ほ 言えないけど…",
+   "translation_en": "I can't say for sure, but..."
+  },
+  {
+   "id": 196,
+   "text_jp": "ほ とう",
+   "translation_en": "Thanks..."
+  },
+  {
+   "id": 197,
+   "text_jp": "ほ セさん?だっけ…",
+   "translation_en": "Ayase-san? Was it..."
+  },
+  {
+   "id": 198,
+   "text_jp": "ほ お友運に…",
+   "translation_en": "To my friends..."
+  },
+  {
+   "id": 199,
+   "text_jp": "ほ 恐かったの",
+   "translation_en": "I was so scared..."
+  },
+  {
+   "id": 200,
+   "text_jp": "とっても垂巳が 杲しくて",
+   "translation_en": "Being all alone was so painful..."
+  },
+  {
+   "id": 201,
+   "text_jp": "あぁ これがあたしの",
+   "translation_en": "Ah, this is my..."
+  },
+  {
+   "id": 202,
+   "text_jp": "そしたら お芝君で払った",
+   "translation_en": "And then, paying with my own life..."
+  },
+  {
+   "id": 203,
+   "text_jp": "いられるようにしてやる』",
+   "translation_en": "\"I'll make sure you can stay like this forever.\""
+  },
+  {
+   "id": 204,
+   "text_jp": "巨合子ちゃん",
+   "translation_en": "Yuriko-chan..."
+  },
+  {
+   "id": 205,
+   "text_jp": "だから あなたたちが禾た時",
+   "translation_en": "That's why, when you guys came,"
+  },
+  {
+   "id": 206,
+   "text_jp": "ほ うれしかったの!",
+   "translation_en": "I was so happy!"
+  },
+  {
+   "id": 207,
+   "text_jp": "もう 一人はヤダったの!",
+   "translation_en": "I hated being alone anymore!"
+  },
+  {
+   "id": 208,
+   "text_jp": "ほ だから!!",
+   "translation_en": "That's why!!"
+  },
+  {
+   "id": 209,
+   "text_jp": "ほ なるほど",
+   "translation_en": "I see."
+  },
+  {
+   "id": 210,
+   "text_jp": "手達自身の持つ わがままで",
+   "translation_en": "Born from your own selfish desires,"
+  },
+  {
+   "id": 211,
+   "text_jp": "ほ 後恒の衾が",
+   "translation_en": "the shadow of regret..."
+  },
+  {
+   "id": 212,
+   "text_jp": "ほ というわけだ",
+   "translation_en": "That's what happened."
+  },
+  {
+   "id": 213,
+   "text_jp": "まったく 邑惑な話だ…!",
+   "translation_en": "What a truly tragic tale...!"
+  },
+  {
+   "id": 214,
+   "text_jp": "ほ ないがな",
+   "translation_en": "Not that it matters now."
+  },
+  {
+   "id": 215,
+   "text_jp": "エリ{204}:あなたの あの",
+   "translation_en": "Elly: Your feelings back then..."
+  },
+  {
+   "id": 216,
+   "text_jp": "Yurikoさん あなたも",
+   "translation_en": "Yuriko-san, you too..."
+  },
+  {
+   "id": 217,
+   "text_jp": "巨合子:でも 巨合子ちゃん",
+   "translation_en": "Yuriko: But Yuriko-chan..."
+  },
+  {
+   "id": 218,
+   "text_jp": "ほ 終われるみたい…",
+   "translation_en": "It seems I can finally rest in peace..."
+  },
+  {
+   "id": 219,
+   "text_jp": "ほ の気持ちのまま",
+   "translation_en": "Keeping these true feelings,"
+  },
+  {
+   "id": 220,
+   "text_jp": "ほ みたい",
+   "translation_en": "It seems..."
+  },
+  {
+   "id": 221,
+   "text_jp": "ほ う",
+   "translation_en": "Yeah..."
+  },
+  {
+   "id": 222,
+   "text_jp": "ほ きゃ…",
+   "translation_en": "Kyah..."
+  },
+  {
+   "id": 223,
+   "text_jp": "ほ ありがとうね",
+   "translation_en": "Thank you so much."
+  },
+  {
+   "id": 224,
+   "text_jp": "3茴 手に入れた",
+   "translation_en": "Acquired 3 of them."
+  },
+  {
+   "id": 225,
+   "text_jp": "ほ アンタの分まで",
+   "translation_en": "We'll carry on for your sake too."
+  },
+  {
+   "id": 226,
+   "text_jp": "ほ …狠りな…",
+   "translation_en": "...How wonderful..."
+  },
+  {
+   "id": 227,
+   "text_jp": "タナトスの塔 を",
+   "translation_en": "Tower of Thanatos..."
+  },
+  {
+   "id": 228,
+   "text_jp": "ほ うそ…",
+   "translation_en": "No way..."
+  },
+  {
+   "id": 229,
+   "text_jp": "みんなでイッショケンメイ",
+   "translation_en": "We all worked so hard together!"
+  },
+  {
+   "id": 230,
+   "text_jp": "そ ｜鍖の破片』",
+   "translation_en": "Th-The Mirror Shard..."
+  },
+  {
+   "id": 231,
+   "text_jp": "もう1痍 かざしてみよう!",
+   "translation_en": "Let's hold it up one more time!"
+  },
+  {
+   "id": 232,
+   "text_jp": "も もう1痍!!",
+   "translation_en": "J-Just one more time!!"
+  },
+  {
+   "id": 233,
+   "text_jp": "雪の女王の声:フフフフ…無驟よそんな つぎはぎだらけの",
+   "translation_en": "Voice of the Snow Queen: Fufufu... It's useless. Such a patchwork thing..."
+  },
+  {
+   "id": 234,
+   "text_jp": "さぁ いらっしゃい!",
+   "translation_en": "Now, come to me!"
+  },
+  {
+   "id": 235,
+   "text_jp": "ほ 曉げるうぅぅぅぉぉ!!",
+   "translation_en": "It burns, aaagh!!"
+  },
+  {
+   "id": 236,
+   "text_jp": "どぅぉぉじでぇ",
+   "translation_en": "Whyyy?!"
+  },
+  {
+   "id": 237,
+   "text_jp": "ほ みがだぁ をぉぉぉぉぉぅぅ",
+   "translation_en": "My... my body... ooooh!"
+  },
+  {
+   "id": 238,
+   "text_jp": "そ 申たあぁ!!",
+   "translation_en": "It came out!!"
+  },
+  {
+   "id": 239,
+   "text_jp": "冴子旡生:皆 しばらくの間に",
+   "translation_en": "Ms. Saeko: Everyone, while we were apart..."
+  },
+  {
+   "id": 240,
+   "text_jp": "奴め 曜か",
+   "translation_en": "Damn that monster..."
+  },
+  {
+   "id": 241,
+   "text_jp": "あと少しで 学枚を取り戻せる",
+   "translation_en": "Just a little more, and we'll take our school back!"
+  },
+  {
+   "id": 242,
+   "text_jp": "帛く 部の階に行こうよ",
+   "translation_en": "Let's hurry to the upper floors!"
+  },
+  {
+   "id": 243,
+   "text_jp": "ブラウン:夜の女王だぁ〜?",
+   "translation_en": "Brown: Queen of the Night~?"
+  },
+  {
+   "id": 244,
+   "text_jp": "ほ ジョ{204}ダンだよ",
+   "translation_en": "You gotta be kidding me!"
+  },
+  {
+   "id": 245,
+   "text_jp": "さ 行こうぜ!",
+   "translation_en": "Come on, let's go!"
+  },
+  {
+   "id": 246,
+   "text_jp": "ぎコ   おいただと?",
+   "translation_en": "What did you say?!"
+  },
+  {
+   "id": 247,
+   "text_jp": "ゆきの:大夫夬かい 旡生",
+   "translation_en": "Yukino: Are you alright, Teacher?"
+  },
+  {
+   "id": 248,
+   "text_jp": "冴子旡生:ありがとう 乎気よ",
+   "translation_en": "Ms. Saeko: Thank you, I'm fine."
+  },
+  {
+   "id": 249,
+   "text_jp": "ほ 知美は?",
+   "translation_en": "What about Tomomi?"
+  },
+  {
+   "id": 250,
+   "text_jp": "だれ それ?",
+   "translation_en": "Who's that?"
+  },
+  {
+   "id": 251,
+   "text_jp": "ほ じゃあ",
+   "translation_en": "Well then,"
+  },
+  {
+   "id": 252,
+   "text_jp": "雪の女王は 旡生の覬友…",
+   "translation_en": "The Snow Queen is your close friend..."
+  },
+  {
+   "id": 253,
+   "text_jp": "ほ って",
+   "translation_en": "Is that..."
+  },
+  {
+   "id": 254,
+   "text_jp": "でもどうして 覬友が",
+   "translation_en": "But why would your best friend..."
+  },
+  {
+   "id": 255,
+   "text_jp": "しかし 覬友がどうして",
+   "translation_en": "Why would a close friend..."
+  },
+  {
+   "id": 256,
+   "text_jp": "旡生を いけにえにしようなんて",
+   "translation_en": "try to sacrifice you like this?!"
+  },
+  {
+   "id": 257,
+   "text_jp": "あ    冴子:雪の女王役 おめでとう",
+   "translation_en": "Saeko: Congratulations on landing the Snow Queen role!"
+  },
+  {
+   "id": 258,
+   "text_jp": "私 冴子さんの分も頑悵る",
+   "translation_en": "I'll do my best for your sake too, Saeko-san."
+  },
+  {
+   "id": 259,
+   "text_jp": "ほ あの仮面…",
+   "translation_en": "That mask..."
+  },
+  {
+   "id": 260,
+   "text_jp": "皆咤われたって 本当?",
+   "translation_en": "Is it true everyone was cursed?"
+  },
+  {
+   "id": 261,
+   "text_jp": "知美:いいな 冴子さんは…",
+   "translation_en": "Tomomi: Must be nice, Saeko-san..."
+  },
+  {
+   "id": 262,
+   "text_jp": "ほ そうね",
+   "translation_en": "That's right."
+  },
+  {
+   "id": 263,
+   "text_jp": "演馴部貢:えぇ〜〜っ!!",
+   "translation_en": "Drama Club Member: Eeeeeh?!"
+  },
+  {
+   "id": 264,
+   "text_jp": "センパイ 冴子さんに",
+   "translation_en": "Senior, to Saeko-san..."
+  },
+  {
+   "id": 265,
+   "text_jp": "演馴部貢:知らないんですか!?冴子さん 自分から雪の女王役",
+   "translation_en": "Drama Club Member: Didn't you know!? Saeko-san volunteered for the Snow Queen role herself!"
+  },
+  {
+   "id": 266,
+   "text_jp": "ほ 冴子さんよりいい役",
+   "translation_en": "A better role than Saeko-san..."
+  },
+  {
+   "id": 267,
+   "text_jp": "お人好しだなぁ 知美センパイは",
+   "translation_en": "Tomomi-senpai is way too nice."
+  },
+  {
+   "id": 268,
+   "text_jp": "そんなの 何の理由もなしに",
+   "translation_en": "Doing something like that for no reason..."
+  },
+  {
+   "id": 269,
+   "text_jp": "冴子:どうしたの 知美?",
+   "translation_en": "Saeko: What's wrong, Tomomi?"
+  },
+  {
+   "id": 270,
+   "text_jp": "何 隠れてんの?",
+   "translation_en": "Why are you hiding?"
+  },
+  {
+   "id": 271,
+   "text_jp": "ほ だの…",
+   "translation_en": "It's just..."
+  },
+  {
+   "id": 272,
+   "text_jp": "ほ よ…",
+   "translation_en": "It is..."
+  },
+  {
+   "id": 273,
+   "text_jp": "ほ よ!!",
+   "translation_en": "It really is!!"
+  },
+  {
+   "id": 274,
+   "text_jp": "どうしたのよ 知美!",
+   "translation_en": "What happened, Tomomi?!"
+  },
+  {
+   "id": 275,
+   "text_jp": "仮面を 掫じづげだりじだがらぁ",
+   "translation_en": "Because you put on that mask..."
+  },
+  {
+   "id": 276,
+   "text_jp": "ほ 熱ぐなっでぇ",
+   "translation_en": "It's burning hot..."
+  },
+  {
+   "id": 277,
+   "text_jp": "ほ 育を立てるのぉ",
+   "translation_en": "Making all that noise..."
+  },
+  {
+   "id": 278,
+   "text_jp": "ほ あんだの!",
+   "translation_en": "It's yours!"
+  },
+  {
+   "id": 279,
+   "text_jp": "あ    アヤセ:それって別に",
+   "translation_en": "Ayase: That doesn't necessarily mean..."
+  },
+  {
+   "id": 280,
+   "text_jp": "ほ そうだとは言い切れない",
+   "translation_en": "You can't say that for sure."
+  },
+  {
+   "id": 281,
+   "text_jp": "もしかしたら 沚のどこかで",
+   "translation_en": "Maybe somewhere in her heart,"
+  },
+  {
+   "id": 282,
+   "text_jp": "ほ さむい……",
+   "translation_en": "So cold..."
+  },
+  {
+   "id": 283,
+   "text_jp": "ほ 何なの!?",
+   "translation_en": "What is that!?"
+  },
+  {
+   "id": 284,
+   "text_jp": "そんなのナシだぜぇ〜",
+   "translation_en": "No way, that's not fair~!"
+  },
+  {
+   "id": 285,
+   "text_jp": "今 倒したばっかじゃん!!",
+   "translation_en": "We literally just beat her!!"
+  },
+  {
+   "id": 286,
+   "text_jp": "これで わらわは完全となる",
+   "translation_en": "With this, I am whole!"
+  },
+  {
+   "id": 287,
+   "text_jp": "完全なる 夜の女王となり",
+   "translation_en": "As the complete Queen of the Night,"
+  },
+  {
+   "id": 288,
+   "text_jp": "無と絶筆の 曰と黒とで",
+   "translation_en": "with the black and white of nothingness and despair,"
+  },
+  {
+   "id": 289,
+   "text_jp": "目に物 見せてくれるわ!",
+   "translation_en": "I'll show you true power!"
+  },
+  {
+   "id": 290,
+   "text_jp": "あ    アヤセ:ナニよ今の",
+   "translation_en": "Ayase: What was that just now?!"
+  },
+  {
+   "id": 291,
+   "text_jp": "ほ つまり雪の女王は",
+   "translation_en": "In other words, the Snow Queen was..."
+  },
+  {
+   "id": 292,
+   "text_jp": "どれだけすさんでいたかを",
+   "translation_en": "just how devastated she truly was..."
+  },
+  {
+   "id": 293,
+   "text_jp": "夜の女王が 行き場を失って",
+   "translation_en": "The Queen of the Night lost her place to go,"
+  },
+  {
+   "id": 294,
+   "text_jp": "ようやく おれ達にも",
+   "translation_en": "Finally, we can..."
+  },
+  {
+   "id": 295,
+   "text_jp": "黠局 夜のナントカも倒さないといけないワケね",
+   "translation_en": "So in the end, we have to defeat that Queen of Whatever too, huh."
+  },
+  {
+   "id": 296,
+   "text_jp": "アヤセひとりじゃ とても…",
+   "translation_en": "Ayase could never do it alone..."
+  },
+  {
+   "id": 297,
+   "text_jp": "ほ うるせぇな!",
+   "translation_en": "Shut up already!"
+  },
+  {
+   "id": 298,
+   "text_jp": "茫袍できない榲 醵くて…",
+   "translation_en": "Too cruel to even imagine..."
+  },
+  {
+   "id": 299,
+   "text_jp": "ゆきの:アンタだけじゃないよ",
+   "translation_en": "Yukino: It's not just you."
+  },
+  {
+   "id": 300,
+   "text_jp": "知美さん",
+   "translation_en": "Tomomi-san..."
+  },
+  {
+   "id": 301,
+   "text_jp": "誰だって きっと醵く抉るのさ",
+   "translation_en": "Anyone would feel crushed by that."
+  },
+  {
+   "id": 302,
+   "text_jp": "めったに いるもんじゃないよ",
+   "translation_en": "Hardly anyone could handle it."
+  },
+  {
+   "id": 303,
+   "text_jp": "ブラウン:その息 おれ達なんか少女のようにあどけなく",
+   "translation_en": "Brown: In that sense, we're as innocent as little girls..."
+  },
+  {
+   "id": 304,
+   "text_jp": "すまん",
+   "translation_en": "Sorry about that."
+  },
+  {
+   "id": 305,
+   "text_jp": "あるのか わからないけど",
+   "translation_en": "I don't know if it's there, but..."
+  },
+  {
+   "id": 306,
+   "text_jp": "ほ もっと帛く",
+   "translation_en": "Even faster..."
+  },
+  {
+   "id": 307,
+   "text_jp": "部の階で ヘンなお面をつけた",
+   "translation_en": "On the upper floor, wearing a weird mask,"
+  },
+  {
+   "id": 308,
+   "text_jp": "ブッソウなこと言ってたぞぉ〜",
+   "translation_en": "they were saying some crazy dangerous stuff~!"
+  },
+  {
+   "id": 309,
+   "text_jp": "学枚をブッ壞すとかなんとかぁ〜",
+   "translation_en": "Talking about destroying the school and all~"
+  },
+  {
+   "id": 310,
+   "text_jp": "オイラたち ど{204}すりゃいいのさ",
+   "translation_en": "What are we supposed to do?!"
+  },
+  {
+   "id": 311,
+   "text_jp": "ヒホ子を一生蕘うのだぁ〜!!",
+   "translation_en": "You must worship Hee-Ho-ko for life~!!"
+  },
+  {
+   "id": 312,
+   "text_jp": "ふぅ〜ん",
+   "translation_en": "Hmm~"
+  },
+  {
+   "id": 313,
+   "text_jp": "まぁ せいぜいがんばればぁ",
+   "translation_en": "Well, do your best, I guess~"
+  },
+  {
+   "id": 314,
+   "text_jp": "キミ いいモノ持ってるね",
+   "translation_en": "You've got some good stuff there."
+  },
+  {
+   "id": 315,
+   "text_jp": "ヒ{204}ホ{204}鹿:いいな いいな",
+   "translation_en": "Hee-Ho Guy: Nice, so nice!"
+  },
+  {
+   "id": 316,
+   "text_jp": "ヒホ子ちゃん:おら よこせぇ!よこすのだぁ!!",
+   "translation_en": "Hee-Ho-ko: Hey, hand it over! Gimme that!!"
+  },
+  {
+   "id": 317,
+   "text_jp": "ほ ヒホ子さん",
+   "translation_en": "Hee-Ho-ko-san..."
+  },
+  {
+   "id": 318,
+   "text_jp": "ヒホ子ちゃん:ふ〜ん",
+   "translation_en": "Hee-Ho-ko: Hmph~"
+  },
+  {
+   "id": 319,
+   "text_jp": "ニンゲンはむつかしいな〜",
+   "translation_en": "Humans are so complicated~"
+  },
+  {
+   "id": 320,
+   "text_jp": "んじゃ 取りかえっこは?",
+   "translation_en": "How about a trade then?"
+  },
+  {
+   "id": 321,
+   "text_jp": "それじゃ 取りかえっこだよ",
+   "translation_en": "Alright, let's trade!"
+  },
+  {
+   "id": 322,
+   "text_jp": "はい ｜ロゼッタのせきひ』!",
+   "translation_en": "Here, the Rosetta Stone!"
+  },
+  {
+   "id": 323,
+   "text_jp": "つけてきてるのか アイツら",
+   "translation_en": "Are those guys following us?"
+  },
+  {
+   "id": 324,
+   "text_jp": "限られてるから 科神冥をもらうメンツは慎重に選ばないとね",
+   "translation_en": "Since it's limited, you have to carefully choose who gets the Mirror Shard."
+  },
+  {
+   "id": 325,
+   "text_jp": "オシリにしかれちゃってるね",
+   "translation_en": "Totally whipped, aren't you?"
+  },
+  {
+   "id": 326,
+   "text_jp": "ハクセイなのよぉ〜",
+   "translation_en": "It's taxidermy~!"
+  },
+  {
+   "id": 327,
+   "text_jp": "うれし〜 マジぃ?",
+   "translation_en": "Yay! Seriously~?"
+  },
+  {
+   "id": 328,
+   "text_jp": "アヤセ:ちょっとぉ〜",
+   "translation_en": "Ayase: Wait a second~"
+  },
+  {
+   "id": 329,
+   "text_jp": "どうしてハクセイなのよぉ〜!",
+   "translation_en": "Why is it taxidermy~?!"
+  },
+  {
+   "id": 330,
+   "text_jp": "こんなの歓しくなぁ〜い!!",
+   "translation_en": "This isn't fun at all~!!"
+  },
+  {
+   "id": 331,
+   "text_jp": "ほ これは…",
+   "translation_en": "This is..."
+  },
+  {
+   "id": 332,
+   "text_jp": "どうして こんなところに…",
+   "translation_en": "Why in a place like this..."
+  },
+  {
+   "id": 333,
+   "text_jp": "アイシュウを感じるねぇ〜",
+   "translation_en": "I feel a sense of melancholy~"
+  },
+  {
+   "id": 334,
+   "text_jp": "もうけ もうけ",
+   "translation_en": "Big profit, big profit!"
+  },
+  {
+   "id": 335,
+   "text_jp": "当然 もらう燿刮が",
+   "translation_en": "Of course, I deserve to get"
+  },
+  {
+   "id": 336,
+   "text_jp": "あるってわけだよ チミ",
+   "translation_en": "my fair share, buddy."
+  },
+  {
+   "id": 337,
+   "text_jp": "じゃ そ{204}ゆ{204}ことで",
+   "translation_en": "Well, that's how it is."
+  },
+  {
+   "id": 338,
+   "text_jp": "でも 私はいつだって1人",
+   "translation_en": "But I've always been alone."
+  },
+  {
+   "id": 339,
+   "text_jp": "ゆきの:ひょっとして アンタ…",
+   "translation_en": "Yukino: Could you be..."
+  },
+  {
+   "id": 340,
+   "text_jp": "ゆきの:待てよ 園忖!!",
+   "translation_en": "Yukino: Wait, Sonomura!!"
+  },
+  {
+   "id": 341,
+   "text_jp": "アヤセ:見て あの槙",
+   "translation_en": "Ayase: Look at that statue!"
+  },
+  {
+   "id": 342,
+   "text_jp": "なんか 薄気味悪い",
+   "translation_en": "It looks kind of creepy."
+  },
+  {
+   "id": 343,
+   "text_jp": "あんなお面 棠引と…",
+   "translation_en": "Wearing that kind of mask..."
+  },
+  {
+   "id": 344,
+   "text_jp": "ゲ{204}ジツが わからんのかね",
+   "translation_en": "Don't you understand art?"
+  },
+  {
+   "id": 345,
+   "text_jp": "すんばらし〜 ア{204}トじゃ",
+   "translation_en": "Isn't this wonderful art,"
+  },
+  {
+   "id": 346,
+   "text_jp": "あ〜りませんか",
+   "translation_en": "I wonder?"
+  },
+  {
+   "id": 347,
+   "text_jp": "しれませんわ",
+   "translation_en": "Perhaps so."
+  },
+  {
+   "id": 348,
+   "text_jp": "ここにいるはずありませんわ",
+   "translation_en": "There's no way they could be here."
+  },
+  {
+   "id": 349,
+   "text_jp": "旡榲まで ここにいたのですね",
+   "translation_en": "The teacher was here until just now."
+  },
+  {
+   "id": 350,
+   "text_jp": "ナニ言ってんの この子?",
+   "translation_en": "What is this kid saying?"
+  },
+  {
+   "id": 351,
+   "text_jp": "ね{204} おじょうちゃん",
+   "translation_en": "Hey, little girl,"
+  },
+  {
+   "id": 352,
+   "text_jp": "どうして こんなトコにいるの?アブないから おうちに帰りな",
+   "translation_en": "Why are you in a place like this? It's dangerous, go home."
+  },
+  {
+   "id": 353,
+   "text_jp": "あなた ちょっとは冷静に",
+   "translation_en": "Calm down a little."
+  },
+  {
+   "id": 354,
+   "text_jp": "アヤセ:う うるさいわね{204}!",
+   "translation_en": "Ayase: Sh-Shut up already!"
+  },
+  {
+   "id": 355,
+   "text_jp": "まいごでも",
+   "translation_en": "Even if I'm lost,"
+  },
+  {
+   "id": 356,
+   "text_jp": "おねぇちゃんたちとおんなじ",
+   "translation_en": "Just like you big sisters,"
+  },
+  {
+   "id": 357,
+   "text_jp": "しろいおめんをかぶってるです",
+   "translation_en": "I'm wearing a white mask too."
+  },
+  {
+   "id": 358,
+   "text_jp": "ゆきの:あ あぁ",
+   "translation_en": "Yukino: Ah, yeah."
+  },
+  {
+   "id": 359,
+   "text_jp": "だけど 詐しい場斯は忘れた",
+   "translation_en": "But I forgot the exact location."
+  },
+  {
+   "id": 360,
+   "text_jp": "たしか8階の駻台みたいな斯だよだけど もっと部の階に",
+   "translation_en": "I think it was on the 8th floor terrace, but on the upper floors..."
+  },
+  {
+   "id": 361,
+   "text_jp": "きっと Monsterよ!",
+   "translation_en": "It must be a monster!"
+  },
+  {
+   "id": 362,
+   "text_jp": "もう 彼女には会ったか?",
+   "translation_en": "Have you met her already?"
+  },
+  {
+   "id": 363,
+   "text_jp": "しょせんは 氷の学枚も",
+   "translation_en": "After all, even this frozen school..."
+  },
+  {
+   "id": 364,
+   "text_jp": "教套は 選ばれた者にのみ",
+   "translation_en": "The sanctuary is only for the chosen."
+  },
+  {
+   "id": 365,
+   "text_jp": "手達 神取だろう!?",
+   "translation_en": "Are you Kandori's men!?"
+  },
+  {
+   "id": 366,
+   "text_jp": "あの ヘンな仮面…",
+   "translation_en": "That strange mask..."
+  },
+  {
+   "id": 367,
+   "text_jp": "アヤセ:葺の生徒会莖 ここ?",
+   "translation_en": "Ayase: Is this the old Student Council room?"
+  },
+  {
+   "id": 368,
+   "text_jp": "アヤセ:アイジントナリ って",
+   "translation_en": "Ayase: \"Love thy neighbor\", huh?"
+  },
+  {
+   "id": 369,
+   "text_jp": "どんどん寒くなるなぁ〜",
+   "translation_en": "It's getting colder and colder~"
+  },
+  {
+   "id": 370,
+   "text_jp": "あと何階 あるのやら…",
+   "translation_en": "I wonder how many floors are left..."
+  },
+  {
+   "id": 371,
+   "text_jp": "ねえ パパをみなかった?",
+   "translation_en": "Hey, have you seen my papa?"
+  },
+  {
+   "id": 372,
+   "text_jp": "邑子かな この子?",
+   "translation_en": "Is this kid lost?"
+  },
+  {
+   "id": 373,
+   "text_jp": "エリ{204}:Miss Ayase!ちょっとは",
+   "translation_en": "Elly: Miss Ayase! Please calm down a bit!"
+  },
+  {
+   "id": 374,
+   "text_jp": "どれだけ Troubleに",
+   "translation_en": "How much trouble..."
+  },
+  {
+   "id": 375,
+   "text_jp": "ったく イチイチ",
+   "translation_en": "Jeez, every single time..."
+  },
+  {
+   "id": 376,
+   "text_jp": "黒い女の子:ちょっと〜!",
+   "translation_en": "Girl in Black: Hey, you~!"
+  },
+  {
+   "id": 377,
+   "text_jp": "くろいおめんをかぶってるの",
+   "translation_en": "I'm wearing a black mask."
+  },
+  {
+   "id": 378,
+   "text_jp": "黒い女の子:あ そう",
+   "translation_en": "Girl in Black: Oh, really?"
+  },
+  {
+   "id": 379,
+   "text_jp": "ブラウン:おれ達 弱いんだよ",
+   "translation_en": "Brown: We're weak, you know."
+  },
+  {
+   "id": 380,
+   "text_jp": "ほ 学枚なんて",
+   "translation_en": "The school is..."
+  },
+  {
+   "id": 381,
+   "text_jp": "ここでは 少引せまいようだ",
+   "translation_en": "It seems a bit cramped here."
+  },
+  {
+   "id": 382,
+   "text_jp": "なるってわけかぁ〜!!",
+   "translation_en": "So that's how it's gonna be~!!"
+  },
+  {
+   "id": 383,
+   "text_jp": "す   くよの子:え!?",
+   "translation_en": "Little Girl: Huh!?"
+  },
+  {
+   "id": 384,
+   "text_jp": "み 夜の女王:待ちかねたぞえ",
+   "translation_en": "Queen of the Night: I have grown tired of waiting."
+  },
+  {
+   "id": 385,
+   "text_jp": "見させてもらおう",
+   "translation_en": "Let me see what you can do."
+  },
+  {
+   "id": 386,
+   "text_jp": "しかし 覚えておくが箕い",
+   "translation_en": "However, remember this well."
+  },
+  {
+   "id": 387,
+   "text_jp": "人の宇に 希筆を絶筆に変える",
+   "translation_en": "As long as human hearts turn hope into despair,"
+  },
+  {
+   "id": 388,
+   "text_jp": "沚がある限り ｜永遠の夜』は",
+   "translation_en": "the \"Eternal Night\" will never end!"
+  },
+  {
+   "id": 389,
+   "text_jp": "ここは 私の械晃なのに…",
+   "translation_en": "This is supposed to be my domain..."
+  },
+  {
+   "id": 390,
+   "text_jp": "しょせん 村け曉き刄では",
+   "translation_en": "In the end, with half-baked power..."
+  },
+  {
+   "id": 391,
+   "text_jp": "どうにかするしかあるまい",
+   "translation_en": "We have no choice but to deal with it."
+  },
+  {
+   "id": 392,
+   "text_jp": "ほ  だったね",
+   "translation_en": "It was, wasn't it."
+  },
+  {
+   "id": 393,
+   "text_jp": "ヒ    ｜永遠の夜』は",
+   "translation_en": "The \"Eternal Night\" is..."
+  },
+  {
+   "id": 394,
+   "text_jp": "ご 冴子旡生:本当に行くんだね",
+   "translation_en": "Ms. Saeko: So you're really going."
+  },
+  {
+   "id": 395,
+   "text_jp": "曰い仮面をつけた あの学生",
+   "translation_en": "That student wearing the white mask..."
+  },
+  {
+   "id": 396,
+   "text_jp": "曰い仮面をつけた あの人",
+   "translation_en": "That person wearing the white mask..."
+  },
+  {
+   "id": 397,
+   "text_jp": "まぁ そのうち分かるだろうよ",
+   "translation_en": "Well, you'll understand sooner or later."
+  },
+  {
+   "id": 398,
+   "text_jp": "それじゃ 恒いのないように",
+   "translation_en": "Well then, make sure you have no regrets."
+  },
+  {
+   "id": 399,
+   "text_jp": "あんた運は もう大人だよ",
+   "translation_en": "You guys are already adults."
+  },
+  {
+   "id": 400,
+   "text_jp": "どいつもこいつも",
+   "translation_en": "Every single one of them..."
+  },
+  {
+   "id": 401,
+   "text_jp": "まぁ教腹旡生も 今日の事で",
+   "translation_en": "Well, the Vice Principal after today's events..."
+  },
+  {
+   "id": 402,
+   "text_jp": "冴子旡生:あれで いいとこも",
+   "translation_en": "Ms. Saeko: He has his good points too."
+  },
+  {
+   "id": 403,
+   "text_jp": "そ おっと!",
+   "translation_en": "Whoops!"
+  },
+  {
+   "id": 404,
+   "text_jp": "でも これは",
+   "translation_en": "But this is..."
+  },
+  {
+   "id": 405,
+   "text_jp": "恒いのないように 頑悵りますわ",
+   "translation_en": "I will do my best so there are no regrets."
+  },
+  {
+   "id": 406,
+   "text_jp": "ほ か",
+   "translation_en": "Is that so?"
+  },
+  {
+   "id": 407,
+   "text_jp": "なんとなぁ〜く生きてきたケド",
+   "translation_en": "I've been just kind of drifting through life, but..."
+  },
+  {
+   "id": 408,
+   "text_jp": "じゃ〜ね 旡生!",
+   "translation_en": "See ya, Teacher!"
+  },
+  {
+   "id": 409,
+   "text_jp": "いつか 冴子旡生みたいな",
+   "translation_en": "Someday, someone like Ms. Saeko..."
+  },
+  {
+   "id": 410,
+   "text_jp": "いろいろ ありがとう",
+   "translation_en": "Thanks for everything."
+  },
+  {
+   "id": 411,
+   "text_jp": "まぁ あんたは若いんだから",
+   "translation_en": "Well, you're still young, after all."
+  },
+  {
+   "id": 412,
+   "text_jp": "とにかく 皆を頼んだよ!",
+   "translation_en": "Anyway, I'm counting on you to look after everyone!"
+  },
+  {
+   "id": 413,
+   "text_jp": "ほ と",
+   "translation_en": "And..."
+  },
+  {
+   "id": 414,
+   "text_jp": "あんたも あの子運の",
+   "translation_en": "You are one of those kids too."
+  },
+  {
+   "id": 415,
+   "text_jp": "ねおほ 曉げるうぅぅぅぉぉ!!",
+   "translation_en": "It burns, aaagh!!"
+  },
+  {
+   "id": 416,
+   "text_jp": "ああ    南茱:稲葉!!",
+   "translation_en": "Nanjo: Inaba!!"
+  },
+  {
+   "id": 417,
+   "text_jp": "ヤツら 武装してるんだ",
+   "translation_en": "Those guys are heavily armed."
+  },
+  {
+   "id": 418,
+   "text_jp": "ほ の?",
+   "translation_en": "What about it?"
+  },
+  {
+   "id": 419,
+   "text_jp": "ほ だれっ!?",
+   "translation_en": "Who is that!?"
+  },
+  {
+   "id": 420,
+   "text_jp": "ほ いけにえとなった",
+   "translation_en": "Became a sacrifice..."
+  },
+  {
+   "id": 421,
+   "text_jp": "この僵り 礼を言うぞ",
+   "translation_en": "I give you my thanks for this."
+  },
+  {
+   "id": 422,
+   "text_jp": "その目で とくと見るが箕い",
+   "translation_en": "See it for yourself with your own eyes!"
+  },
+  {
+   "id": 423,
+   "text_jp": "ほ 待てよっ!!",
+   "translation_en": "Wait up!!"
+  },
+  {
+   "id": 424,
+   "text_jp": "ブラウン:お おしまいだ…",
+   "translation_en": "Brown: I-It's all over..."
+  },
+  {
+   "id": 425,
+   "text_jp": "黒瓜も ほら!",
+   "translation_en": "Even the black gourd, look!"
+  },
+  {
+   "id": 426,
+   "text_jp": "ほ なんとか言ってよぉ…",
+   "translation_en": "Say something, please..."
+  },
+  {
+   "id": 427,
+   "text_jp": "街も 凍りついてる…",
+   "translation_en": "The whole town is frozen over..."
+  },
+  {
+   "id": 428,
+   "text_jp": "アヤセ 頑悵ったよね?",
+   "translation_en": "Ayase tried her best, right?"
+  },
+  {
+   "id": 429,
+   "text_jp": "みんな 頑悵ったよね!?",
+   "translation_en": "Everyone tried their best, right?!"
+  },
+  {
+   "id": 430,
+   "text_jp": "なのに こんなヒドイこと…",
+   "translation_en": "So why did something this awful happen..."
+  }
+ ]
 }

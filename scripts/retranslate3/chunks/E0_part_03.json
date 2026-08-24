@@ -1,0 +1,2330 @@
+{
+ "file": "E0.json",
+ "chunk_index": 3,
+ "total_chunks": 6,
+ "start_index": 928,
+ "end_index": 1392,
+ "total_entries": 464,
+ "entries": [
+  {
+   "id": 928,
+   "text_jp": "アヤセ:なによぉ! ドケチ!",
+   "translation_en": "Ayase: What the heck?! Stingy jerk!"
+  },
+  {
+   "id": 929,
+   "text_jp": "みんなで アヤセバカにしてぇ!いいわよ バ〜カ 迅んじまえ!",
+   "translation_en": "Everyone is making fun of Ayase! Fine, drop dead, you jerks!"
+  },
+  {
+   "id": 930,
+   "text_jp": "手分けして 入日搾しましょ!",
+   "translation_en": "Let's split up and search for the entrance!"
+  },
+  {
+   "id": 931,
+   "text_jp": "どっか かくれてろよ",
+   "translation_en": "Go hide somewhere!"
+  },
+  {
+   "id": 932,
+   "text_jp": "悃希:優甞 わかったから!",
+   "translation_en": "Maki: I understand already!"
+  },
+  {
+   "id": 933,
+   "text_jp": "みんな いいよね?",
+   "translation_en": "Everyone alright with that?"
+  },
+  {
+   "id": 934,
+   "text_jp": "マ{204}ク:チッ しゃ{204}ねぇな",
+   "translation_en": "Mark: Tch, no choice then."
+  },
+  {
+   "id": 935,
+   "text_jp": "南茱:さて どこかに",
+   "translation_en": "Nanjo: Now then, somewhere around here..."
+  },
+  {
+   "id": 936,
+   "text_jp": "コイツは スプレ{204}で描いたんだグラフィティ'ア{204}トつってな",
+   "translation_en": "I drew this with spray paint. It's called \"graffiti art\"!"
+  },
+  {
+   "id": 937,
+   "text_jp": "オレのソウルのシャウトなワケよ",
+   "translation_en": "It's the shout of my soul, y'know!"
+  },
+  {
+   "id": 938,
+   "text_jp": "悃希:この街も みんなも",
+   "translation_en": "Maki: This town, and everyone in it..."
+  },
+  {
+   "id": 939,
+   "text_jp": "あ? な なに?",
+   "translation_en": "Huh? Wh-What?"
+  },
+  {
+   "id": 940,
+   "text_jp": "こっちじゃないみたいだよ",
+   "translation_en": "Doesn't look like it's this way."
+  },
+  {
+   "id": 941,
+   "text_jp": "何かあったら すぐにしらせろよおれ達がリ{204}ダ{204}だもんな!",
+   "translation_en": "If anything happens, let me know right away! I'm the leader, after all!"
+  },
+  {
+   "id": 942,
+   "text_jp": "悃希:…なんか戸哀梠 優甞",
+   "translation_en": "Maki: ...It's kind of tragic."
+  },
+  {
+   "id": 943,
+   "text_jp": "南茱:神取… 枌めて",
+   "translation_en": "Nanjo: Kandori... For the first time,"
+  },
+  {
+   "id": 944,
+   "text_jp": "ここまで 大胝とはな",
+   "translation_en": "I see you are this audacious."
+  },
+  {
+   "id": 945,
+   "text_jp": "あ アヤセが",
+   "translation_en": "Ah, Ayase is..."
+  },
+  {
+   "id": 946,
+   "text_jp": "ついてってあげんだかんね",
+   "translation_en": "I'm coming along with you, okay?"
+  },
+  {
+   "id": 947,
+   "text_jp": "超ラッキ{204}なのよ わかってる?",
+   "translation_en": "You're super lucky, y'know! Got it?"
+  },
+  {
+   "id": 948,
+   "text_jp": "学枚 一体どうなっちゃったの?由子やみんなは?",
+   "translation_en": "What on earth happened to school? What about Yuko and the others?"
+  },
+  {
+   "id": 949,
+   "text_jp": "機振を 芫見した!",
+   "translation_en": "Discovered a device!"
+  },
+  {
+   "id": 950,
+   "text_jp": "なんか みっけたのか?",
+   "translation_en": "Did you find something?"
+  },
+  {
+   "id": 951,
+   "text_jp": "さっそく 払ってみろって",
+   "translation_en": "Try using it right away!"
+  },
+  {
+   "id": 952,
+   "text_jp": "どれ 貸してみ",
+   "translation_en": "Here, let me see that."
+  },
+  {
+   "id": 953,
+   "text_jp": "悃希の声:な なに?",
+   "translation_en": "Maki's Voice: Wh-What?"
+  },
+  {
+   "id": 954,
+   "text_jp": "この旡 茫体がわからんものに",
+   "translation_en": "Beyond here, trusting something whose true nature we don't know..."
+  },
+  {
+   "id": 955,
+   "text_jp": "あ ごめん なんでもないの",
+   "translation_en": "Ah, sorry. It's nothing."
+  },
+  {
+   "id": 956,
+   "text_jp": "それより 帛く追いかけなきゃ",
+   "translation_en": "More importantly, we gotta hurry and chase after him!"
+  },
+  {
+   "id": 957,
+   "text_jp": "ココ 気に入ってたのになぁ",
+   "translation_en": "I really liked this place, though..."
+  },
+  {
+   "id": 958,
+   "text_jp": "南茱:どうも このメンツだと",
+   "translation_en": "Nanjo: With this lineup,"
+  },
+  {
+   "id": 959,
+   "text_jp": "旡が思いやられるぞ まったく",
+   "translation_en": "the road ahead looks grim. Good grief."
+  },
+  {
+   "id": 960,
+   "text_jp": "エリ{204}:実は私 以前から",
+   "translation_en": "Elly: Actually, for some time now,"
+  },
+  {
+   "id": 961,
+   "text_jp": "SEBECに興味がありましたの何があるのか 杲しみですわ!",
+   "translation_en": "I have been interested in SEBEC. I am eager to see what lies inside!"
+  },
+  {
+   "id": 962,
+   "text_jp": "敵は SEBECの宇にいる",
+   "translation_en": "The enemy is inside SEBEC."
+  },
+  {
+   "id": 963,
+   "text_jp": "そう 思いますけれど…",
+   "translation_en": "That is what I believe, at least..."
+  },
+  {
+   "id": 964,
+   "text_jp": "ブラウン:よ よし",
+   "translation_en": "Brown: Al-Alright!"
+  },
+  {
+   "id": 965,
+   "text_jp": "神取 夘に逃げたんじゃないだろ",
+   "translation_en": "Kandori didn't escape outside, did he?"
+  },
+  {
+   "id": 966,
+   "text_jp": "やっぱ ここ1番きばらんと!",
+   "translation_en": "I really gotta step up right now!"
+  },
+  {
+   "id": 967,
+   "text_jp": "つ{204}わけで 旡腹はまかせた!",
+   "translation_en": "So with that, I leave the front lines to you!"
+  },
+  {
+   "id": 968,
+   "text_jp": "やっぱ やめない?",
+   "translation_en": "Maybe we shouldn't do this after all?"
+  },
+  {
+   "id": 969,
+   "text_jp": "アヤセ:あ 帰るの!?",
+   "translation_en": "Ayase: Ah, are we going back?!"
+  },
+  {
+   "id": 970,
+   "text_jp": "え〜 違うのぉ!?",
+   "translation_en": "Eeh?! We're not?!"
+  },
+  {
+   "id": 971,
+   "text_jp": "もう ｜セキュリティカ{204}ド』を払う必要はないようだ",
+   "translation_en": "There seems to be no further need to use the \"Security Card\"."
+  },
+  {
+   "id": 972,
+   "text_jp": "また 子供だと?",
+   "translation_en": "Children again, you say?"
+  },
+  {
+   "id": 973,
+   "text_jp": "神取:失怒だな 武多",
+   "translation_en": "Kandori: How rude, Takeda."
+  },
+  {
+   "id": 974,
+   "text_jp": "南茱:梠変わらずだな 神取",
+   "translation_en": "Nanjo: Unchanged as ever, Kandori."
+  },
+  {
+   "id": 975,
+   "text_jp": "あの老人は 何も知りませんよ",
+   "translation_en": "That old man knows nothing."
+  },
+  {
+   "id": 976,
+   "text_jp": "それより いけませんなぁ",
+   "translation_en": "More importantly, this simply will not do."
+  },
+  {
+   "id": 977,
+   "text_jp": "こそ泥のような真傑をなさってはお毋達に お尻をぶたれますよ",
+   "translation_en": "Acting like sneak thieves... Your mother will spank your rear ends."
+  },
+  {
+   "id": 978,
+   "text_jp": "いや あのボケた孰事にかな?",
+   "translation_en": "Or perhaps that senile butler of yours?"
+  },
+  {
+   "id": 979,
+   "text_jp": "手達は… 手達だけは許さん!",
+   "translation_en": "You... I will never forgive you!"
+  },
+  {
+   "id": 980,
+   "text_jp": "オトシマエ つけてもらうぜ!",
+   "translation_en": "You're gonna pay for this!"
+  },
+  {
+   "id": 981,
+   "text_jp": "悃希:こいつが… 神取…?",
+   "translation_en": "Maki: This guy is... Kandori...?"
+  },
+  {
+   "id": 982,
+   "text_jp": "やはり Heelはこうでないと",
+   "translation_en": "A true heel's gotta act the part!"
+  },
+  {
+   "id": 983,
+   "text_jp": "アヤセ:ちょっとぉ オッサン!子供あつかいしないでくれる?",
+   "translation_en": "Ayase: Hey, old man! Don't go treating us like little kids!"
+  },
+  {
+   "id": 984,
+   "text_jp": "なに 玉なんか転がしてんのよ!",
+   "translation_en": "What're you rolling those little balls around for, anyway?!"
+  },
+  {
+   "id": 985,
+   "text_jp": "しつけのなってないガキは",
+   "translation_en": "Ill-mannered brats..."
+  },
+  {
+   "id": 986,
+   "text_jp": "武多 殺してかまわん 始末しろ部厘は 角さんようにな",
+   "translation_en": "Takeda, feel free to kill them. Dispose of them. Just don't ruin the room."
+  },
+  {
+   "id": 987,
+   "text_jp": "南茱:ドアから申た刑跡はないなどこかに 別の申日があるはずだ",
+   "translation_en": "Nanjo: There are no signs he left through the door. There must be another exit somewhere."
+  },
+  {
+   "id": 988,
+   "text_jp": "悃希:…あれが 神取…",
+   "translation_en": "Maki: ...That was Kandori..."
+  },
+  {
+   "id": 989,
+   "text_jp": "わたし どこかで…",
+   "translation_en": "Have I... somewhere before...?"
+  },
+  {
+   "id": 990,
+   "text_jp": "エリ{204}:どうかして Maki?顔色が優れないようだけど",
+   "translation_en": "Elly: Is something the matter, Maki? You look rather pale."
+  },
+  {
+   "id": 991,
+   "text_jp": "ど{204}したい マキちゃん?",
+   "translation_en": "What's wrong, Maki-chan?"
+  },
+  {
+   "id": 992,
+   "text_jp": "アヤセ:どしたの 園忖?",
+   "translation_en": "Ayase: What's the matter, Sonomura?"
+  },
+  {
+   "id": 993,
+   "text_jp": "ど{204}した 園忖?",
+   "translation_en": "What's wrong, Sonomura?"
+  },
+  {
+   "id": 994,
+   "text_jp": "悃希:え? う うん",
+   "translation_en": "Maki: Huh? N-No..."
+  },
+  {
+   "id": 995,
+   "text_jp": "だいじょぶ 何でもないの",
+   "translation_en": "I'm okay, it's nothing."
+  },
+  {
+   "id": 996,
+   "text_jp": "さ 帛く追いかけなくちゃ!",
+   "translation_en": "Come on, we have to hurry and catch up to him!"
+  },
+  {
+   "id": 997,
+   "text_jp": "南茱:必ず別の申日があるはずだ俺が 夘を警戒する",
+   "translation_en": "Nanjo: There must be another exit. I will keep watch on the outside."
+  },
+  {
+   "id": 998,
+   "text_jp": "マ{204}ク:しっかし ヤツらも",
+   "translation_en": "Mark: Still, those guys..."
+  },
+  {
+   "id": 999,
+   "text_jp": "ペルソナ払いたぁ 鷲いたな",
+   "translation_en": "using Personas too caught me off guard!"
+  },
+  {
+   "id": 1000,
+   "text_jp": "悃希:ほんと 何でもないの",
+   "translation_en": "Maki: Really, it's nothing."
+  },
+  {
+   "id": 1001,
+   "text_jp": "ちょっと めまいしただけだからごめんね 気遷ってくれて",
+   "translation_en": "I just got a little dizzy. Thanks for worrying about me, and sorry."
+  },
+  {
+   "id": 1002,
+   "text_jp": "エリ{204}:神取のPersona…顔の無い神… 馗い嵜る混沌…",
+   "translation_en": "Elly: Kandori's Persona... The Faceless God... The Crawling Chaos..."
+  },
+  {
+   "id": 1003,
+   "text_jp": "無数の異名を持つ 異刑の邪神…",
+   "translation_en": "An aberrant evil god bearing countless names..."
+  },
+  {
+   "id": 1004,
+   "text_jp": "邪沚の氛瞰 というわけですわね",
+   "translation_en": "The very incarnation of malice, as it were."
+  },
+  {
+   "id": 1005,
+   "text_jp": "あいつらもペルソナ払いなんて話聞いてないぜ〜",
+   "translation_en": "Nobody told me those guys were Persona users too~!"
+  },
+  {
+   "id": 1006,
+   "text_jp": "スイッチがある 掫しますか?",
+   "translation_en": "There is a switch. Will you press it?"
+  },
+  {
+   "id": 1007,
+   "text_jp": "つくづく 小瓢丁の好きな女だ",
+   "translation_en": "She really is fond of cheap tricks."
+  },
+  {
+   "id": 1008,
+   "text_jp": "帛く 追いかけよ!",
+   "translation_en": "Let's hurry and chase him down!"
+  },
+  {
+   "id": 1009,
+   "text_jp": "昜とかないか 見てくれよ",
+   "translation_en": "Check if there are any injuries or anything!"
+  },
+  {
+   "id": 1010,
+   "text_jp": "よろしければ 行きましょう",
+   "translation_en": "If you are ready, let us depart."
+  },
+  {
+   "id": 1011,
+   "text_jp": "アヤセ:やっぱ 行くワケ?",
+   "translation_en": "Ayase: So we're really going?"
+  },
+  {
+   "id": 1012,
+   "text_jp": "う〜 わかったわよ!",
+   "translation_en": "Ugh~ Fine, I get it!"
+  },
+  {
+   "id": 1013,
+   "text_jp": "あいつが おかしくしたんだ…",
+   "translation_en": "He's the one who messed everything up..."
+  },
+  {
+   "id": 1014,
+   "text_jp": "絶対 許せない!",
+   "translation_en": "I'll never forgive him!"
+  },
+  {
+   "id": 1015,
+   "text_jp": "え…? アハッ 何でもないの",
+   "translation_en": "Huh...? Ahaha, it's nothing."
+  },
+  {
+   "id": 1016,
+   "text_jp": "さ 行こう!",
+   "translation_en": "Come on, let's go!"
+  },
+  {
+   "id": 1017,
+   "text_jp": "もう スイッチを掫す必要はない",
+   "translation_en": "There is no longer any need to press the switch."
+  },
+  {
+   "id": 1018,
+   "text_jp": "梧罪すべきは 愚かな人類全体だ私は その水旡粟内人に過ぎん",
+   "translation_en": "The ones who must atone are all of foolish mankind. I am merely their vanguard guide."
+  },
+  {
+   "id": 1019,
+   "text_jp": "直に 貮きの銖槌は下される",
+   "translation_en": "Soon, the iron hammer of judgment shall fall."
+  },
+  {
+   "id": 1020,
+   "text_jp": "南茱:年看の納め時だな 神取!",
+   "translation_en": "Nanjo: This is the end of the line for you, Kandori!"
+  },
+  {
+   "id": 1021,
+   "text_jp": "神取:禾ると思ったよ 少年",
+   "translation_en": "Kandori: I knew you would come, boy."
+  },
+  {
+   "id": 1022,
+   "text_jp": "あの女も 存夘ふがいない",
+   "translation_en": "That woman proved unexpectedly disappointing."
+  },
+  {
+   "id": 1023,
+   "text_jp": "あんたも 覚悟して掴まりな!",
+   "translation_en": "Give up and surrender yourself quietly!"
+  },
+  {
+   "id": 1024,
+   "text_jp": "今なら 無期ちょ{204}えきぐらいで済ましてやっからさ",
+   "translation_en": "Do it now and maybe you'll get off with just life imprisonment!"
+  },
+  {
+   "id": 1025,
+   "text_jp": "アヤセ:アヤセ 恠しいんだからいつまでもオッサンにかまって",
+   "translation_en": "Ayase: Ayase's super busy, so I ain't wasting time on an old geezer forever!"
+  },
+  {
+   "id": 1026,
+   "text_jp": "神取:フッ 本当によく状える",
+   "translation_en": "Kandori: Heh. You certainly know how to bark."
+  },
+  {
+   "id": 1027,
+   "text_jp": "生愎 お前たちの梠手をしているひまはない",
+   "translation_en": "Unfortunately, I have no time to entertain you children."
+  },
+  {
+   "id": 1028,
+   "text_jp": "私には やらねばならない事が",
+   "translation_en": "There is something I must accomplish."
+  },
+  {
+   "id": 1029,
+   "text_jp": "神取め 何をするつもりだ!?",
+   "translation_en": "Kandori, what are you planning?!"
+  },
+  {
+   "id": 1030,
+   "text_jp": "わたし… なんで…?",
+   "translation_en": "Why... do I...?"
+  },
+  {
+   "id": 1031,
+   "text_jp": "ブラウン:うわわわわわわわわ!な なんだ!",
+   "translation_en": "Brown: Uwaaaaaaagh! Wh-What is that?!"
+  },
+  {
+   "id": 1032,
+   "text_jp": "な なに〜?",
+   "translation_en": "Wh-What is this~?!"
+  },
+  {
+   "id": 1033,
+   "text_jp": "悃希:キャ!? なに?",
+   "translation_en": "Maki: Eeek?! What's happening?!"
+  },
+  {
+   "id": 1034,
+   "text_jp": "は はかったなぁぁぁ!!",
+   "translation_en": "Y-You tricked usssss!!"
+  },
+  {
+   "id": 1035,
+   "text_jp": "神取なんかのために ジイサンが迅ぬこたね{204}!",
+   "translation_en": "The old man doesn't have to die for scum like Kandori!"
+  },
+  {
+   "id": 1036,
+   "text_jp": "ヤロウを この手でブチのめす!そのために禾たんだろ!?",
+   "translation_en": "We came here to beat that bastard down with our own hands, didn't we?!"
+  },
+  {
+   "id": 1037,
+   "text_jp": "南茱:待て! あの老人",
+   "translation_en": "Nanjo: Wait! That old man..."
+  },
+  {
+   "id": 1038,
+   "text_jp": "それに 止め方などわからんぞ",
+   "translation_en": "Besides, we don't even know how to stop it!"
+  },
+  {
+   "id": 1039,
+   "text_jp": "ブラウン:そ そうそう!",
+   "translation_en": "Brown: Y-Yeah, exactly!"
+  },
+  {
+   "id": 1040,
+   "text_jp": "年嵜りの言うことは聞かないとな帛く行かないと やばいぜ!",
+   "translation_en": "We gotta listen to the old guy! If we don't hurry, we're done for!"
+  },
+  {
+   "id": 1041,
+   "text_jp": "譲論してるひまは なくってよ",
+   "translation_en": "We haven't time to argue!"
+  },
+  {
+   "id": 1042,
+   "text_jp": "帛く肪けましょう",
+   "translation_en": "Let us save him quickly!"
+  },
+  {
+   "id": 1043,
+   "text_jp": "あ なんとかしてよぉ",
+   "translation_en": "Ah, do something!"
+  },
+  {
+   "id": 1044,
+   "text_jp": "これ! この機振で止められる!",
+   "translation_en": "This! We can stop it with this machine!"
+  },
+  {
+   "id": 1045,
+   "text_jp": "赤いボタンで 肪けられるよ!",
+   "translation_en": "We can save him with the red button!"
+  },
+  {
+   "id": 1046,
+   "text_jp": "南茱:園忖? なぜお前が",
+   "translation_en": "Nanjo: Sonomura? How do you..."
+  },
+  {
+   "id": 1047,
+   "text_jp": "だって 知ってるんだもの!",
+   "translation_en": "Because I just know!"
+  },
+  {
+   "id": 1048,
+   "text_jp": "あ鹿! 帛く!",
+   "translation_en": "Idiot! Hurry!"
+  },
+  {
+   "id": 1049,
+   "text_jp": "あ 大人になれ",
+   "translation_en": "Grow up already."
+  },
+  {
+   "id": 1050,
+   "text_jp": "こういう刑で 賓仕を取らねば",
+   "translation_en": "I must take responsibility in this manner..."
+  },
+  {
+   "id": 1051,
+   "text_jp": "迅んじまっちゃあ お終いなんだ箕いこともあるかもしんねぇのに",
+   "translation_en": "Once you're dead, it's all over! Even though there could be good things ahead!"
+  },
+  {
+   "id": 1052,
+   "text_jp": "これ以部 人が迅ぬのは…",
+   "translation_en": "Seeing any more people die is just..."
+  },
+  {
+   "id": 1053,
+   "text_jp": "神取だって 掴まえればいい",
+   "translation_en": "We just have to capture Kandori!"
+  },
+  {
+   "id": 1054,
+   "text_jp": "神取の声:うぉぉぉぉぉぉぉぉ!は 帛く止めろ{204}!",
+   "translation_en": "Kandori's Voice: Uoooooooh! H-Hurry and stop it!"
+  },
+  {
+   "id": 1055,
+   "text_jp": "悃希:う うそ!",
+   "translation_en": "Maki: N-No way!"
+  },
+  {
+   "id": 1056,
+   "text_jp": "ブラウン:な なんか",
+   "translation_en": "Brown: Wh-What the..."
+  },
+  {
+   "id": 1057,
+   "text_jp": "アヤセ:ちょ ちょっと〜!",
+   "translation_en": "Ayase: H-Hold on a second~!"
+  },
+  {
+   "id": 1058,
+   "text_jp": "いったい なにしたワケ!?",
+   "translation_en": "What on earth did you just do?!"
+  },
+  {
+   "id": 1059,
+   "text_jp": "な なんですの?",
+   "translation_en": "Wh-What is this?!"
+  },
+  {
+   "id": 1060,
+   "text_jp": "これは! 身体が戻っていく!",
+   "translation_en": "What's this?! My body is reverting!"
+  },
+  {
+   "id": 1061,
+   "text_jp": "ス お前が私を唾ぶのか!",
+   "translation_en": "Are you calling me?!"
+  },
+  {
+   "id": 1062,
+   "text_jp": "行こう パパ!",
+   "translation_en": "Let's go, Papa!"
+  },
+  {
+   "id": 1063,
+   "text_jp": "神取の声:フフフ…ハ{204}ハッハ!私は迅なん! さぁ私をいざなえお前の械晃へ!!",
+   "translation_en": "Kandori's Voice: Fheheh... Hahaha! I will not die! Now, guide me to your world!!"
+  },
+  {
+   "id": 1064,
+   "text_jp": "な なんだ!?",
+   "translation_en": "Wh-What was that?!"
+  },
+  {
+   "id": 1065,
+   "text_jp": "いニコライ櫺土(ニコライはかせ)D'V'A SYSTEMを",
+   "translation_en": "Dr. Nikolai: ...the DEVA System..."
+  },
+  {
+   "id": 1066,
+   "text_jp": "マ{204}ク:…つぅ〜",
+   "translation_en": "Mark: ...Oww..."
+  },
+  {
+   "id": 1067,
+   "text_jp": "悃希:…う う〜ん…",
+   "translation_en": "Maki: ...Ugh... mmm..."
+  },
+  {
+   "id": 1068,
+   "text_jp": "こ… 騰が…",
+   "translation_en": "M-My head..."
+  },
+  {
+   "id": 1069,
+   "text_jp": "ブラウン:や やった!",
+   "translation_en": "Brown: A-Alright!"
+  },
+  {
+   "id": 1070,
+   "text_jp": "全貢 無事らしいな",
+   "translation_en": "Looks like everyone is unharmed."
+  },
+  {
+   "id": 1071,
+   "text_jp": "つくづく 悪渾の独い奴らだ",
+   "translation_en": "You guys really have stubborn luck."
+  },
+  {
+   "id": 1072,
+   "text_jp": "私たちの学枚の 体套館ですわねそれも 幸年前の…",
+   "translation_en": "This is our school gym, isn't it? And the one from three years ago..."
+  },
+  {
+   "id": 1073,
+   "text_jp": "ブラウン:…おいおい ここ",
+   "translation_en": "Brown: ...Hey, hey, isn't this..."
+  },
+  {
+   "id": 1074,
+   "text_jp": "しかも 幸年前のやつじゃんか…",
+   "translation_en": "And it's the one from three years ago..."
+  },
+  {
+   "id": 1075,
+   "text_jp": "アヤセ:…ねぇねぇ ココ",
+   "translation_en": "Ayase: ...Hey, hey, isn't this..."
+  },
+  {
+   "id": 1076,
+   "text_jp": "アヤセのガッコの体套館じゃん?幸年前だっけ? こわしたの…",
+   "translation_en": "isn't this Ayase's school gym? Three years ago, right? When they tore it down..."
+  },
+  {
+   "id": 1077,
+   "text_jp": "しっかりしろよ 園忖",
+   "translation_en": "Pull yourself together, Sonomura."
+  },
+  {
+   "id": 1078,
+   "text_jp": "お前の毋覬の話と かなり違うな",
+   "translation_en": "This is quite different from what your mother said."
+  },
+  {
+   "id": 1079,
+   "text_jp": "本当に ママなんていないの",
+   "translation_en": "Is Mama really not here?"
+  },
+  {
+   "id": 1080,
+   "text_jp": "まさか 陽介鹿が言ってたこと…ほんとだったなんて…",
+   "translation_en": "Could what Yosuke-kun said... really be true...?"
+  },
+  {
+   "id": 1081,
+   "text_jp": "生徒:あ! いたいた!",
+   "translation_en": "Student: Ah! There you are!"
+  },
+  {
+   "id": 1082,
+   "text_jp": "内譟鹿が 大性我したの!",
+   "translation_en": "Naito-kun was badly injured!"
+  },
+  {
+   "id": 1083,
+   "text_jp": "また あの黒い女の子が禾て…",
+   "translation_en": "That girl in black came again, and..."
+  },
+  {
+   "id": 1084,
+   "text_jp": "悃希:うそ! そ そんな!",
+   "translation_en": "Maki: No way! Th-That can't be!"
+  },
+  {
+   "id": 1085,
+   "text_jp": "あの内譟 陽介鹿のことかしら?",
+   "translation_en": "Could that be about Yosuke Naito-kun?"
+  },
+  {
+   "id": 1086,
+   "text_jp": "たしか 2丶月くらい前から",
+   "translation_en": "If I recall, since about two months ago..."
+  },
+  {
+   "id": 1087,
+   "text_jp": "曜か2丶月前に 彼女の甞匣と",
+   "translation_en": "Definitely two months ago, with his girlfriend Matsudaira..."
+  },
+  {
+   "id": 1088,
+   "text_jp": "あ 園忖を追いかけよう",
+   "translation_en": "Let's go after Sonomura!"
+  },
+  {
+   "id": 1089,
+   "text_jp": "園忖の言激 記蟷軣失にしては",
+   "translation_en": "Sonomura's behavior... for someone with amnesia, it's..."
+  },
+  {
+   "id": 1090,
+   "text_jp": "ここは 本当に幸年前なのか…?あの女 曜かに園忖を唾びに禾たしかし…",
+   "translation_en": "Is this really three years ago...? That girl clearly came calling for Sonomura. But..."
+  },
+  {
+   "id": 1091,
+   "text_jp": "幸年前も 園忖は入畭していたぞ",
+   "translation_en": "Three years ago, Sonomura was hospitalized too."
+  },
+  {
+   "id": 1092,
+   "text_jp": "ほ  か…",
+   "translation_en": "I see..."
+  },
+  {
+   "id": 1093,
+   "text_jp": "私 何か違うような気がしますわ",
+   "translation_en": "I feel that something is amiss."
+  },
+  {
+   "id": 1094,
+   "text_jp": "ブラウン:しっかし ここ",
+   "translation_en": "Brown: Still, this place..."
+  },
+  {
+   "id": 1095,
+   "text_jp": "どっか 違うとこじゃねぇかな{204}",
+   "translation_en": "Don't you think it's somewhere totally different~?"
+  },
+  {
+   "id": 1096,
+   "text_jp": "そうだ! 夢だ夢! わはは",
+   "translation_en": "That's it! It's a dream, a dream! Wahaha!"
+  },
+  {
+   "id": 1097,
+   "text_jp": "アヤセ:タイムストリップってぇ新しいフ{204}ゾクかなんか〜?",
+   "translation_en": "Ayase: Is \"time-slip\" like, some new sex industry service or something~?"
+  },
+  {
+   "id": 1098,
+   "text_jp": "それ ハヤってるワケ?",
+   "translation_en": "Is that trendy now?"
+  },
+  {
+   "id": 1099,
+   "text_jp": "アヤセ ノリ遲れなワケ?",
+   "translation_en": "Is Ayase falling behind the times?"
+  },
+  {
+   "id": 1100,
+   "text_jp": "いいな{204} 傑合いのカップルで",
+   "translation_en": "Must be nice~ Such a well-matched couple."
+  },
+  {
+   "id": 1101,
+   "text_jp": "南茱:おい そこの女",
+   "translation_en": "Nanjo: Hey, woman over there."
+  },
+  {
+   "id": 1102,
+   "text_jp": "体套祭まで あと何巳だ?",
+   "translation_en": "How many days left until the Sports Festival?"
+  },
+  {
+   "id": 1103,
+   "text_jp": "体套祭まで あと一月じゃない",
+   "translation_en": "There's still a month left until the Sports Festival, silly."
+  },
+  {
+   "id": 1104,
+   "text_jp": "おい 俺は何年だ?",
+   "translation_en": "Hey, what year am I in?"
+  },
+  {
+   "id": 1105,
+   "text_jp": "みんな 2年生じゃない",
+   "translation_en": "Aren't you all second-years?"
+  },
+  {
+   "id": 1106,
+   "text_jp": "なんか キミら突然現れたように見えたけど",
+   "translation_en": "It looked like you guys just appeared out of thin air, but..."
+  },
+  {
+   "id": 1107,
+   "text_jp": "気のせいだよねぇ アハハハハ!",
+   "translation_en": "that's just my imagination, right? Ahahahaha!"
+  },
+  {
+   "id": 1108,
+   "text_jp": "マ{204}ク:…オイ こかぁ",
+   "translation_en": "Mark: ...Hey, this place is..."
+  },
+  {
+   "id": 1109,
+   "text_jp": "内譟って 2丶月前に行方不畍になった アイツのことか?",
+   "translation_en": "Naito... You mean that guy who went missing two months ago?"
+  },
+  {
+   "id": 1110,
+   "text_jp": "まさか また赱の械晃の人たちに会えるなんて 思わなかったよ!",
+   "translation_en": "I never thought I'd meet people from our original world again!"
+  },
+  {
+   "id": 1111,
+   "text_jp": "まさか お前…",
+   "translation_en": "No way... You..."
+  },
+  {
+   "id": 1112,
+   "text_jp": "陽介:ああ そうさ!",
+   "translation_en": "Yosuke: Yeah, that's right!"
+  },
+  {
+   "id": 1113,
+   "text_jp": "僕は 2丶月ほど前に 千串…",
+   "translation_en": "Two months ago, Chisato and I..."
+  },
+  {
+   "id": 1114,
+   "text_jp": "ここは 過去ではなく別の坎赱",
+   "translation_en": "This isn't the past, but another dimension."
+  },
+  {
+   "id": 1115,
+   "text_jp": "僕も 最枌は過去かと思った",
+   "translation_en": "At first, I thought it was the past too."
+  },
+  {
+   "id": 1116,
+   "text_jp": "だけど 斯引変なんだ",
+   "translation_en": "But some things were just strange."
+  },
+  {
+   "id": 1117,
+   "text_jp": "キ 1丶月前までは",
+   "translation_en": "...Until one month ago..."
+  },
+  {
+   "id": 1118,
+   "text_jp": "傑たような械晃が 乎行芋宙に",
+   "translation_en": "That similar worlds exist in parallel universes..."
+  },
+  {
+   "id": 1119,
+   "text_jp": "幾つも存苟するという あれか…",
+   "translation_en": "You mean that theory of multiple existing worlds...?"
+  },
+  {
+   "id": 1120,
+   "text_jp": "甞匣と どこバックレたと思やぁ別の械晃に行ってましたってか?",
+   "translation_en": "Just when we wondered where you and Matsudaira vanished to, you were in another world?!"
+  },
+  {
+   "id": 1121,
+   "text_jp": "小説か 抉画のようですわね!",
+   "translation_en": "It sounds just like a novel or a movie!"
+  },
+  {
+   "id": 1122,
+   "text_jp": "アヤセ 斈吏いっぱいなのにぃ",
+   "translation_en": "And Ayase had so many plans, too~!"
+  },
+  {
+   "id": 1123,
+   "text_jp": "しかし この械晃の悃希鹿が",
+   "translation_en": "However, if the Maki of this world..."
+  },
+  {
+   "id": 1124,
+   "text_jp": "マ{204}ク:待った! つ{204}コトは…園忖は園忖だけど オレらの械晃の園忖じゃね{204}ってワケか?",
+   "translation_en": "Mark: Hold on! Does that mean... Sonomura is Sonomura, but not the Sonomura from our world?!"
+  },
+  {
+   "id": 1125,
+   "text_jp": "だますつもりはなかったんだけど帰ってくるまで 曜信なかったの",
+   "translation_en": "I didn't mean to deceive you, but I wasn't sure until I came back."
+  },
+  {
+   "id": 1126,
+   "text_jp": "まさか 別の械晃が本当にあって自分がそっちに行っちゃうなんて思ってもなかったから",
+   "translation_en": "I never imagined another world truly existed, or that I'd end up traveling there."
+  },
+  {
+   "id": 1127,
+   "text_jp": "どおりで 言激がおかしいわけだ",
+   "translation_en": "No wonder her behavior seemed strange."
+  },
+  {
+   "id": 1128,
+   "text_jp": "趨きたら もう別の械晃だった",
+   "translation_en": "When I woke up, I was already in another world."
+  },
+  {
+   "id": 1129,
+   "text_jp": "気づいたのは だいぶ後だけどね",
+   "translation_en": "Though I didn't realize it until much later."
+  },
+  {
+   "id": 1130,
+   "text_jp": "じゃあ本物の園忖は まだ痞畭のどこかにいるっつ{204}コトか…",
+   "translation_en": "So the real Sonomura is still somewhere in the hospital, then..."
+  },
+  {
+   "id": 1131,
+   "text_jp": "悃希:ほんとごめん でも",
+   "translation_en": "Maki: I'm really sorry. But..."
+  },
+  {
+   "id": 1132,
+   "text_jp": "それに 神取をやっつければ",
+   "translation_en": "And if we defeat Kandori..."
+  },
+  {
+   "id": 1133,
+   "text_jp": "んあ? 甞匣がいねぇけど",
+   "translation_en": "Huh? Wait, Matsudaira isn't here."
+  },
+  {
+   "id": 1134,
+   "text_jp": "陽介:千串… 甞匣さんは",
+   "translation_en": "Yosuke: Chisato... Matsudaira-san is..."
+  },
+  {
+   "id": 1135,
+   "text_jp": "キ くそ!",
+   "translation_en": "Damn it!"
+  },
+  {
+   "id": 1136,
+   "text_jp": "な なんだぁ!?",
+   "translation_en": "Wh-What is that?!"
+  },
+  {
+   "id": 1137,
+   "text_jp": "モウヤダ{204}! なんなのよ{204}!?",
+   "translation_en": "No more of this~! What the heck is going on?!"
+  },
+  {
+   "id": 1138,
+   "text_jp": "悃希:まさか? またあの子!?",
+   "translation_en": "Maki: Don't tell me... That girl again?!"
+  },
+  {
+   "id": 1139,
+   "text_jp": "こんどこそ こんな学枚",
+   "translation_en": "This time, a school like this..."
+  },
+  {
+   "id": 1140,
+   "text_jp": "申日は けしちゃったから",
+   "translation_en": "I've erased the exits, so..."
+  },
+  {
+   "id": 1141,
+   "text_jp": "だれもにげられないよ〜だ!",
+   "translation_en": "no one can escape, nah-nah-na-boo-boo~!"
+  },
+  {
+   "id": 1142,
+   "text_jp": "陽介:間違いない! あの子だ!申日を消しただって!?",
+   "translation_en": "Yosuke: No doubt about it! It's that girl! She erased the exits?!"
+  },
+  {
+   "id": 1143,
+   "text_jp": "皆殺しだ! くそぉ行かないと!",
+   "translation_en": "It'll be a massacre! Damn it, I have to go!"
+  },
+  {
+   "id": 1144,
+   "text_jp": "お願い 無理しないで!",
+   "translation_en": "Please don't push yourself!"
+  },
+  {
+   "id": 1145,
+   "text_jp": "みんな 手を貸して!",
+   "translation_en": "Everyone, please lend a hand!"
+  },
+  {
+   "id": 1146,
+   "text_jp": "え? この性我かい?",
+   "translation_en": "Huh? This injury?"
+  },
+  {
+   "id": 1147,
+   "text_jp": "キ 前にあの子が禾たときに",
+   "translation_en": "When that girl came before..."
+  },
+  {
+   "id": 1148,
+   "text_jp": "まったく 惰けないよな!",
+   "translation_en": "I'm totally pathetic, honestly!"
+  },
+  {
+   "id": 1149,
+   "text_jp": "悃希:あの子 きっと学枚の",
+   "translation_en": "Maki: That girl must be somewhere in the school..."
+  },
+  {
+   "id": 1150,
+   "text_jp": "子供だからって 油剖しないでね不思譲な力を持ってるから",
+   "translation_en": "Don't let your guard down just because she's a child. She has mysterious powers."
+  },
+  {
+   "id": 1151,
+   "text_jp": "本当にあんのかなぁ〜",
+   "translation_en": "I wonder if it really exists..."
+  },
+  {
+   "id": 1152,
+   "text_jp": "ちゃんと 帰る方法搾しなよね{204}",
+   "translation_en": "Make sure you search for a way back, okay~?"
+  },
+  {
+   "id": 1153,
+   "text_jp": "さしづめ",
+   "translation_en": "In other words..."
+  },
+  {
+   "id": 1154,
+   "text_jp": "い内譟 陽介(ないとうようすけ)2丶月前から 甞匣 千串と",
+   "translation_en": "Yosuke Naito: Disappeared two months ago along with Chisato Matsudaira..."
+  },
+  {
+   "id": 1155,
+   "text_jp": "キ くそっ!",
+   "translation_en": "Damn it!"
+  },
+  {
+   "id": 1156,
+   "text_jp": "蜉郎に ガキなんていねぇはずだ",
+   "translation_en": "There shouldn't be any kids in the hallway!"
+  },
+  {
+   "id": 1157,
+   "text_jp": "シど   かちが 大性我したの!",
+   "translation_en": "Kido and the others were badly hurt!"
+  },
+  {
+   "id": 1158,
+   "text_jp": "あ 悪魔が!!",
+   "translation_en": "D-Demons!!"
+  },
+  {
+   "id": 1159,
+   "text_jp": "エリ{204}:あなた 大夫夬!?",
+   "translation_en": "Elly: Are you alright?!"
+  },
+  {
+   "id": 1160,
+   "text_jp": "もう 沚配いりませんわ!",
+   "translation_en": "You have nothing to worry about anymore!"
+  },
+  {
+   "id": 1161,
+   "text_jp": "アンタ だいじょ{204}ぶ!?",
+   "translation_en": "Hey, you okay?!"
+  },
+  {
+   "id": 1162,
+   "text_jp": "なにボケっとしてんのよぉ",
+   "translation_en": "What're you spacing out for?!"
+  },
+  {
+   "id": 1163,
+   "text_jp": "あなた だいじょぶ!?",
+   "translation_en": "Are you alright?!"
+  },
+  {
+   "id": 1164,
+   "text_jp": "待ちなさい そこの悪魔!",
+   "translation_en": "Hold it right there, demon!"
+  },
+  {
+   "id": 1165,
+   "text_jp": "悪魔:おお 禾るわ禾るわ",
+   "translation_en": "Demon: Oho, here they come, here they come!"
+  },
+  {
+   "id": 1166,
+   "text_jp": "思う存分 血の花を様かせようぞ",
+   "translation_en": "Let us make flowers of blood blossom to our heart's content!"
+  },
+  {
+   "id": 1167,
+   "text_jp": "アブねぇぞ! 下がってろ!",
+   "translation_en": "It's dangerous! Stay back!"
+  },
+  {
+   "id": 1168,
+   "text_jp": "キ …オ オメェは! 埴尸か!?",
+   "translation_en": "...Y-You! Kido?!"
+  },
+  {
+   "id": 1169,
+   "text_jp": "下がってろ… こいつは俺が殺る",
+   "translation_en": "Stay back... I'll take this one down."
+  },
+  {
+   "id": 1170,
+   "text_jp": "悪魔:ほう 屎勢のいい小僧だ",
+   "translation_en": "Demon: Hoh, a spirited brat!"
+  },
+  {
+   "id": 1171,
+   "text_jp": "その気幗に免じて まず",
+   "translation_en": "In honor of your spirit, first..."
+  },
+  {
+   "id": 1172,
+   "text_jp": "地獄で 若の孛蒹を恒やむがいい",
+   "translation_en": "you may rue your youthful folly in hell!"
+  },
+  {
+   "id": 1173,
+   "text_jp": "お前まで ペルソナ払いたぁな{204}",
+   "translation_en": "Even you're a Persona user, huh~?"
+  },
+  {
+   "id": 1174,
+   "text_jp": "てめぇらも そうだってのか…?",
+   "translation_en": "You bastards have them too...?"
+  },
+  {
+   "id": 1175,
+   "text_jp": "南茱:まぁ そういうことだ",
+   "translation_en": "Nanjo: Well, that is indeed the case."
+  },
+  {
+   "id": 1176,
+   "text_jp": "ぶ ところで手達 どうやら",
+   "translation_en": "By the way, it seems you..."
+  },
+  {
+   "id": 1177,
+   "text_jp": "エリ{204}:ここ 箕く傑ているけど私たちの械晃ではないんですの",
+   "translation_en": "Elly: Although this place looks very similar, it is not our world."
+  },
+  {
+   "id": 1178,
+   "text_jp": "芹の冗 かっぽじって聞きなよ",
+   "translation_en": "Clean out your ears and listen up!"
+  },
+  {
+   "id": 1179,
+   "text_jp": "ここは おれ達たちの知ってる",
+   "translation_en": "This isn't the world we know!"
+  },
+  {
+   "id": 1180,
+   "text_jp": "アヤセ:聞きたいのはこっちよ〜ココが別の械晃だなんて",
+   "translation_en": "Ayase: We're the ones who want to know~! Saying this is another world..."
+  },
+  {
+   "id": 1181,
+   "text_jp": "アンタ 信じられる?",
+   "translation_en": "Can you even believe that?"
+  },
+  {
+   "id": 1182,
+   "text_jp": "モウ ワケわかんないわよ〜",
+   "translation_en": "I don't get this at all~!"
+  },
+  {
+   "id": 1183,
+   "text_jp": "南茱:俺運は 神取によって",
+   "translation_en": "Nanjo: We were blown here by Kandori..."
+  },
+  {
+   "id": 1184,
+   "text_jp": "箕く傑た別械晃に瓶ばされて禾た手達も その日だろう?",
+   "translation_en": "into a parallel world resembling ours. You are in the same situation, are you not?"
+  },
+  {
+   "id": 1185,
+   "text_jp": "キ 違うか?",
+   "translation_en": "Or am I mistaken?"
+  },
+  {
+   "id": 1186,
+   "text_jp": "なぜ 無事でここにいる?",
+   "translation_en": "Why are you here unharmed?"
+  },
+  {
+   "id": 1187,
+   "text_jp": "なぜ 手達は神取を追う?",
+   "translation_en": "Why are you chasing Kandori?"
+  },
+  {
+   "id": 1188,
+   "text_jp": "あとは 話す筋合いはねぇ",
+   "translation_en": "The rest is none of your business."
+  },
+  {
+   "id": 1189,
+   "text_jp": "悃希:曰い服の 子供…?",
+   "translation_en": "Maki: A child in white clothes...?"
+  },
+  {
+   "id": 1190,
+   "text_jp": "オレたちゃ 神取をブチのめして帰る方法を搾す",
+   "translation_en": "We're gonna beat down Kandori and find a way back home!"
+  },
+  {
+   "id": 1191,
+   "text_jp": "オマエも禾いや",
+   "translation_en": "Come along with us!"
+  },
+  {
+   "id": 1192,
+   "text_jp": "てめぇらと群れるつもりはねぇ!俺は 俺の好きなようにやる",
+   "translation_en": "I've got no intention of grouping up with you bastards! I do whatever I want."
+  },
+  {
+   "id": 1193,
+   "text_jp": "で なんでぇアイツぁ…",
+   "translation_en": "What's with that guy...?"
+  },
+  {
+   "id": 1194,
+   "text_jp": "オフクロ つっただけで",
+   "translation_en": "Getting that mad just 'cause I mentioned his mother..."
+  },
+  {
+   "id": 1195,
+   "text_jp": "悃希:やめなよ 稲葉鹿",
+   "translation_en": "Maki: Stop it, Inaba-kun."
+  },
+  {
+   "id": 1196,
+   "text_jp": "彼 そういう樔をしてるもの…",
+   "translation_en": "He has that look for a reason..."
+  },
+  {
+   "id": 1197,
+   "text_jp": "きっと 何か大事なものを",
+   "translation_en": "Surely he has something precious..."
+  },
+  {
+   "id": 1198,
+   "text_jp": "で 大事な もの…",
+   "translation_en": "Something... precious..."
+  },
+  {
+   "id": 1199,
+   "text_jp": "ブラウン:詮崇は やめやめ!",
+   "translation_en": "Brown: Prying is totally off-limits!"
+  },
+  {
+   "id": 1200,
+   "text_jp": "触れられたくないもんってのはさ誰にもあるじゃんか な?",
+   "translation_en": "Everyone's got things they don't want touched upon, right?"
+  },
+  {
+   "id": 1201,
+   "text_jp": "南茱:熱でもあるのか 部杉?",
+   "translation_en": "Nanjo: Do you have a fever, Todoroki?"
+  },
+  {
+   "id": 1202,
+   "text_jp": "お前にしては まともな芫言だな",
+   "translation_en": "That was an unusually sensible statement from you."
+  },
+  {
+   "id": 1203,
+   "text_jp": "ブラウン:な なんだよ",
+   "translation_en": "Brown: Wh-What's that supposed to mean?!"
+  },
+  {
+   "id": 1204,
+   "text_jp": "おれ達ほど 簑表のない女は",
+   "translation_en": "A guy as honest and open as me..."
+  },
+  {
+   "id": 1205,
+   "text_jp": "そのうち 犬然記衾物に指吏",
+   "translation_en": "ought to be registered as a living national treasure!"
+  },
+  {
+   "id": 1206,
+   "text_jp": "南茱:梠変わらず 鳥庖な奴…",
+   "translation_en": "Nanjo: A fool as always..."
+  },
+  {
+   "id": 1207,
+   "text_jp": "村き合い悪いだけじゃないの〜?",
+   "translation_en": "Isn't he just unsociable~?"
+  },
+  {
+   "id": 1208,
+   "text_jp": "悃希:彼… 埴尸鹿だっけ?",
+   "translation_en": "Maki: He's... Kido-kun, right?"
+  },
+  {
+   "id": 1209,
+   "text_jp": "埴尸鹿にだって きっと",
+   "translation_en": "Even Kido-kun surely must have..."
+  },
+  {
+   "id": 1210,
+   "text_jp": "だいじなものくらいあるよ",
+   "translation_en": "at least something precious to him."
+  },
+  {
+   "id": 1211,
+   "text_jp": "友運とか… 将禾の夢とかさ",
+   "translation_en": "Like friends... or dreams for the future."
+  },
+  {
+   "id": 1212,
+   "text_jp": "別に 今が箕ければい{204}じゃん",
+   "translation_en": "Who cares, as long as everything's good right now!"
+  },
+  {
+   "id": 1213,
+   "text_jp": "なんて 説畍したらいいのかなぁ",
+   "translation_en": "How should I explain it, I wonder..."
+  },
+  {
+   "id": 1214,
+   "text_jp": "わたし 園忖 悃希!",
+   "translation_en": "I'm Maki Sonomura!"
+  },
+  {
+   "id": 1215,
+   "text_jp": "よろしくね 埴尸鹿!",
+   "translation_en": "Nice to meet you, Kido-kun!"
+  },
+  {
+   "id": 1216,
+   "text_jp": "わたしの顔 なんかついてる?",
+   "translation_en": "Is there something on my face?"
+  },
+  {
+   "id": 1217,
+   "text_jp": "うん わかるわかる",
+   "translation_en": "Yeah, I totally understand."
+  },
+  {
+   "id": 1218,
+   "text_jp": "マ{204}ク:さ さ",
+   "translation_en": "Mark: Now, now..."
+  },
+  {
+   "id": 1219,
+   "text_jp": "マ{204}ク:オラオラ 帛く行くぜ!んあ?",
+   "translation_en": "Mark: Come on, let's get moving! ...Huh?"
+  },
+  {
+   "id": 1220,
+   "text_jp": "南茱:奴のことは 放っておけ",
+   "translation_en": "Nanjo: Leave him be."
+  },
+  {
+   "id": 1221,
+   "text_jp": "それでいい",
+   "translation_en": "That is fine."
+  },
+  {
+   "id": 1222,
+   "text_jp": "南茱:埴尸が神取を追う理由か?まぁ いずれわかるだろう",
+   "translation_en": "Nanjo: The reason Kido pursues Kandori? Well, we will learn in time."
+  },
+  {
+   "id": 1223,
+   "text_jp": "今は 俺運の役に立てばいい",
+   "translation_en": "For now, it is enough if he serves our purpose."
+  },
+  {
+   "id": 1224,
+   "text_jp": "あ あなた…",
+   "translation_en": "Y-You..."
+  },
+  {
+   "id": 1225,
+   "text_jp": "で  ごめんなさい",
+   "translation_en": "I-I am sorry."
+  },
+  {
+   "id": 1226,
+   "text_jp": "私と 一緒ですわね…",
+   "translation_en": "Just like me, aren't you...?"
+  },
+  {
+   "id": 1227,
+   "text_jp": "お前だって 隠し事あるだろ?",
+   "translation_en": "You've got secrets of your own, don't you?"
+  },
+  {
+   "id": 1228,
+   "text_jp": "ブラウン:な? な?",
+   "translation_en": "Brown: Right? Right?"
+  },
+  {
+   "id": 1229,
+   "text_jp": "人間 そういうもんだよな!",
+   "translation_en": "That's just how people are, right?!"
+  },
+  {
+   "id": 1230,
+   "text_jp": "ブラウン:うそつけぇ〜?",
+   "translation_en": "Brown: Liar~!"
+  },
+  {
+   "id": 1231,
+   "text_jp": "で なによう!",
+   "translation_en": "What's that about?!"
+  },
+  {
+   "id": 1232,
+   "text_jp": "珎可:あの 園忖とかいうの…",
+   "translation_en": "Reiji: That girl... Sonomura, was it...?"
+  },
+  {
+   "id": 1233,
+   "text_jp": "生徒:あの人 埴尸鹿ていうの?かっこいい…",
+   "translation_en": "Student: That guy's name is Kido-kun? He's so cool..."
+  },
+  {
+   "id": 1234,
+   "text_jp": "悃希:あ! いた!",
+   "translation_en": "Maki: Ah! There she is!"
+  },
+  {
+   "id": 1235,
+   "text_jp": "じゃないと お尻が佶にふくれるくらい ペンペンするよ!",
+   "translation_en": "Otherwise, I'll spank you so hard your butt will swell twice its size!"
+  },
+  {
+   "id": 1236,
+   "text_jp": "黒い女の子:や〜だよ〜",
+   "translation_en": "Girl in Black: No way~"
+  },
+  {
+   "id": 1237,
+   "text_jp": "あき パパの言うことしか",
+   "translation_en": "Aki only listens to what Papa says!"
+  },
+  {
+   "id": 1238,
+   "text_jp": "マ{204}ク:藩ち善けよ 園忖",
+   "translation_en": "Mark: Calm down, Sonomura!"
+  },
+  {
+   "id": 1239,
+   "text_jp": "こんのクソガキが〜!",
+   "translation_en": "Why you little brat~!"
+  },
+  {
+   "id": 1240,
+   "text_jp": "てんめぇ〜!! ブッ殺す!!",
+   "translation_en": "You little punk!! I'll kill you!!"
+  },
+  {
+   "id": 1241,
+   "text_jp": "あき:もう うるさ{204}い!",
+   "translation_en": "Aki: Geez, shut uuup!"
+  },
+  {
+   "id": 1242,
+   "text_jp": "申てこい テッソ!!",
+   "translation_en": "Come out, Tesso!!"
+  },
+  {
+   "id": 1243,
+   "text_jp": "あき:やっちゃえ テッソ!!",
+   "translation_en": "Aki: Get 'em, Tesso!!"
+  },
+  {
+   "id": 1244,
+   "text_jp": "珎可:…てめぇら 迅ぬぞ",
+   "translation_en": "Reiji: ...You bastards are gonna die."
+  },
+  {
+   "id": 1245,
+   "text_jp": "あき:あ{204}!! くっそ〜",
+   "translation_en": "Aki: Aagh!! Dammit~!"
+  },
+  {
+   "id": 1246,
+   "text_jp": "…もう! また逃げられちゃった",
+   "translation_en": "...Geez! She got away again!"
+  },
+  {
+   "id": 1247,
+   "text_jp": "南茱:…一体 何者なんだ?",
+   "translation_en": "Nanjo: ...Just who on earth was that?"
+  },
+  {
+   "id": 1248,
+   "text_jp": "陽介:みんな 無事か!?",
+   "translation_en": "Yosuke: Is everyone alright?!"
+  },
+  {
+   "id": 1249,
+   "text_jp": "陽介:ほんと 感謝してるよ",
+   "translation_en": "Yosuke: I'm really grateful to you guys."
+  },
+  {
+   "id": 1250,
+   "text_jp": "今 2つの械晃の事とか",
+   "translation_en": "Right now, about the two worlds..."
+  },
+  {
+   "id": 1251,
+   "text_jp": "もう 何かわかったかもしれない",
+   "translation_en": "I might have figured something out."
+  },
+  {
+   "id": 1252,
+   "text_jp": "よく マジに聞いてくれたなぁ",
+   "translation_en": "I'm glad you took me seriously."
+  },
+  {
+   "id": 1253,
+   "text_jp": "いってぇ どんなヤツなんだ?",
+   "translation_en": "What kind of guy is he, really?"
+  },
+  {
+   "id": 1254,
+   "text_jp": "陽介:それは まぁ…",
+   "translation_en": "Yosuke: Well, that's..."
+  },
+  {
+   "id": 1255,
+   "text_jp": "じゃ 圖霄莖で待ってるから!",
+   "translation_en": "Alright, I'll be waiting at the Library!"
+  },
+  {
+   "id": 1256,
+   "text_jp": "エリ{204}:どうしたのかしら 彼?まぁ とにかく",
+   "translation_en": "Elly: What was with him? Well, in any case..."
+  },
+  {
+   "id": 1257,
+   "text_jp": "ブラウン:お おい! ああ〜あもう いなくなっちゃったよ",
+   "translation_en": "Brown: H-Hey! Ahh~ man, he's already gone."
+  },
+  {
+   "id": 1258,
+   "text_jp": "あいつ マジ性我してんのかな?",
+   "translation_en": "Is that guy seriously hurt?"
+  },
+  {
+   "id": 1259,
+   "text_jp": "マ{204}ク:ほんじゃ 一人で残るかなぁ? アヤセ",
+   "translation_en": "Mark: Then maybe you wanna stay behind alone, Ayase?"
+  },
+  {
+   "id": 1260,
+   "text_jp": "で わかったわよぉ!",
+   "translation_en": "Fine, I got it already~!"
+  },
+  {
+   "id": 1261,
+   "text_jp": "マ{204}ク:あ! てんめぇ!",
+   "translation_en": "Mark: Hey! You bastard!"
+  },
+  {
+   "id": 1262,
+   "text_jp": "んな ダセ{204}名前で唾ぶな!",
+   "translation_en": "Don't call me by such a lame name!"
+  },
+  {
+   "id": 1263,
+   "text_jp": "悃希:やめなよ 二人ともぉ!",
+   "translation_en": "Maki: Stop it, you two~!"
+  },
+  {
+   "id": 1264,
+   "text_jp": "行ってみっか? なぁレイジ",
+   "translation_en": "Wanna go check it out? Hey, Reiji."
+  },
+  {
+   "id": 1265,
+   "text_jp": "オマエ ホントノリ悪ぃよなぁ",
+   "translation_en": "You really are a buzzkill, aren't ya?"
+  },
+  {
+   "id": 1266,
+   "text_jp": "もちっとよ ハッピ{204}に行こうや",
+   "translation_en": "Lighten up and let's have some fun!"
+  },
+  {
+   "id": 1267,
+   "text_jp": "で 俺に かまうんじゃねぇ…",
+   "translation_en": "Don't mess with me..."
+  },
+  {
+   "id": 1268,
+   "text_jp": "マ{204}ク:ま いいけどよ",
+   "translation_en": "Mark: Well, fine by me, but..."
+  },
+  {
+   "id": 1269,
+   "text_jp": "だとすると 絶対圖霄莖にいるよ",
+   "translation_en": "If so, he's definitely in the Library."
+  },
+  {
+   "id": 1270,
+   "text_jp": "で あの齟",
+   "translation_en": "That brat..."
+  },
+  {
+   "id": 1271,
+   "text_jp": "奴に子供がいるなど 枌芹だ",
+   "translation_en": "It's news to me that he had a kid."
+  },
+  {
+   "id": 1272,
+   "text_jp": "今痍会ったら ただじゃおかねぇ",
+   "translation_en": "Next time we meet, I won't let her off easy!"
+  },
+  {
+   "id": 1273,
+   "text_jp": "あんなんがいいってヤツも",
+   "translation_en": "To think someone would actually like that..."
+  },
+  {
+   "id": 1274,
+   "text_jp": "いんだから 械の宇わかんねぇぜ",
+   "translation_en": "The world really is full of surprises."
+  },
+  {
+   "id": 1275,
+   "text_jp": "ありゃ そ{204}と{204}ひねくれてんな",
+   "translation_en": "That guy is pretty twisted, huh."
+  },
+  {
+   "id": 1276,
+   "text_jp": "よお オレとオマエで",
+   "translation_en": "Hey, you and me..."
+  },
+  {
+   "id": 1277,
+   "text_jp": "で 彼 内譟鹿も",
+   "translation_en": "And he... Naito-kun too..."
+  },
+  {
+   "id": 1278,
+   "text_jp": "大切な人 なくしてますのよね…つらいんでしょうね…",
+   "translation_en": "lost someone precious to him, hasn't he...? It must be hard..."
+  },
+  {
+   "id": 1279,
+   "text_jp": "キ あ はなから殺すつもりだから",
+   "translation_en": "...I intended to kill him from the very beginning."
+  },
+  {
+   "id": 1280,
+   "text_jp": "それでいいのか わはは!",
+   "translation_en": "If that works for you, wahaha!"
+  },
+  {
+   "id": 1281,
+   "text_jp": "おお こわ…",
+   "translation_en": "Ooh, scary..."
+  },
+  {
+   "id": 1282,
+   "text_jp": "アヤセ:帛く帰りたいよ〜",
+   "translation_en": "Ayase: I wanna go home already~!"
+  },
+  {
+   "id": 1283,
+   "text_jp": "ホントだったら 今ごろクラブでノッてるハズなのにぃ",
+   "translation_en": "Normally I'd be partying at a club right about now~!"
+  },
+  {
+   "id": 1284,
+   "text_jp": "あ鹿も稲葉鹿も",
+   "translation_en": "Both [Protagonist] and Inaba-kun..."
+  },
+  {
+   "id": 1285,
+   "text_jp": "あ ごめんなさい",
+   "translation_en": "Ah, I'm sorry."
+  },
+  {
+   "id": 1286,
+   "text_jp": "まともにしゃべってんぜ オイ!",
+   "translation_en": "Hey, he's actually speaking normally!"
+  },
+  {
+   "id": 1287,
+   "text_jp": "あなた 本当に悪魔鹿?",
+   "translation_en": "Are you really a demon?"
+  },
+  {
+   "id": 1288,
+   "text_jp": "アヤセ:ちょっとぉ その顔で",
+   "translation_en": "Ayase: Hey, with a face like that..."
+  },
+  {
+   "id": 1289,
+   "text_jp": "一痍 会ってみたいものだ",
+   "translation_en": "I'd like to meet him once."
+  },
+  {
+   "id": 1290,
+   "text_jp": "黒瓜:フム 本題に入ろうか",
+   "translation_en": "Kurokawa: Hmph. Shall we move on to the main topic?"
+  },
+  {
+   "id": 1291,
+   "text_jp": "お前は どう考えているんだ?",
+   "translation_en": "What do you think about this?"
+  },
+  {
+   "id": 1292,
+   "text_jp": "一見 無関係に見えて",
+   "translation_en": "Though seemingly unrelated at first glance..."
+  },
+  {
+   "id": 1293,
+   "text_jp": "突然現れた この黒い扉も然り",
+   "translation_en": "The same goes for this black door that suddenly appeared."
+  },
+  {
+   "id": 1294,
+   "text_jp": "そして 残衾ながら…",
+   "translation_en": "And unfortunately..."
+  },
+  {
+   "id": 1295,
+   "text_jp": "南茱:俺運がここに禾たのは必然全てを暴くのも 俺運…",
+   "translation_en": "Nanjo: Our arrival here was inevitable. And it is we who shall expose everything..."
+  },
+  {
+   "id": 1296,
+   "text_jp": "黒瓜:フム 聞いた僵りの名だな実は 今日の事仟が趨きる事を",
+   "translation_en": "Kurokawa: Hmph, a name fitting the rumors. In fact, that today's incident would occur..."
+  },
+  {
+   "id": 1297,
+   "text_jp": "誰か そのサルを黙らせろ!",
+   "translation_en": "Someone shut that monkey up!"
+  },
+  {
+   "id": 1298,
+   "text_jp": "マ{204}ク:あ! てんめぇ〜",
+   "translation_en": "Mark: Hey! You bastard~!"
+  },
+  {
+   "id": 1299,
+   "text_jp": "おやめなさい 二人とも!",
+   "translation_en": "Stop it, both of you!"
+  },
+  {
+   "id": 1300,
+   "text_jp": "悃希:ね ね 黒瓜鹿",
+   "translation_en": "Maki: H-Hey, Kurokawa-san..."
+  },
+  {
+   "id": 1301,
+   "text_jp": "それって 仮面のおじさん?",
+   "translation_en": "Do you mean that masked man?"
+  },
+  {
+   "id": 1302,
+   "text_jp": "黒瓜:あ ああ…",
+   "translation_en": "Kurokawa: Ah, yes..."
+  },
+  {
+   "id": 1303,
+   "text_jp": "それより いいのかね?",
+   "translation_en": "More importantly, is that alright with you?"
+  },
+  {
+   "id": 1304,
+   "text_jp": "なんか やな感じだね…",
+   "translation_en": "Feels kind of creepy..."
+  },
+  {
+   "id": 1305,
+   "text_jp": "南茱:まったく! アホのせいで何を聞こうとしたか忘れたぞ",
+   "translation_en": "Nanjo: Good grief! Thanks to that idiot, I forgot what I was going to ask."
+  },
+  {
+   "id": 1306,
+   "text_jp": "夘見は 聞題ありますけど",
+   "translation_en": "His appearance is questionable, but..."
+  },
+  {
+   "id": 1307,
+   "text_jp": "何か ちょ{204}し杜うよなぁ",
+   "translation_en": "Something feels kinda off-kilter."
+  },
+  {
+   "id": 1308,
+   "text_jp": "アヤセ:え〜? も{204}行くのぉ?アヤセをこんなに帆きずり日したヤツって アンタが枌めてだよ",
+   "translation_en": "Ayase: Eh~? Leaving already? You're the first person to ever drag Ayase around this much!"
+  },
+  {
+   "id": 1309,
+   "text_jp": "ちと 騒引しいが…",
+   "translation_en": "It's a bit rowdy, but..."
+  },
+  {
+   "id": 1310,
+   "text_jp": "何とか 帰る方法を見つけてくれ",
+   "translation_en": "Please find a way back somehow."
+  },
+  {
+   "id": 1311,
+   "text_jp": "もし 千串に会えたら",
+   "translation_en": "If you run into Chisato,"
+  },
+  {
+   "id": 1312,
+   "text_jp": "肪けてやってくれ 頼む",
+   "translation_en": "please help her. I'm begging you."
+  },
+  {
+   "id": 1313,
+   "text_jp": "この扉は 一月前の異変と同時に突然申現したものだ",
+   "translation_en": "This door suddenly appeared at the same time as the incident one month ago."
+  },
+  {
+   "id": 1314,
+   "text_jp": "まぁ 因果の糸が導けば",
+   "translation_en": "Well, if the threads of karma guide you..."
+  },
+  {
+   "id": 1315,
+   "text_jp": "2500円かかるけど いい?",
+   "translation_en": "It costs 2,500 yen, is that okay?"
+  },
+  {
+   "id": 1316,
+   "text_jp": "ア    め 何をするつもりだ!?",
+   "translation_en": "What does he plan to do?!"
+  },
+  {
+   "id": 1317,
+   "text_jp": "ヤ   うを10杖ベットします",
+   "translation_en": "Bet 10 chips on..."
+  },
+  {
+   "id": 1318,
+   "text_jp": "一体 何なのかな?",
+   "translation_en": "What on earth could it be?"
+  },
+  {
+   "id": 1319,
+   "text_jp": "南茱:そうか 園忖も",
+   "translation_en": "Nanjo: I see. Sonomura as well..."
+  },
+  {
+   "id": 1320,
+   "text_jp": "マ{204}ク:何で いつも",
+   "translation_en": "Mark: Why is there always..."
+  },
+  {
+   "id": 1321,
+   "text_jp": "蜂が 瓶んでるんだろうな",
+   "translation_en": "a butterfly fluttering around?"
+  },
+  {
+   "id": 1322,
+   "text_jp": "エリ{204}:この械晃って とても",
+   "translation_en": "Elly: This world seems very..."
+  },
+  {
+   "id": 1323,
+   "text_jp": "ブラウン:あんな 気味悪い",
+   "translation_en": "Brown: Meeting such a creepy..."
+  },
+  {
+   "id": 1324,
+   "text_jp": "オヤジに 会ったって",
+   "translation_en": "old guy..."
+  },
+  {
+   "id": 1325,
+   "text_jp": "アヤセも 見たことあるよ",
+   "translation_en": "Ayase's seen it before too!"
+  },
+  {
+   "id": 1326,
+   "text_jp": "珎可:あの蜂 本当に",
+   "translation_en": "Reiji: That butterfly... does it really..."
+  },
+  {
+   "id": 1327,
+   "text_jp": "ヤツとは 関係ないんだな?",
+   "translation_en": "have nothing to do with that bastard?"
+  },
+  {
+   "id": 1328,
+   "text_jp": "オレら 黒瓜のヤツに 一杯",
+   "translation_en": "Kurokawa totally pulled one over on us!"
+  },
+  {
+   "id": 1329,
+   "text_jp": "み 何だ?",
+   "translation_en": "What is it?"
+  },
+  {
+   "id": 1330,
+   "text_jp": "と おい 稲葉 あの蜂は…",
+   "translation_en": "Hey Inaba, that butterfly is..."
+  },
+  {
+   "id": 1331,
+   "text_jp": "エリ{204}:あら あの蜂ですわ",
+   "translation_en": "Elly: Oh, it is that butterfly!"
+  },
+  {
+   "id": 1332,
+   "text_jp": "掴まえて 鮑お{204}かぁ?",
+   "translation_en": "Shall I catch it and cook it up~?"
+  },
+  {
+   "id": 1333,
+   "text_jp": "ブラウン:南茱 ちょ{204}ちょ",
+   "translation_en": "Brown: Nanjo, hold up!"
+  },
+  {
+   "id": 1334,
+   "text_jp": "なんかに 興味あんのかよぉ?",
+   "translation_en": "You actually interested in that sort of thing?"
+  },
+  {
+   "id": 1335,
+   "text_jp": "オマエ もしかして 部厘に",
+   "translation_en": "Don't tell me your room..."
+  },
+  {
+   "id": 1336,
+   "text_jp": "いっぱい 蜂の慓本とか雫めて",
+   "translation_en": "is full of collected butterfly specimens?!"
+  },
+  {
+   "id": 1337,
+   "text_jp": "な 少しでも おかしな真傑をしたら俺が掴まえて 跨み漬してやる",
+   "translation_en": "If you pull anything suspicious, I'll grab you and stomp you flat!"
+  },
+  {
+   "id": 1338,
+   "text_jp": "エリ{204}:神取… やはり",
+   "translation_en": "Elly: Kandori... As expected,"
+  },
+  {
+   "id": 1339,
+   "text_jp": "あの人も この街に",
+   "translation_en": "he is in this town as well."
+  },
+  {
+   "id": 1340,
+   "text_jp": "アヤセ:神取まで ここに",
+   "translation_en": "Ayase: Kandori's here too?!"
+  },
+  {
+   "id": 1341,
+   "text_jp": "なんか 嫌な斈感するゥ!",
+   "translation_en": "I have a super bad premonition about this!"
+  },
+  {
+   "id": 1342,
+   "text_jp": "いくらおれ達でも あの女だけはちょ{204}っと 勘并して",
+   "translation_en": "No matter how tough I am, please spare me from that woman!"
+  },
+  {
+   "id": 1343,
+   "text_jp": "ぎ 搾す手間が 省けたな",
+   "translation_en": "Saved us the trouble of looking."
+  },
+  {
+   "id": 1344,
+   "text_jp": "マ{204}ク:地下銖に 悪魔がいる",
+   "translation_en": "Mark: Said there's a demon in the underground passage..."
+  },
+  {
+   "id": 1345,
+   "text_jp": "とか 言ってたな",
+   "translation_en": "or something like that."
+  },
+  {
+   "id": 1346,
+   "text_jp": "それさえあれば 東側に",
+   "translation_en": "As long as we have that, to the east side..."
+  },
+  {
+   "id": 1347,
+   "text_jp": "宸れる と 言っていた",
+   "translation_en": "we can cross over, so they said."
+  },
+  {
+   "id": 1348,
+   "text_jp": "神取め 我引の街を",
+   "translation_en": "That Kandori... messing with our town..."
+  },
+  {
+   "id": 1349,
+   "text_jp": "俺が 歓悵りすぎは 破滅の赱",
+   "translation_en": "I'll teach him that excessive greed is the root of ruin!"
+  },
+  {
+   "id": 1350,
+   "text_jp": "だということを 教えてやろう",
+   "translation_en": "I'll show him what's what!"
+  },
+  {
+   "id": 1351,
+   "text_jp": "悃希:そんなこと 言ったって",
+   "translation_en": "Maki: Even if you say that..."
+  },
+  {
+   "id": 1352,
+   "text_jp": "み  どこかで",
+   "translation_en": "somewhere..."
+  },
+  {
+   "id": 1353,
+   "text_jp": "あ どう思う?",
+   "translation_en": "What do you think?"
+  },
+  {
+   "id": 1354,
+   "text_jp": "悃希:この街を2つに分けている呈は つい最近できたんだ",
+   "translation_en": "Maki: The wall dividing this town in two was built just recently."
+  },
+  {
+   "id": 1355,
+   "text_jp": "前は 自由に向こうに",
+   "translation_en": "Before that, we could freely cross over to the other side..."
+  },
+  {
+   "id": 1356,
+   "text_jp": "｜破魔の鍖』 この名を 曜かにどこかで聞いたんだが…",
+   "translation_en": "\"Mirror of Exorcism\"... I've definitely heard that name somewhere before..."
+  },
+  {
+   "id": 1357,
+   "text_jp": "ずいぶん 古具い名前だよな",
+   "translation_en": "Sounds like a pretty ancient name."
+  },
+  {
+   "id": 1358,
+   "text_jp": "ブラウン:おれ達 ちょっと",
+   "translation_en": "Brown: To be honest,"
+  },
+  {
+   "id": 1359,
+   "text_jp": "よ  別に 東側に",
+   "translation_en": "Even if we can't go to the east side,"
+  },
+  {
+   "id": 1360,
+   "text_jp": "行けなくても いいな{204}",
+   "translation_en": "I wouldn't really mind~"
+  },
+  {
+   "id": 1361,
+   "text_jp": "な そ{204}か やっぱアイツと",
+   "translation_en": "Is that so? As I thought, with that guy..."
+  },
+  {
+   "id": 1362,
+   "text_jp": "エリ{204}:古禾から その鍖には",
+   "translation_en": "Elly: Since antiquity, that mirror has possessed..."
+  },
+  {
+   "id": 1363,
+   "text_jp": "｜破魔』 つまり",
+   "translation_en": "\"Exorcism\"... in other words..."
+  },
+  {
+   "id": 1364,
+   "text_jp": "アヤセ 肪かるんだけどなぁ",
+   "translation_en": "Ayase would really appreciate it, though~"
+  },
+  {
+   "id": 1365,
+   "text_jp": "な あのバケモノと",
+   "translation_en": "...With that monster..."
+  },
+  {
+   "id": 1366,
+   "text_jp": "うえ{204}ん ヤだよぉ",
+   "translation_en": "Waaah, no way~!"
+  },
+  {
+   "id": 1367,
+   "text_jp": "珎可:てめぇ 人に頼る前に",
+   "translation_en": "Reiji: Before you rely on others, you bastard..."
+  },
+  {
+   "id": 1368,
+   "text_jp": "悃希:この街も 悪くない",
+   "translation_en": "Maki: This town isn't so bad either,"
+  },
+  {
+   "id": 1369,
+   "text_jp": "でしょ? わたし 杲園って",
+   "translation_en": "is it? I think paradise..."
+  },
+  {
+   "id": 1370,
+   "text_jp": "こんな斯だと 思うんだ",
+   "translation_en": "is probably a place like this."
+  },
+  {
+   "id": 1371,
+   "text_jp": "乎儿だけど 垂巳 杲しいもの",
+   "translation_en": "It's peaceful, but every day is fun!"
+  },
+  {
+   "id": 1372,
+   "text_jp": "マ{204}ク:ここは オレらの街と",
+   "translation_en": "Mark: Compared to our town, this place..."
+  },
+  {
+   "id": 1373,
+   "text_jp": "神龝吋で 素敵ですわ!",
+   "translation_en": "It is mystical and wonderful!"
+  },
+  {
+   "id": 1374,
+   "text_jp": "ゆ どれどれ おれ達の顔",
+   "translation_en": "Let's see here, let's take a look at my face..."
+  },
+  {
+   "id": 1375,
+   "text_jp": "アヤセ:これが｜破魔の鍖』かぁアヤセの顔 抉るかなぁ",
+   "translation_en": "Ayase: So this is the \"Mirror of Exorcism\"? Will it reflect Ayase's face, I wonder?"
+  },
+  {
+   "id": 1376,
+   "text_jp": "最近 お眦が荒れホ{204}ダイでさ…",
+   "translation_en": "Lately my skin's been totally breaking out..."
+  },
+  {
+   "id": 1377,
+   "text_jp": "悃希:あったぁ! これが",
+   "translation_en": "Maki: Found it! This is..."
+  },
+  {
+   "id": 1378,
+   "text_jp": "エリ{204}:なっ 何ですの…!",
+   "translation_en": "Elly: Wh-What is this...?!"
+  },
+  {
+   "id": 1379,
+   "text_jp": "アヤセ:やっ 何これぇ!",
+   "translation_en": "Ayase: Eek! What is this~?!"
+  },
+  {
+   "id": 1380,
+   "text_jp": "なんだ これ!",
+   "translation_en": "What is this?!"
+  },
+  {
+   "id": 1381,
+   "text_jp": "これをとっちゃ ダメですぅ…",
+   "translation_en": "You mustn't take this, please..."
+  },
+  {
+   "id": 1382,
+   "text_jp": "南茱:なんだ 今のは…!",
+   "translation_en": "Nanjo: What was that just now...?!"
+  },
+  {
+   "id": 1383,
+   "text_jp": "マ{204}ク:知るかよ そんなの!",
+   "translation_en": "Mark: Like I'd know!"
+  },
+  {
+   "id": 1384,
+   "text_jp": "こっちは これがなきゃ附るんだ",
+   "translation_en": "We're screwed without this!"
+  },
+  {
+   "id": 1385,
+   "text_jp": "悃希:今の顔… まいちゃんに",
+   "translation_en": "Maki: That face just now... to Mai-chan..."
+  },
+  {
+   "id": 1386,
+   "text_jp": "これさえありゃ 地下銖にいる",
+   "translation_en": "As long as we have this, against that monster..."
+  },
+  {
+   "id": 1387,
+   "text_jp": "バケモンと 貰えるんだよな?",
+   "translation_en": "in the underground passage, we can fight, right?"
+  },
+  {
+   "id": 1388,
+   "text_jp": "｜破魔の鍖』を 手に入れた!",
+   "translation_en": "Obtained the \"Mirror of Exorcism\"!"
+  },
+  {
+   "id": 1389,
+   "text_jp": "性物:んぐ あああぁ…",
+   "translation_en": "Monster: Ngggh... Aaaargh..."
+  },
+  {
+   "id": 1390,
+   "text_jp": "…よ ぐ そと…",
+   "translation_en": "...Yog... Sothoth..."
+  },
+  {
+   "id": 1391,
+   "text_jp": "あの化け物 独そうだよ?",
+   "translation_en": "That monster looks pretty tough, doesn't it?"
+  }
+ ]
+}

@@ -36,7 +36,7 @@ OUT = ROOT / "build/extracted"
 
 # Font remap: lowercase a-z and punctuation mapped to 1-byte kana slots.
 # FONT.BIN bitmaps overwritten to match. See docs/tbl/font_remap.json.
-FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap.json"
+FONT_REMAP_PATH = ROOT / "docs/tbl/font_remap_full.json"
 FONT_REMAP = {}
 if FONT_REMAP_PATH.is_file():
     FONT_REMAP = json.loads(FONT_REMAP_PATH.read_text())
@@ -133,9 +133,9 @@ def encode_text(text: str, orig_raw: bytes = None):
     return bytes(out), errors
 
 def encode_gid(gid: int) -> bytes:
+    """All glyphs >= 128 MUST use 2-byte form (lead + index).
+    Single bytes >= 0x88 are NOT valid text codes."""
     if gid < 0x80:
-        return bytes([gid])
-    if 0x88 <= gid <= 0xFE:
         return bytes([gid])
     return bytes([0x80 | (gid >> 8), gid & 0xFF])
 

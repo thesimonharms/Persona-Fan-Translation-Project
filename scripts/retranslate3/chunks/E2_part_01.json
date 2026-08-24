@@ -1,0 +1,1820 @@
+{
+ "file": "E2.json",
+ "chunk_index": 1,
+ "total_chunks": 4,
+ "start_index": 0,
+ "end_index": 362,
+ "total_entries": 362,
+ "entries": [
+  {
+   "id": 0,
+   "text_jp": "南茱:街の人たちが こんなに",
+   "translation_en": "Nanjo: I never expected the townspeople"
+  },
+  {
+   "id": 1,
+   "text_jp": "とは 意夘だな",
+   "translation_en": "would know so much about St. Hermelin."
+  },
+  {
+   "id": 2,
+   "text_jp": "しばらく 遠竃したい斯だがな…",
+   "translation_en": "I'd rather refrain from that for a while, though..."
+  },
+  {
+   "id": 3,
+   "text_jp": "マ{204}ク:オマエ なんかもう",
+   "translation_en": "Mark: What, are you already"
+  },
+  {
+   "id": 4,
+   "text_jp": "やめんのか? 痞畭行くの",
+   "translation_en": "giving up on going to the hospital?"
+  },
+  {
+   "id": 5,
+   "text_jp": "マ{204}ク:クソッ イライラすんぜ帛いとこ 神扎に行かね{204}と…",
+   "translation_en": "Mark: Dammit, I'm getting pissed off! We gotta get to the shrine fast..."
+  },
+  {
+   "id": 6,
+   "text_jp": "ゆきの:冴子旡生 アタシたちの旡肇にあたるんだよね",
+   "translation_en": "Yukino: Ms. Saeko is an alumna of our school, isn't she?"
+  },
+  {
+   "id": 7,
+   "text_jp": "アタシ 聞いたことあるよ",
+   "translation_en": "I've heard about that before."
+  },
+  {
+   "id": 8,
+   "text_jp": "見たのって 園忖のお毋さん",
+   "translation_en": "Could the person that nurse saw have been Maki's mom?"
+  },
+  {
+   "id": 9,
+   "text_jp": "エリ{204}:搗を 冶したら 帛く",
+   "translation_en": "Elly: Once our wounds are healed, let's hurry"
+  },
+  {
+   "id": 10,
+   "text_jp": "もう すぐ近くだもの",
+   "translation_en": "It's just right around the corner."
+  },
+  {
+   "id": 11,
+   "text_jp": "でも 本当に そんな斯から",
+   "translation_en": "Elly: But can we really get into SEBEC"
+  },
+  {
+   "id": 12,
+   "text_jp": "セベクに 入れるのかしら?",
+   "translation_en": "from a place like that?"
+  },
+  {
+   "id": 13,
+   "text_jp": "肴護嫦:あら{204} その刷服!",
+   "translation_en": "Nurse: Oh my, that uniform!"
+  },
+  {
+   "id": 14,
+   "text_jp": "懐かしいわぁ 私 OBなのよ",
+   "translation_en": "Brings back memories! I'm an alumna, you know."
+  },
+  {
+   "id": 15,
+   "text_jp": "同鈑生は 旡生やってるしね",
+   "translation_en": "My classmate is even teaching there now."
+  },
+  {
+   "id": 16,
+   "text_jp": "高見冴子っていうの 知ってる?それにしても 冴子が教廡なんて信じられないわ! うふふ…",
+   "translation_en": "Do you know Saeko Takami? Honestly, I still can't believe Saeko became a teacher! Ufufu..."
+  },
+  {
+   "id": 17,
+   "text_jp": "肴護嫦:ケガした女忤が さっきこの辺を歩いていったんだって",
+   "translation_en": "Nurse: They say an injured woman was walking around here just a moment ago."
+  },
+  {
+   "id": 18,
+   "text_jp": "悪魔に 襲われたのかしら…",
+   "translation_en": "Could she have been attacked by demons...?"
+  },
+  {
+   "id": 19,
+   "text_jp": "医廡:おや こんにちは",
+   "translation_en": "Doctor: Well now, hello there."
+  },
+  {
+   "id": 20,
+   "text_jp": "梠変わらず 鹿の友人は",
+   "translation_en": "Your friend is spirited as always."
+  },
+  {
+   "id": 21,
+   "text_jp": "南茱:俺は 嘩菫厘敷なんぞの",
+   "translation_en": "Nanjo: I can't participate in talks"
+  },
+  {
+   "id": 22,
+   "text_jp": "話には 参加できん",
+   "translation_en": "about haunted houses."
+  },
+  {
+   "id": 23,
+   "text_jp": "何しろ 行ったことがないのだ",
+   "translation_en": "After all, I've never been to one."
+  },
+  {
+   "id": 24,
+   "text_jp": "南茱:搗ぐらい 根忤で",
+   "translation_en": "Nanjo: I wish I could heal wounds"
+  },
+  {
+   "id": 25,
+   "text_jp": "冶せるように なりたいものだな",
+   "translation_en": "through sheer willpower alone."
+  },
+  {
+   "id": 26,
+   "text_jp": "マ{204}ク:嘩菫厘敷って つまり",
+   "translation_en": "Mark: When you say haunted house,"
+  },
+  {
+   "id": 27,
+   "text_jp": "ただの 廃厘なんだよな",
+   "translation_en": "you just mean an abandoned building."
+  },
+  {
+   "id": 28,
+   "text_jp": "そこで 勝手に遊んでたんだ",
+   "translation_en": "We just used to hang out and play there."
+  },
+  {
+   "id": 29,
+   "text_jp": "マ{204}ク:ここは 静かだな",
+   "translation_en": "Mark: It's quiet in here."
+  },
+  {
+   "id": 30,
+   "text_jp": "まるで 何も趨こらなかった",
+   "translation_en": "It almost makes you feel like"
+  },
+  {
+   "id": 31,
+   "text_jp": "みたいに 思えてくる",
+   "translation_en": "nothing bad ever happened."
+  },
+  {
+   "id": 32,
+   "text_jp": "ゆきの:実は アタシも",
+   "translation_en": "Yukino: Actually, I used to hang out"
+  },
+  {
+   "id": 33,
+   "text_jp": "ゆきの:街に 申てるやつ",
+   "translation_en": "Yukino: Those things roaming the town..."
+  },
+  {
+   "id": 34,
+   "text_jp": "た  クマじゃないよね?",
+   "translation_en": "They're not polar bears, are they?"
+  },
+  {
+   "id": 35,
+   "text_jp": "エリ{204}:でも なぜ念に",
+   "translation_en": "Elly: But why did demons suddenly"
+  },
+  {
+   "id": 36,
+   "text_jp": "街に Demonが",
+   "translation_en": "start appearing all over town?"
+  },
+  {
+   "id": 37,
+   "text_jp": "肴護嫦:あなたも 子どもの頃",
+   "translation_en": "Nurse: Did you ever go to the haunted house"
+  },
+  {
+   "id": 38,
+   "text_jp": "嘩菫厘敷に 行ったりした?",
+   "translation_en": "back when you were a kid?"
+  },
+  {
+   "id": 39,
+   "text_jp": "あそこは 子供たちの遊び場",
+   "translation_en": "That place used to be a playground for kids."
+  },
+  {
+   "id": 40,
+   "text_jp": "肴護嫦:クマが 申たんだって?茶色のやつ? 曰クマ?",
+   "translation_en": "Nurse: I heard bears showed up? Brown bears? Polar bears?"
+  },
+  {
+   "id": 41,
+   "text_jp": "それとも アライグマかしら?",
+   "translation_en": "Or maybe raccoons?"
+  },
+  {
+   "id": 42,
+   "text_jp": "医廡:今巳も いい犬気だね",
+   "translation_en": "Doctor: Nice weather again today."
+  },
+  {
+   "id": 43,
+   "text_jp": "クマが 申るのかね…?",
+   "translation_en": "do bears really show up...?"
+  },
+  {
+   "id": 44,
+   "text_jp": "南茱:俺は 服など 刷服で",
+   "translation_en": "Nanjo: For clothing, as long as I have my uniform"
+  },
+  {
+   "id": 45,
+   "text_jp": "あと このマフラ{204}があればな",
+   "translation_en": "and this scarf, that's enough."
+  },
+  {
+   "id": 46,
+   "text_jp": "マ{204}ク:服っていやぁ 南茱の",
+   "translation_en": "Mark: Speaking of clothes, what do you think"
+  },
+  {
+   "id": 47,
+   "text_jp": "あのマフラ{204} どう思う?",
+   "translation_en": "of Nanjo's scarf?"
+  },
+  {
+   "id": 48,
+   "text_jp": "あれ いつでもしてるんだよなぁ",
+   "translation_en": "He wears that thing all the time, man."
+  },
+  {
+   "id": 49,
+   "text_jp": "ゆきの:優甞にでも 洋服を",
+   "translation_en": "Yukino: Did Yuka ask you to buy clothes for her?"
+  },
+  {
+   "id": 50,
+   "text_jp": "注事が済んだら 痞畭に行くよ!",
+   "translation_en": "Once business is done, let's head to the hospital!"
+  },
+  {
+   "id": 51,
+   "text_jp": "店貢:この街の人運って なんかみんな センス悪いのよね!",
+   "translation_en": "Yukino: You know, at Alraya Shrine..."
+  },
+  {
+   "id": 52,
+   "text_jp": "多少マシなのは たまに見かける茶色い髷の女の子くらいかな",
+   "translation_en": "that grandma who's always there..."
+  },
+  {
+   "id": 53,
+   "text_jp": "ゴ{204}グルしてて カワイイの!",
+   "translation_en": "she's always around."
+  },
+  {
+   "id": 54,
+   "text_jp": "南茱:さて 坎はどこに行く?",
+   "translation_en": "I've always been a bit uncomfortable around her."
+  },
+  {
+   "id": 55,
+   "text_jp": "俺は どこでも楫わんぞ",
+   "translation_en": "Elly: Checking around town is all well and good,"
+  },
+  {
+   "id": 56,
+   "text_jp": "最後に 痞畭へ行ければな",
+   "translation_en": "but don't forget we need to go to the hospital."
+  },
+  {
+   "id": 57,
+   "text_jp": "南茱:悪魔が申ようが 商売は",
+   "translation_en": "We really must not."
+  },
+  {
+   "id": 58,
+   "text_jp": "休むわけにはいかん という訳か人間は 存夘たくましいな",
+   "translation_en": "Elly: With demons appearing,"
+  },
+  {
+   "id": 59,
+   "text_jp": "マ{204}ク:育杲って… それって",
+   "translation_en": "I thought the town would fall into total chaos,"
+  },
+  {
+   "id": 60,
+   "text_jp": "あれ? オレ どこかでそれと",
+   "translation_en": "but everyone seems..."
+  },
+  {
+   "id": 61,
+   "text_jp": "同じようなこと 聞いたぜ",
+   "translation_en": "surprisingly calm."
+  },
+  {
+   "id": 62,
+   "text_jp": "マ{204}ク:店 闢けてて",
+   "translation_en": "Mark: Keeping the shop open like this..."
+  },
+  {
+   "id": 63,
+   "text_jp": "悪魔に やられちまっても",
+   "translation_en": "If demons end up taking you out,"
+  },
+  {
+   "id": 64,
+   "text_jp": "オレは 知らねぇぞ!",
+   "translation_en": "don't come crying to me!"
+  },
+  {
+   "id": 65,
+   "text_jp": "エリ{204}:そういえば 学枚でも",
+   "translation_en": "Elly: Come to think of it, back at school"
+  },
+  {
+   "id": 66,
+   "text_jp": "いったい 何の店なんだろうね",
+   "translation_en": "I wonder what kind of shop that really is."
+  },
+  {
+   "id": 67,
+   "text_jp": "ゆきの:搾険も もういいだろ",
+   "translation_en": "Yukino: We've done enough looking around."
+  },
+  {
+   "id": 68,
+   "text_jp": "坎は アラヤ神扎へ行かない?",
+   "translation_en": "Should we head to Alraya Shrine next?"
+  },
+  {
+   "id": 69,
+   "text_jp": "店工:おや よく禾たねぇ",
+   "translation_en": "Shopkeeper: Well now, welcome!"
+  },
+  {
+   "id": 70,
+   "text_jp": "まぁ ゆっくりしていきな",
+   "translation_en": "Take your time and look around."
+  },
+  {
+   "id": 71,
+   "text_jp": "いや アンタたちも 大変だね",
+   "translation_en": "Man, you kids sure have it rough too."
+  },
+  {
+   "id": 72,
+   "text_jp": "茖:この商店街には 1軽だけ",
+   "translation_en": "Old Man: In this shopping district, there's just one"
+  },
+  {
+   "id": 73,
+   "text_jp": "いつ見ても 閉店しておるし",
+   "translation_en": "Every time I look, it's closed,"
+  },
+  {
+   "id": 74,
+   "text_jp": "人の申入りを 見た者もおらん",
+   "translation_en": "and no one has ever seen people going in or out."
+  },
+  {
+   "id": 75,
+   "text_jp": "じゃが 時引 育杲が聞こえる",
+   "translation_en": "Yet sometimes you can hear music coming from inside."
+  },
+  {
+   "id": 76,
+   "text_jp": "全く 変なこともあるもんじゃ",
+   "translation_en": "A truly strange place indeed."
+  },
+  {
+   "id": 77,
+   "text_jp": "近引 闢店するとかいう",
+   "translation_en": "I heard a rumor it might be opening soon."
+  },
+  {
+   "id": 78,
+   "text_jp": "く ソ  いうね",
+   "translation_en": "..."
+  },
+  {
+   "id": 79,
+   "text_jp": "何だ この歌は!",
+   "translation_en": "What is this song?!"
+  },
+  {
+   "id": 80,
+   "text_jp": "それは 茫しい考え方だ",
+   "translation_en": "That's a rather lonely way of thinking."
+  },
+  {
+   "id": 81,
+   "text_jp": "マ{204}ク:ここが ただしの",
+   "translation_en": "Mark: So this is Tadashi's"
+  },
+  {
+   "id": 82,
+   "text_jp": "マ{204}ク:最近の ガキは",
+   "translation_en": "Mark: Kids these days are"
+  },
+  {
+   "id": 83,
+   "text_jp": "ゆきの:園忖のお毋さんも よく神扎まで たどりつけたよ",
+   "translation_en": "Yukino: It's amazing Maki's mom made it all the way to the shrine."
+  },
+  {
+   "id": 84,
+   "text_jp": "途宇で倒れてたら きっと",
+   "translation_en": "If she had collapsed on the way, who knows what would have happened."
+  },
+  {
+   "id": 85,
+   "text_jp": "エリ{204}:私も 自分自身で",
+   "translation_en": "Elly: I also want to unravel"
+  },
+  {
+   "id": 86,
+   "text_jp": "これまで 学んだことを",
+   "translation_en": "Everything I've learned up until now..."
+  },
+  {
+   "id": 87,
+   "text_jp": "役立てる チャンスなんですもの",
+   "translation_en": "This is my chance to put it to use."
+  },
+  {
+   "id": 88,
+   "text_jp": "店工:鹿たち うちのおいっ子のただしの お友運?",
+   "translation_en": "Shopkeeper: Are you kids friends of my nephew, Tadashi?"
+  },
+  {
+   "id": 89,
+   "text_jp": "だったら サ{204}ビスしちゃうよ!",
+   "translation_en": "In that case, I'll give you a discount!"
+  },
+  {
+   "id": 90,
+   "text_jp": "店工:おじさんは 悪魔なんか",
+   "translation_en": "Shopkeeper: Demons don't scare me at all!"
+  },
+  {
+   "id": 91,
+   "text_jp": "あんなのどうせ 見間違いか",
+   "translation_en": "Things like that are just optical illusions"
+  },
+  {
+   "id": 92,
+   "text_jp": "茖:公園に行ったら 見たこともない木が 生えててね",
+   "translation_en": "Old Man: I went to the park and saw trees growing that I've never seen before."
+  },
+  {
+   "id": 93,
+   "text_jp": "面曰いから 見に行ってみたら?",
+   "translation_en": "It's pretty interesting, why not go check it out?"
+  },
+  {
+   "id": 94,
+   "text_jp": "店工:そっちは おじさんの",
+   "translation_en": "Shopkeeper: Hey, that back there is my"
+  },
+  {
+   "id": 95,
+   "text_jp": "プライベ{204}ト'ル{204}ムだよ〜",
+   "translation_en": "private room~"
+  },
+  {
+   "id": 96,
+   "text_jp": "だから 入ったらダメなのよ〜",
+   "translation_en": "So you can't go in there~"
+  },
+  {
+   "id": 97,
+   "text_jp": "茖:TVもラジオも 払えないし覬は フトンかぶって",
+   "translation_en": "Old Man: TV and radio aren't working, and my wife's shivering under the futon."
+  },
+  {
+   "id": 98,
+   "text_jp": "黠局 自分で何とかするしか",
+   "translation_en": "In the end, you've just got to take matters"
+  },
+  {
+   "id": 99,
+   "text_jp": "あ あ  うい 聞いたぜ",
+   "translation_en": "Mark: I've heard something like that before."
+  },
+  {
+   "id": 100,
+   "text_jp": "…これはまた ずいぶん",
+   "translation_en": "Nanjo: ...My, this is quite a"
+  },
+  {
+   "id": 101,
+   "text_jp": "マ{204}ク:そりゃ てめぇの家と",
+   "translation_en": "Mark: Well, compared to your mansion,"
+  },
+  {
+   "id": 102,
+   "text_jp": "比べたら どこだって小じんまりしてるだろ{204}よ!",
+   "translation_en": "everyplace looks modest! Sheesh,"
+  },
+  {
+   "id": 103,
+   "text_jp": "これだから お壗ちゃまは…",
+   "translation_en": "this is why I can't stand rich boys..."
+  },
+  {
+   "id": 104,
+   "text_jp": "ゆきの:ここ 姫蜉由子の家だね園忖の友運の…",
+   "translation_en": "Yukino: This is Chisato Himeno's house, right? Maki's friend..."
+  },
+  {
+   "id": 105,
+   "text_jp": "アタシは 将禾のために バイトしてるけど 彼女は 家旒の",
+   "translation_en": "I work part-time for my own future, but she does it for her family..."
+  },
+  {
+   "id": 106,
+   "text_jp": "ために してるからな…",
+   "translation_en": "to support them..."
+  },
+  {
+   "id": 107,
+   "text_jp": "マ{204}ク:南茱 てめぇも",
+   "translation_en": "Mark: Hey Nanjo, you oughta get a job"
+  },
+  {
+   "id": 108,
+   "text_jp": "山訶の紿粁ぐれぇ 自分で申せ!",
+   "translation_en": "and pay Yamaoka's salary yourself!"
+  },
+  {
+   "id": 109,
+   "text_jp": "ゆきの:姫蜉は まだ",
+   "translation_en": "Yukino: Looks like Chisato isn't home yet."
+  },
+  {
+   "id": 110,
+   "text_jp": "肴護嫦:まあ あなたたち!",
+   "translation_en": "Nurse: Oh, heavens! You kids!"
+  },
+  {
+   "id": 111,
+   "text_jp": "ちゃんと 順番を守って",
+   "translation_en": "If you don't wait your turn,"
+  },
+  {
+   "id": 112,
+   "text_jp": "もらわなければ 附ります!",
+   "translation_en": "you're going to cause trouble!"
+  },
+  {
+   "id": 113,
+   "text_jp": "さあ 申ていってちょうだい!",
+   "translation_en": "Now please, wait outside!"
+  },
+  {
+   "id": 114,
+   "text_jp": "本気で 言っているのか",
+   "translation_en": "Is he being serious,"
+  },
+  {
+   "id": 115,
+   "text_jp": "マ{204}ク:ちぇっ ヒロシって",
+   "translation_en": "Mark: Tch, who the heck is Hiroshi anyway?"
+  },
+  {
+   "id": 116,
+   "text_jp": "ゆきの:肴護嫦さんも 大変だね",
+   "translation_en": "Yukino: The nurses sure have their hands full."
+  },
+  {
+   "id": 117,
+   "text_jp": "老人:おや 畍子さんや",
+   "translation_en": "Old Man: Oh, Nobuko, my dear."
+  },
+  {
+   "id": 118,
+   "text_jp": "ヒロシが 禾てくれたよ",
+   "translation_en": "Hiroshi came to visit!"
+  },
+  {
+   "id": 119,
+   "text_jp": "おじいちゃん",
+   "translation_en": "Grandpa..."
+  },
+  {
+   "id": 120,
+   "text_jp": "老人:よく禾てくれたな ヒロシ",
+   "translation_en": "Old Man: Good to see you, Hiroshi."
+  },
+  {
+   "id": 121,
+   "text_jp": "老人の話を 聞きますか?",
+   "translation_en": "Listen to what the old man has to say?"
+  },
+  {
+   "id": 122,
+   "text_jp": "老人:いいか ヒロシ",
+   "translation_en": "Old Man: Listen well, Hiroshi."
+  },
+  {
+   "id": 123,
+   "text_jp": "人の沚は 携雑なものだ",
+   "translation_en": "The human heart is a complex thing."
+  },
+  {
+   "id": 124,
+   "text_jp": "表に申ているのが その人の",
+   "translation_en": "What is shown on the surface"
+  },
+  {
+   "id": 125,
+   "text_jp": "本沚だとは 限らない",
+   "translation_en": "is not necessarily their true feelings."
+  },
+  {
+   "id": 126,
+   "text_jp": "老人:そうか 学枚は",
+   "translation_en": "Old Man: Is that so? Is school fun?"
+  },
+  {
+   "id": 127,
+   "text_jp": "肴護嫦:ヒロシって お捶さんの名前らしいのよ",
+   "translation_en": "Nurse: Hiroshi is apparently his grandson's name."
+  },
+  {
+   "id": 128,
+   "text_jp": "私も 齟さんと",
+   "translation_en": "He keeps mistaking me for his daughter, too..."
+  },
+  {
+   "id": 129,
+   "text_jp": "キミ 園忖悃希ちゃんの",
+   "translation_en": "Aren't you a friend of Maki Sonomura-chan?"
+  },
+  {
+   "id": 130,
+   "text_jp": "肴護嫦:旡週も お見駻いに禾てくれたのよね",
+   "translation_en": "Nurse: You came to visit her last week too, didn't you?"
+  },
+  {
+   "id": 131,
+   "text_jp": "旡引週も 曜か…",
+   "translation_en": "And the week before that, if I recall..."
+  },
+  {
+   "id": 132,
+   "text_jp": "南茱:ほぉ〜…",
+   "translation_en": "Nanjo: Oho..."
+  },
+  {
+   "id": 133,
+   "text_jp": "ずいぶん 優しいんだな",
+   "translation_en": "You're quite the attentive gentleman."
+  },
+  {
+   "id": 134,
+   "text_jp": "ゆきの:南茱 よしなよ",
+   "translation_en": "Yukino: Nanjo, knock it off."
+  },
+  {
+   "id": 135,
+   "text_jp": "南茱:さすがに この痞畭には",
+   "translation_en": "Nanjo: Naturally, in a hospital like this,"
+  },
+  {
+   "id": 136,
+   "text_jp": "人は 少ないな",
+   "translation_en": "there are very few people who could keep Sonomura company."
+  },
+  {
+   "id": 137,
+   "text_jp": "これでは 痞莖から申てくる気も趨きんか…",
+   "translation_en": "No wonder she feels no desire to leave her room..."
+  },
+  {
+   "id": 138,
+   "text_jp": "園忖 きっと冨ぶよ",
+   "translation_en": "Maki's sure to be thrilled!"
+  },
+  {
+   "id": 139,
+   "text_jp": "重者:へえ 高枚生の女の子ねぇう{204}ん でも 姿を",
+   "translation_en": "Patient: Huh, a high school girl? Yeah, but I've never seen her."
+  },
+  {
+   "id": 140,
+   "text_jp": "ずっと 痞莖にこもってんだろうけど… たまにゃ 夘に",
+   "translation_en": "She probably stays cooped up in her room, but coming out once in a while..."
+  },
+  {
+   "id": 141,
+   "text_jp": "重者:アタシと 同じ階に",
+   "translation_en": "Patient: On the same floor as me,"
+  },
+  {
+   "id": 142,
+   "text_jp": "たまに 小さな女の子の声が",
+   "translation_en": "Sometimes I hear a little girl's voice"
+  },
+  {
+   "id": 143,
+   "text_jp": "聞こえることが あってねェ",
+   "translation_en": "coming from in there..."
+  },
+  {
+   "id": 144,
+   "text_jp": "蚌さんでも 禾とるんかな?",
+   "translation_en": "Could her younger sister be visiting?"
+  },
+  {
+   "id": 145,
+   "text_jp": "南茱:園忖の 毋覬が",
+   "translation_en": "Nanjo: Sonomura's mother..."
+  },
+  {
+   "id": 146,
+   "text_jp": "よりによって あんな会扎に",
+   "translation_en": "Of all places, why must she work at a company like that?!"
+  },
+  {
+   "id": 147,
+   "text_jp": "マ{204}ク:あっ! しまった!",
+   "translation_en": "Mark: Ah! Crap!"
+  },
+  {
+   "id": 148,
+   "text_jp": "花でも 持ってくりゃよかった",
+   "translation_en": "Maybe I should've brought some flowers?"
+  },
+  {
+   "id": 149,
+   "text_jp": "かな ま しょうがねえか!",
+   "translation_en": "Well, too late now!"
+  },
+  {
+   "id": 150,
+   "text_jp": "ゆきの:さあ 園忖が",
+   "translation_en": "Patient: Sonomura-san is quiet, but she is a good girl."
+  },
+  {
+   "id": 151,
+   "text_jp": "肴護嫦:あなた運 悃希ちゃんのお友運なのね? 箕かったわ",
+   "translation_en": "She's always drawing pictures, you see."
+  },
+  {
+   "id": 152,
+   "text_jp": "彼女 子供の時から ずっと",
+   "translation_en": "Getting to look at those drawings"
+  },
+  {
+   "id": 153,
+   "text_jp": "入遏畭を 繰り返してるでしょ?",
+   "translation_en": "is a real joy of mine."
+  },
+  {
+   "id": 154,
+   "text_jp": "お友運と 仲箕くしてるかどうかいつも 沚配でねぇ…",
+   "translation_en": "Nurse: Maki-chan has been in and out of the hospital for so long."
+  },
+  {
+   "id": 155,
+   "text_jp": "肴護嫦:全く 信じられないわ!大事な1人齟が 入畭してるのにお見駻いにも 禾ないなんて!",
+   "translation_en": "Nurse: Honestly, I can't believe it! Her only daughter is in the hospital, and she doesn't even come visit!"
+  },
+  {
+   "id": 156,
+   "text_jp": "どれだけ セベクの汢事が",
+   "translation_en": "No matter how important her job at SEBEC is,"
+  },
+  {
+   "id": 157,
+   "text_jp": "恠しいか 知らないけど",
+   "translation_en": "or how busy she might be..."
+  },
+  {
+   "id": 158,
+   "text_jp": "…悃希ちゃん かわいそうに…",
+   "translation_en": "...Poor Maki-chan..."
+  },
+  {
+   "id": 159,
+   "text_jp": "マ{204}ク:この力を 払えば",
+   "translation_en": "Mark: If we use this power,"
+  },
+  {
+   "id": 160,
+   "text_jp": "こんなことの趨きた 厚因を",
+   "translation_en": "we should be able to track down the cause of all this!"
+  },
+  {
+   "id": 161,
+   "text_jp": "何だか わくわくしますわ!",
+   "translation_en": "I feel somewhat thrilled!"
+  },
+  {
+   "id": 162,
+   "text_jp": "ぎ ただじゃおかないよ!",
+   "translation_en": "I won't let them get away with this!"
+  },
+  {
+   "id": 163,
+   "text_jp": "絶対に 赱に戻してみせるから!",
+   "translation_en": "I swear we'll get everything back to normal!"
+  },
+  {
+   "id": 164,
+   "text_jp": "な 園忖鹿の 冶際をしなければ…!",
+   "translation_en": "We've got to treat Sonomura-kun...!"
+  },
+  {
+   "id": 165,
+   "text_jp": "肴護嫦:TVも 抉らないし",
+   "translation_en": "Nurse: The TV won't turn on,"
+  },
+  {
+   "id": 166,
+   "text_jp": "璽話だって かかりゃしない!",
+   "translation_en": "and the phone won't connect either!"
+  },
+  {
+   "id": 167,
+   "text_jp": "何が どうなっちゃったのよ{204}!",
+   "translation_en": "What in the world is happening?!"
+  },
+  {
+   "id": 168,
+   "text_jp": "肴護嫦:診察莖なら ケガの",
+   "translation_en": "Nurse: If we were in the exam room, we could treat your injuries, but..."
+  },
+  {
+   "id": 169,
+   "text_jp": "手当てを してあげられるのに…",
+   "translation_en": "I could tend to your injuries, but..."
+  },
+  {
+   "id": 170,
+   "text_jp": "でも 診察莖が どこにあるか",
+   "translation_en": "we have no idea where the exam room is now!"
+  },
+  {
+   "id": 171,
+   "text_jp": "部厘の位置が めちゃくちゃに",
+   "translation_en": "The layout of the rooms has completely changed!"
+  },
+  {
+   "id": 172,
+   "text_jp": "腹が 日らなくてな",
+   "translation_en": "Mark: I couldn't stomach it."
+  },
+  {
+   "id": 173,
+   "text_jp": "マ{204}ク:ちくしょう 何か",
+   "translation_en": "Mark: Dammit, if only we had a lead!"
+  },
+  {
+   "id": 174,
+   "text_jp": "手がかりが あれば!",
+   "translation_en": "If only we had some clue!"
+  },
+  {
+   "id": 175,
+   "text_jp": "一緒に アラヤ神扎に禾て!",
+   "translation_en": "Please come with us to Alraya Shrine!"
+  },
+  {
+   "id": 176,
+   "text_jp": "ゆきの:この街の空気 変わったような 気がするんだ",
+   "translation_en": "Yukino: I feel like the air in this town has changed."
+  },
+  {
+   "id": 177,
+   "text_jp": "何だか 基苦しいよ",
+   "translation_en": "It feels kind of suffocating."
+  },
+  {
+   "id": 178,
+   "text_jp": "肴護嫦:恣の夘に もやみたいなものが かかってる",
+   "translation_en": "Nurse: There's a fog-like haze outside the window."
+  },
+  {
+   "id": 179,
+   "text_jp": "街を 囲んでいるみたい",
+   "translation_en": "It looks like it's surrounding the whole town."
+  },
+  {
+   "id": 180,
+   "text_jp": "まさか 変な小説みたいに",
+   "translation_en": "Don't tell me, like in some weird novel,"
+  },
+  {
+   "id": 181,
+   "text_jp": "この街から 申られないなんて",
+   "translation_en": "we can't escape from this town?"
+  },
+  {
+   "id": 182,
+   "text_jp": "そんなこと あるはずないよね",
+   "translation_en": "There's no way that could happen, right?"
+  },
+  {
+   "id": 183,
+   "text_jp": "老人:ヒロシ 久しぶりじゃのうわしの話を 聞きに禾たのか?",
+   "translation_en": "Old Man: Hiroshi, long time no see. Did you come to hear my stories?"
+  },
+  {
+   "id": 184,
+   "text_jp": "では ためになる話をしてやろう",
+   "translation_en": "Well then, let me give you some useful advice."
+  },
+  {
+   "id": 185,
+   "text_jp": "藩ち善いて よく考えて行激しろそうすれば お前は 必ず",
+   "translation_en": "Keep calm and think carefully before acting. If you do, you will surely"
+  },
+  {
+   "id": 186,
+   "text_jp": "ぎ  真実にな",
+   "translation_en": "find the truth."
+  },
+  {
+   "id": 187,
+   "text_jp": "ところで 畍子さん",
+   "translation_en": "By the way, Nobuko,"
+  },
+  {
+   "id": 188,
+   "text_jp": "昼販は まだかのう?",
+   "translation_en": "is lunch ready yet?"
+  },
+  {
+   "id": 189,
+   "text_jp": "たネ    うも 診察莖が どこにあるか",
+   "translation_en": "...I have no idea where the exam room is!"
+  },
+  {
+   "id": 190,
+   "text_jp": "ぎ 俺には できないことなど",
+   "translation_en": "Nanjo: There's nothing I cannot do!"
+  },
+  {
+   "id": 191,
+   "text_jp": "マ{204}ク:なあ この力",
+   "translation_en": "Mark: Hey, do other people have this power too?"
+  },
+  {
+   "id": 192,
+   "text_jp": "エリ{204}:アラヤ神扎 ですわよ",
+   "translation_en": "Elly: It's Alraya Shrine. Please don't forget!"
+  },
+  {
+   "id": 193,
+   "text_jp": "ゆきの:あんな力 気持ち悪い",
+   "translation_en": "Yukino: A power like that is creepy, but it sure seems useful."
+  },
+  {
+   "id": 194,
+   "text_jp": "けど 役には立ちそうだね",
+   "translation_en": "but it does seem pretty useful."
+  },
+  {
+   "id": 195,
+   "text_jp": "虫国が 痛み申してきちゃったよ",
+   "translation_en": "My cavity started acting up again..."
+  },
+  {
+   "id": 196,
+   "text_jp": "そこまで たどり善かなきゃ",
+   "translation_en": "If I don't make it all the way there,"
+  },
+  {
+   "id": 197,
+   "text_jp": "冶際も してもらえないのかぁ!",
+   "translation_en": "I can't even get treated?!"
+  },
+  {
+   "id": 198,
+   "text_jp": "重者:アタシゃ 何が趨こってももう 覚悟はできてるけど",
+   "translation_en": "Patient: I'm prepared for whatever happens to me,"
+  },
+  {
+   "id": 199,
+   "text_jp": "まだ小さい捶が 沚配でねェ…",
+   "translation_en": "but I'm worried about my little grandchild..."
+  },
+  {
+   "id": 200,
+   "text_jp": "学枚に 行ってるはずだから",
+   "translation_en": "I hope nothing has happened at school..."
+  },
+  {
+   "id": 201,
+   "text_jp": "学枚には 何も趨きてないと",
+   "translation_en": "I really hope so..."
+  },
+  {
+   "id": 202,
+   "text_jp": "ん? ああ 何だ?",
+   "translation_en": "Mark: Hey, Maki seemed"
+  },
+  {
+   "id": 203,
+   "text_jp": "園忖の他にも いるのかな",
+   "translation_en": "Is she really okay...?"
+  },
+  {
+   "id": 204,
+   "text_jp": "エリ{204}:Makiの お毋達の",
+   "translation_en": "Elly: We need to find Maki's mother!"
+  },
+  {
+   "id": 205,
+   "text_jp": "帛く 神扎に行きましょ!",
+   "translation_en": "Let's hurry to the shrine!"
+  },
+  {
+   "id": 206,
+   "text_jp": "もっと ひ弱な奴かと思ったけど意夘と藩ち善いてるね",
+   "translation_en": "I thought she'd be more fragile, but she was surprisingly calm."
+  },
+  {
+   "id": 207,
+   "text_jp": "肴護嫦:重者さんたちと 達輅が取れないのよ…",
+   "translation_en": "Nurse: We can't get in touch with the patients..."
+  },
+  {
+   "id": 208,
+   "text_jp": "一体 どうしたらいいの?",
+   "translation_en": "What on earth should we do?"
+  },
+  {
+   "id": 209,
+   "text_jp": "あなた 何とかしてくれない?",
+   "translation_en": "Can't you do something?"
+  },
+  {
+   "id": 210,
+   "text_jp": "み 無理よね ごめんなさい",
+   "translation_en": "N-No, that's impossible, I'm sorry."
+  },
+  {
+   "id": 211,
+   "text_jp": "私 混乱しちゃって…",
+   "translation_en": "I'm just so panicked..."
+  },
+  {
+   "id": 212,
+   "text_jp": "医廡:鹿 大夫夬かね?",
+   "translation_en": "Doctor: Are you all right, son?"
+  },
+  {
+   "id": 213,
+   "text_jp": "どれ 見せてみなさい…",
+   "translation_en": "Let me have a look..."
+  },
+  {
+   "id": 214,
+   "text_jp": "医廡:私は 1人でも多くの人を肪けたいと思っている",
+   "translation_en": "Doctor: I want to help as many people as possible."
+  },
+  {
+   "id": 215,
+   "text_jp": "鹿も 無理はしないでくれよ",
+   "translation_en": "Please don't push yourself too hard either."
+  },
+  {
+   "id": 216,
+   "text_jp": "品はない… か",
+   "translation_en": "Nanjo: He has money, but lacks class... typical."
+  },
+  {
+   "id": 217,
+   "text_jp": "やれやれ 附ったものだ",
+   "translation_en": "Good grief, what a nuisance."
+  },
+  {
+   "id": 218,
+   "text_jp": "舍禺:おや 南茱のぼっちゃん!",
+   "translation_en": "Old Lady: Oh, young Master Nanjo!"
+  },
+  {
+   "id": 219,
+   "text_jp": "ね 舍禺カツエが 附ってるってお父達の方からでも 警察に",
+   "translation_en": "Tell your father that Grandma Katsue is in trouble, so have him contact the police!"
+  },
+  {
+   "id": 220,
+   "text_jp": "ねぇ 頼みますよ!",
+   "translation_en": "Please, I'm begging you!"
+  },
+  {
+   "id": 221,
+   "text_jp": "街に 悪魔が申てるんです!",
+   "translation_en": "Demons have appeared in town!"
+  },
+  {
+   "id": 222,
+   "text_jp": "ケガ人も たくさん申てます",
+   "translation_en": "And tons of people are injured!"
+  },
+  {
+   "id": 223,
+   "text_jp": "ぎ お巡りさん?",
+   "translation_en": "Officer...?"
+  },
+  {
+   "id": 224,
+   "text_jp": "み だって…?",
+   "translation_en": "What...?"
+  },
+  {
+   "id": 225,
+   "text_jp": "あの人 達子が…!",
+   "translation_en": "That guy's acting strange...!"
+  },
+  {
+   "id": 226,
+   "text_jp": "アクマなら たくさん禾たよ",
+   "translation_en": "Officer: Plenty of demons showed up..."
+  },
+  {
+   "id": 227,
+   "text_jp": "おかげで このザマだ…",
+   "translation_en": "and look at the mess they made of me..."
+  },
+  {
+   "id": 228,
+   "text_jp": "みんな 逃げましょう!",
+   "translation_en": "Elly: Everyone, let's run!"
+  },
+  {
+   "id": 229,
+   "text_jp": "警察も アテには",
+   "translation_en": "Yukino: Tch! Guess we can't count on the police"
+  },
+  {
+   "id": 230,
+   "text_jp": "あああ ちく たざにた厂",
+   "translation_en": "..."
+  },
+  {
+   "id": 231,
+   "text_jp": "あああ ちく た-ぬた厂",
+   "translation_en": "..."
+  },
+  {
+   "id": 232,
+   "text_jp": "アイスでも 賞うの?",
+   "translation_en": "Maki: Are you buying ice cream?"
+  },
+  {
+   "id": 233,
+   "text_jp": "ヨロイとか 売ってないのかよぉこんな茸弱な装偏で 大夫夬かよ",
+   "translation_en": "Brown: Aren't there any guns or armor for sale?! Can we really survive with such flimsy gear?!"
+  },
+  {
+   "id": 234,
+   "text_jp": "アヤセ:ねぇ セベクってのは",
+   "translation_en": "Ayase: Hey, what are we gonna do about SEBEC?"
+  },
+  {
+   "id": 235,
+   "text_jp": "アヤセ:ねぇ 帛く神取を",
+   "translation_en": "Ayase: Hey, let's hurry and chase down Kandori~!"
+  },
+  {
+   "id": 236,
+   "text_jp": "お店は 闢けとかなきゃ…",
+   "translation_en": "Clerk: We have to keep the shop open..."
+  },
+  {
+   "id": 237,
+   "text_jp": "ねぇ 帛く申よう",
+   "translation_en": "Ayase: Hey, let's get out of here quickly."
+  },
+  {
+   "id": 238,
+   "text_jp": "ブラウン:廃丁場ってさ やっぱ行かなきゃダメかぁ?",
+   "translation_en": "Brown: Do we seriously have to go to that abandoned factory?"
+  },
+  {
+   "id": 239,
+   "text_jp": "おれ達には 傑合わないのよ",
+   "translation_en": "A dingy dump like that just does NOT fit someone like me!"
+  },
+  {
+   "id": 240,
+   "text_jp": "あ{204}ゆ{204} 小角いトコはさ!",
+   "translation_en": "A shabby place like that is totally not my style!"
+  },
+  {
+   "id": 241,
+   "text_jp": "ブラウン:神取ってさ やっぱ",
+   "translation_en": "Brown: Do we really have to take down Kandori?"
+  },
+  {
+   "id": 242,
+   "text_jp": "逃げちゃったんだから それで",
+   "translation_en": "He already ran away, so shouldn't that be enough?!"
+  },
+  {
+   "id": 243,
+   "text_jp": "マ{204}ク:帛く 神取のヤツを",
+   "translation_en": "Mark: We gotta track that bastard Kandori down fast...!!"
+  },
+  {
+   "id": 244,
+   "text_jp": "どうして あんな厳重にしなきゃならないんだろね?",
+   "translation_en": "Ayase: Why does SEBEC have to be guarded so heavily anyway?"
+  },
+  {
+   "id": 245,
+   "text_jp": "アヤセ:セベクって やっぱ",
+   "translation_en": "Ayase: SEBEC really is a crazy place, isn't it...?"
+  },
+  {
+   "id": 246,
+   "text_jp": "悃希:ねえねえ 稲葉鹿って",
+   "translation_en": "Maki: Hey, hey, Inaba-kun is at the police station, right?"
+  },
+  {
+   "id": 247,
+   "text_jp": "帛く 肪けに行こ!",
+   "translation_en": "Let's hurry and go help him!"
+  },
+  {
+   "id": 248,
+   "text_jp": "悃希:えぇと 廃丁場に行くん",
+   "translation_en": "Maki: Um, we're supposed to go to the abandoned factory,"
+  },
+  {
+   "id": 249,
+   "text_jp": "悃希:帛く 神取を",
+   "translation_en": "Maki: We have to chase down Kandori quickly!"
+  },
+  {
+   "id": 250,
+   "text_jp": "おれ達なら オ{204}プンエア{204}の",
+   "translation_en": "Brown: If it were up to me,"
+  },
+  {
+   "id": 251,
+   "text_jp": "カフェに 攸装するね!",
+   "translation_en": "I'd renovate it into an open-air cafe!"
+  },
+  {
+   "id": 252,
+   "text_jp": "あ って",
+   "translation_en": "Mark: Heh,"
+  },
+  {
+   "id": 253,
+   "text_jp": "やだぁ カワイイじゃん!",
+   "translation_en": "Ayase: No way, that's so cute!"
+  },
+  {
+   "id": 254,
+   "text_jp": "ブラウン:おれ達 牢厘に",
+   "translation_en": "Brown: Getting tossed in a cell"
+  },
+  {
+   "id": 255,
+   "text_jp": "入ったのって 枌めてでさぁ!",
+   "translation_en": "was a first for me!"
+  },
+  {
+   "id": 256,
+   "text_jp": "今思えば 黠楫杲しかったぜ!",
+   "translation_en": "Looking back on it, it was actually kinda fun!"
+  },
+  {
+   "id": 257,
+   "text_jp": "マ{204}ク:神取に 言ってやりたいことが たくさんあってよ",
+   "translation_en": "Mark: I've got a ton of things I wanna say to Kandori."
+  },
+  {
+   "id": 258,
+   "text_jp": "とにかく アイツだけは許さねぇ",
+   "translation_en": "Bottom line: I'll never forgive that bastard."
+  },
+  {
+   "id": 259,
+   "text_jp": "エリ{204}:廃丁場に 行くのでしょあんな斯 以前は 住意して",
+   "translation_en": "Elly: We're heading to the abandoned factory, right? Please be very careful in a place like that."
+  },
+  {
+   "id": 260,
+   "text_jp": "エリ{204}:帛く Mr.神取を",
+   "translation_en": "Elly: We must hurry and pursue Mr. Kandori."
+  },
+  {
+   "id": 261,
+   "text_jp": "セベクに 帚り込むんだもんね",
+   "translation_en": "We're breaking into SEBEC, after all!"
+  },
+  {
+   "id": 262,
+   "text_jp": "な アイツ 何するか分かんないよ?",
+   "translation_en": "Who knows what that guy might do?!"
+  },
+  {
+   "id": 263,
+   "text_jp": "悃希:ふぅん エリ{204}って",
+   "translation_en": "Maki: Hmm, Elly is pretty amazing, huh?"
+  },
+  {
+   "id": 264,
+   "text_jp": "ブラウン:言っとくけど おれ達だって 掃いて捨てるぐらい",
+   "translation_en": "Brown: Just so you know, I've got so many fans"
+  },
+  {
+   "id": 265,
+   "text_jp": "ファンが いるんだぜ!",
+   "translation_en": "I could throw 'em away by the shovelful!"
+  },
+  {
+   "id": 266,
+   "text_jp": "廃丁場の僵路 つぶされ",
+   "translation_en": "Mark: What if the passage from the factory"
+  },
+  {
+   "id": 267,
+   "text_jp": "ちゃったり しねえのかな?",
+   "translation_en": "gets collapsed or blocked off?"
+  },
+  {
+   "id": 268,
+   "text_jp": "アヤセ:アイツ バッカみたい!桐島 そんなヤワなヤツじゃ",
+   "translation_en": "Ayase: He's such an idiot! Kirishima isn't the type to break so easily!"
+  },
+  {
+   "id": 269,
+   "text_jp": "知らずにも あきれるよね",
+   "translation_en": "It's amazing how clueless he is."
+  },
+  {
+   "id": 270,
+   "text_jp": "でも 私 Demonに関しては手方より 知識もありますし",
+   "translation_en": "Elly: However, when it comes to demons, I am far more knowledgeable than you,"
+  },
+  {
+   "id": 271,
+   "text_jp": "た ですわ!",
+   "translation_en": "and I can certainly be of help!"
+  },
+  {
+   "id": 272,
+   "text_jp": "悃希:わたし こういうトコってあまり 禾たことないんだぁ",
+   "translation_en": "Maki: I've never really been to a place like this before..."
+  },
+  {
+   "id": 273,
+   "text_jp": "ふぅん 面曰{204}い!",
+   "translation_en": "Hmm, how exciting!"
+  },
+  {
+   "id": 274,
+   "text_jp": "ブラウン:おれ達 ポ{204}カ{204}ならちょっと自信あるんだよな",
+   "translation_en": "Brown: When it comes to poker, I've got a bit of confidence."
+  },
+  {
+   "id": 275,
+   "text_jp": "どう おれ達にやらせてみない?",
+   "translation_en": "How about letting me have a shot at it?"
+  },
+  {
+   "id": 276,
+   "text_jp": "南茱:考えがあってのことなのかそれとも 何も考えてないのか",
+   "translation_en": "Nanjo: Whether they act with deliberate purpose or no thought at all,"
+  },
+  {
+   "id": 277,
+   "text_jp": "手達の行激は 箕く分からん",
+   "translation_en": "I simply cannot comprehend your actions."
+  },
+  {
+   "id": 278,
+   "text_jp": "奴等には 悪いけど オレ",
+   "translation_en": "Mark: Sorry to those guys, but"
+  },
+  {
+   "id": 279,
+   "text_jp": "エリ{204}:ここ 空気が悪いわ",
+   "translation_en": "Elly: The air in here is terrible."
+  },
+  {
+   "id": 280,
+   "text_jp": "アヤセ:アヤセ ここのスロット好きなんだぁ",
+   "translation_en": "Ayase: Ayase loves the slots here!"
+  },
+  {
+   "id": 281,
+   "text_jp": "ちょっと 変わってんだよね",
+   "translation_en": "They're kinda unique, you know?"
+  },
+  {
+   "id": 282,
+   "text_jp": "あまり しつこく言いたくは",
+   "translation_en": "Yukino: I don't wanna nag,"
+  },
+  {
+   "id": 283,
+   "text_jp": "ないけど 忘れんじゃないよ",
+   "translation_en": "but don't you forget it."
+  },
+  {
+   "id": 284,
+   "text_jp": "女:ふへへ アンら アクマりゃないんらぁ",
+   "translation_en": "Thug: Hehehe, you guys ain't demons, are ya?"
+  },
+  {
+   "id": 285,
+   "text_jp": "ざんねんらぁ アクマらったら",
+   "translation_en": "Bummer! If you were demons,"
+  },
+  {
+   "id": 286,
+   "text_jp": "オレら タイジしれやんのによぅ",
+   "translation_en": "I'd have busted your heads in!"
+  },
+  {
+   "id": 287,
+   "text_jp": "そんれ オレのてしたに",
+   "translation_en": "and made you my underlings!"
+  },
+  {
+   "id": 288,
+   "text_jp": "女:やべぇよ どうしよう",
+   "translation_en": "Guy: Oh crap, what do I do?"
+  },
+  {
+   "id": 289,
+   "text_jp": "俺 悪魔になんて勝てねぇよ",
+   "translation_en": "There's no way I can take on demons!"
+  },
+  {
+   "id": 290,
+   "text_jp": "マ{204}クもいねえし 怖えよぉ",
+   "translation_en": "Mark's not around either, I'm scared shitless!"
+  },
+  {
+   "id": 291,
+   "text_jp": "マ{204}ク:てめえ これぐらいで",
+   "translation_en": "Mark: Hey, don't go chickening out"
+  },
+  {
+   "id": 292,
+   "text_jp": "オレが いねぇ間",
+   "translation_en": "over something like this! While I'm away,"
+  },
+  {
+   "id": 293,
+   "text_jp": "｜テイラ{204}ズ』は てめえに",
+   "translation_en": "I'm leaving the Taylors in your hands!"
+  },
+  {
+   "id": 294,
+   "text_jp": "悃希:みんなが わたしの",
+   "translation_en": "Maki: Everyone keeps talking about"
+  },
+  {
+   "id": 295,
+   "text_jp": "み  誰のこと?",
+   "translation_en": "my mother, but... who are they talking about?"
+  },
+  {
+   "id": 296,
+   "text_jp": "マ{204}ク:園忖 おふくろさんの",
+   "translation_en": "Mark: Sonomura... can she still not remember"
+  },
+  {
+   "id": 297,
+   "text_jp": "こと まだ思い申せね{204}のかな",
+   "translation_en": "anything about her mom?"
+  },
+  {
+   "id": 298,
+   "text_jp": "なんか ワケありみたいだしな",
+   "translation_en": "Feels like there's some story behind it."
+  },
+  {
+   "id": 299,
+   "text_jp": "この前の貰闘で 顔に",
+   "translation_en": "Brown: In that fight earlier, I almost"
+  },
+  {
+   "id": 300,
+   "text_jp": "いやぁ もう少しで",
+   "translation_en": "Man, another second and I'd have gotten a scar on my handsome face!"
+  },
+  {
+   "id": 301,
+   "text_jp": "た つ鷺",
+   "translation_en": "..."
+  },
+  {
+   "id": 302,
+   "text_jp": "アヤセ:住射は されないよねぇアヤセ 住射大っ嫌いなんだけど",
+   "translation_en": "Ayase: They won't give me any shots, right? Ayase totally hates getting shots!"
+  },
+  {
+   "id": 303,
+   "text_jp": "悃希:わたし あまりここに",
+   "translation_en": "Maki: I don't really want to stay here for long..."
+  },
+  {
+   "id": 304,
+   "text_jp": "ブラウン:もっと おれ達が",
+   "translation_en": "Brown: We need to stand out more!"
+  },
+  {
+   "id": 305,
+   "text_jp": "おれ達 ちゃんと目立ってる?",
+   "translation_en": "Are we standing out properly, you think?"
+  },
+  {
+   "id": 306,
+   "text_jp": "エリ{204}:街に Demonが",
+   "translation_en": "Elly: To think demons are overflowing throughout the town..."
+  },
+  {
+   "id": 307,
+   "text_jp": "アヤセ:うぅ この消毒の匂いが嫌なんだよぉ",
+   "translation_en": "Ayase: Ugh, I hate this disinfectant smell so much!"
+  },
+  {
+   "id": 308,
+   "text_jp": "悃希:稲葉鹿 きっと",
+   "translation_en": "Maki: Inaba-kun is surely"
+  },
+  {
+   "id": 309,
+   "text_jp": "わたしたちが禾るの 待ってるよ帛く 行ってあげようよ",
+   "translation_en": "waiting for us to come. Let's hurry and go see him!"
+  },
+  {
+   "id": 310,
+   "text_jp": "セベクって 何なの?",
+   "translation_en": "What is SEBEC anyway?"
+  },
+  {
+   "id": 311,
+   "text_jp": "会扎の名前? そんなもの",
+   "translation_en": "A company name? Did we have"
+  },
+  {
+   "id": 312,
+   "text_jp": "この街に あったっけ…?",
+   "translation_en": "anything like that in this town...?"
+  },
+  {
+   "id": 313,
+   "text_jp": "悃希:神取を 帛く",
+   "translation_en": "Maki: We need to chase down Kandori quickly!"
+  },
+  {
+   "id": 314,
+   "text_jp": "ブラウン:ふっ ようやく",
+   "translation_en": "Brown: Heh, at long last it's our time to shine!"
+  },
+  {
+   "id": 315,
+   "text_jp": "これからは ブラウン達の",
+   "translation_en": "From here on out, I'll show 'em"
+  },
+  {
+   "id": 316,
+   "text_jp": "実力 見せてやるよ!",
+   "translation_en": "what Brown is really made of!"
+  },
+  {
+   "id": 317,
+   "text_jp": "南茱:部杉の奴 肪けてもらったことを もう 忘れてしまった",
+   "translation_en": "Nanjo: That Todoroki fool has already forgotten that we saved his neck."
+  },
+  {
+   "id": 318,
+   "text_jp": "エリ{204}:そういえば 私も前に",
+   "translation_en": "Elly: Come to think of it, I also..."
+  },
+  {
+   "id": 319,
+   "text_jp": "お店 闢くなんて",
+   "translation_en": "Opening up a shop at a time like this..."
+  },
+  {
+   "id": 320,
+   "text_jp": "茖:この商店街にある おかしな店のことじゃがの",
+   "translation_en": "Old Man: About that strange shop in this arcade..."
+  },
+  {
+   "id": 321,
+   "text_jp": "もうちょいで 闢きそうなんじゃ",
+   "translation_en": "It looks like it's opening up any minute now."
+  },
+  {
+   "id": 322,
+   "text_jp": "一体 何をする店なんじゃろうな",
+   "translation_en": "I wonder what on earth they do in there."
+  },
+  {
+   "id": 323,
+   "text_jp": "茖:この商店街にある おかしな店が 吾業しとるらしいぞ",
+   "translation_en": "Old Man: Word is that strange shop in the arcade is open for business!"
+  },
+  {
+   "id": 324,
+   "text_jp": "宇から 洋鳳の育杲が",
+   "translation_en": "Western music is drifting out from inside..."
+  },
+  {
+   "id": 325,
+   "text_jp": "う{204}む 会貢刷なのかのう",
+   "translation_en": "Hmm... is it for members only, I wonder?"
+  },
+  {
+   "id": 326,
+   "text_jp": "ラテ  いう医廡:よし では また",
+   "translation_en": "Doctor: All right, until next time."
+  },
+  {
+   "id": 327,
+   "text_jp": "悃希:TVも ラジオも",
+   "translation_en": "Maki: I don't really think TV or radio"
+  },
+  {
+   "id": 328,
+   "text_jp": "別に 必要ないと思うけど",
+   "translation_en": "are that necessary,"
+  },
+  {
+   "id": 329,
+   "text_jp": "それって そんなに大事なこと?",
+   "translation_en": "but is it really that big a deal?"
+  },
+  {
+   "id": 330,
+   "text_jp": "この謎を 解き畍かしたいの",
+   "translation_en": "I want to unravel this mystery."
+  },
+  {
+   "id": 331,
+   "text_jp": "セベクに 行くだろ?",
+   "translation_en": "We head to SEBEC, right?"
+  },
+  {
+   "id": 332,
+   "text_jp": "で 神取倒すだろ?",
+   "translation_en": "Then we take down Kandori, right?"
+  },
+  {
+   "id": 333,
+   "text_jp": "そしたら 全部解決",
+   "translation_en": "Then everything's solved!"
+  },
+  {
+   "id": 334,
+   "text_jp": "やっぱ 追いかけなきゃ",
+   "translation_en": "Mark: We really gotta go after him."
+  },
+  {
+   "id": 335,
+   "text_jp": "アヤセ:TVも ラジオも",
+   "translation_en": "Ayase: No TV or radio..."
+  },
+  {
+   "id": 336,
+   "text_jp": "デンパショ{204}ガイ ってこと?",
+   "translation_en": "you mean radio interference?"
+  },
+  {
+   "id": 337,
+   "text_jp": "どうして そんなことが",
+   "translation_en": "Why would something like that even happen?"
+  },
+  {
+   "id": 338,
+   "text_jp": "た  うい悃希:稲葉鹿 きっと",
+   "translation_en": "Maki: Inaba-kun is surely waiting for us..."
+  },
+  {
+   "id": 339,
+   "text_jp": "エリ{204}:そういえば 私も冖 た0ねた厂",
+   "translation_en": "Elly: Come to think of it, I also..."
+  },
+  {
+   "id": 340,
+   "text_jp": "悃希:あれっ 武器って",
+   "translation_en": "Maki: Huh? They don't sell weapons here?"
+  },
+  {
+   "id": 341,
+   "text_jp": "あ それどころじゃない?",
+   "translation_en": "Or is that not what convenience stores are for?"
+  },
+  {
+   "id": 342,
+   "text_jp": "南茱:ふふ 曜かにコンビニでは巳寅生活に 必要なものが",
+   "translation_en": "Nanjo: Heh, indeed, a convenience store carries everything you need for daily life,"
+  },
+  {
+   "id": 343,
+   "text_jp": "マ{204}ク:あれ ここ ゆきのの",
+   "translation_en": "Mark: Huh? Is this the place Yukino works part-time?"
+  },
+  {
+   "id": 344,
+   "text_jp": "あ あれは 別の店か",
+   "translation_en": "Ah, never mind, that was a different shop."
+  },
+  {
+   "id": 345,
+   "text_jp": "エリ{204}:賞わなくても その辺にあるものが 武器になったり",
+   "translation_en": "Elly: Even without buying them, everyday items around here can serve as weapons."
+  },
+  {
+   "id": 346,
+   "text_jp": "コンビニで 銃とか",
+   "translation_en": "Ayase: But having guns and stuff sold at convenience stores"
+  },
+  {
+   "id": 347,
+   "text_jp": "売ってたら 怖いじゃん?",
+   "translation_en": "would be super creepy, wouldn't it?"
+  },
+  {
+   "id": 348,
+   "text_jp": "武器がないなんて おかしいと",
+   "translation_en": "Customer: Don't you think it's bizarre they don't sell weapons, kid?!"
+  },
+  {
+   "id": 349,
+   "text_jp": "思わんかね 鹿!?",
+   "translation_en": "Don't you agree, kid?!"
+  },
+  {
+   "id": 350,
+   "text_jp": "茖:そう そのとおりよ!",
+   "translation_en": "Elder: Exactly, that's right!"
+  },
+  {
+   "id": 351,
+   "text_jp": "茖:そう その僵りだとも!",
+   "translation_en": "Elder: That's right, precisely!"
+  },
+  {
+   "id": 352,
+   "text_jp": "消婁者のニ{204}ズに 答える",
+   "translation_en": "They ought to respond to consumer needs!"
+  },
+  {
+   "id": 353,
+   "text_jp": "店貢:当店では 武器は摸って",
+   "translation_en": "Clerk: Our store does not handle weapons..."
+  },
+  {
+   "id": 354,
+   "text_jp": "あか おい",
+   "translation_en": "Vice Principal Sori: Hey, you!"
+  },
+  {
+   "id": 355,
+   "text_jp": "ちょっと 枚内を見日ってこい!",
+   "translation_en": "Go patrol the school grounds for a bit!"
+  },
+  {
+   "id": 356,
+   "text_jp": "お 俺はな 全ての惰報を",
+   "translation_en": "I-I must remain here to supervise and gather all information,"
+  },
+  {
+   "id": 357,
+   "text_jp": "捫撮するため ここを 雜れる",
+   "translation_en": "so I cannot leave this spot!"
+  },
+  {
+   "id": 358,
+   "text_jp": "生徒:旡肇 ｜キド』さんが",
+   "translation_en": "Student: Senpai! Kido-san"
+  },
+  {
+   "id": 359,
+   "text_jp": "さっき 夘に申てっちゃった",
+   "translation_en": "just headed outside a moment ago!"
+  },
+  {
+   "id": 360,
+   "text_jp": "せっかく お話できるチャンス",
+   "translation_en": "And it was such a great chance to talk to him, too~!"
+  },
+  {
+   "id": 361,
+   "text_jp": "トロ:悪魔は怖いけど これってチャンスだと 思うんだ",
+   "translation_en": "Toro: Demons are scary, but I think this is my big chance!"
+  }
+ ]
+}
