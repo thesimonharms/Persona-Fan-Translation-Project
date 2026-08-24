@@ -174,6 +174,12 @@ def patch_event_file(json_path: Path, orig_bin: Path, out_bin: Path) -> dict:
             stats["skipped_overflow"].append(
                 {"offset": off, "need": len(full), "have": ln, "en": en[:80]})
             continue
+        # FF 01 opens name-color; native ':' closes it. Keep that closer
+        # when a fitted line dropped the speaker name.
+        if off >= 2 and bytes(data[off - 2:off]) == b"\xff\x01" and b"\x80\xcb" not in enc:
+            prefixed, _ = encode_text(":" + en.lstrip(), orig_raw=orig_raw)
+            if len(prefixed) <= ln:
+                enc = prefixed
         data[off:off + ln] = enc.ljust(ln, b"\x00")
         stats["translated"] += 1
         if method == "drop_speaker":
@@ -228,6 +234,14 @@ def main():
         print(f"[EVT ] {st['file']}: {st['translated']} patched"
               + (f", {dropped} speaker-dropped" if dropped else "")
               + (f", {ov} OVERFLOW-SKIPPED" if ov else ""))
+
+    # 3. Opening scene: write fitted English over complete FF 02/03 runs
+    #    so mid-line JSON slices cannot leave Japanese around fragments.
+    from tools.patch_opening import patch_e0
+    opening = patch_e0(SRC / "ADV/E0.BIN", OUT / "ADV/E0.BIN")
+    report["opening"] = opening
+    print(f"[OPEN] E0 classroom+nurse: {opening['patched']} runs, "
+          f"{len(opening['overflow'])} overflow, {len(opening['unmapped'])} unmapped")
 
     # summary
     tot_t = sum(s["translated"] for s in report["talk"])

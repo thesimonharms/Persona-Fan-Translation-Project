@@ -98,10 +98,19 @@ def compute_ecc(sector_data: bytearray):
             sector_data[2248 + (col * 2 + 1) * 2 + (i % 2)] = q2
 
 
-def build_mode2_form1_sector(lba: int, user_data: bytes, file_num: int = 0, chan_num: int = 0) -> bytes:
+def build_mode2_form1_sector(
+    lba: int,
+    user_data: bytes,
+    file_num: int = 0,
+    chan_num: int = 0,
+    submode: int = 0x08,
+) -> bytes:
     """
     Constructs a complete 2352-byte Mode 2 Form 1 CD-ROM sector with valid Header, Subheader,
     User Data, EDC, and computed ECC.
+
+    submode 0x08 = Form 1 data. Last sector of a file must be 0x89
+    (EOF | Data | EOR) or CdRead can wait forever for end-of-file.
     """
     assert len(user_data) == 2048, f"User data must be exactly 2048 bytes, got {len(user_data)}"
 
@@ -114,10 +123,9 @@ def build_mode2_form1_sector(lba: int, user_data: bytes, file_num: int = 0, chan
     m_bcd, s_bcd, f_bcd = lba_to_msf(lba)
     sector[12:16] = bytes([m_bcd, s_bcd, f_bcd, 0x02])
 
-    # 3. Subheader (Form 1 Data = 0x08)
-    submode = 0x08
+    # 3. Subheader (duplicated). 0x08 mid-file, 0x89 last sector.
     coding = 0x00
-    subhdr_4 = bytes([file_num, chan_num, submode, coding])
+    subhdr_4 = bytes([file_num, chan_num, submode & 0xFF, coding])
     sector[16:24] = subhdr_4 + subhdr_4
 
     # 4. User Data

@@ -1,5 +1,5 @@
 {
-  "_comment": "Encode-time 1-byte English remap. Stolen slots are 1-byte kana NOT used by leftover in-place Japanese event strings (the ~100 lines that still cannot fit). extracted/FONT.BIN is never modified; only build/extracted/FONT.BIN is patched. Translation JSON is never rewritten.",
+  "_comment": "Encode-time 1-byte English remap. Stolen slots are 1-byte kana NOT used by leftover in-place Japanese event strings. Colon (gid 203) and apostrophe (gid 206) stay native 2-byte: 1-byte ':' does not close FF 01 name-color, and 0x7C collides with opcode FF 7C. extracted/FONT.BIN is never modified; only build/extracted/FONT.BIN is patched. Translation JSON is never rewritten.",
   "remap": {
     "a": 23, "b": 27, "c": 28, "d": 29, "e": 30, "f": 33, "g": 45, "h": 49,
     "i": 50, "j": 51, "k": 52, "l": 54, "m": 56, "n": 58, "o": 59, "p": 62,
@@ -9,8 +9,7 @@
     "I": 97, "J": 98, "K": 100, "L": 101, "M": 103, "N": 104, "O": 105, "P": 106,
     "Q": 107, "R": 108, "S": 109, "T": 110, "U": 111, "V": 113, "W": 114, "X": 115,
     "Y": 116, "Z": 118,
-    ".": 119, ",": 120, "!": 121, "?": 122, "'": 124, "\"": 125, "-": 126,
-    ":": 127
+    ".": 119, ",": 120, "!": 121, "?": 122, "\"": 125, "-": 126
   },
   "bitmap_source_glyph": {
     "a": 247, "b": 248, "c": 249, "d": 250, "e": 251, "f": 252, "g": 253, "h": 254,
@@ -21,7 +20,6 @@
     "I": 174, "J": 175, "K": 176, "L": 177, "M": 178, "N": 179, "O": 180, "P": 181,
     "Q": 182, "R": 183, "S": 184, "T": 185, "U": 186, "V": 187, "W": 188, "X": 189,
     "Y": 190, "Z": 191,
-    ".": 205, ",": 213, "!": 209, "?": 208, "'": 206, "\"": 210, "-": 212,
-    ":": 203
+    ".": 205, ",": 213, "!": 209, "?": 208, "\"": 210, "-": 212
   }
 }

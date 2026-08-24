@@ -100,7 +100,10 @@ class PersonaDiscRebuilder:
                     if len(chunk) < SECTOR_USER_SIZE:
                         chunk = chunk.ljust(SECTOR_USER_SIZE, b"\x00")
 
-                    sec_bytes = build_mode2_form1_sector(current_lba, chunk)
+                    # Last sector of every file needs XA EOF+EOR (0x89).
+                    # Mid-file sectors stay Form 1 data (0x08).
+                    submode = 0x89 if sec_idx == total_sectors - 1 else 0x08
+                    sec_bytes = build_mode2_form1_sector(current_lba, chunk, submode=submode)
                     disc_f.seek(current_lba * SECTOR_RAW_SIZE)
                     disc_f.write(sec_bytes)
 

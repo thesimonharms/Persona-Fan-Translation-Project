@@ -8,6 +8,10 @@ when the full string does not fit the original byte budget.
 
 Glyphs >= 128 are always 2-byte. 0x80-0x87 are 2-byte leads and 0xFF is
 the control lead; emitting those as 1-byte text desyncs the VM.
+
+Colon and apostrophe stay on native 2-byte glyphs (203 / 206). A 1-byte
+':' (0x7F) does not close the FF 01 nameplate, so later lines keep a red
+background. Apostrophe on 0x7C collides with opcode FF 7C.
 """
 from __future__ import annotations
 
@@ -121,7 +125,8 @@ def drop_speaker(text: str) -> str:
 def fit_event_text(text: str, budget: int, orig_raw: bytes | None = None, rev: dict | None = None):
     """
     Try full mixed-case (with speaker), then speaker-drop.
-    Returns (encoded, method) or (None, None) if it still overflows.
+    When the name is dropped, keep a leading native ':' so FF 01
+    name-color is closed. Returns (encoded, method) or (None, None).
     Does not mutate the source translation.
     """
     enc, _ = encode_text(text, orig_raw=orig_raw, rev=rev)
@@ -129,7 +134,8 @@ def fit_event_text(text: str, budget: int, orig_raw: bytes | None = None, rev: d
         return enc, "full"
     dropped = drop_speaker(text)
     if dropped != text:
-        enc2, _ = encode_text(dropped, orig_raw=orig_raw, rev=rev)
+        keep_colon = ":" + dropped.lstrip()
+        enc2, _ = encode_text(keep_colon, orig_raw=orig_raw, rev=rev)
         if len(enc2) <= budget:
             return enc2, "drop_speaker"
     return None, None
