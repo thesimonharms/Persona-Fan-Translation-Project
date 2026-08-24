@@ -108,6 +108,35 @@ class PersonaScenePreviewer:
         print(f"[+] Rendered Scene Preview: {out_path} ({scene_title})")
         return out_path
 
+    def render_from_binary_subfile(self, bin_path: str, subfile_index: int, scene_title: str, save_name: str) -> Optional[Path]:
+        """Extracts and renders text directly from a container binary subfile (e.g. E0.BIN subfile 3)."""
+        data = Path(bin_path).read_bytes()
+        sec0 = data[:2048]
+        sectors = [struct.unpack("<H", sec0[i * 2 : (i + 1) * 2])[0] for i in range(1024) if struct.unpack("<H", sec0[i * 2 : (i + 1) * 2])[0] != 0]
+        if subfile_index >= len(sectors):
+            return None
+
+        start = sectors[subfile_index] * 2048
+        end = sectors[subfile_index + 1] * 2048 if subfile_index + 1 < len(sectors) else len(data)
+        sub = data[start:end]
+        if len(sub) < 8:
+            return None
+
+        p0 = struct.unpack("<I", sub[:4])[0]
+        p1 = struct.unpack("<I", sub[4:8])[0]
+        base_ram = p0 & 0xFFFF0000
+        rel_p1 = p1 - base_ram
+        if not (0 < rel_p1 < len(sub)):
+            return None
+
+        raw_chunk = sub[rel_p1:].rstrip(b"\x00")
+        decoded = self.font_tool.decode_bytes(raw_chunk)
+
+        # Split into lines for preview
+        clean_text = decoded.replace("<LINE>", "\n").replace("<PAGE>", "\n").replace("<CLOSE>", "\n")
+        lines = [l.strip() for l in clean_text.split("\n") if l.strip()]
+        return self.render_scene(lines[:3], scene_title, save_name)
+
     def preview_all_prologue_scenes(self):
         scenes = [
             ("Opening Scene 1 - Mark Dialogue", [
@@ -137,9 +166,20 @@ class PersonaScenePreviewer:
             fname = f"d00_scene_{idx+1}.png"
             p = self.render_scene(lines, title, fname)
             rendered.append(p)
+
+        # Also render authentic binary extract if present
+        if Path("extracted/ADV/E0.BIN").is_file():
+            self.render_from_binary_subfile(
+                "extracted/ADV/E0.BIN",
+                3,
+                "E0.BIN Subfile 3 - Opening Dialogue (Original Binary)",
+                "e0_sub3_original_binary.png"
+            )
+
         return rendered
 
 
 if __name__ == "__main__":
     previewer = PersonaScenePreviewer()
     previewer.preview_all_prologue_scenes()
+

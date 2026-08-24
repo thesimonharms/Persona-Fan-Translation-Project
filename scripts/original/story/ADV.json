@@ -1,15 +1,7 @@
 {
   "file": "ADV.BIN",
   "type": "STORY_CUTSCENES",
-  "total_strings": 1,
-  "entries": [
-    {
-      "id": 0,
-      "offset": 300148,
-      "length_bytes": 11,
-      "raw_hex": "dc15238cfffd0424241864",
-      "text_jp": "『なもゾ<CHOICE id=4>ややねタ",
-      "translation_en": ""
-    }
-  ]
+  "total_subfiles": 1,
+  "total_dialogue_subfiles": 0,
+  "entries": []
 }

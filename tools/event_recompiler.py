@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 tools/event_recompiler.py - Precise Story Event Package Recompiler (E0..E3, MES.BIN, BST.BIN)
-Disassembles subfile containers, injects English strings, recalculates MIPS RAM pointers,
-and preserves all TIM graphics and sprites 100% losslessly.
+Disassembles subfile containers, injects English strings, and preserves all TIM graphics,
+sprites, and audio subfiles 100% losslessly.
 """
 
 import os
@@ -23,10 +23,10 @@ class PersonaEventRecompiler:
         else:
             self.font_tool = font_tool
 
-    def recompile_event_package(self, orig_bin_path: str, out_bin_path: str, dialogues: List[str]) -> Dict[str, Any]:
+    def recompile_event_package(self, orig_bin_path: str, out_bin_path: str, json_path: Optional[str] = None) -> Dict[str, Any]:
         """
         Recompiles an event container (e.g. E0.BIN) by safely injecting English dialogue into
-        the script subfile without touching TIM sprite or audio subfiles.
+        the script subfiles without touching TIM sprite, audio, or bytecode subfiles.
         """
         orig_path = Path(orig_bin_path)
         out_path = Path(out_bin_path)
@@ -34,6 +34,7 @@ class PersonaEventRecompiler:
 
         data = bytearray(orig_path.read_bytes())
         if len(data) < 2048:
+            out_path.write_bytes(data)
             return {"file": orig_path.name, "status": "SKIPPED_TOO_SMALL"}
 
         # Read sector offset table from Sector 0
@@ -45,70 +46,64 @@ class PersonaEventRecompiler:
             sec_table.append(val)
 
         if not sec_table:
+            out_path.write_bytes(data)
             return {"file": orig_path.name, "status": "NO_SECTOR_TABLE"}
 
-        # Subfile 0 is the primary script & dialogue subfile
-        sub0_start = sec_table[0] * 2048
-        sub0_end = sec_table[1] * 2048 if len(sec_table) > 1 else len(data)
-        sub0_data = data[sub0_start:sub0_end]
+        # Load translation entries if JSON provided
+        j_entries = {}
+        if json_path and Path(json_path).is_file():
+            j_data = json.loads(Path(json_path).read_text(encoding="utf-8"))
+            for e in j_data.get("entries", []):
+                s_idx = e.get("subfile_index")
+                if s_idx is not None:
+                    j_entries[s_idx] = e
 
-        # Inspect subfile 0 header (RAM pointers)
-        p0 = struct.unpack("<I", sub0_data[:4])[0]
-        if (p0 & 0xFF000000) == 0x80000000: # MIPS RAM pointer (e.g. 0x80100008)
-            base_ram = p0 & 0xFFFF0000
-            # Read RAM pointers from subfile 0 header
-            ptrs = []
-            for i in range(16):
-                val = struct.unpack("<I", sub0_data[i * 4 : (i + 1) * 4])[0]
-                if (val & 0xFFFF0000) == base_ram:
-                    ptrs.append((i, val, val - base_ram))
+        recompiled_count = 0
+        for sub_idx, s in enumerate(sec_table):
+            start = s * 2048
+            end = sec_table[sub_idx + 1] * 2048 if sub_idx + 1 < len(sec_table) else len(data)
+            sub_data = bytearray(data[start:end])
+            if len(sub_data) < 16:
+                continue
 
-            # If valid string pointer exists in header
-            if len(ptrs) >= 2:
-                script_ptr_idx, script_ram, script_rel = ptrs[0]
-                str_ptr_idx, str_ram, str_rel = ptrs[1]
+            p0 = struct.unpack("<I", sub_data[:4])[0]
+            if (p0 & 0xFF000000) == 0x80000000:
+                base_ram = p0 & 0xFFFF0000
+                p1 = struct.unpack("<I", sub_data[4:8])[0]
+                str_rel = p1 - base_ram
 
-                if 0 < str_rel < len(sub0_data):
-                    # Build new English string block
-                    new_str_block = bytearray()
-                    for d_text in dialogues:
-                        encoded = self.font_tool.encode_text(d_text)
-                        new_str_block.extend(encoded)
-                        new_str_block.append(0x00) # string null terminator
-
-                    # Safely write new string block up to subfile boundary
-                    max_allowed = len(sub0_data) - str_rel
-                    fit_len = min(len(new_str_block), max_allowed)
-                    sub0_data[str_rel : str_rel + fit_len] = new_str_block[:fit_len]
-
-                    # Write modified subfile back to container
-                    data[sub0_start : sub0_start + len(sub0_data)] = sub0_data
-                    print(f"[+] Recompiled {orig_path.name} subfile 0 dialogue ({fit_len} bytes injected at 0x{str_rel:04x})")
+                if 0 < str_rel < len(sub_data) and sub_idx in j_entries:
+                    entry = j_entries[sub_idx]
+                    en_text = entry.get("translation_en", "").strip()
+                    if en_text:
+                        encoded = self.font_tool.encode_text(en_text, mode="adv")
+                        max_allowed = len(sub_data) - str_rel
+                        fit_len = min(len(encoded), max_allowed)
+                        sub_data[str_rel : str_rel + fit_len] = encoded[:fit_len]
+                        if str_rel + fit_len < len(sub_data):
+                            sub_data[str_rel + fit_len :] = b"\x00" * (len(sub_data) - (str_rel + fit_len))
+                        data[start:end] = sub_data
+                        recompiled_count += 1
 
         out_path.write_bytes(data)
-        return {"file": orig_path.name, "status": "SUCCESS", "size": len(data)}
+        print(f"[+] Recompiled {orig_path.name}: {recompiled_count} dialogue subfiles injected -> {out_path.name}")
+        return {"file": orig_path.name, "status": "SUCCESS", "injected": recompiled_count, "size": len(data)}
 
-    def recompile_all_event_packages(self):
+    def recompile_all_event_packages(self, orig_dir: str = "extracted/ADV", build_dir: str = "build/extracted/ADV"):
         """Recompiles E0.BIN through E3.BIN with clean dialogue injection."""
-        from tools.batch_event_localizer import (
-            E0_CLASSROOM_DIALOGUES,
-            E1_PHILEMON_DIALOGUES,
-            E2_HOSPITAL_DIALOGUES,
-            E3_INVASION_DIALOGUES
-        )
-
-        packages = [
-            ("extracted/ADV/E0.BIN", "build/extracted/ADV/E0.BIN", E0_CLASSROOM_DIALOGUES),
-            ("extracted/ADV/E1.BIN", "build/extracted/ADV/E1.BIN", E1_PHILEMON_DIALOGUES),
-            ("extracted/ADV/E2.BIN", "build/extracted/ADV/E2.BIN", E2_HOSPITAL_DIALOGUES),
-            ("extracted/ADV/E3.BIN", "build/extracted/ADV/E3.BIN", E3_INVASION_DIALOGUES),
-        ]
-
-        for orig_p, out_p, d_list in packages:
+        packages = ["E0.BIN", "E1.BIN", "E2.BIN", "E3.BIN"]
+        for pkg in packages:
+            orig_p = os.path.join(orig_dir, pkg)
+            out_p = os.path.join(build_dir, pkg)
+            stem = Path(pkg).stem
+            trans_json = f"scripts/translated/events/{stem}.json"
+            orig_json = f"scripts/original/events/{stem}.json"
+            j_path = trans_json if os.path.exists(trans_json) else orig_json
             if os.path.exists(orig_p):
-                self.recompile_event_package(orig_p, out_p, d_list)
+                self.recompile_event_package(orig_p, out_p, j_path)
 
 
 if __name__ == "__main__":
     recompiler = PersonaEventRecompiler()
     recompiler.recompile_all_event_packages()
+

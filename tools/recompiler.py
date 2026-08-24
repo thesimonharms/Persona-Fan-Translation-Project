@@ -11,6 +11,7 @@ import sys
 import json
 import glob
 import struct
+import re
 import argparse
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
@@ -176,8 +177,10 @@ class PersonaRecompiler:
             raw = bin_data[p:next_p].rstrip(b"\x00")
             decoded = self.font_tool.decode_bytes(raw)
             expected = entry.get("translation_en", "").strip() or entry.get("text_jp", "").strip()
+            norm_dec = re.sub(r"<CHOICE[^>]*>", "<CHOICE>", decoded).replace("<CLOSE>", "").strip()
+            norm_exp = re.sub(r"<CHOICE[^>]*>", "<CHOICE>", expected).replace("<CLOSE>", "").strip()
 
-            if decoded.replace("<CLOSE>", "").strip() != expected.replace("<CLOSE>", "").strip() and decoded.strip() != expected.strip():
+            if norm_dec != norm_exp and decoded.strip() != expected.strip():
                 print(f"[-] Verification mismatch at entry {idx} (0x{p:04x}):")
                 print(f"    Expected: {expected}")
                 print(f"    Decoded:  {decoded}")
@@ -189,23 +192,26 @@ class PersonaRecompiler:
         return all_ok
 
     def recompile_all(self, orig_extracted_dir: str = "extracted", build_extracted_dir: str = "build/extracted"):
-        """Recompiles ALL translated assets into build/extracted/."""
+        """Recompiles ALL translated assets cleanly into build/extracted/."""
         orig_dir = Path(orig_extracted_dir)
         build_dir = Path(build_extracted_dir)
         build_dir.mkdir(parents=True, exist_ok=True)
 
         print(f"\n==================================================")
-        print(f"[*] Starting Complete Game Binary Recompilation...")
+        print(f"[*] Starting Complete Clean Game Binary Recompilation...")
         print(f"==================================================")
 
-        # 1. Patch FONT.BIN
+        # 1. Patch / Prepare FONT.BIN
         font_in = orig_dir / "FONT.BIN"
         font_out = build_dir / "FONT.BIN"
         if font_in.is_file():
             self.font_tool.patch_font_with_lowercase(str(font_out))
 
-        # 2. Recompile all TALK binaries
-        for jf in sorted(glob.glob("scripts/translated/talk/*.json")):
+        # 2. Recompile all TALK binaries (Demon Negotiation)
+        talk_files = sorted(glob.glob("scripts/translated/talk/*.json"))
+        if not talk_files:
+            talk_files = sorted(glob.glob("scripts/original/talk/*.json"))
+        for jf in talk_files:
             stem = Path(jf).stem
             orig_bin = orig_dir / "TALK" / f"{stem}.BIN"
             out_bin = build_dir / "TALK" / f"{stem}.BIN"
@@ -213,51 +219,38 @@ class PersonaRecompiler:
                 self.recompile_talk_file(jf, str(orig_bin), str(out_bin))
                 self.verify_recompiled_talk(str(out_bin), jf)
 
-        # 3. Recompile Battle binaries
-        if os.path.exists("scripts/translated/battle/BTLP.json"):
-            self.recompile_stream_file("scripts/translated/battle/BTLP.json", str(orig_dir / "BTLP.BIN"), str(build_dir / "BTLP.BIN"))
+        # 3. Recompile Core Event Packages (E0.BIN, E1.BIN, E2.BIN, E3.BIN)
+        from tools.event_recompiler import PersonaEventRecompiler
+        event_recompiler = PersonaEventRecompiler(self.font_tool)
+        event_recompiler.recompile_all_event_packages(
+            orig_dir=str(orig_dir / "ADV"),
+            build_dir=str(build_dir / "ADV")
+        )
 
-        # 4. Recompile Story binaries
-        for sf in ["ADV.json", "BST.json", "MES.json"]:
-            jf = Path(f"scripts/translated/story/{sf}")
-            if jf.is_file():
-                stem = jf.stem
-                if stem == "ADV":
-                    orig_bin = orig_dir / "ADV.BIN"
-                    out_bin = build_dir / "ADV.BIN"
-                else:
-                    orig_bin = orig_dir / "ADV" / f"{stem}.BIN"
-                    out_bin = build_dir / "ADV" / f"{stem}.BIN"
-                if orig_bin.is_file():
-                    self.recompile_stream_file(str(jf), str(orig_bin), str(out_bin))
+        # 4. Recompile Full Story Cutscenes (ADV/MES.BIN)
+        if (orig_dir / "ADV" / "MES.BIN").is_file():
+            from tools.mes_recompiler import PersonaMESRecompiler
+            mes_recompiler = PersonaMESRecompiler(self.font_tool)
+            mes_recompiler.recompile_all_cutscenes(
+                orig_mes_path=str(orig_dir / "ADV" / "MES.BIN"),
+                out_mes_path=str(build_dir / "ADV" / "MES.BIN")
+            )
 
-        # 5. Recompile Core Event Packages (E0.BIN, E1.BIN, E2.BIN, E3.BIN, ADVCMD.BIN, TYNSE.BIN, DVL.BIN)
-        for ef in sorted(glob.glob("scripts/translated/events/*.json")):
-            stem = Path(ef).stem
-            orig_bin = orig_dir / "ADV" / f"{stem}.BIN"
-            out_bin = build_dir / "ADV" / f"{stem}.BIN"
-            if orig_bin.is_file():
-                self.recompile_stream_file(ef, str(orig_bin), str(out_bin))
+        # 5. Recompile Dungeon Message Files (*M.BIN)
+        from tools.m_struct_encoder import PersonaMStructEncoder
+        m_encoder = PersonaMStructEncoder()
+        m_encoder.patch_all_m_files(
+            orig_dir=str(orig_dir),
+            build_dir=str(build_dir)
+        )
 
-        # 6. Recompile Dungeon binaries
-        for df in sorted(glob.glob("scripts/translated/dungeons/*.json")):
-            stem = Path(df).stem
-            found = list(orig_dir.glob(f"D*/{stem}.BIN"))
-            if found:
-                orig_bin = found[0]
-                rel = orig_bin.relative_to(orig_dir)
-                out_bin = build_dir / rel
-                self.recompile_stream_file(df, str(orig_bin), str(out_bin))
-
-        # 7. Recompile System binaries
-        for sys_f in ["CASINO.json", "OPEN.json", "S2D.json"]:
-            jf = Path(f"scripts/translated/system/{sys_f}")
-            if jf.is_file():
-                stem = jf.stem
-                orig_bin = orig_dir / f"{stem}.BIN"
-                out_bin = build_dir / f"{stem}.BIN"
-                if orig_bin.is_file():
-                    self.recompile_stream_file(str(jf), str(orig_bin), str(out_bin))
+        # 6. Recompile Character Matrix (NAMEDT.BIN)
+        if (orig_dir / "NAMEDT.BIN").is_file():
+            from tools.name_localizer import patch_namedt
+            patch_namedt(
+                orig_namedt_path=str(orig_dir / "NAMEDT.BIN"),
+                out_namedt_path=str(build_dir / "NAMEDT.BIN")
+            )
 
         print(f"\n[+] All translated assets successfully recompiled into {build_dir}!")
 

@@ -577,576 +577,576 @@
     },
     {
       "glyph_id": 82,
-      "char": "ヴ",
-      "hex_bytes": "52",
-      "unicode": "U+30F4",
-      "is_kanji": false
-    },
-    {
-      "glyph_id": 83,
-      "char": "ノ",
-      "hex_bytes": "53",
-      "unicode": "U+30CE",
-      "is_kanji": false
-    },
-    {
-      "glyph_id": 84,
-      "char": "オ",
-      "hex_bytes": "54",
-      "unicode": "U+30AA",
-      "is_kanji": false
-    },
-    {
-      "glyph_id": 85,
       "char": "ア",
-      "hex_bytes": "55",
+      "hex_bytes": "52",
       "unicode": "U+30A2",
       "is_kanji": false
     },
     {
-      "glyph_id": 86,
+      "glyph_id": 83,
       "char": "イ",
-      "hex_bytes": "56",
+      "hex_bytes": "53",
       "unicode": "U+30A4",
       "is_kanji": false
     },
     {
-      "glyph_id": 87,
+      "glyph_id": 84,
       "char": "ウ",
-      "hex_bytes": "57",
+      "hex_bytes": "54",
       "unicode": "U+30A6",
       "is_kanji": false
     },
     {
-      "glyph_id": 88,
+      "glyph_id": 85,
       "char": "エ",
-      "hex_bytes": "58",
+      "hex_bytes": "55",
       "unicode": "U+30A8",
       "is_kanji": false
     },
     {
-      "glyph_id": 89,
+      "glyph_id": 86,
       "char": "オ",
-      "hex_bytes": "59",
+      "hex_bytes": "56",
       "unicode": "U+30AA",
       "is_kanji": false
     },
     {
-      "glyph_id": 90,
+      "glyph_id": 87,
       "char": "カ",
-      "hex_bytes": "5a",
+      "hex_bytes": "57",
       "unicode": "U+30AB",
       "is_kanji": false
     },
     {
-      "glyph_id": 91,
+      "glyph_id": 88,
       "char": "キ",
-      "hex_bytes": "5b",
+      "hex_bytes": "58",
       "unicode": "U+30AD",
       "is_kanji": false
     },
     {
-      "glyph_id": 92,
+      "glyph_id": 89,
       "char": "ク",
-      "hex_bytes": "5c",
+      "hex_bytes": "59",
       "unicode": "U+30AF",
       "is_kanji": false
     },
     {
-      "glyph_id": 93,
+      "glyph_id": 90,
       "char": "ケ",
-      "hex_bytes": "5d",
+      "hex_bytes": "5a",
       "unicode": "U+30B1",
       "is_kanji": false
     },
     {
-      "glyph_id": 94,
+      "glyph_id": 91,
       "char": "コ",
-      "hex_bytes": "5e",
+      "hex_bytes": "5b",
       "unicode": "U+30B3",
       "is_kanji": false
     },
     {
-      "glyph_id": 95,
+      "glyph_id": 92,
       "char": "サ",
-      "hex_bytes": "5f",
+      "hex_bytes": "5c",
       "unicode": "U+30B5",
       "is_kanji": false
     },
     {
-      "glyph_id": 96,
+      "glyph_id": 93,
       "char": "シ",
-      "hex_bytes": "60",
+      "hex_bytes": "5d",
       "unicode": "U+30B7",
       "is_kanji": false
     },
     {
-      "glyph_id": 97,
+      "glyph_id": 94,
       "char": "ス",
-      "hex_bytes": "61",
+      "hex_bytes": "5e",
       "unicode": "U+30B9",
       "is_kanji": false
     },
     {
-      "glyph_id": 98,
+      "glyph_id": 95,
       "char": "セ",
-      "hex_bytes": "62",
+      "hex_bytes": "5f",
       "unicode": "U+30BB",
       "is_kanji": false
     },
     {
-      "glyph_id": 99,
+      "glyph_id": 96,
       "char": "ソ",
-      "hex_bytes": "63",
+      "hex_bytes": "60",
       "unicode": "U+30BD",
       "is_kanji": false
     },
     {
-      "glyph_id": 100,
+      "glyph_id": 97,
       "char": "タ",
-      "hex_bytes": "64",
+      "hex_bytes": "61",
       "unicode": "U+30BF",
       "is_kanji": false
     },
     {
-      "glyph_id": 101,
+      "glyph_id": 98,
       "char": "チ",
-      "hex_bytes": "65",
+      "hex_bytes": "62",
       "unicode": "U+30C1",
       "is_kanji": false
     },
     {
-      "glyph_id": 102,
+      "glyph_id": 99,
       "char": "ツ",
-      "hex_bytes": "66",
+      "hex_bytes": "63",
       "unicode": "U+30C4",
       "is_kanji": false
     },
     {
-      "glyph_id": 103,
+      "glyph_id": 100,
       "char": "テ",
-      "hex_bytes": "67",
+      "hex_bytes": "64",
       "unicode": "U+30C6",
       "is_kanji": false
     },
     {
-      "glyph_id": 104,
+      "glyph_id": 101,
       "char": "ト",
-      "hex_bytes": "68",
+      "hex_bytes": "65",
       "unicode": "U+30C8",
       "is_kanji": false
     },
     {
-      "glyph_id": 105,
+      "glyph_id": 102,
       "char": "ナ",
-      "hex_bytes": "69",
+      "hex_bytes": "66",
       "unicode": "U+30CA",
       "is_kanji": false
     },
     {
-      "glyph_id": 106,
+      "glyph_id": 103,
       "char": "ニ",
-      "hex_bytes": "6a",
+      "hex_bytes": "67",
       "unicode": "U+30CB",
       "is_kanji": false
     },
     {
-      "glyph_id": 107,
+      "glyph_id": 104,
       "char": "ヌ",
-      "hex_bytes": "6b",
+      "hex_bytes": "68",
       "unicode": "U+30CC",
       "is_kanji": false
     },
     {
-      "glyph_id": 108,
+      "glyph_id": 105,
       "char": "ネ",
-      "hex_bytes": "6c",
+      "hex_bytes": "69",
       "unicode": "U+30CD",
       "is_kanji": false
     },
     {
-      "glyph_id": 109,
+      "glyph_id": 106,
       "char": "ノ",
-      "hex_bytes": "6d",
+      "hex_bytes": "6a",
       "unicode": "U+30CE",
       "is_kanji": false
     },
     {
-      "glyph_id": 110,
+      "glyph_id": 107,
       "char": "ハ",
-      "hex_bytes": "6e",
+      "hex_bytes": "6b",
       "unicode": "U+30CF",
       "is_kanji": false
     },
     {
-      "glyph_id": 111,
+      "glyph_id": 108,
       "char": "ヒ",
-      "hex_bytes": "6f",
+      "hex_bytes": "6c",
       "unicode": "U+30D2",
       "is_kanji": false
     },
     {
-      "glyph_id": 112,
+      "glyph_id": 109,
       "char": "フ",
-      "hex_bytes": "70",
+      "hex_bytes": "6d",
       "unicode": "U+30D5",
       "is_kanji": false
     },
     {
-      "glyph_id": 113,
+      "glyph_id": 110,
       "char": "ヘ",
-      "hex_bytes": "71",
+      "hex_bytes": "6e",
       "unicode": "U+30D8",
       "is_kanji": false
     },
     {
-      "glyph_id": 114,
+      "glyph_id": 111,
       "char": "ホ",
-      "hex_bytes": "72",
+      "hex_bytes": "6f",
       "unicode": "U+30DB",
       "is_kanji": false
     },
     {
-      "glyph_id": 115,
+      "glyph_id": 112,
       "char": "マ",
-      "hex_bytes": "73",
+      "hex_bytes": "70",
       "unicode": "U+30DE",
       "is_kanji": false
     },
     {
-      "glyph_id": 116,
+      "glyph_id": 113,
       "char": "ミ",
-      "hex_bytes": "74",
+      "hex_bytes": "71",
       "unicode": "U+30DF",
       "is_kanji": false
     },
     {
-      "glyph_id": 117,
+      "glyph_id": 114,
       "char": "ム",
-      "hex_bytes": "75",
+      "hex_bytes": "72",
       "unicode": "U+30E0",
       "is_kanji": false
     },
     {
-      "glyph_id": 118,
+      "glyph_id": 115,
       "char": "メ",
-      "hex_bytes": "76",
+      "hex_bytes": "73",
       "unicode": "U+30E1",
       "is_kanji": false
     },
     {
-      "glyph_id": 119,
+      "glyph_id": 116,
       "char": "モ",
-      "hex_bytes": "77",
+      "hex_bytes": "74",
       "unicode": "U+30E2",
       "is_kanji": false
     },
     {
-      "glyph_id": 120,
+      "glyph_id": 117,
       "char": "ヤ",
-      "hex_bytes": "78",
+      "hex_bytes": "75",
       "unicode": "U+30E4",
       "is_kanji": false
     },
     {
-      "glyph_id": 121,
+      "glyph_id": 118,
       "char": "ユ",
-      "hex_bytes": "79",
+      "hex_bytes": "76",
       "unicode": "U+30E6",
       "is_kanji": false
     },
     {
-      "glyph_id": 122,
+      "glyph_id": 119,
       "char": "ヨ",
-      "hex_bytes": "7a",
+      "hex_bytes": "77",
       "unicode": "U+30E8",
       "is_kanji": false
     },
     {
-      "glyph_id": 123,
+      "glyph_id": 120,
       "char": "ラ",
-      "hex_bytes": "7b",
+      "hex_bytes": "78",
       "unicode": "U+30E9",
       "is_kanji": false
     },
     {
-      "glyph_id": 124,
+      "glyph_id": 121,
       "char": "リ",
-      "hex_bytes": "7c",
+      "hex_bytes": "79",
       "unicode": "U+30EA",
       "is_kanji": false
     },
     {
-      "glyph_id": 125,
+      "glyph_id": 122,
       "char": "ル",
-      "hex_bytes": "7d",
+      "hex_bytes": "7a",
       "unicode": "U+30EB",
       "is_kanji": false
     },
     {
-      "glyph_id": 126,
+      "glyph_id": 123,
       "char": "レ",
-      "hex_bytes": "7e",
+      "hex_bytes": "7b",
       "unicode": "U+30EC",
       "is_kanji": false
     },
     {
-      "glyph_id": 127,
+      "glyph_id": 124,
       "char": "ロ",
-      "hex_bytes": "7f",
+      "hex_bytes": "7c",
       "unicode": "U+30ED",
       "is_kanji": false
     },
     {
-      "glyph_id": 128,
+      "glyph_id": 125,
       "char": "ワ",
-      "hex_bytes": "8080",
+      "hex_bytes": "7d",
       "unicode": "U+30EF",
       "is_kanji": false
     },
     {
-      "glyph_id": 129,
+      "glyph_id": 126,
       "char": "ヲ",
-      "hex_bytes": "8081",
+      "hex_bytes": "7e",
       "unicode": "U+30F2",
       "is_kanji": false
     },
     {
-      "glyph_id": 130,
+      "glyph_id": 127,
       "char": "ン",
-      "hex_bytes": "8082",
+      "hex_bytes": "7f",
       "unicode": "U+30F3",
       "is_kanji": false
     },
     {
-      "glyph_id": 131,
+      "glyph_id": 128,
       "char": "ガ",
-      "hex_bytes": "8083",
+      "hex_bytes": "8080",
       "unicode": "U+30AC",
       "is_kanji": false
     },
     {
-      "glyph_id": 132,
+      "glyph_id": 129,
       "char": "ギ",
-      "hex_bytes": "8084",
+      "hex_bytes": "8081",
       "unicode": "U+30AE",
       "is_kanji": false
     },
     {
-      "glyph_id": 133,
+      "glyph_id": 130,
       "char": "グ",
-      "hex_bytes": "8085",
+      "hex_bytes": "8082",
       "unicode": "U+30B0",
       "is_kanji": false
     },
     {
-      "glyph_id": 134,
+      "glyph_id": 131,
       "char": "ゲ",
-      "hex_bytes": "8086",
+      "hex_bytes": "8083",
       "unicode": "U+30B2",
       "is_kanji": false
     },
     {
-      "glyph_id": 135,
+      "glyph_id": 132,
       "char": "ゴ",
-      "hex_bytes": "8087",
+      "hex_bytes": "8084",
       "unicode": "U+30B4",
       "is_kanji": false
     },
     {
-      "glyph_id": 136,
+      "glyph_id": 133,
       "char": "ザ",
-      "hex_bytes": "8088",
+      "hex_bytes": "8085",
       "unicode": "U+30B6",
       "is_kanji": false
     },
     {
-      "glyph_id": 137,
+      "glyph_id": 134,
       "char": "ジ",
-      "hex_bytes": "8089",
+      "hex_bytes": "8086",
       "unicode": "U+30B8",
       "is_kanji": false
     },
     {
-      "glyph_id": 138,
+      "glyph_id": 135,
       "char": "ズ",
-      "hex_bytes": "808a",
+      "hex_bytes": "8087",
       "unicode": "U+30BA",
       "is_kanji": false
     },
     {
-      "glyph_id": 139,
+      "glyph_id": 136,
       "char": "ゼ",
-      "hex_bytes": "808b",
+      "hex_bytes": "8088",
       "unicode": "U+30BC",
       "is_kanji": false
     },
     {
-      "glyph_id": 140,
+      "glyph_id": 137,
       "char": "ゾ",
-      "hex_bytes": "808c",
+      "hex_bytes": "8089",
       "unicode": "U+30BE",
       "is_kanji": false
     },
     {
-      "glyph_id": 141,
+      "glyph_id": 138,
       "char": "ダ",
-      "hex_bytes": "808d",
+      "hex_bytes": "808a",
       "unicode": "U+30C0",
       "is_kanji": false
     },
     {
-      "glyph_id": 142,
+      "glyph_id": 139,
       "char": "ヂ",
-      "hex_bytes": "808e",
+      "hex_bytes": "808b",
       "unicode": "U+30C2",
       "is_kanji": false
     },
     {
-      "glyph_id": 143,
+      "glyph_id": 140,
       "char": "ヅ",
-      "hex_bytes": "808f",
+      "hex_bytes": "808c",
       "unicode": "U+30C5",
       "is_kanji": false
     },
     {
-      "glyph_id": 144,
+      "glyph_id": 141,
       "char": "デ",
-      "hex_bytes": "8090",
+      "hex_bytes": "808d",
       "unicode": "U+30C7",
       "is_kanji": false
     },
     {
-      "glyph_id": 145,
+      "glyph_id": 142,
       "char": "ド",
-      "hex_bytes": "8091",
+      "hex_bytes": "808e",
       "unicode": "U+30C9",
       "is_kanji": false
     },
     {
-      "glyph_id": 146,
+      "glyph_id": 143,
       "char": "バ",
-      "hex_bytes": "8092",
+      "hex_bytes": "808f",
       "unicode": "U+30D0",
       "is_kanji": false
     },
     {
-      "glyph_id": 147,
+      "glyph_id": 144,
       "char": "ビ",
-      "hex_bytes": "8093",
+      "hex_bytes": "8090",
       "unicode": "U+30D3",
       "is_kanji": false
     },
     {
-      "glyph_id": 148,
+      "glyph_id": 145,
       "char": "ブ",
-      "hex_bytes": "8094",
+      "hex_bytes": "8091",
       "unicode": "U+30D6",
       "is_kanji": false
     },
     {
-      "glyph_id": 149,
+      "glyph_id": 146,
       "char": "ベ",
-      "hex_bytes": "8095",
+      "hex_bytes": "8092",
       "unicode": "U+30D9",
       "is_kanji": false
     },
     {
-      "glyph_id": 150,
+      "glyph_id": 147,
       "char": "ボ",
-      "hex_bytes": "8096",
+      "hex_bytes": "8093",
       "unicode": "U+30DC",
       "is_kanji": false
     },
     {
-      "glyph_id": 151,
+      "glyph_id": 148,
       "char": "パ",
-      "hex_bytes": "8097",
+      "hex_bytes": "8094",
       "unicode": "U+30D1",
       "is_kanji": false
     },
     {
-      "glyph_id": 152,
+      "glyph_id": 149,
       "char": "ピ",
-      "hex_bytes": "8098",
+      "hex_bytes": "8095",
       "unicode": "U+30D4",
       "is_kanji": false
     },
     {
-      "glyph_id": 153,
+      "glyph_id": 150,
       "char": "プ",
-      "hex_bytes": "8099",
+      "hex_bytes": "8096",
       "unicode": "U+30D7",
       "is_kanji": false
     },
     {
-      "glyph_id": 154,
+      "glyph_id": 151,
       "char": "ペ",
-      "hex_bytes": "809a",
+      "hex_bytes": "8097",
       "unicode": "U+30DA",
       "is_kanji": false
     },
     {
-      "glyph_id": 155,
+      "glyph_id": 152,
       "char": "ポ",
-      "hex_bytes": "809b",
+      "hex_bytes": "8098",
       "unicode": "U+30DD",
       "is_kanji": false
     },
     {
-      "glyph_id": 156,
+      "glyph_id": 153,
       "char": "ァ",
-      "hex_bytes": "809c",
+      "hex_bytes": "8099",
       "unicode": "U+30A1",
       "is_kanji": false
     },
     {
-      "glyph_id": 157,
+      "glyph_id": 154,
       "char": "ィ",
-      "hex_bytes": "809d",
+      "hex_bytes": "809a",
       "unicode": "U+30A3",
       "is_kanji": false
     },
     {
-      "glyph_id": 158,
+      "glyph_id": 155,
       "char": "ゥ",
-      "hex_bytes": "809e",
+      "hex_bytes": "809b",
       "unicode": "U+30A5",
       "is_kanji": false
     },
     {
-      "glyph_id": 159,
+      "glyph_id": 156,
       "char": "ェ",
-      "hex_bytes": "809f",
+      "hex_bytes": "809c",
       "unicode": "U+30A7",
       "is_kanji": false
     },
     {
-      "glyph_id": 160,
+      "glyph_id": 157,
       "char": "ォ",
-      "hex_bytes": "80a0",
+      "hex_bytes": "809d",
       "unicode": "U+30A9",
       "is_kanji": false
     },
     {
-      "glyph_id": 161,
+      "glyph_id": 158,
       "char": "ャ",
-      "hex_bytes": "80a1",
+      "hex_bytes": "809e",
       "unicode": "U+30E3",
       "is_kanji": false
     },
     {
-      "glyph_id": 162,
+      "glyph_id": 159,
+      "char": "ッ",
+      "hex_bytes": "809f",
+      "unicode": "U+30C3",
+      "is_kanji": false
+    },
+    {
+      "glyph_id": 160,
       "char": "ュ",
-      "hex_bytes": "80a2",
+      "hex_bytes": "80a0",
       "unicode": "U+30E5",
       "is_kanji": false
     },
     {
-      "glyph_id": 163,
+      "glyph_id": 161,
       "char": "ョ",
-      "hex_bytes": "80a3",
+      "hex_bytes": "80a1",
       "unicode": "U+30E7",
+      "is_kanji": false
+    },
+    {
+      "glyph_id": 162,
+      "char": "ー",
+      "hex_bytes": "80a2",
+      "unicode": "U+30FC",
+      "is_kanji": false
+    },
+    {
+      "glyph_id": 163,
+      "char": "ヮ",
+      "hex_bytes": "80a3",
+      "unicode": "U+30EE",
       "is_kanji": false
     },
     {
@@ -1431,9 +1431,9 @@
     },
     {
       "glyph_id": 204,
-      "char": "~",
+      "char": "ー",
       "hex_bytes": "80cc",
-      "unicode": "U+007E",
+      "unicode": "U+30FC",
       "is_kanji": false
     },
     {
@@ -1445,16 +1445,16 @@
     },
     {
       "glyph_id": 206,
-      "char": "・",
+      "char": "'",
       "hex_bytes": "80ce",
-      "unicode": "U+30FB",
+      "unicode": "U+0027",
       "is_kanji": false
     },
     {
       "glyph_id": 207,
-      "char": "。",
+      "char": ",",
       "hex_bytes": "80cf",
-      "unicode": "U+3002",
+      "unicode": "U+002C",
       "is_kanji": false
     },
     {
@@ -1501,9 +1501,9 @@
     },
     {
       "glyph_id": 214,
-      "char": "'",
+      "char": "~",
       "hex_bytes": "80d6",
-      "unicode": "U+0027",
+      "unicode": "U+007E",
       "is_kanji": false
     },
     {

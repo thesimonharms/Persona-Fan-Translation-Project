@@ -42,11 +42,11 @@ def patch_namedt(orig_namedt_path: str = "extracted/NAMEDT.BIN", out_namedt_path
         "9", ".", ",", "'", "/"
     ]
 
-    # Encode grid to game bytes
+    # Encode grid to game 16-bit glyph IDs
     encoded_grid = bytearray()
     for char in english_grid:
-        enc = ft.encode_text(char)
-        encoded_grid.extend(enc)
+        gid = ft.reverse_map.get(char, 0)
+        encoded_grid.extend(struct.pack("<H", gid))
 
     # Patch Table 8 (offset 0x1034)
     t8_offset = 0x1034

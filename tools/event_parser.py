@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
 """
 tools/event_parser.py - Story Event Container Decompiler (E0.BIN .. E3.BIN, ADVCMD.BIN, DVL.BIN)
-Extracts, translates, and recompiles the core story cutscenes (Classroom, Philemon, Hospital, Invasion).
+Extracts and decompiles the core story cutscenes (Classroom, Philemon, Hospital, Invasion)
+using container sector tables and subfile RAM headers rather than blind regex scanning.
 """
 
 import os
 import sys
 import json
 import struct
-import re
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from tools.font_tool import PersonaFontTool
-from tools.translate_pipeline import TranslationValidator
 
 
 class PersonaEventParser:
@@ -28,52 +27,56 @@ class PersonaEventParser:
         """Extracts dialogue strings and control tags from an event package (e.g. E0.BIN)."""
         path = Path(bin_path)
         data = path.read_bytes()
+        if len(data) < 2048:
+            return {"file": path.name, "type": "STORY_EVENT_PACKAGE", "total_strings": 0, "entries": []}
 
-        # Find string boundaries using control codes and string terminators
+        # Sector 0 contains 16-bit subfile sector offsets
+        sec0 = data[:2048]
+        sectors = []
+        for i in range(1024):
+            s = struct.unpack("<H", sec0[i * 2 : (i + 1) * 2])[0]
+            if s == 0:
+                break
+            sectors.append(s)
+
         entries = []
-        visited_offsets = set()
-
-        matches = [m.start() for m in re.finditer(b'\xff[\xf3\xf5\xf6\xfc\xfd\xfe]', data)]
-        for m_idx, offset in enumerate(matches):
-            if offset in visited_offsets:
+        for sub_idx, s in enumerate(sectors):
+            start = s * 2048
+            end = sectors[sub_idx + 1] * 2048 if sub_idx + 1 < len(sectors) else len(data)
+            sub = data[start:end]
+            if len(sub) < 16:
                 continue
 
-            start = offset
-            while start > 0 and (offset - start) < 256:
-                b = data[start - 1]
-                if b == 0x00:
-                    break
-                start -= 1
-
-            end = offset
-            while end < len(data) and (end - offset) < 512:
-                b = data[end]
-                if b == 0x00 or (b == 0xFF and end + 1 < len(data) and data[end + 1] in (0xFC, 0xFE)):
-                    if b == 0xFF:
-                        end += 2
-                    break
-                end += 1
-
-            raw_chunk = data[start:end].lstrip(b"\x00\xff").rstrip(b"\x00")
-            if len(raw_chunk) >= 4:
-                for off in range(start, end):
-                    visited_offsets.add(off)
-
-                text_jp = self.font_tool.decode_bytes(raw_chunk)
-                if any(c in self.font_tool.char_map.values() for c in text_jp):
-                    entries.append({
-                        "id": len(entries),
-                        "offset": start,
-                        "length_bytes": len(raw_chunk),
-                        "raw_hex": raw_chunk.hex(),
-                        "text_jp": text_jp,
-                        "translation_en": ""
-                    })
+            p0 = struct.unpack("<I", sub[:4])[0]
+            if (p0 & 0xFF000000) == 0x80000000:
+                base_ram = p0 & 0xFFFF0000
+                p1 = struct.unpack("<I", sub[4:8])[0]
+                rel_p1 = p1 - base_ram
+                if 0 < rel_p1 < len(sub):
+                    raw_chunk = sub[rel_p1:].rstrip(b"\x00")
+                    if len(raw_chunk) >= 4:
+                        text_jp = self.font_tool.decode_bytes(raw_chunk)
+                        # Check if text contains Japanese kana or kanji
+                        has_text = any(ord(c) > 127 or c in ":!?「」" for c in text_jp)
+                        if has_text:
+                            entries.append({
+                                "id": len(entries),
+                                "subfile_index": sub_idx,
+                                "sector": s,
+                                "subfile_offset": start,
+                                "subfile_size": len(sub),
+                                "text_relative_offset": rel_p1,
+                                "length_bytes": len(raw_chunk),
+                                "raw_hex": raw_chunk.hex(),
+                                "text_jp": text_jp,
+                                "translation_en": ""
+                            })
 
         return {
             "file": path.name,
             "type": "STORY_EVENT_PACKAGE",
-            "total_strings": len(entries),
+            "total_subfiles": len(sectors),
+            "total_dialogue_subfiles": len(entries),
             "entries": entries
         }
 
@@ -98,9 +101,13 @@ class PersonaEventParser:
                 p = Path(ef)
                 out_path = out_dir / f"{p.stem}.json"
                 out_path.write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")
-                print(f"[+] Decompiled {p.name:<14} -> events/{p.stem}.json ({res['total_strings']:4d} strings)")
+                print(f"[+] Decompiled {p.name} -> events/{p.stem}.json ({res['total_dialogue_subfiles']} dialogue subfiles)")
+
+
+def main():
+    parser = PersonaEventParser()
+    parser.decompile_all_events()
 
 
 if __name__ == "__main__":
-    parser = PersonaEventParser()
-    parser.decompile_all_events()
+    main()

@@ -38,9 +38,9 @@ CHAR_TO_1BYTE_GLYPH = {
 for i in range(26):
     CHAR_TO_1BYTE_GLYPH[chr(ord('A') + i)] = 166 + i
 
-# Add lowercase a..z (Glyphs 218..243 / 0xDA..0xF3)
+# Add lowercase a..z (Glyphs 247..272 / 0xF7..0x110)
 for i in range(26):
-    CHAR_TO_1BYTE_GLYPH[chr(ord('a') + i)] = 218 + i
+    CHAR_TO_1BYTE_GLYPH[chr(ord('a') + i)] = 247 + i
 
 # Add digits 0..9 (Glyphs 192..201 / 0xC0..0xC9)
 for i in range(10):
@@ -134,8 +134,10 @@ class PersonaMStructEncoder:
         buf = bytearray(LINE_SIZE)
         encoded_bytes = bytearray()
         for char in line_text:
-            b_val = CHAR_TO_1BYTE_GLYPH.get(char, 0x20)
-            encoded_bytes.append(b_val)
+            b_val = CHAR_TO_1BYTE_GLYPH.get(char)
+            if b_val is None or b_val > 255:
+                b_val = CHAR_TO_1BYTE_GLYPH.get(char.upper(), 0x20)
+            encoded_bytes.append(b_val & 0xFF)
 
         fit_len = min(len(encoded_bytes), LINE_SIZE)
         buf[:fit_len] = encoded_bytes[:fit_len]

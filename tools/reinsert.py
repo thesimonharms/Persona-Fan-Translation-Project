@@ -122,9 +122,9 @@ def encode_text(text: str, orig_raw: bytes = None):
 
 
 def encode_gid(gid: int) -> bytes:
+    """All glyphs >= 128 MUST use 2-byte form. Single bytes >= 0x88 are NOT
+    valid text codes — the renderer treats any high byte as a lead."""
     if gid < 0x80:
-        return bytes([gid])
-    if 0x88 <= gid <= 0xFF:
         return bytes([gid])
     return bytes([0x80 | (gid >> 8), gid & 0xFF])
 

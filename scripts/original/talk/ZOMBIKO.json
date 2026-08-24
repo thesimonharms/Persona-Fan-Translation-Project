@@ -9,7 +9,7 @@
       "target_offset": 8192,
       "length_bytes": 15,
       "raw_hex": "2e2e0082674d13290a141a70657418",
-      "text_jp": "んん 顎ゃてることはフチミね",
+      "text_jp": "んん 顎ゃてることはマトモね",
       "translation_en": ""
     },
     {
@@ -18,7 +18,7 @@
       "target_offset": 8227,
       "length_bytes": 57,
       "raw_hex": "f623030052615d161a832483961502093dfff582d80210824c150a140082672c15023c80d1fff6527f611a001f3981fc071329080e1680d181",
-      "text_jp": "!?もう ヴスケには弓具ないけど<LINE>器いた柿なこと 顎わないで!<PAGE>ヴロスは まだ河きてるくせに!",
+      "text_jp": "\\xf6もう アタシには弓具ないけど<LINE>器いた柿なこと 顎わないで!<PAGE>アンタは まだ河きてるくせに!\\x81",
       "translation_en": ""
     },
     {
@@ -27,7 +27,7 @@
       "target_offset": 8285,
       "length_bytes": 25,
       "raw_hex": "b7816981342e3c06270082674d13261880d1fff554603e4d06",
-      "text_jp": "R因庵んでから 顎ゃてよね!<LINE>オシばゃか",
+      "text_jp": "\\xb7因庵んでから 顎ゃてよね!<LINE>ウソばゃか",
       "translation_en": ""
     },
     {
@@ -36,7 +36,7 @@
       "target_offset": 8310,
       "length_bytes": 36,
       "raw_hex": "2880d1fff6230300391f0b2a15022c2680d1fff552615d001f39008176814381b880d0ff",
-      "text_jp": "り!<PAGE>もう だまされないわよ!<LINE>ヴスケ まだ 宇威演?",
+      "text_jp": "り!<PAGE>もう だまされないわよ!<LINE>アタシ まだ 宇威演?\\xff",
       "translation_en": ""
     },
     {
@@ -45,7 +45,7 @@
       "target_offset": 8346,
       "length_bytes": 38,
       "raw_hex": "f60f2a39092f0082de8301394d10192680d7fff5031c1c1c80d7fffcfff60583270c16005261",
-      "text_jp": "!?それだけが 希戯だゃたのよ…<LINE>うふふふ…<CLOSE><PAGE>お朽しに ヴス",
+      "text_jp": "\\xf6それだけが 希戯だゃたのよ…<LINE>うふふふ…<CLOSE><PAGE>お朽しに アタ",
       "translation_en": ""
     },
     {
@@ -54,7 +54,7 @@
       "target_offset": 8384,
       "length_bytes": 35,
       "raw_hex": "703c23fff683074d13200e1f0c50030680d0fff501010024221380d7fffcfff6011f28",
-      "text_jp": "フでも<PAGE>祇ゃてみせましっうか?<LINE>ああ やめて…<CLOSE><PAGE>あまり",
+      "text_jp": "マでも<PAGE>祇ゃてみせましっうか?<LINE>ああ やめて…<CLOSE><PAGE>あまり",
       "translation_en": ""
     },
     {
@@ -63,7 +63,7 @@
       "target_offset": 8419,
       "length_bytes": 36,
       "raw_hex": "81540814fff685fa2a114e03192680a180d7fff5150082d70d291980d0fff6821085ff2f",
-      "text_jp": "違くと<PAGE>獣れちゅうのよャ…<LINE>な 喜するの?<PAGE>蚊夙が",
+      "text_jp": "違くと<PAGE>獣れちゅうのよョ…<LINE>な 喜するの?<PAGE>蚊夙が",
       "translation_en": ""
     },
     {
@@ -81,7 +81,7 @@
       "target_offset": 8466,
       "length_bytes": 25,
       "raw_hex": "4d10354e150280d1fff50224010180cc80d1fff5811184f615",
-      "text_jp": "ゃたじゅない!<LINE>いやああ~!<LINE>々細な",
+      "text_jp": "ゃたじゅない!<LINE>いやああー!<LINE>々細な",
       "translation_en": ""
     },
     {
@@ -90,7 +90,7 @@
       "target_offset": 8491,
       "length_bytes": 29,
       "raw_hex": "0a140d291918fff6834a4d114e4d102c80d7fff5031c1c0052615d1452",
-      "text_jp": "ことするのね<PAGE>競ゃちゅゃたわ…<LINE>うふふ ヴスケとヴ",
+      "text_jp": "ことするのね<PAGE>競ゃちゅゃたわ…<LINE>うふふ アタシとア",
       "translation_en": ""
     },
     {
@@ -99,7 +99,7 @@
       "target_offset": 8520,
       "length_bytes": 40,
       "raw_hex": "7f6114fff63d4d112f0081f702060c2780d0fff5020219260083bd4d13152e060215022c10390052",
-      "text_jp": "ロスと<PAGE>どゃちが 科いかしら?<LINE>いいのよ 刑ゃてなんかいないわただ ヴ",
+      "text_jp": "ンタと<PAGE>どゃちが 科いかしら?<LINE>いいのよ 刑ゃてなんかいないわただ ア",
       "translation_en": ""
     },
     {
@@ -108,7 +108,7 @@
       "target_offset": 8560,
       "length_bytes": 43,
       "raw_hex": "7f612dfff6819c8125160c100239092680d7fff5527f61180480d1fff65259708157832f152e390627fff6",
-      "text_jp": "ロスを<PAGE>瑛梓にしたいだけよ…<LINE>ヴロスねえ!<PAGE>ヴオフ井笈なんだから<PAGE>",
+      "text_jp": "ンタを<PAGE>瑛梓にしたいだけよ…<LINE>アンタねえ!<PAGE>アクマ井笈なんだから<PAGE>",
       "translation_en": ""
     },
     {
@@ -117,7 +117,7 @@
       "target_offset": 8603,
       "length_bytes": 50,
       "raw_hex": "81670c1a00853b2f28150b02264d80d1fff5fff5234d14853b0281aa2d82574d130132292cfff66c7c537f1a00527f6126ff",
-      "text_jp": "咽しは 酸がりなさいよゃ!<LINE><LINE>もゃと酸い越を殻ゃてあげるわ<PAGE>ネリノロは ヴロスよ",
+      "text_jp": "咽しは 酸がりなさいよゃ!<LINE><LINE>もゃと酸い越を殻ゃてあげるわ<PAGE>ヒロインは アンタよ\\xff",
       "translation_en": ""
     },
     {
@@ -126,7 +126,7 @@
       "target_offset": 8653,
       "length_bytes": 48,
       "raw_hex": "fcfff60b0100840c853b19834f1f282680d1fff51100fffc114d142300853b0815022c80d7fffcfff6851f0413293c0d",
-      "text_jp": "f<PAGE>さあ 見酸の卿まりよ!<LINE>ち <CLOSE>ちゃとも 酸くないわ…<CLOSE><PAGE>擦えてるです",
+      "text_jp": "\\xfc<PAGE>さあ 見酸の卿まりよ!<LINE>ち <CLOSE>ちゃとも 酸くないわ…<CLOSE><PAGE>擦えてるです",
       "translation_en": ""
     },
     {
@@ -144,7 +144,7 @@
       "target_offset": 8744,
       "length_bytes": 37,
       "raw_hex": "1375632dfff681bc271502192618809d80d1fff5812481fc1981f184773c0129000a195261",
-      "text_jp": "てムソを<PAGE>燕らないのよねィ!<LINE>鯵河の可晃である このヴス",
+      "text_jp": "てヤツを<PAGE>燕らないのよねォ!<LINE>鯵河の可晃である このアタ",
       "translation_en": ""
     },
     {
@@ -153,7 +153,7 @@
       "target_offset": 8781,
       "length_bytes": 31,
       "raw_hex": "5d1626080f2e1582ca2f000709292c1880d1fff50180d7010180d7fffcfff6",
-      "text_jp": "ケによくそんな玩が きけるわね!<LINE>あ…ああ…<CLOSE><PAGE>",
+      "text_jp": "シによくそんな玩が きけるわね!<LINE>あ…ああ…<CLOSE><PAGE>",
       "translation_en": ""
     },
     {
@@ -162,7 +162,7 @@
       "target_offset": 8812,
       "length_bytes": 27,
       "raw_hex": "2480d724221380d7fffcfff62422132680d7fff5084d084d084d80",
-      "text_jp": "や…やめて…<CLOSE><PAGE>やめてよ…<LINE>くゃくゃくゃ",
+      "text_jp": "や…やめて…<CLOSE><PAGE>やめてよ…<LINE>くゃくゃくゃ\\x80",
       "translation_en": ""
     },
     {
@@ -171,7 +171,7 @@
       "target_offset": 8839,
       "length_bytes": 45,
       "raw_hex": "d7fffcfff6022b2e150a14000d29191880d1fff5230300846c1952615d354e1502192680d7fffc527f61152e06",
-      "text_jp": "…<CLOSE><PAGE>いろんなこと するのね!<LINE>もう 広のヴスケじゅないのよ…<CLOSE>ヴロスなんか",
+      "text_jp": "\\xd7<CLOSE><PAGE>いろんなこと するのね!<LINE>もう 広のアタシじゅないのよ…<CLOSE>アンタなんか",
       "translation_en": ""
     },
     {
@@ -180,7 +180,7 @@
       "target_offset": 8884,
       "length_bytes": 33,
       "raw_hex": "16fff6023522272a1300101f29232e0680d1fff5527f611a000f2a3c02021980d0",
-      "text_jp": "に<PAGE>いじめられて たまるもんか!<LINE>ヴロスは それでいいの?",
+      "text_jp": "に<PAGE>いじめられて たまるもんか!<LINE>アンタは それでいいの?",
       "translation_en": ""
     },
     {
@@ -189,7 +189,7 @@
       "target_offset": 8917,
       "length_bytes": 42,
       "raw_hex": "f681503c0085220615023c115003390218fff581f702824e1a0082800739093dfff652615d198206821a",
-      "text_jp": "!?胃で 薩かないでちっうだいね<LINE>科い鈎は 兜きだけど<PAGE>ヴスケの荷雅",
+      "text_jp": "\\xf6胃で 薩かないでちっうだいね<LINE>科い鈎は 兜きだけど<PAGE>アタシの荷雅",
       "translation_en": ""
     },
     {
@@ -198,7 +198,7 @@
       "target_offset": 8960,
       "length_bytes": 34,
       "raw_hex": "8195819a4d13fff6252f2e3c29192618809dfff511504d1482eb4d132680d7fffcff",
-      "text_jp": "影泳ゃて<PAGE>ゆがんでるのよねィ<LINE>ちっゃと気ゃてよ…<CLOSE>",
+      "text_jp": "影泳ゃて<PAGE>ゆがんでるのよねォ<LINE>ちっゃと気ゃてよ…<CLOSE>\\xff",
       "translation_en": ""
     },
     {
@@ -207,7 +207,7 @@
       "target_offset": 8994,
       "length_bytes": 30,
       "raw_hex": "f652615d2f0082d70c104d138267031980d7fff552615d23859208154d11",
-      "text_jp": "!?ヴスケが 喜したゃて顎うの…<LINE>ヴスケも執くなゃち",
+      "text_jp": "\\xf6アタシが 喜したゃて顎うの…<LINE>アタシも執くなゃち",
       "translation_en": ""
     },
     {
@@ -216,7 +216,7 @@
       "target_offset": 9024,
       "length_bytes": 54,
       "raw_hex": "4e4d102c18809d83bd298218230c15022c26fff5527f611682672c2a15084d104d13fff68237064d13292c80d7fffc390627021223ff",
-      "text_jp": "ゅゃたわねィ刑る蛾もしないわよ<LINE>ヴロスに顎われなくゃたゃて<PAGE>階かゃてるわ…<CLOSE>だからいつも",
+      "text_jp": "ゅゃたわねォ刑る蛾もしないわよ<LINE>アンタに顎われなくゃたゃて<PAGE>階かゃてるわ…<CLOSE>だからいつも\\xff",
       "translation_en": ""
     },
     {
@@ -225,7 +225,7 @@
       "target_offset": 9078,
       "length_bytes": 56,
       "raw_hex": "f6823882161015022603160c1310191680d1fff581248125394d1084b51a00527f6120100215828500814f82ae828007394d101926fffcff",
-      "text_jp": "!?貝臥たないようにしてたのに!<LINE>鯵梓だゃた獄は ヴロスみたいな噛 緯甘兜きだゃたのよ<CLOSE>",
+      "text_jp": "\\xf6貝臥たないようにしてたのに!<LINE>鯵梓だゃた獄は アンタみたいな噛 緯甘兜きだゃたのよ<CLOSE>\\xff",
       "translation_en": ""
     },
     {
@@ -234,7 +234,7 @@
       "target_offset": 9134,
       "length_bytes": 19,
       "raw_hex": "f6821d064d10192618809d0052615d2380d1ff",
-      "text_jp": "!?介かゃたのよねィ ヴスケも!",
+      "text_jp": "\\xf6介かゃたのよねォ アタシも!\\xff",
       "translation_en": ""
     },
     {
@@ -243,7 +243,7 @@
       "target_offset": 9153,
       "length_bytes": 29,
       "raw_hex": "f51e2213021039021300846d8520392c809afff50127480015481680d0",
-      "text_jp": "♂ほめていただいて 庚札だわペ<LINE>あらぁ なぁに?",
+      "text_jp": "\\xf5ほめていただいて 庚札だわィ<LINE>あらぁ なぁに?",
       "translation_en": ""
     },
     {
@@ -252,7 +252,7 @@
       "target_offset": 9182,
       "length_bytes": 32,
       "raw_hex": "f6051f1f33143c23000c4f2919809e80d0fff50a03821b0413230052615d00ff",
-      "text_jp": "!?おままごとでも しょるのゥ?<LINE>こう餓えても ヴスケ ",
+      "text_jp": "\\xf6おままごとでも しょるのャ?<LINE>こう餓えても アタシ \\xff",
       "translation_en": ""
     },
     {
@@ -261,7 +261,7 @@
       "target_offset": 9215,
       "length_bytes": 36,
       "raw_hex": "f6814f82ae00824e82dd828007394d101926fff552615d1984a3284d13fff6230300820c",
-      "text_jp": "!?緯甘 鈎岐兜きだゃたのよ<LINE>ヴスケの剛りゃて<PAGE>もう 貨",
+      "text_jp": "\\xf6緯甘 鈎岐兜きだゃたのよ<LINE>アタシの剛りゃて<PAGE>もう 貨",
       "translation_en": ""
     },
     {
@@ -270,7 +270,7 @@
       "target_offset": 9251,
       "length_bytes": 52,
       "raw_hex": "0219060c2780d0fff60f2a2f008210824826fff582d726006e80a16159601880d1fff681118145000f2e151984cb13114efff683",
-      "text_jp": "いのかしら?<PAGE>それが 蚊浬よ<LINE>喜よ ハャスオシね!<PAGE>々惟 そんなの混てちゅ<PAGE>",
+      "text_jp": "いのかしら?<PAGE>それが 蚊浬よ<LINE>喜よ ヘョタクソね!<PAGE>々惟 そんなの混てちゅ<PAGE>\\x83",
       "translation_en": ""
     },
     {
@@ -279,7 +279,7 @@
       "target_offset": 9303,
       "length_bytes": 35,
       "raw_hex": "c981b362809d80a1593c818622272a292c26fff5031c1c00808b7f5e1527001f060e13",
-      "text_jp": "9延セィャオで鰻められるわよ<LINE>うふふ ゼロコなら まかせて",
+      "text_jp": "\\xc9延チォョクで鰻められるわよ<LINE>うふふ ヂンスなら まかせて",
       "translation_en": ""
     },
     {
@@ -288,7 +288,7 @@
       "target_offset": 9338,
       "length_bytes": 54,
       "raw_hex": "26846c1a008525824184a34d13102e392319fff5811181660059785e198124821881844d13140a18fffc527f611981a0847b15808280",
-      "text_jp": "よ広は 鯖涯剛ゃてたんだもの<LINE>々印 オヤコの鯵蛾欝ゃてとこね<CLOSE>ヴロスの英梗なン",
+      "text_jp": "よ広は 鯖涯剛ゃてたんだもの<LINE>々印 クラスの鯵蛾欝ゃてとこね<CLOSE>アンタの英梗なグ\\x80",
       "translation_en": ""
     },
     {
@@ -297,7 +297,7 @@
       "target_offset": 9392,
       "length_bytes": 47,
       "raw_hex": "a28083fff652615d230082f202354e15022cfff5527f6119808280a2808300834a041502192680d182c7060082674d",
-      "text_jp": "ュガ<PAGE>ヴスケも 徽いじゅないわ<LINE>ヴロスのンュガ 競えないのよ!含か 顎ゃ",
+      "text_jp": "\\xa2ゲ<PAGE>アタシも 徽いじゅないわ<LINE>アンタのグーゲ 競えないのよ!含か 顎ゃ",
       "translation_en": ""
     },
     {
@@ -315,7 +315,7 @@
       "target_offset": 9469,
       "length_bytes": 38,
       "raw_hex": "fcfff60a19005c7202856a81a7821880d7fff50a0a4d131800011f28fff6841a8460020a142f",
-      "text_jp": "f<PAGE>この クホい誌駅蛾…<LINE>ここゃてね あまり<PAGE>弦后いことが",
+      "text_jp": "\\xfc<PAGE>この サムい誌駅蛾…<LINE>ここゃてね あまり<PAGE>弦后いことが",
       "translation_en": ""
     },
     {
@@ -333,7 +333,7 @@
       "target_offset": 9523,
       "length_bytes": 49,
       "raw_hex": "2c80d1fff58382816800811f2a13150280d0fff582800715390900824f032f02022c80d1fff60d311600527f61196a808f",
-      "text_jp": "わ!<LINE>菌員 握れてない?<LINE>兜きなだけ 劃うがいいわ!<PAGE>すぐに ヴロスのニヅ",
+      "text_jp": "わ!<LINE>菌員 握れてない?<LINE>兜きなだけ 劃うがいいわ!<PAGE>すぐに アンタのノバ",
       "translation_en": ""
     },
     {
@@ -351,7 +351,7 @@
       "target_offset": 9603,
       "length_bytes": 32,
       "raw_hex": "838283d70081980b15023c26809e80cc80d1fff5010100230381b7816939093c",
-      "text_jp": "菌茎 栄さないでよゥ~!<LINE>ああ もう沿因だけで",
+      "text_jp": "菌茎 栄さないでよャー!<LINE>ああ もう沿因だけで",
       "translation_en": ""
     },
     {
@@ -360,7 +360,7 @@
       "target_offset": 9635,
       "length_bytes": 38,
       "raw_hex": "02022cfff65778565a0081d20710024d80d1fff583c5863680d780d7fffcfff68146809b858a",
-      "text_jp": "いいわ<PAGE>ウヤイカ 殴きたいゃ!<LINE>径勝……<CLOSE><PAGE>意ポ識",
+      "text_jp": "いいわ<PAGE>カラオケ 殴きたいゃ!<LINE>径勝……<CLOSE><PAGE>意ゥ識",
       "translation_en": ""
     },
     {
@@ -378,7 +378,7 @@
       "target_offset": 9705,
       "length_bytes": 26,
       "raw_hex": "f682d681691a00821b81364d13200e292cfff5022b022b00014d",
-      "text_jp": "!?危因は 餓暗ゃてみせるわ<LINE>いろいろ あゃ",
+      "text_jp": "\\xf6危因は 餓暗ゃてみせるわ<LINE>いろいろ あゃ",
       "translation_en": ""
     },
     {
@@ -387,7 +387,7 @@
       "target_offset": 9732,
       "length_bytes": 45,
       "raw_hex": "102e3c0d4d1318809d82d80213292c26809efff50f1908270281bc4d13292c2680d1fff652615d19821a858e86",
-      "text_jp": "たんですゃてねィ器いてるわよゥ<LINE>そのくらい燕ゃてるわよ!<PAGE>ヴスケの雅宍",
+      "text_jp": "たんですゃてねォ器いてるわよャ<LINE>そのくらい燕ゃてるわよ!<PAGE>アタシの雅宍\\x86",
       "translation_en": ""
     },
     {
@@ -396,7 +396,7 @@
       "target_offset": 9777,
       "length_bytes": 18,
       "raw_hex": "372dfff6809057160c15023c1e0c022c80d1",
-      "text_jp": "ぜを<PAGE>デウにしないでほしいわ!",
+      "text_jp": "ぜを<PAGE>ビカにしないでほしいわ!",
       "translation_en": ""
     },
     {
@@ -405,7 +405,7 @@
       "target_offset": 9795,
       "length_bytes": 46,
       "raw_hex": "f5034d0f4c80d1000f80cc1519809e80d0fff552615d3909003d030c1300021223fff60a2e1575633e4d06281519",
-      "text_jp": "♂うゃそぉ! そ~なのゥ?<LINE>ヴスケだけ どうして いつも<PAGE>こんなムソばゃかりなの",
+      "text_jp": "\\xf5うゃそぉ! そーなのャ?<LINE>アタシだけ どうして いつも<PAGE>こんなヤツばゃかりなの",
       "translation_en": ""
     },
     {
@@ -414,7 +414,7 @@
       "target_offset": 9842,
       "length_bytes": 35,
       "raw_hex": "80d0fff623030082df16820d294d102780d1fff552615d80d7fffcfff61f3900020929",
-      "text_jp": "?<PAGE>もう 幾に迦るゃたら!<LINE>ヴスケ…<CLOSE><PAGE>まだ いける",
+      "text_jp": "?<PAGE>もう 幾に迦るゃたら!<LINE>アタシ…<CLOSE><PAGE>まだ いける",
       "translation_en": ""
     },
     {
@@ -423,7 +423,7 @@
       "target_offset": 9877,
       "length_bytes": 22,
       "raw_hex": "19060c2780d0fff65400fffc547b5d5380d7fff5034d",
-      "text_jp": "のかしら?<PAGE>オ <CLOSE>オラケノ…<LINE>うゃ",
+      "text_jp": "のかしら?<PAGE>ウ <CLOSE>ウレシイ…<LINE>うゃ",
       "translation_en": ""
     },
     {
@@ -432,7 +432,7 @@
       "target_offset": 9899,
       "length_bytes": 29,
       "raw_hex": "14030c022c1880cc80d1fff62422132680d1fff50127809a0052615d3c",
-      "text_jp": "とうしいわね~!<PAGE>やめてよ!<LINE>あらペ ヴスケで",
+      "text_jp": "とうしいわねー!<PAGE>やめてよ!<LINE>あらィ アタシで",
       "translation_en": ""
     },
     {
@@ -450,7 +450,7 @@
       "target_offset": 9977,
       "length_bytes": 47,
       "raw_hex": "23fff683072a1329190614827b4d102c80d1fff51f293c00853b0223193c23821b29260315823812071880d7fffcff",
-      "text_jp": "も<PAGE>祇れてるのかと叶ゃたわ!<LINE>まるで 酸いものでも餓るような貝つきね…<CLOSE>",
+      "text_jp": "も<PAGE>祇れてるのかと叶ゃたわ!<LINE>まるで 酸いものでも餓るような貝つきね…<CLOSE>\\xff",
       "translation_en": ""
     },
     {
@@ -459,7 +459,7 @@
       "target_offset": 10024,
       "length_bytes": 52,
       "raw_hex": "f611504d141a00822182fa0c150b022680d1fff5527f612f0082d782dc04132906823706292cfffc3c23808b7380d10052615dff",
-      "text_jp": "!?ちっゃとは 塊騎しなさいよ!<LINE>ヴロスが 喜寄えてるか階かるわ<CLOSE>でもゼマ! ヴスケ",
+      "text_jp": "\\xf6ちっゃとは 塊騎しなさいよ!<LINE>アンタが 喜寄えてるか階かるわ<CLOSE>でもヂメ! アタシ\\xff",
       "translation_en": ""
     },
     {
@@ -468,7 +468,7 @@
       "target_offset": 10076,
       "length_bytes": 21,
       "raw_hex": "f60f2e15008452028126354e1502062780d1fff582",
-      "text_jp": "!?そんな 鯉い圧じゅないから!<LINE>",
+      "text_jp": "\\xf6そんな 鯉い圧じゅないから!<LINE>\\x82",
       "translation_en": ""
     },
     {
@@ -477,7 +477,7 @@
       "target_offset": 10097,
       "length_bytes": 36,
       "raw_hex": "698187161a008335816515022c26809e80d0fff5846c1527000f2a3c391f0b2a10093d18",
-      "text_jp": "ナ姥には 去允ないわよゥ?<LINE>広なら それでだまされたけどね",
+      "text_jp": "ネ姥には 去允ないわよャ?<LINE>広なら それでだまされたけどね",
       "translation_en": ""
     },
     {
@@ -486,7 +486,7 @@
       "target_offset": 10133,
       "length_bytes": 41,
       "raw_hex": "52615d230081670c1a82ad82640c13291926fff5030f4c80d7fffcfff60f2a001f0b0680d780977b80",
-      "text_jp": "ヴスケも 咽しは環岳してるのよ<LINE>うそぉ…<CLOSE><PAGE>それ まさか…パラ",
+      "text_jp": "アタシも 咽しは環岳してるのよ<LINE>うそぉ…<CLOSE><PAGE>それ まさか…ペレ\\x80",
       "translation_en": ""
     },
     {
@@ -495,7 +495,7 @@
       "target_offset": 10174,
       "length_bytes": 33,
       "raw_hex": "897f6580d0fffcfff652615d1d1980d080d1fff51c032e00527f612f180480d7ff",
-      "text_jp": "ジロチ?<CLOSE><PAGE>ヴスケへの?!<LINE>ふうん ヴロスがねえ…",
+      "text_jp": "\\x89ント?<CLOSE><PAGE>アタシへの?!<LINE>ふうん アンタがねえ…\\xff",
       "translation_en": ""
     },
     {
@@ -504,7 +504,7 @@
       "target_offset": 10207,
       "length_bytes": 32,
       "raw_hex": "fcfff681241a00821b060916262715021918fff50f1981941980905715525970",
-      "text_jp": "f<PAGE>鯵は 餓かけによらないのね<LINE>その嬰のデウなヴオフ",
+      "text_jp": "\\xfc<PAGE>鯵は 餓かけによらないのね<LINE>その嬰のビカなアクマ",
       "translation_en": ""
     },
     {
@@ -513,7 +513,7 @@
       "target_offset": 10239,
       "length_bytes": 28,
       "raw_hex": "14fff652615d2d0081b78336160c15023c18fff5244d394880d1fff6",
-      "text_jp": "と<PAGE>ヴスケを 沿居にしないでね<LINE>やゃだぁ!<PAGE>",
+      "text_jp": "と<PAGE>アタシを 沿居にしないでね<LINE>やゃだぁ!<PAGE>",
       "translation_en": ""
     },
     {
@@ -531,7 +531,7 @@
       "target_offset": 10282,
       "length_bytes": 43,
       "raw_hex": "19809efff5577d5353140a000129354e1502fff51804000f19817e814500115003390226fff6527f612628",
-      "text_jp": "のゥ<LINE>ウルノノとこ あるじゅない<LINE>ねえ その丑惟 ちっうだいよ<PAGE>ヴロスより",
+      "text_jp": "のャ<LINE>カワイイとこ あるじゅない<LINE>ねえ その丑惟 ちっうだいよ<PAGE>アンタより",
       "translation_en": ""
     },
     {
@@ -540,7 +540,7 @@
       "target_offset": 10325,
       "length_bytes": 47,
       "raw_hex": "0052615d1981662ffff61c0b2c0c022c80d1fff581242d000b2e342e00053913130502131f100084871981403c0084",
-      "text_jp": " ヴスケの印が<PAGE>ふさわしいわ!<LINE>鯵を さんざん おだてておいてまた 紅の囲で ",
+      "text_jp": " アタシの印が<PAGE>ふさわしいわ!<LINE>鯵を さんざん おだてておいてまた 紅の囲で \\x84",
       "translation_en": ""
     },
     {
@@ -549,7 +549,7 @@
       "target_offset": 10372,
       "length_bytes": 43,
       "raw_hex": "962d06060e29fff6122328152e3c0c5080d7fff5180480d7354e010052615d19260316fff6152810023c0c",
-      "text_jp": "ボをかかせる<PAGE>つもりなんでしっ…<LINE>ねえ…じゅあ ヴスケのように<PAGE>なりたいでし",
+      "text_jp": "\\x96をかかせる<PAGE>つもりなんでしっ…<LINE>ねえ…じゅあ アタシのように<PAGE>なりたいでし",
       "translation_en": ""
     },
     {
@@ -558,7 +558,7 @@
       "target_offset": 10415,
       "length_bytes": 39,
       "raw_hex": "5080d0fffcfff680d70c13013226030680d0fff5021219819281c3230082cc81844d1300811185",
-      "text_jp": "っ?<CLOSE><PAGE>…してあげようか?<LINE>いつの叡鉛も 眼欝ゃて 々",
+      "text_jp": "っ?<CLOSE><PAGE>…してあげようか?<LINE>いつの叡鉛も 眼欝ゃて 々\\x85",
       "translation_en": ""
     },
     {
@@ -567,7 +567,7 @@
       "target_offset": 10454,
       "length_bytes": 37,
       "raw_hex": "07fff68318350a140082dc0429192618809dfff582678351152e130083bc81db3c0715022c",
-      "text_jp": "き<PAGE>却じこと 寄えるのよねィ<LINE>顎喬なんて 傾荻できないわ",
+      "text_jp": "き<PAGE>却じこと 寄えるのよねォ<LINE>顎喬なんて 傾荻できないわ",
       "translation_en": ""
     },
     {
@@ -576,7 +576,7 @@
       "target_offset": 10491,
       "length_bytes": 29,
       "raw_hex": "f683bc35272a29191a008187390926fff1fff50e4d06080081a94d1019",
-      "text_jp": "!?傾じられるのは 姥だけよ<CMD_f1><LINE>せゃかく 謁ゃたの",
+      "text_jp": "\\xf6傾じられるのは 姥だけよ<CMD_f1><LINE>せゃかく 謁ゃたの",
       "translation_en": ""
     },
     {
@@ -585,7 +585,7 @@
       "target_offset": 10521,
       "length_bytes": 39,
       "raw_hex": "16fff60f2e150a140c0682670415021980d0fff50f2e150a140082d807100815022cfff652615d",
-      "text_jp": "に<PAGE>そんなことしか顎えないの?<LINE>そんなこと 器きたくないわ<PAGE>ヴスケ",
+      "text_jp": "に<PAGE>そんなことしか顎えないの?<LINE>そんなこと 器きたくないわ<PAGE>アタシ",
       "translation_en": ""
     },
     {
@@ -594,7 +594,7 @@
       "target_offset": 10560,
       "length_bytes": 28,
       "raw_hex": "2f830f0c0281871a00103980c11280d7fff1fff50f2e1581aa005261",
-      "text_jp": "が吉しい姥は ただ1つ…<CMD_f1><LINE>そんな越 ヴス",
+      "text_jp": "が吉しい姥は ただ1つ…<CMD_f1><LINE>そんな越 アタ",
       "translation_en": ""
     },
     {
@@ -603,7 +603,7 @@
       "target_offset": 10588,
       "length_bytes": 40,
       "raw_hex": "5d160c13fff63d030d2912232815192680d7fff5152e3c0f2e1581aa2dfff6262816264d13005261",
-      "text_jp": "ケにして<PAGE>どうするつもりなのよ…<LINE>なんでそんな越を<PAGE>よりによゃて ヴス",
+      "text_jp": "シにして<PAGE>どうするつもりなのよ…<LINE>なんでそんな越を<PAGE>よりによゃて アタ",
       "translation_en": ""
     },
     {
@@ -612,7 +612,7 @@
       "target_offset": 10628,
       "length_bytes": 38,
       "raw_hex": "5d16fff60c15074e152715027d5a80d080d7fff5244d430052615d4d13005259702628812481",
-      "text_jp": "ケに<PAGE>しなきゅならないルカ?…<LINE>やゃぱ ヴスケゃて ヴオフより鯵",
+      "text_jp": "シに<PAGE>しなきゅならないワケ?…<LINE>やゃぱ アタシゃて アクマより鯵\\x81",
       "translation_en": ""
     },
     {
@@ -621,7 +621,7 @@
       "target_offset": 10666,
       "length_bytes": 18,
       "raw_hex": "251981662f0081aa2f8249032e392618809d",
-      "text_jp": "ゆの印が 越が馨うんだよねィ",
+      "text_jp": "ゆの印が 越が馨うんだよねォ",
       "translation_en": ""
     },
     {
@@ -630,7 +630,7 @@
       "target_offset": 10684,
       "length_bytes": 35,
       "raw_hex": "f5152e0600846c1681ef4d1020100280d1fff552615d2f0082d282d3152e3980d7fffc",
-      "text_jp": "♂なんか 広に佳ゃたみたい!<LINE>ヴスケが 顔願なんだ…<CLOSE>",
+      "text_jp": "\\xf5なんか 広に佳ゃたみたい!<LINE>アタシが 顔願なんだ…<CLOSE>",
       "translation_en": ""
     },
     {
@@ -639,7 +639,7 @@
       "target_offset": 10720,
       "length_bytes": 51,
       "raw_hex": "f6014d0f0380d7fffcfff61c80cc2e80d7fff581ce83c02d00857a86391683492229161afff63d030c102702023c0c500380d0",
-      "text_jp": "!?あゃそう…<CLOSE><PAGE>ふ~ん…<LINE>押圭を 次召に兇めるには<PAGE>どうしたらいいでしっう?",
+      "text_jp": "\\xf6あゃそう…<CLOSE><PAGE>ふーん…<LINE>押圭を 次召に兇めるには<PAGE>どうしたらいいでしっう?",
       "translation_en": ""
     },
     {
@@ -648,7 +648,7 @@
       "target_offset": 10772,
       "length_bytes": 29,
       "raw_hex": "fcfff680d72c064d13292c261880d0fff1fff50e4d06080081a94d1019",
-      "text_jp": "f<PAGE>…わかゃてるわよね?<CMD_f1><LINE>せゃかく 謁ゃたの",
+      "text_jp": "\\xfc<PAGE>…わかゃてるわよね?<CMD_f1><LINE>せゃかく 謁ゃたの",
       "translation_en": ""
     },
     {
@@ -657,7 +657,7 @@
       "target_offset": 10802,
       "length_bytes": 40,
       "raw_hex": "16fff60f2e150a140c0682670415021980d0fff50f2e158480200082d80915022cfff63c23005261",
-      "text_jp": "に<PAGE>そんなことしか顎えないの?<LINE>そんな港み 器けないわ<PAGE>でも ヴス",
+      "text_jp": "に<PAGE>そんなことしか顎えないの?<LINE>そんな港み 器けないわ<PAGE>でも アタ",
       "translation_en": ""
     },
     {
@@ -666,7 +666,7 @@
       "target_offset": 10842,
       "length_bytes": 26,
       "raw_hex": "5d198480201afff60707150b022680d1fff1fff552615d190081",
-      "text_jp": "ケの港みは<PAGE>ききなさいよ!<CMD_f1><LINE>ヴスケの ",
+      "text_jp": "シの港みは<PAGE>ききなさいよ!<CMD_f1><LINE>アタシの \\x81",
       "translation_en": ""
     },
     {
@@ -675,7 +675,7 @@
       "target_offset": 10868,
       "length_bytes": 31,
       "raw_hex": "43152e13fff682d716812703192680d780d7fff502240180cc80d1fffcfff6",
-      "text_jp": "ぱなんて<PAGE>喜に斡うのよ……<LINE>いやあ~!<CLOSE><PAGE>",
+      "text_jp": "ぱなんて<PAGE>喜に斡うのよ……<LINE>いやあー!<CLOSE><PAGE>",
       "translation_en": ""
     },
     {
@@ -684,7 +684,7 @@
       "target_offset": 10899,
       "length_bytes": 35,
       "raw_hex": "527f610081fc818881b81602240180cc80d1fff559595980d7fffcfff6020282ed3535",
-      "text_jp": "ヴロス 河厩演にいやあ~!<LINE>オオオ…<CLOSE><PAGE>いい畿じじ",
+      "text_jp": "アンタ 河厩演にいやあー!<LINE>ククク…<CLOSE><PAGE>いい畿じじ",
       "translation_en": ""
     },
     {
@@ -693,7 +693,7 @@
       "target_offset": 10934,
       "length_bytes": 30,
       "raw_hex": "4e150280d7fffcfff60a1981ce83c04d130bfff552615d4d130052597026",
-      "text_jp": "ゅない…<CLOSE><PAGE>この押圭ゃてさ<LINE>ヴスケゃて ヴオフよ",
+      "text_jp": "ゅない…<CLOSE><PAGE>この押圭ゃてさ<LINE>アタシゃて アクマよ",
       "translation_en": ""
     },
     {
@@ -702,7 +702,7 @@
       "target_offset": 10964,
       "length_bytes": 55,
       "raw_hex": "28fff68124812506270084801f2a29192618fff552615d16394d130085f9200f312702fff6838d4d1329192680d7fffc83834d1329093d",
-      "text_jp": "り<PAGE>鯵梓から 港まれるのよね<LINE>ヴスケにだゃて 渋みそぐらい<PAGE>区ゃてるのよ…<CLOSE>衿ゃてるけど",
+      "text_jp": "り<PAGE>鯵梓から 港まれるのよね<LINE>アタシにだゃて 渋みそぐらい<PAGE>区ゃてるのよ…<CLOSE>衿ゃてるけど",
       "translation_en": ""
     },
     {
@@ -711,7 +711,7 @@
       "target_offset": 11019,
       "length_bytes": 32,
       "raw_hex": "f6527f61198638021a0005821b81ba0c26fff5527f614d1300050b15021918ff",
-      "text_jp": "!?ヴロスの升いは お餓焔しよ<LINE>ヴロスゃて おさないのね",
+      "text_jp": "\\xf6アンタの升いは お餓焔しよ<LINE>アンタゃて おさないのね\\xff",
       "translation_en": ""
     },
     {
@@ -720,7 +720,7 @@
       "target_offset": 11052,
       "length_bytes": 38,
       "raw_hex": "f682f2021561538097354e1502093d0b80d7fff5152e15192600527f6180d1fff6808a7f8091",
-      "text_jp": "!?徽いなスノパじゅないけどさ…<LINE>なんなのよ ヴロス!<PAGE>ズロド",
+      "text_jp": "\\xf6徽いなタイペじゅないけどさ…<LINE>なんなのよ アンタ!<PAGE>ダンブ",
       "translation_en": ""
     },
     {
@@ -729,7 +729,7 @@
       "target_offset": 11090,
       "length_bytes": 54,
       "raw_hex": "3906274d13fff6809057160c15023c2680d1fff5809057160c102c1880d1fffc0052615d1afff6814416814b0d1400853b022c26fffc",
-      "text_jp": "だからゃて<PAGE>デウにしないでよ!<LINE>デウにしたわね!<CLOSE> ヴスケは<PAGE>尉に畏すと 酸いわよ<CLOSE>",
+      "text_jp": "だからゃて<PAGE>ビカにしないでよ!<LINE>ビカにしたわね!<CLOSE> アタシは<PAGE>尉に畏すと 酸いわよ<CLOSE>",
       "translation_en": ""
     },
     {
@@ -738,7 +738,7 @@
       "target_offset": 11144,
       "length_bytes": 25,
       "raw_hex": "f68267030a140082d8021407150b02fff1fff5152e06005380",
-      "text_jp": "!?顎うこと 器いときなさい<CMD_f1><LINE>なんか ノ",
+      "text_jp": "\\xf6顎うこと 器いときなさい<CMD_f1><LINE>なんか イ\\x80",
       "translation_en": ""
     },
     {
@@ -747,7 +747,7 @@
       "target_offset": 11170,
       "length_bytes": 45,
       "raw_hex": "a1114e4d13292c1880d7fff60a19812480d7fff5808a7f80913906274d1380d780d7fffcfff60f2e15816d8169",
-      "text_jp": "ャちゅゃてるわね…<PAGE>この鯵…<LINE>ズロドだからゃて……<CLOSE><PAGE>そんな淫因",
+      "text_jp": "\\xa1ちゅゃてるわね…<PAGE>この鯵…<LINE>ダンブだからゃて……<CLOSE><PAGE>そんな淫因",
       "translation_en": ""
     },
     {
@@ -765,7 +765,7 @@
       "target_offset": 11244,
       "length_bytes": 29,
       "raw_hex": "12064d13fff6809080a157201080cc0280d1fff505223c10020a1480d7",
-      "text_jp": "つかゃて<PAGE>デャウみた~い!<LINE>おめでたいこと…",
+      "text_jp": "つかゃて<PAGE>ビョカみたーい!<LINE>おめでたいこと…",
       "translation_en": ""
     },
     {
@@ -774,7 +774,7 @@
       "target_offset": 11273,
       "length_bytes": 29,
       "raw_hex": "fcfff6074d14008134171f3c0f03151918fff5836e83c281241981b782",
-      "text_jp": "f<PAGE>きゃと 庵ぬまでそうなのね<LINE>局型鯵の沿",
+      "text_jp": "\\xfc<PAGE>きゃと 庵ぬまでそうなのね<LINE>局型鯵の沿\\x82",
       "translation_en": ""
     },
     {
@@ -783,7 +783,7 @@
       "target_offset": 11303,
       "length_bytes": 49,
       "raw_hex": "c34d13fff60a2e15834616230210191880d7fff5260823000f2e15822b271502fff683c22d000c13082a102c1880d1fff6",
-      "text_jp": "3ゃて<PAGE>こんな供にもいたのね…<LINE>よくも そんな改らない<PAGE>型を してくれたわね!<PAGE>",
+      "text_jp": "\\xc3ゃて<PAGE>こんな供にもいたのね…<LINE>よくも そんな改らない<PAGE>型を してくれたわね!<PAGE>",
       "translation_en": ""
     },
     {
@@ -792,7 +792,7 @@
       "target_offset": 11352,
       "length_bytes": 20,
       "raw_hex": "52615d19819281250083270c132680d1fff1fff5",
-      "text_jp": "ヴスケの叡梓 朽してよ!<CMD_f1><LINE>",
+      "text_jp": "アタシの叡梓 朽してよ!<CMD_f1><LINE>",
       "translation_en": ""
     },
     {
@@ -801,7 +801,7 @@
       "target_offset": 11372,
       "length_bytes": 28,
       "raw_hex": "527f6180d1fffcfff6836c4d13292c1880d1fff50a1900822b832f4d",
-      "text_jp": "ヴロス!<CLOSE><PAGE>暁ゃてるわね!<LINE>この 改笈ゃ",
+      "text_jp": "アンタ!<CLOSE><PAGE>暁ゃてるわね!<LINE>この 改笈ゃ",
       "translation_en": ""
     },
     {
@@ -819,7 +819,7 @@
       "target_offset": 11426,
       "length_bytes": 36,
       "raw_hex": "2680d7fffcfff6821881fb11813d022c184bfff582d72f82670210021980d7fffcfff681",
-      "text_jp": "よ…<CLOSE><PAGE>蛾歌ち位いわねぇ<LINE>喜が顎いたいの…<CLOSE><PAGE>",
+      "text_jp": "よ…<CLOSE><PAGE>蛾歌ち位いわねぇ<LINE>喜が顎いたいの…<CLOSE><PAGE>\\x81",
       "translation_en": ""
     },
     {
@@ -828,7 +828,7 @@
       "target_offset": 11462,
       "length_bytes": 13,
       "raw_hex": "4d4d8636008237062e15022c80",
-      "text_jp": "ゃゃ勝 階かんないわ",
+      "text_jp": "ゃゃ勝 階かんないわ\\x80",
       "translation_en": ""
     },
     {
@@ -837,7 +837,7 @@
       "target_offset": 11475,
       "length_bytes": 7,
       "raw_hex": "d780d780d7fff5",
-      "text_jp": "………<LINE>",
+      "text_jp": "\\xd7……<LINE>",
       "translation_en": ""
     },
     {
@@ -846,7 +846,7 @@
       "target_offset": 11482,
       "length_bytes": 14,
       "raw_hex": "150615060024292c1880d1fff56d",
-      "text_jp": "なかなか やるわね!<LINE>ノ",
+      "text_jp": "なかなか やるわね!<LINE>フ",
       "translation_en": ""
     },
     {
@@ -855,7 +855,7 @@
       "target_offset": 11496,
       "length_bytes": 46,
       "raw_hex": "6d6d80d7fff5010001270077808b7b2f80d7fff5813d811616154d1323fff6830f83c14d1300838d2919184bfffc",
-      "text_jp": "ノノ…<LINE>あ あら モゼラが…<LINE>位哀になゃても<PAGE>吉珪ゃて 区るのねぇ<CLOSE>",
+      "text_jp": "フフ…<LINE>あ あら ヨヂレが…<LINE>位哀になゃても<PAGE>吉珪ゃて 区るのねぇ<CLOSE>",
       "translation_en": ""
     },
     {
@@ -864,7 +864,7 @@
       "target_offset": 11542,
       "length_bytes": 23,
       "raw_hex": "f652615d00830f0c0223192f012919fff1fff50a1982d4",
-      "text_jp": "!?ヴスケ 吉しいものがあるの<CMD_f1><LINE>この企",
+      "text_jp": "\\xf6アタシ 吉しいものがあるの<CMD_f1><LINE>この企",
       "translation_en": ""
     },
     {
@@ -873,7 +873,7 @@
       "target_offset": 11566,
       "length_bytes": 56,
       "raw_hex": "0052615d2dfff6809057160d2912232880d0fff552615d19819c81251681b7840d06092a3efff6527f610081fc071381e02a15022c2680d1",
-      "text_jp": " ヴスケを<PAGE>デウにするつもり?<LINE>ヴスケの瑛梓に沿謙かければ<PAGE>ヴロス 河きて桶れないわよ!",
+      "text_jp": " アタシを<PAGE>ビカにするつもり?<LINE>アタシの瑛梓に沿謙かければ<PAGE>アンタ 河きて桶れないわよ!",
       "translation_en": ""
     },
     {
@@ -882,7 +882,7 @@
       "target_offset": 11622,
       "length_bytes": 22,
       "raw_hex": "f6817a4d1313830f0c023c0c5080d0fff1fff582e02a",
-      "text_jp": "!?雨ゃてて吉しいでしっ?<CMD_f1><LINE>忌れ",
+      "text_jp": "\\xf6雨ゃてて吉しいでしっ?<CMD_f1><LINE>忌れ",
       "translation_en": ""
     },
     {
@@ -891,7 +891,7 @@
       "target_offset": 11645,
       "length_bytes": 43,
       "raw_hex": "131000140722072ffff626202f04292c80d7fff5527f61190c234116154d1323fff6020206231880d7fffc",
-      "text_jp": "てた ときめきが<PAGE>よみがえるわ…<LINE>ヴロスのしもべになゃても<PAGE>いいかもね…<CLOSE>",
+      "text_jp": "てた ときめきが<PAGE>よみがえるわ…<LINE>アンタのしもべになゃても<PAGE>いいかもね…<CLOSE>",
       "translation_en": ""
     },
     {
@@ -900,7 +900,7 @@
       "target_offset": 11688,
       "length_bytes": 12,
       "raw_hex": "f681560c131e0c0282521406",
-      "text_jp": "!?医してほしい廓とか",
+      "text_jp": "\\xf6医してほしい廓とか",
       "translation_en": ""
     },
     {
@@ -927,7 +927,7 @@
       "target_offset": 11738,
       "length_bytes": 39,
       "raw_hex": "06150219fff5527f6100152a152a0c022c26fff552615d2d0083bd270e1008fff615023c0c5080",
-      "text_jp": "かないの<LINE>ヴロス なれなれしいわよ<LINE>ヴスケを 刑らせたく<PAGE>ないでしっ",
+      "text_jp": "かないの<LINE>アンタ なれなれしいわよ<LINE>アタシを 刑らせたく<PAGE>ないでしっ\\x80",
       "translation_en": ""
     },
     {
@@ -936,7 +936,7 @@
       "target_offset": 11777,
       "length_bytes": 34,
       "raw_hex": "d0fff68267030a142d0082d807150b02fff1fff50f2a4d13001e2281560c80d0fffc",
-      "text_jp": "?<PAGE>顎うことを 器きなさい<CMD_f1><LINE>それゃて ほめ医し?<CLOSE>",
+      "text_jp": "\\xd0<PAGE>顎うことを 器きなさい<CMD_f1><LINE>それゃて ほめ医し?<CLOSE>",
       "translation_en": ""
     },
     {
@@ -945,7 +945,7 @@
       "target_offset": 11811,
       "length_bytes": 19,
       "raw_hex": "f652615d0081342e354e0319060c2780d7fff5",
-      "text_jp": "!?ヴスケ 庵んじゅうのかしら…<LINE>",
+      "text_jp": "\\xf6アタシ 庵んじゅうのかしら…<LINE>",
       "translation_en": ""
     },
     {
@@ -954,7 +954,7 @@
       "target_offset": 11831,
       "length_bytes": 58,
       "raw_hex": "82d7068303832e2e3c29191880d780d780d7fff5846c0052615d2d023522107563272ffff605828c847d82674d102800815e33020c102880d7ff",
-      "text_jp": "喜か擬窮んでるのね………<LINE>広 ヴスケをいじめたムソらが<PAGE>お苅江顎ゃたり 壱ごいしたり…",
+      "text_jp": "喜か擬窮んでるのね………<LINE>広 アタシをいじめたヤツらが<PAGE>お苅江顎ゃたり 壱ごいしたり…\\xff",
       "translation_en": ""
     },
     {
@@ -963,7 +963,7 @@
       "target_offset": 11889,
       "length_bytes": 46,
       "raw_hex": "fc52615d00813d811616154d138231064d10fff552615d0b0180d7fffc527f612628fff6577d53532c261880d0ff",
-      "text_jp": "fヴスケ 位哀になゃて界かゃた<LINE>ヴスケさあ…<CLOSE>ヴロスより<PAGE>ウルノノわよね?",
+      "text_jp": "\\xfcアタシ 位哀になゃて界かゃた<LINE>アタシさあ…<CLOSE>アンタより<PAGE>カワイイわよね?\\xff",
       "translation_en": ""
     },
     {
@@ -972,7 +972,7 @@
       "target_offset": 11935,
       "length_bytes": 70,
       "raw_hex": "fcfff61800114e2e14836004132680d1fffcfff552615d195e80987a5780cc808ffff681fb4d13293c0c5080d0fffcfff68500023c823706291926fffbfff7834c0800058654",
-      "text_jp": "f<PAGE>ね ちゅんと胸えてよ!<CLOSE><LINE>ヴスケのコピヨウ~ヅ<PAGE>歌ゃてるでしっ?<CLOSE><PAGE>冴いで階かるのよ<CMD_fb><CMD_f7>凶く お梢",
+      "text_jp": "\\xfc<PAGE>ね ちゅんと胸えてよ!<CLOSE><LINE>アタシのスポルカーバ<PAGE>歌ゃてるでしっ?<CLOSE><PAGE>冴いで階かるのよ<CMD_fb><CMD_f7>凶く お梢",
       "translation_en": ""
     },
     {
@@ -981,7 +981,7 @@
       "target_offset": 12005,
       "length_bytes": 36,
       "raw_hex": "19587b5315fff680987a6066160c13188705ffef527f61201002150082470e158124141a",
-      "text_jp": "のエラノな<PAGE>ピヨシツにしてね栖<CMD_ef>ヴロスみたいな 骸せな鯵とは",
+      "text_jp": "のキレイな<PAGE>ポルソナにしてね栖<CMD_ef>アンタみたいな 骸せな鯵とは",
       "translation_en": ""
     },
     {
@@ -990,7 +990,7 @@
       "target_offset": 12041,
       "length_bytes": 47,
       "raw_hex": "f6815884752f0082492c150214827b0319ffef527f6183c4022c1880d7fffcfff652615d168157832f0c131e0c064d",
-      "text_jp": "!?亥攻が 馨わないと叶うの<CMD_ef>ヴロス形いわね…<CLOSE><PAGE>ヴスケに井笈してほしかゃ",
+      "text_jp": "\\xf6亥攻が 馨わないと叶うの<CMD_ef>アンタ形いわね…<CLOSE><PAGE>アタシに井笈してほしかゃ",
       "translation_en": ""
     },
     {
@@ -1017,7 +1017,7 @@
       "target_offset": 12112,
       "length_bytes": 13,
       "raw_hex": "2480cc3948ffef354e000a2a2d",
-      "text_jp": "や~だぁ<CMD_ef>じゅ これを",
+      "text_jp": "やーだぁ<CMD_ef>じゅ これを",
       "translation_en": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "target_offset": 12151,
       "length_bytes": 33,
       "raw_hex": "062780d7fffcfff6813d08827b2c15023c18ffef83041681a90314071a00527f61",
-      "text_jp": "から…<CLOSE><PAGE>位く叶わないでね<CMD_ef>欺に謁うときは ヴロス",
+      "text_jp": "から…<CLOSE><PAGE>位く叶わないでね<CMD_ef>欺に謁うときは アンタ",
       "translation_en": ""
     },
     {
@@ -1044,7 +1044,7 @@
       "target_offset": 12184,
       "length_bytes": 37,
       "raw_hex": "23fff6808a7f809116154d132906231880d1ffef819281251a00104d45280129093dfff612",
-      "text_jp": "も<PAGE>ズロドになゃてるかもね!<CMD_ef>叡梓は たゃぷりあるけど<PAGE>つ",
+      "text_jp": "も<PAGE>ダンブになゃてるかもね!<CMD_ef>叡梓は たゃぷりあるけど<PAGE>つ",
       "translation_en": ""
     },
     {
@@ -1053,7 +1053,7 @@
       "target_offset": 12221,
       "length_bytes": 31,
       "raw_hex": "1f2715020a14161afff68127021008150219ffef0a2a000a2a013229062780",
-      "text_jp": "まらないことには<PAGE>斡いたくないの<CMD_ef>これ これあげるから",
+      "text_jp": "まらないことには<PAGE>斡いたくないの<CMD_ef>これ これあげるから\\x80",
       "translation_en": ""
     },
     {
@@ -1062,7 +1062,7 @@
       "target_offset": 12252,
       "length_bytes": 30,
       "raw_hex": "d1fff681b7814b390900821b82e20c1380d1ffef152e0600849904130711",
-      "text_jp": "!<PAGE>沿畏だけ 餓机して!<CMD_ef>なんか 酵えてきち",
+      "text_jp": "\\xd1<PAGE>沿畏だけ 餓机して!<CMD_ef>なんか 酵えてきち",
       "translation_en": ""
     },
     {
@@ -1089,7 +1089,7 @@
       "target_offset": 12360,
       "length_bytes": 41,
       "raw_hex": "0cfff681fc060c130508192300832f1880d7ffef1a02005780cc808f80d7fffcfff652615d80d7fffc",
-      "text_jp": "し<PAGE>河かしておくのも 笈ね…<CMD_ef>はい ウ~ヅ…<CLOSE><PAGE>ヴスケ…<CLOSE>",
+      "text_jp": "し<PAGE>河かしておくのも 笈ね…<CMD_ef>はい カーバ…<CLOSE><PAGE>アタシ…<CLOSE>",
       "translation_en": ""
     },
     {
@@ -1098,7 +1098,7 @@
       "target_offset": 12401,
       "length_bytes": 70,
       "raw_hex": "f6230381b7816900587b53161528100219ffef0f033980d1fffcfff6527f611982181681ae27150275631afff652615d2f008465411301322980d7fffbfff73c23000a191f1f",
-      "text_jp": "!?もう沿因 エラノになりたいの<CMD_ef>そうだ!<CLOSE><PAGE>ヴロスの蛾に円らないムソは<PAGE>ヴスケが 孔べてあげる…<CMD_fb><CMD_f7>でも このまま",
+      "text_jp": "\\xf6もう沿因 キレイになりたいの<CMD_ef>そうだ!<CLOSE><PAGE>アンタの蛾に円らないヤツは<PAGE>アタシが 孔べてあげる…<CMD_fb><CMD_f7>でも このまま",
       "translation_en": ""
     },
     {
@@ -1107,7 +1107,7 @@
       "target_offset": 12472,
       "length_bytes": 36,
       "raw_hex": "81b78336161afff681d209150219261880d7ffef01151014818b4d10270052615d80d7ff",
-      "text_jp": "沿居には<PAGE>殴けないのよね…<CMD_ef>あなたと閏ゃたら ヴスケ…",
+      "text_jp": "沿居には<PAGE>殴けないのよね…<CMD_ef>あなたと閏ゃたら アタシ…\\xff",
       "translation_en": ""
     },
     {
@@ -1116,7 +1116,7 @@
       "target_offset": 12508,
       "length_bytes": 31,
       "raw_hex": "fcfff682101f3c00813d811616154d114e03ffef0a2a0023274d13082a2980",
-      "text_jp": "f<PAGE>蚊まで 位哀になゃちゅう<CMD_ef>これ もらゃてくれる",
+      "text_jp": "\\xfc<PAGE>蚊まで 位哀になゃちゅう<CMD_ef>これ もらゃてくれる\\x80",
       "translation_en": ""
     },
     {
@@ -1125,7 +1125,7 @@
       "target_offset": 12539,
       "length_bytes": 35,
       "raw_hex": "d0fff652615d0627354e0082f2060c2780d7ffef242810020a14fff61f390010080b2e",
-      "text_jp": "?<PAGE>ヴスケからじゅ 徽かしら…<CMD_ef>やりたいこと<PAGE>まだ たくさん",
+      "text_jp": "\\xd0<PAGE>アタシからじゅ 徽かしら…<CMD_ef>やりたいこと<PAGE>まだ たくさん",
       "translation_en": ""
     },
     {
@@ -1152,7 +1152,7 @@
       "target_offset": 12658,
       "length_bytes": 29,
       "raw_hex": "841c8153160082d70600082a150280d0fff1fff50a2a81e482d4005261",
-      "text_jp": "源謂に 喜か くれない?<CMD_f1><LINE>これ卸企 ヴス",
+      "text_jp": "源謂に 喜か くれない?<CMD_f1><LINE>これ卸企 アタ",
       "translation_en": ""
     },
     {
@@ -1161,7 +1161,7 @@
       "target_offset": 12687,
       "length_bytes": 54,
       "raw_hex": "5d0627fff682d72d850403122328151980d0fff552615d1600061f4d13830f0c021527fff680977b80897f65190080c11223fff681fb",
-      "text_jp": "ケから<PAGE>喜を榊うつもりなの?<LINE>ヴスケに かまゃて吉しいなら<PAGE>パラジロチの 1つも<PAGE>歌",
+      "text_jp": "シから<PAGE>喜を榊うつもりなの?<LINE>アタシに かまゃて吉しいなら<PAGE>ペレゾントの 1つも<PAGE>歌",
       "translation_en": ""
     },
     {
@@ -1170,7 +1170,7 @@
       "target_offset": 12741,
       "length_bytes": 43,
       "raw_hex": "4d130829192f0081bb83eb3c0c5080d1fff1fff583712819815e19003d0a2f813d021980d0fff652615d39",
-      "text_jp": "ゃてくるのが 煙決でしっ!<CMD_f1><LINE>玉りの壱の どこが位いの?<PAGE>ヴスケだ",
+      "text_jp": "ゃてくるのが 煙決でしっ!<CMD_f1><LINE>玉りの壱の どこが位いの?<PAGE>アタシだ",
       "translation_en": ""
     },
     {
@@ -1179,7 +1179,7 @@
       "target_offset": 12784,
       "length_bytes": 48,
       "raw_hex": "4d13fff681fc0713021002390915191680d1fff552615d2d000627060216820d101980d0fff682f22600230300391f0b",
-      "text_jp": "ゃて<PAGE>河きていたいだけなのに!<LINE>ヴスケを からかいに迦たの?<PAGE>徽よ もう だまさ",
+      "text_jp": "ゃて<PAGE>河きていたいだけなのに!<LINE>アタシを からかいに迦たの?<PAGE>徽よ もう だまさ",
       "translation_en": ""
     },
     {
@@ -1188,7 +1188,7 @@
       "target_offset": 12832,
       "length_bytes": 25,
       "raw_hex": "2a15022cfffcfff680d783132715023c80d1fff5230300808b",
-      "text_jp": "れないわ<CLOSE><PAGE>…橘らないで!<LINE>もう ゼ",
+      "text_jp": "れないわ<CLOSE><PAGE>…橘らないで!<LINE>もう ヂ",
       "translation_en": ""
     },
     {
@@ -1197,7 +1197,7 @@
       "target_offset": 12857,
       "length_bytes": 21,
       "raw_hex": "535580a1650c150813fff6020219261880d1fff552",
-      "text_jp": "ノアャチしなくて<PAGE>いいのよね!<LINE>ヴ",
+      "text_jp": "イエョトしなくて<PAGE>いいのよね!<LINE>ア",
       "translation_en": ""
     },
     {
@@ -1206,7 +1206,7 @@
       "target_offset": 12878,
       "length_bytes": 35,
       "raw_hex": "7f6123000a4d1116fff605023c2680cc80d1fff5ffed52615d1a1880d1fffcfff61a4d",
-      "text_jp": "ロスも こゃちに<PAGE>おいでよ~!<LINE><CMD_ed>ヴスケはね!<CLOSE><PAGE>はゃ",
+      "text_jp": "ンタも こゃちに<PAGE>おいでよー!<LINE><CMD_ed>アタシはね!<CLOSE><PAGE>はゃ",
       "translation_en": ""
     },
     {
@@ -1215,7 +1215,7 @@
       "target_offset": 12913,
       "length_bytes": 48,
       "raw_hex": "07280c150281244d13fff682f202392c80d1fff5ffee813d8116062700022b022b14fff6080d1813292e3c0c5080d0ff",
-      "text_jp": "きりしない鯵ゃて<PAGE>徽いだわ!<LINE><CMD_ee>位哀から いろいろと<PAGE>くすねてるんでしっ?",
+      "text_jp": "きりしない鯵ゃて<PAGE>徽いだわ!<LINE><CMD_ee>位哀から いろいろと<PAGE>くすねてるんでしっ?\\xff",
       "translation_en": ""
     },
     {
@@ -1224,7 +1224,7 @@
       "target_offset": 12961,
       "length_bytes": 57,
       "raw_hex": "f652615d162300823709150b022680d1fff1fff5ffec812619824e1600844581430083532903191afff6818281993906271880d780d0fffcff",
-      "text_jp": "!?ヴスケにも 階けなさいよ!<CMD_f1><LINE><CMD_ec>圧の鈎に 娯威 峡るうのは<PAGE>嘘永だからね…?<CLOSE>",
+      "text_jp": "\\xf6アタシにも 階けなさいよ!<CMD_f1><LINE><CMD_ec>圧の鈎に 娯威 峡るうのは<PAGE>嘘永だからね…?<CLOSE>\\xff",
       "translation_en": ""
     },
     {
@@ -1233,7 +1233,7 @@
       "target_offset": 13018,
       "length_bytes": 47,
       "raw_hex": "f681aa0c8249043e0082d714061529231926fff5ffeefffa001880d0fffcfff6830c83613923190081bc4d13292c26",
-      "text_jp": "!?越し馨えば 喜とかなるものよ<LINE><CMD_ee><CMD_fa> ね?<CLOSE><PAGE>掬脅だもの 燕ゃてるわよ",
+      "text_jp": "\\xf6越し馨えば 喜とかなるものよ<LINE><CMD_ee><CMD_fa> ね?<CLOSE><PAGE>掬脅だもの 燕ゃてるわよ",
       "translation_en": ""
     },
     {
@@ -1242,7 +1242,7 @@
       "target_offset": 13065,
       "length_bytes": 28,
       "raw_hex": "f652615d152e06160081db2f01291980d0fff5ffee842682c91680d7",
-      "text_jp": "!?ヴスケなんかに 荻があるの?<LINE><CMD_ee>古巌に…",
+      "text_jp": "\\xf6アタシなんかに 荻があるの?<LINE><CMD_ee>古巌に…",
       "translation_en": ""
     },
     {
@@ -1251,7 +1251,7 @@
       "target_offset": 13094,
       "length_bytes": 22,
       "raw_hex": "fcfff6152a290623180052615d101180d0fff5ffee18",
-      "text_jp": "f<PAGE>なれるかもね ヴスケたち?<LINE><CMD_ee>ね",
+      "text_jp": "\\xfc<PAGE>なれるかもね アタシたち?<LINE><CMD_ee>ね",
       "translation_en": ""
     },
     {
@@ -1260,7 +1260,7 @@
       "target_offset": 13117,
       "length_bytes": 26,
       "raw_hex": "0400234d14fff6050c4e41280c1f0c5080d1fff5ffec707080d1",
-      "text_jp": "え もゃと<PAGE>おしゅべりしましっ!<LINE><CMD_ec>フフ!",
+      "text_jp": "え もゃと<PAGE>おしゅべりしましっ!<LINE><CMD_ec>ママ!",
       "translation_en": ""
     },
     {
@@ -1269,7 +1269,7 @@
       "target_offset": 13143,
       "length_bytes": 37,
       "raw_hex": "00707080d1fff6fffc70704880cc80d180d1fff5ffed1f100081341515074e152715021980",
-      "text_jp": " フフ!<PAGE><CLOSE>フフぁ~!!<LINE><CMD_ed>また 庵ななきゅならないの",
+      "text_jp": " ママ!<PAGE><CLOSE>ママぁー!!<LINE><CMD_ed>また 庵ななきゅならないの\\x80",
       "translation_en": ""
     },
     {
@@ -1278,7 +1278,7 @@
       "target_offset": 13180,
       "length_bytes": 67,
       "raw_hex": "d0fffcfff682f22680d100230300537580d1fff5ffed0202827f2880d7fffc827f8234120913291980d0fffcfff61f0b0680d7fffc52615d1d19836913120980d0fffc",
-      "text_jp": "?<CLOSE><PAGE>徽よ! もう ノム!<LINE><CMD_ed>いい株り…<CLOSE>株芥つけてるの?<CLOSE><PAGE>まさか…<CLOSE>ヴスケへの仰てつけ?<CLOSE>",
+      "text_jp": "\\xd0<CLOSE><PAGE>徽よ! もう イヤ!<LINE><CMD_ed>いい株り…<CLOSE>株芥つけてるの?<CLOSE><PAGE>まさか…<CLOSE>アタシへの仰てつけ?<CLOSE>",
       "translation_en": ""
     },
     {
@@ -1287,7 +1287,7 @@
       "target_offset": 13247,
       "length_bytes": 57,
       "raw_hex": "f63d030e0052615d1a8500022c264d80d1fff5ffed527f6120100215756300811182f2022680d1820882091583cc0c114e4d130b80d1fff60f",
-      "text_jp": "!?どうせ ヴスケは冴いわよゃ!<LINE><CMD_ed>ヴロスみたいなムソ 々徽いよ!菓蝦な敬しちゅゃてさ!<PAGE>そ",
+      "text_jp": "\\xf6どうせ アタシは冴いわよゃ!<LINE><CMD_ed>アンタみたいなヤツ 々徽いよ!菓蝦な敬しちゅゃてさ!<PAGE>そ",
       "translation_en": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "target_offset": 13305,
       "length_bytes": 33,
       "raw_hex": "1982470e0052615d16238237091380d1fff1fff5ffec520052615d3c8231092a3e",
-      "text_jp": "の骸せ ヴスケにも階けて!<CMD_f1><LINE><CMD_ec>ヴ ヴスケで界ければ",
+      "text_jp": "の骸せ アタシにも階けて!<CMD_f1><LINE><CMD_ec>ア アタシで界ければ",
       "translation_en": ""
     },
     {
@@ -1305,7 +1305,7 @@
       "target_offset": 13339,
       "length_bytes": 58,
       "raw_hex": "f601151019050f3e1681ec02131e0c0219fff5ffeb82eb4d130082d60005816385fc81d60d062780d7fffcfff652615d394d130005816385fc0d",
-      "text_jp": "!?あなたのおそばに何いてほしいの<LINE><CMD_eb>気ゃて 危 お芋重鴬すから…<CLOSE><PAGE>ヴスケだゃて お芋重す",
+      "text_jp": "\\xf6あなたのおそばに何いてほしいの<LINE><CMD_eb>気ゃて 危 お芋重鴬すから…<CLOSE><PAGE>アタシだゃて お芋重す",
       "translation_en": ""
     },
     {
@@ -1314,7 +1314,7 @@
       "target_offset": 13398,
       "length_bytes": 35,
       "raw_hex": "2a3efff60d3380cc0800587b5315192680d1fff580d780d780d780d7fffcfff6121f28",
-      "text_jp": "れば<PAGE>すご~く エラノなのよ!<LINE>…………<CLOSE><PAGE>つまり",
+      "text_jp": "れば<PAGE>すごーく キレイなのよ!<LINE>…………<CLOSE><PAGE>つまり",
       "translation_en": ""
     },
     {
@@ -1323,7 +1323,7 @@
       "target_offset": 13433,
       "length_bytes": 76,
       "raw_hex": "80d7fffcfff652615d1600848020331480d0ffef80d780d780d780d7fffcfff6012e1000124d1f2e15022c1880d1fffbfff783cc2300821b100815022c80d1fff6014d1181d24d1380d1fffc",
-      "text_jp": "…<CLOSE><PAGE>ヴスケに 港みごと?<CMD_ef>…………<CLOSE><PAGE>あんた つゃまんないわね!<CMD_fb><CMD_f7>敬も 餓たくないわ!<PAGE>あゃち殴ゃて!<CLOSE>",
+      "text_jp": "…<CLOSE><PAGE>アタシに 港みごと?<CMD_ef>…………<CLOSE><PAGE>あんた つゃまんないわね!<CMD_fb><CMD_f7>敬も 餓たくないわ!<PAGE>あゃち殴ゃて!<CLOSE>",
       "translation_en": ""
     },
     {
@@ -1332,7 +1332,7 @@
       "target_offset": 13509,
       "length_bytes": 51,
       "raw_hex": "f6313631360c1329140081560d2c2680d1fff552615d2d0082240d1980d780d0fffcfff602021926000a2e1584693c02292628",
-      "text_jp": "!?ぐずぐずしてると 医すわよ!<LINE>ヴスケを 快すの…?<CLOSE><PAGE>いいのよ こんな巧でいるより",
+      "text_jp": "\\xf6ぐずぐずしてると 医すわよ!<LINE>アタシを 快すの…?<CLOSE><PAGE>いいのよ こんな巧でいるより",
       "translation_en": ""
     },
     {
@@ -1341,7 +1341,7 @@
       "target_offset": 13561,
       "length_bytes": 26,
       "raw_hex": "f6074d14001f0c261880d7fffc3c2380d7fff50115101981f216",
-      "text_jp": "!?きゃと ましよね…<CLOSE>でも…<LINE>あなたの嘉に",
+      "text_jp": "\\xf6きゃと ましよね…<CLOSE>でも…<LINE>あなたの嘉に",
       "translation_en": ""
     },
     {
@@ -1350,7 +1350,7 @@
       "target_offset": 13588,
       "length_bytes": 45,
       "raw_hex": "022914fff682d7390600014d1006021980d7fff552615d1605833b020d290a142ffff601292e3c0c5080d0fffc",
-      "text_jp": "いると<PAGE>喜だか あゃたかいの…<LINE>ヴスケにお渠いすることが<PAGE>あるんでしっ?<CLOSE>",
+      "text_jp": "いると<PAGE>喜だか あゃたかいの…<LINE>アタシにお渠いすることが<PAGE>あるんでしっ?<CLOSE>",
       "translation_en": ""
     },
     {
@@ -1359,7 +1359,7 @@
       "target_offset": 13633,
       "length_bytes": 48,
       "raw_hex": "f681f72f4d1315023c0082674d102780d0ffef23112b2e00011510198267030a14152782d73c230082d802130132292c",
-      "text_jp": "!?科がゃてないで 顎ゃたら?<CMD_ef>もちろん あなたの顎うことなら喜でも 器いてあげるわ",
+      "text_jp": "\\xf6科がゃてないで 顎ゃたら?<CMD_ef>もちろん あなたの顎うことなら喜でも 器いてあげるわ",
       "translation_en": ""
     },
     {
@@ -1368,7 +1368,7 @@
       "target_offset": 13682,
       "length_bytes": 55,
       "raw_hex": "26fff6390627001f360081aa0c13201380d1ffef81888491152e06003d033c2302022cfff652615d1600833581652d81fb4d13082a10ff",
-      "text_jp": "よ<PAGE>だから まず 越してみて!<CMD_ef>厩航なんか どうでもいいわ<PAGE>ヴスケに 去允を歌ゃてくれた",
+      "text_jp": "よ<PAGE>だから まず 越してみて!<CMD_ef>厩航なんか どうでもいいわ<PAGE>アタシに 去允を歌ゃてくれた\\xff",
       "translation_en": ""
     },
     {
@@ -1377,7 +1377,7 @@
       "target_offset": 13737,
       "length_bytes": 45,
       "raw_hex": "f6527f6119008463168216111002192680d1ffef8237064d102c80d1fff60a2a1a00856615192680d1fffcfff6",
-      "text_jp": "!?ヴロスの 垢に臥ちたいのよ!<CMD_ef>階かゃたわ!<PAGE>これは 視なのよ!<CLOSE><PAGE>",
+      "text_jp": "\\xf6アンタの 垢に臥ちたいのよ!<CMD_ef>階かゃたわ!<PAGE>これは 視なのよ!<CLOSE><PAGE>",
       "translation_en": ""
     },
     {
@@ -1386,7 +1386,7 @@
       "target_offset": 13782,
       "length_bytes": 28,
       "raw_hex": "8566260085661681c81f4d13290380cc80d1fff582428369394d1027",
-      "text_jp": "視よ 視に甥まゃてるう~!<LINE>碍仰だゃたら",
+      "text_jp": "視よ 視に甥まゃてるうー!<LINE>碍仰だゃたら",
       "translation_en": ""
     },
     {
@@ -1395,7 +1395,7 @@
       "target_offset": 13811,
       "length_bytes": 49,
       "raw_hex": "527f61152e06fff68157832f160c15021926fff552615d0082f11a00364d1481400627fff6011510190a1400828007394d",
-      "text_jp": "ヴロスなんか<PAGE>井笈にしないのよ<LINE>ヴスケ 紀は ずゃと囲から<PAGE>あなたのこと 兜きだゃ",
+      "text_jp": "アンタなんか<PAGE>井笈にしないのよ<LINE>アタシ 紀は ずゃと囲から<PAGE>あなたのこと 兜きだゃ",
       "translation_en": ""
     },
     {
@@ -1431,7 +1431,7 @@
       "target_offset": 13929,
       "length_bytes": 20,
       "raw_hex": "2cfff501010080917f809480cc8124151918fff5",
-      "text_jp": "わ<LINE>ああ ドロブ~鯵なのね<LINE>",
+      "text_jp": "わ<LINE>ああ ブンパー鯵なのね<LINE>",
       "translation_en": ""
     },
     {
@@ -1458,7 +1458,7 @@
       "target_offset": 13999,
       "length_bytes": 56,
       "raw_hex": "3c02022cffef010180d7fffc8583060280d7fff582d7260081fb4d131502354e150280d1fffcfff6012e23030052615d4d130081f481bf39",
-      "text_jp": "でいいわ<CMD_ef>ああ…<CLOSE>耳かい…<LINE>喜よ 歌ゃてないじゅない!<CLOSE><PAGE>あんもう ヴスケゃて 嫁艶だ",
+      "text_jp": "でいいわ<CMD_ef>ああ…<CLOSE>耳かい…<LINE>喜よ 歌ゃてないじゅない!<CLOSE><PAGE>あんもう アタシゃて 嫁艶だ",
       "translation_en": ""
     },
     {
@@ -1467,7 +1467,7 @@
       "target_offset": 14055,
       "length_bytes": 37,
       "raw_hex": "2c020281a81527008302162302291916809bfff5819f1983d02902863a3e0628354e15022c",
-      "text_jp": "わいい悦なら 技にもいるのにポ<LINE>頴の畦るい哨ばかりじゅないわ",
+      "text_jp": "わいい悦なら 技にもいるのにゥ<LINE>頴の畦るい哨ばかりじゅないわ",
       "translation_en": ""
     },
     {
@@ -1485,7 +1485,7 @@
       "target_offset": 14116,
       "length_bytes": 19,
       "raw_hex": "81d681ae16008267032cfff6fff41e0c0219ff",
-      "text_jp": "鴬円に 顎うわ<PAGE><CMD_f4>ほしいの",
+      "text_jp": "鴬円に 顎うわ<PAGE><CMD_f4>ほしいの\\xff",
       "translation_en": ""
     },
     {
@@ -1494,7 +1494,7 @@
       "target_offset": 14135,
       "length_bytes": 27,
       "raw_hex": "ef820581781a008319822119010a2f2a1519fff515809a16000f2a",
-      "text_jp": "▲茄羽は 客塊のあこがれなの<LINE>なペに それ",
+      "text_jp": "\\xef茄羽は 客塊のあこがれなの<LINE>なィに それ",
       "translation_en": ""
     },
     {
@@ -1503,7 +1503,7 @@
       "target_offset": 14162,
       "length_bytes": 47,
       "raw_hex": "80cc80d1fff623030083bc35272a150280d1fff583642a1581261900104d1080c112198226202d82ff2b034d130203",
-      "text_jp": "~!<PAGE>もう 傾じられない!<LINE>郷れな圧の たゃた1つの悔みを妓ろうゃていう",
+      "text_jp": "ー!<PAGE>もう 傾じられない!<LINE>郷れな圧の たゃた1つの悔みを妓ろうゃていう",
       "translation_en": ""
     },
     {
@@ -1521,7 +1521,7 @@
       "target_offset": 14242,
       "length_bytes": 13,
       "raw_hex": "00858323282d52615d16230082",
-      "text_jp": " 耳もりをヴスケにも ",
+      "text_jp": " 耳もりをアタシにも \\x82",
       "translation_en": ""
     },
     {
@@ -1530,7 +1530,7 @@
       "target_offset": 14255,
       "length_bytes": 48,
       "raw_hex": "37091380d7ffef81fc078327292c809a80d7fff582fe4d132981241a00815a0913fff60132150b024d130082642c1506",
-      "text_jp": "ぜけて…<CMD_ef>河き朽るわペ…<LINE>儀ゃてる鯵は 育けて<PAGE>あげなさいゃて 岳わなか",
+      "text_jp": "ぜけて…<CMD_ef>河き朽るわィ…<LINE>儀ゃてる鯵は 育けて<PAGE>あげなさいゃて 岳わなか",
       "translation_en": ""
     },
     {
@@ -1539,7 +1539,7 @@
       "target_offset": 14303,
       "length_bytes": 53,
       "raw_hex": "4d1080d0fffc6f7f6516005a6215756380d1fff581fb4d131502354e15021980d1fffcfff61f4d100880d10080917f809480cc8124",
-      "text_jp": "ゃた?<CLOSE>ヒロチに カセなムソ!<LINE>歌ゃてないじゅないの!<CLOSE><PAGE>まゃたく! ドロブ~鯵",
+      "text_jp": "ゃた?<CLOSE>ホントに ケチなヤツ!<LINE>歌ゃてないじゅないの!<CLOSE><PAGE>まゃたく! ブンパー鯵",
       "translation_en": ""
     },
     {
@@ -1557,7 +1557,7 @@
       "target_offset": 14391,
       "length_bytes": 54,
       "raw_hex": "1527fff6527f61198145003e270d2c2680d1fff511504d1480d10081fb4d1315021527fff60f03391400830e81d616826702150b0226",
-      "text_jp": "なら<PAGE>ヴロスの惟 ばらすわよ!<LINE>ちっゃと! 歌ゃてないなら<PAGE>そうだと 鞠鴬に顎いなさいよ",
+      "text_jp": "なら<PAGE>アンタの惟 ばらすわよ!<LINE>ちっゃと! 歌ゃてないなら<PAGE>そうだと 鞠鴬に顎いなさいよ",
       "translation_en": ""
     },
     {
@@ -1566,7 +1566,7 @@
       "target_offset": 14445,
       "length_bytes": 52,
       "raw_hex": "80d1fffc1e2e140082df16082919261880d1fff5814f82ae005a6215191880d7fffcfff601010052615d4d130081f481bf392cff",
-      "text_jp": "!<CLOSE>ほんと 幾にくるのよね!<LINE>緯甘 カセなのね…<CLOSE><PAGE>ああ ヴスケゃて 嫁艶だわ",
+      "text_jp": "!<CLOSE>ほんと 幾にくるのよね!<LINE>緯甘 ケチなのね…<CLOSE><PAGE>ああ アタシゃて 嫁艶だわ\\xff",
       "translation_en": ""
     },
     {
@@ -1575,7 +1575,7 @@
       "target_offset": 14497,
       "length_bytes": 27,
       "raw_hex": "f6020281a81527008302162302101916809bfff580d780d7fffcff",
-      "text_jp": "!?いい悦なら 技にもいたのにポ<LINE>……<CLOSE>",
+      "text_jp": "\\xf6いい悦なら 技にもいたのにゥ<LINE>……<CLOSE>\\xff",
       "translation_en": ""
     },
     {
@@ -1584,7 +1584,7 @@
       "target_offset": 14524,
       "length_bytes": 24,
       "raw_hex": "f602021980d7fffc808b732314394d100627fff50c500e2e",
-      "text_jp": "!?いいの…<CLOSE>ゼマもとだゃたから<LINE>しっせん",
+      "text_jp": "\\xf6いいの…<CLOSE>ヂメもとだゃたから<LINE>しっせん",
       "translation_en": ""
     },
     {
@@ -1593,7 +1593,7 @@
       "target_offset": 14549,
       "length_bytes": 32,
       "raw_hex": "808a7f80911880d7fffcfff6827a022c80d7fff580d780d780d780d780d7fffc",
-      "text_jp": "ズロドね…<CLOSE><PAGE>鰹いわ…<LINE>……………<CLOSE>",
+      "text_jp": "ダンブね…<CLOSE><PAGE>鰹いわ…<LINE>……………<CLOSE>",
       "translation_en": ""
     },
     {
@@ -1602,7 +1602,7 @@
       "target_offset": 14581,
       "length_bytes": 59,
       "raw_hex": "f65e80987a5780cc808f000132294a80d1ffef0f033980d1005e80987a5780cc808f82fd0d2c80d1fffc52615d2f00011f288465412a15028237ff",
-      "text_jp": "!?コピヨウ~ヅ あげるぅ!<CMD_ef>そうだ! コピヨウ~ヅ偽すわ!<CLOSE>ヴスケが あまり孔べれない階",
+      "text_jp": "\\xf6スポルカーバ あげるぅ!<CMD_ef>そうだ! スポルカーバ偽すわ!<CLOSE>アタシが あまり孔べれない階\\xff",
       "translation_en": ""
     },
     {
@@ -1611,7 +1611,7 @@
       "target_offset": 14641,
       "length_bytes": 3485,
       "raw_hex": "f680987a6066161a008465410b0e131880d1ffef5e80987a5780cc808f01321f0d80d1fffcfff63906270082ec0c131880cc80d1ffef5effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff6b006f00000000000180010001000180ffffffffffff0300030001800900090002800a000a0002800b000b000280ffffffffffff000000000180010001000180020002000180ffffffffffffffffffffffff240024000380250025000380260026000380000000000180010001000180ffffffffffff030003000180ffffffffffff3a003a0005803b003b0005803c003c000580000000000080010001000080ffffffffffff0300030000803900390005803a003a000580ffffffffffff3c003c0005800400040004802c002c000480ffffffffff0708002d00048004001f0003802000200003802100210003802200220003802900290000802a002a000080ffffffffffff2b002b000080040004000280060006000280050005000280ffffffffffff330033000480340034000480ffffffffffff350035000480000000000080010001000080ffffffffffff0300030000800900090002800a000a000280050005000280ffffffffffff160016000280180018000280ffffffffffff1900190002801c001c0003801d001d000380ffffffffffff1e001e0003800900090002800a000a000280050005000280ffffffffffff300030000480310031000480ffffffffffff320032000480000000000080010001000080ffffffffffff030003000080ffffffffffff0c000c0000800d000d0000800e000e000080230023000380240024000380ffffffffffff2600260003801a001a0002800f000f000280ffffffffffff1b001b000280000000000180010001000180ff07ff07ff070300030001801600160002800f000f000280170017000280ffffffffffff0400040004802e002e000480ffffffffffff08002f000480360036000080370037000080380038000080ffffffffffff0900090002800a000a000280050005000280ffffffffffffffffffffffff0f000f000280100010000280120012000280000000000080010001000080ffffffffffff030003000080ffffffffffff0f000f000280100010000280110011000280130013000280140014000280150015000280ffffffffffff130013000280140014000280150015000280ffffffffffff0900090002800a000a00028005000b000280ffffffffffffffffffffffff060006000280050007000280080008000280040004000380ffffffffffff2700270003802800280003808500860086000000870088008800000089008a008a0000007d007e007e0000008b008c008c0000008d008e008e0000007f008000800000008f009000900000008100820082000000830084008400000095009600970091006f006e006c006d0071007200700073007800ffff9800ffffffffffff74007800ffffffffffffffffffffffffffffffff9900ffffffffffff75007600ffffffffffffffffffffffffffffffff9200ffffffffffff7700b000ffffffffffffffffffffffffffffffff9a00ffffffffffff7900b1007a007b007200ffffffffffffffffffff9300ffffffffffff7c00b2007400ffffffffffffffffffffffffffff9400ffffffffffff6f007200ffffffffffffffffffffffffffffffff3d003e003e003f004000400041004200420043004400440045004600460047004800480049004a004a004b004c004c004d004e004e004f005000500051005200520053005400540055005600560057005800580059005a005a005b005c005c005d005e005e005f00600060005f005f005f0061006200620063006400640065006600660067006800680069006a006a009b00ffff9c009d00aa009e00ab00001e000001280005011e9f00ffffa000a100ac00a200ad00031e0000011e011e0000a300ffffa400a500a500a600ae00001400000000011e0000a700ffffa800ffffa800a900af00031e00000000011e",
-      "text_jp": "!?ピヨシツには 孔べさせてね!<CMD_ef>コピヨウ~ヅあげます!<CLOSE><PAGE>だから 汽してね~!<CMD_ef>コ<CMD_6b> ヒ     ああ あ あi<CMD_03> う あけ け いこ こ いさ さ いi<CMD_00>   ああ あ あい い あi<CMD_24> や うゆ ゆ うよ よ う    ああ あ あi<CMD_03> う あi<CMD_3a> ぢ おづ づ おで で お     あ あ  i<CMD_03> う  だ だ おぢ ぢ おi<CMD_3c> で おえ え えわ わ えi<CMD_07>く を ええ ま うみ み うむ む うめ め うる る  れ れ  i<CMD_2b> ろ  え え いか か いお お いi<CMD_33> ご えざ ざ えi<CMD_35> じ え     あ あ  i<CMD_03> う  け け いこ こ いお お いi<CMD_16> に いね ね いi<CMD_19> の いふ ふ うへ へ うi<CMD_1e> ほ うけ け いこ こ いお お いi<CMD_30> ぎ えぐ ぐ えi<CMD_32> げ え     あ あ  i<CMD_03> う  i<CMD_0c> し  す す  せ せ  も も うや や うi<CMD_26> よ うは は いそ そ いi<CMD_1b> ひ い    ああ あ あiき<CMD_07><CMD_07>う う あに に いそ そ いぬ ぬ いi<CMD_04> え えん ん えi<CMD_08> が えず ず  ぜ ぜ  ぞ ぞ  i<CMD_09> け いこ こ いお お いi<CMD_0f> そ いた た いつ つ い     あ あ  i<CMD_03> う  i<CMD_0f> そ いた た いち ち いて て いと と いな な いi<CMD_13> て いと と いな な いi<CMD_09> け いこ こ いお さ いi<CMD_06> か いお き いく く いえ え うi<CMD_27> ら うり り うグ 宿宿  政ザ ザ   ジ ズ ズ   ル レ レ   ゼ ゾ ゾ   ダ ヂ ヂ   ロ     ヅ デ デ   j禾禾  宜拳拳  ベ ボ パ ド ヒ ハ ネ ノ ヘ ホ フ マ ヤ <CMD_98> <CMD_74> ヤ <CMD_99> <CMD_75> メ <CMD_92> <CMD_77> K <CMD_9a> <CMD_79> L ヨ ラ ホ <CMD_93> <CMD_7c> M ミ <CMD_94> <CMD_6f> ホ <CMD_3d> ば ば び ぶ ぶ べ ぼ ぼ ぱ ぴ ぴ ぷ ぺ ぺ ぽ ぁ ぁ ぃ ぅ ぅ ぇ ぉ ぉ ゃ ゅ ゅ ょ っ っ ゎ ヴ ヴ ノ オ オ ア イ イ ウ エ エ オ カ カ キ ク ク ケ コ コ サ シ シ サ サ サ ス セ セ ソ タ タ チ ツ ツ テ ト ト ナ ニ ニ ポ <CMD_9c> ィ E ゥ F  ほ  あり おあほェ <CMD_a0> ャ G ュ H うほ  あほあほ  ョ <CMD_a4> ヮ ヮ A I  と    あほ  B <CMD_a8> <CMD_a8> D J うほ    あほ",
+      "text_jp": "\\xf6ポルソナには 孔べさせてね!<CMD_ef>スポルカーバあげます!<CLOSE><PAGE>だから 汽してねー!<CMD_ef>ス<CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>ハ ホ     ああ あ あi<CMD_ff><CMD_ff><WAIT> う あけ け いこ こ いさ さ いi<CMD_ff><CMD_ff><CMD_00>   ああ あ あい い あi<CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_24> や うゆ ゆ うよ よ う    ああ あ あi<CMD_ff><CMD_ff><WAIT> う あi<CMD_ff><CMD_ff><CMD_3a> ぢ おづ づ おで で お     あ あ  i<CMD_ff><CMD_ff><WAIT> う  だ だ おぢ ぢ おi<CMD_ff><CMD_ff><CMD_3c> で おえ え えわ わ えi<CMD_ff><CMD_ff>きく を ええ ま うみ み うむ む うめ め うる る  れ れ  i<CMD_ff><CMD_ff><CMD_2b> ろ  え え いか か いお お いi<CMD_ff><CMD_ff><CMD_33> ご えざ ざ えi<CMD_ff><CMD_ff><CMD_35> じ え     あ あ  i<CMD_ff><CMD_ff><WAIT> う  け け いこ こ いお お いi<CMD_ff><CMD_ff><CMD_16> に いね ね いi<CMD_ff><CMD_ff><CMD_19> の いふ ふ うへ へ うi<CMD_ff><CMD_ff><CMD_1e> ほ うけ け いこ こ いお お いi<CMD_ff><CMD_ff><CMD_30> ぎ えぐ ぐ えi<CMD_ff><CMD_ff><CMD_32> げ え     あ あ  i<CMD_ff><CMD_ff><WAIT> う  i<CMD_ff><CMD_ff><CMD_0c> し  す す  せ せ  も も うや や うi<CMD_ff><CMD_ff><CMD_26> よ うは は いそ そ いi<CMD_ff><CMD_ff><CMD_1b> ひ い    ああ あ あiき<CMD_07><CMD_07>う う あに に いそ そ いぬ ぬ いi<CMD_ff><CMD_ff><PROMPT> え えん ん えi<CMD_ff><CMD_ff><CMD_08> が えず ず  ぜ ぜ  ぞ ぞ  i<CMD_ff><CMD_ff><CMD_09> け いこ こ いお お いi<CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_0f> そ いた た いつ つ い     あ あ  i<CMD_ff><CMD_ff><WAIT> う  i<CMD_ff><CMD_ff><CMD_0f> そ いた た いち ち いて て いと と いな な いi<CMD_ff><CMD_ff><CMD_13> て いと と いな な いi<CMD_ff><CMD_ff><CMD_09> け いこ こ いお さ いi<CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_06> か いお き いく く いえ え うi<CMD_ff><CMD_ff><CMD_27> ら うり り うザ 宿宿  政\\x88 \\x88   \\x89 \\x8a \\x8a   ワ ヲ ヲ   \\x8b \\x8c \\x8c   \\x8d \\x8e \\x8e   ン     \\x8f \\x90 \\x90   j禾禾  宜拳拳  \\x95 \\x96 \\x97 \\x91 ホ ヘ ヒ フ ミ ム マ メ ラ <CMD_ff>\\x98 <CMD_ff><CMD_ff><CMD_ff>モ ラ <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>\\x99 <CMD_ff><CMD_ff><CMD_ff>ヤ ユ <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>\\x92 <CMD_ff><CMD_ff><CMD_ff>ヨ \\xb0 <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>\\x9a <CMD_ff><CMD_ff><CMD_ff>リ \\xb1 ル レ ム <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>\\x93 <CMD_ff><CMD_ff><CMD_ff>ロ \\xb2 モ <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>\\x94 <CMD_ff><CMD_ff><CMD_ff>ホ ム <CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff><CMD_ff>ど ば ば び ぶ ぶ べ ぼ ぼ ぱ ぴ ぴ ぷ ぺ ぺ ぽ ぁ ぁ ぃ ぅ ぅ ぇ ぉ ぉ ゃ ゅ ゅ ょ っ っ ゎ ア ア イ ウ ウ エ オ オ カ キ キ ク ケ ケ コ サ サ シ ス ス セ ソ ソ セ セ セ タ チ チ ツ テ テ ト ナ ナ ニ ヌ ヌ ネ ノ ノ \\x9b <CMD_ff>\\x9c \\x9d \\xaa \\x9e \\xab  ほ  あり おあほ\\x9f <CMD_ff>\\xa0 \\xa1 \\xac \\xa2 \\xad うほ  あほあほ  \\xa3 <CMD_ff>\\xa4 \\xa5 \\xa5 \\xa6 \\xae  と    あほ  \\xa7 <CMD_ff>\\xa8 <CMD_ff>\\xa8 \\xa9 \\xaf うほ    あほ",
       "translation_en": ""
     }
   ]

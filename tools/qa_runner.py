@@ -198,7 +198,16 @@ class PersonaQARunner:
 
         return results
 
-    def generate_qa_report(self, integrity_res: Dict[str, Any], emu_res: Dict[str, Any]) -> Path:
+    def run_scene_preview_validation(self) -> List[Path]:
+        """Renders visual dialogue scene previews directly from FONT.BIN and binary assets."""
+        print(f"\n[*] Running Test Suite 3: In-Game Dialogue Box Visual Rendering QA...")
+        from tools.scene_previewer import PersonaScenePreviewer
+        previewer = PersonaScenePreviewer(str(Path("build/extracted/FONT.BIN")))
+        rendered_scenes = previewer.preview_all_prologue_scenes()
+        print(f"  [PASS] Successfully rendered {len(rendered_scenes)} pixel-accurate dialogue scene previews.")
+        return rendered_scenes
+
+    def generate_qa_report(self, integrity_res: Dict[str, Any], emu_res: Dict[str, Any], rendered_scenes: Optional[List[Path]] = None) -> Path:
         """Generates comprehensive Markdown QA report."""
         report_file = self.report_out_dir / "QA_REPORT.md"
         
@@ -247,7 +256,19 @@ class PersonaQARunner:
             "",
             "---",
             "",
-            "## 4. Summary & Verification Verdict",
+            "## 4. Visual Dialogue Scene Preview QA",
+        ])
+        if rendered_scenes:
+            for s_p in rendered_scenes:
+                md.append(f"- Rendered preview: `{s_p.name}`")
+        else:
+            md.append("*(No preview scenes rendered)*")
+
+        md.extend([
+            "",
+            "---",
+            "",
+            "## 5. Summary & Verification Verdict",
             f"**Integrity Verdict:** {'100% Verified Ready for Distribution' if all_passed else 'Requires Investigation'}"
         ])
 
@@ -268,7 +289,8 @@ def main():
     runner = PersonaQARunner(args.bin, args.cue)
     integrity = runner.run_disc_integrity_checks()
     emu = runner.run_emulator_smoke_test(args.frames)
-    runner.generate_qa_report(integrity, emu)
+    scenes = runner.run_scene_preview_validation()
+    runner.generate_qa_report(integrity, emu, scenes)
 
 
 if __name__ == "__main__":

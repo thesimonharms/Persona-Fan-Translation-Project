@@ -1,2086 +1,2086 @@
 {
-  "file": "GAKI.BIN",
-  "type": "TALK_DEMON_NEGOTIATION",
-  "total_strings": 231,
-  "entries": [
-    {
-      "id": 0,
-      "pointer_offset": 20,
-      "target_offset": 8192,
-      "length_bytes": 22,
-      "raw_hex": "311a4880d1fffcfff6526780821686ba2a111f033780",
-      "text_jp": "ぐはぁ！<CLOSE><PAGE>ヴテンに診れちまうぜ",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 1,
-      "pointer_offset": 24,
-      "target_offset": 8234,
-      "length_bytes": 35,
-      "raw_hex": "d1fff6234d1400828f83680c13082a4b80d1fff5152e3900809057242b0380d1fffcff",
-      "text_jp": "！<PAGE>もゃと 侃驚してくれぇ！<LINE>なんだ デウやろう！<CLOSE>",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 2,
-      "pointer_offset": 28,
-      "target_offset": 8269,
-      "length_bytes": 61,
-      "raw_hex": "f60f2e1581aa1a0082d8071008184b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6808158198081581029567b2f82d282d30680d080",
-      "text_jp": "！？そんな越は 器きたくねぇぞ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヲエのヲエたるイラが顔願か？",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 3,
-      "pointer_offset": 32,
-      "target_offset": 8330,
-      "length_bytes": 46,
-      "raw_hex": "d1304e1a1a1a80d100304e80cc1a4d1a80d1fff5567b2d00838981dd0d294d130680d0fffcfff6311a4880d1fffc",
-      "text_jp": "！ぎゅははは！ ぎゅ~はゃは！<LINE>イラを 銀屋するゃてか？<CLOSE><PAGE>ぐはぁ！<CLOSE>",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 4,
-      "pointer_offset": 36,
-      "target_offset": 8376,
-      "length_bytes": 51,
-      "raw_hex": "f65267808200834a2c0c13082a293780d1fff5152e3900809057242b0380d1fff6567b16005a7f5781af290680d180d0fffcff",
-      "text_jp": "！？ヴテン 競わしてくれるぜ！<LINE>なんだ デウやろう！<PAGE>イラに カロウ園るか！？<CLOSE>",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 5,
-      "pointer_offset": 40,
-      "target_offset": 8428,
-      "length_bytes": 19,
-      "raw_hex": "f6152e3c230084a2033800808480944d80d1ff",
-      "text_jp": "！？なんでも 鴻うぞ ギブゃ！",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 6,
-      "pointer_offset": 44,
-      "target_offset": 8447,
-      "length_bytes": 48,
-      "raw_hex": "f55680d7fffc567b2f82d70c104d130680d0fff5311a4880d1fffcfff65267808200020281450c132e154880d7fffcff",
-      "text_jp": "♂イ…<CLOSE>イラが喜したゃてか？<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン いい惟してんなぁ…<CLOSE>",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 7,
-      "pointer_offset": 48,
-      "target_offset": 8495,
-      "length_bytes": 30,
-      "raw_hex": "f6152e3906000f1982181680d7311a4880d1fff5567b1a000f2e15000583",
-      "text_jp": "！？なんだか その蛾に…ぐはぁ！<LINE>イラは そんな お",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 8,
-      "pointer_offset": 52,
-      "target_offset": 8525,
-      "length_bytes": 30,
-      "raw_hex": "2f845215fff6808158354e15023880d180d1fff5526780824980d7fffcff",
-      "text_jp": "が鯉な<PAGE>ヲエじゅないぞ！！<LINE>ヴテンぃ…<CLOSE>",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 9,
-      "pointer_offset": 56,
-      "target_offset": 8555,
-      "length_bytes": 32,
-      "raw_hex": "f681aa0c13298192190082382f0a4b0480d7fff5152e3900809057242b0380d1",
-      "text_jp": "！？越してる叡の 貝がこぇえ…<LINE>なんだ デウやろう！",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 10,
-      "pointer_offset": 60,
-      "target_offset": 8587,
-      "length_bytes": 27,
-      "raw_hex": "fcfff60c271c3c00824f4d132e154880d1fff5526780824980d7ff",
-      "text_jp": "[G_252]<PAGE>しらふで 劃ゃてんなぁ！<LINE>ヴテンぃ…",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 11,
-      "pointer_offset": 64,
-      "target_offset": 8615,
-      "length_bytes": 59,
-      "raw_hex": "fcfff66a808f02062a132e3780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff652678082006a796a79391580d1fffcfff682",
-      "text_jp": "[G_252]<PAGE>ニヅいかれてんぜ………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴテン ニユニユだな！<CLOSE><PAGE>",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 12,
-      "pointer_offset": 68,
-      "target_offset": 8674,
-      "length_bytes": 42,
-      "raw_hex": "2b832f15824f00234d1482d807134b3780d1fff5311a4880d1fffcfff65269808200821c8210391580d1",
-      "text_jp": "ろ笈な劃 もゃと器きてぇぜ！<LINE>ぐはぁ！<CLOSE><PAGE>ヴナン 駕蚊だな！",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 13,
-      "pointer_offset": 72,
-      "target_offset": 8716,
-      "length_bytes": 22,
-      "raw_hex": "f60f19846983a80086ba2a0f03393780d1fff5152e39",
-      "text_jp": "！？その巧轡 診れそうだぜ！<LINE>なんだ",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 14,
-      "pointer_offset": 76,
-      "target_offset": 8739,
-      "length_bytes": 52,
-      "raw_hex": "00809057242b0380d1fff61e0601102a80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b2f82d282d3152e391580d1",
-      "text_jp": " デウやろう！<PAGE>ほかあたれ！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>イラが顔願なんだな！",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 15,
-      "pointer_offset": 80,
-      "target_offset": 8791,
-      "length_bytes": 43,
-      "raw_hex": "fcfff6827b2c360084a34d114e031880d1fff5152e3900809057242b0380d1fff6567b1a000f2e15823902",
-      "text_jp": "[G_252]<PAGE>叶わず 剛ゃちゅうね！<LINE>なんだ デウやろう！<PAGE>イラは そんな凱い",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 16,
-      "pointer_offset": 84,
-      "target_offset": 8835,
-      "length_bytes": 25,
-      "raw_hex": "82678351161afff61b4d06062715023880d1fff55269808280",
-      "text_jp": "顎喬には<PAGE>ひゃかからないぞ！<LINE>ヴナン",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 17,
-      "pointer_offset": 88,
-      "target_offset": 8860,
-      "length_bytes": 54,
-      "raw_hex": "d7fffcfff6865e2e3c29392b80d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b1a008081583980d63780d6",
-      "text_jp": "…<CLOSE><PAGE>症んでるだろ………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラは ヲエだ’ぜ’",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 18,
-      "pointer_offset": 92,
-      "target_offset": 8914,
-      "length_bytes": 37,
-      "raw_hex": "80d1fff60d33022e3980d63780d680d180d1fff5311a4880d1fffcfff6526980824d130002",
-      "text_jp": "！<PAGE>すごいんだ’ぜ’！！<LINE>ぐはぁ！<CLOSE><PAGE>ヴナンゃて い",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 19,
-      "pointer_offset": 96,
-      "target_offset": 8951,
-      "length_bytes": 34,
-      "raw_hex": "071528fff6817d150a148267032e391580d6fff50f2e152c0900184b392b80d1fff6",
-      "text_jp": "きなり<PAGE>窺なこと顎うんだな’<LINE>そんなわけ ねぇだろ！<PAGE>",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 20,
-      "pointer_offset": 100,
-      "target_offset": 8985,
-      "length_bytes": 56,
-      "raw_hex": "5680905500809057354e184b190680d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6526980820082df3c2384b74d102f80",
-      "text_jp": "イデア デウじゅねぇのか！！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴナン 幾でも腰ゃたが",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 21,
-      "pointer_offset": 104,
-      "target_offset": 9041,
-      "length_bytes": 41,
-      "raw_hex": "d0fff60f1982563c00856620132e152680d1fff5311a4880d1fffcfff6567b2d853b2f4d13082a2919",
-      "text_jp": "？<PAGE>その核で 視みてんなよ！<LINE>ぐはぁ！<CLOSE><PAGE>イラを酸がゃてくれるの",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 22,
-      "pointer_offset": 108,
-      "target_offset": 9082,
-      "length_bytes": 30,
-      "raw_hex": "1afff65e7853723909354e184b2e391580d1fff5152e3900809057242b03",
-      "text_jp": "は<PAGE>コヤノホだけじゅねぇんだな！<LINE>なんだ デウやろう",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 23,
-      "pointer_offset": 112,
-      "target_offset": 9112,
-      "length_bytes": 55,
-      "raw_hex": "80d1fffcfff6568090550003290e4b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b4d1300853b02392b0380d1ff",
-      "text_jp": "！<CLOSE><PAGE>イデア うるせぇぞ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラゃて 酸いだろう！",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 24,
-      "pointer_offset": 116,
-      "target_offset": 9167,
-      "length_bytes": 44,
-      "raw_hex": "f6304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780824d13852885c98127020680",
-      "text_jp": "！？ぎゅははは！ ぎゅ~はゃは！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテンゃて鮫腫斡いか",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 25,
-      "pointer_offset": 120,
-      "target_offset": 9211,
-      "length_bytes": 48,
-      "raw_hex": "d180d0fff682f684c20c111f033780d680d1fff5152e3900809057242b0380d1fffcfff6567b1a008285393880d180d1",
-      "text_jp": "！？<PAGE>起坤しちまうぜ’！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラは 噛だぞ！！",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 26,
-      "pointer_offset": 124,
-      "target_offset": 9259,
-      "length_bytes": 27,
-      "raw_hex": "80d1fff615222e1580d1000b0d3880d180d1fff552005267808280",
-      "text_jp": "！<PAGE>なめんな！ さすぞ！！<LINE>ヴ ヴテン",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 27,
-      "pointer_offset": 128,
-      "target_offset": 9286,
-      "length_bytes": 57,
-      "raw_hex": "d7fffcfff6849e834039261580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff65267808223000582382f825c0280d1ff",
-      "text_jp": "…<CLOSE><PAGE>降漁だよな………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴテンも お貝が角い！",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 28,
-      "pointer_offset": 132,
-      "target_offset": 9343,
-      "length_bytes": 46,
-      "raw_hex": "f6567b0080847c81e38206020627154880d1fff5311a4880d1fffcfff65267808219808280a280838182825c3937",
-      "text_jp": "！？イラ ギリ俺荷いからなぁ！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテンのンュガ嘘角だぜ",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 29,
-      "pointer_offset": 136,
-      "target_offset": 9389,
-      "length_bytes": 43,
-      "raw_hex": "80d1fff682821981c581653c39093d1580d1fff5814d863600834a04184b80d7fffcfff6815681c52f002c",
-      "text_jp": "！<PAGE>蒲の塩允でだけどな！<LINE>移勝 競えねぇ…<CLOSE><PAGE>医塩が わ",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 30,
-      "pointer_offset": 140,
-      "target_offset": 9432,
-      "length_bytes": 49,
-      "raw_hex": "021037fffcfff6526780820081342e3c082afff51280d7121f27184b80d7fffcfff682d619808280a280833c80d7fffcff",
-      "text_jp": "いたぜ<CLOSE><PAGE>ヴテン 庵んでくれ<LINE>つ…つまらねぇ…<CLOSE><PAGE>危のンュガで…<CLOSE>",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 31,
-      "pointer_offset": 144,
-      "target_offset": 9481,
-      "length_bytes": 43,
-      "raw_hex": "f6828c828d2f84823f292e354e18040680d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff65267",
-      "text_jp": "！？苅瓦が甲びるんじゅねえか…<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴテ",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 32,
-      "pointer_offset": 148,
-      "target_offset": 9524,
-      "length_bytes": 24,
-      "raw_hex": "808200818281f719808280a28083393780d1fff5311a4880",
-      "text_jp": "ン 嘘科のンュガだぜ！<LINE>ぐはぁ",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 33,
-      "pointer_offset": 152,
-      "target_offset": 9548,
-      "length_bytes": 34,
-      "raw_hex": "d1fffcfff60f2a062780d0000f2a062780d0fff539062782d7152e392680d1fffcff",
-      "text_jp": "！<CLOSE><PAGE>それから？ それから？<LINE>だから喜なんだよ！<CLOSE>",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 34,
-      "pointer_offset": 156,
-      "target_offset": 9582,
-      "length_bytes": 54,
-      "raw_hex": "f6808158161a83248396184b81aa392b80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60f0302030082d73c23184b81aa",
-      "text_jp": "！？ヲエには弓具ねぇ越だろ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>そういう 喜でもねぇ越",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 35,
-      "pointer_offset": 160,
-      "target_offset": 9636,
-      "length_bytes": 39,
-      "raw_hex": "0d27fff682d619567b161a0082e782ed80d1fff5311a4880d1fffcfff6526780824d1300813d02",
-      "text_jp": "すら<PAGE>危のイラには 棄畿！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテンゃて 位い",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 36,
-      "pointer_offset": 164,
-      "target_offset": 9675,
-      "length_bytes": 46,
-      "raw_hex": "8252391580d1fff686ba2a0f0339374b80d1fff5152e3900809057242b0380d1fffcfff68337809563843384322f",
-      "text_jp": "廓だな！<PAGE>診れそうだぜぇ！<LINE>なんだ デウやろう！<CLOSE><PAGE>巨ベソ糊狐が",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 37,
-      "pointer_offset": 168,
-      "target_offset": 9722,
-      "length_bytes": 34,
-      "raw_hex": "0202821816fff6154d132e354e184b3880d1fff582d63d07000f2e150a1480d7fffc",
-      "text_jp": "いい蛾に<PAGE>なゃてんじゅねぇぞ！<LINE>危どき そんなこと…<CLOSE>",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 38,
-      "pointer_offset": 172,
-      "target_offset": 9756,
-      "length_bytes": 40,
-      "raw_hex": "f65267808200758090532680d780d780d7fff5311a4880d1fffcfff65267808200822981fb11152e",
-      "text_jp": "！？ヴテン ムデノよ………<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン 戒歌ちなん",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 39,
-      "pointer_offset": 176,
-      "target_offset": 9797,
-      "length_bytes": 31,
-      "raw_hex": "391580d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380",
-      "text_jp": "だな！<PAGE>診れちまいそうだぜ！<LINE>なんだ デウやろう",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 40,
-      "pointer_offset": 180,
-      "target_offset": 9828,
-      "length_bytes": 56,
-      "raw_hex": "d1fffcfff6567b1a870f86f0152e392680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff63d2e3d2e00567b160020123280d1ff",
-      "text_jp": "！<CLOSE><PAGE>イラは西雀なんだよ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>どんどん イラに みつげ！",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 41,
-      "pointer_offset": 184,
-      "target_offset": 9884,
-      "length_bytes": 43,
-      "raw_hex": "f6304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780820082498188837b832015",
-      "text_jp": "！？ぎゅははは！ ぎゅ~はゃは！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン 馨厩欽休な",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 42,
-      "pointer_offset": 188,
-      "target_offset": 9927,
-      "length_bytes": 37,
-      "raw_hex": "2e391580d1fff60f03020319008280073926fff5152e3900809057242b0380d1fffcfff682",
-      "text_jp": "んだな！<PAGE>そういうの 兜きだよ<LINE>なんだ デウやろう！<CLOSE><PAGE>",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 43,
-      "pointer_offset": 192,
-      "target_offset": 9964,
-      "length_bytes": 36,
-      "raw_hex": "53828f152e130083358165184b2e392680d1fff5304e1a1a1a80d100304e80cc1a4d1a80",
-      "text_jp": "ノ侃なんて 去允ねぇんだよ！<LINE>ぎゅははは！ ぎゅ~はゃは",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 44,
-      "pointer_offset": 196,
-      "target_offset": 10000,
-      "length_bytes": 38,
-      "raw_hex": "d1fff65267808219008267031405283980d1fff5311a4880d1fff60c80d7fffc0c3f2a293780",
-      "text_jp": "！<PAGE>ヴテンの 顎うとおりだ！<LINE>ぐはぁ！<PAGE>し…<CLOSE>しびれるぜ",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 45,
-      "pointer_offset": 200,
-      "target_offset": 10038,
-      "length_bytes": 44,
-      "raw_hex": "d7fffcfff6567b230082674d1320134b80d1fff5152e3900809057242b0380d1fffcfff656809055160083bd",
-      "text_jp": "…<CLOSE><PAGE>イラも 顎ゃてみてぇ！<LINE>なんだ デウやろう！<CLOSE><PAGE>イデアに 刑",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 46,
-      "pointer_offset": 204,
-      "target_offset": 10082,
-      "length_bytes": 29,
-      "raw_hex": "86a5272a29fff60542041a184b2e393880d1fff5526780824980d7fffc",
-      "text_jp": "寝られる<PAGE>おぼえはねぇんだぞ！<LINE>ヴテンぃ…<CLOSE>",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 47,
-      "pointer_offset": 208,
-      "target_offset": 10111,
-      "length_bytes": 25,
-      "raw_hex": "f60f2e1500816d8169242213082a2680d7fff5311a4880d1ff",
-      "text_jp": "！？そんな 淫因やめてくれよ…<LINE>ぐはぁ！",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 48,
-      "pointer_offset": 212,
-      "target_offset": 10137,
-      "length_bytes": 32,
-      "raw_hex": "f6567b23008198828c0c10232e39154880d1fff556809055198267030a141aff",
-      "text_jp": "！？イラも 栄苅したもんだなぁ！<LINE>イデアの顎うことは",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 49,
-      "pointer_offset": 216,
-      "target_offset": 10169,
-      "length_bytes": 56,
-      "raw_hex": "f6152e0600830e81d61682d809184b1580d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082002c064d1329184b80d1fffcff",
-      "text_jp": "！？なんか 鞠鴬に器けねぇな！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>ヴテン わかゃてるねぇ！<CLOSE>",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 50,
-      "pointer_offset": 220,
-      "target_offset": 10225,
-      "length_bytes": 40,
-      "raw_hex": "f6304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780820081c81f4d1329",
-      "text_jp": "！？ぎゅははは！ ぎゅ~はゃは！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン 甥まゃてる",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 51,
-      "pointer_offset": 224,
-      "target_offset": 10265,
-      "length_bytes": 43,
-      "raw_hex": "184b80d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380d1fff6822b832f4d44491584",
-      "text_jp": "ねぇ！<PAGE>診れちまいそうだぜ！<LINE>なんだ デウやろう！<PAGE>改笈ゃぴぃな",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 52,
-      "pointer_offset": 228,
-      "target_offset": 10308,
-      "length_bytes": 52,
-      "raw_hex": "a328152e13fff6821b0e2e354e184b2680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082002429354e18040680",
-      "text_jp": "ョりなんて<PAGE>餓せんじゅねぇよ！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>ヴテン やるじゅねえか",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 53,
-      "pointer_offset": 232,
-      "target_offset": 10360,
-      "length_bytes": 46,
-      "raw_hex": "d1fffcfff6234d1483851c4d13082a4b80d1fff5567b2d00838981dd0d294d130680d0fffcfff6311a4880d1fffc",
-      "text_jp": "！<CLOSE><PAGE>もゃと謹ふゃてくれぇ！<LINE>イラを 銀屋するゃてか？<CLOSE><PAGE>ぐはぁ！<CLOSE>",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 54,
-      "pointer_offset": 236,
-      "target_offset": 10406,
-      "length_bytes": 51,
-      "raw_hex": "f65267808200834a2c0c13082a293780d1fff5152e3900809057242b0380d1fff6567b16005a7f5781af290680d180d0fffcff",
-      "text_jp": "！？ヴテン 競わしてくれるぜ！<LINE>なんだ デウやろう！<PAGE>イラに カロウ園るか！？<CLOSE>",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 55,
-      "pointer_offset": 240,
-      "target_offset": 10458,
-      "length_bytes": 19,
-      "raw_hex": "f6152e3c230084a2033800808480944d80d1ff",
-      "text_jp": "！？なんでも 鴻うぞ ギブゃ！",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 56,
-      "pointer_offset": 244,
-      "target_offset": 10477,
-      "length_bytes": 38,
-      "raw_hex": "f55680d7fffc567b2f82d70c104d130680d0fff5311a4880d1fffcfff65267808200821b1222",
-      "text_jp": "♂イ…<CLOSE>イラが喜したゃてか？<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン 餓つめ",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 57,
-      "pointer_offset": 248,
-      "target_offset": 10515,
-      "length_bytes": 31,
-      "raw_hex": "298157832f2ffff682cf0320134b393780d1fff5152e3900809057242b0380",
-      "text_jp": "る井笈が<PAGE>贋うみてぇだぜ！<LINE>なんだ デウやろう",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 58,
-      "pointer_offset": 252,
-      "target_offset": 10546,
-      "length_bytes": 37,
-      "raw_hex": "d1fff6352b352b00821b2e354e184b2680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1",
-      "text_jp": "！<PAGE>じろじろ 餓んじゅねぇよ！<LINE>ぎゅははは！ ぎゅ~はゃは！",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 59,
-      "pointer_offset": 256,
-      "target_offset": 10583,
-      "length_bytes": 36,
-      "raw_hex": "fcfff6567b1600821b142a29154d1380d1fff5311a4880d1fffcfff6526780824d130002",
-      "text_jp": "[G_252]<PAGE>イラに 餓とれるなゃて！<LINE>ぐはぁ！<CLOSE><PAGE>ヴテンゃて い",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 60,
-      "pointer_offset": 260,
-      "target_offset": 10620,
-      "length_bytes": 36,
-      "raw_hex": "071528fff6817d150a148267032e391580d6fff50f2e152c0900184b392b80d1fffcfff6",
-      "text_jp": "きなり<PAGE>窺なこと顎うんだな’<LINE>そんなわけ ねぇだろ！<CLOSE><PAGE>",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 61,
-      "pointer_offset": 264,
-      "target_offset": 10656,
-      "length_bytes": 56,
-      "raw_hex": "5680905500809057354e184b190680d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6526780820082df3c2384b74d102f80d0ff",
-      "text_jp": "イデア デウじゅねぇのか！！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>ヴテン 幾でも腰ゃたが？",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 62,
-      "pointer_offset": 268,
-      "target_offset": 10712,
-      "length_bytes": 40,
-      "raw_hex": "fcfff60f1982563c00856620132e152680d1fff5152e3900809057242b0380d1fff6567b1a853b02",
-      "text_jp": "[G_252]<PAGE>その核で 視みてんなよ！<LINE>なんだ デウやろう！<PAGE>イラは酸い",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 63,
-      "pointer_offset": 272,
-      "target_offset": 10752,
-      "length_bytes": 30,
-      "raw_hex": "81aa152e13fff683bc3513184b2e392680d1fff55269808200853b4b0a14",
-      "text_jp": "越なんて<PAGE>傾じてねぇんだよ！<LINE>ヴナン 酸ぇこと",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 64,
-      "pointer_offset": 276,
-      "target_offset": 10782,
-      "length_bytes": 44,
-      "raw_hex": "f682672c15023c082a264c80d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff60f2e1581aa15",
-      "text_jp": "！？顎わないでくれよぉ………<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>そんな越な",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 65,
-      "pointer_offset": 280,
-      "target_offset": 10827,
-      "length_bytes": 27,
-      "raw_hex": "2e062628fff6567b1981662f00853b02374bfff5311a4880d1fffc",
-      "text_jp": "んかより<PAGE>イラの印が 酸いぜぇ<LINE>ぐはぁ！<CLOSE>",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 66,
-      "pointer_offset": 284,
-      "target_offset": 10854,
-      "length_bytes": 40,
-      "raw_hex": "f65269808219840d008182825c393780d1fff5152e3900809057242b0380d1fffcfff6567b1981bc",
-      "text_jp": "！？ヴナンの謙 嘘角だぜ！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラの燕",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 67,
-      "pointer_offset": 288,
-      "target_offset": 10895,
-      "length_bytes": 59,
-      "raw_hex": "27184b824ffff6824f4d132e354e184b80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff652698082006a796a79391580d1fffcfff682",
-      "text_jp": "らねぇ劃<PAGE>劃ゃてんじゅねぇ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴナン ニユニユだな！<CLOSE><PAGE>",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 68,
-      "pointer_offset": 292,
-      "target_offset": 10954,
-      "length_bytes": 30,
-      "raw_hex": "2b832f15824f00234d1482d807134b3780d1fff5526980824d1300062c02",
-      "text_jp": "ろ笈な劃 もゃと器きてぇぜ！<LINE>ヴナンゃて かわい",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 69,
-      "pointer_offset": 296,
-      "target_offset": 10984,
-      "length_bytes": 31,
-      "raw_hex": "020a14fff68267032e39154880d780d780d7fff5526980822f827b4d13291e",
-      "text_jp": "いこと<PAGE>顎うんだなぁ………<LINE>ヴナンが叶ゃてるほ",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 70,
-      "pointer_offset": 300,
-      "target_offset": 11015,
-      "length_bytes": 43,
-      "raw_hex": "3dfff6567b1a00824e82dd354e184b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b",
-      "text_jp": "ど<PAGE>イラは 鈎岐じゅねぇぞ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラ",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 71,
-      "pointer_offset": 304,
-      "target_offset": 11058,
-      "length_bytes": 48,
-      "raw_hex": "00823904114e4d1323fff6020219061580d0fff5311a4880d1fffcfff65269808200020281450c132e154880d7fffcff",
-      "text_jp": " 凱えちゅゃても<PAGE>いいのかな？<LINE>ぐはぁ！<CLOSE><PAGE>ヴナン いい惟してんなぁ…<CLOSE>",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 72,
-      "pointer_offset": 308,
-      "target_offset": 11106,
-      "length_bytes": 30,
-      "raw_hex": "f6152e3906000f1982181680d7311a4880d1fff5567b1a000f2e15000583",
-      "text_jp": "！？なんだか その蛾に…ぐはぁ！<LINE>イラは そんな お",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 73,
-      "pointer_offset": 312,
-      "target_offset": 11136,
-      "length_bytes": 53,
-      "raw_hex": "2f845215fff6808158354e15023880d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b2f00567b2f82d282d306",
-      "text_jp": "が鯉な<PAGE>ヲエじゅないぞ！！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラが イラが顔願か",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 74,
-      "pointer_offset": 316,
-      "target_offset": 11189,
-      "length_bytes": 42,
-      "raw_hex": "4880d0fff60a02121a0082fc0c02184b80d1fff5311a4880d1fffcfff6526980824d130082ca813d0215",
-      "text_jp": "ぁ？<PAGE>こいつは 亀しいねぇ！<LINE>ぐはぁ！<CLOSE><PAGE>ヴナンゃて 玩位いな",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 75,
-      "pointer_offset": 320,
-      "target_offset": 11231,
-      "length_bytes": 41,
-      "raw_hex": "4880d7fff63c23838a8218816526023780d1fff5152e3900809057242b0380d1fff656809055160009",
-      "text_jp": "ぁ…<PAGE>でも九蛾允よいぜ！<LINE>なんだ デウやろう！<PAGE>イデアに け",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 76,
-      "pointer_offset": 324,
-      "target_offset": 11272,
-      "length_bytes": 39,
-      "raw_hex": "150b2a29fff6054204152e1300184b3880d1fff5526980824980d7fffcfff6567b16000f2e150a",
-      "text_jp": "なされる<PAGE>おぼえなんて ねぇぞ！<LINE>ヴナンぃ…<CLOSE><PAGE>イラに そんなこ",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 77,
-      "pointer_offset": 328,
-      "target_offset": 11311,
-      "length_bytes": 48,
-      "raw_hex": "14fff682672c15023c082a2680d780d780d7fff5311a4880d1fffcfff65269808200020281450c132e154880d7fffcff",
-      "text_jp": "と<PAGE>顎わないでくれよ………<LINE>ぐはぁ！<CLOSE><PAGE>ヴナン いい惟してんなぁ…<CLOSE>",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 78,
-      "pointer_offset": 332,
-      "target_offset": 11359,
-      "length_bytes": 49,
-      "raw_hex": "f6152e3906000f1982181680d7311a4880d1fff5152e3900809057242b0380d1fffcfff6567b2f005680905520100215ff",
-      "text_jp": "！？なんだか その蛾に…ぐはぁ！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラが イデアみたいな",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 79,
-      "pointer_offset": 336,
-      "target_offset": 11408,
-      "length_bytes": 50,
-      "raw_hex": "f605824e83941984d30216826629062680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60b0d2f00567b393780",
-      "text_jp": "！？お鈎駈の唆いに額るかよ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>さすが イラだぜ",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 80,
-      "pointer_offset": 340,
-      "target_offset": 11458,
-      "length_bytes": 43,
-      "raw_hex": "d1fff623130d30114e4d1382fe292c488705fff5311a4880d1fff652698082008111842783f2064880d0ff",
-      "text_jp": "！<PAGE>もてすぎちゅゃて儀るわぁ栖<LINE>ぐはぁ！<PAGE>ヴナン 〇呼件かぁ？",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 81,
-      "pointer_offset": 344,
-      "target_offset": 11501,
-      "length_bytes": 43,
-      "raw_hex": "f68238062777808b7b2f81981329374b80d1fff5152e3900809057242b0380d1fffcfff60f2e1500121f2e",
-      "text_jp": "！？貝からモゼラが栄てるぜぇ！<LINE>なんだ デウやろう！<CLOSE><PAGE>そんな つまん",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 82,
-      "pointer_offset": 348,
-      "target_offset": 11544,
-      "length_bytes": 47,
-      "raw_hex": "184b0a143cfff6852202132e354e184b80d1fff580d780d780d780d780d780d780d7fffcfff68124812519828c828d",
-      "text_jp": "ねぇことで<PAGE>薩いてんじゅねぇ！<LINE>…………………<CLOSE><PAGE>鯵梓の苅瓦",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 83,
-      "pointer_offset": 352,
-      "target_offset": 11591,
-      "length_bytes": 43,
-      "raw_hex": "4d13fff656607c5d532e391580d780d780d7fff5311a4880d1fffcfff6526980824d13000d324b81f70739",
-      "text_jp": "ゃて<PAGE>イシリケノんだな………<LINE>ぐはぁ！<CLOSE><PAGE>ヴナンゃて すげぇ科きだ",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 84,
-      "pointer_offset": 356,
-      "target_offset": 11634,
-      "length_bytes": 42,
-      "raw_hex": "154880d7fffc86ba2a111f020f03393780d1fff5152e3900809057242b0380d1fffcfff6812619080e16",
-      "text_jp": "なぁ…<CLOSE>診れちまいそうだぜ！<LINE>なんだ デウやろう！<CLOSE><PAGE>圧のくせに",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 85,
-      "pointer_offset": 360,
-      "target_offset": 11677,
-      "length_bytes": 41,
-      "raw_hex": "567b16fff65a7f5781af294d1319062680d1fff5526980824980d7fffcfff6567b2d00859c0d193909",
-      "text_jp": "イラに<PAGE>カロウ園るゃてのかよ！<LINE>ヴナンぃ…<CLOSE><PAGE>イラを 蔀すのだけ",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 86,
-      "pointer_offset": 364,
-      "target_offset": 11718,
-      "length_bytes": 53,
-      "raw_hex": "1afff6062e412e0c13082a2680d780d780d7fff5152e3900809057242b0380d1fffcfff60202821816154d132e354e184b3880d1ff",
-      "text_jp": "は<PAGE>かんべんしてくれよ………<LINE>なんだ デウやろう！<CLOSE><PAGE>いい蛾になゃてんじゅねぇぞ！",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 87,
-      "pointer_offset": 368,
-      "target_offset": 11771,
-      "length_bytes": 37,
-      "raw_hex": "f68090570080905700809080cc5780d180d1fff5526980824980d7fffcfff6567b2d000235",
-      "text_jp": "！？デウ デウ デ~ウ！！<LINE>ヴナンぃ…<CLOSE><PAGE>イラを いじ",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 88,
-      "pointer_offset": 372,
-      "target_offset": 11808,
-      "length_bytes": 38,
-      "raw_hex": "2229191afff6242213082a2680d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1ff",
-      "text_jp": "めるのは<PAGE>やめてくれよ………<LINE>ぎゅははは！ ぎゅ~はゃは！",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 89,
-      "pointer_offset": 376,
-      "target_offset": 11846,
-      "length_bytes": 41,
-      "raw_hex": "fcfff6234d140002352213830f0c023780d1fff5311a4880d1fffcfff6526980824d130082df02022e",
-      "text_jp": "[G_252]<PAGE>もゃと いじめて吉しいぜ！<LINE>ぐはぁ！<CLOSE><PAGE>ヴナンゃて 幾いいん",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 90,
-      "pointer_offset": 380,
-      "target_offset": 11887,
-      "length_bytes": 50,
-      "raw_hex": "391580d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380d1fffcfff6567b148318350080815819080e16",
-      "text_jp": "だな！<PAGE>診れちまいそうだぜ！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラと却じ ヲエのくせに",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 91,
-      "pointer_offset": 384,
-      "target_offset": 11937,
-      "length_bytes": 47,
-      "raw_hex": "f681118124404d132e354e01184b2680d1fff552698082190506323cfff6567b0082384b826f22111f4d103780d1ff",
-      "text_jp": "！？〇鯵ぶゃてんじゅあねぇよ！<LINE>ヴナンのおかげで<PAGE>イラ 貝ぇ割めちまゃたぜ！",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 92,
-      "pointer_offset": 388,
-      "target_offset": 11985,
-      "length_bytes": 47,
-      "raw_hex": "f6304e1a1a1a80d100304e80cc1a4d1a80d1fff5152e39809057242b0380d1fffcfff6808158152e39062700151624",
-      "text_jp": "！？ぎゅははは！ ぎゅ~はゃは！<LINE>なんだデウやろう！<CLOSE><PAGE>ヲエなんだから なにや",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 93,
-      "pointer_offset": 392,
-      "target_offset": 12032,
-      "length_bytes": 34,
-      "raw_hex": "4d1323fff60a19567b1a0002022e392680d1fff50f2e151600863c271508132380d7",
-      "text_jp": "ゃても<PAGE>このイラは いいんだよ！<LINE>そんなに 唱らなくても…",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 94,
-      "pointer_offset": 396,
-      "target_offset": 12066,
-      "length_bytes": 47,
-      "raw_hex": "fcfff602022e354e184b0680d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6394d1300567b1a",
-      "text_jp": "[G_252]<PAGE>いいんじゅねぇか………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>だゃて イラは",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 95,
-      "pointer_offset": 400,
-      "target_offset": 12115,
-      "length_bytes": 40,
-      "raw_hex": "1f39fff68081583906270002022e393780d1fff5311a4880d1fffcfff60f19816d81691600153706",
-      "text_jp": "まだ<PAGE>ヲエだから いいんだぜ！<LINE>ぐはぁ！<CLOSE><PAGE>その淫因に なぜか",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 96,
-      "pointer_offset": 404,
-      "target_offset": 12155,
-      "length_bytes": 47,
-      "raw_hex": "f60c3f2a130c1f0300567b80d780d780d7fff5152e3900809057242b0380d1fffcfff656809055003d0a821b132e39",
-      "text_jp": "！？しびれてしまう イラ………<LINE>なんだ デウやろう！<CLOSE><PAGE>イデア どこ餓てんだ",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 97,
-      "pointer_offset": 408,
-      "target_offset": 12203,
-      "length_bytes": 16,
-      "raw_hex": "2680d180d1fff60d324b8393831d3937",
-      "text_jp": "よ！！<PAGE>すげぇ駆丘だぜ",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 98,
-      "pointer_offset": 412,
-      "target_offset": 12219,
-      "length_bytes": 40,
-      "raw_hex": "80d1fff58162849a0c15023c082a264c80d7fff5311a4880d1fffcfff60f19816d81691600153706",
-      "text_jp": "！<LINE>茨鉱しないでくれよぉ…<LINE>ぐはぁ！<CLOSE><PAGE>その淫因に なぜか",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 99,
-      "pointer_offset": 416,
-      "target_offset": 12259,
-      "length_bytes": 47,
-      "raw_hex": "f60c3f2a130c1f0300567b80d780d780d7fff5152e3900809057242b0380d1fffcfff656809055003d0a821b132e39",
-      "text_jp": "！？しびれてしまう イラ………<LINE>なんだ デウやろう！<CLOSE><PAGE>イデア どこ餓てんだ",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 100,
-      "pointer_offset": 420,
-      "target_offset": 12307,
-      "length_bytes": 16,
-      "raw_hex": "2680d180d1fff60d324b8393831d3937",
-      "text_jp": "よ！！<PAGE>すげぇ駆丘だぜ",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 101,
-      "pointer_offset": 424,
-      "target_offset": 12323,
-      "length_bytes": 35,
-      "raw_hex": "80d1fff58162849a0c15023c082a264c80d7fff5311a4880d1fffcfff6526780820005",
-      "text_jp": "！<LINE>茨鉱しないでくれよぉ…<LINE>ぐはぁ！<CLOSE><PAGE>ヴテン お",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 102,
-      "pointer_offset": 428,
-      "target_offset": 12358,
-      "length_bytes": 29,
-      "raw_hex": "3d0c81a684532ffff65780a15b53533780d1fff5152e3900809057242b",
-      "text_jp": "どし益交が<PAGE>ウャキノノぜ！<LINE>なんだ デウやろ",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 103,
-      "pointer_offset": 432,
-      "target_offset": 12387,
-      "length_bytes": 17,
-      "raw_hex": "0380d1fff6567b2d0015222e354e184b80",
-      "text_jp": "う！<PAGE>イラを なめんじゅねぇ",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 104,
-      "pointer_offset": 436,
-      "target_offset": 12404,
-      "length_bytes": 30,
-      "raw_hex": "d1fff524414b816c835a393780d780d780d7fff5152e3900809057242b03",
-      "text_jp": "！<LINE>やべぇ飲教だぜ………<LINE>なんだ デウやろう",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 105,
-      "pointer_offset": 440,
-      "target_offset": 12434,
-      "length_bytes": 32,
-      "raw_hex": "80d1fffcfff684ea2e3c2e354e184b2680d1fff5152e390a021280d7fffcfff6",
-      "text_jp": "！<CLOSE><PAGE>才んでんじゅねぇよ！<LINE>なんだこいつ…<CLOSE><PAGE>",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 106,
-      "pointer_offset": 444,
-      "target_offset": 12466,
-      "length_bytes": 40,
-      "raw_hex": "22114e08114e00758090533780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcff",
-      "text_jp": "めちゅくちゅ ムデノぜ………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE>",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 107,
-      "pointer_offset": 448,
-      "target_offset": 12506,
-      "length_bytes": 42,
-      "raw_hex": "f65267808219812e2f0085820413293780d1fff5526780824d13007080875d80a27f80d0fffcfff682d6",
-      "text_jp": "！？ヴテンの綾が 而えてるぜ！<LINE>ヴテンゃて フゴケュロ？<CLOSE><PAGE>危",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 108,
-      "pointer_offset": 452,
-      "target_offset": 12548,
-      "length_bytes": 37,
-      "raw_hex": "816900567b1623fff683300413082a2680d1fff5021f3d07000f2e15832f81ac80d7fffcff",
-      "text_jp": "因 イラにも<PAGE>級えてくれよ！<LINE>いまどき そんな笈榎…<CLOSE>",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 109,
-      "pointer_offset": 456,
-      "target_offset": 12585,
-      "length_bytes": 46,
-      "raw_hex": "f65267808200758093809d3780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff65267808219",
-      "text_jp": "！？ヴテン ムビィぜ………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>ヴテンの",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 110,
-      "pointer_offset": 460,
-      "target_offset": 12631,
-      "length_bytes": 36,
-      "raw_hex": "00832f81acfff6834a2c0c13082a293780d1fff5311a4880d1fffcfff6567b0026082c06",
-      "text_jp": " 笈榎<PAGE>競わしてくれるぜ！<LINE>ぐはぁ！<CLOSE><PAGE>イラ よくわか",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 111,
-      "pointer_offset": 464,
-      "target_offset": 12667,
-      "length_bytes": 80,
-      "raw_hex": "2e1502093dfff6841a84600281aa391580d1fff5311a4880d1fffcfff6812481251981aa4d13fff656745d7c53232e39154880d780d7fffbfff7841a8460020012023c16fff6152e0600082a10272680",
-      "text_jp": "んないけど<PAGE>弦后い越だな！<LINE>ぐはぁ！<CLOSE><PAGE>鯵梓の越ゃて<PAGE>イミケリノもんだなぁ……<CMD_fb><CMD_f7>弦后い ついでに<PAGE>なんか くれたらよ",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 112,
-      "pointer_offset": 468,
-      "target_offset": 12747,
-      "length_bytes": 45,
-      "raw_hex": "d7fffcfff6234d148182825c393780d1fff1fff5152e3900809057242b0380d1fffcfff639062700152e152e39",
-      "text_jp": "…<CLOSE><PAGE>もゃと嘘角だぜ！<CMD_f1><LINE>なんだ デウやろう！<CLOSE><PAGE>だから なんなんだ",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 113,
-      "pointer_offset": 472,
-      "target_offset": 12792,
-      "length_bytes": 53,
-      "raw_hex": "2680d1fff603290e4b2e392680d180d180d1fff5152e3900809057242b0380d1fffcfff60f2e1581aa1a82d8071008184b80d1fff6",
-      "text_jp": "よ！<PAGE>うるせぇんだよ！！！<LINE>なんだ デウやろう！<CLOSE><PAGE>そんな越は器きたくねぇ！<PAGE>",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 114,
-      "pointer_offset": 476,
-      "target_offset": 12845,
-      "length_bytes": 37,
-      "raw_hex": "567b1a81872f830f0c022e3980d180d1fff1fff5567b80d7fffcfff60f1981aa80d782d806",
-      "text_jp": "イラは姥が吉しいんだ！！<CMD_f1><LINE>イラ…<CLOSE><PAGE>その越…器か",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 115,
-      "pointer_offset": 480,
-      "target_offset": 12882,
-      "length_bytes": 41,
-      "raw_hex": "150281662ffff626064d1020134b391580d7fff5152e3c00567b16fff60f2e1581aa0d2e392680d7ff",
-      "text_jp": "ない印が<PAGE>よかゃたみてぇだな…<LINE>なんで イラに<PAGE>そんな越すんだよ…",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 116,
-      "pointer_offset": 484,
-      "target_offset": 12923,
-      "length_bytes": 53,
-      "raw_hex": "fcfff682aa85740c111f033780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b2f827b4d1081ba2819ff",
-      "text_jp": "[G_252]<PAGE>漢児しちまうぜ………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラが叶ゃた焔りの",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 117,
-      "pointer_offset": 488,
-      "target_offset": 12976,
-      "length_bytes": 51,
-      "raw_hex": "f681ce83c0818300812702242f4d103780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6568090550082e682e715",
-      "text_jp": "！？押圭唄 斡いやがゃたぜ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イデア 棋棄な",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 118,
-      "pointer_offset": 492,
-      "target_offset": 13027,
-      "length_bytes": 44,
-      "raw_hex": "0a14fff682674d13082a29354e184b0680d1fff5311a4880d1fffcfff656809055002c0628240d02191580d1",
-      "text_jp": "こと<PAGE>顎ゃてくれるじゅねぇか！<LINE>ぐはぁ！<CLOSE><PAGE>イデア わかりやすいのな！",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 119,
-      "pointer_offset": 496,
-      "target_offset": 13071,
-      "length_bytes": 38,
-      "raw_hex": "fcfff65d7f80977a3c000202354e2e80d1fff5311a4880d1fffcfff6567b2f830f0c021527ff",
-      "text_jp": "[G_252]<PAGE>ケロパヨで いいじゅん！<LINE>ぐはぁ！<CLOSE><PAGE>イラが吉しいなら",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 120,
-      "pointer_offset": 500,
-      "target_offset": 13110,
-      "length_bytes": 49,
-      "raw_hex": "f6567b2f837f0c020a140c2b4d1380d1fff1fff5152e3900809057242b0380d1fffcfff6567b1afff0393780d1fffcfff6",
-      "text_jp": "！？イラが筋しいことしろゃて！<CMD_f1><LINE>なんだ デウやろう！<CLOSE><PAGE>イラは<CMD_f0>だぜ！<CLOSE><PAGE>",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 121,
-      "pointer_offset": 504,
-      "target_offset": 13159,
-      "length_bytes": 49,
-      "raw_hex": "8124812516008143152e13833a0d062680d1fff5152e3900809057242b0380d1fff6121f2e184b0081ce83c00d2e1580d1",
-      "text_jp": "鯵梓に 威なんて挙すかよ！<LINE>なんだ デウやろう！<PAGE>つまんねぇ 押圭すんな！",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 122,
-      "pointer_offset": 508,
-      "target_offset": 13208,
-      "length_bytes": 14,
-      "raw_hex": "fcfff63906270082d706260a0e80",
-      "text_jp": "[G_252]<PAGE>だから 喜かよこせ",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 123,
-      "pointer_offset": 512,
-      "target_offset": 13223,
-      "length_bytes": 41,
-      "raw_hex": "d1fff1fff5567b161a83248396184b2680d7fff5567b1981432f00830f0c0280d080d7fffcfff6152e",
-      "text_jp": "！<CMD_f1><LINE>イラには弓具ねぇよ…<LINE>イラの威が 吉しい？…<CLOSE><PAGE>なん",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 124,
-      "pointer_offset": 516,
-      "target_offset": 13264,
-      "length_bytes": 47,
-      "raw_hex": "060082f215835782ed0d293780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b4d13006d809d",
-      "text_jp": "か 徽な恐畿するぜ………<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>イラゃて ノィ",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 125,
-      "pointer_offset": 520,
-      "target_offset": 13311,
-      "length_bytes": 54,
-      "raw_hex": "7c747ffff6114d1400011c2a0d30391580d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6234d1400567b2d84802a2680d1",
-      "text_jp": "リミロ<PAGE>ちゃと あふれすぎだな！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>もゃと イラを港れよ！",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 126,
-      "pointer_offset": 524,
-      "target_offset": 13365,
-      "length_bytes": 47,
-      "raw_hex": "f60d4d3280cc00020282188237393780d1fff5311a4880d1fffcfff6567b2d0083bd270e291223280680d0fffcfff6",
-      "text_jp": "！？すゃげ~ いい蛾階だぜ！<LINE>ぐはぁ！<CLOSE><PAGE>イラを 刑らせるつもりか？<CLOSE><PAGE>",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 127,
-      "pointer_offset": 528,
-      "target_offset": 13413,
-      "length_bytes": 42,
-      "raw_hex": "568090554d13006e7f1581248125391580d7fff5311a4880d1fffcfff60f2e152e354e00815435184b26",
-      "text_jp": "イデアゃて ハロな鯵梓だな…<LINE>ぐはぁ！<CLOSE><PAGE>そんなんじゅ 違じねぇよ",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 128,
-      "pointer_offset": 532,
-      "target_offset": 13455,
-      "length_bytes": 34,
-      "raw_hex": "80d1fff68302190a14000c13202b4d1380d1fff5152e3900809057242b0380d1fffc",
-      "text_jp": "！<PAGE>技のこと してみろゃて！<LINE>なんだ デウやろう！<CLOSE>",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 129,
-      "pointer_offset": 536,
-      "target_offset": 13489,
-      "length_bytes": 51,
-      "raw_hex": "f6567b2d0015222e354e184b3880d180d1fff5152e3900809057242b0380d1fff60a2e1581ce83c000121f2e184b2680d1fffc",
-      "text_jp": "！？イラを なめんじゅねぇぞ！！<LINE>なんだ デウやろう！<PAGE>こんな押圭 つまんねぇよ！<CLOSE>",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 130,
-      "pointer_offset": 540,
-      "target_offset": 13541,
-      "length_bytes": 28,
-      "raw_hex": "f63906270082d706260a0e80d180d1fff1fff5567b2f0053752f290a",
-      "text_jp": "！？だから 喜かよこせ！！<CMD_f1><LINE>イラが ノムがるこ",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 131,
-      "pointer_offset": 544,
-      "target_offset": 13570,
-      "length_bytes": 38,
-      "raw_hex": "140c13fff6837f0c0219062680d780d780d7fff5567b1621064d13000f19816d816980d7fffc",
-      "text_jp": "として<PAGE>筋しいのかよ………<LINE>イラにむかゃて その淫因…<CLOSE>",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 132,
-      "pointer_offset": 548,
-      "target_offset": 13608,
-      "length_bytes": 51,
-      "raw_hex": "f683bc35272a184b3780d780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff61b18082a1081ce83c081838127",
-      "text_jp": "！？傾じられねぇぜ…………<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>ひねくれた押圭唄斡",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 133,
-      "pointer_offset": 552,
-      "target_offset": 13660,
-      "length_bytes": 53,
-      "raw_hex": "4d1323fff6567b1a0083358165184b3780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b0084dc2e351f4d1080d1fffc",
-      "text_jp": "ゃても<PAGE>イラは 去允ねぇぜ！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>イラ 鎖んじまゃた！<CLOSE>",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 134,
-      "pointer_offset": 556,
-      "target_offset": 13713,
-      "length_bytes": 39,
-      "raw_hex": "f680d7546020134b1581ce83c0391580d1fff5311a4880d1fffcfff65680905500841a84600237",
-      "text_jp": "！？…オシみてぇな押圭だな！<LINE>ぐはぁ！<CLOSE><PAGE>イデア 弦后いぜ",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 135,
-      "pointer_offset": 560,
-      "target_offset": 13753,
-      "length_bytes": 56,
-      "raw_hex": "80d1fff68302162382d7060c13082a2680d1fff5311a4880d1fffcfff6567b1a83358165234d10374b80d1fffbfff7567b2f83358165234d",
-      "text_jp": "！<PAGE>技にも喜かしてくれよ！<LINE>ぐはぁ！<CLOSE><PAGE>イラは去允もゃたぜぇ！<CMD_fb><CMD_f7>イラが去允もゃ",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 136,
-      "pointer_offset": 564,
-      "target_offset": 13809,
-      "length_bytes": 34,
-      "raw_hex": "102e390627fff682d70600082a4b80d1fff1fff5152e3900809057242b0380d1fffc",
-      "text_jp": "たんだから<PAGE>喜か くれぇ！<CMD_f1><LINE>なんだ デウやろう！<CLOSE>",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 137,
-      "pointer_offset": 568,
-      "target_offset": 13843,
-      "length_bytes": 57,
-      "raw_hex": "f6121f2e184b83c20d2e354e184b2680d1fff5152e3900809057242b0380d1fffcfff6567b1a0f2e1583c21683248210184b80d1fff6567b1a",
-      "text_jp": "！？つまんねぇ型すんじゅねぇよ！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラはそんな型に弓蚊ねぇ！<PAGE>イラは",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 138,
-      "pointer_offset": 572,
-      "target_offset": 13901,
-      "length_bytes": 35,
-      "raw_hex": "8187830f19813d8116152e39374b80d1fff1fff5152e3c000f2e1583c20d2e3980d7ff",
-      "text_jp": "姥吉の位哀なんだぜぇ！<CMD_f1><LINE>なんで そんな型すんだ…",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 139,
-      "pointer_offset": 576,
-      "target_offset": 13936,
-      "length_bytes": 47,
-      "raw_hex": "fcfff68188817f3c07184b2680d780d780d7fff5152e152e392680d7fffcfff6567b16003d030c2b4d1380d080d7ff",
-      "text_jp": "[G_252]<PAGE>厩碓できねぇよ………<LINE>なんなんだよ…<CLOSE><PAGE>イラに どうしろゃて？…",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 140,
-      "pointer_offset": 580,
-      "target_offset": 13983,
-      "length_bytes": 55,
-      "raw_hex": "fcfff680d782d70600082a29190680d0fff1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6568090551983c200567b1982ed81",
-      "text_jp": "[G_252]<PAGE>…喜か くれるのか？<CMD_f1><LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イデアの型 イラの畿",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 141,
-      "pointer_offset": 584,
-      "target_offset": 14038,
-      "length_bytes": 53,
-      "raw_hex": "5816fff60d324b00809680a16179393780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60d4d324b00020282ed353937",
-      "text_jp": "エに<PAGE>すげぇ ボャスユだぜ！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>すゃげぇ いい畿じだぜ",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 142,
-      "pointer_offset": 588,
-      "target_offset": 14091,
-      "length_bytes": 27,
-      "raw_hex": "80d1fff67080873c00020282ed35393780d1fff5311a4880d1fffc",
-      "text_jp": "！<PAGE>フゴで いい畿じだぜ！<LINE>ぐはぁ！<CLOSE>",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 143,
-      "pointer_offset": 592,
-      "target_offset": 14118,
-      "length_bytes": 54,
-      "raw_hex": "f602023780d1fff60d33080002023780d1fff5567b1600833581655d7f5d7f0680d180d0fffcfff60f2e354e0100567b19848020152e",
-      "text_jp": "！？いいぜ！<PAGE>すごく いいぜ！<LINE>イラに 去允ケロケロか！？<CLOSE><PAGE>そんじゅあ イラの港みなん",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 144,
-      "pointer_offset": 596,
-      "target_offset": 14173,
-      "length_bytes": 43,
-      "raw_hex": "13fff6846a81a01600070929261580d1fff1fff5152e3900809057242b0380d1fffcfff60f2e152e3c0012",
-      "text_jp": "て<PAGE>巷英に きけるよな！<CMD_f1><LINE>なんだ デウやろう！<CLOSE><PAGE>そんなんで つ",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 145,
-      "pointer_offset": 600,
-      "target_offset": 14216,
-      "length_bytes": 51,
-      "raw_hex": "272a29fff6567b354e184b2e392680d180d1fff5152e3900809057242b0380d1fffcfff6567b1a8187830f393880d180d1fff6",
-      "text_jp": "られる<PAGE>イラじゅねぇんだよ！！<LINE>なんだ デウやろう！<CLOSE><PAGE>イラは姥吉だぞ！！<PAGE>",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 146,
-      "pointer_offset": 604,
-      "target_offset": 14267,
-      "length_bytes": 31,
-      "raw_hex": "0d4d324b008187830f152e39384c80d1fff1fff5021223140082cf03525f2f",
-      "text_jp": "すゃげぇ 姥吉なんだぞぉ！<CMD_f1><LINE>いつもと 贋うヴサが",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 147,
-      "pointer_offset": 608,
-      "target_offset": 14298,
-      "length_bytes": 39,
-      "raw_hex": "80d7fffcfff681981307103780d780d780d7fff5567b23813d81163906272680d7fffcfff68124",
-      "text_jp": "…<CLOSE><PAGE>栄てきたぜ………<LINE>イラも位哀だからよ…<CLOSE><PAGE>鯵",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 148,
-      "pointer_offset": 612,
-      "target_offset": 14337,
-      "length_bytes": 38,
-      "raw_hex": "8125141a0006062c2a184b1580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1ff",
-      "text_jp": "梓とは かかわれねぇな………<LINE>ぎゅははは！ ぎゅ~はゃは！",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 149,
-      "pointer_offset": 616,
-      "target_offset": 14375,
-      "length_bytes": 59,
-      "raw_hex": "fcfff60f030a15084d114e1580d180d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b1982182d1b0710021527fff6152e0626",
-      "text_jp": "[G_252]<PAGE>そうこなくゃちゅな！！！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>イラの蛾をひきたいなら<PAGE>なんかよ",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 150,
-      "pointer_offset": 620,
-      "target_offset": 14434,
-      "length_bytes": 41,
-      "raw_hex": "0a0e4b80d7fffc05826a826b393780d1fff1fff5311a4880d1fffcfff6567b2d00853b2f29104880d7",
-      "text_jp": "こせぇ…<CLOSE>お樫橿だぜ！<CMD_f1><LINE>ぐはぁ！<CLOSE><PAGE>イラを 酸がるたぁ…",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 151,
-      "pointer_offset": 624,
-      "target_offset": 14475,
-      "length_bytes": 28,
-      "raw_hex": "f6812481253c07132915005680905580d1fff5311a4880d1fffcfff6",
-      "text_jp": "！？鯵梓できてるな イデア！<LINE>ぐはぁ！<CLOSE><PAGE>",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 152,
-      "pointer_offset": 628,
-      "target_offset": 14504,
-      "length_bytes": 36,
-      "raw_hex": "354e012680d782d706082a4d130680d1fff1fff5152e3900809057242b0380d1fffcfff6",
-      "text_jp": "じゅあよ…喜かくれゃてか！<CMD_f1><LINE>なんだ デウやろう！<CLOSE><PAGE>",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 153,
-      "pointer_offset": 632,
-      "target_offset": 14540,
-      "length_bytes": 51,
-      "raw_hex": "824282183c0082674d13184b392b80d180d1fff5152e3900809057242b0380d1fffcfff682d619826783512f0082428218394d",
-      "text_jp": "碍蛾で 顎ゃてねぇだろ！！<LINE>なんだ デウやろう！<CLOSE><PAGE>危の顎喬が 碍蛾だゃ",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 154,
-      "pointer_offset": 636,
-      "target_offset": 14591,
-      "length_bytes": 32,
-      "raw_hex": "13fff65d80a4545b2d821b0e2b2480d1fff1fff582de82373c826703192382d7",
-      "text_jp": "て<PAGE>ケッオキを餓せろや！<CMD_f1><LINE>希階で顎うのも喜",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 155,
-      "pointer_offset": 640,
-      "target_offset": 14623,
-      "length_bytes": 33,
-      "raw_hex": "39093d2680d7fff6567b00808158393780d7fff50a2e151600053913272a2914ff",
-      "text_jp": "だけどよ…<PAGE>イラ ヲエだぜ…<LINE>こんなに おだてられると",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 156,
-      "pointer_offset": 644,
-      "target_offset": 14656,
-      "length_bytes": 52,
-      "raw_hex": "f681502f00853b4b2e39261580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6152e06001b0b0c402816ff",
-      "text_jp": "！？胃が 酸ぇんだよな………<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>なんか ひさしぶりに",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 157,
-      "pointer_offset": 648,
-      "target_offset": 14708,
-      "length_bytes": 53,
-      "raw_hex": "f6567b00839282f202022e354e184b0680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6244d4300813d811619859a82",
-      "text_jp": "！？イラ 躯徽いいんじゅねぇか！<LINE>ぎゅははは！ ぎゅ~はゃは！<CLOSE><PAGE>やゃぱ 位哀の質",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 158,
-      "pointer_offset": 652,
-      "target_offset": 14761,
-      "length_bytes": 53,
-      "raw_hex": "89074d13fff60f2a39093c000d324b3780d1fff51d4b80d7fffc567b195e80987a5780cc808ffff623030081fb4d13292e391580d7",
-      "text_jp": "ジきゃて<PAGE>それだけで すげぇぜ！<LINE>へぇ…<CLOSE>イラのコピヨウ~ヅ<PAGE>もう 歌ゃてるんだな…",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 159,
-      "pointer_offset": 656,
-      "target_offset": 14814,
-      "length_bytes": 16,
-      "raw_hex": "fcfff60f2e354e000f0302030a143c80",
-      "text_jp": "[G_252]<PAGE>そんじゅ そういうことで",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 160,
-      "pointer_offset": 660,
-      "target_offset": 14831,
-      "length_bytes": 18,
-      "raw_hex": "d7ffef0f03391580d7fffc0a2a24293780d1",
-      "text_jp": "…<CMD_ef>そうだな…<CLOSE>これやるぜ！",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 161,
-      "pointer_offset": 664,
-      "target_offset": 14849,
-      "length_bytes": 27,
-      "raw_hex": "ef5670809d000b200c021580d780d780d7ffef152e3906154880d7",
-      "text_jp": "▲イフィ さみしいな………<CMD_ef>なんだかなぁ…",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 162,
-      "pointer_offset": 668,
-      "target_offset": 14877,
-      "length_bytes": 49,
-      "raw_hex": "fcfff6567b270082cf0320134b393780d7ffef11504d1482eb1380d7fffcfff6230c060c13567b26280083c40280d0fffc",
-      "text_jp": "[G_252]<PAGE>イラら 贋うみてぇだぜ…<CMD_ef>ちっゃと気て…<CLOSE><PAGE>もしかしてイラより 形い？<CLOSE>",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 163,
-      "pointer_offset": 672,
-      "target_offset": 14927,
-      "length_bytes": 13,
-      "raw_hex": "f61527005780cc808f1a242a18",
-      "text_jp": "！？なら ウ~ヅはやれね",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 164,
-      "pointer_offset": 676,
-      "target_offset": 14941,
-      "length_bytes": 8,
-      "raw_hex": "4b1580d1ffef0a2a",
-      "text_jp": "ぇな！<CMD_ef>これ",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 165,
-      "pointer_offset": 680,
-      "target_offset": 14950,
-      "length_bytes": 35,
-      "raw_hex": "24293780d780d780d7ffef80d7013e2680d1ffef5680905500020282523906272680d7",
-      "text_jp": "やるぜ………<CMD_ef>…あばよ！<CMD_ef>イデア いい廓だからよ…",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 166,
-      "pointer_offset": 684,
-      "target_offset": 14985,
-      "length_bytes": 32,
-      "raw_hex": "fcfff60a2a2356705a3c002429374b80d1ffef567b195780cc808f82d3271804",
-      "text_jp": "[G_252]<PAGE>これもイフカで やるぜぇ！<CMD_ef>イラのウ~ヅ願らねえ",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 167,
-      "pointer_offset": 688,
-      "target_offset": 15018,
-      "length_bytes": 49,
-      "raw_hex": "190680d0fff6354e0100230381d2083780d1ffef0a2a2f567b195780cc808f3980d1fffcfff63d0339000d324b392b80d1",
-      "text_jp": "のか？<PAGE>じゅあ もう殴くぜ！<CMD_ef>これがイラのウ~ヅだ！<CLOSE><PAGE>どうだ すげぇだろ！",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 168,
-      "pointer_offset": 692,
-      "target_offset": 15067,
-      "length_bytes": 21,
-      "raw_hex": "f614280104360082ed83140c2b261580d1ffef0a2a",
-      "text_jp": "！？とりあえず 畿詰しろよな！<CMD_ef>これ",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 169,
-      "pointer_offset": 696,
-      "target_offset": 15089,
-      "length_bytes": 51,
-      "raw_hex": "0024290627fff682ec0c13082a2680d780d7ffef0a2e15190081928125198162837d80d1fff681ce83c0195b1982f923821b04",
-      "text_jp": " やるから<PAGE>汽してくれよ……<CMD_ef>こんなの 叡梓の茨禁！<PAGE>押圭のキの飢も餓え",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 170,
-      "pointer_offset": 700,
-      "target_offset": 15140,
-      "length_bytes": 49,
-      "raw_hex": "240c184b80d1fffcfff60f2e354e011580d1ffef0a2e15190081928125198162837d80d1fff60a2a00242906272680d7ff",
-      "text_jp": "やしねぇ！<CLOSE><PAGE>そんじゅあな！<CMD_ef>こんなの 叡梓の茨禁！<PAGE>これ やるからよ…",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 171,
-      "pointer_offset": 704,
-      "target_offset": 15189,
-      "length_bytes": 45,
-      "raw_hex": "fcfff62303008090538090530c26033780d1ffef82d61900567b1982ed821a2dfff681b782673c826703152a3e",
-      "text_jp": "[G_252]<PAGE>もう デノデノしようぜ！<CMD_ef>危の イラの畿雅を<PAGE>沿顎で顎うなれば",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 172,
-      "pointer_offset": 708,
-      "target_offset": 15234,
-      "length_bytes": 76,
-      "raw_hex": "80d7fffcfff6152e3900809057242b0380d1ffef80d7152e3906fff682670210020a1482674d1027fff65e80a158790c111f4d103780d7fffbfff780d782d6814b1a818f8282393880d1fff6",
-      "text_jp": "…<CLOSE><PAGE>なんだ デウやろう！<CMD_ef>…なんだか<PAGE>顎いたいこと顎ゃたら<PAGE>コャエユしちまゃたぜ…<CMD_fb><CMD_f7>…危畏は雲蒲だぞ！<PAGE>",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 173,
-      "pointer_offset": 712,
-      "target_offset": 15310,
-      "length_bytes": 53,
-      "raw_hex": "567b195e80987a5780cc808f0024292680d1ffef81c8221080d100567b23120213083780d1fffcfff680d73c23000f030203835016",
-      "text_jp": "イラのコピヨウ~ヅ やるよ！<CMD_ef>甥めた！ イラもついてくぜ！<CLOSE><PAGE>…でも そういう叫に",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 174,
-      "pointer_offset": 716,
-      "target_offset": 15363,
-      "length_bytes": 58,
-      "raw_hex": "1afff60206184b2e3926154880d780d780d7ffef80d780d780d70f033980d180d1fffcfff6567b195e80987a5780cc808f00242980d1fffcfff6",
-      "text_jp": "は<PAGE>いかねぇんだよなぁ………<CMD_ef>………そうだ！！<CLOSE><PAGE>イラのコピヨウ~ヅ やる！<CLOSE><PAGE>",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 175,
-      "pointer_offset": 720,
-      "target_offset": 15421,
-      "length_bytes": 34,
-      "raw_hex": "80987a606616152a3e0081b78336393780d1ffef567b00818b021008184b2e3980d7",
-      "text_jp": "ピヨシツになれば 沿居だぜ！<CMD_ef>イラ 閏いたくねぇんだ…",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 176,
-      "pointer_offset": 724,
-      "target_offset": 15455,
-      "length_bytes": 21,
-      "raw_hex": "fcfff6835d02191a0023035375393780d7ffef0f03",
-      "text_jp": "[G_252]<PAGE>狂いのは もうノムだぜ…<CMD_ef>そう",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 177,
-      "pointer_offset": 728,
-      "target_offset": 15477,
-      "length_bytes": 50,
-      "raw_hex": "391580d7fffcfff60a2a00242906272680d7ffef24414b0024414b2680d7fffcfff6567b19005e80987a5780cc808ffff624",
-      "text_jp": "だな…<CLOSE><PAGE>これ やるからよ…<CMD_ef>やべぇ やべぇよ…<CLOSE><PAGE>イラの コピヨウ~ヅ<PAGE>や",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 178,
-      "pointer_offset": 732,
-      "target_offset": 15527,
-      "length_bytes": 43,
-      "raw_hex": "29062700821b82e20c13082a80d780d780d7ffef5680d7567b195780cc808f1afff60d33022e393780d7ff",
-      "text_jp": "るから 餓机してくれ………<CMD_ef>イ…イラのウ~ヅは<PAGE>すごいんだぜ…",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 179,
-      "pointer_offset": 736,
-      "target_offset": 15570,
-      "length_bytes": 47,
-      "raw_hex": "fcfff65460354e184b06272680d780d780d7ffef311a4880d180d1fff6812481251481aa0c10064d102e393780d1ff",
-      "text_jp": "[G_252]<PAGE>オシじゅねぇからよ………<CMD_ef>ぐはぁ！！<PAGE>鯵梓と越したかゃたんだぜ！",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 180,
-      "pointer_offset": 740,
-      "target_offset": 15617,
-      "length_bytes": 49,
-      "raw_hex": "f6568090550002026153717f8083391580d1fff5311a4880d180d1fffcfff6567b008187830f3c5380a18095533980d1ff",
-      "text_jp": "！？イデア いいスノヘロガだな！<LINE>ぐはぁ！！<CLOSE><PAGE>イラ 姥吉でノャベノだ！",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 181,
-      "pointer_offset": 744,
-      "target_offset": 15666,
-      "length_bytes": 49,
-      "raw_hex": "fcfff6835f100c1300082a29261580d0fff1fff5152e3900809057242b0380d180d1fffcfff6526780822f008360042915",
-      "text_jp": "[G_252]<PAGE>矯たして くれるよな？<CMD_f1><LINE>なんだ デウやろう！！<CLOSE><PAGE>ヴテンが 胸えるな",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 182,
-      "pointer_offset": 748,
-      "target_offset": 15715,
-      "length_bytes": 49,
-      "raw_hex": "2680d1fff6152e390600835c1012154880d1fff5152e3900809057242b0380d180d1fffcfff60a19567b1983bd282dfff6",
-      "text_jp": "よ！<PAGE>なんだか 況たつなぁ！<LINE>なんだ デウやろう！！<CLOSE><PAGE>このイラの刑りを<PAGE>",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 183,
-      "pointer_offset": 752,
-      "target_offset": 15764,
-      "length_bytes": 28,
-      "raw_hex": "0c362210092a3e0082d706260a0e80d1fff1fff5819f2f15023780d7",
-      "text_jp": "しずめたければ 喜かよこせ！<CMD_f1><LINE>頴がないぜ…",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 184,
-      "pointer_offset": 756,
-      "target_offset": 15792,
-      "length_bytes": 56,
-      "raw_hex": "fcfff6152e060082f2391580d780d780d7fff50a142c4d13000508093d2680d7fffcfff65680d7567b1a842a81650c08184b3780d7fffcff",
-      "text_jp": "[G_252]<PAGE>なんか 徽だな………<LINE>ことわゃて おくけどよ…<CLOSE><PAGE>イ…イラは孤允しくねぇぜ…<CLOSE>",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 185,
-      "pointer_offset": 760,
-      "target_offset": 15849,
-      "length_bytes": 50,
-      "raw_hex": "f639062700818b021a665d1580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b4d138182825c80d1ff",
-      "text_jp": "！？だから 閏いはツケな………<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>イラゃて嘘角！",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 186,
-      "pointer_offset": 764,
-      "target_offset": 15899,
-      "length_bytes": 55,
-      "raw_hex": "fcfff682d60d324b0082fc0c022e393780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082140082f83f134b2e3980d1ff",
-      "text_jp": "[G_252]<PAGE>危すげぇ 亀しいんだぜ！<LINE>ぎゅははは！ ぎゅ~はゃは！<PAGE>ヴテンと 輝びてぇんだ！",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 187,
-      "pointer_offset": 768,
-      "target_offset": 15954,
-      "length_bytes": 47,
-      "raw_hex": "fcfff6834c0800152e06244d13082a4b80d1fff5ffee81248125354e184b0680d1fffcfff6152e0600815628134b09",
-      "text_jp": "[G_252]<PAGE>凶く なんかやゃてくれぇ！<LINE><CMD_ee>鯵梓じゅねぇか！<CLOSE><PAGE>なんか 医りてぇけ",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 188,
-      "pointer_offset": 772,
-      "target_offset": 16001,
-      "length_bytes": 53,
-      "raw_hex": "3dfff61f361a81ce83c00c13204d061580d7fff5ffee56809055008124812539261580d1fff6567b00812481251681a94d1027fff6",
-      "text_jp": "ど<PAGE>まずは押圭してみゃかな…<LINE><CMD_ee>イデア 鯵梓だよな！<PAGE>イラ 鯵梓に謁ゃたら<PAGE>",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 189,
-      "pointer_offset": 776,
-      "target_offset": 16054,
-      "length_bytes": 32,
-      "raw_hex": "82d7062327030a14160c1329190b80d1fff1fff5ffec818b032628705d390627",
-      "text_jp": "喜かもらうことにしてるのさ！<CMD_f1><LINE><CMD_ec>閏うよりフケだから",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 190,
-      "pointer_offset": 780,
-      "target_offset": 16086,
-      "length_bytes": 49,
-      "raw_hex": "f614280104360081ce83c00c26033780d7fff5ffee82d706001b062a29746a2dfff682ed35102e39093d1580d7fffcfff6",
-      "text_jp": "！？とりあえず 押圭しようぜ…<LINE><CMD_ee>喜か ひかれるミニを<PAGE>畿じたんだけどな…<CLOSE><PAGE>",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 191,
-      "pointer_offset": 784,
-      "target_offset": 16136,
-      "length_bytes": 37,
-      "raw_hex": "1114008394824e2d821b290680d780d780d7fff5ffee567b00812481258111828007393780",
-      "text_jp": "ちと 駈鈎を餓るか………<LINE><CMD_ee>イラ 鯵梓〇兜きだぜ",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 192,
-      "pointer_offset": 788,
-      "target_offset": 16173,
-      "length_bytes": 52,
-      "raw_hex": "d1fff6834c080081ce83c00c2603374b80d1fff5ffeb567b0082b081ce81b8354e184b093dfff682d61a0081ce83c00c134b2e39",
-      "text_jp": "！<PAGE>凶く 押圭しようぜぇ！<LINE><CMD_eb>イラ 看押演じゅねぇけど<PAGE>危は 押圭してぇんだ",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 193,
-      "pointer_offset": 792,
-      "target_offset": 16225,
-      "length_bytes": 49,
-      "raw_hex": "80d1fff61f361a0082d706082a4b80d1fff1fff5ffec5680905580d782c780d0fffcfff6152e06007580900f0315825216",
-      "text_jp": "！<PAGE>まずは 喜かくれぇ！<CMD_f1><LINE><CMD_ec>イデア…含？<CLOSE><PAGE>なんか ムデそうな廓に",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 194,
-      "pointer_offset": 796,
-      "target_offset": 16274,
-      "length_bytes": 36,
-      "raw_hex": "f6840d0609111f4d10154880d780d780d7fff5ffed817d1583cc0c132e152680d7fff656",
-      "text_jp": "！？謙かけちまゃたなぁ………<LINE><CMD_ed>窺な敬してんなよ…<PAGE>イ",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 195,
-      "pointer_offset": 800,
-      "target_offset": 16311,
-      "length_bytes": 45,
-      "raw_hex": "8090550082f21582ed35393780d780d780d7fff5ffeb8182825c19819f393780d1fffcfff6567b23008182825c",
-      "text_jp": "デア 徽な畿じだぜ………<LINE><CMD_eb>嘘角の頴だぜ！<CLOSE><PAGE>イラも 嘘角",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 196,
-      "pointer_offset": 804,
-      "target_offset": 16356,
-      "length_bytes": 54,
-      "raw_hex": "152e393780d1fff62c064d132e392b1580d1fff5ffed56809055001f1709392b80d180d0fff6152e060002103908093d264c80d7fff6",
-      "text_jp": "なんだぜ！<PAGE>わかゃてんだろな！<LINE><CMD_ed>イデア まぬけだろ！？<PAGE>なんか いただくけどよぉ…<PAGE>",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 197,
-      "pointer_offset": 808,
-      "target_offset": 16410,
-      "length_bytes": 44,
-      "raw_hex": "81a68453152e0600184b261580d180d1fff1fff5ffec568090550082088209837b8320061580d7fffcfff614",
-      "text_jp": "益交なんか ねぇよな！！<CMD_f1><LINE><CMD_ec>イデア 菓蝦欽休かな…<CLOSE><PAGE>と",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    },
-    {
-      "id": 198,
-      "pointer_offset": 812,
-      "target_offset": 16454,
-      "length_bytes": 48,
-      "raw_hex": "2801043681ce83c00c26033780d780d780d7fff5ffeb567b1a0080815880d7fffcfff6808158354e184b2e39093d80d7",
-      "text_jp": "りあえず押圭しようぜ………<LINE><CMD_eb>イラは ヲエ…<CLOSE><PAGE>ヲエじゅねぇんだけど…",
-      "translation_en": "Gwahhh!<CLOSE> I'm fallin' for<LINE>ya..."
-    },
-    {
-      "id": 199,
-      "pointer_offset": 816,
-      "target_offset": 16502,
-      "length_bytes": 42,
-      "raw_hex": "f6244d43808158152e391580d780d780d7fff5311a4880d1fff6812481254d1300841a84604b1580d1ff",
-      "text_jp": "！？やゃぱヲエなんだな………<LINE>ぐはぁ！<PAGE>鯵梓ゃて 弦后ぇな！",
-      "translation_en": "! Talk to me more! What's your<LINE>deal, punk?!<CLOSE>"
-    },
-    {
-      "id": 200,
-      "pointer_offset": 820,
-      "target_offset": 16545,
-      "length_bytes": 51,
-      "raw_hex": "fcfff60f2e3c234d130082d71981db3980d0ffef152e3900809057242b0380d180d1fffcfff60a2e1581ce83c01a0053753980",
-      "text_jp": "[G_252]<PAGE>そんでもゃて 喜の荻だ？<CMD_ef>なんだ デウやろう！！<CLOSE><PAGE>こんな押圭は ノムだ",
-      "translation_en": "!?I don't wanna hear that crap!<LINE>Gyahaha! Gyaaahaha!<CLOSE> You<LINE>want somethin' from me?"
-    },
-    {
-      "id": 201,
-      "pointer_offset": 824,
-      "target_offset": 16596,
-      "length_bytes": 36,
-      "raw_hex": "d1fff6567b1a0083bd4d103780d180d180d1ffef152e3c0f2e1581ce83c00d292e3980d7",
-      "text_jp": "！<PAGE>イラは 刑ゃたぜ！！！<CMD_ef>なんでそんな押圭するんだ…",
-      "translation_en": "!Gyahaha! Gyaaahaha! Think you<LINE>can boss me around?!<CLOSE><LINE>Gwahhh!<CLOSE>"
-    },
-    {
-      "id": 202,
-      "pointer_offset": 828,
-      "target_offset": 16632,
-      "length_bytes": 38,
-      "raw_hex": "fcfff6567b00853b4b260380d780d780d7ffef304e1a1a1a80d100304e80cc1a4d1a80d1fffc",
-      "text_jp": "[G_252]<PAGE>イラ 酸ぇよう………<CMD_ef>ぎゅははは！ ぎゅ~はゃは！<CLOSE>",
-      "translation_en": "!?You're really ticklin' my<LINE>fancy! What do ya want, punk?!<LINE>Think you can take me<PAGE>on!?<CLOSE>"
-    },
-    {
-      "id": 203,
-      "pointer_offset": 832,
-      "target_offset": 16671,
-      "length_bytes": 40,
-      "raw_hex": "f60d4d324b00837f0c064d103780d180d1ffef152e3906154880d7fffcfff63c23001f4802020680",
-      "text_jp": "！？すゃげぇ 筋しかゃたぜ！！<CMD_ef>なんだかなぁ…<CLOSE><PAGE>でも まぁいいか",
-      "translation_en": "!?I'll give ya whatever ya want!<LINE>I give up!"
-    },
-    {
-      "id": 204,
-      "pointer_offset": 836,
-      "target_offset": 16712,
-      "length_bytes": 33,
-      "raw_hex": "d1fff6567b163d030c13830f0c022e3980d0ffef0f2a3c80d7121f281a80d7fffc",
-      "text_jp": "！<PAGE>イラにどうして吉しいんだ？<CMD_ef>それで…つまりは…<CLOSE>",
-      "translation_en": "Hey...<CLOSE>Think you won, huh?<LINE>Gwahhh!<CLOSE> You got a nice<LINE>look to ya...<CLOSE>"
-    },
-    {
-      "id": 205,
-      "pointer_offset": 840,
-      "target_offset": 16745,
-      "length_bytes": 53,
-      "raw_hex": "f65680d7567b1682d72d8226212e3980d0ffef56809055008182825c393780d1fff6230300708092808b6214831835393780d1fffc",
-      "text_jp": "！？イ…イラに喜を悔むんだ？<CMD_ef>イデア 嘘角だぜ！<PAGE>もう フバゼセと却じだぜ！<CLOSE>",
-      "translation_en": "!?Somehow that look... Gwahhh! I<LINE>ain't that kind of demon!!"
-    },
-    {
-      "id": 206,
-      "pointer_offset": 844,
-      "target_offset": 16799,
-      "length_bytes": 50,
-      "raw_hex": "f6567b2f0082262086a6041324292680d1ffef80d756809055190e023cfff6567b002c092c062e184b82ed821a393780d1ff",
-      "text_jp": "！？イラが 悔み審えてやるよ！<CMD_ef>…イデアのせいで<PAGE>イラ わけわかんねぇ畿雅だぜ！",
-      "translation_en": "Don't look down on me! Listen<LINE>up...<CLOSE>"
-    },
-    {
-      "id": 207,
-      "pointer_offset": 848,
-      "target_offset": 16850,
-      "length_bytes": 19,
-      "raw_hex": "fc01010101010180d1fffc00400c4f4d80d7ff",
-      "text_jp": "[G_252]ああああああ！<CLOSE> ぶしょゃ…",
-      "translation_en": "!?Your stare is creepin' me<LINE>out... What's your deal, punk?!"
-    },
-    {
-      "id": 208,
-      "pointer_offset": 852,
-      "target_offset": 16869,
-      "length_bytes": 38,
-      "raw_hex": "ef568090550081ce83c0822b832f391580d1ffef80d7567b0082ed82100c111f4d103780d1ff",
-      "text_jp": "▲イデア 押圭改笈だな！<CMD_ef>…イラ 畿蚊しちまゃたぜ！",
-      "translation_en": "! You sayin' that with a<LINE>straight face?! Listen up..."
-    },
-    {
-      "id": 209,
-      "pointer_offset": 856,
-      "target_offset": 16907,
-      "length_bytes": 25,
-      "raw_hex": "fcfff609021c084d130082670319061580d7ffef567b1a0082",
-      "text_jp": "[G_252]<PAGE>けいふくゃて 顎うのかな…<CMD_ef>イラは ",
-      "translation_en": "! You're totally out of your<LINE>mind... Gyahaha!<LINE>Gyaaahaha!<CLOSE> You're pretty<PAGE>wild!<CLOSE>"
-    },
-    {
-      "id": 210,
-      "pointer_offset": 860,
-      "target_offset": 16932,
-      "length_bytes": 16,
-      "raw_hex": "292f830f0c0280d1fff6fff8857a3937",
-      "text_jp": "るが吉しい！<PAGE><CMD_f8>次だぜ",
-      "translation_en": "Tell me more of that nonsense!<LINE>Gwahhh!<CLOSE> You're really<LINE>something!"
-    },
-    {
-      "id": 211,
-      "pointer_offset": 864,
-      "target_offset": 16948,
-      "length_bytes": 36,
-      "raw_hex": "80d1ffef260c80d100020282ed35393780d1ffef152e3980d0fff681fb4d13184b354e18",
-      "text_jp": "！<CMD_ef>よし！ いい畿じだぜ！<CMD_ef>なんだ？<PAGE>歌ゃてねぇじゅね",
-      "translation_en": "!?I can't take this anymore!<LINE>What's your deal, punk?! Go<LINE>bother someone else! Gyahaha!<PAGE>Gyaaahaha! You really want<LINE>somethin' from me!"
-    },
-    {
-      "id": 212,
-      "pointer_offset": 868,
-      "target_offset": 16984,
-      "length_bytes": 11,
-      "raw_hex": "4b0680d180d1fff615222e",
-      "text_jp": "ぇか！！<PAGE>なめん",
-      "translation_en": "! Ain't no way that's gonna<LINE>happen! What's your deal, punk?!<LINE>I ain't fallin' for cheap<PAGE>tricks!"
-    },
-    {
-      "id": 213,
-      "pointer_offset": 872,
-      "target_offset": 16995,
-      "length_bytes": 23,
-      "raw_hex": "1526000a2780d1ffef8325832681240680d7ffef152e39",
-      "text_jp": "なよ こら！<CMD_ef>急救鯵か…<CMD_ef>なんだ",
-      "translation_en": "Don't try talkin' your way outta<LINE>this! Listen up...<CLOSE> You're<LINE>sick in the head... Gyahaha!<PAGE>Gyaaahaha!<CLOSE> I'm a demon,<LINE>ya know!"
-    },
-    {
-      "id": 214,
-      "pointer_offset": 876,
-      "target_offset": 17018,
-      "length_bytes": 6,
-      "raw_hex": "00809057242b",
-      "text_jp": " デウやろ",
-      "translation_en": "! I'm super awesome!!<LINE>Gwahhh!<CLOSE> Don't go sayin'<LINE>weird crap all of a sudden! No<PAGE>way in hell!"
-    },
-    {
-      "id": 215,
-      "pointer_offset": 880,
-      "target_offset": 17024,
-      "length_bytes": 31,
-      "raw_hex": "0380d1fff6725763593780d1ffef114d80d7ffef567b1a811681782f830f0c",
-      "text_jp": "う！<PAGE>ホウソオぜ！<CMD_ef>ちゃ…<CMD_ef>イラは哀羽が吉し",
-      "translation_en": "Ain't that right, punk?!<LINE>Gyahaha! Gyaaahaha!<CLOSE> How<LINE>many times do I gotta tell ya?"
-    },
-    {
-      "id": 216,
-      "pointer_offset": 884,
-      "target_offset": 17055,
-      "length_bytes": 16,
-      "raw_hex": "0280d1fff680c181c73c000202062726",
-      "text_jp": "い！<PAGE>1汚で いいからよ",
-      "translation_en": "? Don't look at me with those<LINE>eyes! Gwahhh!<CLOSE> You ain't<LINE>the only one who likes me!<PAGE>What's your deal, punk?!"
-    },
-    {
-      "id": 217,
-      "pointer_offset": 888,
-      "target_offset": 17071,
-      "length_bytes": 41,
-      "raw_hex": "80d1ffef260c80d100020282ed35393780d1ffef152e3980d0008116817823fff681fb4d13184b1906",
-      "text_jp": "！<CMD_ef>よし！ いい畿じだぜ！<CMD_ef>なんだ？ 哀羽も<PAGE>歌ゃてねぇのか",
-      "translation_en": "!<CLOSE> Shut your mouth!<LINE>Gyahaha! Gyaaahaha!<CLOSE> Ain't<LINE>I super cute?!"
-    },
-    {
-      "id": 218,
-      "pointer_offset": 892,
-      "target_offset": 17112,
-      "length_bytes": 52,
-      "raw_hex": "80d180d0fffcfff615222e1526000a2780d1ffef568090550b4880d7fffcfff6811681781a81ce83c019815e393780d7fffcfff6",
-      "text_jp": "！？<CLOSE><PAGE>なめんなよ こら！<CMD_ef>イデアさぁ…<CLOSE><PAGE>哀羽は押圭の壱だぜ…<CLOSE><PAGE>",
-      "translation_en": "!?Gyahaha! Gyaaahaha!<LINE>Gwahhh!<CLOSE> You think you're<LINE>tough, huh?"
-    },
-    {
-      "id": 219,
-      "pointer_offset": 896,
-      "target_offset": 17164,
-      "length_bytes": 36,
-      "raw_hex": "80c181c73127020081db81c50c14092680d7ffef050280d1fffc008081583906274d13ff",
-      "text_jp": "1汚ぐらい 荻塩しとけよ…<CMD_ef>おい！<CLOSE> ヲエだからゃて",
-      "translation_en": "Don't push your luck, kid!<LINE>Gwahhh!<CLOSE> I'm hungry as<LINE>hell!"
-    },
-    {
-      "id": 220,
-      "pointer_offset": 900,
-      "target_offset": 17200,
-      "length_bytes": 6,
-      "raw_hex": "f68081588394",
-      "text_jp": "！？ヲエ駈",
-      "translation_en": "Give me somethin' good to eat!<LINE>Hey, you got any snacks?!<CLOSE>"
-    },
-    {
-      "id": 221,
-      "pointer_offset": 904,
-      "target_offset": 17206,
-      "length_bytes": 26,
-      "raw_hex": "2d0015222e354e184b3880d1ffef114d80d7ffef567b1a008205",
-      "text_jp": "を なめんじゅねぇぞ！<CMD_ef>ちゃ…<CMD_ef>イラは 茄",
-      "translation_en": "Gwahhh!<CLOSE> My stomach's<LINE>rumblin'..."
-    },
-    {
-      "id": 222,
-      "pointer_offset": 908,
-      "target_offset": 17232,
-      "length_bytes": 31,
-      "raw_hex": "81782f830f0c023780d1fff6fff4391580d1ffef304e1a1a1a80d100304e80",
-      "text_jp": "羽が吉しいぜ！<PAGE><CMD_f4>だな！<CMD_ef>ぎゅははは！ ぎゅ",
-      "translation_en": "!?Hand over some Macca! Gyahaha!<LINE>Gyaaahaha!<CLOSE> Gimme all your<LINE>money!"
-    },
-    {
-      "id": 223,
-      "pointer_offset": 912,
-      "target_offset": 17263,
-      "length_bytes": 8,
-      "raw_hex": "cc1a4d1a80d1fffc",
-      "text_jp": "~はゃは！<CLOSE>",
-      "translation_en": "Gimme a Life Stone, come on!<LINE>Just one little stone!<CLOSE>"
-    },
-    {
-      "id": 224,
-      "pointer_offset": 916,
-      "target_offset": 17271,
-      "length_bytes": 25,
-      "raw_hex": "f63e4d1128393780d1ffef030f392b80d7fff5094d80d1fffc",
-      "text_jp": "！？ばゃちりだぜ！<CMD_ef>うそだろ…<LINE>けゃ！<CLOSE>",
-      "translation_en": "!?You got an item for me? Don't<LINE>be stingy, punk!"
-    },
-    {
-      "id": 225,
-      "pointer_offset": 920,
-      "target_offset": 17297,
-      "length_bytes": 14,
-      "raw_hex": "f65a6215812481252f000210232e",
-      "text_jp": "！？カセな鯵梓が いたもん",
-      "translation_en": "Gimme, gimme, gimme! Hand it<LINE>over right now!<CLOSE>"
-    },
-    {
-      "id": 226,
-      "pointer_offset": 924,
-      "target_offset": 17312,
-      "length_bytes": 30,
-      "raw_hex": "3980d1ffef83dc81ba1a000f0339261580d7ffef567b0081fc82182f0202",
-      "text_jp": "だ！<CMD_ef>警焔は そうだよな…<CMD_ef>イラ 河蛾がいい",
-      "translation_en": "! Whoa, you're actually givin'<LINE>it to me?! Gyahaha! Thanks, pal!"
-    },
-    {
-      "id": 227,
-      "pointer_offset": 928,
-      "target_offset": 17342,
-      "length_bytes": 10,
-      "raw_hex": "3780d1fff681b782ca3c",
-      "text_jp": "ぜ！<PAGE>沿玩で",
-      "translation_en": "Alright, you ain't so bad after<LINE>all! Here, take this Tarot<LINE>Card!<CLOSE>"
-    },
-    {
-      "id": 228,
-      "pointer_offset": 932,
-      "target_offset": 17353,
-      "length_bytes": 26,
-      "raw_hex": "020206270b80d1ffef81e9021f4d0e4b80d1ffef014d0f0380d7",
-      "text_jp": "いいからさ！<CMD_ef>下いまゃせぇ！<CMD_ef>あゃそう…",
-      "translation_en": "Let's make a pact, punk! Don't<LINE>go forgettin' about me!"
-    },
-    {
-      "id": 229,
-      "pointer_offset": 936,
-      "target_offset": 17379,
-      "length_bytes": 36,
-      "raw_hex": "fcfff61c34091081248125393780d180d1ffef81670c31270280d7fffcfff62c0913082a",
-      "text_jp": "[G_252]<PAGE>ふざけた鯵梓だぜ！！<CMD_ef>咽しぐらい…<CLOSE><PAGE>わけてくれ",
-      "translation_en": "See ya around,<LINE>chump!<CMD_ef>...Later!"
-    },
-    {
-      "id": 230,
-      "pointer_offset": 940,
-      "target_offset": 17416,
-      "length_bytes": 4644,
-      "raw_hex": "104d13fff60202354e184b0680d780d780d7ffef808b7180ccfff580ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9e009f00000000000180010001000180ffffffffffff020002000180030003000280040004000280050005000280ffffffffffff060006000180070007000180080008000180ffffffffffffffffffffffff0900090003800a000a0003800b000b0003800c000c0001800d000d000180ffffffffffff0e000e000180ffffffffffff0f000f000580100010000580110011000580120012000080130013000080ffffffffffff140014000080150015000580160016000580ffffffffffff1700170005801800180004801900190004801a001a0004801b001b0004801c001c0003801d001d0003801e001e0003801f001f000380200020000080210021000080ffffffffffff220022000080230023000280240024000280250025000280ffffffffffff260026000480270027000480ffffffffffff2800280004802900290000802a002a000080ffffffffffff2b002b0000802c002c0002802d002d0002802e002e000280ffffffffffff2f002f000280300030000280ffffffffffff310031000280320032000380330033000380ffffffffffff340034000380350035000280360036000280370037000280ffffffffffff380038000480390039000480ffffffffffff3a003a0004803b003b0000803c003c000080ffffffffffff3d003d000080ffffffffffff3e003e0000803f003f000080400040000080410041000380420042000380ffffffffffff430043000380440044000280450045000280ffffffffffff460046000280470047000180480048000180ff07ff07ff074900490001804a004a0002804b004b0002804c004c000280ffffffffffff4d004d0004804e004e000480ffffffffffff4f004f000480500050000080510051000080520052000080ffffffffffff530053000280540054000280550055000280ffffffffffffff07ff07ffff5600560002805700570002805800580002805900590000805a005a000080ffffffffffff5b005b000080ffffffffffff5c005c0002805d005d0002805e005e0002805f005f000280600060000280610061000280ffffffffffff620062000280630063000280640064000280ffffffffffff650065000280660066000280670067000280ffffffffffffff07ff07ffff6800680002806900690002806a006a0002806b006b000380ffffffffffff6c006c0003806d006d000380bb00bc00bc000000bd00be00be000000bf00c000c0000000b300b400b4000000c100c200c2000000c300c400c4000000b500b600b6000000c500c600c6000000b700b800b8000000b900ba00ba000000cb00cc00cd00c7009f00a000a100a200a300a400a500a600a700ffffce00ffffffffffffa800a700ffffffffffffffffffffffffffffffffcf00ffffffffffffa900aa00ffffffffffffffffffffffffffffffffc800ffffffffffffab00ac00ffffffffffffffffffffffffffffffffd000ffffffffffffad00ae00af00b000a400ffffffffffffffffffffc900ffffffffffffb100b200a800ffffffffffffffffffffffffffffca00ffffffffffff9f00a400ffffffffffffffffffffffffffffffff6e006f006f007000710071007200730073007400750075007600770077007800790079007a007b007b007c007d007d007e007f007f008000810081008200830083008400850085008600870087008800890089008a008b008b008c008d008d008e008f008f009000910091009200930093009400950095009600970097009800990099009a009b009b009c009d009d00d100ffffd200d300d400d500d600001e011e0000011e0105d700ffffd800d900da00db00dc00003201280000011e0105dd00ffffde00df00df00e000e100031e00000100011e0000e200ffffe300ffffdb00e400e500033200000000011e020500000000000000000300000001000200ffffffff0300ff0104000500ffffffff0300060007000800ffffffff030009000a000b00ffffffff03000c000d000e00ffffffff03000f0010001100ffffffff0300120013001400ffffffff0300150016001700ffffffff0300180019001a00ffffffff03001b001c001d00ffffffff0200ff01ff01ffffffffffff020017001800ffffffffffff020019001a00ffffffffffff02001b001c00ffffffffffff02001d001e00ffffffffffff02001f002000ffffffffffff0300210022002300ffffffff020024002500ffffffffffff020026002700ffffffffffff0300280029002a00ffffffff02002b002c00ffffffffffff02002d002e00ffffffffffff02002f003000ffffffffffff020031003200ffffffffffff020033003400ffffffffffff020035003600ffffffffffff020037003800ffffffffffff030039003a003b00ffffffff080003031e1ee600e600020002021e1ee700e700010001014646e800e800080002021e1ee900e900020001014646ea00ea00010003031e1eeb00eb00020003031e1eec00ec00010002021e1eed00ed00010001013232ee00ee00020000000000ef00ef00040001011e1ef000f000010002021e1ef100f10002001ee50000f200f20001001ee63232f300f300010000001e1ef400f40004001ee70505f500f500010002021e1ef600f600010001011e1ef700f700010003031e1ef800f800040000001e1ef900f90002001eeb4646fa00fa00040001011e1efb00fb00080002021e1efc00fc00010001014646fd00fd0002001eee1e1efe00fe00080003031e1eff00ff00010001011e1e0001000101001ef032320101010102001ef11e1e020102010100020232320301030102001ef2f2f2ffffffff08001ef3f3f3ffffffff010000000000ffffffff08001ef4f4f4ffffffff01001ef5f5f5ffffffff010000000000ffffffff04001ef6f6f6ffffffff020032f7f7f7ffffffff010000000000ffffffff04001ef8f8f8ffffffff02001ef9f9f9ffffffff010000000000ffffffff04001efafafaffffffff01001efbfbfbffffffff010000000000ffffffff01001efcfcfcffffffff04001efdfdfdffffffff010000000000ffffffff02001efefefeffffffff08001effffffffffffff04001e000000ffffffff02001e010101ffffffff08001e020202ffffffff010000000000ffffffff08001e030303ffffffff02001e040404ffffffff010000000000ffffffff08001e050505ffffffff02001e060606ffffffff01001e070707ffffffff04001e080808ffffffff01001e090909ffffffff010000000000ffffffff08001e0a0a0affffffff02001e0b0b0bffffffff010000000000ffffffff04001e0c0c0cffffffff0800000d0d0dffffffff010000000000ffffffff04001e0e0e0effffffff08001e0f0f0fffffffff010000000000ffffffff08001e101010ffffffff02001e111111ffffffff010000000000ffffffff01001e121212ffffffff08001e131313ffffffff010000000000ffffffff01001e141414ffffffff020032151515ffffffff010000000000ffffffff02001e161616ffffffff08001e171717ffffffff020000181818ffffffff",
-      "text_jp": "たゃて<PAGE>いいじゅねぇか………<CMD_ef>ゼヘ~<LINE>[G_255]<CMD_9e> ェ     ああ あ あ[G_255]<CMD_02> い あう う いえ え いお お い[G_255]<CMD_06> か あき き あく く あ[G_255]<CMD_09> け うこ こ うさ さ うし し あす す あ[G_255]<CMD_0e> せ あ[G_255]<CMD_0f> そ おた た おち ち おつ つ  て て  [G_255]<CMD_14> と  な な おに に お[G_255]<CMD_17> ぬ おね ね えの の えは は えひ ひ えふ ふ うへ へ うほ ほ うま ま うみ み  む む  [G_255]<CMD_22> め  も も いや や いゆ ゆ い[G_255]<CMD_26> よ えら ら え[G_255]<CMD_28> り える る  れ れ  [G_255]<CMD_2b> ろ  わ わ いを を いん ん い[G_255]<CMD_2f> が いぎ ぎ い[G_255]<CMD_31> ぐ いげ げ うご ご う[G_255]<CMD_34> ざ うじ じ いず ず いぜ ぜ い[G_255]<CMD_38> ぞ えだ だ え[G_255]<CMD_3a> ぢ えづ づ  で で  [G_255]<CMD_3d> ど  [G_255]<CMD_3e> ば  び び  ぶ ぶ  べ べ うぼ ぼ う[G_255]<CMD_43> ぱ うぴ ぴ いぷ ぷ い[G_255]<CMD_46> ぺ いぽ ぽ あぁ ぁ あ[G_255]き<CMD_07><CMD_07>ぃ ぃ あぅ ぅ いぇ ぇ いぉ ぉ い[G_255]<CMD_4d> ゃ えゅ ゅ え[G_255]<CMD_4f> ょ えっ っ  ゎ ゎ  ヴ ヴ  [G_255]<CMD_53> ノ いオ オ いア ア い[G_255]<CMD_07><CMD_07><CMD_56> イ いウ ウ いエ エ いオ オ  カ カ  [G_255]<CMD_5b> キ  [G_255]<CMD_5c> ク いケ ケ いコ コ いサ サ いシ シ いス ス い[G_255]<CMD_62> セ いソ ソ いタ タ い[G_255]<CMD_65> チ いツ ツ いテ テ い[G_255]<CMD_07><CMD_07><CMD_68> ト いナ ナ いニ ニ いヌ ヌ う[G_255]<CMD_6c> ネ うノ ノ うV W W   X Y Y   Z 0 0   N O O   1 2 2   3 4 4   P Q Q   5 6 6   R S S   T U U   : ~ . 7 ェ ォ ャ ュ ョ ッ ヮ A B <CMD_ce> <CMD_a8> B <CMD_cf> <CMD_a9> E <CMD_c8> <CMD_ab> G <CMD_d0> <CMD_ad> I J K ッ <CMD_c9> <CMD_b1> M C <CMD_ca> <CMD_9f> ッ <CMD_6e> ヒ ヒ フ ヘ ヘ ホ マ マ ミ ム ム メ モ モ ヤ ユ ユ ヨ ラ ラ リ ル ル レ ロ ロ  [G_256][G_256]禾宜宜拳冴冴宿政政ザ ジ ジ ズ ゼ ゼ ゾ ダ ダ ヂ ヅ ヅ デ ド ド バ ビ ビ ブ ベ ベ ボ パ パ ピ プ プ ペ ポ ポ ァ ィ ィ ！ <CMD_d2> ＜ ー 、 ’  ほあほ  あほあお… <CMD_d8> ） 「 」 『  げあり  あほあお』 <CMD_de> 】 】 ＋ － うほ  あ あほ  ± <CMD_e3> <CMD_db> ÷ ％ うげ    あほいお        う   あ い <CMD_03> <CMD_01>え お <CMD_03> か き く <CMD_03> け こ さ <CMD_03> し す せ <CMD_03> そ た ち <CMD_03> つ て と <CMD_03> な に ぬ <CMD_03> ね の は <CMD_03> ひ ふ へ <CMD_02> <CMD_01><CMD_01><CMD_02> ぬ ね <CMD_02> の は <CMD_02> ひ ふ <CMD_02> へ ほ <CMD_02> ま み <CMD_03> む め も <CMD_02> や ゆ <CMD_02> よ ら <CMD_03> り る れ <CMD_02> ろ わ <CMD_02> を ん <CMD_02> が ぎ <CMD_02> ぐ げ <CMD_02> ご ざ <CMD_02> じ ず <CMD_02> ぜ ぞ <CMD_03> だ ぢ づ <CMD_08> ううほほ＃ ＃ い いいほほ＆ ＆ あ ああぺぺ☆ ☆ く いいほほ★ ★ い ああぺぺ○ ○ あ ううほほ● ● い ううほほ□ □ あ いいほほ■ ■ あ ああげげ△ △ い     ▲ ▲ え ああほほ※ ※ あ いいほほ＝ ＝ い ほ％  ♡ ♡ あ ほ＃げげ＄ ＄ あ   ほほ♀ ♀ え ほ＆おお♂ ♂ あ いいほほ！？ ！？ あ ああほほ[G_247] [G_247] あ ううほほ[G_248] [G_248] え   ほほ[G_249] [G_249] い ほ●ぺぺ[G_250] [G_250] え ああほほ[G_251] [G_251] く いいほほ[G_252] [G_252] あ ああぺぺ[G_253] [G_253] い ほ△ほほ[G_254] [G_254] く ううほほ<CMD_00><CMD_00>あ ああほほ あ ああ ほ※げげああああい ほ＝ほほいあいああ いいげげうあうあい ほ♡♡♡<CMD_08> ほ＄＄＄<CMD_01>     <CMD_08> ほ♀♀♀<CMD_01> ほ♂♂♂<CMD_01>     <CMD_04> ほ！？！？！？<CMD_02> げ[G_247][G_247][G_247]<CMD_01>     <CMD_04> ほ[G_248][G_248][G_248]<CMD_02> ほ[G_249][G_249][G_249]<CMD_01>     <CMD_04> ほ[G_250][G_250][G_250]<CMD_01> ほ[G_251][G_251][G_251]<CMD_01>     <CMD_01> ほ[G_252][G_252][G_252]<CMD_04> ほ[G_253][G_253][G_253]<CMD_01>     <CMD_02> ほ[G_254][G_254][G_254]<CMD_08> ほ<CMD_04> ほ   <CMD_02> ほあああ<CMD_08> ほいいい<CMD_01>     <CMD_08> ほううう<CMD_02> ほえええ<CMD_01>     <CMD_08> ほおおお<CMD_02> ほかかか<CMD_01> ほききき<CMD_04> ほくくく<CMD_01> ほけけけ<CMD_01>     <CMD_08> ほこここ<CMD_02> ほさささ<CMD_01>     <CMD_04> ほししし<CMD_08>  すすす<CMD_01>     <CMD_04> ほせせせ<CMD_08> ほそそそ<CMD_01>     <CMD_08> ほたたた<CMD_02> ほちちち<CMD_01>     <CMD_01> ほつつつ<CMD_08> ほててて<CMD_01>     <CMD_01> ほととと<CMD_02> げななな<CMD_01>     <CMD_02> ほににに<CMD_08> ほぬぬぬ<CMD_02>  ねねね",
-      "translation_en": "Gwahhh!<CLOSE> I'm outta here!"
-    }
-  ]
+ "file": "TALK/GAKI",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 23,
+   "raw_hex": "311a4880d1fffcfff6526780821686ba2a111f033780d1",
+   "text_jp": "ぐはぁ!<CLOSE><PAGE>アニギに偬れちまうぜ!",
+   "notes": "",
+   "translation_en": "Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 1,
+   "offset": 8235,
+   "length_bytes": 35,
+   "raw_hex": "fff6234d1400828f83680c13082a4b80d1fff5152e3900809057242b0380d1fffcfff6",
+   "text_jp": "<PAGE>もっと 説得してくれぇ!<LINE>なんだ バカやろう!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 2,
+   "offset": 8270,
+   "length_bytes": 61,
+   "raw_hex": "0f2e1581aa1a0082d8071008184b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6808158198081581029567b2f82d282d30680d080d1",
+   "text_jp": "そんな話は 聞きたくねぇぞ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>ガキのガキたるオレが必要か?!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 3,
+   "offset": 8331,
+   "length_bytes": 45,
+   "raw_hex": "304e1a1a1a80d100304e80cc1a4d1a80d1fff5567b2d00838981dd0d294d130680d0fffcfff6311a4880d1fffc",
+   "text_jp": "ぎゃははは! ぎゃ{204}はっは!<LINE>オレを 挑芫するってか?<CLOSE><PAGE>ぐはぁ!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gwahhh!<CLOSE>"
+  },
+  {
+   "id": 4,
+   "offset": 8377,
+   "length_bytes": 53,
+   "raw_hex": "fff65267808200834a2c0c13082a293780d1fff5152e3900809057242b0380d1fff6567b16005a7f5781af290680d180d0fffcfff6",
+   "text_jp": "<PAGE>アニギ 笶わしてくれるぜ!<LINE>なんだ バカやろう!<PAGE>オレに ケンカ売るか!?<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 5,
+   "offset": 8429,
+   "length_bytes": 19,
+   "raw_hex": "152e3c230084a2033800808480944d80d1fff5",
+   "text_jp": "なんでも 賞うぞ ゲボっ!<LINE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>"
+  },
+  {
+   "id": 6,
+   "offset": 8448,
+   "length_bytes": 48,
+   "raw_hex": "5680d7fffc567b2f82d70c104d130680d0fff5311a4880d1fffcfff65267808200020281450c132e154880d7fffcfff6",
+   "text_jp": "オ…<CLOSE>オレが何したってか?<LINE>ぐはぁ!<CLOSE><PAGE>アニギ いい体してんなぁ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 7,
+   "offset": 8496,
+   "length_bytes": 30,
+   "raw_hex": "152e3906000f1982181680d7311a4880d1fff5567b1a000f2e150005832f",
+   "text_jp": "なんだか その気に…ぐはぁ!<LINE>オレは そんな お手",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 8,
+   "offset": 8526,
+   "length_bytes": 30,
+   "raw_hex": "845215fff6808158354e15023880d180d1fff5526780824980d7fffcfff6",
+   "text_jp": "輊な<PAGE>ガキじゃないぞ!!<LINE>アニギぃ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 9,
+   "offset": 8556,
+   "length_bytes": 31,
+   "raw_hex": "81aa0c13298192190082382f0a4b0480d7fff5152e3900809057242b0380d1",
+   "text_jp": "話してる時の 目がこぇえ…<LINE>なんだ バカやろう!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!"
+  },
+  {
+   "id": 10,
+   "offset": 8588,
+   "length_bytes": 29,
+   "raw_hex": "fffcfff60c271c3c00824f4d132e154880d1fff5526780824980d7fffc",
+   "text_jp": "<CLOSE><PAGE>しらふで 歌ってんなぁ!<LINE>アニギぃ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 11,
+   "offset": 8616,
+   "length_bytes": 59,
+   "raw_hex": "fff66a808f02062a132e3780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff652678082006a796a79391580d1fffcfff6822b",
+   "text_jp": "<PAGE>ノドいかれてんぜ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アニギ ノリノリだな!<CLOSE><PAGE>下",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 12,
+   "offset": 8675,
+   "length_bytes": 41,
+   "raw_hex": "832f15824f00234d1482d807134b3780d1fff5311a4880d1fffcfff65269808200821c8210391580d1",
+   "text_jp": "手な歌 もっと聞きてぇぜ!<LINE>ぐはぁ!<CLOSE><PAGE>アネギ 熱沚だな!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 13,
+   "offset": 8717,
+   "length_bytes": 24,
+   "raw_hex": "fff60f19846983a80086ba2a0f03393780d1fff5152e3900",
+   "text_jp": "<PAGE>その姿勢 偬れそうだぜ!<LINE>なんだ ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 14,
+   "offset": 8740,
+   "length_bytes": 51,
+   "raw_hex": "809057242b0380d1fff61e0601102a80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b2f82d282d3152e391580d1",
+   "text_jp": "バカやろう!<PAGE>ほかあたれ!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>オレが必要なんだな!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 15,
+   "offset": 8792,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff6827b2c360084a34d114e031880d1fff5152e3900809057242b0380d1fff6567b1a000f2e1582390282",
+   "text_jp": "<CLOSE><PAGE>思わず 錘っちゃうね!<LINE>なんだ バカやろう!<PAGE>オレは そんな甘い",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 16,
+   "offset": 8836,
+   "length_bytes": 25,
+   "raw_hex": "678351161afff61b4d06062715023880d1fff55269808280d7",
+   "text_jp": "ニ葉には<PAGE>ひっかからないぞ!<LINE>アネギ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 17,
+   "offset": 8861,
+   "length_bytes": 54,
+   "raw_hex": "fffcfff6865e2e3c29392b80d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b1a008081583980d63780d680",
+   "text_jp": "<CLOSE><PAGE>企んでるだろ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレは ガキだ{214}ぜ{214}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 18,
+   "offset": 8915,
+   "length_bytes": 37,
+   "raw_hex": "d1fff60d33022e3980d63780d680d180d1fff5311a4880d1fffcfff6526980824d13000207",
+   "text_jp": "!<PAGE>すごいんだ{214}ぜ{214}!!<LINE>ぐはぁ!<CLOSE><PAGE>アネギって いき",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 19,
+   "offset": 8952,
+   "length_bytes": 34,
+   "raw_hex": "1528fff6817d150a148267032e391580d6fff50f2e152c0900184b392b80d1fff656",
+   "text_jp": "なり<PAGE>変なこと言うんだな{214}<LINE>そんなわけ ねぇだろ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 20,
+   "offset": 8986,
+   "length_bytes": 56,
+   "raw_hex": "80905500809057354e184b190680d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6526980820082df3c2384b74d102f80d0",
+   "text_jp": "バエ バカじゃねぇのか!!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アネギ 腹でも扞ったが?",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 21,
+   "offset": 9042,
+   "length_bytes": 41,
+   "raw_hex": "fff60f1982563c00856620132e152680d1fff5311a4880d1fffcfff6567b2d853b2f4d13082a29191a",
+   "text_jp": "<PAGE>その年で 夢みてんなよ!<LINE>ぐはぁ!<CLOSE><PAGE>オレを怖がってくれるのは",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 22,
+   "offset": 9083,
+   "length_bytes": 30,
+   "raw_hex": "fff65e7853723909354e184b2e391580d1fff5152e3900809057242b0380",
+   "text_jp": "<PAGE>スライムだけじゃねぇんだな!<LINE>なんだ バカやろう",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 23,
+   "offset": 9113,
+   "length_bytes": 55,
+   "raw_hex": "d1fffcfff6568090550003290e4b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b4d1300853b02392b0380d1fff6",
+   "text_jp": "!<CLOSE><PAGE>オバエ うるせぇぞ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレって 怖いだろう!<PAGE>",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 24,
+   "offset": 9168,
+   "length_bytes": 44,
+   "raw_hex": "304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780824d13852885c98127020680d1",
+   "text_jp": "ぎゃははは! ぎゃ{204}はっは!<LINE>ぐはぁ!<CLOSE><PAGE>アニギって両尹払いか!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 25,
+   "offset": 9212,
+   "length_bytes": 48,
+   "raw_hex": "80d0fff682f684c20c111f033780d680d1fff5152e3900809057242b0380d1fffcfff6567b1a008285393880d180d180",
+   "text_jp": "?<PAGE>尊敬しちまうぜ{214}!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレは 女だぞ!!",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "?<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 26,
+   "offset": 9260,
+   "length_bytes": 27,
+   "raw_hex": "d1fff615222e1580d1000b0d3880d180d1fff552005267808280d7",
+   "text_jp": "!<PAGE>なめんな! さすぞ!!<LINE>ア アニギ…",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 27,
+   "offset": 9287,
+   "length_bytes": 57,
+   "raw_hex": "fffcfff6849e834039261580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff65267808223000582382f825c0280d1fff6",
+   "text_jp": "<CLOSE><PAGE>定談だよな………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アニギも お目が高い!<PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 28,
+   "offset": 9344,
+   "length_bytes": 46,
+   "raw_hex": "567b0080847c81e38206020627154880d1fff5311a4880d1fffcfff65267808219808280a280838182825c393780",
+   "text_jp": "オレ ゲロ戸愛いからなぁ!<LINE>ぐはぁ!<CLOSE><PAGE>アニギのギャグ最高だぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 29,
+   "offset": 9390,
+   "length_bytes": 43,
+   "raw_hex": "d1fff682821981c581653c39093d1580d1fff5814d863600834a04184b80d7fffcfff6815681c52f002c02",
+   "text_jp": "!<PAGE>別の意味でだけどな!<LINE>全然 笶えねぇ…<CLOSE><PAGE>殺意が わい",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 30,
+   "offset": 9433,
+   "length_bytes": 49,
+   "raw_hex": "1037fffcfff6526780820081342e3c082afff51280d7121f27184b80d7fffcfff682d619808280a280833c80d7fffcfff6",
+   "text_jp": "たぜ<CLOSE><PAGE>アニギ 迅んでくれ<LINE>つ…つまらねぇ…<CLOSE><PAGE>今のギャグで…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 31,
+   "offset": 9482,
+   "length_bytes": 43,
+   "raw_hex": "828c828d2f84823f292e354e18040680d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6526780",
+   "text_jp": "械晃が滅びるんじゃねえか…<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アニ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 32,
+   "offset": 9525,
+   "length_bytes": 24,
+   "raw_hex": "8200818281f719808280a28083393780d1fff5311a4880d1",
+   "text_jp": "冂最独のギャグだぜ!<LINE>ぐはぁ!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!"
+  },
+  {
+   "id": 33,
+   "offset": 9549,
+   "length_bytes": 34,
+   "raw_hex": "fffcfff60f2a062780d0000f2a062780d0fff539062782d7152e392680d1fffcfff6",
+   "text_jp": "<CLOSE><PAGE>それから? それから?<LINE>だから何なんだよ!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 34,
+   "offset": 9583,
+   "length_bytes": 54,
+   "raw_hex": "808158161a83248396184b81aa392b80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60f0302030082d73c23184b81aa0d",
+   "text_jp": "ガキには関係ねぇ話だろ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>そういう 何でもねぇ話す",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 35,
+   "offset": 9637,
+   "length_bytes": 39,
+   "raw_hex": "27fff682d619567b161a0082e782ed80d1fff5311a4880d1fffcfff6526780824d1300813d0282",
+   "text_jp": "ら<PAGE>今のオレには 快感!<LINE>ぐはぁ!<CLOSE><PAGE>アニギって 悪い",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 36,
+   "offset": 9676,
+   "length_bytes": 47,
+   "raw_hex": "52391580d1fff686ba2a0f0339374b80d1fff5152e3900809057242b0380d1fffcfff68337809563843384322f0002",
+   "text_jp": "アだな!<PAGE>偬れそうだぜぇ!<LINE>なんだ バカやろう!<CLOSE><PAGE>茶パツ蜉郎が い",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 37,
+   "offset": 9723,
+   "length_bytes": 33,
+   "raw_hex": "02821816fff6154d132e354e184b3880d1fff582d63d07000f2e150a1480d7fffc",
+   "text_jp": "い気に<PAGE>なってんじゃねぇぞ!<LINE>今どき そんなこと…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 38,
+   "offset": 9757,
+   "length_bytes": 42,
+   "raw_hex": "fff65267808200758090532680d780d780d7fff5311a4880d1fffcfff65267808200822981fb11152e39",
+   "text_jp": "<PAGE>アニギ ヤバイよ………<LINE>ぐはぁ!<CLOSE><PAGE>アニギ 舍持ちなんだ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 39,
+   "offset": 9798,
+   "length_bytes": 31,
+   "raw_hex": "1580d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380d1",
+   "text_jp": "な!<PAGE>偬れちまいそうだぜ!<LINE>なんだ バカやろう!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!"
+  },
+  {
+   "id": 40,
+   "offset": 9829,
+   "length_bytes": 56,
+   "raw_hex": "fffcfff6567b1a870f86f0152e392680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff63d2e3d2e00567b160020123280d1fff6",
+   "text_jp": "<CLOSE><PAGE>オレは貫侃なんだよ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>どんどん オレに みつげ!<PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 41,
+   "offset": 9885,
+   "length_bytes": 43,
+   "raw_hex": "304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780820082498188837b8320152e",
+   "text_jp": "ぎゃははは! ぎゃ{204}はっは!<LINE>ぐはぁ!<CLOSE><PAGE>アニギ 合理工羲なん",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 42,
+   "offset": 9928,
+   "length_bytes": 37,
+   "raw_hex": "391580d1fff60f03020319008280073926fff5152e3900809057242b0380d1fffcfff68253",
+   "text_jp": "だな!<PAGE>そういうの 好きだよ<LINE>なんだ バカやろう!<CLOSE><PAGE>演",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 43,
+   "offset": 9965,
+   "length_bytes": 36,
+   "raw_hex": "828f152e130083358165184b2e392680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1",
+   "text_jp": "説なんて 興味ねぇんだよ!<LINE>ぎゃははは! ぎゃ{204}はっは!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 44,
+   "offset": 10001,
+   "length_bytes": 38,
+   "raw_hex": "fff65267808219008267031405283980d1fff5311a4880d1fff60c80d7fffc0c3f2a293780d7",
+   "text_jp": "<PAGE>アニギの 言うとおりだ!<LINE>ぐはぁ!<PAGE>し…<CLOSE>しびれるぜ…",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 45,
+   "offset": 10039,
+   "length_bytes": 44,
+   "raw_hex": "fffcfff6567b230082674d1320134b80d1fff5152e3900809057242b0380d1fffcfff656809055160083bd86",
+   "text_jp": "<CLOSE><PAGE>オレも 言ってみてぇ!<LINE>なんだ バカやろう!<CLOSE><PAGE>オバエに 怒",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 46,
+   "offset": 10083,
+   "length_bytes": 28,
+   "raw_hex": "a5272a29fff60542041a184b2e393880d1fff5526780824980d7fffc",
+   "text_jp": "ヮられる<PAGE>おぼえはねぇんだぞ!<LINE>アニギぃ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 47,
+   "offset": 10112,
+   "length_bytes": 27,
+   "raw_hex": "fff60f2e1500816d8169242213082a2680d7fff5311a4880d1fff6",
+   "text_jp": "<PAGE>そんな 怒痍やめてくれよ…<LINE>ぐはぁ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<PAGE>"
+  },
+  {
+   "id": 48,
+   "offset": 10138,
+   "length_bytes": 32,
+   "raw_hex": "567b23008198828c0c10232e39154880d1fff556809055198267030a141afff6",
+   "text_jp": "オレも 申械したもんだなぁ!<LINE>オバエの言うことは<PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 49,
+   "offset": 10170,
+   "length_bytes": 56,
+   "raw_hex": "152e0600830e81d61682d809184b1580d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082002c064d1329184b80d1fffcfff6",
+   "text_jp": "なんか 素直に聞けねぇな!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>アニギ わかってるねぇ!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 50,
+   "offset": 10226,
+   "length_bytes": 40,
+   "raw_hex": "304e1a1a1a80d100304e80cc1a4d1a80d1fff5311a4880d1fffcfff6526780820081c81f4d132918",
+   "text_jp": "ぎゃははは! ぎゃ{204}はっは!<LINE>ぐはぁ!<CLOSE><PAGE>アニギ 決まってるね",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 51,
+   "offset": 10266,
+   "length_bytes": 43,
+   "raw_hex": "4b80d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380d1fff6822b832f4d44491584a3",
+   "text_jp": "ぇ!<PAGE>偬れちまいそうだぜ!<LINE>なんだ バカやろう!<PAGE>下手っぴぃな錘",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 52,
+   "offset": 10309,
+   "length_bytes": 52,
+   "raw_hex": "28152e13fff6821b0e2e354e184b2680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082002429354e18040680d1",
+   "text_jp": "りなんて<PAGE>見せんじゃねぇよ!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>アニギ やるじゃねえか!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 53,
+   "offset": 10361,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff6234d1483851c4d13082a4b80d1fff5567b2d00838981dd0d294d130680d0fffcfff6311a4880d1fffc",
+   "text_jp": "<CLOSE><PAGE>もっと騰ふってくれぇ!<LINE>オレを 挑芫するってか?<CLOSE><PAGE>ぐはぁ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gwahhh!<CLOSE>"
+  },
+  {
+   "id": 54,
+   "offset": 10407,
+   "length_bytes": 53,
+   "raw_hex": "fff65267808200834a2c0c13082a293780d1fff5152e3900809057242b0380d1fff6567b16005a7f5781af290680d180d0fffcfff6",
+   "text_jp": "<PAGE>アニギ 笶わしてくれるぜ!<LINE>なんだ バカやろう!<PAGE>オレに ケンカ売るか!?<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 55,
+   "offset": 10459,
+   "length_bytes": 19,
+   "raw_hex": "152e3c230084a2033800808480944d80d1fff5",
+   "text_jp": "なんでも 賞うぞ ゲボっ!<LINE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>"
+  },
+  {
+   "id": 56,
+   "offset": 10478,
+   "length_bytes": 38,
+   "raw_hex": "5680d7fffc567b2f82d70c104d130680d0fff5311a4880d1fffcfff65267808200821b122229",
+   "text_jp": "オ…<CLOSE>オレが何したってか?<LINE>ぐはぁ!<CLOSE><PAGE>アニギ 見つめる",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 57,
+   "offset": 10516,
+   "length_bytes": 31,
+   "raw_hex": "8157832f2ffff682cf0320134b393780d1fff5152e3900809057242b0380d1",
+   "text_jp": "梠手が<PAGE>違うみてぇだぜ!<LINE>なんだ バカやろう!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!"
+  },
+  {
+   "id": 58,
+   "offset": 10547,
+   "length_bytes": 36,
+   "raw_hex": "fff6352b352b00821b2e354e184b2680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1",
+   "text_jp": "<PAGE>じろじろ 見んじゃねぇよ!<LINE>ぎゃははは! ぎゃ{204}はっは!",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 59,
+   "offset": 10584,
+   "length_bytes": 38,
+   "raw_hex": "fffcfff6567b1600821b142a29154d1380d1fff5311a4880d1fffcfff6526780824d13000207",
+   "text_jp": "<CLOSE><PAGE>オレに 見とれるなって!<LINE>ぐはぁ!<CLOSE><PAGE>アニギって いき",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 60,
+   "offset": 10621,
+   "length_bytes": 36,
+   "raw_hex": "1528fff6817d150a148267032e391580d6fff50f2e152c0900184b392b80d1fffcfff656",
+   "text_jp": "なり<PAGE>変なこと言うんだな{214}<LINE>そんなわけ ねぇだろ!<CLOSE><PAGE>オ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 61,
+   "offset": 10657,
+   "length_bytes": 56,
+   "raw_hex": "80905500809057354e184b190680d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6526780820082df3c2384b74d102f80d0fffc",
+   "text_jp": "バエ バカじゃねぇのか!!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>アニギ 腹でも扞ったが?<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 62,
+   "offset": 10713,
+   "length_bytes": 40,
+   "raw_hex": "fff60f1982563c00856620132e152680d1fff5152e3900809057242b0380d1fff6567b1a853b0281",
+   "text_jp": "<PAGE>その年で 夢みてんなよ!<LINE>なんだ バカやろう!<PAGE>オレは怖い",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 63,
+   "offset": 10753,
+   "length_bytes": 29,
+   "raw_hex": "aa152e13fff683bc3513184b2e392680d1fff55269808200853b4b0a14",
+   "text_jp": "Eなんて<PAGE>信じてねぇんだよ!<LINE>アネギ 怖ぇこと",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 64,
+   "offset": 10783,
+   "length_bytes": 46,
+   "raw_hex": "fff682672c15023c082a264c80d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff60f2e1581aa152e",
+   "text_jp": "<PAGE>言わないでくれよぉ………<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>そんな話なん",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 65,
+   "offset": 10828,
+   "length_bytes": 26,
+   "raw_hex": "062628fff6567b1981662f00853b02374bfff5311a4880d1fffc",
+   "text_jp": "かより<PAGE>オレの方が 怖いぜぇ<LINE>ぐはぁ!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE>"
+  },
+  {
+   "id": 66,
+   "offset": 10855,
+   "length_bytes": 42,
+   "raw_hex": "fff65269808219840d008182825c393780d1fff5152e3900809057242b0380d1fffcfff6567b1981bc27",
+   "text_jp": "<PAGE>アネギの声 最高だぜ!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレの知ら",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 67,
+   "offset": 10896,
+   "length_bytes": 59,
+   "raw_hex": "184b824ffff6824f4d132e354e184b80d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff652698082006a796a79391580d1fffcfff6822b",
+   "text_jp": "ねぇ歌<PAGE>歌ってんじゃねぇ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アネギ ノリノリだな!<CLOSE><PAGE>下",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 68,
+   "offset": 10955,
+   "length_bytes": 30,
+   "raw_hex": "832f15824f00234d1482d807134b3780d1fff5526980824d1300062c0202",
+   "text_jp": "手な歌 もっと聞きてぇぜ!<LINE>アネギって かわいい",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 69,
+   "offset": 10985,
+   "length_bytes": 31,
+   "raw_hex": "0a14fff68267032e39154880d780d780d7fff5526980822f827b4d13291e3d",
+   "text_jp": "こと<PAGE>言うんだなぁ………<LINE>アネギが思ってるほど",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 70,
+   "offset": 11016,
+   "length_bytes": 43,
+   "raw_hex": "fff6567b1a00824e82dd354e184b3880d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b00",
+   "text_jp": "<PAGE>オレは 子供じゃねぇぞ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレ ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 71,
+   "offset": 11059,
+   "length_bytes": 48,
+   "raw_hex": "823904114e4d1323fff6020219061580d0fff5311a4880d1fffcfff65269808200020281450c132e154880d7fffcfff6",
+   "text_jp": "甘えちゃっても<PAGE>いいのかな?<LINE>ぐはぁ!<CLOSE><PAGE>アネギ いい体してんなぁ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 72,
+   "offset": 11107,
+   "length_bytes": 30,
+   "raw_hex": "152e3906000f1982181680d7311a4880d1fff5567b1a000f2e150005832f",
+   "text_jp": "なんだか その気に…ぐはぁ!<LINE>オレは そんな お手",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 73,
+   "offset": 11137,
+   "length_bytes": 53,
+   "raw_hex": "845215fff6808158354e15023880d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b2f00567b2f82d282d30648",
+   "text_jp": "輊な<PAGE>ガキじゃないぞ!!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレが オレが必要かぁ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 74,
+   "offset": 11190,
+   "length_bytes": 42,
+   "raw_hex": "80d0fff60a02121a0082fc0c02184b80d1fff5311a4880d1fffcfff6526980824d130082ca813d021548",
+   "text_jp": "?<PAGE>こいつは 娼しいねぇ!<LINE>ぐはぁ!<CLOSE><PAGE>アネギって 日悪いなぁ",
+   "notes": "",
+   "translation_en": "?<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 75,
+   "offset": 11232,
+   "length_bytes": 41,
+   "raw_hex": "80d7fff63c23838a8218816526023780d1fff5152e3900809057242b0380d1fff65680905516000915",
+   "text_jp": "…<PAGE>でも小気味よいぜ!<LINE>なんだ バカやろう!<PAGE>オバエに けな",
+   "notes": "",
+   "translation_en": "…<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 76,
+   "offset": 11273,
+   "length_bytes": 39,
+   "raw_hex": "0b2a29fff6054204152e1300184b3880d1fff5526980824980d7fffcfff6567b16000f2e150a14",
+   "text_jp": "される<PAGE>おぼえなんて ねぇぞ!<LINE>アネギぃ…<CLOSE><PAGE>オレに そんなこと",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 77,
+   "offset": 11312,
+   "length_bytes": 48,
+   "raw_hex": "fff682672c15023c082a2680d780d780d7fff5311a4880d1fffcfff65269808200020281450c132e154880d7fffcfff6",
+   "text_jp": "<PAGE>言わないでくれよ………<LINE>ぐはぁ!<CLOSE><PAGE>アネギ いい体してんなぁ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 78,
+   "offset": 11360,
+   "length_bytes": 49,
+   "raw_hex": "152e3906000f1982181680d7311a4880d1fff5152e3900809057242b0380d1fffcfff6567b2f005680905520100215fff6",
+   "text_jp": "なんだか その気に…ぐはぁ!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレが オバエみたいな<PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 79,
+   "offset": 11409,
+   "length_bytes": 50,
+   "raw_hex": "05824e83941984d30216826629062680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60b0d2f00567b393780d1",
+   "text_jp": "お子達の訪いに帚るかよ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>さすが オレだぜ!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 80,
+   "offset": 11459,
+   "length_bytes": 43,
+   "raw_hex": "fff623130d30114e4d1382fe292c488705fff5311a4880d1fff652698082008111842783f2064880d0fff6",
+   "text_jp": "<PAGE>もてすぎちゃって附るわぁ鷺<LINE>ぐはぁ!<PAGE>アネギ 大夫夬かぁ?<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 81,
+   "offset": 11502,
+   "length_bytes": 43,
+   "raw_hex": "8238062777808b7b2f81981329374b80d1fff5152e3900809057242b0380d1fffcfff60f2e1500121f2e18",
+   "text_jp": "目からヨダレが申てるぜぇ!<LINE>なんだ バカやろう!<CLOSE><PAGE>そんな つまんね",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 82,
+   "offset": 11545,
+   "length_bytes": 47,
+   "raw_hex": "4b0a143cfff6852202132e354e184b80d1fff580d780d780d780d780d780d780d7fffcfff68124812519828c828d4d",
+   "text_jp": "ぇことで<PAGE>泣いてんじゃねぇ!<LINE>…………………<CLOSE><PAGE>人間の械晃っ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>…………………<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 83,
+   "offset": 11592,
+   "length_bytes": 43,
+   "raw_hex": "13fff656607c5d532e391580d780d780d7fff5311a4880d1fffcfff6526980824d13000d324b81f7073915",
+   "text_jp": "て<PAGE>オソロシイんだな………<LINE>ぐはぁ!<CLOSE><PAGE>アネギって すげぇ独きだな",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 84,
+   "offset": 11635,
+   "length_bytes": 43,
+   "raw_hex": "4880d7fffc86ba2a111f020f03393780d1fff5152e3900809057242b0380d1fffcfff6812619080e160056",
+   "text_jp": "ぁ…<CLOSE>偬れちまいそうだぜ!<LINE>なんだ バカやろう!<CLOSE><PAGE>女のくせに オ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 85,
+   "offset": 11678,
+   "length_bytes": 41,
+   "raw_hex": "7b16fff65a7f5781af294d1319062680d1fff5526980824980d7fffcfff6567b2d00859c0d1939091a",
+   "text_jp": "レに<PAGE>ケンカ売るってのかよ!<LINE>アネギぃ…<CLOSE><PAGE>オレを 脅すのだけは",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 86,
+   "offset": 11719,
+   "length_bytes": 53,
+   "raw_hex": "fff6062e412e0c13082a2680d780d780d7fff5152e3900809057242b0380d1fffcfff60202821816154d132e354e184b3880d1fff6",
+   "text_jp": "<PAGE>かんべんしてくれよ………<LINE>なんだ バカやろう!<CLOSE><PAGE>いい気になってんじゃねぇぞ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 87,
+   "offset": 11772,
+   "length_bytes": 37,
+   "raw_hex": "8090570080905700809080cc5780d180d1fff5526980824980d7fffcfff6567b2d00023522",
+   "text_jp": "バカ バカ バ{204}カ!!<LINE>アネギぃ…<CLOSE><PAGE>オレを いじめ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 88,
+   "offset": 11809,
+   "length_bytes": 38,
+   "raw_hex": "29191afff6242213082a2680d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffc",
+   "text_jp": "るのは<PAGE>やめてくれよ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 89,
+   "offset": 11847,
+   "length_bytes": 41,
+   "raw_hex": "fff6234d140002352213830f0c023780d1fff5311a4880d1fffcfff6526980824d130082df02022e39",
+   "text_jp": "<PAGE>もっと いじめて歓しいぜ!<LINE>ぐはぁ!<CLOSE><PAGE>アネギって 腹いいんだ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 90,
+   "offset": 11888,
+   "length_bytes": 49,
+   "raw_hex": "1580d1fff686ba2a111f020f03393780d1fff5152e3900809057242b0380d1fffcfff6567b148318350080815819080e16",
+   "text_jp": "な!<PAGE>偬れちまいそうだぜ!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレと同じ ガキのくせに",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 91,
+   "offset": 11938,
+   "length_bytes": 49,
+   "raw_hex": "fff681118124404d132e354e01184b2680d1fff552698082190506323cfff6567b0082384b826f22111f4d103780d1fff6",
+   "text_jp": "<PAGE>大人ぶってんじゃあねぇよ!<LINE>アネギのおかげで<PAGE>オレ 目ぇ覚めちまったぜ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 92,
+   "offset": 11986,
+   "length_bytes": 47,
+   "raw_hex": "304e1a1a1a80d100304e80cc1a4d1a80d1fff5152e39809057242b0380d1fffcfff6808158152e390627001516244d",
+   "text_jp": "ぎゃははは! ぎゃ{204}はっは!<LINE>なんだバカやろう!<CLOSE><PAGE>ガキなんだから なにやっ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 93,
+   "offset": 12033,
+   "length_bytes": 33,
+   "raw_hex": "1323fff60a19567b1a0002022e392680d1fff50f2e151600863c271508132380d7",
+   "text_jp": "ても<PAGE>このオレは いいんだよ!<LINE>そんなに 叱らなくても…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 94,
+   "offset": 12067,
+   "length_bytes": 50,
+   "raw_hex": "fffcfff602022e354e184b0680d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6394d1300567b1a001f",
+   "text_jp": "<CLOSE><PAGE>いいんじゃねぇか………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>だって オレは ま",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 95,
+   "offset": 12116,
+   "length_bytes": 39,
+   "raw_hex": "39fff68081583906270002022e393780d1fff5311a4880d1fffcfff60f19816d81691600153706",
+   "text_jp": "だ<PAGE>ガキだから いいんだぜ!<LINE>ぐはぁ!<CLOSE><PAGE>その怒痍に なぜか",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 96,
+   "offset": 12156,
+   "length_bytes": 49,
+   "raw_hex": "fff60c3f2a130c1f0300567b80d780d780d7fff5152e3900809057242b0380d1fffcfff656809055003d0a821b132e3926",
+   "text_jp": "<PAGE>しびれてしまう オレ………<LINE>なんだ バカやろう!<CLOSE><PAGE>オバエ どこ見てんだよ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 97,
+   "offset": 12204,
+   "length_bytes": 16,
+   "raw_hex": "80d180d1fff60d324b8393831d393780",
+   "text_jp": "!!<PAGE>すげぇ失礼だぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 98,
+   "offset": 12220,
+   "length_bytes": 39,
+   "raw_hex": "d1fff58162849a0c15023c082a264c80d7fff5311a4880d1fffcfff60f19816d81691600153706",
+   "text_jp": "!<LINE>無袍しないでくれよぉ…<LINE>ぐはぁ!<CLOSE><PAGE>その怒痍に なぜか",
+   "notes": "",
+   "translation_en": "!<LINE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 99,
+   "offset": 12260,
+   "length_bytes": 49,
+   "raw_hex": "fff60c3f2a130c1f0300567b80d780d780d7fff5152e3900809057242b0380d1fffcfff656809055003d0a821b132e3926",
+   "text_jp": "<PAGE>しびれてしまう オレ………<LINE>なんだ バカやろう!<CLOSE><PAGE>オバエ どこ見てんだよ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 100,
+   "offset": 12308,
+   "length_bytes": 16,
+   "raw_hex": "80d180d1fff60d324b8393831d393780",
+   "text_jp": "!!<PAGE>すげぇ失礼だぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 101,
+   "offset": 12324,
+   "length_bytes": 35,
+   "raw_hex": "d1fff58162849a0c15023c082a264c80d7fff5311a4880d1fffcfff65267808200053d",
+   "text_jp": "!<LINE>無袍しないでくれよぉ…<LINE>ぐはぁ!<CLOSE><PAGE>アニギ おど",
+   "notes": "",
+   "translation_en": "!<LINE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 102,
+   "offset": 12359,
+   "length_bytes": 29,
+   "raw_hex": "0c81a684532ffff65780a15b53533780d1fff5152e3900809057242b03",
+   "text_jp": "し文句が<PAGE>カッコイイぜ!<LINE>なんだ バカやろう",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 103,
+   "offset": 12388,
+   "length_bytes": 17,
+   "raw_hex": "80d1fff6567b2d0015222e354e184b80d1",
+   "text_jp": "!<PAGE>オレを なめんじゃねぇ!",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 104,
+   "offset": 12405,
+   "length_bytes": 30,
+   "raw_hex": "fff524414b816c835a393780d780d780d7fff5152e3900809057242b0380",
+   "text_jp": "<LINE>やべぇ秡况だぜ………<LINE>なんだ バカやろう",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<LINE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 105,
+   "offset": 12435,
+   "length_bytes": 32,
+   "raw_hex": "d1fffcfff684ea2e3c2e354e184b2680d1fff5152e390a021280d7fffcfff622",
+   "text_jp": "!<CLOSE><PAGE>町んでんじゃねぇよ!<LINE>なんだこいつ…<CLOSE><PAGE>め",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 106,
+   "offset": 12467,
+   "length_bytes": 40,
+   "raw_hex": "114e08114e00758090533780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6",
+   "text_jp": "ちゃくちゃ ヤバイぜ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 107,
+   "offset": 12507,
+   "length_bytes": 42,
+   "raw_hex": "5267808219812e2f0085820413293780d1fff5526780824d13007080875d80a27f80d0fffcfff682d681",
+   "text_jp": "アニギの稠が 状えてるぜ!<LINE>アニギって マジシャン?<CLOSE><PAGE>今",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 108,
+   "offset": 12549,
+   "length_bytes": 37,
+   "raw_hex": "6900567b1623fff683300413082a2680d1fff5021f3d07000f2e15832f81ac80d7fffcfff6",
+   "text_jp": "ネ オレにも<PAGE>教えてくれよ!<LINE>いまどき そんな手品…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 109,
+   "offset": 12586,
+   "length_bytes": 46,
+   "raw_hex": "5267808200758093809d3780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6526780821900",
+   "text_jp": "アニギ ヤベェぜ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>アニギの ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 110,
+   "offset": 12632,
+   "length_bytes": 36,
+   "raw_hex": "832f81acfff6834a2c0c13082a293780d1fff5311a4880d1fffcfff6567b0026082c062e",
+   "text_jp": "手品<PAGE>笶わしてくれるぜ!<LINE>ぐはぁ!<CLOSE><PAGE>オレ よくわかん",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 111,
+   "offset": 12668,
+   "length_bytes": 80,
+   "raw_hex": "1502093dfff6841a84600281aa391580d1fff5311a4880d1fffcfff6812481251981aa4d13fff656745d7c53232e39154880d780d7fffbfff7841a8460020012023c16fff6152e0600082a10272680d7",
+   "text_jp": "ないけど<PAGE>面曰い話だな!<LINE>ぐはぁ!<CLOSE><PAGE>人間の話って<PAGE>オモシロイもんだなぁ……<MENU_A><MENU_B>面曰い ついでに<PAGE>なんか くれたらよ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<MENU_A><MENU_B>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 112,
+   "offset": 12748,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff6234d148182825c393780d1fff1fff5152e3900809057242b0380d1fffcfff639062700152e152e3926",
+   "text_jp": "<CLOSE><PAGE>もっと最高だぜ!<PAUSE><LINE>なんだ バカやろう!<CLOSE><PAGE>だから なんなんだよ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 113,
+   "offset": 12793,
+   "length_bytes": 53,
+   "raw_hex": "80d1fff603290e4b2e392680d180d180d1fff5152e3900809057242b0380d1fffcfff60f2e1581aa1a82d8071008184b80d1fff656",
+   "text_jp": "!<PAGE>うるせぇんだよ!!!<LINE>なんだ バカやろう!<CLOSE><PAGE>そんな話は聞きたくねぇ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 114,
+   "offset": 12846,
+   "length_bytes": 37,
+   "raw_hex": "7b1a81872f830f0c022e3980d180d1fff1fff5567b80d7fffcfff60f1981aa80d782d80615",
+   "text_jp": "レは物が歓しいんだ!!<PAUSE><LINE>オレ…<CLOSE><PAGE>その話…聞かな",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 115,
+   "offset": 12883,
+   "length_bytes": 41,
+   "raw_hex": "0281662ffff626064d1020134b391580d7fff5152e3c00567b16fff60f2e1581aa0d2e392680d7fffc",
+   "text_jp": "い方が<PAGE>よかったみてぇだな…<LINE>なんで オレに<PAGE>そんな話すんだよ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 116,
+   "offset": 12924,
+   "length_bytes": 53,
+   "raw_hex": "fff682aa85740c111f033780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b2f827b4d1081ba2819fff6",
+   "text_jp": "<PAGE>警戒しちまうぜ………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレが思った僵りの<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 117,
+   "offset": 12977,
+   "length_bytes": 51,
+   "raw_hex": "81ce83c0818300812702242f4d103780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6568090550082e682e7150a",
+   "text_jp": "交燠術 払いやがったぜ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オバエ 偸快なこ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 118,
+   "offset": 13028,
+   "length_bytes": 43,
+   "raw_hex": "14fff682674d13082a29354e184b0680d1fff5311a4880d1fffcfff656809055002c0628240d02191580d1",
+   "text_jp": "と<PAGE>言ってくれるじゃねぇか!<LINE>ぐはぁ!<CLOSE><PAGE>オバエ わかりやすいのな!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 119,
+   "offset": 13072,
+   "length_bytes": 40,
+   "raw_hex": "fffcfff65d7f80977a3c000202354e2e80d1fff5311a4880d1fffcfff6567b2f830f0c021527fff6",
+   "text_jp": "<CLOSE><PAGE>シンプルで いいじゃん!<LINE>ぐはぁ!<CLOSE><PAGE>オレが歓しいなら<PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 120,
+   "offset": 13111,
+   "length_bytes": 49,
+   "raw_hex": "567b2f837f0c020a140c2b4d1380d1fff1fff5152e3900809057242b0380d1fffcfff6567b1afff0393780d1fffcfff681",
+   "text_jp": "オレが杲しいことしろって!<PAUSE><LINE>なんだ バカやろう!<CLOSE><PAGE>オレは[f0]だぜ!<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal![f0]Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 121,
+   "offset": 13160,
+   "length_bytes": 48,
+   "raw_hex": "24812516008143152e13833a0d062680d1fff5152e3900809057242b0380d1fff6121f2e184b0081ce83c00d2e1580d1",
+   "text_jp": "や間に 力なんて貸すかよ!<LINE>なんだ バカやろう!<PAGE>つまんねぇ 交燠すんな!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 122,
+   "offset": 13209,
+   "length_bytes": 16,
+   "raw_hex": "fffcfff63906270082d706260a0e80d1",
+   "text_jp": "<CLOSE><PAGE>だから 何かよこせ!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 123,
+   "offset": 13224,
+   "length_bytes": 41,
+   "raw_hex": "fff1fff5567b161a83248396184b2680d7fff5567b1981432f00830f0c0280d080d7fffcfff6152e06",
+   "text_jp": "<PAUSE><LINE>オレには関係ねぇよ…<LINE>オレの力が 歓しい?…<CLOSE><PAGE>なんか",
+   "notes": "",
+   "translation_en": "<PAUSE><LINE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 124,
+   "offset": 13265,
+   "length_bytes": 47,
+   "raw_hex": "0082f215835782ed0d293780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b4d13006d809d7c",
+   "text_jp": " 嫌な斈感するぜ………<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>オレって フェロ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 125,
+   "offset": 13312,
+   "length_bytes": 53,
+   "raw_hex": "747ffff6114d1400011c2a0d30391580d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6234d1400567b2d84802a2680d1",
+   "text_jp": "モン<PAGE>ちっと あふれすぎだな!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>もっと オレを頼れよ!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 126,
+   "offset": 13366,
+   "length_bytes": 49,
+   "raw_hex": "fff60d4d3280cc00020282188237393780d1fff5311a4880d1fffcfff6567b2d0083bd270e291223280680d0fffcfff656",
+   "text_jp": "<PAGE>すっげ{204} いい気分だぜ!<LINE>ぐはぁ!<CLOSE><PAGE>オレを 怒らせるつもりか?<CLOSE><PAGE>オ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 127,
+   "offset": 13414,
+   "length_bytes": 42,
+   "raw_hex": "8090554d13006e7f1581248125391580d7fff5311a4880d1fffcfff60f2e152e354e00815435184b2680",
+   "text_jp": "バエって ヘンな人間だな…<LINE>ぐはぁ!<CLOSE><PAGE>そんなんじゃ 激じねぇよ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 128,
+   "offset": 13456,
+   "length_bytes": 33,
+   "raw_hex": "d1fff68302190a14000c13202b4d1380d1fff5152e3900809057242b0380d1fffc",
+   "text_jp": "!<PAGE>他のこと してみろって!<LINE>なんだ バカやろう!<CLOSE>",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE>"
+  },
+  {
+   "id": 129,
+   "offset": 13490,
+   "length_bytes": 52,
+   "raw_hex": "fff6567b2d0015222e354e184b3880d180d1fff5152e3900809057242b0380d1fff60a2e1581ce83c000121f2e184b2680d1fffc",
+   "text_jp": "<PAGE>オレを なめんじゃねぇぞ!!<LINE>なんだ バカやろう!<PAGE>こんな交燠 つまんねぇよ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 130,
+   "offset": 13542,
+   "length_bytes": 30,
+   "raw_hex": "fff63906270082d706260a0e80d180d1fff1fff5567b2f0053752f290a14",
+   "text_jp": "<PAGE>だから 何かよこせ!!<PAUSE><LINE>オレが イヤがること",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 131,
+   "offset": 13571,
+   "length_bytes": 37,
+   "raw_hex": "0c13fff6837f0c0219062680d780d780d7fff5567b1621064d13000f19816d816980d7fffc",
+   "text_jp": "して<PAGE>杲しいのかよ………<LINE>オレにむかって その怒痍…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 132,
+   "offset": 13609,
+   "length_bytes": 53,
+   "raw_hex": "fff683bc35272a184b3780d780d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff61b18082a1081ce83c0818381274d",
+   "text_jp": "<PAGE>信じられねぇぜ…………<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>ひねくれた交燠術払っ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 133,
+   "offset": 13661,
+   "length_bytes": 52,
+   "raw_hex": "1323fff6567b1a0083358165184b3780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b0084dc2e351f4d1080d1fffc",
+   "text_jp": "ても<PAGE>オレは 興味ねぇぜ!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>オレ 冨んじまった!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 134,
+   "offset": 13714,
+   "length_bytes": 41,
+   "raw_hex": "fff680d7546020134b1581ce83c0391580d1fff5311a4880d1fffcfff65680905500841a8460023780",
+   "text_jp": "<PAGE>…ウソみてぇな交燠だな!<LINE>ぐはぁ!<CLOSE><PAGE>オバエ 面曰いぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 135,
+   "offset": 13754,
+   "length_bytes": 56,
+   "raw_hex": "d1fff68302162382d7060c13082a2680d1fff5311a4880d1fffcfff6567b1a83358165234d10374b80d1fffbfff7567b2f83358165234d10",
+   "text_jp": "!<PAGE>他にも何かしてくれよ!<LINE>ぐはぁ!<CLOSE><PAGE>オレは興味もったぜぇ!<MENU_A><MENU_B>オレが興味もった",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<MENU_A><MENU_B>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 136,
+   "offset": 13810,
+   "length_bytes": 33,
+   "raw_hex": "2e390627fff682d70600082a4b80d1fff1fff5152e3900809057242b0380d1fffc",
+   "text_jp": "んだから<PAGE>何か くれぇ!<PAUSE><LINE>なんだ バカやろう!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>What's your deal, you idiot?!<CLOSE>"
+  },
+  {
+   "id": 137,
+   "offset": 13844,
+   "length_bytes": 59,
+   "raw_hex": "fff6121f2e184b83c20d2e354e184b2680d1fff5152e3900809057242b0380d1fffcfff6567b1a0f2e1583c21683248210184b80d1fff6567b1a81",
+   "text_jp": "<PAGE>つまんねぇ蛬すんじゃねぇよ!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレはそんな蛬に関沚ねぇ!<PAGE>オレは",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 138,
+   "offset": 13902,
+   "length_bytes": 35,
+   "raw_hex": "87830f19813d8116152e39374b80d1fff1fff5152e3c000f2e1583c20d2e3980d7fffc",
+   "text_jp": "匚その悪魔なんだぜぇ!<PAUSE><LINE>なんで そんな蛬すんだ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 139,
+   "offset": 13937,
+   "length_bytes": 47,
+   "raw_hex": "fff68188817f3c07184b2680d780d780d7fff5152e152e392680d7fffcfff6567b16003d030c2b4d1380d080d7fffc",
+   "text_jp": "<PAGE>理解できねぇよ………<LINE>なんなんだよ…<CLOSE><PAGE>オレに どうしろって?…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 140,
+   "offset": 13984,
+   "length_bytes": 55,
+   "raw_hex": "fff680d782d70600082a29190680d0fff1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6568090551983c200567b1982ed8158",
+   "text_jp": "<PAGE>…何か くれるのか?<PAUSE><LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オバエの蛬 オレの感忤",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 141,
+   "offset": 14039,
+   "length_bytes": 53,
+   "raw_hex": "16fff60d324b00809680a16179393780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff60d4d324b00020282ed35393780",
+   "text_jp": "に<PAGE>すげぇ ピッタリだぜ!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>すっげぇ いい感じだぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 142,
+   "offset": 14092,
+   "length_bytes": 26,
+   "raw_hex": "d1fff67080873c00020282ed35393780d1fff5311a4880d1fffc",
+   "text_jp": "!<PAGE>マジで いい感じだぜ!<LINE>ぐはぁ!<CLOSE>",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE>"
+  },
+  {
+   "id": 143,
+   "offset": 14119,
+   "length_bytes": 56,
+   "raw_hex": "fff602023780d1fff60d33080002023780d1fff5567b1600833581655d7f5d7f0680d180d0fffcfff60f2e354e0100567b19848020152e13",
+   "text_jp": "<PAGE>いいぜ!<PAGE>すごく いいぜ!<LINE>オレに 興味シンシンか!?<CLOSE><PAGE>そんじゃあ オレの頼みなんて",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 144,
+   "offset": 14174,
+   "length_bytes": 43,
+   "raw_hex": "fff6846a81a01600070929261580d1fff1fff5152e3900809057242b0380d1fffcfff60f2e152e3c001227",
+   "text_jp": "<PAGE>箸単に きけるよな!<PAUSE><LINE>なんだ バカやろう!<CLOSE><PAGE>そんなんで つら",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 145,
+   "offset": 14217,
+   "length_bytes": 51,
+   "raw_hex": "2a29fff6567b354e184b2e392680d180d1fff5152e3900809057242b0380d1fffcfff6567b1a8187830f393880d180d1fff60d",
+   "text_jp": "れる<PAGE>オレじゃねぇんだよ!!<LINE>なんだ バカやろう!<CLOSE><PAGE>オレは物歓だぞ!!<PAGE>す",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 146,
+   "offset": 14268,
+   "length_bytes": 31,
+   "raw_hex": "4d324b008187830f152e39384c80d1fff1fff5021223140082cf03525f2f80",
+   "text_jp": "っげぇ 物歓なんだぞぉ!<PAUSE><LINE>いつもと 違うアセが",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 147,
+   "offset": 14299,
+   "length_bytes": 39,
+   "raw_hex": "d7fffcfff681981307103780d780d780d7fff5567b23813d81163906272680d7fffcfff6812481",
+   "text_jp": "…<CLOSE><PAGE>申てきたぜ………<LINE>オレも悪魔だからよ…<CLOSE><PAGE>人",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 148,
+   "offset": 14338,
+   "length_bytes": 38,
+   "raw_hex": "25141a0006062c2a184b1580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffc",
+   "text_jp": "ゆとは かかわれねぇな………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 149,
+   "offset": 14376,
+   "length_bytes": 59,
+   "raw_hex": "fff60f030a15084d114e1580d180d180d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6567b1982182d1b0710021527fff6152e06260a",
+   "text_jp": "<PAGE>そうこなくっちゃな!!!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>オレの気をひきたいなら<PAGE>なんかよこ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 150,
+   "offset": 14435,
+   "length_bytes": 40,
+   "raw_hex": "0e4b80d7fffc05826a826b393780d1fff1fff5311a4880d1fffcfff6567b2d00853b2f29104880d7",
+   "text_jp": "せぇ…<CLOSE>お的車だぜ!<PAUSE><LINE>ぐはぁ!<CLOSE><PAGE>オレを 怖がるたぁ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 151,
+   "offset": 14476,
+   "length_bytes": 30,
+   "raw_hex": "fff6812481253c07132915005680905580d1fff5311a4880d1fffcfff635",
+   "text_jp": "<PAGE>人間できてるな オバエ!<LINE>ぐはぁ!<CLOSE><PAGE>じ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 152,
+   "offset": 14505,
+   "length_bytes": 36,
+   "raw_hex": "4e012680d782d706082a4d130680d1fff1fff5152e3900809057242b0380d1fffcfff682",
+   "text_jp": "ゃあよ…何かくれってか!<PAUSE><LINE>なんだ バカやろう!<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>What's your deal, you idiot?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 153,
+   "offset": 14541,
+   "length_bytes": 51,
+   "raw_hex": "4282183c0082674d13184b392b80d180d1fff5152e3900809057242b0380d1fffcfff682d619826783512f0082428218394d13",
+   "text_jp": "ぼ気で 言ってねぇだろ!!<LINE>なんだ バカやろう!<CLOSE><PAGE>今の言葉が 本気だって",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>What's your deal, you idiot?!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 154,
+   "offset": 14592,
+   "length_bytes": 32,
+   "raw_hex": "fff65d80a4545b2d821b0e2b2480d1fff1fff582de82373c826703192382d739",
+   "text_jp": "<PAGE>ショウコを見せろや!<PAUSE><LINE>自分で言うのも何だ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 155,
+   "offset": 14624,
+   "length_bytes": 33,
+   "raw_hex": "093d2680d7fff6567b00808158393780d7fff50a2e151600053913272a2914fff6",
+   "text_jp": "けどよ…<PAGE>オレ ガキだぜ…<LINE>こんなに おだてられると<PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 156,
+   "offset": 14657,
+   "length_bytes": 52,
+   "raw_hex": "81502f00853b4b2e39261580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6152e06001b0b0c402816fff6",
+   "text_jp": "後が 怖ぇんだよな………<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>なんか ひさしぶりに<PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 157,
+   "offset": 14709,
+   "length_bytes": 53,
+   "raw_hex": "567b00839282f202022e354e184b0680d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fffcfff6244d4300813d811619859a8289",
+   "text_jp": "オレ 機嫌いいんじゃねぇか!<LINE>ぎゃははは! ぎゃ{204}はっは!<CLOSE><PAGE>やっぱ 悪魔の肩霄",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 158,
+   "offset": 14762,
+   "length_bytes": 52,
+   "raw_hex": "074d13fff60f2a39093c000d324b3780d1fff51d4b80d7fffc567b195e80987a5780cc808ffff623030081fb4d13292e391580d7",
+   "text_jp": "きって<PAGE>それだけで すげぇぜ!<LINE>へぇ…<CLOSE>オレのスペルカ{204}ド<PAGE>もう 持ってるんだな…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 159,
+   "offset": 14815,
+   "length_bytes": 18,
+   "raw_hex": "fffcfff60f2e354e000f0302030a143c80d7",
+   "text_jp": "<CLOSE><PAGE>そんじゃ そういうことで…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 160,
+   "offset": 14832,
+   "length_bytes": 18,
+   "raw_hex": "ffef0f03391580d7fffc0a2a24293780d1ff",
+   "text_jp": "<VOICE?>そうだな…<CLOSE>これやるぜ![FF]",
+   "notes": "",
+   "translation_en": "<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal![FF]"
+  },
+  {
+   "id": 161,
+   "offset": 14850,
+   "length_bytes": 27,
+   "raw_hex": "ef5670809d000b200c021580d780d780d7ffef152e3906154880d7",
+   "text_jp": "▲オマェ さみしいな………<VOICE?>なんだかなぁ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 162,
+   "offset": 14878,
+   "length_bytes": 50,
+   "raw_hex": "fffcfff6567b270082cf0320134b393780d7ffef11504d1482eb1380d7fffcfff6230c060c13567b26280083c40280d0fffc",
+   "text_jp": "<CLOSE><PAGE>オレら 違うみてぇだぜ…<VOICE?>ちょっと待て…<CLOSE><PAGE>もしかしてオレより 弱い?<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 163,
+   "offset": 14928,
+   "length_bytes": 15,
+   "raw_hex": "fff61527005780cc808f1a242a184b",
+   "text_jp": "<PAGE>なら カ{204}ドはやれねぇ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 164,
+   "offset": 14942,
+   "length_bytes": 9,
+   "raw_hex": "1580d1ffef0a2a0024",
+   "text_jp": "な!<VOICE?>これ や",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 165,
+   "offset": 14951,
+   "length_bytes": 34,
+   "raw_hex": "293780d780d780d7ffef80d7013e2680d1ffef5680905500020282523906272680d7",
+   "text_jp": "るぜ………<VOICE?>…あばよ!<VOICE?>オバエ いい奴だからよ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 166,
+   "offset": 14986,
+   "length_bytes": 34,
+   "raw_hex": "fffcfff60a2a2356705a3c002429374b80d1ffef567b195780cc808f82d327180419",
+   "text_jp": "<CLOSE><PAGE>これもオマケで やるぜぇ!<VOICE?>オレのカ{204}ド要らねえの",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 167,
+   "offset": 15019,
+   "length_bytes": 48,
+   "raw_hex": "0680d0fff6354e0100230381d2083780d1ffef0a2a2f567b195780cc808f3980d1fffcfff63d0339000d324b392b80d1",
+   "text_jp": "か?<PAGE>じゃあ もう行くぜ!<VOICE?>これがオレのカ{204}ドだ!<CLOSE><PAGE>どうだ すげぇだろ!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 168,
+   "offset": 15068,
+   "length_bytes": 23,
+   "raw_hex": "fff614280104360082ed83140c2b261580d1ffef0a2a00",
+   "text_jp": "<PAGE>とりあえず 感謝しろよな!<VOICE?>これ ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 169,
+   "offset": 15090,
+   "length_bytes": 51,
+   "raw_hex": "24290627fff682ec0c13082a2680d780d7ffef0a2e15190081928125198162837d80d1fff681ce83c0195b1982f923821b0424",
+   "text_jp": "やるから<PAGE>許してくれよ……<VOICE?>こんなの 時間の無驟!<PAGE>交燠のコの字も見えや",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 170,
+   "offset": 15141,
+   "length_bytes": 49,
+   "raw_hex": "0c184b80d1fffcfff60f2e354e011580d1ffef0a2e15190081928125198162837d80d1fff60a2a00242906272680d7fffc",
+   "text_jp": "しねぇ!<CLOSE><PAGE>そんじゃあな!<VOICE?>こんなの 時間の無驟!<PAGE>これ やるからよ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 171,
+   "offset": 15190,
+   "length_bytes": 45,
+   "raw_hex": "fff62303008090538090530c26033780d1ffef82d61900567b1982ed821a2dfff681b782673c826703152a3e80",
+   "text_jp": "<PAGE>もう バイバイしようぜ!<VOICE?>今の オレの感惰を<PAGE>一言で言うなれば",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 172,
+   "offset": 15235,
+   "length_bytes": 76,
+   "raw_hex": "d7fffcfff6152e3900809057242b0380d1ffef80d7152e3906fff682670210020a1482674d1027fff65e80a158790c111f4d103780d7fffbfff780d782d6814b1a818f8282393880d1fff656",
+   "text_jp": "…<CLOSE><PAGE>なんだ バカやろう!<VOICE?>…なんだか<PAGE>言いたいこと言ったら<PAGE>スッキリしちまったぜ…<MENU_A><MENU_B>…今日は特別だぞ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>What's your deal, you idiot?!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<MENU_A><MENU_B>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 173,
+   "offset": 15311,
+   "length_bytes": 53,
+   "raw_hex": "7b195e80987a5780cc808f0024292680d1ffef81c8221080d100567b23120213083780d1fffcfff680d73c23000f0302038350161a",
+   "text_jp": "レのスペルカ{204}ド やるよ!<VOICE?>決めた! オレもついてくぜ!<CLOSE><PAGE>…でも そういう訳には",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 174,
+   "offset": 15364,
+   "length_bytes": 58,
+   "raw_hex": "fff60206184b2e3926154880d780d780d7ffef80d780d780d70f033980d180d1fffcfff6567b195e80987a5780cc808f00242980d1fffcfff680",
+   "text_jp": "<PAGE>いかねぇんだよなぁ………<VOICE?>………そうだ!!<CLOSE><PAGE>オレのスペルカ{204}ド やる!<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 175,
+   "offset": 15422,
+   "length_bytes": 33,
+   "raw_hex": "987a606616152a3e0081b78336393780d1ffef567b00818b021008184b2e3980d7",
+   "text_jp": "ペルソナになれば 一緒だぜ!<VOICE?>オレ 貰いたくねぇんだ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 176,
+   "offset": 15456,
+   "length_bytes": 23,
+   "raw_hex": "fffcfff6835d02191a0023035375393780d7ffef0f0339",
+   "text_jp": "<CLOSE><PAGE>痛いのは もうイヤだぜ…<VOICE?>そうだ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 177,
+   "offset": 15478,
+   "length_bytes": 50,
+   "raw_hex": "1580d7fffcfff60a2a00242906272680d7ffef24414b0024414b2680d7fffcfff6567b19005e80987a5780cc808ffff62429",
+   "text_jp": "な…<CLOSE><PAGE>これ やるからよ…<VOICE?>やべぇ やべぇよ…<CLOSE><PAGE>オレの スペルカ{204}ド<PAGE>やる",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 178,
+   "offset": 15528,
+   "length_bytes": 43,
+   "raw_hex": "062700821b82e20c13082a80d780d780d7ffef5680d7567b195780cc808f1afff60d33022e393780d7fffc",
+   "text_jp": "から 見逃してくれ………<VOICE?>オ…オレのカ{204}ドは<PAGE>すごいんだぜ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 179,
+   "offset": 15571,
+   "length_bytes": 47,
+   "raw_hex": "fff65460354e184b06272680d780d780d7ffef311a4880d180d1fff6812481251481aa0c10064d102e393780d1fff6",
+   "text_jp": "<PAGE>ウソじゃねぇからよ………<VOICE?>ぐはぁ!!<PAGE>人間と話したかったんだぜ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 180,
+   "offset": 15618,
+   "length_bytes": 49,
+   "raw_hex": "568090550002026153717f8083391580d1fff5311a4880d180d1fffcfff6567b008187830f3c5380a18095533980d1fffc",
+   "text_jp": "オバエ いいタイミングだな!<LINE>ぐはぁ!!<CLOSE><PAGE>オレ 物歓でイッパイだ!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 181,
+   "offset": 15667,
+   "length_bytes": 49,
+   "raw_hex": "fff6835f100c1300082a29261580d0fff1fff5152e3900809057242b0380d180d1fffcfff6526780822f00836004291526",
+   "text_jp": "<PAGE>梼たして くれるよな?<PAUSE><LINE>なんだ バカやろう!!<CLOSE><PAGE>アニギが 答えるなよ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 182,
+   "offset": 15716,
+   "length_bytes": 49,
+   "raw_hex": "80d1fff6152e390600835c1012154880d1fff5152e3900809057242b0380d180d1fffcfff60a19567b1983bd282dfff60c",
+   "text_jp": "!<PAGE>なんだか 腹たつなぁ!<LINE>なんだ バカやろう!!<CLOSE><PAGE>このオレの怒りを<PAGE>し",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 183,
+   "offset": 15765,
+   "length_bytes": 27,
+   "raw_hex": "362210092a3e0082d706260a0e80d1fff1fff5819f2f15023780d7",
+   "text_jp": "ずめたければ 何かよこせ!<PAUSE><LINE>月がないぜ…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 184,
+   "offset": 15793,
+   "length_bytes": 58,
+   "raw_hex": "fffcfff6152e060082f2391580d780d780d7fff50a142c4d13000508093d2680d7fffcfff65680d7567b1a842a81650c08184b3780d7fffcfff6",
+   "text_jp": "<CLOSE><PAGE>なんか 嫌だな………<LINE>ことわって おくけどよ…<CLOSE><PAGE>オ…オレは美味しくねぇぜ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 185,
+   "offset": 15850,
+   "length_bytes": 50,
+   "raw_hex": "39062700818b021a665d1580d780d780d7fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff6567b4d138182825c80d1fffc",
+   "text_jp": "だから 貰いはナシな………<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>オレって最高!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 186,
+   "offset": 15900,
+   "length_bytes": 55,
+   "raw_hex": "fff682d60d324b0082fc0c022e393780d1fff5304e1a1a1a80d100304e80cc1a4d1a80d1fff652678082140082f83f134b2e3980d1fffc",
+   "text_jp": "<PAGE>今すげぇ 娼しいんだぜ!<LINE>ぎゃははは! ぎゃ{204}はっは!<PAGE>アニギと 遊びてぇんだ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 187,
+   "offset": 15955,
+   "length_bytes": 47,
+   "raw_hex": "fff6834c0800152e06244d13082a4b80d1fff5ffee81248125354e184b0680d1fffcfff6152e0600815628134b093d",
+   "text_jp": "<PAGE>帛く なんかやってくれぇ!<LINE><VOICE?>人間じゃねぇか!<CLOSE><PAGE>なんか 殺りてぇけど",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 188,
+   "offset": 16002,
+   "length_bytes": 53,
+   "raw_hex": "fff61f361a81ce83c00c13204d061580d7fff5ffee56809055008124812539261580d1fff6567b00812481251681a94d1027fff682",
+   "text_jp": "<PAGE>まずは交燠してみっかな…<LINE><VOICE?>オバエ 人間だよな!<PAGE>オレ 人間に会ったら<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 189,
+   "offset": 16055,
+   "length_bytes": 31,
+   "raw_hex": "d7062327030a14160c1329190b80d1fff1fff5ffec818b032628705d390627",
+   "text_jp": "…かもらうことにしてるのさ!<PAUSE><LINE>[ec]貰うよりマシだから",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>[ec]Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 190,
+   "offset": 16087,
+   "length_bytes": 51,
+   "raw_hex": "fff614280104360081ce83c00c26033780d7fff5ffee82d706001b062a29746a2dfff682ed35102e39093d1580d7fffcfff611",
+   "text_jp": "<PAGE>とりあえず 交燠しようぜ…<LINE><VOICE?>何か ひかれるモノを<PAGE>感じたんだけどな…<CLOSE><PAGE>ち",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 191,
+   "offset": 16137,
+   "length_bytes": 37,
+   "raw_hex": "14008394824e2d821b290680d780d780d7fff5ffee567b00812481258111828007393780d1",
+   "text_jp": "と 達子を見るか………<LINE><VOICE?>オレ 人間大好きだぜ!",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 192,
+   "offset": 16174,
+   "length_bytes": 52,
+   "raw_hex": "fff6834c080081ce83c00c2603374b80d1fff5ffeb567b0082b081ce81b8354e184b093dfff682d61a0081ce83c00c134b2e3980",
+   "text_jp": "<PAGE>帛く 交燠しようぜぇ!<LINE><VOICE?>オレ 扎交吋じゃねぇけど<PAGE>今は 交燠してぇんだ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 193,
+   "offset": 16226,
+   "length_bytes": 48,
+   "raw_hex": "d1fff61f361a0082d706082a4b80d1fff1fff5ffec5680905580d782c780d0fffcfff6152e06007580900f0315825216",
+   "text_jp": "!<PAGE>まずは 何かくれぇ!<PAUSE><LINE>[ec]オバエ…誰?<CLOSE><PAGE>なんか ヤバそうな奴に",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<PAUSE><LINE>[ec]Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 194,
+   "offset": 16275,
+   "length_bytes": 38,
+   "raw_hex": "fff6840d0609111f4d10154880d780d780d7fff5ffed817d1583cc0c132e152680d7fff65680",
+   "text_jp": "<PAGE>声かけちまったなぁ………<LINE><VOICE?>変な顔してんなよ…<PAGE>オ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 195,
+   "offset": 16312,
+   "length_bytes": 45,
+   "raw_hex": "90550082f21582ed35393780d780d780d7fff5ffeb8182825c19819f393780d1fffcfff6567b23008182825c15",
+   "text_jp": "バエ 嫌な感じだぜ………<LINE><VOICE?>最高の月だぜ!<CLOSE><PAGE>オレも 最高な",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 196,
+   "offset": 16357,
+   "length_bytes": 54,
+   "raw_hex": "2e393780d1fff62c064d132e392b1580d1fff5ffed56809055001f1709392b80d180d0fff6152e060002103908093d264c80d7fff681",
+   "text_jp": "んだぜ!<PAGE>わかってんだろな!<LINE><VOICE?>オバエ まぬけだろ!?<PAGE>なんか いただくけどよぉ…<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 197,
+   "offset": 16411,
+   "length_bytes": 44,
+   "raw_hex": "a68453152e0600184b261580d180d1fff1fff5ffec568090550082088209837b8320061580d7fffcfff61428",
+   "text_jp": "A句なんか ねぇよな!!<PAUSE><LINE>[ec]オバエ 乎和工羲かな…<CLOSE><PAGE>とり",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAUSE><LINE>[ec]Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 198,
+   "offset": 16455,
+   "length_bytes": 47,
+   "raw_hex": "01043681ce83c00c26033780d780d780d7fff5ffeb567b1a0080815880d7fffcfff6808158354e184b2e39093d80d7",
+   "text_jp": "あえず交燠しようぜ………<LINE><VOICE?>オレは ガキ…<CLOSE><PAGE>ガキじゃねぇんだけど…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<LINE><VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 199,
+   "offset": 16503,
+   "length_bytes": 44,
+   "raw_hex": "fff6244d43808158152e391580d780d780d7fff5311a4880d1fff6812481254d1300841a84604b1580d1fffc",
+   "text_jp": "<PAGE>やっぱガキなんだな………<LINE>ぐはぁ!<PAGE>人間って 面曰ぇな!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<LINE>Gwahhh!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 200,
+   "offset": 16546,
+   "length_bytes": 51,
+   "raw_hex": "fff60f2e3c234d130082d71981db3980d0ffef152e3900809057242b0380d180d1fffcfff60a2e1581ce83c01a0053753980d1",
+   "text_jp": "<PAGE>そんでもって 何の注だ?<VOICE?>なんだ バカやろう!!<CLOSE><PAGE>こんな交燠は イヤだ!",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 201,
+   "offset": 16597,
+   "length_bytes": 35,
+   "raw_hex": "fff6567b1a0083bd4d103780d180d180d1ffef152e3c0f2e1581ce83c00d292e3980d7",
+   "text_jp": "<PAGE>オレは 怒ったぜ!!!<VOICE?>なんでそんな交燠するんだ…",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 202,
+   "offset": 16633,
+   "length_bytes": 39,
+   "raw_hex": "fffcfff6567b00853b4b260380d780d780d7ffef304e1a1a1a80d100304e80cc1a4d1a80d1fffc",
+   "text_jp": "<CLOSE><PAGE>オレ 怖ぇよう………<VOICE?>ぎゃははは! ぎゃ{204}はっは!<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 203,
+   "offset": 16672,
+   "length_bytes": 42,
+   "raw_hex": "fff60d4d324b00837f0c064d103780d180d1ffef152e3906154880d7fffcfff63c23001f4802020680d1",
+   "text_jp": "<PAGE>すっげぇ 杲しかったぜ!!<VOICE?>なんだかなぁ…<CLOSE><PAGE>でも まぁいいか!",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 204,
+   "offset": 16713,
+   "length_bytes": 32,
+   "raw_hex": "fff6567b163d030c13830f0c022e3980d0ffef0f2a3c80d7121f281a80d7fffc",
+   "text_jp": "<PAGE>オレにどうして歓しいんだ?<VOICE?>それで…つまりは…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 205,
+   "offset": 16746,
+   "length_bytes": 54,
+   "raw_hex": "fff65680d7567b1682d72d8226212e3980d0ffef56809055008182825c393780d1fff6230300708092808b6214831835393780d1fffc",
+   "text_jp": "<PAGE>オ…オレに何を筆むんだ?<VOICE?>オバエ 最高だぜ!<PAGE>もう マブダチと同じだぜ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 206,
+   "offset": 16800,
+   "length_bytes": 52,
+   "raw_hex": "fff6567b2f0082262086a6041324292680d1ffef80d756809055190e023cfff6567b002c092c062e184b82ed821a393780d1fffc",
+   "text_jp": "<PAGE>オレが 筆み抃えてやるよ!<VOICE?>…オバエのせいで<PAGE>オレ わけわかんねぇ感惰だぜ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 207,
+   "offset": 16851,
+   "length_bytes": 19,
+   "raw_hex": "01010101010180d1fffc00400c4f4d80d7ffef",
+   "text_jp": "ああああああ!<CLOSE> ぶしゅっ…<VOICE?>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<VOICE?>"
+  },
+  {
+   "id": 208,
+   "offset": 16870,
+   "length_bytes": 38,
+   "raw_hex": "568090550081ce83c0822b832f391580d1ffef80d7567b0082ed82100c111f4d103780d1fffc",
+   "text_jp": "オバエ 交燠下手だな!<VOICE?>…オレ 感沚しちまったぜ!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 209,
+   "offset": 16908,
+   "length_bytes": 25,
+   "raw_hex": "fff609021c084d130082670319061580d7ffef567b1a008229",
+   "text_jp": "<PAGE>けいふくって 言うのかな…<VOICE?>オレは 舍",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 210,
+   "offset": 16933,
+   "length_bytes": 16,
+   "raw_hex": "2f830f0c0280d1fff6fff8857a393780",
+   "text_jp": "が歓しい!<PAGE>[f8]円だぜ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>[f8]Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 211,
+   "offset": 16949,
+   "length_bytes": 36,
+   "raw_hex": "d1ffef260c80d100020282ed35393780d1ffef152e3980d0fff681fb4d13184b354e184b",
+   "text_jp": "!<VOICE?>よし! いい感じだぜ!<VOICE?>なんだ?<PAGE>持ってねぇじゃねぇ",
+   "notes": "",
+   "translation_en": "!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 212,
+   "offset": 16985,
+   "length_bytes": 11,
+   "raw_hex": "0680d180d1fff615222e15",
+   "text_jp": "か!!<PAGE>なめんな",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 213,
+   "offset": 16996,
+   "length_bytes": 23,
+   "raw_hex": "26000a2780d1ffef8325832681240680d7ffef152e3900",
+   "text_jp": "よ こら!<VOICE?>茸乏人か…<VOICE?>なんだ ",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 214,
+   "offset": 17019,
+   "length_bytes": 6,
+   "raw_hex": "809057242b03",
+   "text_jp": "バカやろう",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 215,
+   "offset": 17025,
+   "length_bytes": 31,
+   "raw_hex": "80d1fff6725763593780d1ffef114d80d7ffef567b1a811681782f830f0c02",
+   "text_jp": "!<PAGE>ムカツクぜ!<VOICE?>ちっ…<VOICE?>オレは魔石が歓しい",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 216,
+   "offset": 17056,
+   "length_bytes": 16,
+   "raw_hex": "80d1fff680c181c73c00020206272680",
+   "text_jp": "!<PAGE>1茴で いいからよ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 217,
+   "offset": 17072,
+   "length_bytes": 41,
+   "raw_hex": "d1ffef260c80d100020282ed35393780d1ffef152e3980d0008116817823fff681fb4d13184b190680",
+   "text_jp": "!<VOICE?>よし! いい感じだぜ!<VOICE?>なんだ? 魔石も<PAGE>持ってねぇのか",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 218,
+   "offset": 17113,
+   "length_bytes": 52,
+   "raw_hex": "d180d0fffcfff615222e1526000a2780d1ffef568090550b4880d7fffcfff6811681781a81ce83c019815e393780d7fffcfff680",
+   "text_jp": "!?<CLOSE><PAGE>なめんなよ こら!<VOICE?>オバエさぁ…<CLOSE><PAGE>魔石は交燠の命だぜ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!?<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>"
+  },
+  {
+   "id": 219,
+   "offset": 17165,
+   "length_bytes": 36,
+   "raw_hex": "c181c73127020081db81c50c14092680d7ffef050280d1fffc008081583906274d13fff6",
+   "text_jp": "1茴ぐらい 注意しとけよ…<VOICE?>おい!<CLOSE> ガキだからって<PAGE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE>Gyahaha! Don't mess with me, pal!<PAGE>"
+  },
+  {
+   "id": 220,
+   "offset": 17201,
+   "length_bytes": 6,
+   "raw_hex": "80815883942d",
+   "text_jp": "ガキ達を",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 221,
+   "offset": 17207,
+   "length_bytes": 26,
+   "raw_hex": "0015222e354e184b3880d1ffef114d80d7ffef567b1a00820581",
+   "text_jp": " なめんじゃねぇぞ!<VOICE?>ちっ…<VOICE?>オレは 宝",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 222,
+   "offset": 17233,
+   "length_bytes": 31,
+   "raw_hex": "782f830f0c023780d1fff6fff4391580d1ffef304e1a1a1a80d100304e80cc",
+   "text_jp": "ラが歓しいぜ!<PAGE>[f4]だな!<VOICE?>ぎゃははは! ぎゃ{204}",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>[f4]Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 223,
+   "offset": 17264,
+   "length_bytes": 7,
+   "raw_hex": "1a4d1a80d1fffc",
+   "text_jp": "はっは!<CLOSE>",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 224,
+   "offset": 17272,
+   "length_bytes": 26,
+   "raw_hex": "fff63e4d1128393780d1ffef030f392b80d7fff5094d80d1fffc",
+   "text_jp": "<PAGE>ばっちりだぜ!<VOICE?>うそだろ…<LINE>けっ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<LINE>Gyahaha! Don't mess with me, pal!<CLOSE>"
+  },
+  {
+   "id": 225,
+   "offset": 17298,
+   "length_bytes": 16,
+   "raw_hex": "fff65a6215812481252f000210232e39",
+   "text_jp": "<PAGE>ケチな人間が いたもんだ",
+   "notes": "",
+   "translation_en": "<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 226,
+   "offset": 17313,
+   "length_bytes": 30,
+   "raw_hex": "80d1ffef83dc81ba1a000f0339261580d7ffef567b0081fc82182f020237",
+   "text_jp": "!<VOICE?>普僵は そうだよな…<VOICE?>オレ 生気がいいぜ",
+   "notes": "",
+   "translation_en": "!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 227,
+   "offset": 17343,
+   "length_bytes": 11,
+   "raw_hex": "80d1fff681b782ca3c0002",
+   "text_jp": "!<PAGE>一日で い",
+   "notes": "",
+   "translation_en": "!<PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 228,
+   "offset": 17354,
+   "length_bytes": 25,
+   "raw_hex": "0206270b80d1ffef81e9021f4d0e4b80d1ffef014d0f0380d7",
+   "text_jp": "いからさ!<VOICE?>嗅いまっせぇ!<VOICE?>あっそう…",
+   "notes": "",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 229,
+   "offset": 17380,
+   "length_bytes": 38,
+   "raw_hex": "fffcfff61c34091081248125393780d180d1ffef81670c31270280d7fffcfff62c0913082a10",
+   "text_jp": "<CLOSE><PAGE>ふざけた人間だぜ!!<VOICE?>少しぐらい…<CLOSE><PAGE>わけてくれた",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<CLOSE><PAGE>Gyahaha! Don't mess with me, pal!"
+  },
+  {
+   "id": 230,
+   "offset": 17417,
+   "length_bytes": 27,
+   "raw_hex": "4d13fff60202354e184b0680d780d780d7ffef808b7180ccfff580",
+   "text_jp": "って<PAGE>いいじゃねぇか………<VOICE?>ダミ{204}<LINE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Gyahaha! Don't mess with me, pal!<PAGE>Gyahaha! Don't mess with me, pal!<VOICE?>Gyahaha! Don't mess with me, pal!<LINE>"
+  }
+ ]
 }
