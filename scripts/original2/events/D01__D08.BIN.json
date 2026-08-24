@@ -1,0 +1,79 @@
+{
+ "file": "D01/D08.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 86948,
+   "length_bytes": 15,
+   "raw_hex": "817b822580cb840d2f82d80a042926",
+   "text_jp": "悃希:声が聞こえるよ",
+   "translation_en": "Maki: ..."
+  },
+  {
+   "id": 1,
+   "offset": 86969,
+   "length_bytes": 8,
+   "raw_hex": "152e0681aa0c1329",
+   "text_jp": "なんか話してる",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 87026,
+   "length_bytes": 10,
+   "raw_hex": "83072882e22f0c1f0c10",
+   "text_jp": "取り逃がしました",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 87067,
+   "length_bytes": 6,
+   "raw_hex": "826c4d130509",
+   "text_jp": "放っておけ",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 87079,
+   "length_bytes": 10,
+   "raw_hex": "3d0a1d2381d2091a0e2e",
+   "text_jp": "どこへも行けはせん",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 87119,
+   "length_bytes": 5,
+   "raw_hex": "833f2f0e2b",
+   "text_jp": "念がせろ",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 87128,
+   "length_bytes": 10,
+   "raw_hex": "81d483f919840d80cb1a",
+   "text_jp": "武多の声:は",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 87144,
+   "length_bytes": 11,
+   "raw_hex": "824b83ab80cb02291580d7",
+   "text_jp": "南茱:いるな…",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 87161,
+   "length_bytes": 10,
+   "raw_hex": "84f881b41a02020680d0",
+   "text_jp": "準偏はいいか?",
+   "translation_en": "..."
+  }
+ ]
+}

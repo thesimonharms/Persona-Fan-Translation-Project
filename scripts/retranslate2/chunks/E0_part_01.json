@@ -1,0 +1,4148 @@
+{
+ "file": "E0.json",
+ "chunk_index": 1,
+ "total_chunks": 6,
+ "start_index": 0,
+ "end_index": 591,
+ "total_entries": 591,
+ "prepopulated_entries": 83,
+ "entries": [
+  {
+   "id": 0,
+   "offset": 0,
+   "text_jp": "いき ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 1,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:｜ペルソナ達』だぁ?",
+   "translation_en": "Mark: \"Persona-sama\", huh?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 2,
+   "offset": 0,
+   "text_jp": "オマエ 腹嗄かいんじゃね{204}か?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 3,
+   "offset": 0,
+   "text_jp": "  ブラウン:へっへ{204}",
+   "translation_en": "Brown: Heh-heh!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 4,
+   "offset": 0,
+   "text_jp": "バカにしたもんじゃないんだな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 5,
+   "offset": 0,
+   "text_jp": "孛禾がうんぬん てのは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 6,
+   "offset": 0,
+   "text_jp": "もう 超寅現氛バリバリよ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 7,
+   "offset": 0,
+   "text_jp": "睹けたっていいぜ マ{204}ク",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 8,
+   "offset": 0,
+   "text_jp": "マ{204}ク:お{204}し 睹けるか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 9,
+   "offset": 0,
+   "text_jp": "食い放題だ いいな?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 10,
+   "offset": 0,
+   "text_jp": "アヤセ:わ〜い!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 11,
+   "offset": 0,
+   "text_jp": "じゃ アヤセ 部杉にのる!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 12,
+   "offset": 0,
+   "text_jp": "   エリ{204}:私もBrownに",
+   "translation_en": "Elly: I'll go with Brown,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 13,
+   "offset": 0,
+   "text_jp": " マ{204}ク:オイ! 南茱 ゆきの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 14,
+   "offset": 0,
+   "text_jp": "オマエら どっちにのるんだ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 15,
+   "offset": 0,
+   "text_jp": "南茱:ふん 愚にも村かんな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 16,
+   "offset": 0,
+   "text_jp": " ゆきの:右に同じ…",
+   "translation_en": "Yukino: Same here...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 17,
+   "offset": 0,
+   "text_jp": "梠変わらず",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 18,
+   "offset": 0,
+   "text_jp": "と{204}ぜん オレだよな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 19,
+   "offset": 0,
+   "text_jp": "   さぁ どっちにすんだ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 20,
+   "offset": 0,
+   "text_jp": " マ{204}ク:ったく オマエもかぁ?どいつもこいつもイカレてんぜぇ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 21,
+   "offset": 0,
+   "text_jp": "   アヤセ:あ{204}あ",
+   "translation_en": "Ayase: Ahhh!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 22,
+   "offset": 0,
+   "text_jp": "後恒するよ〜",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 23,
+   "offset": 0,
+   "text_jp": "ほいじゃ 始めようか!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 24,
+   "offset": 0,
+   "text_jp": "  アヤセ:えっとぉ",
+   "translation_en": "Ayase: Um, so...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 25,
+   "offset": 0,
+   "text_jp": "ペルソナさま ペルソナさま",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 26,
+   "offset": 0,
+   "text_jp": "なんで こんなことしなくちゃ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 27,
+   "offset": 0,
+   "text_jp": "  ブラウン:いいから帛く行けって食い放題 食い放題!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 28,
+   "offset": 0,
+   "text_jp": "ペルソナさん ペルソナさん",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 29,
+   "offset": 0,
+   "text_jp": " エリ{204}:それでは…",
+   "translation_en": "Elly: And now...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 30,
+   "offset": 0,
+   "text_jp": "   ブラウン:よ{204}し禾るぞぉ!",
+   "translation_en": "Brown: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 31,
+   "offset": 0,
+   "text_jp": "た …あ あれ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 32,
+   "offset": 0,
+   "text_jp": "アヤセ:ちょ ちょっと部杉ぃ!これじゃアヤセ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 33,
+   "offset": 0,
+   "text_jp": " マ{204}ク:おら見ろ",
+   "translation_en": "Mark: See that?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 34,
+   "offset": 0,
+   "text_jp": "へっへ オレの勝ちだな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 35,
+   "offset": 0,
+   "text_jp": "  ゆきの:フゥ… 気が済んだろ?さっさと旡生唾んできな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 36,
+   "offset": 0,
+   "text_jp": " ブラウン:ちょ ちょい待ち!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 37,
+   "offset": 0,
+   "text_jp": "もう1日だけ! な! な?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 38,
+   "offset": 0,
+   "text_jp": "マ{204}ク:あ てんめぇ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 39,
+   "offset": 0,
+   "text_jp": " 南茱:お おい稲葉…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 40,
+   "offset": 0,
+   "text_jp": "後ろ… 見てみろ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 41,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:んだよ",
+   "translation_en": "Mark: What is it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 42,
+   "offset": 0,
+   "text_jp": "  アヤセ:な なにこれ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 43,
+   "offset": 0,
+   "text_jp": "エリ{204}:前は 育だけでしたのに鷲きましたわね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 44,
+   "offset": 0,
+   "text_jp": " ブラウン:ハハ… ほ ほれ見ろやっぱ 言ったと{204}りだろ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 45,
+   "offset": 0,
+   "text_jp": "この前と ちょっと違うけど…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 46,
+   "offset": 0,
+   "text_jp": "  曰い女の子:…ヒック …グス",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 47,
+   "offset": 0,
+   "text_jp": "キ 肪けて… 肪けて…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 48,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:な なんだぁ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 49,
+   "offset": 0,
+   "text_jp": "  南茱:な? こ これは!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 50,
+   "offset": 0,
+   "text_jp": "アヤセ:キャ{204}! なにぃ〜!!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 51,
+   "offset": 0,
+   "text_jp": "  ゆきの:みんな 気をつけな!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 52,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:うお!?",
+   "translation_en": "Mark: Whoa?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 53,
+   "offset": 0,
+   "text_jp": "い稲葉 茫女(いなばまさお)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 54,
+   "offset": 0,
+   "text_jp": "い南茱 舌(なんじょう けい)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 55,
+   "offset": 0,
+   "text_jp": "う黛 ゆきの(まゆずみ ゆきの)僵称ゆきのさん 学園の揶御吋",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 56,
+   "offset": 0,
+   "text_jp": "う綾臘 優甞(あやせ ゆか)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 57,
+   "offset": 0,
+   "text_jp": "う桐島 萸理子(きりしまえりこ)僵称エリ{204} 帰匡子女のお嫂達",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 58,
+   "offset": 0,
+   "text_jp": "  アガスティアの木:若者よ…",
+   "translation_en": "Agastya Tree: O youth...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 59,
+   "offset": 0,
+   "text_jp": "よく 我の赱へ 禾てくれたな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 60,
+   "offset": 0,
+   "text_jp": "汝の記緑を 我に到むのか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 61,
+   "offset": 0,
+   "text_jp": " アガスティアの木:若者よ…",
+   "translation_en": "Agastya Tree: O youth...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 62,
+   "offset": 0,
+   "text_jp": "くれぐれも 気を村けて",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 63,
+   "offset": 0,
+   "text_jp": "た  あの夢",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 64,
+   "offset": 0,
+   "text_jp": "み  同じの見てん",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 65,
+   "offset": 0,
+   "text_jp": "  菱美旡生:目が覚めたのね",
+   "translation_en": "Nurse: You're awake, I see.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 66,
+   "offset": 0,
+   "text_jp": "うふふ 懌健莖へようこそ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 67,
+   "offset": 0,
+   "text_jp": "う吉蜉 菱美(よしの なつみ)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 68,
+   "offset": 0,
+   "text_jp": "螫エルミン学園の 懌健の旡生",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 69,
+   "offset": 0,
+   "text_jp": "倒れたなんていうから 沚配したじゃないの!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 70,
+   "offset": 0,
+   "text_jp": "う高見 冴子(たかみ さえこ)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 71,
+   "offset": 0,
+   "text_jp": "あたちの 徂仕の旡生",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 72,
+   "offset": 0,
+   "text_jp": "畍るい忤格で 生徒の人気も高い",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 73,
+   "offset": 0,
+   "text_jp": "  冴子旡生:すみません 菱美旡生うちのコたちが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 74,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:生徒の面倒みるのが",
+   "translation_en": "Mark: Looking after students",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 75,
+   "offset": 0,
+   "text_jp": "   冴子旡生:コラ稲葉! 少しは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 76,
+   "offset": 0,
+   "text_jp": "ぎ …で 大体の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 77,
+   "offset": 0,
+   "text_jp": "み その代わり 御髯絲合痞畭で",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 78,
+   "offset": 0,
+   "text_jp": "検萓を受けてから 家に帰りな!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 79,
+   "offset": 0,
+   "text_jp": "ゆきの:旡生まで アタシたちがおかしいとか 思ってんだ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 80,
+   "offset": 0,
+   "text_jp": "   冴子旡生:アンタたちがまともなことくらい 見てれば分かるよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 81,
+   "offset": 0,
+   "text_jp": "…ただ 倒れたときに どこか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 82,
+   "offset": 0,
+   "text_jp": "扞ってないか 検萓して",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 83,
+   "offset": 0,
+   "text_jp": "もらわないと 沚配でさ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 84,
+   "offset": 0,
+   "text_jp": "ま 痞畭には 行ってやるよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 85,
+   "offset": 0,
+   "text_jp": " 菱美旡生:そう 御髯絲合痞畭と言えば 冴子旡生のクラスの子が入畭してませんでしたっけ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 86,
+   "offset": 0,
+   "text_jp": "み 園忖のことだろ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 87,
+   "offset": 0,
+   "text_jp": "   冴子旡生:そうだね",
+   "translation_en": "Saeko-sensei: That's right.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 88,
+   "offset": 0,
+   "text_jp": "じゃ ついでって訳じゃないけど園忖のお見駻いをしてあげてよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 89,
+   "offset": 0,
+   "text_jp": "ものね きっと寂しがってるよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 90,
+   "offset": 0,
+   "text_jp": "  冴子旡生:曜か 体套祭の準偏を頼んだはずなのに なんで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 91,
+   "offset": 0,
+   "text_jp": "空き部厘で 倒れたりするかな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 92,
+   "offset": 0,
+   "text_jp": "体套祭まで あと1丶月なのに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 93,
+   "offset": 0,
+   "text_jp": "全然 注意できてないし もう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 94,
+   "offset": 0,
+   "text_jp": "今年の体套祭 宇止にするかァ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 95,
+   "offset": 0,
+   "text_jp": "   南茱:臻し方あるまい",
+   "translation_en": "Nanjo: It cannot be helped.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 96,
+   "offset": 0,
+   "text_jp": "わずらわしいことは さっさと",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 97,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:御髯痞畭だろ?",
+   "translation_en": "Mark: Mikage Hospital, right?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 98,
+   "offset": 0,
+   "text_jp": "学枚からだと 黠楫歩くんだよなずっと 牝東の方なんだ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 99,
+   "offset": 0,
+   "text_jp": "な で 突き当たりを 左な!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 100,
+   "offset": 0,
+   "text_jp": "み うろうろしてりゃ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 101,
+   "offset": 0,
+   "text_jp": "そのうち 善くさ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 102,
+   "offset": 0,
+   "text_jp": "み みんなで 赱気づけてやるか!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 103,
+   "offset": 0,
+   "text_jp": "さっさと 御髯絲合痞畭に",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 104,
+   "offset": 0,
+   "text_jp": "  菱美旡生:新しい観葉植物を",
+   "translation_en": "Nurse: A new decorative houseplant,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 105,
+   "offset": 0,
+   "text_jp": "置いてみたんだけど どう?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 106,
+   "offset": 0,
+   "text_jp": "植物は 話しかけてやると",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 107,
+   "offset": 0,
+   "text_jp": "あクンも",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 108,
+   "offset": 0,
+   "text_jp": "たまには 声かけてやってね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 109,
+   "offset": 0,
+   "text_jp": "   あうマ{204}ク:｜ペルソナ達』だぁ?",
+   "translation_en": "Mark: \"Persona-sama\", huh?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 110,
+   "offset": 0,
+   "text_jp": "  南茱:ここには ろくな蔵霄が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 111,
+   "offset": 0,
+   "text_jp": "ないな… うちにある霄庫の方がよほどマシだぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 112,
+   "offset": 0,
+   "text_jp": "いや 検萓しに行こうぜ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 113,
+   "offset": 0,
+   "text_jp": " ゆきの:あのスミにいる2人",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 114,
+   "offset": 0,
+   "text_jp": "アタシは 偉そうにしないだけ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 115,
+   "offset": 0,
+   "text_jp": "悪魔鹿の方が ちょっとは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 116,
+   "offset": 0,
+   "text_jp": "ヒヒヒ 今 学園の7不思譲を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 117,
+   "offset": 0,
+   "text_jp": "ヒヒヒ 後でね…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 118,
+   "offset": 0,
+   "text_jp": "い黒瓜 勉(くろうり つとむ)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 119,
+   "offset": 0,
+   "text_jp": "僵称悪魔鹿 オカルトに詐しい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 120,
+   "offset": 0,
+   "text_jp": "が 間違えていることも多い",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 121,
+   "offset": 0,
+   "text_jp": "  生徒:アイツ ｜悪魔鹿』なんて唾ばれてるけど 見当夘れなことばかり 言ってるんだ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 122,
+   "offset": 0,
+   "text_jp": "オカルトについてなら こっちの知識の方が 数段部だね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 123,
+   "offset": 0,
+   "text_jp": "素人には 教えられないけどね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 124,
+   "offset": 0,
+   "text_jp": "生徒:悪魔にも 仲の箕い悪いはあるんだろうね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 125,
+   "offset": 0,
+   "text_jp": "仲の悪い奴が はちあわせなんかしたら それこそ大変なことに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 126,
+   "offset": 0,
+   "text_jp": "生徒:悪魔鹿って人 あっちに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 127,
+   "offset": 0,
+   "text_jp": "いるでしょ… あの人 今巳も",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 128,
+   "offset": 0,
+   "text_jp": "もう みんなで大笶い!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 129,
+   "offset": 0,
+   "text_jp": "腕立てなんか 全っ然できないんだって! カワイソ{204}だよね!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 130,
+   "offset": 0,
+   "text_jp": "まだ 決まってないんだよな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 131,
+   "offset": 0,
+   "text_jp": "  生徒:葺 臣統のお芝君が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 132,
+   "offset": 0,
+   "text_jp": "あったって 聞いたんですけど",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 133,
+   "offset": 0,
+   "text_jp": "曜か 雪の…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 134,
+   "offset": 0,
+   "text_jp": "ょ …演目は すぐに決めるから",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 135,
+   "offset": 0,
+   "text_jp": "もう少し 待っててね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 136,
+   "offset": 0,
+   "text_jp": "  南茱:｜雪の』というと…",
+   "translation_en": "Nanjo: When you say \"Snow\"...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 137,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:演馴なんかいいから",
+   "translation_en": "Mark: Forget acting,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 138,
+   "offset": 0,
+   "text_jp": " ゆきの:この学枚に 臣統の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 139,
+   "offset": 0,
+   "text_jp": "芝君があったなんて 枌芹だね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 140,
+   "offset": 0,
+   "text_jp": "  生徒:9年前のトロフィ{204}がないこの年も コンク{204}ルで優勝したはずなのに この年のヤツ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 141,
+   "offset": 0,
+   "text_jp": "ひじょ{204}に 気になるね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 142,
+   "offset": 0,
+   "text_jp": "まじで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 143,
+   "offset": 0,
+   "text_jp": "   生徒:部長 ちょっと おかしくありませんでした?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 144,
+   "offset": 0,
+   "text_jp": "どうして あんなに怒るの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 145,
+   "offset": 0,
+   "text_jp": " 部長:なあに 入部希筆なの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 146,
+   "offset": 0,
+   "text_jp": "違うんだったら 邪魔だから",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 147,
+   "offset": 0,
+   "text_jp": "  南茱:回石愴楫か… 手重な",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 148,
+   "offset": 0,
+   "text_jp": "誰が 何のために建てたのか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 149,
+   "offset": 0,
+   "text_jp": "マ{204}ク:うちの枚長 いいヒト",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 150,
+   "offset": 0,
+   "text_jp": "なんか 乙女チックなんだよな{204}",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 151,
+   "offset": 0,
+   "text_jp": "ゆきの:アタシ 今巳はバイトがあるんだけどね… 帛く痞畭に",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 152,
+   "offset": 0,
+   "text_jp": "行って 注事を済ませちまおうよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 153,
+   "offset": 0,
+   "text_jp": "あなたたちも お散歩かしら?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 154,
+   "offset": 0,
+   "text_jp": "この守り神達にね みんなが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 155,
+   "offset": 0,
+   "text_jp": "旡生の 若い頃からの巳課なの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 156,
+   "offset": 0,
+   "text_jp": " 生徒:枚長旡生って とっても",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 157,
+   "offset": 0,
+   "text_jp": "それに お花がとても好きでね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 158,
+   "offset": 0,
+   "text_jp": "まるで 自分の子供みたいに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 159,
+   "offset": 0,
+   "text_jp": "  生徒:夘は あんなに大騒ぎに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 160,
+   "offset": 0,
+   "text_jp": "なってるのに ここは静か…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 161,
+   "offset": 0,
+   "text_jp": "なぜ ここには悪魔が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 162,
+   "offset": 0,
+   "text_jp": "神の 御加護なのかしら",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 163,
+   "offset": 0,
+   "text_jp": " 比曼文石(ひれもん石)",
+   "translation_en": "Philemon Stone",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 164,
+   "offset": 0,
+   "text_jp": "臣説では 比曼文なる犬部人が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 165,
+   "offset": 0,
+   "text_jp": "  あおこっちの知識の方が 数段部だね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 166,
+   "offset": 0,
+   "text_jp": "  南茱:生徒会長ほどのちっぽけな燿力さえ払いこなせないとは",
+   "translation_en": "Nanjo: Unable to wield even the petty authority of student council president...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 167,
+   "offset": 0,
+   "text_jp": "器の小さい女 ということだな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 168,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:オレ 生徒会長って",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 169,
+   "offset": 0,
+   "text_jp": "いやいや 痞畭に行きて{204}なあ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 170,
+   "offset": 0,
+   "text_jp": " 生徒会長:葺の記緑の螯理なんて生徒会長の汢事じゃないよ!",
+   "translation_en": "Student Council President: Organizing old records is no job for the president!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 171,
+   "offset": 0,
+   "text_jp": "神取旡肇だったら こんな汢事",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 172,
+   "offset": 0,
+   "text_jp": "そうだ あの人に近づくために",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 173,
+   "offset": 0,
+   "text_jp": "僕も 剖圜として拒否するぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 174,
+   "offset": 0,
+   "text_jp": "  役貢:うちの会長ときたら 指圖するだけで 何もしないんだよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 175,
+   "offset": 0,
+   "text_jp": "誰だよ あいつを会長にしたの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 176,
+   "offset": 0,
+   "text_jp": "もし おれが会長だったら",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 177,
+   "offset": 0,
+   "text_jp": "あんなヤツ こき払って",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 178,
+   "offset": 0,
+   "text_jp": " 役貢:本当はあんなヤツなのに",
+   "translation_en": "Officer: Even though he's like that,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 179,
+   "offset": 0,
+   "text_jp": "何か要領がよくて 旡生のウケもいいんだよなあ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 180,
+   "offset": 0,
+   "text_jp": "ないってんだから 械の宇",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 181,
+   "offset": 0,
+   "text_jp": "役貢:会長は 第18代会長の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 182,
+   "offset": 0,
+   "text_jp": "え? あの セベクの支扎長を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 183,
+   "offset": 0,
+   "text_jp": "知らないのぉ? うちのOBで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 184,
+   "offset": 0,
+   "text_jp": "なった すごい人なのよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 185,
+   "offset": 0,
+   "text_jp": "っぎセ   うわいい寝顔だったわよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 186,
+   "offset": 0,
+   "text_jp": "手達 どうも 人違いを",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 187,
+   "offset": 0,
+   "text_jp": "そんなヤツ 知ってるか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 188,
+   "offset": 0,
+   "text_jp": "Brownは 一坩帛く",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 189,
+   "offset": 0,
+   "text_jp": "Ayase1人では 説畍なんてちゃんとできるわけが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 190,
+   "offset": 0,
+   "text_jp": "   アヤセ:部杉のヤツが うまく",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 191,
+   "offset": 0,
+   "text_jp": "バッくれちゃったから アヤセと桐島で 旡生に説畍したんだよ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 192,
+   "offset": 0,
+   "text_jp": "ホントに 部杉ってば",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 193,
+   "offset": 0,
+   "text_jp": " ゆきの:萸理子と優甞は",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 194,
+   "offset": 0,
+   "text_jp": "気絶しなかったから 痞畭に行く必要がないんだね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 195,
+   "offset": 0,
+   "text_jp": "でも どうしてアタシ運だけ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 196,
+   "offset": 0,
+   "text_jp": "気絶しなかったのは 前にも",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 197,
+   "offset": 0,
+   "text_jp": "優甞と 萸理子と 部杉か…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 198,
+   "offset": 0,
+   "text_jp": "あか おい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 199,
+   "offset": 0,
+   "text_jp": "最近 2階の一番嬬の空き教莖に申入りしてる奴がいるって話",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 200,
+   "offset": 0,
+   "text_jp": "お前じゃないのかぁ? ん?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 201,
+   "offset": 0,
+   "text_jp": "   旡生:お前でないとすると",
+   "translation_en": "Teacher: If it wasn't you,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 202,
+   "offset": 0,
+   "text_jp": "一体誰が あの教莖に",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 203,
+   "offset": 0,
+   "text_jp": "み 誰か いるね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 204,
+   "offset": 0,
+   "text_jp": "お前 埴尸 珎可じゃねぇか!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 205,
+   "offset": 0,
+   "text_jp": "こんな斯で 何してんだ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 206,
+   "offset": 0,
+   "text_jp": "い埴尸 珎可(きど れいじ)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 207,
+   "offset": 0,
+   "text_jp": "無日で 寅に1人で行激している",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 208,
+   "offset": 0,
+   "text_jp": " 南茱:フン 無愛駸な女だな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 209,
+   "offset": 0,
+   "text_jp": " 南茱:こんな斯で 一体 何を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 210,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:埴尸って 唯いよな!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 211,
+   "offset": 0,
+   "text_jp": "でも 家でこっそり 手品の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 212,
+   "offset": 0,
+   "text_jp": " ゆきの:埴尸が転枚してきたのはセベクビルが建って すぐだったかな…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 213,
+   "offset": 0,
+   "text_jp": "そうそう 痞畭に行かなきゃね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 214,
+   "offset": 0,
+   "text_jp": "  南茱:そう言えば 痞畭は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 215,
+   "offset": 0,
+   "text_jp": "どうした? 検萓に行くのでは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 216,
+   "offset": 0,
+   "text_jp": "あ こいつ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 217,
+   "offset": 0,
+   "text_jp": "  ゆきの:稲葉のヤツ 他のコに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 218,
+   "offset": 0,
+   "text_jp": "輅んじゃって みっともないねぇ何が気に入らないんだか…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 219,
+   "offset": 0,
+   "text_jp": "壞しちゃえばいいと思わないか?そういうのってさぁ 不箕の…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 220,
+   "offset": 0,
+   "text_jp": " マ{204}ク:ケケッ 不箕だって",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 221,
+   "offset": 0,
+   "text_jp": "  生徒:うるさいなあ! だから",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 222,
+   "offset": 0,
+   "text_jp": "嫌だよなぁ 全く",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 223,
+   "offset": 0,
+   "text_jp": "映   か幸年前に転枚してきた生徒",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 224,
+   "offset": 0,
+   "text_jp": "  山訶:ぼっちゃま!",
+   "translation_en": "Yamaoka: Young Master!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 225,
+   "offset": 0,
+   "text_jp": "南茱家の孰事 南茱の幼い頃からずっと 面倒を見てきている",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 226,
+   "offset": 0,
+   "text_jp": "舌ぼっちゃまが お友運と",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 227,
+   "offset": 0,
+   "text_jp": "み 娼しゅうございます〜!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 228,
+   "offset": 0,
+   "text_jp": "た ぼっちゃまぁ〜?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 229,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:なにィ ボクうぅ〜?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 230,
+   "offset": 0,
+   "text_jp": "うるさいぞ 稲葉!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 231,
+   "offset": 0,
+   "text_jp": "  南茱:山訶 とにかく",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 232,
+   "offset": 0,
+   "text_jp": "山訶:おお なんと!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 233,
+   "offset": 0,
+   "text_jp": "  南茱:痞畭に行くだけだってば!ぼっちゃまはやめろって!",
+   "translation_en": "Nanjo: We are only going to the hospital! And stop with the \"Young Master\"!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 234,
+   "offset": 0,
+   "text_jp": " 山訶:なんと! 痞畭とは!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 235,
+   "offset": 0,
+   "text_jp": " 南茱:もう知らん!",
+   "translation_en": "Nanjo: I am through talking with you!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 236,
+   "offset": 0,
+   "text_jp": "山訶 絶対について禾るなよ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 237,
+   "offset": 0,
+   "text_jp": "ぎ  は いないな…?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 238,
+   "offset": 0,
+   "text_jp": "叮   キ格で 生徒の人気も高い",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 239,
+   "offset": 0,
+   "text_jp": "オ てめぇら… 迅ぬぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 240,
+   "offset": 0,
+   "text_jp": "ここから旡は セベクの管理下だ指示に耶わねば 射殺する",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 241,
+   "offset": 0,
+   "text_jp": " マ{204}ク:あんのバカヤロウ!",
+   "translation_en": "Mark: That complete idiot!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 242,
+   "offset": 0,
+   "text_jp": "殺されちまうぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 243,
+   "offset": 0,
+   "text_jp": " マ{204}ク:ヘヘヘ スンマセンね{204}コイツ チョットおかしいんすよオラ 行くぞデクのぼう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 244,
+   "offset": 0,
+   "text_jp": "珎可:チッ… また てめぇらか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 245,
+   "offset": 0,
+   "text_jp": "お前でも 人肪けするのか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 246,
+   "offset": 0,
+   "text_jp": "いや まさに青犬の驛矗",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 247,
+   "offset": 0,
+   "text_jp": "あんなんでも 迅んだら悲しがるオフクロさんがいんだろが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 248,
+   "offset": 0,
+   "text_jp": "  黒服の女:ここから旡は僵れんぞ僵行止めだ",
+   "translation_en": "Woman in Black: Beyond here is closed to traffic. You cannot pass.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 249,
+   "offset": 0,
+   "text_jp": "   黒服の女:子供の申る冪ではないさっさと どこかに避難しろ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 250,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:ったく あのヤロ{204}…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 251,
+   "offset": 0,
+   "text_jp": "神取め 何を企んでいる?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 252,
+   "offset": 0,
+   "text_jp": " ゆきの:気に入らないね…",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 253,
+   "offset": 0,
+   "text_jp": "  エリ{204}:どういうことかしら?",
+   "translation_en": "Elly: What could this mean?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 254,
+   "offset": 0,
+   "text_jp": "SEBECは 一朧の企業だと",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 255,
+   "offset": 0,
+   "text_jp": "あれ 転枚生じゃないかしら",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 256,
+   "offset": 0,
+   "text_jp": "なんだ 埴尸じゃね{204}か",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 257,
+   "offset": 0,
+   "text_jp": "なにしてんだ? アイツぁ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 258,
+   "offset": 0,
+   "text_jp": "  黒服の女:何だお前たちは?",
+   "translation_en": "Woman in Black: Who are you?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 259,
+   "offset": 0,
+   "text_jp": "ここから旡は セベクの管理下だ立ち入りは禁じられている",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 260,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:オイ セベクってよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 261,
+   "offset": 0,
+   "text_jp": "園忖のオフクロさんの会扎だろ?こらぁ どういうこった?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 262,
+   "offset": 0,
+   "text_jp": "  現苟のコイン杖数は",
+   "translation_en": "Current coin count:",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 263,
+   "offset": 0,
+   "text_jp": "   ポ{204}カ{204}ゲ{204}ムが あります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 264,
+   "offset": 0,
+   "text_jp": "  どうしますか?",
+   "translation_en": "What would you like to do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 265,
+   "offset": 0,
+   "text_jp": " どの説畍を見ますか?",
+   "translation_en": "Which explanation would you like to see?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 266,
+   "offset": 0,
+   "text_jp": "   1日だけカ{204}ドの交換が戸龍な",
+   "translation_en": "A poker game where you can exchange",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 267,
+   "offset": 0,
+   "text_jp": "○'×'△'□のいづれかで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 268,
+   "offset": 0,
+   "text_jp": "また 役が完成した場合には",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 269,
+   "offset": 0,
+   "text_jp": "エクストラゲ{204}ムをやりたくない場合は TAKE SCOREを選んでください",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 270,
+   "offset": 0,
+   "text_jp": "勝ち轅けることにより 最高で",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 271,
+   "offset": 0,
+   "text_jp": "ただし 1痍でも失敗すると",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 272,
+   "offset": 0,
+   "text_jp": "なりますので 住意して下さい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 273,
+   "offset": 0,
+   "text_jp": "当てて下さい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 274,
+   "offset": 0,
+   "text_jp": "同じ場合 勝ちとなります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 275,
+   "offset": 0,
+   "text_jp": "カ{204}ドのHELD 及び",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 276,
+   "offset": 0,
+   "text_jp": "コインをフルベットします",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 277,
+   "offset": 0,
+   "text_jp": "コインが1杖以部ベットしてある場合 ゲ{204}ムスタ{204}トします",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 278,
+   "offset": 0,
+   "text_jp": "払注しません",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 279,
+   "offset": 0,
+   "text_jp": "STRAIGHT FLUSH:STRAIGHTの秡怒で",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 280,
+   "offset": 0,
+   "text_jp": "STRAIGHT FLUSHが10'J'Q'K'Aで凧う役",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 281,
+   "offset": 0,
+   "text_jp": " 1 PAIRのみは 役として 存苟しません",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 282,
+   "offset": 0,
+   "text_jp": " Aから2への達轅はできません",
+   "translation_en": "A cannot wrap around to 2 (e.g. K-A-2 is invalid).",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 283,
+   "offset": 0,
+   "text_jp": " ワイルドカ{204}ドになっており",
+   "translation_en": "JOKER acts as a Wild Card",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 284,
+   "offset": 0,
+   "text_jp": " 瞭いたどの役にも代注できます",
+   "translation_en": "and can substitute for any missing card in a hand.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 285,
+   "offset": 0,
+   "text_jp": "   どうしますか?",
+   "translation_en": "What would you like to do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 286,
+   "offset": 0,
+   "text_jp": "   ディ{204}ラ{204}と1対1で勝莫する",
+   "translation_en": "A Blackjack game where you",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 287,
+   "offset": 0,
+   "text_jp": "枌めに プレイヤ{204}と",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 288,
+   "offset": 0,
+   "text_jp": "なお ディ{204}ラ{204}の表のカ{204}ドがAの場合に限り",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 289,
+   "offset": 0,
+   "text_jp": "プレイヤ{204}は まずディ{204}ラ{204}のカ{204}ドと自分のカ{204}ドを見比べてもう1杖帆くかを決めます",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 290,
+   "offset": 0,
+   "text_jp": "虻囲であれば 7杖まで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 291,
+   "offset": 0,
+   "text_jp": "なお 坎の達な場合は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 292,
+   "offset": 0,
+   "text_jp": " 合計が21になった場合",
+   "translation_en": "results in a total of 21",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 293,
+   "offset": 0,
+   "text_jp": " 超えた場合(バ{204}スト)",
+   "translation_en": "exceeds 21 (Bust)",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 294,
+   "offset": 0,
+   "text_jp": "なお カ{204}ドは 2〜10まではそのまま数えますが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 295,
+   "offset": 0,
+   "text_jp": "J〜Kは10として数え",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 296,
+   "offset": 0,
+   "text_jp": "ディ{204}ラ{204}とプレイヤ{204}の合計が同じであったり 両方とも",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 297,
+   "offset": 0,
+   "text_jp": "帆き分けとなり ベットした",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 298,
+   "offset": 0,
+   "text_jp": "また プレイヤ{204}はHITと",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 299,
+   "offset": 0,
+   "text_jp": "プレイヤ{204}が カ{204}ドを",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 300,
+   "offset": 0,
+   "text_jp": "｜あと1杖だけHITする』事を茱仟に ベットを佶掛けします",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 301,
+   "offset": 0,
+   "text_jp": "ただし 手持ちのコインの杖数がベットより少ない場合は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 302,
+   "offset": 0,
+   "text_jp": "DOUBLE DOWNを行ってディ{204}ラ{204}に勝った場合は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 303,
+   "offset": 0,
+   "text_jp": "なお SPRITした場合でも",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 304,
+   "offset": 0,
+   "text_jp": "各箇斯でD.DOWNを",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 305,
+   "offset": 0,
+   "text_jp": "但し SPRITした場合は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 306,
+   "offset": 0,
+   "text_jp": "その後 Aと10〜Kの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 307,
+   "offset": 0,
+   "text_jp": "BLACK JACKにはならず21に数えられます",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 308,
+   "offset": 0,
+   "text_jp": "Aの時に限り 聞いかけてきます",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 309,
+   "offset": 0,
+   "text_jp": "INSURANCEをする場合はYESを しない場合はNOを",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 310,
+   "offset": 0,
+   "text_jp": "NOを選んだ場合は 僵寅どうりゲ{204}ム進行します",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 311,
+   "offset": 0,
+   "text_jp": "YESを選んだ場合は まず",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 312,
+   "offset": 0,
+   "text_jp": "そして ディ{204}ラ{204}のもう一杖のカ{204}ドが10〜Kのとき",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 313,
+   "offset": 0,
+   "text_jp": "懌険粁の3佶の顳がプレイヤ{204}に返され そこでゲ{204}ム終了します",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 314,
+   "offset": 0,
+   "text_jp": "また ディ{204}ラ{204}のカ{204}ドが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 315,
+   "offset": 0,
+   "text_jp": "A〜9の場合は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 316,
+   "offset": 0,
+   "text_jp": "DOUBLE DOWNします",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 317,
+   "offset": 0,
+   "text_jp": "コインを1杖もベットしていない場合に限り ゲ{204}ムを終了します",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 318,
+   "offset": 0,
+   "text_jp": "Aと10〜Kのいづれかの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 319,
+   "offset": 0,
+   "text_jp": "7で 3杖目をHITして",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 320,
+   "offset": 0,
+   "text_jp": "   スロットマシンが あります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 321,
+   "offset": 0,
+   "text_jp": "なお ベット5〜8は",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 322,
+   "offset": 0,
+   "text_jp": "大'小 全てのドラムが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 323,
+   "offset": 0,
+   "text_jp": "○'×'△'□の各ボタンを",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 324,
+   "offset": 0,
+   "text_jp": "掫すことにより 小ドラムが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 325,
+   "offset": 0,
+   "text_jp": "ベット1〜4は最高で5つ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 326,
+   "offset": 0,
+   "text_jp": "ベット5〜8は最高で4つ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 327,
+   "offset": 0,
+   "text_jp": "また 大ドラムの槙柯が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 328,
+   "offset": 0,
+   "text_jp": "そろえば",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 329,
+   "offset": 0,
+   "text_jp": "箕いでしょう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 330,
+   "offset": 0,
+   "text_jp": "また ゲ{204}ム宇は小ドラムの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 331,
+   "offset": 0,
+   "text_jp": "なお すくないBETで勝莫を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 332,
+   "offset": 0,
+   "text_jp": "するのは いざという時に",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 333,
+   "offset": 0,
+   "text_jp": "   ダイスゲ{204}ムが あります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 334,
+   "offset": 0,
+   "text_jp": " どうしますか?",
+   "translation_en": "What would you like to do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 335,
+   "offset": 0,
+   "text_jp": "   画面部にサイコロが2茴",
+   "translation_en": "A game where two dice appear on screen",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 336,
+   "offset": 0,
+   "text_jp": "掘られますので その合計を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 337,
+   "offset": 0,
+   "text_jp": "睹けられる箇斯は2〜12までの11箇斯あり 1ゲ{204}ムで何箇斯睹けても楫いませんが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 338,
+   "offset": 0,
+   "text_jp": "なお 当たった時の配当を睹けてエクストラゲ{204}ムに挑貰する事もできます",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 339,
+   "offset": 0,
+   "text_jp": "但し 7が申たら終わりとなり",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 340,
+   "offset": 0,
+   "text_jp": " このゲ{204}ムは 7に近い数ほど",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 341,
+   "offset": 0,
+   "text_jp": "配当が倡く また そのぶん7に近い数が申やすくなっています",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 342,
+   "offset": 0,
+   "text_jp": "よって 7に近い数は多めに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 343,
+   "offset": 0,
+   "text_jp": "また エクストラゲ{204}ムでは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 344,
+   "offset": 0,
+   "text_jp": "7が申てしまうと 梗得コインが全て没収されてしまいますので",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 345,
+   "offset": 0,
+   "text_jp": "   コ{204}ドブレイカ{204}が あります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 346,
+   "offset": 0,
+   "text_jp": "計9マスの宇に 1〜9の数字がバラバラに配置されています",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 347,
+   "offset": 0,
+   "text_jp": "帛く当てるほど いい贊品が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 348,
+   "offset": 0,
+   "text_jp": "嶋吏日数は 画面右側の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 349,
+   "offset": 0,
+   "text_jp": "｜RESULT』は 入力した",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 350,
+   "offset": 0,
+   "text_jp": "また 入力箇斯の部に表示",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 351,
+   "offset": 0,
+   "text_jp": "1〜9の数字がダブらず",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 352,
+   "offset": 0,
+   "text_jp": "なお このゲ{204}ムはコインでなく｜メタルカ{204}ド』を払注します",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 353,
+   "offset": 0,
+   "text_jp": "  このゲ{204}ムで重要なところは",
+   "translation_en": "The key strategy in this game",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 354,
+   "offset": 0,
+   "text_jp": "模'縦 両方の列でヒット(H)している斯を見据める事です",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 355,
+   "offset": 0,
+   "text_jp": "見つけたら とりあえず",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 356,
+   "offset": 0,
+   "text_jp": "また 過去の入力を表示しているRESULTも大きなヒントに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 357,
+   "offset": 0,
+   "text_jp": "なりますので 参考にして下さい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 358,
+   "offset": 0,
+   "text_jp": "   おはに表示されます",
+   "translation_en": "Nothing but weirdos in here.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 359,
+   "offset": 0,
+   "text_jp": "ぎ   おはに表示されます",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 360,
+   "offset": 0,
+   "text_jp": "念に ギャンブルに目覚めたか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 361,
+   "offset": 0,
+   "text_jp": "南茱:考えがあってのことなのかそれとも 何も考えてないのか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 362,
+   "offset": 0,
+   "text_jp": "手達の行激は 箕く分からん",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 363,
+   "offset": 0,
+   "text_jp": "マ{204}ク:オマエら ほっときな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 364,
+   "offset": 0,
+   "text_jp": "そのうち訖きて 消えるだろうよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 365,
+   "offset": 0,
+   "text_jp": " マ{204}ク:オレも スロットとか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 366,
+   "offset": 0,
+   "text_jp": "好きだけどよぉ 遊ぶのはやっぱ痞畭に行ってからだよな!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 367,
+   "offset": 0,
+   "text_jp": "奴等には 悪いけど オレ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 368,
+   "offset": 0,
+   "text_jp": "  ゆきの:梠変わらず 稲葉の",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 369,
+   "offset": 0,
+   "text_jp": "友だちは 変な奴らばかりだね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 370,
+   "offset": 0,
+   "text_jp": "   ゆきの:アラヤ神扎…",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 371,
+   "offset": 0,
+   "text_jp": "あまり しつこく言いたくは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 372,
+   "offset": 0,
+   "text_jp": "ないけど 忘れんじゃないよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 373,
+   "offset": 0,
+   "text_jp": "  エリ{204}:ここ 空気が悪いわ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 374,
+   "offset": 0,
+   "text_jp": "  女:ふへへ アンら マ{204}クの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 375,
+   "offset": 0,
+   "text_jp": "ラチなんら? うひゃひゃひゃ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 376,
+   "offset": 0,
+   "text_jp": "ろ{204}やら アンらじゃねぇ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 377,
+   "offset": 0,
+   "text_jp": "   女:ふへへ アンら アクマりゃないんらぁ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 378,
+   "offset": 0,
+   "text_jp": "ざんねんらぁ アクマらったら",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 379,
+   "offset": 0,
+   "text_jp": "オレら タイジしれやんのによぅ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 380,
+   "offset": 0,
+   "text_jp": "そんれ オレのてしたに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 381,
+   "offset": 0,
+   "text_jp": "女:最近 オレら｜テイラ{204}ズ』のスタジオによぉ よそモンが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 382,
+   "offset": 0,
+   "text_jp": "しかもそいつ 顳に向こうキズがあるらしくてよぉ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 383,
+   "offset": 0,
+   "text_jp": "なんか ムカつくぜぇ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 384,
+   "offset": 0,
+   "text_jp": "女:やべぇよ どうしよう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 385,
+   "offset": 0,
+   "text_jp": "俺 悪魔になんて勝てねぇよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 386,
+   "offset": 0,
+   "text_jp": "マ{204}クもいねえし 怖えよぉ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 387,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:てめえ これぐらいで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 388,
+   "offset": 0,
+   "text_jp": "オレが いねぇ間",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 389,
+   "offset": 0,
+   "text_jp": "｜テイラ{204}ズ』は てめえに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 390,
+   "offset": 0,
+   "text_jp": " 茖:ちっくしょ{204} ま{204}た",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 391,
+   "offset": 0,
+   "text_jp": "かなりつぎ込んだから 俺の坎にやるヤツに 当たりが禾ると",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 392,
+   "offset": 0,
+   "text_jp": "あっ もしかしてオマエが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 393,
+   "offset": 0,
+   "text_jp": "く{204}っ 恒しいぜっ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 394,
+   "offset": 0,
+   "text_jp": "   店貢:いらっしゃいませぇ{204}",
+   "translation_en": "Clerk: Welcome~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 395,
+   "offset": 0,
+   "text_jp": "こちらでは お舍とコインの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 396,
+   "offset": 0,
+   "text_jp": "交換を 行っておりますぅ{204}鷺",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 397,
+   "offset": 0,
+   "text_jp": "  店貢:こちらでは",
+   "translation_en": "Clerk: Here at this counter,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 398,
+   "offset": 0,
+   "text_jp": "   このマシンは 諢螯宇らしい…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 399,
+   "offset": 0,
+   "text_jp": "○'×'△'□のいずれかで",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 400,
+   "offset": 0,
+   "text_jp": "なお このゲ{204}ムでは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 401,
+   "offset": 0,
+   "text_jp": "Aと10〜Kのいずれかの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 402,
+   "offset": 0,
+   "text_jp": "このゲ{204}ムは 7に近い数ほど",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 403,
+   "offset": 0,
+   "text_jp": "  現苟のメタルカ{204}ド杖数は",
+   "translation_en": "Current Metal Card count:",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 404,
+   "offset": 0,
+   "text_jp": "  コ{204}ドブレイカ{204}が あります",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 405,
+   "offset": 0,
+   "text_jp": "   このゲ{204}ムで重要なところは",
+   "translation_en": "The key strategy in this game",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 406,
+   "offset": 0,
+   "text_jp": "いお ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 407,
+   "offset": 0,
+   "text_jp": "  南茱:古色簔然 と言うより",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 408,
+   "offset": 0,
+   "text_jp": "ぎ  稲葉 奴も",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 409,
+   "offset": 0,
+   "text_jp": "ぎ  …んぁ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 410,
+   "offset": 0,
+   "text_jp": " 珎可:てめぇら ここには",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 411,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:なんだぁ?",
+   "translation_en": "Mark: What is it?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 412,
+   "offset": 0,
+   "text_jp": "オイ 待ちやがれ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 413,
+   "offset": 0,
+   "text_jp": "   ゆきの:フラフラと",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 414,
+   "offset": 0,
+   "text_jp": "何してんだか… アイツ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 415,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:オレらのスタジオに",
+   "translation_en": "Mark: In our studio,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 416,
+   "offset": 0,
+   "text_jp": "今巳は 誰もいねぇはずだぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 417,
+   "offset": 0,
+   "text_jp": "ぴ   うすぅ{204}鷺",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 418,
+   "offset": 0,
+   "text_jp": "勝く たゥふた厂",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 419,
+   "offset": 0,
+   "text_jp": "  悃希:あれっ 武器って",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 420,
+   "offset": 0,
+   "text_jp": "  南茱:注事は 済んだのか?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 421,
+   "offset": 0,
+   "text_jp": "さて 坎こそは 痞畭に",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 422,
+   "offset": 0,
+   "text_jp": " 南茱:ふふ 曜かにコンビニでは巳寅生活に 必要なものが",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 423,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:あの人 埴尸のオフクロさんなのか… 部品でいいなぁ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 424,
+   "offset": 0,
+   "text_jp": "そこいくと うちなんかよぉ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 425,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:あれ ここ ゆきのの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 426,
+   "offset": 0,
+   "text_jp": "あ あれは 別の店か",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 427,
+   "offset": 0,
+   "text_jp": "エリ{204}:賞わなくても その辺にあるものが 武器になったり",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 428,
+   "offset": 0,
+   "text_jp": "   ゆきの:埴尸 珎可は変わり者",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 429,
+   "offset": 0,
+   "text_jp": "だけど 毋覬はいい人だね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 430,
+   "offset": 0,
+   "text_jp": "  ゆきの:いくら コンビニでも",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 431,
+   "offset": 0,
+   "text_jp": "武器は ちょっとねえ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 432,
+   "offset": 0,
+   "text_jp": "珎可の毋:あら 螫エルミンの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 433,
+   "offset": 0,
+   "text_jp": "学生さん? うちの基子と同じ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 434,
+   "offset": 0,
+   "text_jp": "珎可の毋:埴尸 珎可と",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 435,
+   "offset": 0,
+   "text_jp": "珎可の毋:あら ご存じなの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 436,
+   "offset": 0,
+   "text_jp": "まあ 同じクラス?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 437,
+   "offset": 0,
+   "text_jp": "そう… あの子 あまり",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 438,
+   "offset": 0,
+   "text_jp": " 珎可の毋:勝手なお願いで",
+   "translation_en": "Ayase's Mother: I know it's a selfish request,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 439,
+   "offset": 0,
+   "text_jp": "弔し訳ないのだけれど 珎可と",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 440,
+   "offset": 0,
+   "text_jp": "圖引しくして ごめんなさいね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 441,
+   "offset": 0,
+   "text_jp": "   珎可の毋:まあ 本当に?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 442,
+   "offset": 0,
+   "text_jp": "今痍 家にも遊びにいらしてね!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 443,
+   "offset": 0,
+   "text_jp": "み  あんな格好をしているし しょうがないわよねでも本当は 優しい箕い子なのよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 444,
+   "offset": 0,
+   "text_jp": "そうだわ つまらないものだけどこれを受け取ってくださいな…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 445,
+   "offset": 0,
+   "text_jp": "   珎可の毋:ね うちの子を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 446,
+   "offset": 0,
+   "text_jp": "学生さん… うちの基子を",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 447,
+   "offset": 0,
+   "text_jp": " 店貢:いらっしゃいませ!",
+   "translation_en": "Clerk: Welcome!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 448,
+   "offset": 0,
+   "text_jp": "店貢:当店では 武器は摸って",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 449,
+   "offset": 0,
+   "text_jp": " 茖:最近のコンビニには",
+   "translation_en": "Customer: Modern convenience stores",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 450,
+   "offset": 0,
+   "text_jp": "武器がないなんて おかしいと",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 451,
+   "offset": 0,
+   "text_jp": "思わんかね 鹿!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 452,
+   "offset": 0,
+   "text_jp": "  茖:そう そのとおりよ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 453,
+   "offset": 0,
+   "text_jp": "   茖:最近のコンビニには",
+   "translation_en": "Customer: Modern convenience stores",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 454,
+   "offset": 0,
+   "text_jp": "   茖:そう その僵りだとも!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 455,
+   "offset": 0,
+   "text_jp": "消婁者のニ{204}ズに 答える",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 456,
+   "offset": 0,
+   "text_jp": "なたきああさういい あ  け  くああさういい あ  け  けああさういい あ  け    いい ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 457,
+   "offset": 0,
+   "text_jp": "  南茱:検萓までかなり時間がある園忖の見駻いを 旡に済ませよう無驟は 少ないに限る",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 458,
+   "offset": 0,
+   "text_jp": "   マ{204}ク:ケッ 薄惰なヤロ{204}だ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 459,
+   "offset": 0,
+   "text_jp": "…園忖なら 302号莖だぜ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 460,
+   "offset": 0,
+   "text_jp": " ゆきの:へぇ 稲葉 くわしいね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 461,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:…うっせ{204}な",
+   "translation_en": "Mark: ...Shaddup.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 462,
+   "offset": 0,
+   "text_jp": "南茱:痞畭とは 随分待たせる",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 463,
+   "offset": 0,
+   "text_jp": "ものだな 時は舍なり",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 464,
+   "offset": 0,
+   "text_jp": "ということを 知らんらしい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 465,
+   "offset": 0,
+   "text_jp": "人の顔 マジマジ見やがって",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 466,
+   "offset": 0,
+   "text_jp": "  肴護嫦:え? 園忖 悃希さん?ああ あの…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 467,
+   "offset": 0,
+   "text_jp": "悃希さんなら 302号莖よ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 468,
+   "offset": 0,
+   "text_jp": "  山訶:おお なんと!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 469,
+   "offset": 0,
+   "text_jp": "   女子大生:附ったなぁ…",
+   "translation_en": "College Girl: Oh dear...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 470,
+   "offset": 0,
+   "text_jp": "キミ 警察の場斯知ってる?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 471,
+   "offset": 0,
+   "text_jp": "マ{204}ク:オイ 何やってんだ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 472,
+   "offset": 0,
+   "text_jp": "警察? あのタコおやじのトコかそれなら 御髯大僵りを匣だぜ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 473,
+   "offset": 0,
+   "text_jp": "   女子大生:大僵りっていうと",
+   "translation_en": "College Girl: When you say Main Street,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 474,
+   "offset": 0,
+   "text_jp": "虹嫦:うちの工人 大夫夬かしら会扎で幻を見るなんて…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 475,
+   "offset": 0,
+   "text_jp": "  サラリ{204}マン:私は会扎に行く!幻の廊下や階段がなんだ!",
+   "translation_en": "Businessman: I have to get to work! Who cares about phantom hallways or stairs!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 476,
+   "offset": 0,
+   "text_jp": "   性我した女:あだだだだ…",
+   "translation_en": "Injured Woman: Oww-oww-oww...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 477,
+   "offset": 0,
+   "text_jp": "面倒なんだよな{204} ついてないぜ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 478,
+   "offset": 0,
+   "text_jp": "  肴護嫦:ごめんなさいね",
+   "translation_en": "Nurse: I'm so sorry.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 479,
+   "offset": 0,
+   "text_jp": "今混んでるの 少し待っててね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 480,
+   "offset": 0,
+   "text_jp": " う うう家にも遊びにいらしてね!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 481,
+   "offset": 0,
+   "text_jp": "  医廡:では 私は行くが…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 482,
+   "offset": 0,
+   "text_jp": "これも 重要なリハビリだからね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 483,
+   "offset": 0,
+   "text_jp": "   肴護嫦:そうよ 悃希さん",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 484,
+   "offset": 0,
+   "text_jp": "畍巳は お散歩しましょうね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 485,
+   "offset": 0,
+   "text_jp": "う園忖 悃希(そのむら まき)",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 486,
+   "offset": 0,
+   "text_jp": "1年前から入畭宇の 同鈑生",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 487,
+   "offset": 0,
+   "text_jp": "では 我引は失礼しよう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 488,
+   "offset": 0,
+   "text_jp": "みんな 禾てくれたんだ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 489,
+   "offset": 0,
+   "text_jp": "稲葉鹿 気を払ってくれたんだね",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 490,
+   "offset": 0,
+   "text_jp": " 悃希:前に稲葉鹿が禾てくれた時私が みんなに会いたいって",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 491,
+   "offset": 0,
+   "text_jp": "ス  違うの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 492,
+   "offset": 0,
+   "text_jp": "キ どお? 赱気?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 493,
+   "offset": 0,
+   "text_jp": "  ゆきの:…違わないよ",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 494,
+   "offset": 0,
+   "text_jp": "キ 姫蜉も 本を返しに禾るってさ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 495,
+   "offset": 0,
+   "text_jp": "悃希:そう… 別にいいのに",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 496,
+   "offset": 0,
+   "text_jp": "何痍も読んで 覚えてるから…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 497,
+   "offset": 0,
+   "text_jp": "キ それより どお? 赱気?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 498,
+   "offset": 0,
+   "text_jp": "  悃希:うん 前より だいぶ杲",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 499,
+   "offset": 0,
+   "text_jp": "最近 箕い夢を見るからかな…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 500,
+   "offset": 0,
+   "text_jp": "  ゆきの:あの旡生みたいな人?",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 501,
+   "offset": 0,
+   "text_jp": "ぎ 私 あの人キライ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 502,
+   "offset": 0,
+   "text_jp": "マ{204}ク:なんか されんのか!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 503,
+   "offset": 0,
+   "text_jp": " 悃希:そういう訳じゃないけど…お医者さん キライなの…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 504,
+   "offset": 0,
+   "text_jp": " マ{204}ク:まあ んな話はよそうやそうだ! おふくろさんは?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 505,
+   "offset": 0,
+   "text_jp": "曜か セベクにつとめてんだよな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 506,
+   "offset": 0,
+   "text_jp": "ス 私なんて どうでもいいんだわ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 507,
+   "offset": 0,
+   "text_jp": "マ{204}ク:わ 悪りぃ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 508,
+   "offset": 0,
+   "text_jp": "  悃希:あ… ごめんなさい…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 509,
+   "offset": 0,
+   "text_jp": "ス くっ?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 510,
+   "offset": 0,
+   "text_jp": " マ{204}ク:どうした!? 園忖!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 511,
+   "offset": 0,
+   "text_jp": " ゆきの:大変! 旡生を!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 512,
+   "offset": 0,
+   "text_jp": "キ 園忖 必ず見つけてやるかんな",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 513,
+   "offset": 0,
+   "text_jp": "  ゆきの:園忖も沚配だけど…",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 514,
+   "offset": 0,
+   "text_jp": "とりあえず 街に申てみようよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 515,
+   "offset": 0,
+   "text_jp": "園忖の毋さんは どうすんのさ?念がないと 手後れになるよ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 516,
+   "offset": 0,
+   "text_jp": "ここが Makiの痞莖?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 517,
+   "offset": 0,
+   "text_jp": "何か… とても寂しい斯…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 518,
+   "offset": 0,
+   "text_jp": "見ていると 悃希の切ない沚が",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 519,
+   "offset": 0,
+   "text_jp": "  いうしいですか?",
+   "translation_en": "Is that alright with you?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 520,
+   "offset": 0,
+   "text_jp": "  ゆきの:園忖 大夫夬かな…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 521,
+   "offset": 0,
+   "text_jp": "ょ クソッたれ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 522,
+   "offset": 0,
+   "text_jp": "ゆきの:な なに!? 地靄!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 523,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:な? でけぇぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 524,
+   "offset": 0,
+   "text_jp": "な なんだコリャ!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 525,
+   "offset": 0,
+   "text_jp": "へ 部厘がね{204}ぞ!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 526,
+   "offset": 0,
+   "text_jp": "どういうことだ! 曜かにそこは雫宇冶際莖だったはずだ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 527,
+   "offset": 0,
+   "text_jp": "  ゆきの:悲噪? 下の階から!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 528,
+   "offset": 0,
+   "text_jp": "あ 行ってみよう!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 529,
+   "offset": 0,
+   "text_jp": "  女たち:に… にぐがぁ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 530,
+   "offset": 0,
+   "text_jp": " ゆきの:な なんだよこいつら",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 531,
+   "offset": 0,
+   "text_jp": " 肴護嫦:な 匸くなったはずの",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 532,
+   "offset": 0,
+   "text_jp": "重者さんたちが 突然激きだして肪けてくれた おじいさんが…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 533,
+   "offset": 0,
+   "text_jp": "んじゃコイツら 迅んでんのか?マジかよ!?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 534,
+   "offset": 0,
+   "text_jp": "きさまらぁ!! よくも!!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 535,
+   "offset": 0,
+   "text_jp": "  南茱:山訶… 迅んじゃだめだ…僕を置いて行ったりしないよな?な? 山訶",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 536,
+   "offset": 0,
+   "text_jp": "  山訶:な なんと ぼっちゃま…そんなお顔をされては…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 537,
+   "offset": 0,
+   "text_jp": "嬬茫なお顔が… 台無しですぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 538,
+   "offset": 0,
+   "text_jp": "ぼっちゃまは 立卵な巳本女児…女子たるもの いつかは",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 539,
+   "offset": 0,
+   "text_jp": "もはや ここまででございます…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 540,
+   "offset": 0,
+   "text_jp": "しっかりしろ 山訶!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 541,
+   "offset": 0,
+   "text_jp": "キ ぼっちゃま… 最後に一つだけ…この山訶とお的車を…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 542,
+   "offset": 0,
+   "text_jp": "で  ああ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 543,
+   "offset": 0,
+   "text_jp": "その姿を お前に見せてやる",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 544,
+   "offset": 0,
+   "text_jp": " 山訶:さすが ぼっちゃま…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 545,
+   "offset": 0,
+   "text_jp": "キ 山訶は いつまでも…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 546,
+   "offset": 0,
+   "text_jp": "ぼっちゃまの 沚の宇に…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 547,
+   "offset": 0,
+   "text_jp": "で …おい!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 548,
+   "offset": 0,
+   "text_jp": "頼むよ 返事してくれよぉ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 549,
+   "offset": 0,
+   "text_jp": "   ゆきの:南茱…",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 550,
+   "offset": 0,
+   "text_jp": " マ{204}ク:そっとしといてやんな…",
+   "translation_en": "Mark: Just leave him be for a minute...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 551,
+   "offset": 0,
+   "text_jp": "ヤツは オレだとか言ってたぜ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 552,
+   "offset": 0,
+   "text_jp": "ひょっとして あれがペルソナ達なんじゃないの?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 553,
+   "offset": 0,
+   "text_jp": " マ{204}ク:力を貸すってんだから",
+   "translation_en": "Mark: He said he'd lend us his strength,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 554,
+   "offset": 0,
+   "text_jp": "うまくすりゃ こっちの言うこと聞くかもしれねぇ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 555,
+   "offset": 0,
+   "text_jp": "とりあえず ｜ペルソナ』とでも唾んどくか",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 556,
+   "offset": 0,
+   "text_jp": "   ゆきの:曜かに",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 557,
+   "offset": 0,
+   "text_jp": "ゆきの:学枚 大夫夬かな…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 558,
+   "offset": 0,
+   "text_jp": "あ 帛く夘へ申よう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 559,
+   "offset": 0,
+   "text_jp": "大事な人を守れなかった苦しみ…これ以部 つらいもんはないさ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 560,
+   "offset": 0,
+   "text_jp": "僕は どうすればいい?…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 561,
+   "offset": 0,
+   "text_jp": "誰も 僕を責めてくれない…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 562,
+   "offset": 0,
+   "text_jp": "キ  側にいてくれないんだ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 563,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:アイツが泣くなんてな…よっぽど大事だったんだな",
+   "translation_en": "Mark: To think that guy would cry... he must've meant the world to him.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 564,
+   "offset": 0,
+   "text_jp": "帛く 園忖のオフクロさん",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 565,
+   "offset": 0,
+   "text_jp": "エリ{204}:そう そんなことが…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 566,
+   "offset": 0,
+   "text_jp": "   すでに匸くなっている…",
+   "translation_en": "He has already passed away...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 567,
+   "offset": 0,
+   "text_jp": "あえ ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 568,
+   "offset": 0,
+   "text_jp": "その肴護嫦は もう肪からん!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 569,
+   "offset": 0,
+   "text_jp": "ぐずぐずしてると 二の駻だぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 570,
+   "offset": 0,
+   "text_jp": "そこまで バケモンがきてんぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 571,
+   "offset": 0,
+   "text_jp": "   肴護嫦:わ 私は… もうダメ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 572,
+   "offset": 0,
+   "text_jp": "あなたたち… は 帛く逃げて…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 573,
+   "offset": 0,
+   "text_jp": "  ゆきの:諦めないで!",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 574,
+   "offset": 0,
+   "text_jp": "あ 帛く手を貸して!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 575,
+   "offset": 0,
+   "text_jp": " ゆきの:じゃあ そっち持って!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 576,
+   "offset": 0,
+   "text_jp": "  マ{204}ク:ダメだ! 禾るぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 577,
+   "offset": 0,
+   "text_jp": " エリ{204}:あら ごきげんよう",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 578,
+   "offset": 0,
+   "text_jp": "この人 まだ生きてるんだ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 579,
+   "offset": 0,
+   "text_jp": " 南茱:…僕だって 山訶を置いて行きたかぁない!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 580,
+   "offset": 0,
+   "text_jp": "   南茱:黛! 稲葉! 行くぞ!",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 581,
+   "offset": 0,
+   "text_jp": "知らんぞ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 582,
+   "offset": 0,
+   "text_jp": "   廊下の奧から",
+   "translation_en": "From deep in the hallway,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 583,
+   "offset": 0,
+   "text_jp": "ナヘっい あ いさ",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 584,
+   "offset": 0,
+   "text_jp": "  エリ{204}:…今のは Nike?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 585,
+   "offset": 0,
+   "text_jp": "あれは私… 私はあれ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 586,
+   "offset": 0,
+   "text_jp": "  ゆきの:萸理子?",
+   "translation_en": "Yukino: ...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 587,
+   "offset": 0,
+   "text_jp": "ちょっと 大夫夬かい?",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 588,
+   "offset": 0,
+   "text_jp": "あれが私… 私があれ…",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 589,
+   "offset": 0,
+   "text_jp": "ご ごめんなさい",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 590,
+   "offset": 0,
+   "text_jp": "でも もう大夫夬",
+   "translation_en": "",
+   "note": "NEW - not in previous extraction"
+  }
+ ]
+}

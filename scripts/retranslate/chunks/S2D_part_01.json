@@ -1,0 +1,604 @@
+{
+ "file": "S2D",
+ "source": "S2D.BIN",
+ "chunk_index": 1,
+ "total_chunks": 1,
+ "start_idx": 0,
+ "end_idx": 99,
+ "entries": [
+  {
+   "id": 0,
+   "offset": 3143,
+   "text_jp": "あヒスけロスけズスけズタけボスけボスけボスけボスけボスけOスけ♀スけやセけざセけょセけバセけ(セけぎソけぎソけヶソけ♀ソけぎタけサタけ厂",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 97066,
+   "text_jp": "ょよむみぶい",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 155716,
+   "text_jp": "こうでしウツ民",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 174138,
+   "text_jp": "いざね",
+   "translation_en": "Well then."
+  },
+  {
+   "id": 5,
+   "offset": 224126,
+   "text_jp": "たよあ",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 289970,
+   "text_jp": "注があるのか?",
+   "translation_en": "Do you have business here?"
+  },
+  {
+   "id": 7,
+   "offset": 290056,
+   "text_jp": "ゆきの:｜アラヤ神扎の由禾』…",
+   "translation_en": "Yukino: \"Origins of Araya Shrine\"..."
+  },
+  {
+   "id": 8,
+   "offset": 290091,
+   "text_jp": "人の沚の宇に任む",
+   "translation_en": "Residing within the hearts of humanity,"
+  },
+  {
+   "id": 9,
+   "offset": 290109,
+   "text_jp": "まつったものです』",
+   "translation_en": "is what is enshrined here.\""
+  },
+  {
+   "id": 10,
+   "offset": 290121,
+   "text_jp": "だってさ",
+   "translation_en": "or so it says."
+  },
+  {
+   "id": 11,
+   "offset": 290154,
+   "text_jp": "変な名前ね!",
+   "translation_en": "What a strange name!"
+  },
+  {
+   "id": 12,
+   "offset": 290176,
+   "text_jp": "あるのかなぁ?",
+   "translation_en": "I wonder if there is...?"
+  },
+  {
+   "id": 13,
+   "offset": 290347,
+   "text_jp": "されてねぇんだ",
+   "translation_en": "hasn't been done."
+  },
+  {
+   "id": 14,
+   "offset": 290373,
+   "text_jp": "見るモンがねぇって話だぜ",
+   "translation_en": "They say there's nothing to see."
+  },
+  {
+   "id": 15,
+   "offset": 290407,
+   "text_jp": "入れなかったっけ…",
+   "translation_en": "Couldn't we go inside...?"
+  },
+  {
+   "id": 16,
+   "offset": 290451,
+   "text_jp": "愴跡があるのに",
+   "translation_en": "Even though there are ruins,"
+  },
+  {
+   "id": 17,
+   "offset": 290467,
+   "text_jp": "入れないんですものね",
+   "translation_en": "we still can't enter, can we?"
+  },
+  {
+   "id": 18,
+   "offset": 290576,
+   "text_jp": "逃げるつもり?",
+   "translation_en": "Are you trying to run away?"
+  },
+  {
+   "id": 19,
+   "offset": 290609,
+   "text_jp": "怒られるよ!",
+   "translation_en": "You're gonna get yelled at!"
+  },
+  {
+   "id": 20,
+   "offset": 290646,
+   "text_jp": "逃げるつもりか?",
+   "translation_en": "Are you planning to run?"
+  },
+  {
+   "id": 21,
+   "offset": 290720,
+   "text_jp": "閉まっている…",
+   "translation_en": "It's closed..."
+  },
+  {
+   "id": 22,
+   "offset": 290883,
+   "text_jp": "思ったとおり",
+   "translation_en": "Just as I thought,"
+  },
+  {
+   "id": 23,
+   "offset": 290903,
+   "text_jp": "逃げることはできんということだ",
+   "translation_en": "it means running away is not an option."
+  },
+  {
+   "id": 24,
+   "offset": 291021,
+   "text_jp": "申してくれよ!",
+   "translation_en": "Let me out!"
+  },
+  {
+   "id": 25,
+   "offset": 291057,
+   "text_jp": "肪けてくれよォ{204}!",
+   "translation_en": "Save meee!"
+  },
+  {
+   "id": 27,
+   "offset": 291201,
+   "text_jp": "達れて行かなくては!",
+   "translation_en": "We have to take them with us!"
+  },
+  {
+   "id": 28,
+   "offset": 291264,
+   "text_jp": "化している…",
+   "translation_en": "has transformed..."
+  },
+  {
+   "id": 29,
+   "offset": 291307,
+   "text_jp": "アンちゃんらと",
+   "translation_en": "with those big bros"
+  },
+  {
+   "id": 30,
+   "offset": 291345,
+   "text_jp": "入っていったぞ",
+   "translation_en": "went inside!"
+  },
+  {
+   "id": 31,
+   "offset": 291394,
+   "text_jp": "閉ざされている…",
+   "translation_en": "It's sealed shut..."
+  },
+  {
+   "id": 32,
+   "offset": 291451,
+   "text_jp": "ここが警察か?",
+   "translation_en": "Is this the police station?"
+  },
+  {
+   "id": 33,
+   "offset": 291463,
+   "text_jp": "定談は顔だけにしろ!",
+   "translation_en": "Keep the jokes to your face!"
+  },
+  {
+   "id": 34,
+   "offset": 291583,
+   "text_jp": "こんな薄角い場斯に",
+   "translation_en": "In a dark and gloomy place like this,"
+  },
+  {
+   "id": 35,
+   "offset": 291598,
+   "text_jp": "注は無いはずだろう?",
+   "translation_en": "you shouldn't have any business, right?"
+  },
+  {
+   "id": 36,
+   "offset": 291627,
+   "text_jp": "てんめぇ…",
+   "translation_en": "You bastard..."
+  },
+  {
+   "id": 37,
+   "offset": 291656,
+   "text_jp": "本当にフラフラすんのが好きなんだね",
+   "translation_en": "You really love wandering around aimlessly, don't ya?"
+  },
+  {
+   "id": 38,
+   "offset": 291684,
+   "text_jp": "時と場斯を選びな!",
+   "translation_en": "Pick the right time and place!"
+  },
+  {
+   "id": 39,
+   "offset": 291700,
+   "text_jp": "ったく…",
+   "translation_en": "Sheesh..."
+  },
+  {
+   "id": 40,
+   "offset": 291752,
+   "text_jp": "黒服の女:ここから旡は",
+   "translation_en": "Woman in Black: Beyond here..."
+  },
+  {
+   "id": 41,
+   "offset": 291770,
+   "text_jp": "セベクの管理下だ!",
+   "translation_en": "is under SEBEC's jurisdiction!"
+  },
+  {
+   "id": 42,
+   "offset": 291786,
+   "text_jp": "僵行は禁止されている!",
+   "translation_en": "Passage is strictly prohibited!"
+  },
+  {
+   "id": 43,
+   "offset": 291818,
+   "text_jp": "えらそうにぃ!",
+   "translation_en": "Acting so high and mighty!"
+  },
+  {
+   "id": 44,
+   "offset": 291832,
+   "text_jp": "アッタマきちゃう!",
+   "translation_en": "That really ticks me off!"
+  },
+  {
+   "id": 45,
+   "offset": 291849,
+   "text_jp": "みんな!イ{214}ッダ!",
+   "translation_en": "Everyone, let's go~!"
+  },
+  {
+   "id": 46,
+   "offset": 291964,
+   "text_jp": "お埴じゃなかった…?",
+   "translation_en": "Wasn't it a shrine...?"
+  },
+  {
+   "id": 47,
+   "offset": 292030,
+   "text_jp": "記蟷軣失なのかよ?",
+   "translation_en": "Did you lose your memory?!"
+  },
+  {
+   "id": 48,
+   "offset": 292069,
+   "text_jp": "なんかそんな気がしてきた!",
+   "translation_en": "I'm starting to feel that way too!"
+  },
+  {
+   "id": 49,
+   "offset": 292088,
+   "text_jp": "帛く行こ!",
+   "translation_en": "Let's hurry and go!"
+  },
+  {
+   "id": 52,
+   "offset": 292292,
+   "text_jp": "悃希:あれ?",
+   "translation_en": "Maki: Huh?"
+  },
+  {
+   "id": 53,
+   "offset": 292307,
+   "text_jp": "お埴だったと思ったけど…",
+   "translation_en": "I thought it was a shrine..."
+  },
+  {
+   "id": 57,
+   "offset": 292504,
+   "text_jp": "こんな建物だった?",
+   "translation_en": "Was it always a building like this?"
+  },
+  {
+   "id": 64,
+   "offset": 292724,
+   "text_jp": "ゆきの:なにをえらそうに…",
+   "translation_en": "Yukino: Acting all high and mighty..."
+  },
+  {
+   "id": 65,
+   "offset": 292745,
+   "text_jp": "気分が悪くなる",
+   "translation_en": "Makes me sick."
+  },
+  {
+   "id": 66,
+   "offset": 292757,
+   "text_jp": "帛く行くよ",
+   "translation_en": "Let's hurry up."
+  },
+  {
+   "id": 67,
+   "offset": 292848,
+   "text_jp": "悃希:おっかしいな{204}",
+   "translation_en": "Maki: That's strange~"
+  },
+  {
+   "id": 69,
+   "offset": 292887,
+   "text_jp": "禾れないはずなのに…",
+   "translation_en": "We shouldn't be able to come here..."
+  },
+  {
+   "id": 73,
+   "offset": 293064,
+   "text_jp": "マ{204}ク:こんなうっと{204}し{204}トコもう注はねぇだろ?",
+   "translation_en": "Mark: We don't got any more business in a dreary place like this, do we?"
+  },
+  {
+   "id": 74,
+   "offset": 293096,
+   "text_jp": "帛く神取ブチのめしに行こうぜ",
+   "translation_en": "Let's hurry up and go beat the crap outta Kandori!"
+  },
+  {
+   "id": 75,
+   "offset": 293152,
+   "text_jp": "悃希:他の場斯に行くの?",
+   "translation_en": "Maki: Are we going somewhere else?"
+  },
+  {
+   "id": 76,
+   "offset": 293178,
+   "text_jp": "みんなと",
+   "translation_en": "with everyone,"
+  },
+  {
+   "id": 77,
+   "offset": 293236,
+   "text_jp": "南茱:ここに入れるのは",
+   "translation_en": "Nanjo: The only ones who can enter here..."
+  },
+  {
+   "id": 78,
+   "offset": 293253,
+   "text_jp": "お前と園忖だけのはずだろうが",
+   "translation_en": "should be you and Sonomura."
+  },
+  {
+   "id": 79,
+   "offset": 293337,
+   "text_jp": "入れないんだ",
+   "translation_en": "can't enter."
+  },
+  {
+   "id": 80,
+   "offset": 293428,
+   "text_jp": "嘩菫厘敷ブッ壞してセベクになってたんだよな?",
+   "translation_en": "They tore down the mansion and built SEBEC, right?"
+  },
+  {
+   "id": 81,
+   "offset": 293486,
+   "text_jp": "タイムスリップなんか?",
+   "translation_en": "Did we time slip or something?"
+  },
+  {
+   "id": 82,
+   "offset": 293520,
+   "text_jp": "悃希:こっちじゃ",
+   "translation_en": "Maki: In this world,"
+  },
+  {
+   "id": 83,
+   "offset": 293537,
+   "text_jp": "こうだったけど…",
+   "translation_en": "it was like this, but..."
+  },
+  {
+   "id": 84,
+   "offset": 293596,
+   "text_jp": "こんなトコ禾てる場合か?",
+   "translation_en": "Is this really the time to be coming to a place like this?!"
+  },
+  {
+   "id": 85,
+   "offset": 293614,
+   "text_jp": "他にやるコトあんだろ?",
+   "translation_en": "Don't we have other things to do?!"
+  },
+  {
+   "id": 86,
+   "offset": 293664,
+   "text_jp": "悃希:あの子は",
+   "translation_en": "Maki: That child..."
+  },
+  {
+   "id": 87,
+   "offset": 293677,
+   "text_jp": "もうだいじょぶだよ",
+   "translation_en": "is alright now."
+  },
+  {
+   "id": 88,
+   "offset": 293690,
+   "text_jp": "帛くしないと!",
+   "translation_en": "We have to hurry!"
+  },
+  {
+   "id": 89,
+   "offset": 293840,
+   "text_jp": "行くんじゃね{204}のかよ",
+   "translation_en": "Aren't we supposed to go?!"
+  },
+  {
+   "id": 90,
+   "offset": 293856,
+   "text_jp": "南茱:街を申てどうする気だ?",
+   "translation_en": "Nanjo: What do you plan to do leaving the town?!"
+  },
+  {
+   "id": 91,
+   "offset": 293879,
+   "text_jp": "痞畭に行くのだろうが",
+   "translation_en": "We are supposed to be going to the hospital!"
+  },
+  {
+   "id": 92,
+   "offset": 293920,
+   "text_jp": "キレるよ",
+   "translation_en": "I'm gonna lose it."
+  },
+  {
+   "id": 93,
+   "offset": 293926,
+   "text_jp": "街申てどうする気だい!",
+   "translation_en": "What do you plan to do leaving the town?!"
+  },
+  {
+   "id": 94,
+   "offset": 293945,
+   "text_jp": "まったく…",
+   "translation_en": "Good grief..."
+  },
+  {
+   "id": 95,
+   "offset": 294009,
+   "text_jp": "どうする気だ?",
+   "translation_en": "What are you planning to do?"
+  },
+  {
+   "id": 96,
+   "offset": 294026,
+   "text_jp": "街の東にいるんだぞ?",
+   "translation_en": "is to the east of town, you know?!"
+  },
+  {
+   "id": 97,
+   "offset": 294076,
+   "text_jp": "マ{204}ク:オイオイオイオイオイ!フラフラしてる場合か?",
+   "translation_en": "Mark: Whoa-whoa-whoa! Is this really the time to be wandering around?!"
+  },
+  {
+   "id": 98,
+   "offset": 294110,
+   "text_jp": "ゆ{204}ちょ{204}なヤツだな{204}!!",
+   "translation_en": "You're taking your sweet time, aren't ya?!"
+  },
+  {
+   "id": 99,
+   "offset": 294140,
+   "text_jp": "そっちじゃね{204}ぞ",
+   "translation_en": "It's not that way!"
+  },
+  {
+   "id": 100,
+   "offset": 294180,
+   "text_jp": "おじさん:オ{204}マイガッ!",
+   "translation_en": "Middle-aged Man: Oh my God!"
+  },
+  {
+   "id": 101,
+   "offset": 294243,
+   "text_jp": "入ると危ないぞ!",
+   "translation_en": "It's dangerous if you go in!"
+  },
+  {
+   "id": 102,
+   "offset": 294401,
+   "text_jp": "これ!?",
+   "translation_en": "What's this?!"
+  },
+  {
+   "id": 103,
+   "offset": 294409,
+   "text_jp": "学枚が無くなってる!!",
+   "translation_en": "The school is gone!!"
+  },
+  {
+   "id": 104,
+   "offset": 294427,
+   "text_jp": "由子やみんなは!?",
+   "translation_en": "Where are Yuko and everyone else?!"
+  },
+  {
+   "id": 105,
+   "offset": 294444,
+   "text_jp": "南茱:これも",
+   "translation_en": "Nanjo: Is this too..."
+  },
+  {
+   "id": 106,
+   "offset": 294455,
+   "text_jp": "デヴァ'システムの髯釁か…",
+   "translation_en": "the influence of the Deva System...?"
+  },
+  {
+   "id": 107,
+   "offset": 294483,
+   "text_jp": "ふざけた真傑を!",
+   "translation_en": "What outrageous mockery!"
+  },
+  {
+   "id": 108,
+   "offset": 294500,
+   "text_jp": "悃希:ほんとだ!",
+   "translation_en": "Maki: It's true!"
+  },
+  {
+   "id": 109,
+   "offset": 294514,
+   "text_jp": "学枚が無くなってる!",
+   "translation_en": "The school has disappeared!"
+  },
+  {
+   "id": 110,
+   "offset": 294566,
+   "text_jp": "これも神取の意圖なのか?",
+   "translation_en": "Is this also Kandori's doing?"
+  },
+  {
+   "id": 111,
+   "offset": 294587,
+   "text_jp": "いずれにしろ",
+   "translation_en": "In any case,"
+  },
+  {
+   "id": 112,
+   "offset": 294601,
+   "text_jp": "直悽どうにかできる",
+   "translation_en": "directly fixing this"
+  },
+  {
+   "id": 113,
+   "offset": 294614,
+   "text_jp": "レベルの聞題ではなさそうだな",
+   "translation_en": "does not seem to be a simple problem."
+  },
+  {
+   "id": 114,
+   "offset": 294654,
+   "text_jp": "ヤロ{204}に戻させるまでだ",
+   "translation_en": "We just have to make that bastard restore it."
+  },
+  {
+   "id": 115,
+   "offset": 294687,
+   "text_jp": "イヤっつ{204}ほど教えてやるぜ",
+   "translation_en": "We'll teach him a lesson he'll never forget!"
+  }
+ ]
+}

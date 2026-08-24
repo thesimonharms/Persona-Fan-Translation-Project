@@ -1,0 +1,2356 @@
+{
+ "file": "TALK/TINPRA",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 31,
+   "raw_hex": "052a80d5828f83680c134b2380d5fff6012e104880d5152e2383682e2f80cf",
+   "text_jp": "おれ,説得してぇも,<PAGE>あんたぁ,なんも得んが{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 1,
+   "offset": 8244,
+   "length_bytes": 48,
+   "raw_hex": "fff6051f4880d5817d2c28232e26194c80d7fff5051f48194c80d7fffcfff6821882690380d5848021152480d1fff662",
+   "text_jp": "<PAGE>おまぁ,変わりもんよのぉ…<LINE>おまぁのぉ…<CLOSE><PAGE>気安う,頼むなや!<PAGE>チ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 2,
+   "offset": 8291,
+   "length_bytes": 47,
+   "raw_hex": "7f809678827b4a1380d515222e152480d1fff5051f4880d53e288169852401290980d5fff6821816024d102c4880cf",
+   "text_jp": "ンピラ思ぅて,なめんなや!<LINE>おまぁ,ばり痍肭あるけ,<PAGE>気にいったわぁ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 3,
+   "offset": 8338,
+   "length_bytes": 52,
+   "raw_hex": "fff6052a190a1480d5853b2f272e0c80cffff5051f4880d5838981dd0d292e0680d0fff61f0104042c80d56280a2780910828526",
+   "text_jp": "<PAGE>おれのこと,怖がらんし{207}<LINE>おまぁ,挑芫するんか?<PAGE>まあええわ,チャラけた女よ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 4,
+   "offset": 8390,
+   "length_bytes": 53,
+   "raw_hex": "28fff6152e420680d5705d354e091880cffff5051f482f80d5052a838981dd0d29094bfff63e2882df16820d292e354e2b032f80d1",
+   "text_jp": "り<PAGE>なんぼか,マシじゃけね{207}<LINE>おまぁが,おれ挑芫するけぇ<PAGE>ばり腹に禾るんじゃろうが!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 5,
+   "offset": 8444,
+   "length_bytes": 33,
+   "raw_hex": "fff62422144d1081662f80d504043c4b80d1fff5052a2f83c448154d10094b80d5",
+   "text_jp": "<PAGE>やめとった方が,ええでぇ!<LINE>おれが弱ぁなったけぇ,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 6,
+   "offset": 8477,
+   "length_bytes": 59,
+   "raw_hex": "fff6812481251680d51522272a292e0680d7fff5051f4880d5052a2d84d3038218064880d0fffcfff6830381f980d581251682494c14292e2680cf",
+   "text_jp": "<PAGE>人間に,なめられるんか…<LINE>おまぁ,おれを訪う気かぁ?<CLOSE><PAGE>汢事,間に合ぉとるんよ{207}",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 7,
+   "offset": 8536,
+   "length_bytes": 57,
+   "raw_hex": "fff61e032680d5152e06082a4b2480cffff1fff5052a27164e80d5826a826b2580cc232e2f80d5fff60129094b1880d52039274880d5fff681",
+   "text_jp": "<PAGE>ほうよ,なんかくれぇや{207}<PAUSE><LINE>おれらにゃ,的車ゆ{204}もんが,<PAGE>あるけぇね,みだらぁ,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 8,
+   "offset": 8592,
+   "length_bytes": 34,
+   "raw_hex": "2481251481ce83c0152e3d80d50e2e80d1fff5052a1a80d5242214082c4880d7fffc",
+   "text_jp": "や間と交燠なんど,せん!<LINE>おれは,やめとくわぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 9,
+   "offset": 8627,
+   "length_bytes": 41,
+   "raw_hex": "fff62b081580d5830381f915062b030c80d7fff5422a4b822b832f354e194c80d1fff6052a1982da80",
+   "text_jp": "<PAGE>ろくな,汢事なかろうし…<LINE>ぼれぇ下手じゃのぉ!<PAGE>おれの芹",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 10,
+   "offset": 8667,
+   "length_bytes": 45,
+   "raw_hex": "d5080b29094b80d5fff6824f03152480d1fff5051f4880d526030f2e1548fff6822b832f16824f0429194c80d7",
+   "text_jp": ",くさるけぇ,<PAGE>歌うなや!<LINE>おまぁ,ようそんなぁ<PAGE>下手に歌えるのぉ…",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 11,
+   "offset": 8712,
+   "length_bytes": 49,
+   "raw_hex": "fffcfff6193d80d502062a14292e0680d7fff5051f4819824f024d452880d5fff66c808e581680d50f4d0828354e184b80",
+   "text_jp": "<CLOSE><PAGE>のど,いかれとるんか…<LINE>おまぁの歌いっぷり,<PAGE>ヒデキに,そっくりじゃねぇ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 12,
+   "offset": 8761,
+   "length_bytes": 54,
+   "raw_hex": "d1fff63e2880d5064d0a0480cc194c80cffff52c0219814380d5833a0c114e2810022ffff63d80cc0c2680cc061980cc80d7fffcfff6",
+   "text_jp": "!<PAGE>ばり,かっこえ{204}のぉ{207}<LINE>わいの力,貸しちゃりたいが<PAGE>ど{204}しよ{204}かの{204}…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 13,
+   "offset": 8815,
+   "length_bytes": 57,
+   "raw_hex": "1e354e0980d5152e06082a4b2480cffff1fff5012e1080d5627f80967815221429fff62c09354e80d51502354e2b194c80d1fffcfff62c0227",
+   "text_jp": "ほじゃけ,なんかくれぇや{207}<PAUSE><LINE>あんた,チンピラなめとる<PAGE>わけじゃ,ないじゃろのぉ!<CLOSE><PAGE>わいら",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 14,
+   "offset": 8872,
+   "length_bytes": 42,
+   "raw_hex": "80d5820f84bd81f98276354e15023d80d1fff5052a2d8480292e1a80d5fff6260580d52c06292c4880cf",
+   "text_jp": ",恙害事業じゃないど!<LINE>おれを頼るんは,<PAGE>よお,わかるわぁ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 15,
+   "offset": 8914,
+   "length_bytes": 49,
+   "raw_hex": "fff6012e1083af81d63c80d504042680cffff5051f482f80d586b322132380d5fff6814d863680d582fc0c4f0315023c80",
+   "text_jp": "<PAGE>あんた茫直で,ええよ{207}<LINE>おまぁが,裹めても,<PAGE>全然,娼しゅうないで",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 16,
+   "offset": 8963,
+   "length_bytes": 54,
+   "raw_hex": "d1fffcfff63e28835c82161239093c80d1fff5012e1080d50f2f80cc16822b832f16fff68198290a10481502354e2b80d7fffcfff606",
+   "text_jp": "!<CLOSE><PAGE>ばり腹立つだけで!<LINE>あんた,そが{204}に下手に<PAGE>申るこたぁないじゃろ…<CLOSE><PAGE>か",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 17,
+   "offset": 9017,
+   "length_bytes": 45,
+   "raw_hex": "044d1380d58286848f0b210315292c80d7fff5012e1080d5052a190a104880d5fff6264c80d52c064d14294a19",
+   "text_jp": "えって,菅筋さむうなるわ…<LINE>あんた,おれのこたぁ,<PAGE>よぉ,わかっとるぅの",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 18,
+   "offset": 9062,
+   "length_bytes": 47,
+   "raw_hex": "4c80d1fff63e2880d5032a0c023c4b80d1fff5012e1080d505232b02194c80cffff60f2f80cc1581f93c2380d585cb",
+   "text_jp": "ぉ!<PAGE>ばり,うれしいでぇ!<LINE>あんた,おもろいのぉ{207}<PAGE>そが{204}な事でも,粟",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 19,
+   "offset": 9109,
+   "length_bytes": 54,
+   "raw_hex": "811f80d5fff61e2e1f190a1406231980cffff5051f4880d5040406322e160e042680d1fff681261954601680d51b4d0606291e3d80d5",
+   "text_jp": "夘,<PAGE>ほんまのことかもの{207}<LINE>おまぁ,ええかげんにせえよ!<PAGE>女のウソに,ひっかかるほど,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 20,
+   "offset": 9163,
+   "length_bytes": 57,
+   "raw_hex": "fff6052a1a80d584aa09131580cc3d80d1fff5012e1080d554601207354e194c80cffff6627f809678391f0d80d52580cc2e152780d5fff63e",
+   "text_jp": "<PAGE>おれは,抜けてな{204}ど!<LINE>あんた,ウソつきじゃのぉ{207}<PAGE>チンピラだます,ゆ{204}んなら,<PAGE>ば",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 21,
+   "offset": 9220,
+   "length_bytes": 47,
+   "raw_hex": "2880d5821882490281ae2a1548190580d1fff5012e1080d5826982100e4b2480cffff6052a80d50404627f80967835",
+   "text_jp": "り,気合い入れなぁのお!<LINE>あんた,安沚せぇや{207}<PAGE>おれ,ええチンピラじ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 22,
+   "offset": 9267,
+   "length_bytes": 47,
+   "raw_hex": "4e094b80d5fff6857d0310280e2e2680cffff5051f482f80d50c4e4129152480d1fff6052a80d583dc81ba19812481",
+   "text_jp": "ゃけぇ,<PAGE>襲うたりせんよ{207}<LINE>おまぁが,しゃべるなや!<PAGE>おれ,普僵の人",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 23,
+   "offset": 9314,
+   "length_bytes": 55,
+   "raw_hex": "251afff68472815f15020980cc194c80d1fff5151680d52580cc14292e0602194c80d1fff6826982100e4b80d5052a271980837a80cc80",
+   "text_jp": "ゆは<PAGE>咆宇ないけ{204}のぉ!<LINE>なに,ゆ{204}とるんかいのぉ!<PAGE>安沚せぇ,おれらのグル{204}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 24,
+   "offset": 9369,
+   "length_bytes": 57,
+   "raw_hex": "971a80d5201584eb81fd81b8354e0980cffff5051f04194c80d5052a8285152e2680cffff61f36826282a902094b2480cf83af81bb152780d5",
+   "text_jp": "プは,みな坤土吋じゃけ{207}<LINE>おまえのぉ,おれ女なんよ{207}<PAGE>まず痞畭いけぇや{207}茫寅なら,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 25,
+   "offset": 9426,
+   "length_bytes": 61,
+   "raw_hex": "fff60f2a15281682dc04132429090480cffff5051f482780d5152e354e8267032e152780d1627f809678482f80d5830882181982851480d5fff6859a84",
+   "text_jp": "<PAGE>それなりに考えてやるけえ{207}<LINE>おまぁら,なんじゃ言うんなら!チンピラぁが,堅気の女と,<PAGE>肩",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 26,
+   "offset": 9487,
+   "length_bytes": 21,
+   "raw_hex": "f2411380d58337152e068244222e2c80d1fff5051f",
+   "text_jp": "∝べて,茶なんか飲めんわ!<LINE>おま",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 27,
+   "offset": 9508,
+   "length_bytes": 48,
+   "raw_hex": "4880d51a26844781841681d209042480d7fff5051f4880d50f19074d1149849e834080d5fff6052a2f834a2680cc2903",
+   "text_jp": "ぁ,はよ医者に行けえや…<LINE>おまぁ,そのきっちぃ定談,<PAGE>おれが笶よ{204}るう",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 28,
+   "offset": 9556,
+   "length_bytes": 58,
+   "raw_hex": "111680d5fff624221081662f04042680cffff5051f4880d53e2805232b02194c80cffff60f191f1f80d5858d8626823881cc0e4b2480cffff682",
+   "text_jp": "ちに,<PAGE>やめた方がええよ{207}<LINE>おまぁ,ばりおもろいのぉ{207}<PAGE>そのまま,洋七目指せぇや{207}<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 29,
+   "offset": 9614,
+   "length_bytes": 54,
+   "raw_hex": "cb83511f2e354f0384a24a1029094b80cffff5040406322e160e042680d1fff6121f272e80945a16815681c52c082c4880d1fff6051f",
+   "text_jp": ":葉まんじゅう賞ぅたるけぇ{207}<LINE>ええかげんにせえよ!<PAGE>つまらんボケに殺意わくわぁ!<PAGE>おま",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 30,
+   "offset": 9668,
+   "length_bytes": 17,
+   "raw_hex": "4880d581f482e719811884ab354e1980d1",
+   "text_jp": "ぁ,不快の犬才じゃの!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 31,
+   "offset": 9685,
+   "length_bytes": 43,
+   "raw_hex": "fff580b880a680a9150c808b7180cc80cffff5051f4880d505232b02194c80cffff6052a80d50f2f481580",
+   "text_jp": "<LINE>SADなしダミ{204}{207}<LINE>おまぁ,おもろいのぉ{207}<PAGE>おれ,そがぁな",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 32,
+   "offset": 9728,
+   "length_bytes": 53,
+   "raw_hex": "8280a2808380d5fff6828007152e2680cffff5051f4880d5052a1481aa0c10022e0680d0fff61e152780d5352a4d1048814081ec07",
+   "text_jp": "好ャグ,<PAGE>好きなんよ{207}<LINE>おまぁ,おれと話したいんか?<PAGE>ほなら,じれったぁ前置き",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 33,
+   "offset": 9781,
+   "length_bytes": 17,
+   "raw_hex": "1a80d5fff61707160c1380d504042c80cf",
+   "text_jp": "は,<PAGE>ぬきにして,ええわ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 34,
+   "offset": 9798,
+   "length_bytes": 61,
+   "raw_hex": "fff505232b150281aa80d50d2e152480d1fff5051f4880d5821a858e81dd83bc8405813824194c80d1fff6052a80d53e2881bc81b8354e0980d5fff60f",
+   "text_jp": "<LINE>おもろない話,すんなや!<LINE>おまぁ,惰報芫信圉地やのぉ!<PAGE>おれ,ばり知吋じゃけ,<PAGE>そ",
+   "notes": "",
+   "translation_en": "<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 35,
+   "offset": 9859,
+   "length_bytes": 51,
+   "raw_hex": "2f80cc1581aa80d58111846e84102680cffff5051f4880d502071528152e184b80d080d1fff62c0c80d54011854408094b80d5",
+   "text_jp": "が{204}な話,大歡迎よ{207}<LINE>おまぁ,いきなりなんねぇ?!<PAGE>わし,ぶち鷲くけぇ,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 36,
+   "offset": 9910,
+   "length_bytes": 46,
+   "raw_hex": "fff6830406271a80d5840d0609042680cffff58544060d4a2e1a80d5fff682e8832f354e093d80d5052a161a80d5",
+   "text_jp": "<PAGE>坎からは,声かけえよ{207}<LINE>鷲かすぅんは,<PAGE>勝手じゃけど,おれには,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 37,
+   "offset": 9957,
+   "length_bytes": 40,
+   "raw_hex": "fff60839272e0a1480d50d2e152480cc80d1fff5051f4880d5052a853b4815022e064880d7fff611",
+   "text_jp": "<PAGE>くだらんこと,すんなや{204}!<LINE>おまぁ,おれ怖ぁないんかぁ…<PAGE>ち",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 38,
+   "offset": 9996,
+   "length_bytes": 48,
+   "raw_hex": "491480d581bb83eb846f091429194c80d7fff51a1a482e80d7051f4880d5fff60404140a1980947f80947f354e2b80d0",
+   "text_jp": "ぃと,寅識欠けとるのぉ…<LINE>ははぁん…おまぁ,<PAGE>ええとこのボンボンじゃろ?",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 39,
+   "offset": 10044,
+   "length_bytes": 48,
+   "raw_hex": "fffcfff6052a2780d5842682c9261980cffff5627f809678354e092580cc1380d5fff681873c122a29827b031429354e",
+   "text_jp": "<CLOSE><PAGE>おれら,友運よの{207}<LINE>チンピラじゃけゆ{204}て,<PAGE>物でつれる思うとるじゃ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 40,
+   "offset": 10092,
+   "length_bytes": 35,
+   "raw_hex": "2b80d1fff6051f4880d515222e152480d1fff50e4d0608354e0980d5232b03140a80cf",
+   "text_jp": "ろ!<PAGE>おまぁ,なめんなや!<LINE>せっかくじゃけ,もろうとこ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 41,
+   "offset": 10128,
+   "length_bytes": 50,
+   "raw_hex": "fff682d682411a4880d512021429194c80d1fff5051f4880d53e28868d8143012e194c80d1fff684b2816e833448154d1027",
+   "text_jp": "<PAGE>今巳はぁ,ついとるのぉ!<LINE>おまぁ,ばり遺力あんのぉ!<PAGE>畋冶家ぁなったら",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 42,
+   "offset": 10177,
+   "length_bytes": 28,
+   "raw_hex": "80d5fff6040482ed35354e2b80cc1980d1fff52112060c024981aa0e",
+   "text_jp": ",<PAGE>ええ感じじゃろ{204}の!<LINE>むつかしいぃ話せ",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 43,
+   "offset": 10205,
+   "length_bytes": 51,
+   "raw_hex": "2e1480d5fff6114914842f06160e2480cffff5051f4880d5834a060c13082a292c4880d1fff6824e82dd2f0f2f80cc150a1482",
+   "text_jp": "んと,<PAGE>ちぃと静かにせや{207}<LINE>おまぁ,笶かしてくれるわぁ!<PAGE>子供がそが{204}なこと",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 44,
+   "offset": 10256,
+   "length_bytes": 38,
+   "raw_hex": "6703191a80d5fff6114914834c023c80d1fff5051f4880d50404821085ff234d1429194c80cf",
+   "text_jp": "ニうのは,<PAGE>ちぃと帛いで!<LINE>おまぁ,ええ沚膕もっとるのぉ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 45,
+   "offset": 10294,
+   "length_bytes": 39,
+   "raw_hex": "052a1480d55b7f8091832e22293c4b80d1fff5051f4880d5052a1424292e0680d0fff6832f4b17",
+   "text_jp": "おれと,コンビ租めるでぇ!<LINE>おまぁ,おれとやるんか?<PAGE>手ぇぬ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 46,
+   "offset": 10333,
+   "length_bytes": 31,
+   "raw_hex": "062e094b80d5fff6826f83c60c492480d1fff5051f4880d51516232e154880",
+   "text_jp": "かんけぇ,<PAGE>覚悟しぃや!<LINE>おまぁ,なにもんなぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 47,
+   "offset": 10364,
+   "length_bytes": 55,
+   "raw_hex": "d7fffcfff6052a278162832483963c80d7fff5051f4880d5040483b5824e354e1980d1fff60f2b0f2b80d5052a2382b983a180d5fff681",
+   "text_jp": "…<CLOSE><PAGE>おれら無関係で…<LINE>おまぁ,ええ諢子じゃの!<PAGE>そろそろ,おれも瓮罘,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 48,
+   "offset": 10419,
+   "length_bytes": 46,
+   "raw_hex": "fb12819282502580cc0a14152e061980cffff5051f4880d5040406322e160e042680d1fff6052a5b5a160d292e1a",
+   "text_jp": "堅つ時期ゆ{204}ことなんかの{207}<LINE>おまぁ,ええかげんにせえよ!<PAGE>おれコケにするんは",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 49,
+   "offset": 10465,
+   "length_bytes": 44,
+   "raw_hex": "80d5fff6422a4b80d5834c023c80d180d1fff50110288140264c80d1fff6052a80d5809079809079354e0980",
+   "text_jp": ",<PAGE>ぼれぇ,帛いで!!<LINE>あたり前よぉ!<PAGE>おれ,バリバリじゃけ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 50,
+   "offset": 10509,
+   "length_bytes": 52,
+   "raw_hex": "d5fff61f3980d582d422340d094b1980d1fff5051f4880d5264c8385033302142e194c80d15d7f8085201002354e2e0680d1fff6",
+   "text_jp": ",<PAGE>まだ,部めざすけぇの!<LINE>おまぁ,よぉ騰うごいとんのぉ!シンゴみたいじゃんか!<PAGE>",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 51,
+   "offset": 10561,
+   "length_bytes": 32,
+   "raw_hex": "052a80d580927b5359828007152e2680cffff52c2a80d5404d0b0208354e194c",
+   "text_jp": "おれ,ブレイク好きなんよ{207}<LINE>われ,ぶっさいくじゃのぉ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 52,
+   "offset": 10593,
+   "length_bytes": 54,
+   "raw_hex": "80d7fff6230384a329152480cc80d180d1fff5051f4880d584a32a292e241580d7fffcfff61e354e2f80d5422a04834882640e1580d5",
+   "text_jp": "…<PAGE>もう錘るなや{204}!!<LINE>おまぁ,錘れるんやな…<CLOSE><PAGE>ほじゃが,ぼれえ練瓷せな,",
+   "notes": "",
+   "translation_en": "…<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 53,
+   "offset": 10647,
+   "length_bytes": 53,
+   "raw_hex": "fff65d7f808516164e80d5152a2e3c80d1fff5051f4880d5052a838981dd0d292e0680d0fff61f0104042c80d56280a27809108285",
+   "text_jp": "<PAGE>シンゴににゃ,なれんで!<LINE>おまぁ,おれ挑芫するんか?<PAGE>まあええわ,チャラけた女",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 54,
+   "offset": 10700,
+   "length_bytes": 49,
+   "raw_hex": "2628fff6152e420680d5705d354e2c80cffff5051f4880d582d72580cc14292e2480d1fff63e2882df16820d29094b80d5",
+   "text_jp": "より<PAGE>なんぼか,マシじゃわ{207}<LINE>おまぁ,何ゆ{204}とるんや!<PAGE>ばり腹に禾るけぇ,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 55,
+   "offset": 10750,
+   "length_bytes": 36,
+   "raw_hex": "fff6391f4d144c1081662f80d504043d80d1fff5052a2f83c448154d10094b80d5fff681",
+   "text_jp": "<PAGE>だまっとぉた方が,ええど!<LINE>おれが弱ぁなったけぇ,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 56,
+   "offset": 10785,
+   "length_bytes": 58,
+   "raw_hex": "2481251680d51522272a292e06194c80d7fff5051f4880d50404816985240c14294a194c80d7fffc052a1982384b80d582724d81d631821b2982",
+   "text_jp": "や間に,なめられるんかのぉ…<LINE>おまぁ,ええ痍肭しとるぅのぉ…<CLOSE>おれの目ぇ,真っ直ぐ見る",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 57,
+   "offset": 10843,
+   "length_bytes": 37,
+   "raw_hex": "5280d5fff61b0b0c494028354e194c80d1fff5051f4880d582d680817f81173e0c102b80d1",
+   "text_jp": "ア,<PAGE>ひさしぃぶりじゃのぉ!<LINE>おまぁ,今ガン瓶ばしたろ!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 58,
+   "offset": 10881,
+   "length_bytes": 52,
+   "raw_hex": "fff63e2880d582df0829354e2b80cc2f80d1fff5051f4880d51149141a822182fa0e042680cffff60f2f0116821b272a102780d5",
+   "text_jp": "<PAGE>ばり,腹くるじゃろ{204}が!<LINE>おまぁ,ちぃとは遠竃せえよ{207}<PAGE>そがあに見られたら,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 59,
+   "offset": 10933,
+   "length_bytes": 50,
+   "raw_hex": "fff61e2e1f80d5821881fb11813d023c80cffff5051f4880d5011e354e1580cc2e0680d0fff60f2f481580d5811180947882",
+   "text_jp": "<PAGE>ほんま,気持ち悪いで{207}<LINE>おまぁ,あほじゃな{204}んか?<PAGE>そがぁな,大ボラ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 60,
+   "offset": 10982,
+   "length_bytes": 53,
+   "raw_hex": "d8082e1a80d5fff683cd2213354e2c80d1fff5051f4880d5040406322e160e042680d1fff68081581981118094780827481e3d80d5",
+   "text_jp": "(くんは,<PAGE>枌めてじゃわ!<LINE>おまぁ,ええかげんにせえよ!<PAGE>ガキの大ボラくらぁほど,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 61,
+   "offset": 11036,
+   "length_bytes": 58,
+   "raw_hex": "fff6052a80d584aa0914272e0980cc1980d1fff5051f4880d56f781c07354e194c80cffff6627f809678391f0d80d52580cc2e152780d5fff63e",
+   "text_jp": "<PAGE>おれ,抜けとらんけ{204}の!<LINE>おまぁ,ホラふきじゃのぉ{207}<PAGE>チンピラだます,ゆ{204}んなら,<PAGE>ば",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 62,
+   "offset": 11093,
+   "length_bytes": 53,
+   "raw_hex": "2880d5821882490281ae2a1548190580d1fff5051f4880d5052a27627f80967848fff61522080b4d142e354e15062b031980d10f2f",
+   "text_jp": "り,気合い入れなぁのお!<LINE>おまぁ,おれらチンピラぁ<PAGE>なめくさっとんじゃなかろうの!そが",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 63,
+   "offset": 11146,
+   "length_bytes": 37,
+   "raw_hex": "80cc151581aa3c80d5853b2f29064880d1fff5052a80d5012e1f836881c5354e15023c80d7",
+   "text_jp": "{204}なな話で,怖がるかぁ!<LINE>おれ,あんま得意じゃないで…",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 64,
+   "offset": 11184,
+   "length_bytes": 61,
+   "raw_hex": "fffcfff680d780d780d7072702152e2680d7fff581262580cc232e1a80d50f2f80cc1581aa80d5fff61e2e1f80d5828007354e184b80d1fffcfff681e3",
+   "text_jp": "<CLOSE><PAGE>………きらいなんよ…<LINE>女ゆ{204}もんは,そが{204}な話,<PAGE>ほんま,好きじゃねぇ!<CLOSE><PAGE>戸",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 65,
+   "offset": 11244,
+   "length_bytes": 47,
+   "raw_hex": "82064b062780d51f80d50404093d1980cffff5012e1080d5813d0315023c4b80d1fff6824f832f16154d144d102780",
+   "text_jp": "愛ぇから,ま,ええけどの{207}<LINE>あんた,悪うないでぇ!<PAGE>歌手になっとったら",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 66,
+   "offset": 11291,
+   "length_bytes": 55,
+   "raw_hex": "d5fff6094d0a0302090f03354e194c80d1fff5051f4880d50f284e02092e2c4880d1fff6665671394d1380d523110214705d16fff68082",
+   "text_jp": ",<PAGE>けっこういけそうじゃのぉ!<LINE>おまぁ,そりゃいけんわぁ!<PAGE>ナオミだって,もちいとマシに<PAGE>ギ",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 67,
+   "offset": 11346,
+   "length_bytes": 53,
+   "raw_hex": "80866b80cc65824f4c142e354e091980d1fff5012e1080d50404840d354e194c80d1fff60c062380d50404851d354e0c80d1fff60a",
+   "text_jp": "ザハ{204}ト歌ぉとんじゃけの!<LINE>あんた,ええ声じゃのぉ!<PAGE>しかも,ええ岡じゃし!<PAGE>こ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 68,
+   "offset": 11399,
+   "length_bytes": 51,
+   "raw_hex": "284e80d58218823704043b080c264c80d1fff5012e1080d5812b826f4a821b14292e0680d0fff62c0280d53d03821b104d1380",
+   "text_jp": "りゃ,気分ええづくしよぉ!<LINE>あんた,幻覚ぅ見とるんか?<PAGE>わい,どう見たって",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 69,
+   "offset": 11450,
+   "length_bytes": 54,
+   "raw_hex": "d5fff6824e82dd354e1502092e194c80d7fff5051f4880d5040406322e160e042680d1fff6012e102f80d52c021983a0152e1527fff6",
+   "text_jp": ",<PAGE>子供じゃないけんのぉ…<LINE>おまぁ,ええかげんにせえよ!<PAGE>あんたが,わいの覬なんなら<PAGE>",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 70,
+   "offset": 11504,
+   "length_bytes": 57,
+   "raw_hex": "82d680d582d784ab152e354e0180d180d1fff5012e1080d5144d4450030c1502194c80d11f80d581fc81811a80d5817d81630c101e032f80d5",
+   "text_jp": "今,何才なんじゃあ!!<LINE>あんた,とっぴょうしないのぉ!ま,生活は,変化したほうが,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 71,
+   "offset": 11561,
+   "length_bytes": 58,
+   "raw_hex": "fff605232b031380d50404093d194c80d1fff5012e1080d5052a2d84d3038218064880d0fff6830381f94c1a80d581251682494c1429094b80d5",
+   "text_jp": "<PAGE>おもろうて,ええけどのぉ!<LINE>あんた,おれを訪う気かぁ?<PAGE>汢事ぉは,間に合ぉとるけぇ,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 72,
+   "offset": 11620,
+   "length_bytes": 57,
+   "raw_hex": "fff61e032680d5152e06082a4b2480cffff1fff5052a27164e80d5826a826b2580cc232e2f80d5fff60129094b80d52039271680d5fff68124",
+   "text_jp": "<PAGE>ほうよ,なんかくれぇや{207}<PAUSE><LINE>おれらにゃ,的車ゆ{204}もんが,<PAGE>あるけぇ,みだらに,<PAGE>人",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 73,
+   "offset": 11676,
+   "length_bytes": 48,
+   "raw_hex": "81251481ce83c0152e0680d50e2e2680d1fff5012e1080d5812581d781b81680d5fff6052a190a1484d32680cc272e80",
+   "text_jp": "間と交燠なんか,せんよ!<LINE>あんた,間悽吋に,<PAGE>おれのこと訪よ{204}らん",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 74,
+   "offset": 11724,
+   "length_bytes": 40,
+   "raw_hex": "d0fff61e2e1f1a80d51e03152e261880cffff5012e1080d50404821085ff234d14291580cffff605",
+   "text_jp": "?<PAGE>ほんまは,ほうなんよね{207}<LINE>あんた,ええ沚膕もっとるな{207}<PAGE>お",
+   "notes": "",
+   "translation_en": "?<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 75,
+   "offset": 11764,
+   "length_bytes": 48,
+   "raw_hex": "2a1480d55780a180977a152a293c4b80d1fff5051f4880d55a621209292e0680d180d0fff6052a1a80d581263c2382ec",
+   "text_jp": "れと,カップルなれるでぇ!<LINE>おまぁ,ケチつけるんか!?<PAGE>おれは,女でも許",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 76,
+   "offset": 11812,
+   "length_bytes": 33,
+   "raw_hex": "0b2e094b80d5fff6826f83c60e042680d1fff5012e1080d5152e354e1980d7fffc",
+   "text_jp": "さんけぇ,<PAGE>覚悟せえよ!<LINE>あんた,なんじゃの…<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 77,
+   "offset": 11846,
+   "length_bytes": 46,
+   "raw_hex": "fff6052a16864a203c2301292e0680d080d7fff5012e1080d5813d028126354e1980d7fffcfff6052a80d5821085",
+   "text_jp": "<PAGE>おれに懆みでもあるんか?…<LINE>あんた,悪い女じゃの…<CLOSE><PAGE>おれ,沚",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 78,
+   "offset": 11891,
+   "length_bytes": 17,
+   "raw_hex": "ff3e48083e4808fff62580cc14293c80d1",
+   "text_jp": "[3e]ぁくばぁく<PAGE>ゆ{204}とるで!",
+   "notes": "",
+   "translation_en": "[3e]Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 79,
+   "offset": 11909,
+   "length_bytes": 35,
+   "raw_hex": "fff5824e82dd2f84d3826d152e060d1580d1fff5012e1080d504040a142503194c80d1",
+   "text_jp": "<LINE>子供が訪惑なんかすな!<LINE>あんた,ええことゆうのぉ!",
+   "notes": "",
+   "translation_en": "<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 80,
+   "offset": 11944,
+   "length_bytes": 46,
+   "raw_hex": "fff6152e0680d582fc0c4f0315292c4880d1fff5012e1080d582d7852207502e1880d0fff6812481fc8230022e35",
+   "text_jp": "<PAGE>なんか,娼しゅうなるわぁ!<LINE>あんた,何泣きょんね?<PAGE>人生長いんじ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 81,
+   "offset": 11989,
+   "length_bytes": 56,
+   "raw_hex": "4e0980d5fff681f0821881980c022480cffff5051f4880d510393c815a090829fff6827b03144d102780d58239023c4b80d1fffcfff6152e",
+   "text_jp": "ゃけ,<PAGE>赱気申しいや{207}<LINE>おまぁ,ただで肪けくる<PAGE>思うとったら,甘いでぇ!<CLOSE><PAGE>なん",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 82,
+   "offset": 12045,
+   "length_bytes": 42,
+   "raw_hex": "420680d52327030980cc1980d180d1fff1fff5012e1080d58222836b0c1429194c80d7fffcfff6812481",
+   "text_jp": "ぼか,もらうけ{204}の!!<PAUSE><LINE>あんた,苦労しとるのぉ…<CLOSE><PAGE>人",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 83,
+   "offset": 12087,
+   "length_bytes": 44,
+   "raw_hex": "252580cc232e1a80d5074d1202194c80d7fff5012e1080d50f2a3cfff6859c0c1429122328152e0680d0fffc",
+   "text_jp": "ゆゆ{204}もんは,きっついのぉ…<LINE>あんた,それで<PAGE>脅しとるつもりなんか?<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 84,
+   "offset": 12132,
+   "length_bytes": 49,
+   "raw_hex": "fff61149141a80d55b5d81ae2a15481580d1fff5051f4880d582d7492580cc14292e1580d1fff63e2882df16820d29094b",
+   "text_jp": "<PAGE>ちぃとは,コシ入れなぁな!<LINE>おまぁ,何ぃゆ{204}とるんな!<PAGE>ばり腹に禾るけぇ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 85,
+   "offset": 12180,
+   "length_bytes": 37,
+   "raw_hex": "80d5fff60c22132380d50480cc2e3c80d1fff5012e1080d5054d0f2b0c02194c80d7fff615",
+   "text_jp": ",<PAGE>しめても,え{204}んで!<LINE>あんた,おっそろしいのぉ…<PAGE>な",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 86,
+   "offset": 12217,
+   "length_bytes": 54,
+   "raw_hex": "2e0680d582798120198126354e184b80d7fff5051f4880d582d72580cc14292e154880d1fff60a284e80d5849e8340354e15062b80d1",
+   "text_jp": "んか,据道の女じゃねぇ…<LINE>おまぁ,何ゆ{204}とるんなぁ!<PAGE>こりゃ,定談じゃなかろ!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 87,
+   "offset": 12272,
+   "length_bytes": 36,
+   "raw_hex": "fff60a02121a80d51e2e1f834a042e3c80d1fff5012e1080d5853b02194c80d7fffcfff6",
+   "text_jp": "<PAGE>こいつは,ほんま笶えんで!<LINE>あんた,怖いのぉ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 88,
+   "offset": 12307,
+   "length_bytes": 39,
+   "raw_hex": "0f1982384b80d53e28853b02354e2e80d7fff5012e1080d582e8118218354e194c80cffff6052a",
+   "text_jp": "その目ぇ,ばり怖いじゃん…<LINE>あんた,勝ち気じゃのぉ{207}<PAGE>おれ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 89,
+   "offset": 12346,
+   "length_bytes": 42,
+   "raw_hex": "80d50f2f80cc158126828007152e2680d1fff5012e1080d53e28831502194c80d1fff62c0280d50f0302",
+   "text_jp": ",そが{204}な女好きなんよ!<LINE>あんた,ばり賢いのぉ!<PAGE>わい,そうい",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 90,
+   "offset": 12388,
+   "length_bytes": 34,
+   "raw_hex": "032e80d5152e06fff60c3f2a292c4880d7fff5051f4880d5114914817a2a80cffff6",
+   "text_jp": "うん,なんか<PAGE>しびれるわぁ…<LINE>おまぁ,ちぃと黙れ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 91,
+   "offset": 12422,
+   "length_bytes": 50,
+   "raw_hex": "812619050c4e41281a80d58280062e80d1fff5012e1080d5834a060d15244880d1fff6824e82dd2f2580cc2e1a80d5114914",
+   "text_jp": "女のおしゃべりは,好かん!<LINE>あんた,笶かすなやぁ!<PAGE>子供がゆ{204}んは,ちぃと",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 92,
+   "offset": 12472,
+   "length_bytes": 54,
+   "raw_hex": "834c48fff681e283f5354e0716194c80d1fff5051f4880d515162580cc14292e1580d1fff6422a4b81fc81c58218491580d58126354e",
+   "text_jp": "帛ぁ<PAGE>内容じゃきにのぉ!<LINE>おまぁ,なにゆ{204}とるんな!<PAGE>ぼれぇ生意気ぃな,女じゃ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 93,
+   "offset": 12526,
+   "length_bytes": 29,
+   "raw_hex": "194c80d1815083780b0e102b4c064880d1fff5052a2f813d022e2680cf",
+   "text_jp": "のぉ!後恒させたろぉかぁ!<LINE>おれが悪いんよ{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 94,
+   "offset": 12555,
+   "length_bytes": 37,
+   "raw_hex": "fff6230380d5863c272e3c082a4b2480d7fff5012e1080d58397815881ae4d108126354e19",
+   "text_jp": "<PAGE>もう,叱らんでくれぇや…<LINE>あんた,根忤入った女じゃの",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 95,
+   "offset": 12592,
+   "length_bytes": 48,
+   "raw_hex": "4a80d70404813983a016152a293c4b80d1fff5152e154880d5012e1080d5052a14fff681aa01292e354e15022e064880",
+   "text_jp": "ぅ…ええ毋覬になれるでぇ!<LINE>なんなぁ,あんた,おれと<PAGE>話あるんじゃないんかぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 96,
+   "offset": 12640,
+   "length_bytes": 43,
+   "raw_hex": "d0fff6422a4b80d58218161529194c80d1fff5051f482f80d5834f221080d5fff681ce83c0354e15022e06",
+   "text_jp": "?<PAGE>ぼれぇ,気になるのぉ!<LINE>おまぁが,始めた,<PAGE>交燠じゃないんか",
+   "notes": "",
+   "translation_en": "?<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 97,
+   "offset": 12683,
+   "length_bytes": 35,
+   "raw_hex": "80d080d1fffcfff640111f2c0d80d180d1fff581261680d50d060b2a292e0680d7fffc",
+   "text_jp": "?!<CLOSE><PAGE>ぶちまわす!!<LINE>女に,すかされるんか…<CLOSE>",
+   "notes": "",
+   "translation_en": "?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 98,
+   "offset": 12719,
+   "length_bytes": 49,
+   "raw_hex": "fff6052a2380d5808b734b154d10194c80d7fff5152e354e80d5051f4880d5052a14fff681aa01292e354e15022e064880",
+   "text_jp": "<PAGE>おれも,ダメぇなったのぉ…<LINE>なんじゃ,おまぁ,おれと<PAGE>話あるんじゃないんかぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 99,
+   "offset": 12767,
+   "length_bytes": 47,
+   "raw_hex": "d0fff6422a4b80d58218161529194c80d1fff5051f482f80d5834f221080d5fff681ce83c0354e15022e0680d080d1",
+   "text_jp": "?<PAGE>ぼれぇ,気になるのぉ!<LINE>おまぁが,始めた,<PAGE>交燠じゃないんか?!",
+   "notes": "",
+   "translation_en": "?<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 100,
+   "offset": 12814,
+   "length_bytes": 37,
+   "raw_hex": "fffcfff6040406322e160e4b2480d180d1fff5051f4880d581b785cf8619073d292e0680d7",
+   "text_jp": "<CLOSE><PAGE>ええかげんにせぇや!!<LINE>おまぁ,一匹猜きどるんか…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 101,
+   "offset": 12852,
+   "length_bytes": 46,
+   "raw_hex": "fffcfff61f0180d50f2a230404354e2b80d7fff5051f4880d50f2a3c859c0c144afff6122328152e0680d0fff682",
+   "text_jp": "<CLOSE><PAGE>まあ,それもええじゃろ…<LINE>おまぁ,それで脅しとぅ<PAGE>つもりなんか?<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 102,
+   "offset": 12897,
+   "length_bytes": 48,
+   "raw_hex": "85152e152780d55b5d81ae2a15481580d1fff5051f4880d582d72580cc14292e2480d1fff63e2882df16820d29094b80",
+   "text_jp": "呵んなら,コシ入れなぁな!<LINE>おまぁ,何ゆ{204}とるんや!<PAGE>ばり腹に禾るけぇ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 103,
+   "offset": 12945,
+   "length_bytes": 40,
+   "raw_hex": "d5fff60c22104d132380d5044b2e3c80d1fff5051f4880d5053d2b0c02194c80d7fffcfff6052a80",
+   "text_jp": ",<PAGE>しめたっても,えぇんで!<LINE>おまぁ,おどろしいのぉ…<CLOSE><PAGE>おれ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 104,
+   "offset": 12985,
+   "length_bytes": 51,
+   "raw_hex": "d582d6814b80d580955e0c1029094b80d7fff5051f4880d582d7492580cc14292e1580d1fff63e2882df820d29194c80cffff6",
+   "text_jp": ",今日,パスしたるけぇ…<LINE>おまぁ,何ぃゆ{204}とるんな!<PAGE>ばり腹禾るのぉ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 105,
+   "offset": 13036,
+   "length_bytes": 32,
+   "raw_hex": "391f4d144c1081662f80d504043c4b80d1fff5052a2f83c448154d10094b80d5",
+   "text_jp": "だまっとぉた方が,ええでぇ!<LINE>おれが弱ぁなったけぇ,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 106,
+   "offset": 13069,
+   "length_bytes": 54,
+   "raw_hex": "fff6812481251680d51522272a292e0680d7fff5051f4b194c80d584ea402e1a04042f80d5fff623114914812482181548140a81de41",
+   "text_jp": "<PAGE>人間に,なめられるんか…<LINE>おまぇのぉ,町ぶんはええが,<PAGE>もちぃと人気なぁとこ選べ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 107,
+   "offset": 13122,
+   "length_bytes": 48,
+   "raw_hex": "4b2680d70f19031180d512061f293c80cffff5051f4880d505232b02194c80d1fff6052a1480d55b7f8091832e1f2e06",
+   "text_jp": "ぇよ…そのうち,つかまるで{207}<LINE>おまぁ,おもろいのぉ!<PAGE>おれと,コンビ租まんか",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 108,
+   "offset": 13170,
+   "length_bytes": 37,
+   "raw_hex": "4880d0fff6040482ed354915293c4b80d1fff5051f4880d582d63d07832f81ac0602194c80",
+   "text_jp": "ぁ?<PAGE>ええ感じぃなるでぇ!<LINE>おまぁ,今どき手品かいのぉ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 109,
+   "offset": 13207,
+   "length_bytes": 54,
+   "raw_hex": "d7fffcfff611491480d5243e062b0380d7fff5051f4880d50f2f80cc150a1416fff682df81274a102780d5234d1015023c4b80d1fff6",
+   "text_jp": "…<CLOSE><PAGE>ちぃと,やばかろう…<LINE>おまぁ,そが{204}なことに<PAGE>腹払ぅたら,もったないでぇ!<PAGE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 110,
+   "offset": 13261,
+   "length_bytes": 60,
+   "raw_hex": "113f4d14152e354e09811181f9160c80cffff5012e1080d504284e01831502194c80cffff6627f8096781419837c0782490281664880d5fff6837281",
+   "text_jp": "ちびっとなんじゃけ大事にし{207}<LINE>あんた,えりゃあ賢いのぉ{207}<PAGE>チンピラとの村き合い方ぁ,<PAGE>重",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 111,
+   "offset": 13321,
+   "length_bytes": 58,
+   "raw_hex": "108210836814292e354e2b4c1980cffff1fff5052a1481ce83c00d298218152e0680d0fff6152780d5832f83d92503232e833004114e2980cf1f",
+   "text_jp": "た沚得とるんじゃろぉの{207}<PAUSE><LINE>おれと交燠する気なんか?<PAGE>なら,手順ゆうもん教えちゃる{207}ま",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 112,
+   "offset": 13379,
+   "length_bytes": 53,
+   "raw_hex": "361a80d50404818782fd0d2e2480cffff1fff5052a1a80d5842f85094d1203232e80d5fff604284e01828007158285152e261880cf",
+   "text_jp": "ずは,ええ物宸すんや{207}<PAUSE><LINE>おれは,静寂っつうもん,<PAGE>えりゃあ好きな女なんよね{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 113,
+   "offset": 13433,
+   "length_bytes": 60,
+   "raw_hex": "fffcfff60f0a271d2e82dc0414094b2480cffff5051f4880d581aa0c490d298218152e152780d5832f83d92503232e80d581fe271502092e3c80d11f",
+   "text_jp": "<CLOSE><PAGE>そこらへん考えとけぇや{207}<LINE>おまぁ,話しぃする気なんなら,手順ゆうもん,守らないけんで!ま",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 114,
+   "offset": 13492,
+   "length_bytes": 44,
+   "raw_hex": "361a81980d232e80d581980e2480cffff1fff583088218232e2f80d5152e1981db152780d7fffcfff6052a80",
+   "text_jp": "ずは申すもん,申せや{207}<PAUSE><LINE>堅気もんが,なんの注なら…<CLOSE><PAGE>おれ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 115,
+   "offset": 13536,
+   "length_bytes": 57,
+   "raw_hex": "d581a982492f01290980cc80d780d780d7fff5052a1681aa0c0609292503102780d5fff61f4d14031580d581248112354e15011980d7fff601",
+   "text_jp": ",会合があるけ{204}………<LINE>おれに話しかけるゆうたら,<PAGE>まっとうな,人僮じゃなあの…<PAGE>あ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 116,
+   "offset": 13593,
+   "length_bytes": 51,
+   "raw_hex": "2e1080d5152e0681980c13200280cffff1fff5012e1080d526030c4e412982ca80d5fff681fb4d1429194c80cf839e81ff81fd",
+   "text_jp": "んた,なんか申してみい{207}<PAUSE><LINE>あんた,ようしゃべる日,<PAGE>持っとるのぉ{207}并護土",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 117,
+   "offset": 13644,
+   "length_bytes": 39,
+   "raw_hex": "16fff6154d1081920280d51019211980cffff5260382c61112021429194c80cffff6828081c519",
+   "text_jp": "に<PAGE>なった時い,たのむの{207}<LINE>よう藩ちついとるのぉ{207}<PAGE>好意の",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 118,
+   "offset": 13683,
+   "length_bytes": 56,
+   "raw_hex": "85481680d5818723274d140a0680cffff1fff5012e1080d50404839781580c14291980cffff60f2f481581ce83c00d2982521a80d5fff681",
+   "text_jp": "卯に,物もらっとこか{207}<PAUSE><LINE>あんた,ええ根忤しとるの{207}<PAGE>そがぁな交燠する奴は,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 119,
+   "offset": 13739,
+   "length_bytes": 44,
+   "raw_hex": "b784788124161a80d50f0305272e3c80cffff5012e1027481982dc044b80d5fff6264c2c064d1080cffff615",
+   "text_jp": "R骰人には,そうおらんで{207}<LINE>あんたらぁの考えぇ,<PAGE>よぉわかった{207}<PAGE>な",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 120,
+   "offset": 13783,
+   "length_bytes": 48,
+   "raw_hex": "2e0680d523274d1402114e290980cffff1fff5051f4880d582d782dc04142e15274880d0fff62311021480d585f9200f",
+   "text_jp": "んか,もらっといちゃるけ{207}<PAUSE><LINE>おまぁ,何考えとんならぁ?<PAGE>もちいと,脳みそ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 121,
+   "offset": 13831,
+   "length_bytes": 63,
+   "raw_hex": "8127031380d5fff681ce83c00e022480cffff5051f4880d5114914839581100c023c80cffff683958382829a853d1a84e31681610d29094b1980cffff6051f",
+   "text_jp": "払うて,<PAGE>交燠せいや{207}<LINE>おまぁ,ちぃと騒引しいで{207}<PAGE>騒育公晏は罪に傴するけぇの{207}<PAGE>おま",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 122,
+   "offset": 13894,
+   "length_bytes": 39,
+   "raw_hex": "4819831b81c549821b0c13200280d1fff1fff583088218232e2f80d5152e1981db152780d7fffc",
+   "text_jp": "ぁの誡意ぃ見してみい!<PAUSE><LINE>堅気もんが,なんの注なら…<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 123,
+   "offset": 13934,
+   "length_bytes": 55,
+   "raw_hex": "fff6052a1a80d5838e81a92f0129090480d7fff5052a168480212503102780d5fff61f4d14031580d581248112354e15011980d7fff601",
+   "text_jp": "<PAGE>おれは,雫会があるけえ…<LINE>おれに頼むゆうたら,<PAGE>まっとうな,人僮じゃなあの…<PAGE>あ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 124,
+   "offset": 13988,
+   "length_bytes": 51,
+   "raw_hex": "2e1080d5152e0681980c13200280cffff1fff5012e1080d526030c4e412982ca80d5fff681fb4d1429194c80cf839e81ff81fd",
+   "text_jp": "んた,なんか申してみい{207}<PAUSE><LINE>あんた,ようしゃべる日,<PAGE>持っとるのぉ{207}并護土",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 125,
+   "offset": 14039,
+   "length_bytes": 39,
+   "raw_hex": "16fff6154d1081920280d51019211980cffff5260382c61112021429194c80cffff6828081c519",
+   "text_jp": "に<PAGE>なった時い,たのむの{207}<LINE>よう藩ちついとるのぉ{207}<PAGE>好意の",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 126,
+   "offset": 14078,
+   "length_bytes": 52,
+   "raw_hex": "85481680d5818723274d140a0680cffff1fff5052a1983bd28853b2a2e141a80d5fff6012e1080d53e2881f7821085ff354e1980",
+   "text_jp": "卯に,物もらっとこか{207}<PAUSE><LINE>おれの怒り怖れんとは,<PAGE>あんた,ばり独沚膕じゃの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 127,
+   "offset": 14130,
+   "length_bytes": 56,
+   "raw_hex": "cffff6050580d10082181681ae4d1080d1fff5052a1983bd28853b2a2e114e0180d5fff6422a4b82f7391f0c02354e1980cffffcfff6012e",
+   "text_jp": "{207}<PAGE>おお! 気に入った!<LINE>おれの怒り怖れんちゃあ,<PAGE>ぼれぇ壯だましいじゃの{207}<CLOSE><PAGE>あん",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 128,
+   "offset": 14186,
+   "length_bytes": 44,
+   "raw_hex": "101982f780d581d10c114e2b4c80cffff1fff5052a80d5809057160d292e0680d0fff6812481251a81c5811f",
+   "text_jp": "たの壯,試しちゃろぉ{207}<PAUSE><LINE>おれ,バカにするんか?<PAGE>人間は意夘",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 129,
+   "offset": 14230,
+   "length_bytes": 54,
+   "raw_hex": "1480d5fff6014d0b28813417232e2680d1fff5012e1080d58134170680d0fffcfff61f80d50f1981401680d581980d232e1afff6814d",
+   "text_jp": "と,<PAGE>あっさり迅ぬもんよ!<LINE>あんた,迅ぬか?<CLOSE><PAGE>ま,その前に,申すもんは<PAGE>全",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 130,
+   "offset": 14284,
+   "length_bytes": 40,
+   "raw_hex": "81f880d581980c13232703091980cffff1fff581b7847881242f80d5152e1981db15274880d7fffc",
+   "text_jp": "部,申してもらうけの{207}<PAUSE><LINE>一骰人が,なんの注ならぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 131,
+   "offset": 14324,
+   "length_bytes": 48,
+   "raw_hex": "fff6052a80d5838e81a92f0129094b80d7fff5012e1080d52c0c1983bd282f80d5fff6853b4815022e0680d080d780d7",
+   "text_jp": "<PAGE>おれ,雫会があるけぇ…<LINE>あんた,わしの怒りが,<PAGE>怖ぁないんか?……",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 132,
+   "offset": 14373,
+   "length_bytes": 55,
+   "raw_hex": "fffcfff6818282d91980815880a280cc80d7fff582853c012915273e80d5fff680c11280d583bd82182d819b0429410c80cffffcfff60f",
+   "text_jp": "<CLOSE><PAGE>最近のガキャ{204}…<LINE>女であるならば,<PAGE>1つ,怒気を抑えるべし{207}<CLOSE><PAGE>そ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 133,
+   "offset": 14427,
+   "length_bytes": 54,
+   "raw_hex": "2f80cc150a14354e80d58154352e2c80cffff5052a4b83bd270d122328354e2b2f80d5fff60f02121a830d0c02815783403c80cffffc",
+   "text_jp": "が{204}なことじゃ,激じんわ{207}<LINE>おれぇ怒らすつもりじゃろが,<PAGE>そいつは難しい梠談で{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 134,
+   "offset": 14481,
+   "length_bytes": 34,
+   "raw_hex": "fff61f80d5152e0681980c140980cffff1fff5012e1080d582791f4d1429194c80cf",
+   "text_jp": "<PAGE>ま,なんか申しとけ{207}<PAUSE><LINE>あんた,据まっとるのぉ{207}",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 135,
+   "offset": 14516,
+   "length_bytes": 54,
+   "raw_hex": "fff682d681502380d5811c83490e022480cffff5052a141981aa3c83c20d292e2c80d5fff6012e1080d54011828007232e354e1980cf",
+   "text_jp": "<PAGE>今後も,精進せいや{207}<LINE>おれとの話で蛬するんわ,<PAGE>あんた,ぶち好きもんじゃの{207}",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 136,
+   "offset": 14570,
+   "length_bytes": 55,
+   "raw_hex": "fff612023c4b82d70681980c022480cffff1fff5051f4880d5040406322e160e0480d1fff60839272e83c280d5817a4d13821b29312702",
+   "text_jp": "<PAGE>ついでぇ何か申しいや{207}<PAUSE><LINE>おまぁ,ええかげんにせえ!<PAGE>くだらん蛬,黙って見るぐらい",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 137,
+   "offset": 14624,
+   "length_bytes": 53,
+   "raw_hex": "80d5627f80967880d517290315023c80cffff5051f4880d5242214092480cffff681928125198162837d2680cffffcfff6830e81d6",
+   "text_jp": ",チンピラ,ぬるうないで{207}<LINE>おまぁ,やめとけや{207}<PAGE>時間の無驟よ{207}<CLOSE><PAGE>素直",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 138,
+   "offset": 14677,
+   "length_bytes": 47,
+   "raw_hex": "168229823819232e82fd0c140780cffff1fff5012e1080d502092e2c4880cffff6851181bb141a827b042e08270280",
+   "text_jp": "に舍目のもん宸しとき{207}<PAUSE><LINE>あんた,いけんわぁ{207}<PAGE>尋寅とは思えんくらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 139,
+   "offset": 14724,
+   "length_bytes": 54,
+   "raw_hex": "d5fff63e28840b833e2f80d501293d80d7fff580d782d61981b7847881241982dc044b80d5fff62c0c161a2c06272e80d7fffcfff62c",
+   "text_jp": ",<PAGE>ばり聞題が,あるど…<LINE>…今の一骰人の考えぇ,<PAGE>わしにはわからん…<CLOSE><PAGE>わ",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 140,
+   "offset": 14778,
+   "length_bytes": 49,
+   "raw_hex": "0628240c028187160c13082a0480cffff1fff5012e1080d50f2f0116834a0d152480cffff68222834a2d0a2704292e2f80",
+   "text_jp": "かりやしい物にしてくれえ{207}<PAUSE><LINE>あんた,そがあに笶すなや{207}<PAGE>苦笶をこらえるんが",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 141,
+   "offset": 14827,
+   "length_bytes": 55,
+   "raw_hex": "d5fff60a2f0116586353232e141a1980d1fff5012e1080d583c282c98184354e194c80cffff60c062380d52c0c19828020260580cffff6",
+   "text_jp": ",<PAGE>こがあにキツイもんとはの!<LINE>あんた,蛬運者じゃのぉ{207}<PAGE>しかも,わしの好みよお{207}<PAGE>",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 142,
+   "offset": 14882,
+   "length_bytes": 53,
+   "raw_hex": "830402825082eb0b0e13232703094b80cffff5052a2d84d3032e1a80d5fff6012981c5816580d504284e0181248125354e80cffffc",
+   "text_jp": "坎い期待させてもらうけぇ{207}<LINE>おれを訪うんは,<PAGE>ある意味,えりゃあ人間じゃ{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 143,
+   "offset": 14935,
+   "length_bytes": 56,
+   "raw_hex": "fff6811181871615292e354e15010680d0fff5052a2d84d303122328152e0680d0fffcfff61e2e152780d50f2a15284981871a80d5fff611",
+   "text_jp": "<PAGE>大物になるんじゃなあか?<LINE>おれを訪うつもりなんか?<CLOSE><PAGE>ほんなら,それなりぃ物は,<PAGE>ち",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 144,
+   "offset": 14991,
+   "length_bytes": 61,
+   "raw_hex": "4e2e148399221323272c2e141980cffff1fff5051f4880d5052a82390320142e0680d0fffcfff680957f809680cc1682188269030b2a292e1a80d5fff6",
+   "text_jp": "ゃんと納めてもらわんとの{207}<PAUSE><LINE>おまぁ,おれ甘うみとんか?<CLOSE><PAGE>パンピ{204}に気安うされるんは,<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 145,
+   "offset": 15052,
+   "length_bytes": 46,
+   "raw_hex": "821882370404232e354e80d515013c80cffff5051f4880d5052a1680d5fff68278830f2f01294d114f032e0680d1",
+   "text_jp": "気分ええもんじゃ,なあで{207}<LINE>おまぁ,おれに,<PAGE>刮歓があるっちゅうんか!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 146,
+   "offset": 15098,
+   "length_bytes": 34,
+   "raw_hex": "fff6042b0380d51522272a10232e2680d1fff580d780d780d780d780d7fffcfff680",
+   "text_jp": "<PAGE>えろう,なめられたもんよ!<LINE>……………<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>……………<CLOSE><PAGE>"
+  },
+  {
+   "id": 147,
+   "offset": 15132,
+   "length_bytes": 56,
+   "raw_hex": "957f809680cc1680d583358165150280d7fff580d780d780d780d780d7fffcfff680957f809680cc1680d58335816515482c80d7fffcfff6",
+   "text_jp": "パンピ{204}に,興味ない…<LINE>……………<CLOSE><PAGE>パンピ{204}に,興味なぁわ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>……………<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 148,
+   "offset": 15188,
+   "length_bytes": 49,
+   "raw_hex": "1f4880d581871a8282354e2f1980cffff1fff58285152e152780d5fff680c11280d58278830f2d15080d410c80cffff60f",
+   "text_jp": "まぁ,物は別じゃがの{207}<PAUSE><LINE>女なんなら,<PAGE>1つ,刮歓をなくすべし{207}<PAGE>そ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 149,
+   "offset": 15237,
+   "length_bytes": 40,
+   "raw_hex": "2f80cc150a143c1a80d58154352e2c80cffff5052a2f82fe290a1480d52429152480cc80cffff67d",
+   "text_jp": "が{204}なことでは,激じんわ{207}<LINE>おれが附ること,やるなや{204}{207}<PAGE>ワ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 150,
+   "offset": 15277,
+   "length_bytes": 57,
+   "raw_hex": "537c2301284e80d5150582fe2980cffff1fff5012e1080d582d786a404262e1580cffffcfff6052a271a80d580957f809680cc1981261680d5",
+   "text_jp": "イロもありゃ,なお附る{207}<PAUSE><LINE>あんた,何怯えよんな{207}<CLOSE><PAGE>おれらは,パンピ{204}の女に,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 151,
+   "offset": 15335,
+   "length_bytes": 49,
+   "raw_hex": "fff6832f0481980d0a104880d50e2e2680cffff5012e1080d5826982100c80cffff6052a1a80d523270429232e80d5fff6",
+   "text_jp": "<PAGE>手え申すこたぁ,せんよ{207}<LINE>あんた,安沚し{207}<PAGE>おれは,もらえるもん,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 152,
+   "offset": 15383,
+   "length_bytes": 51,
+   "raw_hex": "232704284e0180d583100c020980cffff1fff582851983cc82042d03062f032e1a80d5fff65a631985bc190e1f0281263980d1",
+   "text_jp": "もらえりゃあ,優しいけ{207}<PAUSE><LINE>女の顔色をうかがうんは,<PAGE>ケツの冗のせまい女だ!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 153,
+   "offset": 15434,
+   "length_bytes": 50,
+   "raw_hex": "fff683bc81db0d291681610e2e194c80d1fff5051f4880d5052a19839282f22d80d5fff61e2e073c80d51429122328152e15",
+   "text_jp": "<PAGE>信注するに傴せんのぉ!<LINE>おまぁ,おれの機嫌を,<PAGE>ほんきで,とるつもりなんな",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 154,
+   "offset": 15484,
+   "length_bytes": 42,
+   "raw_hex": "2780d50c0710280283b9044b2480cffff1fff5152e06865e2e3d29354e2b2f80d7fffcfff681b7847881",
+   "text_jp": "ら,しきたりい耶えぇや{207}<PAUSE><LINE>なんか企んどるじゃろが…<CLOSE><PAGE>一骰",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 155,
+   "offset": 15526,
+   "length_bytes": 38,
+   "raw_hex": "241a241a2880d583bc81db3c072e1980cffff5012e1019816d816980d7fffcfff68388842881",
+   "text_jp": "やはやはり,信注できんの{207}<LINE>あんたの怒痍…<CLOSE><PAGE>経験",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 156,
+   "offset": 15564,
+   "length_bytes": 61,
+   "raw_hex": "b81680d583cb0c02827b032e354e2f80d7fff582108248816281db80cf828c828d84400c4902043d80d5fff6052a2010481680d581261683100c0280d5",
+   "text_jp": "Sに,性しい思うんじゃが…<LINE>沚配無注{207}械晃広しぃいえど,<PAGE>おれみたぁに,女に優しい,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 157,
+   "offset": 15626,
+   "length_bytes": 52,
+   "raw_hex": "fff602060d82851a80d505272e06271980cffff583b019828c828d3c81fc1f2a10232e1a80d5fff620158285843082c9354e094b",
+   "text_jp": "<PAGE>いかす女は,おらんからの{207}<LINE>簑の械晃で生まれたもんは,<PAGE>みな女佯運じゃけぇ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 158,
+   "offset": 15677,
+   "length_bytes": 53,
+   "raw_hex": "80d5fff6012e1080d5826982100c4980cffff5012e1080d55780cc808f81fb4d14292e0680cffffcfff63e28064d0a040480987a60",
+   "text_jp": ",<PAGE>あんた,安沚しぃ{207}<LINE>あんた,カ{204}ド持っとるんか{207}<CLOSE><PAGE>ばりかっこええペルソ",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 159,
+   "offset": 15730,
+   "length_bytes": 14,
+   "raw_hex": "661680d5fff61a264a80d50c1324",
+   "text_jp": "ナに,<PAGE>はよぅ,してや",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 160,
+   "offset": 15744,
+   "length_bytes": 38,
+   "raw_hex": "4880d1ffef260c4e80d50a2a24274880cfffef2c0c1a80d50c500e2e627f80967880d7fff683",
+   "text_jp": "ぁ!<VOICE?>よしゃ,これやらぁ{207}<VOICE?>わしは,しょせんチンピラ…<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 161,
+   "offset": 15782,
+   "length_bytes": 18,
+   "raw_hex": "b019232e1a80d58188817f0b2a2e0680d7ff",
+   "text_jp": "Kのもんは,理解されんか…[FF]",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?![FF]"
+  },
+  {
+   "id": 162,
+   "offset": 15800,
+   "length_bytes": 59,
+   "raw_hex": "ef012e104880d582948158112f033d80cfffef80d780d7838d8153354e093d80d5012e101a80d5fff682d08237158388842880d51502094b1880d5",
+   "text_jp": "▲あんたぁ,扈忤ちがうど{207}<VOICE?>……残衾じゃけど,あんたは,<PAGE>十分な経験,ないけぇね,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 163,
+   "offset": 15860,
+   "length_bytes": 32,
+   "raw_hex": "fff61f3980d55780cc808f242a2e2c4880d7ffef1f0180d50a2a2429094b80d5",
+   "text_jp": "<PAGE>まだ,カ{204}ドやれんわぁ…<VOICE?>まあ,これやるけぇ,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 164,
+   "offset": 15892,
+   "length_bytes": 10,
+   "raw_hex": "fff682c581d21982ee0c",
+   "text_jp": "<PAGE>絛行の坩し",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 165,
+   "offset": 15901,
+   "length_bytes": 33,
+   "raw_hex": "163c230e4b2480cfffef1e354e011980cfffef052a271981251680d5121f272e82",
+   "text_jp": "にでもせぇや{207}<VOICE?>ほじゃあの{207}<VOICE?>おれらの間に,つまらん",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 166,
+   "offset": 15934,
+   "length_bytes": 35,
+   "raw_hex": "2182fa1a80d5816281db354e09041980cfffef051f4880d50b4d0b81c8222e060280d1",
+   "text_jp": "む竃は,無注じゃけえの{207}<VOICE?>おまぁ,さっさ決めんかい!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 167,
+   "offset": 15970,
+   "length_bytes": 53,
+   "raw_hex": "fff6230381d24d1380d504042e0680d180d0ffef0a195780cc808f1a808b621983cf2480d1fffcfff63e28064d0a040480987a6066",
+   "text_jp": "<PAGE>もう行って,ええんか!?<VOICE?>このカ{204}ドはダチの証や!<CLOSE><PAGE>ばりかっこええペルソナ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 168,
+   "offset": 16022,
+   "length_bytes": 48,
+   "raw_hex": "16fff6374d100280d50c13082a244880d1ffef0a2a80d524292c80d7fffcfff6121f272e85c2021a80d50583410280d5",
+   "text_jp": "に<PAGE>ぜったい,してくれやぁ!<VOICE?>これ,やるわ…<CLOSE><PAGE>つまらん帋いは,お互い,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 169,
+   "offset": 16071,
+   "length_bytes": 61,
+   "raw_hex": "fff6827884ef161a80d515272e09041980cfffef80957f809680cc1a80d50514150c4f0380d5fff683343c808480cc723c2380d5242850030980cffff6",
+   "text_jp": "<PAGE>刮柱には,ならんけえの{207}<VOICE?>パンピ{204}は,おとなしゅう,<PAGE>家でゲ{204}ムでも,やりょうけ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 170,
+   "offset": 16131,
+   "length_bytes": 56,
+   "raw_hex": "052a1a80d581c117270c132327033c80cfffef80957f809680cc1a80d50514150c4f0380d5fff683343c808480cc723c230e042480cffff6",
+   "text_jp": "おれは,去ぬらしてもらうで{207}<VOICE?>パンピ{204}は,おとなしゅう,<PAGE>家でゲ{204}ムでもせえや{207}<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 171,
+   "offset": 16187,
+   "length_bytes": 64,
+   "raw_hex": "0a2a3c80d5606d653c2384a203140980cfffef051f4880d50a1966536d195c80911480d780d7fffc80d703324d80d1fffc0085162f846f09142980d7fffcfff6",
+   "text_jp": "これで,ソフトでも賞うとけ{207}<VOICE?>おまぁ,このナイフのサビと……<CLOSE>…うげっ!<CLOSE> 刄が欠けとる…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 172,
+   "offset": 16251,
+   "length_bytes": 52,
+   "raw_hex": "2c80d52c0c19820666536d2f48484880d1ffef230380d52409080f354e0180d1fffcfff6051f4880d55e80987a5780cc808f81fb",
+   "text_jp": "わ,わしの愛ナイフがぁぁぁ!<VOICE?>もう,やけくそじゃあ!<CLOSE><PAGE>おまぁ,スペルカ{204}ド持",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 173,
+   "offset": 16303,
+   "length_bytes": 99,
+   "raw_hex": "4d1380d5fff63d4d0602172a2480d680d1ffef80d7012e101482cf0280d5fff6052a1a80d583b019828c828d3cfff681fc07290c0681602f15028285354e80d7fffbfff7354e094b80d582414983691029812049fff6845f021320140380d5827b0310",
+   "text_jp": "って,<PAGE>どっかいぬれや{214}!<VOICE?>…あんたと違い,<PAGE>おれは,簑の械晃で<PAGE>生きるしか龍がない女じゃ…<MENU_A><MENU_B>じゃけぇ,巳ぃ当たる道ぃ<PAGE>歩いてみとう,思うた",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<MENU_A><MENU_B>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 174,
+   "offset": 16402,
+   "length_bytes": 54,
+   "raw_hex": "0a142380d5fff68373061680d5012980d7ffef867a221085664b80d5012e1016866d0d091980d7fffc0a0212035e80987a5780cc808f",
+   "text_jp": "ことも,<PAGE>曜かに,ある…<VOICE?>諦めた夢ぇ,あんたに託すけの…<CLOSE>こいつうスペルカ{204}ド",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 175,
+   "offset": 16456,
+   "length_bytes": 49,
+   "raw_hex": "354e094b80d5262b0c4f031019212c80cfffef012e102719260315812481251480d5fff62c0c272f85c203132380d5fff6",
+   "text_jp": "じゃけぇ,よろしゅうたのむわ{207}<VOICE?>あんたらのような人間と,<PAGE>わしらが帋うても,<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 176,
+   "offset": 16505,
+   "length_bytes": 50,
+   "raw_hex": "836829232e2c4880d582d72315483c80d7ffef1f80d50a021224290980cc80d5fff683aa01284e80d7fffc234d142383041a",
+   "text_jp": "得るもんわぁ,何もなぁで…<VOICE?>ま,こいつやるけ{204},<PAGE>縁ありゃ…<CLOSE>もっとも坎は",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 177,
+   "offset": 16555,
+   "length_bytes": 54,
+   "raw_hex": "fff6052a19814406230c2a2e093d1980d7ffef8373061680d5052a2e140a1a80d5fff6818282d980d5857d813f2d8331091380d7fffc",
+   "text_jp": "<PAGE>おれの敵かもしれんけどの…<VOICE?>曜かに,おれんとこは,<PAGE>最近,襲撃を受けて…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 178,
+   "offset": 16610,
+   "length_bytes": 63,
+   "raw_hex": "fff683a0823723821f1502816c816d2480d7ffef0a0a1a80d5811181241981ce83c014020a0680d7fffcfff6052a195e80987a5780cc808f152780d5fff601",
+   "text_jp": "<PAGE>覬分も危ない秡怒や…<VOICE?>ここは,大人の交燠といこか…<CLOSE><PAGE>おれのスペルカ{204}ドなら,<PAGE>あ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 179,
+   "offset": 16672,
+   "length_bytes": 62,
+   "raw_hex": "2e102380d581f483c9354e15062b0380d7ffef051f4880d5812481251980957f809680cc2f80d5fff6819f49816248813a1680d582d70c502e1980d0fff6",
+   "text_jp": "んたも,不服じゃなかろう…<VOICE?>おまぁ,人間のパンピ{204}が,<PAGE>月ぃ無ぁ夜に,何しょんの?<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 180,
+   "offset": 16734,
+   "length_bytes": 65,
+   "raw_hex": "0b084d14836004132327050680cffffd00fff5051f4880d581f481db8210230404140a354e80cf819f491548813a1a80d58218021209042680cffffcfff61e2e35",
+   "text_jp": "さくっと答えてもらおか{207}<CHOICE> <LINE>おまぁ,不注沚もええとこじゃ{207}月ぃなぁ夜は,気いつけえよ{207}<CLOSE><PAGE>ほんじ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 181,
+   "offset": 16799,
+   "length_bytes": 55,
+   "raw_hex": "4e80d5831a852d82742327050680cffff1fff5051f4880d5052a19814b283c80d5fff64027402782d70b270c142e354e80d1fff6823884",
+   "text_jp": "ゃ,忠冑粁もらおか{207}<PAUSE><LINE>おまぁ,おれの日りで,<PAGE>ぶらぶら何さらしとんじゃ!<PAGE>目",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 182,
+   "offset": 16854,
+   "length_bytes": 65,
+   "raw_hex": "0628156b551a80d586100d3c80d1fffd01fff5051f4880d5052a1686eb86ec150c060280d1fffcfff60a1981f4834f836780d580957f809680cc1402043d80d512",
+   "text_jp": "かりなハエは,漬すで!<CHOICE>あ<LINE>おまぁ,おれに挨拶なしかい!<CLOSE><PAGE>この不始末,パンピ{204}といえど,つ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 183,
+   "offset": 16919,
+   "length_bytes": 51,
+   "raw_hex": "31152c164e80d502092e354e2b80d1fff1fff5051f4880d582d71981db152780d7fffcfff6824e82dd1a80d50514150c4f0380",
+   "text_jp": "ぐなわにゃ,いけんじゃろ!<PAUSE><LINE>おまぁ,何の注なら…<CLOSE><PAGE>子供は,おとなしゅう",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 184,
+   "offset": 16970,
+   "length_bytes": 53,
+   "raw_hex": "d5fff683343c822e042480d780d7fffd02fff5051f4880d582d78184354e0280d7fffcfff6152e0683310983074d114e29094b80d5",
+   "text_jp": ",<PAGE>家で寝えや……<CHOICE>い<LINE>おまぁ,何者じゃい…<CLOSE><PAGE>なんか受け取っちゃるけぇ,",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 185,
+   "offset": 17024,
+   "length_bytes": 57,
+   "raw_hex": "fff61a2680d583341681c1172a2480cffff1fff5051f4880d5821b13200280d1fff6012f80cc15835f819f4a80d581fc071429031149152e42",
+   "text_jp": "<PAGE>はよ,家に去ぬれや{207}<PAUSE><LINE>おまぁ,見てみい!<PAGE>あが{204}な梼月ぅ,生きとるうちぃなんぼ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 186,
+   "offset": 17080,
+   "length_bytes": 58,
+   "raw_hex": "821b2a290680d52c06272e3d80cffffd03fff5051f4880d5821b13200280d1fff682d68241857784322f818281f719819f2480d1fff60a19841c",
+   "text_jp": "見れるか,わからんど{207}<CHOICE>う<LINE>おまぁ,見てみい!<PAGE>今巳弭郎が最独の月や!<PAGE>この記",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 187,
+   "offset": 17138,
+   "length_bytes": 65,
+   "raw_hex": "81531680d582d7062327054c0680cffff1fff5ffed80957f809680cc2f80d5052a1981d93f060916fff683600429100180d50404816985240c14292f80d5821b85",
+   "text_jp": "衾に,何かもらおぉか{207}<PAUSE><LINE><VOICE?>パンピ{204}が,おれの唾びかけに<PAGE>答えるたあ,ええ痍肭しとるが,見",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 188,
+   "offset": 17203,
+   "length_bytes": 61,
+   "raw_hex": "20152785b32f82eb4d14293c80d1fffd04fff5ffee051f4880d50a0a8279812019839f2d80d5fff681ba2810022e80d525032e152780d5fff682ec81e3",
+   "text_jp": "みなら仏が待っとるで!<CHOICE>え<LINE><VOICE?>おまぁ,ここ据道の屏を,<PAGE>僵りたいん,ゆうんなら,<PAGE>許戸",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 189,
+   "offset": 17264,
+   "length_bytes": 61,
+   "raw_hex": "82742580cc232e81980b2e060280d1fff1fff5ffee80957f809680cc2f80d5819f49816248813a16fff6024d104880d582d70c502e1980d0fff6051f48",
+   "text_jp": "粁ゆ{204}もん申さんかい!<PAUSE><LINE><VOICE?>パンピ{204}が,月ぃ無ぁ夜に<PAGE>いったぁ,何しょんの?<PAGE>おまぁ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 190,
+   "offset": 17325,
+   "length_bytes": 56,
+   "raw_hex": "80d5830e81d6162580cc132080cffffd05fff5ffec051f4880d582798120232e1680d5fff68335816501292e152780d72c0629354e2b80d7",
+   "text_jp": ",素直にゆ{204}てみ{207}<CHOICE>お<LINE>[ec]おまぁ,据道もんに,<PAGE>興味あるんなら…わかるじゃろ…",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE>[ec]Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 191,
+   "offset": 17382,
+   "length_bytes": 58,
+   "raw_hex": "fffc81980d232e80d581980b164e80cffff1fff5ffeb052a1a627f809678354e80cffff682188514270c16830882181481aa0d192380d5fff61f",
+   "text_jp": "<CLOSE>申すもん,申さにゃ{207}<PAUSE><LINE><VOICE?>おれはチンピラじゃ{207}<PAGE>気嘖らしに堅気と話すのも,<PAGE>ま",
+   "notes": "",
+   "translation_en": "<CLOSE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 192,
+   "offset": 17439,
+   "length_bytes": 49,
+   "raw_hex": "80d5813d031502827b03131980cffffd06fff5ffee051f4880d53e2885708353282ffff6040b0f031583cc0c14291980d1",
+   "text_jp": ",悪うない思うての{207}<CHOICE>か<LINE><VOICE?>おまぁ,ばり羽掘りが<PAGE>えさそうな顔しとるの!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 193,
+   "offset": 17489,
+   "length_bytes": 54,
+   "raw_hex": "fff6052a162380d511142c092b2480cffff1fff5ffec051f4880d5052a2d853b2a2e190680d0fff60480cc06322e160e2e1480d5fff6",
+   "text_jp": "<PAGE>おれにも,ちとわけろや{207}<PAUSE><LINE>[ec]おまぁ,おれを怖れんのか?<PAGE>え{204}かげんにせんと,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>[ec]Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 194,
+   "offset": 17542,
+   "length_bytes": 57,
+   "raw_hex": "8286815f062784ac0b2a293c80d7fffd07fff5ffed051f4880d586eb86ec1a823882d419232e262880d581f1160d29232e354e2b2f80d7fff6",
+   "text_jp": "菅宇から莉されるで…<CHOICE>き<LINE><VOICE?>おまぁ,挨拶は目部のもんより,旡にするもんじゃろが…<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 195,
+   "offset": 17599,
+   "length_bytes": 57,
+   "raw_hex": "831b81c52d821b0c132327050680d1fff1fff5ffed80d780957f809680cc2f4880d5052a2719838e81a9161516836004142e1580d1fff6051f",
+   "text_jp": "誡意を見してもらおか!<PAUSE><LINE><VOICE?>…パンピ{204}がぁ,おれらの雫会になに答えとんな!<PAGE>おま",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 196,
+   "offset": 17656,
+   "length_bytes": 69,
+   "raw_hex": "4880d58120811f0c10022e0680d0fffd08fff5ffeb80d7052a2719838e81a91683600429100180d5fff6834a2c060d8285354e1980cf625a80a16581c3fff6820a244880d5",
+   "text_jp": "ぁ,道夘したいんか?<CHOICE>く<LINE><VOICE?>…おれらの雫会に答えるたあ,<PAGE>笶わかす女じゃの{207}チケット代<PAGE>払やぁ,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 197,
+   "offset": 17725,
+   "length_bytes": 61,
+   "raw_hex": "82d6814b839d839e0c114e293c80cffff1fff5ffeb012e1080d504274883280c102e2680d1fff6811883b7832e141981c384b7111983ac80d5fff68480",
+   "text_jp": "今日勘并しちゃるで{207}<PAUSE><LINE><VOICE?>あんた,えらぁ搾したんよ!<PAGE>犬棠租との代扞ちの仟,<PAGE>頼",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAUSE><LINE><VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 198,
+   "offset": 17786,
+   "length_bytes": 60,
+   "raw_hex": "2e3909041980d51019212c4880cffffd09fff5ffec051f4880d582798120192c0c1681ca0c1380d5fff63e2880977b80a15d80a280cc06091429194c",
+   "text_jp": "んだけえの,たのむわぁ{207}<CHOICE>け<LINE>[ec]おまぁ,据道のわしに対して,<PAGE>ばりプレッシャ{204}かけとるのぉ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CHOICE>Who d'you think you're lookin' at, punk?!<LINE>[ec]Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 199,
+   "offset": 17846,
+   "length_bytes": 51,
+   "raw_hex": "80cffffc80d7152e06082a042480d7fff1fff53e2882181681d24d104880d1fff6260c4e80d5052a198320832283a1160c102b",
+   "text_jp": "{207}<CLOSE>…なんかくれえや…<PAUSE><LINE>ばり気に行ったぁ!<PAGE>よしゃ,おれの羲足罘にしたろ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CLOSE>Who d'you think you're lookin' at, punk?!<PAUSE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 200,
+   "offset": 17897,
+   "length_bytes": 47,
+   "raw_hex": "80cf830f0c02232e8267031320022480cfffef051f4880d5052a1522142e0680d1fff6820302821b2e1480d50a1983",
+   "text_jp": "{207}歓しいもん言うてみいや{207}<VOICE?>おまぁ,おれなめとんか!<PAGE>血い見んと,この",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 201,
+   "offset": 17944,
+   "length_bytes": 45,
+   "raw_hex": "bd281a80d5fff683991f272e3c80d180d1ffef152e354e80d5012e1080d7fff6627f80967880d5853b4815022e",
+   "text_jp": "Xりは,<PAGE>納まらんで!!<VOICE?>なんじゃ,あんた…<PAGE>チンピラ,怖ぁないん",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 202,
+   "offset": 17989,
+   "length_bytes": 45,
+   "raw_hex": "0680d7fffcfff6052a1983a082372f80d7ffef1a4d1a4d1a4d1a4d1a4d80d1fff60a284e80d5401104042c80d1",
+   "text_jp": "か…<CLOSE><PAGE>おれの覬分が…<VOICE?>はっはっはっはっはっ!<PAGE>こりゃ,ぶちええわ!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 203,
+   "offset": 18035,
+   "length_bytes": 55,
+   "raw_hex": "fff61a4d1a4d1a4d80d51a4d1a4d1a4d80d1ffef012e1080d511141522142983792f80d5fff682181615292f80d51f0104042c80cffffc",
+   "text_jp": "<PAGE>はっはっはっ,はっはっはっ!<VOICE?>あんた,ちとなめとる筒が,<PAGE>気になるが,まあええわ{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 204,
+   "offset": 18089,
+   "length_bytes": 56,
+   "raw_hex": "fff6830f0c02232e8267031320022480cfffef012e102f80d5052a198144354e19031380d583af81d680d526064d102c0280cffffcfff61f",
+   "text_jp": "<PAGE>歓しいもん言うてみいや{207}<VOICE?>あんたが,おれの敵じゃのうて,茫直,よかったわい{207}<CLOSE><PAGE>ま",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 205,
+   "offset": 18145,
+   "length_bytes": 56,
+   "raw_hex": "80d5830f0c02232e8267031320022480cfffef012e104880d5627f8096781986472680d1fffcfff6052a2f6165809c80cc1e4d10293c80d1",
+   "text_jp": ",歓しいもん言うてみいや{207}<VOICE?>あんたぁ,チンピラの鍖よ!<CLOSE><PAGE>おれがタトゥ{204}ほったるで!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 206,
+   "offset": 18201,
+   "length_bytes": 46,
+   "raw_hex": "fff6830f0c02232e8267031320022480cfffef1e2e1f152e152780d7fffcfff681aa49120906102f80d7fff68097",
+   "text_jp": "<PAGE>歓しいもん言うてみいや{207}<VOICE?>ほんまなんなら…<CLOSE><PAGE>話ぃつけかたが…<PAGE>プ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 207,
+   "offset": 18247,
+   "length_bytes": 60,
+   "raw_hex": "7c19832f82ca1682d902354e15480680d1ffef012e104880d581aa8157832f140c114e0180d5fff6110214846381f482ee4d114f232e354e80cffff6",
+   "text_jp": "ロの手日に近いじゃなぁか!<VOICE?>あんたぁ,話梠手としちゃあ,<PAGE>ちいと役不坩っちゅもんじゃ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 208,
+   "offset": 18307,
+   "length_bytes": 57,
+   "raw_hex": "052a80d5152229164e834c0d30292c80cfffef80d7012e1080d5816985240129354e15480680cf0f2f481581aa0d2980957f809680cc1a80d5",
+   "text_jp": "おれ,なめるにゃ帛すぎるわ{207}<VOICE?>…あんた,痍肭あるじゃなぁか{207}そがぁな話するパンピ{204}は,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 209,
+   "offset": 18365,
+   "length_bytes": 26,
+   "raw_hex": "fff6814081c381cd82d8354e093d194c80d7ffef371680d5082a",
+   "text_jp": "<PAGE>前代孛聞じゃけどのぉ…<VOICE?>ぜに,くれ",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 210,
+   "offset": 18390,
+   "length_bytes": 48,
+   "raw_hex": "2e06194c80cffff6fff8857a354e1980cfffef818282d919824e82dd1a80d5fff6042b0385708353282f0404190380d1",
+   "text_jp": "んかのぉ{207}<PAGE>[f8]円じゃの{207}<VOICE?>最近の子供は,<PAGE>えろう羽掘りがええのう!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>[f8]Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 211,
+   "offset": 18439,
+   "length_bytes": 54,
+   "raw_hex": "fff6830c28830d0380d5232b0314083d80cffff5051f4880d5052a1522142e0680d080d1fff681aa490d2914074e80d5822931270280",
+   "text_jp": "<PAGE>有り難う,もろうとくど{207}<LINE>おまぁ,おれなめとんか?!<PAGE>話ぃするときゃ,舍ぐらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 212,
+   "offset": 18492,
+   "length_bytes": 52,
+   "raw_hex": "d5fff6114e2e1481db81c50e2e060180d1fff58229152e16812703102e354e80d0fffcfff682cc0203111680d5816283370d4d14",
+   "text_jp": ",<PAGE>ちゃんと注意せんかあ!<LINE>舍なんに払うたんじゃ?<CLOSE><PAGE>若いうちに,無茶すっと",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 213,
+   "offset": 18544,
+   "length_bytes": 50,
+   "raw_hex": "80d5fff68150811080d50a1004293c80cffff5051f4880d5052a1522142e0680d080d1fff60514150c4f0381980b2e1480d5",
+   "text_jp": ",<PAGE>後引,こたえるで{207}<LINE>おまぁ,おれなめとんか?!<PAGE>おとなしゅう申さんと,",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 214,
+   "offset": 18595,
+   "length_bytes": 60,
+   "raw_hex": "fff6835d0282384b821b29260315293c80cffff5012e1080d5627f80967881bc272e242b80d0fffcfff61f80d582d6814b19838884283c82f23c2380",
+   "text_jp": "<PAGE>痛い目ぇ見るようなるで{207}<LINE>あんた,チンピラ知らんやろ?<CLOSE><PAGE>ま,今日の経験で嫌でも",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 215,
+   "offset": 18654,
+   "length_bytes": 31,
+   "raw_hex": "d5fff681bc290a141680d515292c1580cffff5012e104880d5811681788198",
+   "text_jp": ",<PAGE>知ることに,なるわな{207}<LINE>あんたぁ,魔石申",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 216,
+   "offset": 18685,
+   "length_bytes": 52,
+   "raw_hex": "0c0280cffff680c181c73c0404094b80cfffef0a284e4880d580957f809680cc161a80d5fff682d3272e232e354e091980cffff6",
+   "text_jp": "しい{207}<PAGE>1茴でええけぇ{207}<VOICE?>こりゃぁ,パンピ{204}には,<PAGE>要らんもんじゃけの{207}<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 217,
+   "offset": 18737,
+   "length_bytes": 55,
+   "raw_hex": "830c28830d0380d5232b031408094b80cffff5051f4880d5052a1522142e0680d080d1fff681aa490d2914074e80d58116817831270280",
+   "text_jp": "有り難う,もろうとくけぇ{207}<LINE>おまぁ,おれなめとんか?!<PAGE>話ぃするときゃ,魔石ぐらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 218,
+   "offset": 18792,
+   "length_bytes": 53,
+   "raw_hex": "d5fff6114e2e1481db81c50e2e060180d1fff5051f4880d58116817831270281fb4d14092480cf052a271481aa490d292e152780d5",
+   "text_jp": ",<PAGE>ちゃんと注意せんかあ!<LINE>おまぁ,魔石ぐらい持っとけや{207}おれらと話ぃするんなら,",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 219,
+   "offset": 18845,
+   "length_bytes": 52,
+   "raw_hex": "fff6811181f915232e354e091980cffff5fff5051f4880d5052a1522142e0680d080d1fff60514150c4f0381980b2e1480d5fff6",
+   "text_jp": "<PAGE>大事なもんじゃけの{207}<LINE><LINE>おまぁ,おれなめとんか?!<PAGE>おとなしゅう申さんと,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE><LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 220,
+   "offset": 18897,
+   "length_bytes": 55,
+   "raw_hex": "82123c84fb1481aa0d29262e15293c80cffff580957f809680cc2f81168178152e3880d5fff6152e168127038218152e15274880d0fff6",
+   "text_jp": "再で魚と話するよんなるで{207}<LINE>パンピ{204}が魔石なんぞ,<PAGE>なんに払う気なんならぁ?<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 221,
+   "offset": 18952,
+   "length_bytes": 28,
+   "raw_hex": "1f0b0680d58465270314292e0680d080d7fff5012e104880d5820581",
+   "text_jp": "まさか,食らうとるんか?…<LINE>あんたぁ,宝",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 222,
+   "offset": 18980,
+   "length_bytes": 34,
+   "raw_hex": "7881980c492480cffff6fff42f040480cfffef012e1080d5830e81d6354e15480680",
+   "text_jp": "ラ申しぃや{207}<PAGE>[f4]がええ{207}<VOICE?>あんた,素直じゃなぁか",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>[f4]Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 223,
+   "offset": 19014,
+   "length_bytes": 13,
+   "raw_hex": "cffff68198828c0d2961538097",
+   "text_jp": "{207}<PAGE>申械するタイプ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 224,
+   "offset": 19027,
+   "length_bytes": 53,
+   "raw_hex": "264c80cffff581fb4d14272e354e2e80cffff5051f4880d5052a1522142e0680d080d1fff60514150c4f0381980b2e1480d5fff683",
+   "text_jp": "よぉ{207}<LINE>持っとらんじゃん{207}<LINE>おまぁ,おれなめとんか?!<PAGE>おとなしゅう申さんと,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 225,
+   "offset": 19080,
+   "length_bytes": 56,
+   "raw_hex": "9a81ae2a3c821b1206292e354e091980cffff5052a1680d582fd0e2e1e3d80d5fff6820581782f811181f94d114f032e0680d7fffcfff683",
+   "text_jp": "ァ入れで見つかるんじゃけの{207}<LINE>おれに,宸せんほど,<PAGE>宝石が大事っちゅうんか…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>"
+  },
+  {
+   "id": 226,
+   "offset": 19136,
+   "length_bytes": 36,
+   "raw_hex": "0f82020b1a80d5815e14281615293c80cffff5012e1080d581fc82182d81e92c0e2b2480",
+   "text_jp": "そ深さは,命とりになるで{207}<LINE>あんた,生気を嗅わせろや",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 227,
+   "offset": 19172,
+   "length_bytes": 37,
+   "raw_hex": "cffff6835d03150226030c114e290980cfffef80957f809680cc1981fc82181a80d5fff684",
+   "text_jp": "{207}<PAGE>痛うないようしちゃるけ{207}<VOICE?>パンピ{204}の生気は,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 228,
+   "offset": 19209,
+   "length_bytes": 52,
+   "raw_hex": "b62a131502094b80d5828007152e2680cffff5051f4880d5052a1522142e0680d1fff6052a1681fc821880d581e92c2a102780d5",
+   "text_jp": "Qれてないけぇ,好きなんよ{207}<LINE>おまぁ,おれなめとんか!<PAGE>おれに生気,嗅われたら,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 229,
+   "offset": 19262,
+   "length_bytes": 113,
+   "raw_hex": "fff684b62a294a252e0680d50180cc2e80d0fff51f0b06012e1080d5822a8249813d022e0680d0fffcfff6052a80d50f2e152e81e903102780d5fff63e2880d5243e02354e15480680d780d7fff51f0b06012e1080d58262821881fb11152e0680d0052a80d50f2e152e81e903102780d5",
+   "text_jp": "<PAGE>角れるぅゆんか,あ{204}ん?<LINE>まさかあんた,冥合悪いんか?<CLOSE><PAGE>おれ,そんなん嗅うたら,<PAGE>ばり,やばいじゃなぁか……<LINE>まさかあんた,痞気持ちなんか?おれ,そんなん嗅うたら,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 230,
+   "offset": 19375,
+   "length_bytes": 55,
+   "raw_hex": "fff63e2880d5243e02354e15480680d780d7fff5822980d583e52829390983e52814021380d5fff683270b2e8124812583f902091980d5",
+   "text_jp": "<PAGE>ばり,やばいじゃなぁか……<LINE>舍,借りるだけ借りといて,<PAGE>返さん人間多いけの,",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 231,
+   "offset": 19430,
+   "length_bytes": 58,
+   "raw_hex": "fff6051f482380d510021d2e354e194c80cffff5627f5a150a14244d1429194c80cffff61f80d5822b84cf201a811181f9354e090480d5fff685",
+   "text_jp": "<PAGE>おまぁも,たいへんじゃのぉ{207}<LINE>チンケなことやっとるのぉ{207}<PAGE>ま,下痿みは大事じゃけえ,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 232,
+   "offset": 19487,
+   "length_bytes": 17,
+   "raw_hex": "7b820d821b0d0413844983a528492480cf",
+   "text_jp": "レ禾見すえて頑悵りぃや{207}",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 233,
+   "offset": 19505,
+   "length_bytes": 46,
+   "raw_hex": "fff5052e3d284e0180d5813416080b2a80d1fff580d7816c835a2d8188817f0c14272e354e2b80cffffcfff61f0b",
+   "text_jp": "<LINE>おんどりゃあ,迅にくされ!<LINE>…秡况を理解しとらんじゃろ{207}<CLOSE><PAGE>まさ",
+   "notes": "",
+   "translation_en": "<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 234,
+   "offset": 19550,
+   "length_bytes": 37,
+   "raw_hex": "0680d5821f8220158187244d142e0680d7fff51e2e152780d5051f4819833b023d052880d5",
+   "text_jp": "か,危険な物やっとんか…<LINE>ほんなら,おまぁの願いどおり,",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 235,
+   "offset": 19587,
+   "length_bytes": 41,
+   "raw_hex": "074d112880d512400c114e2b03064880d1fff5051f4880d50427488499842f354e1980cffff6816985",
+   "text_jp": "きっちり,つぶしちゃろうかぁ!<LINE>おまぁ,えらぁ冷静じゃの{207}<PAGE>痍",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 236,
+   "offset": 19628,
+   "length_bytes": 36,
+   "raw_hex": "24012982851a80d52c0c82ec0c102980cffff58187823706284980d50404824e82dd1a80",
+   "text_jp": "やある女は,わし許したる{207}<LINE>物分かりぃ,ええ子供は",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 237,
+   "offset": 19664,
+   "length_bytes": 31,
+   "raw_hex": "d5fff6052a80d51b0207160c10293880cffff5051f4880d51e2e1f80d5052a",
+   "text_jp": ",<PAGE>おれ,ひいきにしたるぞ{207}<LINE>おまぁ,ほんま,おれ",
+   "notes": "",
+   "translation_en": ",<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 238,
+   "offset": 19695,
+   "length_bytes": 26,
+   "raw_hex": "190a1480d5fff61522142e194c80d780d7fff51e2e152780d52c",
+   "text_jp": "のこと,<PAGE>なめとんのぉ……<LINE>ほんなら,わ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 239,
+   "offset": 19721,
+   "length_bytes": 34,
+   "raw_hex": "0c2f80d5fff6822e060c114e2b030680d1fff58267030a141a0f2e39090680d0fff6",
+   "text_jp": "しが,<PAGE>寝かしちゃろうか!<LINE>言うことはそんだけか?<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 240,
+   "offset": 19755,
+   "length_bytes": 34,
+   "raw_hex": "2311021480d51b18272e1402092e3c80cffff5051f4880d51b18082a1429194c80d1",
+   "text_jp": "もちいと,ひねらんといけんで{207}<LINE>おまぁ,ひねくれとるのぉ!",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 241,
+   "offset": 19789,
+   "length_bytes": 32,
+   "raw_hex": "fff6052a2f81b581fc0c114e2b030680d1fff5051f4880d586a12e3d291980d7",
+   "text_jp": "<PAGE>おれが旻生しちゃろうか!<LINE>おまぁ,歪んどるの…",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 242,
+   "offset": 19822,
+   "length_bytes": 26,
+   "raw_hex": "fffcfff62b0815811181241615272e3880d7fff51c17090680d7",
+   "text_jp": "<CLOSE><PAGE>ろくな大人にならんぞ…<LINE>ふぬけか…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 243,
+   "offset": 19848,
+   "length_bytes": 57,
+   "raw_hex": "fffcfff6051f4880d5811c83490c022680cffff5051f4880d5064d0a0480cc0a148267031048827b0514292e152780d5812582cf02260580d1",
+   "text_jp": "<CLOSE><PAGE>おまぁ,精進しいよ{207}<LINE>おまぁ,かっこえ{204}こと言うたぁ思おとるんなら,間違いよお!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 244,
+   "offset": 19905,
+   "length_bytes": 48,
+   "raw_hex": "fff6052a2f80d50f198115354e09041980d1fff526038267031080d1fff60f0a1f3c8169852401298252152780d5fff6",
+   "text_jp": "<PAGE>おれが,その星じゃけえの!<LINE>よう言うた!<PAGE>そこまで痍肭ある奴なら,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 245,
+   "offset": 19952,
+   "length_bytes": 58,
+   "raw_hex": "051f4880d583bc81db0c114e292c4880d1fff51a4880d7824e82dd19080e1680d5fff60c2f1502830381f92d0c14291580d7fffcfff6828c1981",
+   "text_jp": "おまぁ,信注しちゃるわぁ!<LINE>はぁ…子供のくせに,<PAGE>しがない汢事をしとるな…<CLOSE><PAGE>械の",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 246,
+   "offset": 20010,
+   "length_bytes": 49,
+   "raw_hex": "5f80d58229264c80cf826f0414094b80cffff582c780d583a528502e152780d0fff6627f8096781980d5052a0680d0fffc",
+   "text_jp": "セ,舍よぉ{207}覚えとけぇ{207}<LINE>誰,悵りょんなら?<PAGE>チンピラの,おれか?<CLOSE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE>"
+  },
+  {
+   "id": 247,
+   "offset": 20060,
+   "length_bytes": 58,
+   "raw_hex": "fff682d61a80d5242213082a4b2480d780d7ffef052a2f80d5820107500329191680d5fff6851a845f100180d50404817e8237354e1980cffff6",
+   "text_jp": "<PAGE>今は,やめてくれぇや……<VOICE?>おれが,鼬きょうるのに,<PAGE>散歩たあ,ええ身分じゃの{207}<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 248,
+   "offset": 20117,
+   "length_bytes": 28,
+   "raw_hex": "82188514270c1680d53e270c102b0680d1fff51a4d1a4d1a4d1a4d80",
+   "text_jp": "気嘖らしに,ばらしたろか!<LINE>はっはっはっはっ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 249,
+   "offset": 20145,
+   "length_bytes": 52,
+   "raw_hex": "d1fff6051f4880d58198828c0d292c80cffff50a0a162382852f054d102e0680cffff6051f48152780d58279812016152985f684",
+   "text_jp": "!<PAGE>おまぁ,申械するわ{207}<LINE>ここにも女がおったんか{207}<PAGE>おまぁなら,据道になる覺",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 250,
+   "offset": 20197,
+   "length_bytes": 53,
+   "raw_hex": "7580d5fff6234d1429354e2b03194c80d1ffef0f2f4815816d81691a80d525290b2e3c80d1fff6051f4880d50c4e4129839281a949",
+   "text_jp": "ヤ,<PAGE>もっとるじゃろうのぉ!<VOICE?>そがぁな怒痍は,ゆるさんで!<PAGE>おまぁ,しゃべる機会ぃ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<VOICE?>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 251,
+   "offset": 20251,
+   "length_bytes": 39,
+   "raw_hex": "fff62303150206230c2a2e09041980d180d1fff5051f4880d5853b0249827b032e152780d5fff6",
+   "text_jp": "<PAGE>もうないかもしれんけえの!!<LINE>おまぁ,怖いぃ思うんなら,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 252,
+   "offset": 20289,
+   "length_bytes": 31,
+   "raw_hex": "1a15062780d58360042e354e15482c80d1fff5051f4880d51e2e1f80d5fff6",
+   "text_jp": "はなから,答えんじゃなぁわ!<LINE>おまぁ,ほんま,<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 253,
+   "offset": 20320,
+   "length_bytes": 46,
+   "raw_hex": "2c0c190a1480d51522142e194c80d780d7fff581f72f28491a02092e80cffff684ac0b2a102780d53d2f4816835d",
+   "text_jp": "わしのこと,なめとんのぉ……<LINE>独がりぃはいけん{207}<PAGE>莉されたら,どがぁに痛",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 254,
+   "offset": 20366,
+   "length_bytes": 46,
+   "raw_hex": "020680d5fff681bc2810022e0680d180d1fff5051f4880d51516822e4209100a14fff6826703142e15274880d100",
+   "text_jp": "いか,<PAGE>知りたいんか!!<LINE>おまぁ,なに寝ぼけたこと<PAGE>言うとんならぁ! ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 255,
+   "offset": 20412,
+   "length_bytes": 47,
+   "raw_hex": "052a2748fff61522080b4d142e194c80d1fff50110288140261980cffff680957f809680cc164980d583b019828c82",
+   "text_jp": "おれらぁ<PAGE>なめくさっとんのぉ!<LINE>あたり前よの{207}<PAGE>パンピ{204}にぃ,簑の械",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 256,
+   "offset": 20459,
+   "length_bytes": 50,
+   "raw_hex": "8d1a80d5fff63e2880d50c2e3c043c80cffff5051f4880d5152e354e8267032e152780d1fff6152214291480d5815e2ffff6",
+   "text_jp": "ヅは,<PAGE>ばり,しんでえで{207}<LINE>おまぁ,なんじゃ言うんなら!<PAGE>なめとると,命が<PAGE>",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<PAGE>"
+  },
+  {
+   "id": 257,
+   "offset": 20509,
+   "length_bytes": 50,
+   "raw_hex": "152e42014d132380d582ee272e3c4b80d1fff50c4e414d1080d780d7fff61e2e1f197980a354354e15481980d1fffcfff605",
+   "text_jp": "なんぼあっても,坩らんでぇ!<LINE>しゃべった……<PAGE>ほんまのリュウじゃなぁの!<CLOSE><PAGE>お",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 258,
+   "offset": 20559,
+   "length_bytes": 30,
+   "raw_hex": "2a391f0c134b813882bc81d2082e0680d1fff51a1a1a1a1a1a80d1fff61e",
+   "text_jp": "れだましてぇ地獄行くんか!<LINE>はははははは!<PAGE>ほ",
+   "notes": "",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<PAGE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 259,
+   "offset": 20589,
+   "length_bytes": 32,
+   "raw_hex": "2e1f264c80d7812482cf02354e194c80d1fff5051f4880d581342e392e354e80",
+   "text_jp": "んまよぉ…人違いじゃのぉ!<LINE>おまぁ,迅んだんじゃ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  },
+  {
+   "id": 260,
+   "offset": 20621,
+   "length_bytes": 31,
+   "raw_hex": "d7fffcfff6030f354e2b80cc2f80d780d7fff5808b7180cc80cffff5808b71",
+   "text_jp": "…<CLOSE><PAGE>うそじゃろ{204}が……<LINE>ダミ{204}{207}<LINE>ダミ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!<LINE>Who d'you think you're lookin' at, punk?!"
+  }
+ ]
+}

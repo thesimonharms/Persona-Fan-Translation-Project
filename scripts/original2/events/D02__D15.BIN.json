@@ -1,0 +1,39 @@
+{
+ "file": "D02/D15.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 254450,
+   "length_bytes": 6,
+   "raw_hex": "373771851429",
+   "text_jp": "ぜぜミ嘖る",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 254963,
+   "length_bytes": 6,
+   "raw_hex": "4b6e3a85ff14",
+   "text_jp": "ぇヘぢ膕と",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 287589,
+   "length_bytes": 6,
+   "raw_hex": "222214020214",
+   "text_jp": "めめといいと",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 288356,
+   "length_bytes": 7,
+   "raw_hex": "07221407221402",
+   "text_jp": "きめときめとい",
+   "translation_en": "..."
+  }
+ ]
+}

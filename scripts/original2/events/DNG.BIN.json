@@ -1,0 +1,47 @@
+{
+ "file": "DNG.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 99464,
+   "length_bytes": 9,
+   "raw_hex": "0a80033c0c116384ff",
+   "text_jp": "こうでしちツ民",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 113818,
+   "length_bytes": 11,
+   "raw_hex": "84240a80033c0c116384ff",
+   "text_jp": "漢こうでしちツ民",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 162458,
+   "length_bytes": 6,
+   "raw_hex": "502621204002",
+   "text_jp": "ょよむみぶい",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 220620,
+   "length_bytes": 9,
+   "raw_hex": "19815b815c2f072a10",
+   "text_jp": "の効果がきれた",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 220658,
+   "length_bytes": 10,
+   "raw_hex": "7319815b815c2f072a10",
+   "text_jp": "メの効果がきれた",
+   "translation_en": "..."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "file": "D00/D05.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 6989,
+   "length_bytes": 9,
+   "raw_hex": "7f5a6b356f6a6a4049",
+   "text_jp": "ンケハじホノノぶぃ",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 7287,
+   "length_bytes": 3,
+   "raw_hex": "396e4e",
+   "text_jp": "だヘゃ",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 146036,
+   "length_bytes": 10,
+   "raw_hex": "82c11a839c1f4d130229",
+   "text_jp": "店は閉まっている",
+   "translation_en": "..."
+  }
+ ]
+}

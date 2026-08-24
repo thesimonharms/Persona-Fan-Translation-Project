@@ -1,0 +1,39 @@
+{
+ "file": "D01/D0A.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 149704,
+   "length_bytes": 8,
+   "raw_hex": "02150226033980d7",
+   "text_jp": "いないようだ…",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 149780,
+   "length_bytes": 12,
+   "raw_hex": "812419821882481a150280d7",
+   "text_jp": "人の気配はない…",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 149864,
+   "length_bytes": 8,
+   "raw_hex": "02150226033980d7",
+   "text_jp": "いないようだ…",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 149940,
+   "length_bytes": 11,
+   "raw_hex": "85ce2f06064d13022980d7",
+   "text_jp": "鍵がかかっている…",
+   "translation_en": "..."
+  }
+ ]
+}

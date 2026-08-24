@@ -1,0 +1,87 @@
+{
+ "file": "D03/D18.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 133710,
+   "length_bytes": 15,
+   "raw_hex": "81cc2f849982183c084d1202114e03",
+   "text_jp": "指が冷気でくっついちゃう",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 133729,
+   "length_bytes": 10,
+   "raw_hex": "25071980cb11080c5003",
+   "text_jp": "ゆきの:ちくしょう",
+   "translation_en": "Yukino: ..."
+  },
+  {
+   "id": 2,
+   "offset": 133741,
+   "length_bytes": 9,
+   "raw_hex": "80915914230c150215",
+   "text_jp": "ビクともしないな",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 133754,
+   "length_bytes": 9,
+   "raw_hex": "52755f80cb14160608",
+   "text_jp": "アヤセ:とにかく",
+   "translation_en": "Ayase: ..."
+  },
+  {
+   "id": 4,
+   "offset": 133765,
+   "length_bytes": 41,
+   "raw_hex": "80da813d8116198647198136835b80db2d838e222603260119808b7f808e809b80cc2d83bc35130b48",
+   "text_jp": "｜悪魔の鍖の破片』を雫めようよあのダンディ{204}を信じてさぁ",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 133818,
+   "length_bytes": 7,
+   "raw_hex": "82522d83bc3513",
+   "text_jp": "奴を信じて",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 133827,
+   "length_bytes": 11,
+   "raw_hex": "83d8168362064d13202906",
+   "text_jp": "塔に向かってみるか",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 133851,
+   "length_bytes": 7,
+   "raw_hex": "82eb4d1313082a",
+   "text_jp": "待っててくれ",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 133928,
+   "length_bytes": 12,
+   "raw_hex": "85d21a862b28837c02130229",
+   "text_jp": "扉は凍り村いている",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 134008,
+   "length_bytes": 14,
+   "raw_hex": "85d21a830908839c340b2a130229",
+   "text_jp": "扉は圜く閉ざされている",
+   "translation_en": "..."
+  }
+ ]
+}

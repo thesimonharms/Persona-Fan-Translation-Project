@@ -1,0 +1,3910 @@
+{
+ "file": "E0",
+ "source": "ADV__E0.BIN",
+ "chunk_index": 4,
+ "total_chunks": 8,
+ "start_idx": 1950,
+ "end_idx": 2600,
+ "entries": [
+  {
+   "id": 3972,
+   "offset": 554370,
+   "text_jp": "まだ痞畭のどこかにいるっつ{204}コトか…",
+   "translation_en": "So you're saying she's still somewhere in the hospital...?"
+  },
+  {
+   "id": 3973,
+   "offset": 554453,
+   "text_jp": "言っても信じなかったでしょ?",
+   "translation_en": "You wouldn't have believed me even if I told you, right?"
+  },
+  {
+   "id": 3974,
+   "offset": 554476,
+   "text_jp": "神取をやっつければ",
+   "translation_en": "I thought if we took down Kandori,"
+  },
+  {
+   "id": 3975,
+   "offset": 554491,
+   "text_jp": "どちらの械晃も赱どおりになると思ったから…",
+   "translation_en": "both worlds would return to normal..."
+  },
+  {
+   "id": 3976,
+   "offset": 554519,
+   "text_jp": "済んでから話そうと思ってたの",
+   "translation_en": "So I intended to tell you after it was all over."
+  },
+  {
+   "id": 3977,
+   "offset": 554540,
+   "text_jp": "マ{204}ク:なるほどねぇ…",
+   "translation_en": "Mark: I see how it is..."
+  },
+  {
+   "id": 3978,
+   "offset": 554561,
+   "text_jp": "甞匣がいねぇけど",
+   "translation_en": "Chisato's not here, though."
+  },
+  {
+   "id": 3979,
+   "offset": 554573,
+   "text_jp": "どこにいんだ?",
+   "translation_en": "Where did she go?"
+  },
+  {
+   "id": 3980,
+   "offset": 554601,
+   "text_jp": "甞匣さんは",
+   "translation_en": "Chisato-san was..."
+  },
+  {
+   "id": 3981,
+   "offset": 554610,
+   "text_jp": "黒い女の子に達れていかれた…",
+   "translation_en": "taken away by the girl in black..."
+  },
+  {
+   "id": 3982,
+   "offset": 554635,
+   "text_jp": "くそ!",
+   "translation_en": "Damn it!"
+  },
+  {
+   "id": 3984,
+   "offset": 554663,
+   "text_jp": "なんだぁ!?",
+   "translation_en": "What the heck was that?!"
+  },
+  {
+   "id": 3985,
+   "offset": 554700,
+   "text_jp": "なんですの!?",
+   "translation_en": "What on earth is that?!"
+  },
+  {
+   "id": 3986,
+   "offset": 554741,
+   "text_jp": "なんなのよ{204}!?",
+   "translation_en": "What's going on now~?!"
+  },
+  {
+   "id": 3987,
+   "offset": 554768,
+   "text_jp": "またあの子!?",
+   "translation_en": "That girl again?!"
+  },
+  {
+   "id": 3988,
+   "offset": 554784,
+   "text_jp": "女の子の声:キャハハハハ!",
+   "translation_en": "Girl's Voice: Kyahahahaha!"
+  },
+  {
+   "id": 3989,
+   "offset": 554811,
+   "text_jp": "こんな学枚",
+   "translation_en": "A stupid school like this..."
+  },
+  {
+   "id": 3990,
+   "offset": 554820,
+   "text_jp": "こわしてやるんだからぁ!",
+   "translation_en": "I'm gonna smash it all to pieces!"
+  },
+  {
+   "id": 3991,
+   "offset": 554843,
+   "text_jp": "けしちゃったから",
+   "translation_en": "I erased the exit,"
+  },
+  {
+   "id": 3992,
+   "offset": 554853,
+   "text_jp": "だれもにげられないよ{214}だ!",
+   "translation_en": "so now nobody can ever escape, nyaaah!"
+  },
+  {
+   "id": 3993,
+   "offset": 554908,
+   "text_jp": "あの子だ!申日を消しただって!?",
+   "translation_en": "It's that girl! She erased the exits?!"
+  },
+  {
+   "id": 3994,
+   "offset": 554933,
+   "text_jp": "こんな秡况で悪魔が申たら…",
+   "translation_en": "If demons attack in a situation like this..."
+  },
+  {
+   "id": 3995,
+   "offset": 554965,
+   "text_jp": "くそぉ行かないと!",
+   "translation_en": "Dammit, I have to go!"
+  },
+  {
+   "id": 3996,
+   "offset": 554980,
+   "text_jp": "悃希:だめ!陽介鹿!",
+   "translation_en": "Maki: No, Yosuke-kun!"
+  },
+  {
+   "id": 3997,
+   "offset": 555005,
+   "text_jp": "無理しないで!",
+   "translation_en": "Don't push yourself!"
+  },
+  {
+   "id": 3999,
+   "offset": 555034,
+   "text_jp": "何とかしないと!",
+   "translation_en": "We have to do something!"
+  },
+  {
+   "id": 4000,
+   "offset": 555048,
+   "text_jp": "マ{204}ク:なんだかわかんね{204}が",
+   "translation_en": "Mark: Dunno what's going on,"
+  },
+  {
+   "id": 4001,
+   "offset": 555067,
+   "text_jp": "このままじゃ夘にも申れねぇか",
+   "translation_en": "but at this rate, we can't even get outside!"
+  },
+  {
+   "id": 4002,
+   "offset": 555100,
+   "text_jp": "陽介:くそ!",
+   "translation_en": "Yosuke: Dammit!"
+  },
+  {
+   "id": 4003,
+   "offset": 555112,
+   "text_jp": "身体が言うことさえ聞けば",
+   "translation_en": "If only my body would listen to me,"
+  },
+  {
+   "id": 4004,
+   "offset": 555130,
+   "text_jp": "今痍こそ千串を取戻すのに!",
+   "translation_en": "I'd bring Chisato back this time for sure!"
+  },
+  {
+   "id": 4005,
+   "offset": 555158,
+   "text_jp": "この性我かい?",
+   "translation_en": "This injury?"
+  },
+  {
+   "id": 4006,
+   "offset": 555174,
+   "text_jp": "前にあの子が禾たときに",
+   "translation_en": "When that girl came earlier,"
+  },
+  {
+   "id": 4007,
+   "offset": 555190,
+   "text_jp": "コテンパンにやられちゃってさ…",
+   "translation_en": "she beat me to a bloody pulp..."
+  },
+  {
+   "id": 4008,
+   "offset": 555214,
+   "text_jp": "惰けないよな!",
+   "translation_en": "Pretty pathetic, huh?!"
+  },
+  {
+   "id": 4009,
+   "offset": 555239,
+   "text_jp": "きっと学枚の",
+   "translation_en": "She must be"
+  },
+  {
+   "id": 4010,
+   "offset": 555249,
+   "text_jp": "どこかにいるはずよ!",
+   "translation_en": "somewhere in the school!"
+  },
+  {
+   "id": 4011,
+   "offset": 555274,
+   "text_jp": "油剖しないでね不思譲な力を持ってるから",
+   "translation_en": "Don't let your guard down, she possesses supernatural powers!"
+  },
+  {
+   "id": 4012,
+   "offset": 555304,
+   "text_jp": "南茱:あの幼女と神取は",
+   "translation_en": "Nanjo: What kind of relationship"
+  },
+  {
+   "id": 4013,
+   "offset": 555324,
+   "text_jp": "一体どんな関係なんだ?",
+   "translation_en": "does that young girl have with Kandori?"
+  },
+  {
+   "id": 4014,
+   "offset": 555342,
+   "text_jp": "利剖林粁が少なすぎだな…",
+   "translation_en": "We have far too little information to judge..."
+  },
+  {
+   "id": 4015,
+   "offset": 555364,
+   "text_jp": "マ{204}ク:悩んでてもしゃ{204}ねぇ!帰る方法見つけるためにも",
+   "translation_en": "Mark: No use standing around moping! If we wanna find a way back,"
+  },
+  {
+   "id": 4016,
+   "offset": 555402,
+   "text_jp": "この秡况をなんとかしね{204}とな",
+   "translation_en": "we gotta resolve this situation first!"
+  },
+  {
+   "id": 4017,
+   "offset": 555436,
+   "text_jp": "帰る方法なんて",
+   "translation_en": "A way back home..."
+  },
+  {
+   "id": 4018,
+   "offset": 555448,
+   "text_jp": "本当にあんのかなぁ{214}",
+   "translation_en": "I wonder if one really exists~?"
+  },
+  {
+   "id": 4019,
+   "offset": 555485,
+   "text_jp": "帰る方法搾しなよね{204}",
+   "translation_en": "We gotta find a way back, you know~"
+  },
+  {
+   "id": 4020,
+   "offset": 555504,
+   "text_jp": "エリ{204}:悪魔を払役する女の子…",
+   "translation_en": "Elly: A girl who commands demons..."
+  },
+  {
+   "id": 4021,
+   "offset": 555565,
+   "text_jp": "といったところかしら?",
+   "translation_en": "would that be an accurate description?"
+  },
+  {
+   "id": 4023,
+   "offset": 555672,
+   "text_jp": "んで甞匣は",
+   "translation_en": "And Chisato..."
+  },
+  {
+   "id": 4024,
+   "offset": 555681,
+   "text_jp": "黒いガキに達れてかれたままか?",
+   "translation_en": "was carried off by that black-clad brat, right?"
+  },
+  {
+   "id": 4025,
+   "offset": 555704,
+   "text_jp": "陽介:ああ…",
+   "translation_en": "Yosuke: Yeah..."
+  },
+  {
+   "id": 4026,
+   "offset": 555716,
+   "text_jp": "僕がついていながら…",
+   "translation_en": "Even though I was right by her side..."
+  },
+  {
+   "id": 4027,
+   "offset": 555734,
+   "text_jp": "くそっ!",
+   "translation_en": "Dammit!"
+  },
+  {
+   "id": 4028,
+   "offset": 555754,
+   "text_jp": "神取のガキだと?",
+   "translation_en": "Kandori's brat?"
+  },
+  {
+   "id": 4029,
+   "offset": 555774,
+   "text_jp": "ガキなんていねぇはずだ",
+   "translation_en": "He shouldn't have any kids."
+  },
+  {
+   "id": 4080,
+   "offset": 562278,
+   "text_jp": "おれ達が禾たからには",
+   "translation_en": "Now that we're here,"
+  },
+  {
+   "id": 4081,
+   "offset": 562292,
+   "text_jp": "もう安沚だぜ!",
+   "translation_en": "you can relax!"
+  },
+  {
+   "id": 4082,
+   "offset": 562345,
+   "text_jp": "沚配いりませんわ!",
+   "translation_en": "Don't you worry!"
+  },
+  {
+   "id": 4083,
+   "offset": 562378,
+   "text_jp": "だいじょ{204}ぶ!?",
+   "translation_en": "We'll rescue her for you!"
+  },
+  {
+   "id": 4084,
+   "offset": 562437,
+   "text_jp": "だいじょぶ!?",
+   "translation_en": "Leave it to us!"
+  },
+  {
+   "id": 4085,
+   "offset": 562455,
+   "text_jp": "そこの悪魔!",
+   "translation_en": "Don't worry,"
+  },
+  {
+   "id": 4086,
+   "offset": 562477,
+   "text_jp": "禾るわ禾るわ",
+   "translation_en": "leave everything to us!"
+  },
+  {
+   "id": 4087,
+   "offset": 562487,
+   "text_jp": "今宵の享は血に飢えておる",
+   "translation_en": "It'll all work out!"
+  },
+  {
+   "id": 4088,
+   "offset": 562514,
+   "text_jp": "血の花を様かせようぞ",
+   "translation_en": "Cheer up!"
+  },
+  {
+   "id": 4089,
+   "offset": 562557,
+   "text_jp": "下がってろ!",
+   "translation_en": "Elly: We will definitely"
+  },
+  {
+   "id": 4090,
+   "offset": 562596,
+   "text_jp": "珎可:てめぇら…?",
+   "translation_en": "rescue Chisato-san!"
+  },
+  {
+   "id": 4091,
+   "offset": 562621,
+   "text_jp": "こいつは俺が殺る",
+   "translation_en": "Please put your faith in us!"
+  },
+  {
+   "id": 4092,
+   "offset": 562645,
+   "text_jp": "屎勢のいい小僧だ",
+   "translation_en": "Nanjo: You have my word."
+  },
+  {
+   "id": 4093,
+   "offset": 562675,
+   "text_jp": "お前から血祭りにあげてやろう",
+   "translation_en": "We shall bring her back without fail."
+  },
+  {
+   "id": 4094,
+   "offset": 562702,
+   "text_jp": "若の孛蒹を恒やむがいい",
+   "translation_en": "Wait here for our return."
+  },
+  {
+   "id": 4095,
+   "offset": 569876,
+   "text_jp": "マ{204}ク:マジ鷲いたぜぇ",
+   "translation_en": "Yukino: Rest easy."
+  },
+  {
+   "id": 4096,
+   "offset": 569899,
+   "text_jp": "ペルソナ払いたぁな{204}",
+   "translation_en": "We'll make sure Chisato"
+  },
+  {
+   "id": 4097,
+   "offset": 569916,
+   "text_jp": "珎可:…なんだと?",
+   "translation_en": "gets returned safe and sound."
+  },
+  {
+   "id": 4098,
+   "offset": 569938,
+   "text_jp": "そうだってのか…?",
+   "translation_en": "Just stay put."
+  },
+  {
+   "id": 4099,
+   "offset": 569965,
+   "text_jp": "そういうことだ",
+   "translation_en": "Yosuke: I'm sorry..."
+  },
+  {
+   "id": 4100,
+   "offset": 569987,
+   "text_jp": "どうやら",
+   "translation_en": "I'm counting on you...!"
+  },
+  {
+   "id": 4101,
+   "offset": 569993,
+   "text_jp": "本物の埴尸らしいな",
+   "translation_en": "Please be careful!"
+  },
+  {
+   "id": 4102,
+   "offset": 570012,
+   "text_jp": "珎可:…どういう意味だ?",
+   "translation_en": "Watch out for that girl!"
+  },
+  {
+   "id": 4103,
+   "offset": 570045,
+   "text_jp": "箕く傑ているけど私たちの械晃ではないんですの",
+   "translation_en": "She travels with demons!"
+  },
+  {
+   "id": 4105,
+   "offset": 570136,
+   "text_jp": "かっぽじって聞きなよ",
+   "translation_en": "Where could she have gone?"
+  },
+  {
+   "id": 4106,
+   "offset": 570155,
+   "text_jp": "おれ達たちの知ってる",
+   "translation_en": "Let's go look for her!"
+  },
+  {
+   "id": 4107,
+   "offset": 570169,
+   "text_jp": "学枚であってそうじゃない!",
+   "translation_en": "Let's search the school!"
+  },
+  {
+   "id": 4108,
+   "offset": 570189,
+   "text_jp": "別の械晃の学枚なのさ!",
+   "translation_en": "We have to hurry!"
+  },
+  {
+   "id": 4109,
+   "offset": 570208,
+   "text_jp": "ど{204}だ鷲いたろ!",
+   "translation_en": "I wonder where she is?"
+  },
+  {
+   "id": 4111,
+   "offset": 570282,
+   "text_jp": "信じられる?",
+   "translation_en": "Maybe on an upper floor?"
+  },
+  {
+   "id": 4112,
+   "offset": 570297,
+   "text_jp": "ワケわかんないわよ{214}",
+   "translation_en": "Or toward the gymnasium?"
+  },
+  {
+   "id": 4113,
+   "offset": 570324,
+   "text_jp": "神取によって",
+   "translation_en": "Let's go see!"
+  },
+  {
+   "id": 4114,
+   "offset": 570362,
+   "text_jp": "その日だろう?",
+   "translation_en": "Nanjo: Shall we split up to search?"
+  },
+  {
+   "id": 4115,
+   "offset": 570375,
+   "text_jp": "神取とあの籵学者が言っていた",
+   "translation_en": "No, that would be far too reckless."
+  },
+  {
+   "id": 4116,
+   "offset": 570397,
+   "text_jp": "坎赱の狹間に洒られた少年とは",
+   "translation_en": "We must remain together."
+  },
+  {
+   "id": 4117,
+   "offset": 570433,
+   "text_jp": "違うか?",
+   "translation_en": "Mark: You got it!"
+  },
+  {
+   "id": 4118,
+   "offset": 570443,
+   "text_jp": "坎赱の狹間に洒られた手達が",
+   "translation_en": "Let's stick close!"
+  },
+  {
+   "id": 4119,
+   "offset": 570468,
+   "text_jp": "無事でここにいる?",
+   "translation_en": "Reiji: ...Hey."
+  },
+  {
+   "id": 4120,
+   "offset": 570485,
+   "text_jp": "手達は神取を追う?",
+   "translation_en": "What is it?"
+  },
+  {
+   "id": 4121,
+   "offset": 570518,
+   "text_jp": "何もねぇとこを漂っていたら",
+   "translation_en": "Reiji: Where is"
+  },
+  {
+   "id": 4122,
+   "offset": 570535,
+   "text_jp": "曰い服のガキがあらわれた…",
+   "translation_en": "Kandori hiding?"
+  },
+  {
+   "id": 4123,
+   "offset": 570556,
+   "text_jp": "そして気がついたらここにいた",
+   "translation_en": "I have business with that bastard."
+  },
+  {
+   "id": 4124,
+   "offset": 570573,
+   "text_jp": "それだけだ…",
+   "translation_en": "That's all..."
+  },
+  {
+   "id": 4125,
+   "offset": 570586,
+   "text_jp": "話す筋合いはねぇ",
+   "translation_en": "I have nothing else to say to you."
+  },
+  {
+   "id": 4126,
+   "offset": 570632,
+   "text_jp": "マ{204}ク:そうツッパんなって",
+   "translation_en": "Mark: Don't be so stubborn, man!"
+  },
+  {
+   "id": 4127,
+   "offset": 570657,
+   "text_jp": "神取をブチのめして帰る方法を搾す",
+   "translation_en": "We're gonna smash Kandori and find a way back home too!"
+  },
+  {
+   "id": 4128,
+   "offset": 570694,
+   "text_jp": "オフクロさんだって沚配してんぜきっとよ",
+   "translation_en": "Your old lady's gotta be worried sick about you!"
+  },
+  {
+   "id": 4129,
+   "offset": 570720,
+   "text_jp": "珎可:うるせぇ!",
+   "translation_en": "Reiji: Shut up!"
+  },
+  {
+   "id": 4130,
+   "offset": 570755,
+   "text_jp": "俺の好きなようにやる",
+   "translation_en": "I do things my own way."
+  },
+  {
+   "id": 4132,
+   "offset": 570788,
+   "text_jp": "人が沚配してやりゃあ",
+   "translation_en": "When people worry about you,"
+  },
+  {
+   "id": 4133,
+   "offset": 570803,
+   "text_jp": "諢子くれやがって!",
+   "translation_en": "that's how you react?!"
+  },
+  {
+   "id": 4134,
+   "offset": 570819,
+   "text_jp": "そ{204}かい好きにしな!",
+   "translation_en": "What a pain."
+  },
+  {
+   "id": 4135,
+   "offset": 570834,
+   "text_jp": "のたれ迅んでも知らね{204}からな!このタコ!",
+   "translation_en": "Brown: Talk about having no social skills!"
+  },
+  {
+   "id": 4136,
+   "offset": 570867,
+   "text_jp": "なんでぇアイツぁ…",
+   "translation_en": "You're always acting like a lone wolf!"
+  },
+  {
+   "id": 4137,
+   "offset": 570884,
+   "text_jp": "つっただけで",
+   "translation_en": "Reiji: Buzz off."
+  },
+  {
+   "id": 4138,
+   "offset": 570892,
+   "text_jp": "目の色変えやがって…",
+   "translation_en": "Don't get in my way."
+  },
+  {
+   "id": 4139,
+   "offset": 570931,
+   "text_jp": "何を言っても無驟だよ",
+   "translation_en": "Yukino: Hold it right there, Reiji!"
+  },
+  {
+   "id": 4140,
+   "offset": 570950,
+   "text_jp": "そういう樔をしてるもの…",
+   "translation_en": "You think you can take on SEBEC all by yourself?!"
+  },
+  {
+   "id": 4141,
+   "offset": 570972,
+   "text_jp": "何か大事なものを",
+   "translation_en": "Don't throw your life away!"
+  },
+  {
+   "id": 4142,
+   "offset": 570985,
+   "text_jp": "神取に搗つけられたんだよ",
+   "translation_en": "Reiji: That's none of your damn business."
+  },
+  {
+   "id": 4143,
+   "offset": 571002,
+   "text_jp": "わたしたちみたいにさ…",
+   "translation_en": "I'll kill him with my bare hands."
+  },
+  {
+   "id": 4144,
+   "offset": 571036,
+   "text_jp": "もの…",
+   "translation_en": "Nanjo: Foolish hothead."
+  },
+  {
+   "id": 4145,
+   "offset": 571057,
+   "text_jp": "やめやめ!",
+   "translation_en": "Rushing in blindly will only get you killed."
+  },
+  {
+   "id": 4146,
+   "offset": 571131,
+   "text_jp": "まともな芫言だな",
+   "translation_en": "Elly: Reiji-san, cooperating would benefit all of us."
+  },
+  {
+   "id": 4147,
+   "offset": 571143,
+   "text_jp": "奴の気持ちがわかる",
+   "translation_en": "Why refuse our assistance?"
+  },
+  {
+   "id": 4148,
+   "offset": 571157,
+   "text_jp": "そんな顔だな?",
+   "translation_en": "Reiji: I don't need friends."
+  },
+  {
+   "id": 4149,
+   "offset": 571181,
+   "text_jp": "なんだよ",
+   "translation_en": "Friends just hold you back."
+  },
+  {
+   "id": 4150,
+   "offset": 571194,
+   "text_jp": "簑表のない女は",
+   "translation_en": "Maki: Reiji-kun..."
+  },
+  {
+   "id": 4151,
+   "offset": 571206,
+   "text_jp": "めずらしいんだぜ?",
+   "translation_en": "Please don't say that..."
+  },
+  {
+   "id": 4152,
+   "offset": 571242,
+   "text_jp": "されてもおかしくないぜ!",
+   "translation_en": "Ayase: Ugh, what an edgelord!"
+  },
+  {
+   "id": 4153,
+   "offset": 571293,
+   "text_jp": "そろそろ行くか?",
+   "translation_en": "Fine, go get yourself killed, see if I care!"
+  },
+  {
+   "id": 4155,
+   "offset": 571329,
+   "text_jp": "犬然記衾物に指吏されても",
+   "translation_en": "Reiji stalks away."
+  },
+  {
+   "id": 4156,
+   "offset": 571350,
+   "text_jp": "日きいてやんね{204}からな!",
+   "translation_en": "Mark: That guy really gets on my nerves!"
+  },
+  {
+   "id": 4157,
+   "offset": 571382,
+   "text_jp": "アイツにそんなもんあんの?",
+   "translation_en": "Always acting so tough!"
+  },
+  {
+   "id": 4158,
+   "offset": 571398,
+   "text_jp": "村き合い悪いだけじゃないの{214}?",
+   "translation_en": "Yukino: Leave him be for now."
+  },
+  {
+   "id": 4159,
+   "offset": 571435,
+   "text_jp": "埴尸鹿だっけ?",
+   "translation_en": "We have to find that girl in black first."
+  },
+  {
+   "id": 4161,
+   "offset": 571489,
+   "text_jp": "将禾の夢とかさ",
+   "translation_en": "Right, let's keep moving!"
+  },
+  {
+   "id": 4162,
+   "offset": 571530,
+   "text_jp": "今が箕ければい{204}じゃん",
+   "translation_en": "Where is that girl hiding?"
+  },
+  {
+   "id": 4163,
+   "offset": 571546,
+   "text_jp": "バッカじゃないの…",
+   "translation_en": "Let's check the classroom corridors."
+  },
+  {
+   "id": 4164,
+   "offset": 571564,
+   "text_jp": "悃希:ここね",
+   "translation_en": "I hear laughter coming from down the hall!"
+  },
+  {
+   "id": 4165,
+   "offset": 571575,
+   "text_jp": "キミたちの械晃じゃないの",
+   "translation_en": "That's her voice!"
+  },
+  {
+   "id": 4166,
+   "offset": 571595,
+   "text_jp": "説畍したらいいのかなぁ",
+   "translation_en": "Let's go!"
+  },
+  {
+   "id": 4167,
+   "offset": 571612,
+   "text_jp": "珎可:なに?",
+   "translation_en": "Over here!"
+  },
+  {
+   "id": 4168,
+   "offset": 571647,
+   "text_jp": "いいだろう…",
+   "translation_en": "She ran toward the courtyard!"
+  },
+  {
+   "id": 4169,
+   "offset": 571658,
+   "text_jp": "てめぇらと一緒に行ってやる",
+   "translation_en": "Don't let her escape!"
+  },
+  {
+   "id": 4170,
+   "offset": 571680,
+   "text_jp": "悃希:決まりだね!",
+   "translation_en": "Hold on!"
+  },
+  {
+   "id": 4171,
+   "offset": 571756,
+   "text_jp": "悃希:なに?",
+   "translation_en": "What's that strange light?!"
+  },
+  {
+   "id": 4172,
+   "offset": 571775,
+   "text_jp": "なんかついてる?",
+   "translation_en": "The air feels heavy..."
+  },
+  {
+   "id": 4173,
+   "offset": 571797,
+   "text_jp": "あんまりカワイイんで",
+   "translation_en": "Demons are approaching!"
+  },
+  {
+   "id": 4174,
+   "offset": 571809,
+   "text_jp": "見とれちゃったんでしょ{204}",
+   "translation_en": "Get ready to fight!"
+  },
+  {
+   "id": 4175,
+   "offset": 571828,
+   "text_jp": "わかるわかる",
+   "translation_en": "Persona, lend us strength!"
+  },
+  {
+   "id": 4176,
+   "offset": 571851,
+   "text_jp": "いつまでもグズってらんね{204}んだ",
+   "translation_en": "We defeated the demons!"
+  },
+  {
+   "id": 4177,
+   "offset": 571871,
+   "text_jp": "帛く行こうぜ!",
+   "translation_en": "Let's hurry!"
+  },
+  {
+   "id": 4178,
+   "offset": 571888,
+   "text_jp": "悃希:埴尸鹿…｜曰い服の子供』に肪けられたって言ったよね?",
+   "translation_en": "Maki: Haniwa-kun... you said you were saved by a 'child in white clothes,' right?"
+  },
+  {
+   "id": 4179,
+   "offset": 571935,
+   "text_jp": "ひょっとして…",
+   "translation_en": "Could it possibly be..."
+  },
+  {
+   "id": 4180,
+   "offset": 571947,
+   "text_jp": "｜まい』ちゃんのことかな…",
+   "translation_en": "Mai-chan...?"
+  },
+  {
+   "id": 4181,
+   "offset": 571965,
+   "text_jp": "何痍か見かけた事があるんだけどとても不思譲な女の子なの…",
+   "translation_en": "I've seen her a few times, she's a very mysterious little girl..."
+  },
+  {
+   "id": 4182,
+   "offset": 572008,
+   "text_jp": "マ{204}ク:あんのバカヤロウ…",
+   "translation_en": "Mark: That damn idiot..."
+  },
+  {
+   "id": 4183,
+   "offset": 572043,
+   "text_jp": "帛く行くぜ!んあ?",
+   "translation_en": "Let's move fast! Huh?"
+  },
+  {
+   "id": 4184,
+   "offset": 572058,
+   "text_jp": "｜なに怒ってるんだ』だぁ?",
+   "translation_en": "'What are you so mad about?'"
+  },
+  {
+   "id": 4185,
+   "offset": 572079,
+   "text_jp": "うっせ{204}!",
+   "translation_en": "You're asking me that?!"
+  },
+  {
+   "id": 4186,
+   "offset": 572105,
+   "text_jp": "放っておけ",
+   "translation_en": "I'm pissed off at that stubborn jerk!"
+  },
+  {
+   "id": 4187,
+   "offset": 572113,
+   "text_jp": "同じ女を追ってるんだ",
+   "translation_en": "Brown: Yeah, Mark's blood is boiling!"
+  },
+  {
+   "id": 4188,
+   "offset": 572128,
+   "text_jp": "いずれまた会うだろう",
+   "translation_en": "Chill out, man, you're gonna pop a vein!"
+  },
+  {
+   "id": 4189,
+   "offset": 572143,
+   "text_jp": "俺運の邪魔にならなければ",
+   "translation_en": "Nanjo: Direct your anger toward our objective."
+  },
+  {
+   "id": 4190,
+   "offset": 572201,
+   "text_jp": "いずれわかるだろう",
+   "translation_en": "Wasting emotional energy on Inaba is pointless."
+  },
+  {
+   "id": 4191,
+   "offset": 572216,
+   "text_jp": "俺運の役に立てばいい",
+   "translation_en": "Mark: Who're you calling Inaba, you Number One snob?!"
+  },
+  {
+   "id": 4192,
+   "offset": 572236,
+   "text_jp": "エリ{204}:大事なもの…",
+   "translation_en": "Yukino: Knock it off, both of you!"
+  },
+  {
+   "id": 4193,
+   "offset": 572268,
+   "text_jp": "あなた…",
+   "translation_en": "We don't have time for this nonsense!"
+  },
+  {
+   "id": 4194,
+   "offset": 572280,
+   "text_jp": "大切な人っています?",
+   "translation_en": "Look up ahead!"
+  },
+  {
+   "id": 4195,
+   "offset": 572304,
+   "text_jp": "エリ{204}:そう…",
+   "translation_en": "That's the girl in black!"
+  },
+  {
+   "id": 4197,
+   "offset": 572339,
+   "text_jp": "変なこと聞いてしまって…",
+   "translation_en": "Aki: Kyahaha! You guys are so slow!"
+  },
+  {
+   "id": 4198,
+   "offset": 572380,
+   "text_jp": "一緒ですわね…",
+   "translation_en": "Did you come all this way to play with Aki?"
+  },
+  {
+   "id": 4200,
+   "offset": 572412,
+   "text_jp": "人が隠してること知りたがるのは箕くないよな{204}",
+   "translation_en": "Maki: You're... Aki-chan?!"
+  },
+  {
+   "id": 4201,
+   "offset": 572451,
+   "text_jp": "隠し事あるだろ?",
+   "translation_en": "Why are you doing this?!"
+  },
+  {
+   "id": 4202,
+   "offset": 572488,
+   "text_jp": "やっぱそ{204}だろ?",
+   "translation_en": "Aki: Because it's fun!"
+  },
+  {
+   "id": 4203,
+   "offset": 572505,
+   "text_jp": "そういうもんだよな!",
+   "translation_en": "This school is boring and stupid!"
+  },
+  {
+   "id": 4205,
+   "offset": 572538,
+   "text_jp": "おれ達とお前の仲って",
+   "translation_en": "So Aki's gonna break it all down!"
+  },
+  {
+   "id": 4206,
+   "offset": 572553,
+   "text_jp": "こんな部辺だけのもんなワケ?",
+   "translation_en": "Mark: You little brat, give Chisato back right now!"
+  },
+  {
+   "id": 4208,
+   "offset": 572608,
+   "text_jp": "あもそう思うでしょ?",
+   "translation_en": "Aki: No way, no way, nyaaah!"
+  },
+  {
+   "id": 4209,
+   "offset": 572624,
+   "text_jp": "今が箕ければいいじゃんね{204}?",
+   "translation_en": "Chisato is Aki's new toy!"
+  },
+  {
+   "id": 4210,
+   "offset": 572703,
+   "text_jp": "なによう!",
+   "translation_en": "She's locked up tight where you'll never find her!"
+  },
+  {
+   "id": 4211,
+   "offset": 572749,
+   "text_jp": "園忖とかいうの…",
+   "translation_en": "Nanjo: A spoiled child playing with demonic forces."
+  },
+  {
+   "id": 4212,
+   "offset": 572762,
+   "text_jp": "枌めて会った気がしねぇ…",
+   "translation_en": "Unforgivable."
+  },
+  {
+   "id": 4213,
+   "offset": 572780,
+   "text_jp": "何もんだ…?",
+   "translation_en": "Elly: Aki-chan, please listen to us."
+  },
+  {
+   "id": 4214,
+   "offset": 572807,
+   "text_jp": "埴尸鹿ていうの?かっこいい…",
+   "translation_en": "Destroying the school will hurt everyone."
+  },
+  {
+   "id": 4238,
+   "offset": 579146,
+   "text_jp": "いた!",
+   "translation_en": "Please stop this at once!"
+  },
+  {
+   "id": 4239,
+   "offset": 579156,
+   "text_jp": "黒い女の子:あ{204}!",
+   "translation_en": "Aki: I don't care! I hate everyone!"
+  },
+  {
+   "id": 4240,
+   "offset": 579173,
+   "text_jp": "パパのじゃましたやつら!",
+   "translation_en": "Everyone who ignores Maki, everyone who was mean to her..."
+  },
+  {
+   "id": 4241,
+   "offset": 579192,
+   "text_jp": "悃希:学枚を赱に戻しなさい!",
+   "translation_en": "I'll destroy them all!"
+  },
+  {
+   "id": 4242,
+   "offset": 579237,
+   "text_jp": "ペンペンするよ!",
+   "translation_en": "Maki: Aki-chan, wait... what do you mean by that?!"
+  },
+  {
+   "id": 4243,
+   "offset": 579252,
+   "text_jp": "黒い女の子:や{214}だよ{214}",
+   "translation_en": "Aki: You don't need to know!"
+  },
+  {
+   "id": 4244,
+   "offset": 579274,
+   "text_jp": "パパの言うことしか",
+   "translation_en": "Kandori-sama gave Aki this wonderful power!"
+  },
+  {
+   "id": 4245,
+   "offset": 579288,
+   "text_jp": "聞かないもんね!",
+   "translation_en": "Now, come out, my pet!"
+  },
+  {
+   "id": 4246,
+   "offset": 579302,
+   "text_jp": "やれるもんならやってみればぁ?ペチャパイ女!",
+   "translation_en": "Squash these annoying pests into jelly!"
+  },
+  {
+   "id": 4247,
+   "offset": 579336,
+   "text_jp": "悃希:ペチャって…!",
+   "translation_en": "A massive magical circle glows on the floor!"
+  },
+  {
+   "id": 4248,
+   "offset": 579355,
+   "text_jp": "も{204}アッタマきた!",
+   "translation_en": "The ground shakes violently!"
+  },
+  {
+   "id": 4249,
+   "offset": 579369,
+   "text_jp": "なんて愎ったらしい子なの!!",
+   "translation_en": "A terrifying roar echoes throughout the building!"
+  },
+  {
+   "id": 4250,
+   "offset": 579412,
+   "text_jp": "梠手はコドモなんだからよ",
+   "translation_en": "Brown: W-Whoa!! What the heck is that giant monster?!"
+  },
+  {
+   "id": 4251,
+   "offset": 579429,
+   "text_jp": "ココはよく言って聞かしてだな…",
+   "translation_en": "That's way too huge!!"
+  },
+  {
+   "id": 4252,
+   "offset": 579452,
+   "text_jp": "あき:だまれ子ザル!",
+   "translation_en": "Ayase: Eeeeeek! It's so gross and slimy!"
+  },
+  {
+   "id": 4253,
+   "offset": 579498,
+   "text_jp": "なんだオラァ!",
+   "translation_en": "Get it away from me!"
+  },
+  {
+   "id": 4254,
+   "offset": 579509,
+   "text_jp": "こんのクソガキが{214}!",
+   "translation_en": "You little damn brat~!"
+  },
+  {
+   "id": 4255,
+   "offset": 579528,
+   "text_jp": "南茱:藩ち善けサル",
+   "translation_en": "Nanjo: Calm down, monkey!"
+  },
+  {
+   "id": 4256,
+   "offset": 579599,
+   "text_jp": "うるさ{204}い!",
+   "translation_en": "Shut up~!"
+  },
+  {
+   "id": 4257,
+   "offset": 579609,
+   "text_jp": "ちょうどいいから",
+   "translation_en": "This is the perfect chance,"
+  },
+  {
+   "id": 4258,
+   "offset": 579619,
+   "text_jp": "ここで迅んじゃえ!",
+   "translation_en": "let's take it out right here!"
+  },
+  {
+   "id": 4259,
+   "offset": 579636,
+   "text_jp": "あき:ノモラカ'タノママ{204}!",
+   "translation_en": "Aki: Nomolaka Tanomama~!"
+  },
+  {
+   "id": 4260,
+   "offset": 579734,
+   "text_jp": "遊んでる場合じゃなくってよ!",
+   "translation_en": "This is no time for playing around!"
+  },
+  {
+   "id": 4262,
+   "offset": 579798,
+   "text_jp": "変なのが申てきたよぉ!",
+   "translation_en": "A bizarre creature just crawled out!"
+  },
+  {
+   "id": 4325,
+   "offset": 587999,
+   "text_jp": "パパに言いつけてやる!",
+   "translation_en": "Giant demon beast appears!"
+  },
+  {
+   "id": 4326,
+   "offset": 588016,
+   "text_jp": "パパは独いんだから!",
+   "translation_en": "Yukino: Watch its claws!"
+  },
+  {
+   "id": 4327,
+   "offset": 588034,
+   "text_jp": "おまえたちなんて",
+   "translation_en": "Form up and strike together!"
+  },
+  {
+   "id": 4328,
+   "offset": 588044,
+   "text_jp": "イチコロなんだから{204}!!",
+   "translation_en": "Persona, unleash your fury!!"
+  },
+  {
+   "id": 4329,
+   "offset": 588064,
+   "text_jp": "悃希:待ちなさい!",
+   "translation_en": "Mark: Take this, you oversized rat!!"
+  },
+  {
+   "id": 4330,
+   "offset": 588087,
+   "text_jp": "また逃げられちゃった",
+   "translation_en": "Smash it down!"
+  },
+  {
+   "id": 4331,
+   "offset": 588117,
+   "text_jp": "何者なんだ?",
+   "translation_en": "Nanjo: Aizen Myo-ou, smite the fiend!"
+  },
+  {
+   "id": 4332,
+   "offset": 588128,
+   "text_jp": "あの子供は…",
+   "translation_en": "Elly: Gabriel, purify the darkness!"
+  },
+  {
+   "id": 4333,
+   "offset": 588184,
+   "text_jp": "だいじょぶなの!?",
+   "translation_en": "Ayase: Like, drop dead already!"
+  },
+  {
+   "id": 4335,
+   "offset": 588210,
+   "text_jp": "鹿たちのおかげで",
+   "translation_en": "Maki: Persona, please help us!"
+  },
+  {
+   "id": 4336,
+   "offset": 588221,
+   "text_jp": "枚内は赱に戻ったよ",
+   "translation_en": "A furious battle rages across the hall!"
+  },
+  {
+   "id": 4338,
+   "offset": 588248,
+   "text_jp": "エリ{204}:どういたしまして",
+   "translation_en": "The demon roars and collapses in defeat!"
+  },
+  {
+   "id": 4340,
+   "offset": 588287,
+   "text_jp": "と{204}ぜんのことをしたまでよ",
+   "translation_en": "The beast dissolves into black mist!"
+  },
+  {
+   "id": 4341,
+   "offset": 588303,
+   "text_jp": "礼はいらないぜ!",
+   "translation_en": "Aki: Noooo! My pet!!"
+  },
+  {
+   "id": 4343,
+   "offset": 588329,
+   "text_jp": "命いくつあっても坩んないよね{204}",
+   "translation_en": "You meanies! You broke my toy!"
+  },
+  {
+   "id": 4344,
+   "offset": 588349,
+   "text_jp": "アンタに言っても",
+   "translation_en": "I hate you, I hate you all!!"
+  },
+  {
+   "id": 4345,
+   "offset": 588360,
+   "text_jp": "しょ{204}がないんだけどぉ",
+   "translation_en": "Maki: Aki-chan, wait!"
+  },
+  {
+   "id": 4346,
+   "offset": 588386,
+   "text_jp": "感謝してるよ",
+   "translation_en": "Aki: Kyaha! You'll never catch me!"
+  },
+  {
+   "id": 4347,
+   "offset": 588396,
+   "text_jp": "ところで…",
+   "translation_en": "The school exits are gone forever!"
+  },
+  {
+   "id": 4348,
+   "offset": 588404,
+   "text_jp": "会ってもらいたい人がいるんだ",
+   "translation_en": "You're trapped in this world for eternity!"
+  },
+  {
+   "id": 4349,
+   "offset": 588424,
+   "text_jp": "一緒に禾てもらえないか?",
+   "translation_en": "Aki vanishes in a swirl of dark shadows!"
+  },
+  {
+   "id": 4350,
+   "offset": 588444,
+   "text_jp": "南茱:なぜだ?",
+   "translation_en": "Mark: Dammit! She got away again!"
+  },
+  {
+   "id": 4351,
+   "offset": 588460,
+   "text_jp": "陽介:こっちに禾てから",
+   "translation_en": "Yukino: But the seal on the school weakened."
+  },
+  {
+   "id": 4352,
+   "offset": 588477,
+   "text_jp": "械話になってる奴なんだけど",
+   "translation_en": "Look, the front doors are partially unlocked!"
+  },
+  {
+   "id": 4353,
+   "offset": 588495,
+   "text_jp": "僕の言うことを信じてくれてさ",
+   "translation_en": "Nanjo: We should check on the others."
+  },
+  {
+   "id": 4354,
+   "offset": 588519,
+   "text_jp": "2つの械晃の事とか",
+   "translation_en": "Where is that Reiji fellow?"
+  },
+  {
+   "id": 4355,
+   "offset": 588534,
+   "text_jp": "色引諢べてくれてるんだ",
+   "translation_en": "Brown: Look over there!"
+  },
+  {
+   "id": 4356,
+   "offset": 588553,
+   "text_jp": "何かわかったかもしれない",
+   "translation_en": "He's limping away all by himself!"
+  },
+  {
+   "id": 4357,
+   "offset": 588586,
+   "text_jp": "マジに聞いてくれたなぁ",
+   "translation_en": "Reiji took damage in the fight but refuses to admit it."
+  },
+  {
+   "id": 4358,
+   "offset": 588606,
+   "text_jp": "どんなヤツなんだ?",
+   "translation_en": "Yukino: Hey, Reiji! Let us patch you up!"
+  },
+  {
+   "id": 4359,
+   "offset": 588630,
+   "text_jp": "まぁ…",
+   "translation_en": "Reiji: Leave me alone."
+  },
+  {
+   "id": 4360,
+   "offset": 588636,
+   "text_jp": "会えばわかるよ",
+   "translation_en": "I don't need your pity."
+  },
+  {
+   "id": 4361,
+   "offset": 588649,
+   "text_jp": "圖霄莖で待ってるから!",
+   "translation_en": "Reiji hops away on one leg."
+  },
+  {
+   "id": 4363,
+   "offset": 588700,
+   "text_jp": "圖霄莖に行ってみましょう",
+   "translation_en": "Ayase: What a stubborn idiot."
+  },
+  {
+   "id": 4364,
+   "offset": 588742,
+   "text_jp": "いなくなっちゃったよ",
+   "translation_en": "He's literally hopping away on one foot, haha!"
+  },
+  {
+   "id": 4365,
+   "offset": 588758,
+   "text_jp": "マジ性我してんのかな?",
+   "translation_en": "Brown: Pfft, that's hilarious!"
+  },
+  {
+   "id": 4367,
+   "offset": 588859,
+   "text_jp": "わかったわよぉ!",
+   "translation_en": "Trying to look cool while hopping like a rabbit!"
+  },
+  {
+   "id": 4368,
+   "offset": 588918,
+   "text_jp": "てんめぇ!",
+   "translation_en": "Elly: We should head to the library as planned."
+  },
+  {
+   "id": 4369,
+   "offset": 588926,
+   "text_jp": "今サルっつったろ?",
+   "translation_en": "Kurosu-kun might have critical information."
+  },
+  {
+   "id": 4370,
+   "offset": 588939,
+   "text_jp": "茫女っつったろ?",
+   "translation_en": "Nanjo: Agreed."
+  },
+  {
+   "id": 4371,
+   "offset": 588957,
+   "text_jp": "ダセ{204}名前で唾ぶな!",
+   "translation_en": "Let us proceed to the library at once."
+  },
+  {
+   "id": 4372,
+   "offset": 588991,
+   "text_jp": "二人ともぉ!",
+   "translation_en": "Maki: I hope Kurosu-kun is safe."
+  },
+  {
+   "id": 4373,
+   "offset": 589011,
+   "text_jp": "帛く圖霄莖行きましょ",
+   "translation_en": "Let's hurry to the library."
+  },
+  {
+   "id": 4374,
+   "offset": 589032,
+   "text_jp": "マ{204}ク:気にすんなよ",
+   "translation_en": "Mark: Don't let it bother you."
+  },
+  {
+   "id": 4375,
+   "offset": 589064,
+   "text_jp": "…片坩でピョンピョン行っちまいやがった",
+   "translation_en": "...He really just hopped off on one leg, unbelievable."
+  },
+  {
+   "id": 4376,
+   "offset": 589105,
+   "text_jp": "なぁレイジ",
+   "translation_en": "Hey, Reiji..."
+  },
+  {
+   "id": 4377,
+   "offset": 589145,
+   "text_jp": "ホントノリ悪ぃよなぁ",
+   "translation_en": "You're really such a buzzkill, man."
+  },
+  {
+   "id": 4378,
+   "offset": 589164,
+   "text_jp": "ハッピ{204}に行こうや",
+   "translation_en": "Let's keep things happy!"
+  },
+  {
+   "id": 4379,
+   "offset": 589200,
+   "text_jp": "かまうんじゃねぇ…",
+   "translation_en": "Don't mess with me..."
+  },
+  {
+   "id": 4380,
+   "offset": 589224,
+   "text_jp": "いいけどよ",
+   "translation_en": "Fine by me, but..."
+  },
+  {
+   "id": 4381,
+   "offset": 589248,
+   "text_jp": "悃希:陽介鹿が言ってたの",
+   "translation_en": "I'm heading out."
+  },
+  {
+   "id": 4382,
+   "offset": 589269,
+   "text_jp": "彼のことかな?",
+   "translation_en": "The party arrives at the library."
+  },
+  {
+   "id": 4383,
+   "offset": 589286,
+   "text_jp": "絶対圖霄莖にいるよ",
+   "translation_en": "The library is quiet and dimly lit."
+  },
+  {
+   "id": 4384,
+   "offset": 589316,
+   "text_jp": "あの齟",
+   "translation_en": "Kurosu is sitting at a large oak desk surrounded by occult tomes."
+  },
+  {
+   "id": 4385,
+   "offset": 589322,
+   "text_jp": "神取を父と唾ぶが",
+   "translation_en": "Kurosu: Ah, you've arrived."
+  },
+  {
+   "id": 4386,
+   "offset": 589336,
+   "text_jp": "本当に奴の実子か?",
+   "translation_en": "I have been expecting you."
+  },
+  {
+   "id": 4387,
+   "offset": 589380,
+   "text_jp": "マ{204}ク:さっきのガキ",
+   "translation_en": "Yukino: Kurosu-kun! Are you alright?"
+  },
+  {
+   "id": 4388,
+   "offset": 589418,
+   "text_jp": "ただじゃおかねぇ",
+   "translation_en": "Kurosu: Yes. The demons haven't breached this section yet."
+  },
+  {
+   "id": 4389,
+   "offset": 589432,
+   "text_jp": "マ{204}ク:ったくアヤセのヤロ{204}は日悪りぃよな{204}",
+   "translation_en": "Mark: Good to see you in one piece, Demon-kun."
+  },
+  {
+   "id": 4390,
+   "offset": 589484,
+   "text_jp": "械の宇わかんねぇぜ",
+   "translation_en": "What's the scoop on this crazy town?"
+  },
+  {
+   "id": 4391,
+   "offset": 589521,
+   "text_jp": "そ{204}と{204}ひねくれてんな",
+   "translation_en": "Why does everything look like Mikage-cho, but totally twisted?"
+  },
+  {
+   "id": 4392,
+   "offset": 589539,
+   "text_jp": "オレとオマエで",
+   "translation_en": "Kurosu: Please, sit down."
+  },
+  {
+   "id": 4393,
+   "offset": 589548,
+   "text_jp": "なんとかしたろ{204}や",
+   "translation_en": "What I am about to tell you may sound beyond belief,"
+  },
+  {
+   "id": 4394,
+   "offset": 589596,
+   "text_jp": "なくしてますのよね…つらいんでしょうね…",
+   "translation_en": "but it is the undeniable truth."
+  },
+  {
+   "id": 4396,
+   "offset": 589641,
+   "text_jp": "意夘とザンコクなんだよなぁ",
+   "translation_en": "Nanjo: Speak. We have witnessed enough madness today to believe anything."
+  },
+  {
+   "id": 4397,
+   "offset": 589659,
+   "text_jp": "加減も知らないしさぁ",
+   "translation_en": "Kurosu: Very well."
+  },
+  {
+   "id": 4398,
+   "offset": 589676,
+   "text_jp": "迅んだらどうすんだっつ{204}の",
+   "translation_en": "Look closely at these dimensional readings."
+  },
+  {
+   "id": 4399,
+   "offset": 589699,
+   "text_jp": "はなから殺すつもりだから",
+   "translation_en": "This world we are currently in..."
+  },
+  {
+   "id": 4400,
+   "offset": 589734,
+   "text_jp": "こわ…",
+   "translation_en": "is not our original reality."
+  },
+  {
+   "id": 4402,
+   "offset": 589770,
+   "text_jp": "今ごろクラブでノッてるハズなのにぃ",
+   "translation_en": "It is an alternate dimension born from the DEVA System."
+  },
+  {
+   "id": 4403,
+   "offset": 589810,
+   "text_jp": "俺にかまうなと言ってんだろうが",
+   "translation_en": "Elly: An alternate dimension...?"
+  },
+  {
+   "id": 4404,
+   "offset": 589832,
+   "text_jp": "悃希:そういえば…",
+   "translation_en": "Takahisa Kandori's machine did this?"
+  },
+  {
+   "id": 4405,
+   "offset": 589847,
+   "text_jp": "こっちの械晃のみんなは",
+   "translation_en": "Kurosu: Exactly."
+  },
+  {
+   "id": 4406,
+   "offset": 589862,
+   "text_jp": "どこ行っちゃったのかな?",
+   "translation_en": "The DEVA System connects human consciousness directly to the quantum realm."
+  },
+  {
+   "id": 4407,
+   "offset": 589895,
+   "text_jp": "みんないたんだよ",
+   "translation_en": "By doing so, it overwrote our physical reality with an ideal world."
+  },
+  {
+   "id": 4408,
+   "offset": 589908,
+   "text_jp": "マ{204}ク:見たとこ",
+   "translation_en": "Maki: An... ideal world?"
+  },
+  {
+   "id": 4409,
+   "offset": 589921,
+   "text_jp": "なんも変わんねぇのに",
+   "translation_en": "Kurosu: Yes. A world shaped entirely by someone's deepest inner psyche."
+  },
+  {
+   "id": 4410,
+   "offset": 589934,
+   "text_jp": "別の械晃ってんだからなぁ",
+   "translation_en": "Every building, every street, even the demons roaming outside..."
+  },
+  {
+   "id": 4412,
+   "offset": 589980,
+   "text_jp": "考え事をしていたから",
+   "translation_en": "They are all manifestations of a single human's subconscious desires and traumas."
+  },
+  {
+   "id": 4488,
+   "offset": 601188,
+   "text_jp": "黒瓜:鹿たちが新たな誌聞者か",
+   "translation_en": "Brown: Whoa, whoa, hold the phone!"
+  },
+  {
+   "id": 4489,
+   "offset": 601212,
+   "text_jp": "内譟鹿から話しは聞いている",
+   "translation_en": "You're saying this whole town is someone's giant dream?!"
+  },
+  {
+   "id": 4490,
+   "offset": 601234,
+   "text_jp": "手重な体験をしているようで",
+   "translation_en": "Kurosu: More like an externalized soul-space made tangible."
+  },
+  {
+   "id": 4491,
+   "offset": 601253,
+   "text_jp": "うらやましい限りだよ",
+   "translation_en": "And at the center of this reality stands the DEVA System itself."
+  },
+  {
+   "id": 4492,
+   "offset": 601268,
+   "text_jp": "マ{204}ク:…マジに黒瓜か?",
+   "translation_en": "Ayase: Whose dream is it, then?!"
+  },
+  {
+   "id": 4493,
+   "offset": 601312,
+   "text_jp": "エリ{204}:普僵にしゃべってる…",
+   "translation_en": "Who created this creepy monster town?!"
+  },
+  {
+   "id": 4495,
+   "offset": 601367,
+   "text_jp": "いつもの｜ヒヒヒ』は?",
+   "translation_en": "Kurosu: That... is what we must determine."
+  },
+  {
+   "id": 4496,
+   "offset": 601383,
+   "text_jp": "悪魔鹿らしくないじゃんかよ!",
+   "translation_en": "However, there are two distinct entities overseeing this realm:"
+  },
+  {
+   "id": 4497,
+   "offset": 601419,
+   "text_jp": "その顔で",
+   "translation_en": "The girl in black, Aki, who represents destruction and malice..."
+  },
+  {
+   "id": 4498,
+   "offset": 601426,
+   "text_jp": "まともにしゃべんないでよぉ!",
+   "translation_en": "and the girl in white, Mai, who represents purity and conscience."
+  },
+  {
+   "id": 4499,
+   "offset": 601443,
+   "text_jp": "よけいキモチワルイじゃん!",
+   "translation_en": "Maki: Mai-chan and Aki-chan..."
+  },
+  {
+   "id": 4500,
+   "offset": 601476,
+   "text_jp": "向こう側の僕は",
+   "translation_en": "They are two halves of the same person, aren't they?"
+  },
+  {
+   "id": 4501,
+   "offset": 601488,
+   "text_jp": "よほど変な女らしいな",
+   "translation_en": "Kurosu: Astute observation, Maki-san."
+  },
+  {
+   "id": 4502,
+   "offset": 601509,
+   "text_jp": "会ってみたいものだ",
+   "translation_en": "I would certainly like to meet them."
+  },
+  {
+   "id": 4503,
+   "offset": 601549,
+   "text_jp": "本題に入ろうか",
+   "translation_en": "Shall we get down to the main topic?"
+  },
+  {
+   "id": 4504,
+   "offset": 601576,
+   "text_jp": "南茱:2つの械晃について",
+   "translation_en": "Nanjo: Regarding these two worlds,"
+  },
+  {
+   "id": 4505,
+   "offset": 601596,
+   "text_jp": "諢べていると聞いたが",
+   "translation_en": "I heard you have been investigating them,"
+  },
+  {
+   "id": 4506,
+   "offset": 601615,
+   "text_jp": "どう考えているんだ?",
+   "translation_en": "what are your conclusions?"
+  },
+  {
+   "id": 4507,
+   "offset": 601632,
+   "text_jp": "黒瓜:この械のあらゆる事氛は",
+   "translation_en": "Kurosu: Every phenomenon in this realm,"
+  },
+  {
+   "id": 4508,
+   "offset": 601659,
+   "text_jp": "無関係に見えて",
+   "translation_en": "though appearing completely disconnected on the surface,"
+  },
+  {
+   "id": 4509,
+   "offset": 601672,
+   "text_jp": "全てが因果の糸で黠ばれている",
+   "translation_en": "is bound together by the threads of causality."
+  },
+  {
+   "id": 4510,
+   "offset": 601704,
+   "text_jp": "この黒い扉も然り",
+   "translation_en": "Nothing here happens by coincidence."
+  },
+  {
+   "id": 4511,
+   "offset": 601717,
+   "text_jp": "その糸をたぐる者だけが",
+   "translation_en": "The corruption spreading through the town,"
+  },
+  {
+   "id": 4512,
+   "offset": 601732,
+   "text_jp": "真実を知る事が申禾るんだ",
+   "translation_en": "the emergence of the demons,"
+  },
+  {
+   "id": 4513,
+   "offset": 601758,
+   "text_jp": "残衾ながら…",
+   "translation_en": "even our presence here—it is all interconnected."
+  },
+  {
+   "id": 4514,
+   "offset": 601769,
+   "text_jp": "それは僕の役目ではないようだ",
+   "translation_en": "Yukino: If it's connected, how do we get back home?"
+  },
+  {
+   "id": 4515,
+   "offset": 601833,
+   "text_jp": "というわけか",
+   "translation_en": "How do we undo this nightmare?"
+  },
+  {
+   "id": 4516,
+   "offset": 601844,
+   "text_jp": "黒瓜:誰がつむいだ糸か知らんがそう考えたまえ",
+   "translation_en": "Kurosu: We must travel to Araya Shrine."
+  },
+  {
+   "id": 4517,
+   "offset": 601881,
+   "text_jp": "諸鹿がたどるべき",
+   "translation_en": "Araya Shrine is the spiritual anchor where the boundaries between dimensions are thinnest."
+  },
+  {
+   "id": 4518,
+   "offset": 601893,
+   "text_jp": "糸の嬬を持つ者の名は?",
+   "translation_en": "There, you may find the Mirror of Exorcism—the Demon-Breaking Mirror."
+  },
+  {
+   "id": 4519,
+   "offset": 601969,
+   "text_jp": "今日の事仟が趨きる事を",
+   "translation_en": "Mark: The Demon-Breaking Mirror, huh?"
+  },
+  {
+   "id": 4520,
+   "offset": 601988,
+   "text_jp": "僕はあらかじめ知っていた",
+   "translation_en": "Sounds like just what we need to smash Kandori's machine!"
+  },
+  {
+   "id": 4521,
+   "offset": 602006,
+   "text_jp": "神扎で会った",
+   "translation_en": "Nanjo: A sacred relic capable of repelling demonic illusions."
+  },
+  {
+   "id": 4522,
+   "offset": 602017,
+   "text_jp": "さる坤土の斈言でな…",
+   "translation_en": "If we secure it, we can break through SEBEC's barriers."
+  },
+  {
+   "id": 4523,
+   "offset": 602036,
+   "text_jp": "マ{204}ク:サルの坤土だぁ?",
+   "translation_en": "Elly: Where is Araya Shrine located in this alternate town?"
+  },
+  {
+   "id": 4524,
+   "offset": 602055,
+   "text_jp": "サルに坤土もクソもあるか!!",
+   "translation_en": "Kurosu: It corresponds to the exact same location as in our world."
+  },
+  {
+   "id": 4525,
+   "offset": 602080,
+   "text_jp": "南茱:ええい!",
+   "translation_en": "However, the subway tunnels leading toward the shrine district are blocked by demons."
+  },
+  {
+   "id": 4526,
+   "offset": 602097,
+   "text_jp": "そのサルを黙らせろ!",
+   "translation_en": "You must navigate through the underground passage."
+  },
+  {
+   "id": 4527,
+   "offset": 602126,
+   "text_jp": "てんめぇ{214}",
+   "translation_en": "Brown: Subway dungeon crawl! Alright, let's gear up!"
+  },
+  {
+   "id": 4528,
+   "offset": 602134,
+   "text_jp": "このヨダレかけ女が!",
+   "translation_en": "Ayase: Ugh, dark smelly subways... my poor clothes!"
+  },
+  {
+   "id": 4529,
+   "offset": 602170,
+   "text_jp": "やかましい奴らだ…",
+   "translation_en": "Maki: Let's do our best, everyone."
+  },
+  {
+   "id": 4530,
+   "offset": 602218,
+   "text_jp": "二人とも!",
+   "translation_en": "We have to save Chisato-san and restore the town."
+  },
+  {
+   "id": 4532,
+   "offset": 602275,
+   "text_jp": "マ{204}クのおじさんかなんかだろ!",
+   "translation_en": "Kurosu: Before you embark, I strongly advise visiting the Velvet Room."
+  },
+  {
+   "id": 4533,
+   "offset": 602319,
+   "text_jp": "仮面のおじさん?",
+   "translation_en": "The blue door has appeared near the entrance hall."
+  },
+  {
+   "id": 4534,
+   "offset": 602350,
+   "text_jp": "フィレモンと名帚っていたが…",
+   "translation_en": "Master Igor can grant you the power of Persona fusion."
+  },
+  {
+   "id": 4535,
+   "offset": 602375,
+   "text_jp": "いいのかね?",
+   "translation_en": "Yukino: The Velvet Room... that weird blue room with the long-nosed guy?"
+  },
+  {
+   "id": 4536,
+   "offset": 602402,
+   "text_jp": "いつものことだから!",
+   "translation_en": "Kurosu: Yes. Without stronger Personas, surviving the trials ahead will be near impossible."
+  },
+  {
+   "id": 4537,
+   "offset": 602424,
+   "text_jp": "アラヤ神扎に行ってみようよ",
+   "translation_en": "Nanjo: We shall heed your advice."
+  },
+  {
+   "id": 4538,
+   "offset": 602444,
+   "text_jp": "わたしも前に会ったことあるけどあのおじさんなら",
+   "translation_en": "Let us visit the Velvet Room first."
+  },
+  {
+   "id": 4539,
+   "offset": 602471,
+   "text_jp": "神取の君場斯を知ってるかも!",
+   "translation_en": "Mark: Alright! Time to fuse some crazy powerful Personas!"
+  },
+  {
+   "id": 4540,
+   "offset": 602496,
+   "text_jp": "悃希:このドア…",
+   "translation_en": "The party thanks Kurosu and heads toward the Velvet Room."
+  },
+  {
+   "id": 4541,
+   "offset": 602515,
+   "text_jp": "やな感じだね…",
+   "translation_en": "Entering the Velvet Room."
+  },
+  {
+   "id": 4542,
+   "offset": 602540,
+   "text_jp": "いつかケリつけちゃる!",
+   "translation_en": "The ethereal blue chamber resonates with soothing operatic melody."
+  },
+  {
+   "id": 4543,
+   "offset": 602569,
+   "text_jp": "アホのせいで何を聞こうとしたか忘れたぞ",
+   "translation_en": "Igor sits behind a round table with a spread of tarot cards."
+  },
+  {
+   "id": 4544,
+   "offset": 602610,
+   "text_jp": "かまうなと言ってるだろうが",
+   "translation_en": "Igor: Welcome to the Velvet Room, travelers of the subconscious."
+  },
+  {
+   "id": 4545,
+   "offset": 602628,
+   "text_jp": "エリ{204}:この械晃の悪魔鹿は",
+   "translation_en": "I am Igor, a servant of Philemon."
+  },
+  {
+   "id": 4546,
+   "offset": 602650,
+   "text_jp": "頼りになりそうですわね",
+   "translation_en": "It is my duty to assist you in the creation and fusion of Personas."
+  },
+  {
+   "id": 4547,
+   "offset": 602670,
+   "text_jp": "聞題ありますけど",
+   "translation_en": "Maki: Hello, Igor-san!"
+  },
+  {
+   "id": 4549,
+   "offset": 602704,
+   "text_jp": "これはこれで笶えっけど",
+   "translation_en": "Igor: Ah, young lady, your spirit shines with extraordinary luminescence."
+  },
+  {
+   "id": 4550,
+   "offset": 602722,
+   "text_jp": "ちょ{204}し杜うよなぁ",
+   "translation_en": "Now then, allow me to explain the art of Persona fusion."
+  },
+  {
+   "id": 4551,
+   "offset": 602783,
+   "text_jp": "アンタが枌めてだよ",
+   "translation_en": "By combining the Spell Cards obtained from demons through negotiation,"
+  },
+  {
+   "id": 4552,
+   "offset": 602800,
+   "text_jp": "黒瓜:鹿運のバイタリティなら",
+   "translation_en": "we can birth new, formidable Personas."
+  },
+  {
+   "id": 4553,
+   "offset": 602823,
+   "text_jp": "どんな附難にぶつかっても",
+   "translation_en": "Nanjo: Explain the principles of this fusion."
+  },
+  {
+   "id": 4554,
+   "offset": 602839,
+   "text_jp": "まず大夫夬だろう",
+   "translation_en": "Everything should be perfectly fine,"
+  },
+  {
+   "id": 4555,
+   "offset": 602857,
+   "text_jp": "騒引しいが…",
+   "translation_en": "though it is rather noisy..."
+  },
+  {
+   "id": 4556,
+   "offset": 602872,
+   "text_jp": "陽介:アラヤ神扎の場斯は",
+   "translation_en": "Yosuke: The location of Araya Shrine"
+  },
+  {
+   "id": 4557,
+   "offset": 602893,
+   "text_jp": "僕たちの械晃と同じだよ",
+   "translation_en": "is the exact same as in our world."
+  },
+  {
+   "id": 4558,
+   "offset": 602915,
+   "text_jp": "帰る方法を見つけてくれ",
+   "translation_en": "Please, find a way to get us all back home!"
+  },
+  {
+   "id": 4559,
+   "offset": 602948,
+   "text_jp": "千串に会えたら",
+   "translation_en": "If you manage to see Chisato,"
+  },
+  {
+   "id": 4560,
+   "offset": 602980,
+   "text_jp": "ドアの向こうから",
+   "translation_en": "Beyond the door,"
+  },
+  {
+   "id": 4561,
+   "offset": 602992,
+   "text_jp": "不気味な兢激が聞こえる…",
+   "translation_en": "an eerie vibration can be heard..."
+  },
+  {
+   "id": 4562,
+   "offset": 603016,
+   "text_jp": "黒瓜:気になるようだね",
+   "translation_en": "The sound of demonic energy hums through the air."
+  },
+  {
+   "id": 4563,
+   "offset": 603039,
+   "text_jp": "一月前の異変と同時に突然申現したものだ",
+   "translation_en": "Check your equipment before moving forward."
+  },
+  {
+   "id": 4564,
+   "offset": 603073,
+   "text_jp": "色引試したんだが",
+   "translation_en": "Save your progress at the Agastya Tree."
+  },
+  {
+   "id": 4565,
+   "offset": 603086,
+   "text_jp": "ビクともしなくてな",
+   "translation_en": "Are you prepared to proceed?"
+  },
+  {
+   "id": 4566,
+   "offset": 603103,
+   "text_jp": "因果の糸が導けば",
+   "translation_en": "The party steps forward with renewed determination."
+  },
+  {
+   "id": 4567,
+   "offset": 603117,
+   "text_jp": "いずれ扉は闢かれるだろう",
+   "translation_en": "Igor shuffles the mystical cards with practiced elegance."
+  },
+  {
+   "id": 4569,
+   "offset": 603160,
+   "text_jp": "間違いだらけのオカルト杜…",
+   "translation_en": "Igor: In this realm, demons carry the essence of their true names."
+  },
+  {
+   "id": 4594,
+   "offset": 642820,
+   "text_jp": "ココは日復の泉!",
+   "translation_en": "When you negotiate successfully with a demon during battle,"
+  },
+  {
+   "id": 4595,
+   "offset": 642836,
+   "text_jp": "宸る械間は",
+   "translation_en": "it may surrender its Spell Card to you."
+  },
+  {
+   "id": 4596,
+   "offset": 642874,
+   "text_jp": "お舍坎第で何でもRecover",
+   "translation_en": "Mark: Yeah, we got a few of those cards already!"
+  },
+  {
+   "id": 4597,
+   "offset": 642904,
+   "text_jp": "ご注はな{204}に?",
+   "translation_en": "Igor: Splendid. By bringing two Spell Cards of different demon tribes here,"
+  },
+  {
+   "id": 4598,
+   "offset": 642944,
+   "text_jp": "トリッシュ:えっとぉ",
+   "translation_en": "I can perform the ritual of Persona awakening."
+  },
+  {
+   "id": 4599,
+   "offset": 642959,
+   "text_jp": "最近の日復梠場が",
+   "translation_en": "The combination of the two tribes determines the Arcana of the resulting Persona."
+  },
+  {
+   "id": 4600,
+   "offset": 642986,
+   "text_jp": "全貢でぇ…",
+   "translation_en": "Elly: The Major Arcana... Magician, Priestess, Empress, Emperor, and so forth?"
+  },
+  {
+   "id": 4601,
+   "offset": 643057,
+   "text_jp": "日復したげる!",
+   "translation_en": "Igor: Precisely, Miss Kirishima."
+  },
+  {
+   "id": 4602,
+   "offset": 643078,
+   "text_jp": "瓶んでけ{204}!",
+   "translation_en": "Each Arcana governs specific elemental affinities and potential."
+  },
+  {
+   "id": 4603,
+   "offset": 643134,
+   "text_jp": "だいじょぶだよ!",
+   "translation_en": "Furthermore, each party member possesses varying compatibility with different Arcanas."
+  },
+  {
+   "id": 4604,
+   "offset": 643153,
+   "text_jp": "ご注はある?",
+   "translation_en": "Nanjo: Compatibility? So certain Personas cannot be equipped by everyone?"
+  },
+  {
+   "id": 4605,
+   "offset": 643193,
+   "text_jp": "持ってないのぉ!?",
+   "translation_en": "Igor: Correct, young master."
+  },
+  {
+   "id": 4606,
+   "offset": 643215,
+   "text_jp": "お舍無い人キライ!",
+   "translation_en": "If compatibility is poor, the Persona will refuse to manifest,"
+  },
+  {
+   "id": 4607,
+   "offset": 643242,
+   "text_jp": "また禾てね",
+   "translation_en": "or its power will be severely diminished."
+  },
+  {
+   "id": 4608,
+   "offset": 643307,
+   "text_jp": "迅んじゃっても知らないから!",
+   "translation_en": "Always consider compatibility before finalizing a fusion."
+  },
+  {
+   "id": 4610,
+   "offset": 643340,
+   "text_jp": "待ってるから",
+   "translation_en": "Yukino: Good to know. What else should we keep in mind?"
+  },
+  {
+   "id": 4611,
+   "offset": 643393,
+   "text_jp": "注もないのに唾んだの!?",
+   "translation_en": "Igor: During the fusion ritual, you may also add a special catalyst—an item or gem."
+  },
+  {
+   "id": 4678,
+   "offset": 664493,
+   "text_jp": "ぐた｝",
+   "translation_en": "Adding an item can bestow unique bonus skills or enhance baseline parameters."
+  },
+  {
+   "id": 4679,
+   "offset": 672556,
+   "text_jp": "イゴ{204}ル:ようこそ",
+   "translation_en": "Brown: Sweet! So we can make super overpowered Personas if we use rare loot!"
+  },
+  {
+   "id": 4680,
+   "offset": 672602,
+   "text_jp": "古きカタチを唾び覚ます部厘",
+   "translation_en": "Igor: Hehehe, indeed. The possibilities are truly boundless."
+  },
+  {
+   "id": 4681,
+   "offset": 672640,
+   "text_jp": "見せてくれないか?",
+   "translation_en": "Now, let us examine the Spell Cards in your possession."
+  },
+  {
+   "id": 4683,
+   "offset": 672692,
+   "text_jp": "イゴ{204}ル:何が筆みかね?",
+   "translation_en": "Select the two cards you wish to combine."
+  },
+  {
+   "id": 4684,
+   "offset": 672742,
+   "text_jp": "よろしいですかな?",
+   "translation_en": "The fusion circle ignites with azure fire."
+  },
+  {
+   "id": 4685,
+   "offset": 672784,
+   "text_jp": "坩りませんな",
+   "translation_en": "The two demon cards dissolve into radiant particles of light."
+  },
+  {
+   "id": 4686,
+   "offset": 672811,
+   "text_jp": "ペルソナを頻かれませんな",
+   "translation_en": "From the crucible of the subconscious, a magnificent new Persona arises!"
+  },
+  {
+   "id": 4687,
+   "offset": 672832,
+   "text_jp": "イゴ{204}ル:どうするかね?",
+   "translation_en": "Persona awakened successfully!"
+  },
+  {
+   "id": 4688,
+   "offset": 672867,
+   "text_jp": "さらばですな…",
+   "translation_en": "The new Persona is added to your stock."
+  },
+  {
+   "id": 4689,
+   "offset": 672880,
+   "text_jp": "イゴ{204}ル:新たなペルソナが",
+   "translation_en": "Igor: Remember, Personas grow stronger as you use their skills in battle."
+  },
+  {
+   "id": 4690,
+   "offset": 672909,
+   "text_jp": "私が合体して",
+   "translation_en": "With each rank gained, they will unlock their hidden capabilities."
+  },
+  {
+   "id": 4691,
+   "offset": 672920,
+   "text_jp": "作って草し部げましょう",
+   "translation_en": "Maki: Thank you so much, Igor-san!"
+  },
+  {
+   "id": 4692,
+   "offset": 672938,
+   "text_jp": "私がペルソナを作るためには",
+   "translation_en": "Igor: The pleasure is entirely mine."
+  },
+  {
+   "id": 4693,
+   "offset": 672956,
+   "text_jp": "魔晃から召喚した悪魔を",
+   "translation_en": "May the blessing of Philemon guide your footsteps in the dark."
+  },
+  {
+   "id": 4694,
+   "offset": 672975,
+   "text_jp": "合体しなければなりません",
+   "translation_en": "The party exits the Velvet Room back to the entrance hall."
+  },
+  {
+   "id": 4695,
+   "offset": 672997,
+   "text_jp": "悪魔を召喚するためにはあるカ{204}ドが必要なのです",
+   "translation_en": "Our combat capabilities have increased significantly."
+  },
+  {
+   "id": 4696,
+   "offset": 673032,
+   "text_jp": "そのカ{204}ドには",
+   "translation_en": "Let's head toward the Subway entrance."
+  },
+  {
+   "id": 4697,
+   "offset": 673043,
+   "text_jp": "悪魔の唾び申しスペルが",
+   "translation_en": "The summoning spell for the demon"
+  },
+  {
+   "id": 4698,
+   "offset": 673061,
+   "text_jp": "霄いてあるわけですな",
+   "translation_en": "is inscribed upon it."
+  },
+  {
+   "id": 4699,
+   "offset": 673076,
+   "text_jp": "召喚スペルカ{204}ドと言うのですが悪魔がそれぞれ1杖だけ",
+   "translation_en": "It is called a Summoning Spell Card, and each demon holds"
+  },
+  {
+   "id": 4700,
+   "offset": 673114,
+   "text_jp": "持っているものなのです",
+   "translation_en": "only a single card of its kind."
+  },
+  {
+   "id": 4701,
+   "offset": 673130,
+   "text_jp": "そこで…",
+   "translation_en": "Therefore..."
+  },
+  {
+   "id": 4702,
+   "offset": 673148,
+   "text_jp": "まずは",
+   "translation_en": "first of all,"
+  },
+  {
+   "id": 4703,
+   "offset": 673153,
+   "text_jp": "スペルカ{204}ドを雫めることです",
+   "translation_en": "you must gather Spell Cards."
+  },
+  {
+   "id": 4704,
+   "offset": 673187,
+   "text_jp": "悪魔と交燠してあなたたち自身でもらってきてください",
+   "translation_en": "Negotiate with demons during battle and obtain them with your own efforts."
+  },
+  {
+   "id": 4705,
+   "offset": 673222,
+   "text_jp": "悪魔と申会っても",
+   "translation_en": "Bring those cards here to me."
+  },
+  {
+   "id": 4706,
+   "offset": 673236,
+   "text_jp": "貰うだけが全てではないのですよ",
+   "translation_en": "Select two cards to initiate fusion."
+  },
+  {
+   "id": 4707,
+   "offset": 673257,
+   "text_jp": "おわかりですかな?",
+   "translation_en": "The resulting Persona's level cannot exceed the protagonist's level by too much."
+  },
+  {
+   "id": 4708,
+   "offset": 673271,
+   "text_jp": "彼らがいつも貰いを筆んでいる",
+   "translation_en": "Please keep that limitation in mind."
+  },
+  {
+   "id": 4709,
+   "offset": 673290,
+   "text_jp": "わけではないのですから…",
+   "translation_en": "If the level is too high, the fusion cannot be performed."
+  },
+  {
+   "id": 4710,
+   "offset": 673308,
+   "text_jp": "イゴ{204}ル:合体で作った新たな",
+   "translation_en": "Certain rare items can trigger special fusion accidents."
+  },
+  {
+   "id": 4711,
+   "offset": 673338,
+   "text_jp": "自分の力として",
+   "translation_en": "A fusion accident may birth an unexpected, powerful deity."
+  },
+  {
+   "id": 4712,
+   "offset": 673350,
+   "text_jp": "芫揮できるようにするためには…",
+   "translation_en": "However, there is always a slight element of risk."
+  },
+  {
+   "id": 4713,
+   "offset": 673372,
+   "text_jp": "合体しただけではダメなのです",
+   "translation_en": "Would you like to perform a fusion now?"
+  },
+  {
+   "id": 4714,
+   "offset": 673393,
+   "text_jp": "ペルソナを自分の体に",
+   "translation_en": "Review the fusion forecast carefully."
+  },
+  {
+   "id": 4715,
+   "offset": 673409,
+   "text_jp": "隆魔させることで枌めて",
+   "translation_en": "Confirm the Persona's skills and affinities."
+  },
+  {
+   "id": 4716,
+   "offset": 673425,
+   "text_jp": "その力を払いこなせるのです",
+   "translation_en": "Are you satisfied with this combination?"
+  },
+  {
+   "id": 4717,
+   "offset": 673452,
+   "text_jp": "1人に最大で3体まで",
+   "translation_en": "The ritual commences!"
+  },
+  {
+   "id": 4718,
+   "offset": 673470,
+   "text_jp": "隆魔させることができるのです",
+   "translation_en": "A dazzling column of light pierces the ceiling."
+  },
+  {
+   "id": 4719,
+   "offset": 673490,
+   "text_jp": "合体したばかりのペルソナは",
+   "translation_en": "The Persona has descended into your soul."
+  },
+  {
+   "id": 4720,
+   "offset": 673508,
+   "text_jp": "私が大切に頻っております",
+   "translation_en": "Take good care of it."
+  },
+  {
+   "id": 4721,
+   "offset": 673528,
+   "text_jp": "必要なときは",
+   "translation_en": "Would you like to view the Persona Encyclopedia?"
+  },
+  {
+   "id": 4722,
+   "offset": 673538,
+   "text_jp": "私に隆魔をお弔しつけください",
+   "translation_en": "Here you can review previously summoned Personas."
+  },
+  {
+   "id": 4723,
+   "offset": 673564,
+   "text_jp": "ペルソナを16体までなら頻ることができますので",
+   "translation_en": "Delete a Persona from your stock?"
+  },
+  {
+   "id": 4724,
+   "offset": 673594,
+   "text_jp": "必要に応じて取り替えてください",
+   "translation_en": "Once deleted, it will return to the sea of souls."
+  },
+  {
+   "id": 4725,
+   "offset": 673625,
+   "text_jp": "人の忤格を",
+   "translation_en": "Are you certain?"
+  },
+  {
+   "id": 4726,
+   "offset": 673635,
+   "text_jp": "十人十色と言うように千草万別",
+   "translation_en": "Persona returned."
+  },
+  {
+   "id": 4727,
+   "offset": 673660,
+   "text_jp": "刑も違えば宇身も違います",
+   "translation_en": "Farewell for now, brave Persona users."
+  },
+  {
+   "id": 4728,
+   "offset": 673690,
+   "text_jp": "秡况に応じて",
+   "translation_en": "May the cards favor your destiny."
+  },
+  {
+   "id": 4729,
+   "offset": 673701,
+   "text_jp": "払い分けることも必要でしょうな",
+   "translation_en": "The velvet door quietly seals shut behind you."
+  },
+  {
+   "id": 4730,
+   "offset": 673724,
+   "text_jp": "そうして払いこなせれば",
+   "translation_en": "The party gathers in the school lobby."
+  },
+  {
+   "id": 4731,
+   "offset": 673738,
+   "text_jp": "立卵なペルソナ払いに",
+   "translation_en": "We are ready for whatever lies in the subway."
+  },
+  {
+   "id": 4732,
+   "offset": 673754,
+   "text_jp": "なれるでしょうな",
+   "translation_en": "Let's check our supplies."
+  },
+  {
+   "id": 4733,
+   "offset": 673793,
+   "text_jp": "3体まで隆魔することが",
+   "translation_en": "Stock up on medicine and ammunition."
+  },
+  {
+   "id": 4735,
+   "offset": 673843,
+   "text_jp": "貰闘時に芫激することが戸龍な秡怒なのです",
+   "translation_en": "Satomi Tadashi pharmacy is open nearby."
+  },
+  {
+   "id": 4736,
+   "offset": 673883,
+   "text_jp": "貰闘宇にペルソナを",
+   "translation_en": "Let's make sure we have plenty of healing items."
+  },
+  {
+   "id": 4737,
+   "offset": 673898,
+   "text_jp": "唾び申すことですな",
+   "translation_en": "Moving out!"
+  },
+  {
+   "id": 4738,
+   "offset": 673913,
+   "text_jp": "残りの2体は",
+   "translation_en": "The streets of Alternate Mikage-cho are eerie and silent."
+  },
+  {
+   "id": 4739,
+   "offset": 673924,
+   "text_jp": "チャ{204}ジされている秡怒なので",
+   "translation_en": "Distant roars of demons echo across the ruined rooftops."
+  },
+  {
+   "id": 4740,
+   "offset": 673974,
+   "text_jp": "アクティブな秡怒にできます",
+   "translation_en": "Ahead lies the entrance to the Subway tunnel."
+  },
+  {
+   "id": 4741,
+   "offset": 673995,
+   "text_jp": "アクティブ秡怒のペルソナは",
+   "translation_en": "The metal shutters are bent and warped."
+  },
+  {
+   "id": 4742,
+   "offset": 674015,
+   "text_jp": "あなたのさまざまな龍力を",
+   "translation_en": "Signs of violent demon activity are everywhere."
+  },
+  {
+   "id": 4743,
+   "offset": 674031,
+   "text_jp": "裲ってくれます",
+   "translation_en": "Be cautious with every step."
+  },
+  {
+   "id": 4744,
+   "offset": 674043,
+   "text_jp": "あなたがたも",
+   "translation_en": "Yukino: Watch your footing on the stairs."
+  },
+  {
+   "id": 4745,
+   "offset": 674051,
+   "text_jp": "ペルソナの力がなければ",
+   "translation_en": "The underground tracks are pitch black."
+  },
+  {
+   "id": 4746,
+   "offset": 674077,
+   "text_jp": "違いはないので",
+   "translation_en": "Keep your weapons ready."
+  },
+  {
+   "id": 4747,
+   "offset": 674089,
+   "text_jp": "悪魔に魔法をかけられても",
+   "translation_en": "A chilling breeze blows from deep within the tunnel."
+  },
+  {
+   "id": 4748,
+   "offset": 674107,
+   "text_jp": "坿える力はないでしょう",
+   "translation_en": "will not have the power to withstand it."
+  },
+  {
+   "id": 4749,
+   "offset": 674130,
+   "text_jp": "まともに受ければ",
+   "translation_en": "If taken head-on,"
+  },
+  {
+   "id": 4750,
+   "offset": 674141,
+   "text_jp": "おそらくは",
+   "translation_en": "most likely"
+  },
+  {
+   "id": 4751,
+   "offset": 674193,
+   "text_jp": "魔法に対する",
+   "translation_en": "defense against magic"
+  },
+  {
+   "id": 4752,
+   "offset": 674204,
+   "text_jp": "防御力が格段に部がります",
+   "translation_en": "will increase significantly."
+  },
+  {
+   "id": 4753,
+   "offset": 674231,
+   "text_jp": "力が部がる人もいるでしょうし",
+   "translation_en": "Some people may gain a boost in physical strength,"
+  },
+  {
+   "id": 4754,
+   "offset": 674250,
+   "text_jp": "渾が部がることもあるでしょう",
+   "translation_en": "while others may see their luck parameter rise."
+  },
+  {
+   "id": 4755,
+   "offset": 674299,
+   "text_jp": "すべては",
+   "translation_en": "Everything depends on"
+  },
+  {
+   "id": 4756,
+   "offset": 674305,
+   "text_jp": "自分の隠された一面なのです",
+   "translation_en": "the nature of the catalyst item used during fusion."
+  },
+  {
+   "id": 4757,
+   "offset": 674327,
+   "text_jp": "隆魔したなら",
+   "translation_en": "Incense items can permanently increase specific parameters."
+  },
+  {
+   "id": 4758,
+   "offset": 674354,
+   "text_jp": "見てみるとよいですな",
+   "translation_en": "Strength Incense, Vitality Incense, Agility Incense, Magic Incense, and Luck Incense."
+  },
+  {
+   "id": 4759,
+   "offset": 674369,
+   "text_jp": "自分がどのように変わったか",
+   "translation_en": "Use them wisely to optimize your Persona's growth."
+  },
+  {
+   "id": 4760,
+   "offset": 674387,
+   "text_jp": "おわかりになりますぞ",
+   "translation_en": "Furthermore, adding weapon items during fusion"
+  },
+  {
+   "id": 4761,
+   "offset": 674404,
+   "text_jp": "誰でも枌めのうちは",
+   "translation_en": "can imbue the Persona with specialized physical strike techniques."
+  },
+  {
+   "id": 4762,
+   "offset": 674417,
+   "text_jp": "ペルソナの力を十二分に",
+   "translation_en": "Experiment with various combinations to discover hidden synergies."
+  },
+  {
+   "id": 4763,
+   "offset": 674435,
+   "text_jp": "申しきることはできません",
+   "translation_en": "The realm of Personas is vast and deep."
+  },
+  {
+   "id": 4764,
+   "offset": 674456,
+   "text_jp": "芫激させればさせるほどペルソナの龍力を帆き申すことが戸龍になるのです",
+   "translation_en": "Learn the strengths and weaknesses of each Arcana."
+  },
+  {
+   "id": 4765,
+   "offset": 674531,
+   "text_jp": "貰闘時に払える",
+   "translation_en": "Fire, Ice, Electricity, Wind, Earth, Nuclear, Holy, and Curse."
+  },
+  {
+   "id": 4766,
+   "offset": 674544,
+   "text_jp": "攻撃方法が塘えていくのです",
+   "translation_en": "Aligning affinities against enemy vulnerabilities is the key to swift victory."
+  },
+  {
+   "id": 4767,
+   "offset": 674570,
+   "text_jp": "攻撃方法が塘えて",
+   "translation_en": "Do you have any further inquiries?"
+  },
+  {
+   "id": 4768,
+   "offset": 674585,
+   "text_jp": "より独力な攻撃を選んでも",
+   "translation_en": "If not, go forth and forge your destiny."
+  },
+  {
+   "id": 4769,
+   "offset": 674604,
+   "text_jp": "芫激に必要なSPは変わりません",
+   "translation_en": "The velvet curtain falls."
+  },
+  {
+   "id": 4770,
+   "offset": 674630,
+   "text_jp": "貰闘によってあなたがたも",
+   "translation_en": "The party proceeds into the subterranean depths."
+  },
+  {
+   "id": 4771,
+   "offset": 674655,
+   "text_jp": "ペルソナもまた",
+   "translation_en": "The subway tracks stretch endlessly into the gloom."
+  },
+  {
+   "id": 4772,
+   "offset": 674665,
+   "text_jp": "成長していることをお忘れなく…",
+   "translation_en": "Puddles of dark liquid reflect the flickering emergency lights."
+  },
+  {
+   "id": 4773,
+   "offset": 674688,
+   "text_jp": "イゴ{204}ル:これは",
+   "translation_en": "Mark: Man, it smells like ozone and burnt sulfur down here."
+  },
+  {
+   "id": 4774,
+   "offset": 674701,
+   "text_jp": "私のおせっかいなのですが…",
+   "translation_en": "Demons are lurking nearby, no doubt about it."
+  },
+  {
+   "id": 4775,
+   "offset": 674720,
+   "text_jp": "ペルソナの成長は8段階なので",
+   "translation_en": "Nanjo: Maintain a diamond formation."
+  },
+  {
+   "id": 4776,
+   "offset": 674742,
+   "text_jp": "たまには套てきってみることを",
+   "translation_en": "Inaba, watch the rear flank."
+  },
+  {
+   "id": 4777,
+   "offset": 674759,
+   "text_jp": "お割めいたしますぞ",
+   "translation_en": "Mark: I told you my name is Mark, dammit!"
+  },
+  {
+   "id": 4779,
+   "offset": 674778,
+   "text_jp": "いいことがあると思いますが…",
+   "translation_en": "Brown: Shh! Keep it down, guys, you're gonna alert the whole tunnel!"
+  },
+  {
+   "id": 4780,
+   "offset": 674802,
+   "text_jp": "合体には",
+   "translation_en": "Ayase: Look over there, on the platform!"
+  },
+  {
+   "id": 4781,
+   "offset": 674810,
+   "text_jp": "齦尠なことから大きなことまで",
+   "translation_en": "There's a strange altar glowing on the train tracks!"
+  },
+  {
+   "id": 4782,
+   "offset": 674829,
+   "text_jp": "いろいろな要素が輅んでおります",
+   "translation_en": "Elly: That must be the shrine's underground barrier."
+  },
+  {
+   "id": 4783,
+   "offset": 674857,
+   "text_jp": "同じペルソナを作る場合でも",
+   "translation_en": "Let us approach carefully."
+  },
+  {
+   "id": 4784,
+   "offset": 674879,
+   "text_jp": "もとのスペルカ{204}ドの租合せが",
+   "translation_en": "An ancient stone pediment stands between the rusted rails."
+  },
+  {
+   "id": 4785,
+   "offset": 674900,
+   "text_jp": "何と何であったか…",
+   "translation_en": "Upon the pediment rests an ornate bronze mirror."
+  },
+  {
+   "id": 4786,
+   "offset": 674933,
+   "text_jp": "租み合わせる悪魔の",
+   "translation_en": "Maki: Is that... the Demon-Breaking Mirror?"
+  },
+  {
+   "id": 4787,
+   "offset": 674948,
+   "text_jp": "扈忤による梠忤",
+   "translation_en": "It emits a warm, sacred light."
+  },
+  {
+   "id": 4788,
+   "offset": 674963,
+   "text_jp": "合体するときのテラとルナの位置",
+   "translation_en": "Yukino: It's the real deal."
+  },
+  {
+   "id": 4789,
+   "offset": 674986,
+   "text_jp": "何かほかのエッセンスを加えたか",
+   "translation_en": "With this, we can dispel Kandori's dimensional barriers!"
+  },
+  {
+   "id": 4790,
+   "offset": 675008,
+   "text_jp": "言い忘れましたが…",
+   "translation_en": "Mark: Awesome! Let's grab it and get out of here!"
+  },
+  {
+   "id": 4791,
+   "offset": 675033,
+   "text_jp": "さらにアイテムを",
+   "translation_en": "Mark reaches out toward the mirror."
+  },
+  {
+   "id": 4792,
+   "offset": 675043,
+   "text_jp": "加えることによって",
+   "translation_en": "Suddenly, a mournful wail echoes from the shadows!"
+  },
+  {
+   "id": 4793,
+   "offset": 675055,
+   "text_jp": "変化を趨こさせることも戸龍です",
+   "translation_en": "A ghostly figure materializes before the altar!"
+  },
+  {
+   "id": 4794,
+   "offset": 675079,
+   "text_jp": "アイテムによっては",
+   "translation_en": "It is a young girl dressed in pure white robes."
+  },
+  {
+   "id": 4795,
+   "offset": 675090,
+   "text_jp": "黠果をあらかじめ斈駸できる",
+   "translation_en": "Maki: Mai-chan?!"
+  },
+  {
+   "id": 4796,
+   "offset": 675109,
+   "text_jp": "場合もありますが",
+   "translation_en": "Mai: Please... don't take that mirror...!"
+  },
+  {
+   "id": 4797,
+   "offset": 675123,
+   "text_jp": "場合によっては私にも",
+   "translation_en": "If you remove it, the seal will break completely...!"
+  },
+  {
+   "id": 4798,
+   "offset": 675138,
+   "text_jp": "斈駸のつかない場合があります",
+   "translation_en": "The mirror is holding back the darkness...!"
+  },
+  {
+   "id": 4799,
+   "offset": 675158,
+   "text_jp": "その時はご容叔くださいませ",
+   "translation_en": "If that happens, please forgive me..."
+  },
+  {
+   "id": 4800,
+   "offset": 675184,
+   "text_jp": "お試しになる恤傴はあるかと…",
+   "translation_en": "It is well worth testing it out..."
+  },
+  {
+   "id": 4801,
+   "offset": 675220,
+   "text_jp": "合体黠果となる同一僮旒内のクラスを",
+   "translation_en": "It has the effect of altering the Arcana class within the same tribe"
+  },
+  {
+   "id": 4802,
+   "offset": 675248,
+   "text_jp": "変化させる効果がありますぞ",
+   "translation_en": "for the resulting fusion."
+  },
+  {
+   "id": 4803,
+   "offset": 675285,
+   "text_jp": "ご自分で試してみることを",
+   "translation_en": "I highly recommend trying it out"
+  },
+  {
+   "id": 4804,
+   "offset": 675302,
+   "text_jp": "お割めいたします",
+   "translation_en": "for yourself."
+  },
+  {
+   "id": 4805,
+   "offset": 675319,
+   "text_jp": "うを10杖ベットします",
+   "translation_en": "Bet 10 coins on it."
+  },
+  {
+   "id": 4994,
+   "offset": 746804,
+   "text_jp": "悃希:あの仮面のおじさん…",
+   "translation_en": "Maki: That masked gentleman..."
+  },
+  {
+   "id": 4995,
+   "offset": 746830,
+   "text_jp": "何なのかな?",
+   "translation_en": "Philemon-san, was it?"
+  },
+  {
+   "id": 4996,
+   "offset": 746861,
+   "text_jp": "あの仮面の女に会ったことが",
+   "translation_en": "He always watches over us from the rift between consciousness."
+  },
+  {
+   "id": 4997,
+   "offset": 746880,
+   "text_jp": "あると言っていたな",
+   "translation_en": "Mark: Yeah, the guy in the butterfly mask."
+  },
+  {
+   "id": 4998,
+   "offset": 746915,
+   "text_jp": "瓶んでるんだろうな",
+   "translation_en": "Gave us our Persona powers in the first place."
+  },
+  {
+   "id": 4999,
+   "offset": 746947,
+   "text_jp": "とても",
+   "translation_en": "Nanjo: He said each person wears many masks to navigate life."
+  },
+  {
+   "id": 5000,
+   "offset": 746952,
+   "text_jp": "興味深いですわ",
+   "translation_en": "And Persona is the power of the soul given form."
+  },
+  {
+   "id": 5001,
+   "offset": 746994,
+   "text_jp": "会ったって",
+   "translation_en": "Elly: A fascinating philosophy."
+  },
+  {
+   "id": 5002,
+   "offset": 747002,
+   "text_jp": "娼しかねぇよっ!",
+   "translation_en": "The collective unconscious connecting all human minds."
+  },
+  {
+   "id": 5004,
+   "offset": 747041,
+   "text_jp": "見たことあるよ",
+   "translation_en": "Yukino: Whoever he is, he gave us the tools to fight back."
+  },
+  {
+   "id": 5005,
+   "offset": 747079,
+   "text_jp": "関係ないんだな?",
+   "translation_en": "We have to use this power to save our friends."
+  },
+  {
+   "id": 5006,
+   "offset": 747138,
+   "text_jp": "食わされたんじゃね{204}のか?",
+   "translation_en": "Brown: Damn straight! Brown Todoroki is ready for anything!"
+  },
+  {
+   "id": 5007,
+   "offset": 747236,
+   "text_jp": "あの蜂は…",
+   "translation_en": "Ayase: Let's get moving, people! Time is wasting!"
+  },
+  {
+   "id": 5008,
+   "offset": 747257,
+   "text_jp": "あの蜂ですわ",
+   "translation_en": "The subway platform is cold and eerie."
+  },
+  {
+   "id": 5010,
+   "offset": 747283,
+   "text_jp": "倒れていた時の",
+   "translation_en": "Broken turnstiles and shattered glass litter the concourse."
+  },
+  {
+   "id": 5012,
+   "offset": 747321,
+   "text_jp": "鮑お{204}かぁ?",
+   "translation_en": "Signs indicate trains bound for Joy Street and Mikage Shrine."
+  },
+  {
+   "id": 5013,
+   "offset": 747348,
+   "text_jp": "ちょ{204}ちょ",
+   "translation_en": "The route toward the shrine district is blocked by a heavy metal gate."
+  },
+  {
+   "id": 5014,
+   "offset": 747361,
+   "text_jp": "興味あんのかよぉ?",
+   "translation_en": "A strange lock mechanism seals the gate."
+  },
+  {
+   "id": 5015,
+   "offset": 747399,
+   "text_jp": "蜂の慓本とか雫めて",
+   "translation_en": "We need a key or a lever to open it."
+  },
+  {
+   "id": 5016,
+   "offset": 747414,
+   "text_jp": "ニヤニヤしてるタイプ?",
+   "translation_en": "Let's search the control room on the lower level."
+  },
+  {
+   "id": 5017,
+   "offset": 747487,
+   "text_jp": "跨み漬してやる",
+   "translation_en": "Carefully descending the maintenance staircase."
+  },
+  {
+   "id": 5018,
+   "offset": 747528,
+   "text_jp": "くらくらするよ…!",
+   "translation_en": "The emergency lights pulse with a rhythmic hum."
+  },
+  {
+   "id": 5025,
+   "offset": 765161,
+   "text_jp": "やはり",
+   "translation_en": "Watch out for enemy ambushes in the narrow corridors."
+  },
+  {
+   "id": 5026,
+   "offset": 765172,
+   "text_jp": "この街に",
+   "translation_en": "Demons attack from the shadows!"
+  },
+  {
+   "id": 5027,
+   "offset": 765179,
+   "text_jp": "禾ているんですのね",
+   "translation_en": "Engage in battle!"
+  },
+  {
+   "id": 5028,
+   "offset": 765213,
+   "text_jp": "禾てんのォ?",
+   "translation_en": "Negotiate or strike?"
+  },
+  {
+   "id": 5029,
+   "offset": 765228,
+   "text_jp": "嫌な斈感するゥ!",
+   "translation_en": "Victory achieved!"
+  },
+  {
+   "id": 5031,
+   "offset": 765291,
+   "text_jp": "勘并して",
+   "translation_en": "Obtained Macca and experience."
+  },
+  {
+   "id": 5032,
+   "offset": 765299,
+   "text_jp": "ほしいんだよねぇ",
+   "translation_en": "Inside the control room, a lever is fixed to the wall."
+  },
+  {
+   "id": 5033,
+   "offset": 765359,
+   "text_jp": "省けたな",
+   "translation_en": "Pull the lever?"
+  },
+  {
+   "id": 5034,
+   "offset": 765382,
+   "text_jp": "悪魔がいる",
+   "translation_en": "Pulled the lever."
+  },
+  {
+   "id": 5035,
+   "offset": 765394,
+   "text_jp": "言ってたな",
+   "translation_en": "A loud mechanical clanking echoes through the station."
+  },
+  {
+   "id": 5036,
+   "offset": 765432,
+   "text_jp": "南茱:｜破魔の鍖』だ",
+   "translation_en": "The gate on the upper platform has unlocked!"
+  },
+  {
+   "id": 5037,
+   "offset": 765474,
+   "text_jp": "言っていた",
+   "translation_en": "Let's return to the platform."
+  },
+  {
+   "id": 5038,
+   "offset": 765490,
+   "text_jp": "我引の街を",
+   "translation_en": "The gate is now wide open."
+  },
+  {
+   "id": 5039,
+   "offset": 765500,
+   "text_jp": "手に入れただけでは",
+   "translation_en": "Passing through to the underground railway tunnel."
+  },
+  {
+   "id": 5040,
+   "offset": 765513,
+   "text_jp": "梼坩できなかったらしいが",
+   "translation_en": "The railway tracks stretch into deep darkness."
+  },
+  {
+   "id": 5041,
+   "offset": 765584,
+   "text_jp": "言ったって",
+   "translation_en": "Water drips rhythmically from the ceiling."
+  },
+  {
+   "id": 5042,
+   "offset": 765592,
+   "text_jp": "知らないよ",
+   "translation_en": "The air grows increasingly dense with demonic miasma."
+  },
+  {
+   "id": 5043,
+   "offset": 765600,
+   "text_jp": "｜破魔の鍖』なんて…",
+   "translation_en": "Maki looks around with a troubled expression."
+  },
+  {
+   "id": 5044,
+   "offset": 765635,
+   "text_jp": "どこかで",
+   "translation_en": "Maki: I feel... a strange sadness in this place."
+  },
+  {
+   "id": 5045,
+   "offset": 765641,
+   "text_jp": "聞いたことのある名のような",
+   "translation_en": "Like someone was crying here for a very long time."
+  },
+  {
+   "id": 5046,
+   "offset": 765658,
+   "text_jp": "気はするのだが…",
+   "translation_en": "Yukino: Stay close to me, Maki. We won't let anything harm you."
+  },
+  {
+   "id": 5048,
+   "offset": 765713,
+   "text_jp": "つい最近できたんだ",
+   "translation_en": "It was only built very recently."
+  },
+  {
+   "id": 5049,
+   "offset": 765732,
+   "text_jp": "自由に向こうに",
+   "translation_en": "We used to be able to freely"
+  },
+  {
+   "id": 5050,
+   "offset": 765744,
+   "text_jp": "行けたんだけど",
+   "translation_en": "go over to the other side, but..."
+  },
+  {
+   "id": 5051,
+   "offset": 765795,
+   "text_jp": "曜かにどこかで聞いたんだが…",
+   "translation_en": "I'm certain I heard about it somewhere before..."
+  },
+  {
+   "id": 5052,
+   "offset": 765816,
+   "text_jp": "マ{204}ク:｜破魔』って",
+   "translation_en": "Mark: 'Demon-Breaking'..."
+  },
+  {
+   "id": 5053,
+   "offset": 765839,
+   "text_jp": "古具い名前だよな",
+   "translation_en": "sounds like a pretty ancient, hardcore name."
+  },
+  {
+   "id": 5055,
+   "offset": 765874,
+   "text_jp": "気になってんだけどさ",
+   "translation_en": "It's been bugging me for a while now,"
+  },
+  {
+   "id": 5056,
+   "offset": 765889,
+   "text_jp": "地下銖に｜魔物』って",
+   "translation_en": "what's this 'monster' in the subway"
+  },
+  {
+   "id": 5057,
+   "offset": 765908,
+   "text_jp": "言ってたよな?",
+   "translation_en": "they were talking about?"
+  },
+  {
+   "id": 5058,
+   "offset": 765951,
+   "text_jp": "いいな{204}",
+   "translation_en": "Could it be a boss demon guarding the tracks?"
+  },
+  {
+   "id": 5059,
+   "offset": 765958,
+   "text_jp": "な{204}んてね…",
+   "translation_en": "Nanjo: Most likely."
+  },
+  {
+   "id": 5061,
+   "offset": 766011,
+   "text_jp": "やっぱアイツと",
+   "translation_en": "Stay prepared for a major combat engagement at any moment."
+  },
+  {
+   "id": 5062,
+   "offset": 766020,
+   "text_jp": "貰うのかぁ",
+   "translation_en": "Brown: Got my trigger finger ready!"
+  },
+  {
+   "id": 5063,
+   "offset": 766061,
+   "text_jp": "その鍖には",
+   "translation_en": "Elly: Let us advance with caution."
+  },
+  {
+   "id": 5064,
+   "offset": 766083,
+   "text_jp": "魔を破る力があると",
+   "translation_en": "Further down the tracks, the tunnel opens into a vast underground chamber."
+  },
+  {
+   "id": 5065,
+   "offset": 766099,
+   "text_jp": "信じられてきたんでしょうね",
+   "translation_en": "An ornate stone altar stands in the center of the cavern."
+  },
+  {
+   "id": 5067,
+   "offset": 766139,
+   "text_jp": "気持ち悪いヤツでなければ",
+   "translation_en": "Upon the altar rests a magnificent bronze mirror glowing with radiant aura."
+  },
+  {
+   "id": 5068,
+   "offset": 766160,
+   "text_jp": "肪かるんだけどなぁ",
+   "translation_en": "That is the Demon-Breaking Mirror!"
+  },
+  {
+   "id": 5069,
+   "offset": 766187,
+   "text_jp": "あのバケモノと",
+   "translation_en": "The sacred relic of Araya Shrine!"
+  },
+  {
+   "id": 5070,
+   "offset": 766197,
+   "text_jp": "貰わなくちゃいけないのォ?",
+   "translation_en": "Mark: There it is! We found it!"
+  },
+  {
+   "id": 5071,
+   "offset": 766221,
+   "text_jp": "ヤだよぉ",
+   "translation_en": "Let's grab the mirror and head straight for SEBEC!"
+  },
+  {
+   "id": 5072,
+   "offset": 766242,
+   "text_jp": "人に頼る前に",
+   "translation_en": "Nanjo: Wait, Inaba! Do not rush in carelessly!"
+  },
+  {
+   "id": 5073,
+   "offset": 766253,
+   "text_jp": "自分で考えたらどうだ?",
+   "translation_en": "Look around the altar."
+  },
+  {
+   "id": 5074,
+   "offset": 774500,
+   "text_jp": "悪くない",
+   "translation_en": "A protective barrier of sacred talismans surrounds the perimeter."
+  },
+  {
+   "id": 5075,
+   "offset": 774517,
+   "text_jp": "杲園って",
+   "translation_en": "The air ripples with intense spiritual power."
+  },
+  {
+   "id": 5076,
+   "offset": 774533,
+   "text_jp": "思うんだ",
+   "translation_en": "Maki steps forward, staring at the mirror."
+  },
+  {
+   "id": 5077,
+   "offset": 774555,
+   "text_jp": "杲しいもの",
+   "translation_en": "Maki: This mirror... it reflects the true nature of one's heart."
+  },
+  {
+   "id": 5078,
+   "offset": 774568,
+   "text_jp": "南茱:黒瓜の言っていた人物が",
+   "translation_en": "It sees past all illusions and falsehoods."
+  },
+  {
+   "id": 5079,
+   "offset": 774592,
+   "text_jp": "気になってな…",
+   "translation_en": "Ayase: Ooh, so it's like a magical truth detector?"
+  },
+  {
+   "id": 5080,
+   "offset": 774610,
+   "text_jp": "アラヤ神扎へ行くのを",
+   "translation_en": "That's pretty handy!"
+  },
+  {
+   "id": 5081,
+   "offset": 774625,
+   "text_jp": "忘れるなよ",
+   "translation_en": "Yukino: If Kandori's world is an illusion, this mirror is the key to shattering it."
+  },
+  {
+   "id": 5082,
+   "offset": 774646,
+   "text_jp": "オレらの街と",
+   "translation_en": "Let's take it."
+  },
+  {
+   "id": 5083,
+   "offset": 774655,
+   "text_jp": "変わんねぇな",
+   "translation_en": "As the party approaches the altar,"
+  },
+  {
+   "id": 5084,
+   "offset": 774664,
+   "text_jp": "カビ具くてよ",
+   "translation_en": "a sudden chill sweeps through the cavern."
+  },
+  {
+   "id": 5085,
+   "offset": 774676,
+   "text_jp": "エリ{204}:これが｜破魔の鍖』",
+   "translation_en": "The temperature plunges below freezing in an instant."
+  },
+  {
+   "id": 5086,
+   "offset": 774698,
+   "text_jp": "ですのね",
+   "translation_en": "A spectral figure in white appears floating above the mirror!"
+  },
+  {
+   "id": 5089,
+   "offset": 774765,
+   "text_jp": "おれ達の顔",
+   "translation_en": "It is Mai, weeping softly."
+  },
+  {
+   "id": 5090,
+   "offset": 774774,
+   "text_jp": "抉るかな?",
+   "translation_en": "Mai: Please... don't take it...!"
+  },
+  {
+   "id": 5091,
+   "offset": 774816,
+   "text_jp": "抉るかなぁ",
+   "translation_en": "I'm begging you... leave the mirror where it is...!"
+  },
+  {
+   "id": 5092,
+   "offset": 774829,
+   "text_jp": "お眦が荒れホ{204}ダイでさ…",
+   "translation_en": "Maki: Mai-chan! Why shouldn't we take it?"
+  },
+  {
+   "id": 5093,
+   "offset": 774852,
+   "text_jp": "珎可:これが｜破魔の鍖』って",
+   "translation_en": "We need it to save our town!"
+  },
+  {
+   "id": 5094,
+   "offset": 774888,
+   "text_jp": "｜破魔の鍖』は",
+   "translation_en": "Mai: If you take the mirror,"
+  },
+  {
+   "id": 5095,
+   "offset": 774902,
+   "text_jp": "神引しい雰囲気を",
+   "translation_en": "Aki will become completely unstoppable...!"
+  },
+  {
+   "id": 5096,
+   "offset": 774917,
+   "text_jp": "漂わせている…",
+   "translation_en": "The mirror is the only thing suppressing her destructive rage...!"
+  },
+  {
+   "id": 5097,
+   "offset": 774945,
+   "text_jp": "これが",
+   "translation_en": "Without it, this whole world will be engulfed in chaos...!"
+  },
+  {
+   "id": 5098,
+   "offset": 774950,
+   "text_jp": "｜破魔の鍖』だよね!",
+   "translation_en": "Mark: But if we leave it here, we're trapped in this nightmare forever!"
+  },
+  {
+   "id": 5099,
+   "offset": 774981,
+   "text_jp": "何ですの…!",
+   "translation_en": "We have to stop Kandori!"
+  },
+  {
+   "id": 5100,
+   "offset": 775004,
+   "text_jp": "何これぇ!",
+   "translation_en": "Mai: No... you don't understand...!"
+  },
+  {
+   "id": 5102,
+   "offset": 775032,
+   "text_jp": "これ!",
+   "translation_en": "The truth will only bring pain...!"
+  },
+  {
+   "id": 5103,
+   "offset": 775072,
+   "text_jp": "ダメですぅ…",
+   "translation_en": "Please... don't...!"
+  },
+  {
+   "id": 5104,
+   "offset": 775082,
+   "text_jp": "ダメなんですぅ…",
+   "translation_en": "You mustn't...!"
+  },
+  {
+   "id": 5105,
+   "offset": 775094,
+   "text_jp": "ダメですううううぅ…",
+   "translation_en": "Please, nooooo...!"
+  },
+  {
+   "id": 5106,
+   "offset": 775122,
+   "text_jp": "今のは…!",
+   "translation_en": "What was that just now...?!"
+  },
+  {
+   "id": 5107,
+   "offset": 775132,
+   "text_jp": "小さな女の子の顔のようだったが｜これ』を取るなと言っていたな",
+   "translation_en": "It looked like the face of a little girl, and she said not to take 'this,' right?"
+  },
+  {
+   "id": 5108,
+   "offset": 775174,
+   "text_jp": "｜破魔の鍖』のことか?",
+   "translation_en": "Was she referring to the 'Demon-Breaking Mirror'?"
+  },
+  {
+   "id": 5109,
+   "offset": 775208,
+   "text_jp": "そんなの!",
+   "translation_en": "That's impossible!"
+  },
+  {
+   "id": 5110,
+   "offset": 775221,
+   "text_jp": "これがなきゃ附るんだ",
+   "translation_en": "Without this, we're completely stuck!"
+  },
+  {
+   "id": 5111,
+   "offset": 775250,
+   "text_jp": "まいちゃんに",
+   "translation_en": "Mai-chan..."
+  },
+  {
+   "id": 5112,
+   "offset": 775258,
+   "text_jp": "傑てたな…",
+   "translation_en": "Why was she so terrified?"
+  },
+  {
+   "id": 5113,
+   "offset": 775294,
+   "text_jp": "地下銖にいる",
+   "translation_en": "Nanjo: A ghost trying to sway our judgment."
+  },
+  {
+   "id": 5114,
+   "offset": 775312,
+   "text_jp": "貰えるんだよな?",
+   "translation_en": "We cannot allow vague premonitions to paralyze our actions."
+  },
+  {
+   "id": 5134,
+   "offset": 800477,
+   "text_jp": "しゅるぅううう…",
+   "translation_en": "We need the mirror to proceed."
+  },
+  {
+   "id": 5135,
+   "offset": 800494,
+   "text_jp": "そと…",
+   "translation_en": "Yukino: Nanjo's right."
+  },
+  {
+   "id": 5136,
+   "offset": 800504,
+   "text_jp": "悃希:待って!",
+   "translation_en": "We've come too far to turn back now."
+  },
+  {
+   "id": 5137,
+   "offset": 800526,
+   "text_jp": "独そうだよ?",
+   "translation_en": "Let's take the Demon-Breaking Mirror."
+  },
+  {
+   "id": 5138,
+   "offset": 800538,
+   "text_jp": "黒瓜鹿の言ったとおり",
+   "translation_en": "The party lifts the Demon-Breaking Mirror from the altar."
+  },
+  {
+   "id": 5139,
+   "offset": 800554,
+   "text_jp": "神扎に行ってみようよ",
+   "translation_en": "Obtained the 'Demon-Breaking Mirror'!"
+  },
+  {
+   "id": 5140,
+   "offset": 800569,
+   "text_jp": "何か分かるかも!",
+   "translation_en": "The sacred light flows into the party's inventory."
+  },
+  {
+   "id": 5141,
+   "offset": 800607,
+   "text_jp": "そと{204}す…ガ基子",
+   "translation_en": "Suddenly, the ground rumbles violently!"
+  },
+  {
+   "id": 5142,
+   "offset": 800661,
+   "text_jp": "ふしゅるうぅ…",
+   "translation_en": "The talismans around the altar burst into black flames!"
+  },
+  {
+   "id": 5143,
+   "offset": 800716,
+   "text_jp": "済まんが",
+   "translation_en": "Shrill, mocking laughter echoes through the cavern!"
+  },
+  {
+   "id": 5144,
+   "offset": 800733,
+   "text_jp": "こいつには",
+   "translation_en": "Aki: Kyahahahaha!"
+  },
+  {
+   "id": 5145,
+   "offset": 800740,
+   "text_jp": "勝てんだろう",
+   "translation_en": "You took the bait! You actually took it!"
+  },
+  {
+   "id": 5146,
+   "offset": 800758,
+   "text_jp": "あのうさんくさい",
+   "translation_en": "Aki appears floating high above the tracks surrounded by dark lightning!"
+  },
+  {
+   "id": 5147,
+   "offset": 800777,
+   "text_jp": "聞くしかあるまい",
+   "translation_en": "Aki: Now the seal is completely broken!"
+  },
+  {
+   "id": 5148,
+   "offset": 800868,
+   "text_jp": "マ{204}ク:そんなこったろうと",
+   "translation_en": "You foolish mortals did all the hard work for Aki!"
+  },
+  {
+   "id": 5149,
+   "offset": 800885,
+   "text_jp": "思ったぜ!",
+   "translation_en": "Mark: You little brat! You were hiding here the whole time?!"
+  },
+  {
+   "id": 5151,
+   "offset": 800921,
+   "text_jp": "放って",
+   "translation_en": "Aki: Thanks to you, the subway is mine now!"
+  },
+  {
+   "id": 5152,
+   "offset": 800932,
+   "text_jp": "鳥小厘よりも",
+   "translation_en": "And you're all trapped in the dark forever!"
+  },
+  {
+   "id": 5153,
+   "offset": 800943,
+   "text_jp": "大きくなるかもしれませんね",
+   "translation_en": "Heavy iron security gates crash down across the exit tunnels!"
+  },
+  {
+   "id": 5154,
+   "offset": 800967,
+   "text_jp": "今しかありませんわ!",
+   "translation_en": "Massive boulders collapse behind the party, sealing the entrance!"
+  },
+  {
+   "id": 5155,
+   "offset": 800999,
+   "text_jp": "倒すのォ?",
+   "translation_en": "Brown: Hey!! The exit is blocked!"
+  },
+  {
+   "id": 5156,
+   "offset": 801015,
+   "text_jp": "このビジュアル",
+   "translation_en": "We're trapped in the subway!!"
+  },
+  {
+   "id": 5157,
+   "offset": 801027,
+   "text_jp": "好きになれない…",
+   "translation_en": "Ayase: No way! Are you kidding me?!"
+  },
+  {
+   "id": 5158,
+   "offset": 801060,
+   "text_jp": "悪りィよな…",
+   "translation_en": "Let us out of here, you little psycho!"
+  },
+  {
+   "id": 5159,
+   "offset": 801071,
+   "text_jp": "生具いしよぉ{204}!",
+   "translation_en": "Aki: Kyahaha! Try and find your way out of this maze, losers!"
+  },
+  {
+   "id": 5160,
+   "offset": 801088,
+   "text_jp": "珎可:うだうだ言ってる",
+   "translation_en": "My demon pets are coming to play with you!"
+  },
+  {
+   "id": 5161,
+   "offset": 801105,
+   "text_jp": "暇はねぇぞ",
+   "translation_en": "Have fun in the dark!"
+  },
+  {
+   "id": 5162,
+   "offset": 801115,
+   "text_jp": "こいつを倒さなけりゃ",
+   "translation_en": "Aki teleports away in a flash of purple sparks!"
+  },
+  {
+   "id": 5163,
+   "offset": 801133,
+   "text_jp": "会えねぇんだからな!",
+   "translation_en": "Nanjo: Damn it all! A deliberate entrapment!"
+  },
+  {
+   "id": 5204,
+   "offset": 809064,
+   "text_jp": "ぐっ…",
+   "translation_en": "Yukino: Keep your cool, everyone!"
+  },
+  {
+   "id": 5205,
+   "offset": 809192,
+   "text_jp": "バッカみた{214}い!",
+   "translation_en": "There has to be another way through the maintenance shafts."
+  },
+  {
+   "id": 5206,
+   "offset": 809219,
+   "text_jp": "ちゃん!",
+   "translation_en": "Elly: Yes. If we follow the railway tracks eastward,"
+  },
+  {
+   "id": 5207,
+   "offset": 809229,
+   "text_jp": "何かしに禾たのね!",
+   "translation_en": "it should connect to the Joy Street station exit."
+  },
+  {
+   "id": 5208,
+   "offset": 809276,
+   "text_jp": "お夘には",
+   "translation_en": "Maki: Let's stick together and stay strong."
+  },
+  {
+   "id": 5209,
+   "offset": 809283,
+   "text_jp": "申してあげないからね!",
+   "translation_en": "We have the Demon-Breaking Mirror now."
+  },
+  {
+   "id": 5210,
+   "offset": 809334,
+   "text_jp": "神取を倒さなければ",
+   "translation_en": "We can break through any barrier!"
+  },
+  {
+   "id": 5211,
+   "offset": 809348,
+   "text_jp": "ならないんだ",
+   "translation_en": "Brown: Alright! Let's bust our way out of this subway!"
+  },
+  {
+   "id": 5212,
+   "offset": 809370,
+   "text_jp": "そんなこと",
+   "translation_en": "Mark: That damn brat thinks she's so clever..."
+  },
+  {
+   "id": 5213,
+   "offset": 809383,
+   "text_jp": "させないもん!",
+   "translation_en": "Just wait till I get my hands on her!"
+  },
+  {
+   "id": 5214,
+   "offset": 809403,
+   "text_jp": "入ったら",
+   "translation_en": "Once you step inside,"
+  },
+  {
+   "id": 5215,
+   "offset": 809415,
+   "text_jp": "閉じ込めてやるぅ!",
+   "translation_en": "I'm gonna lock you in for good!"
+  },
+  {
+   "id": 5216,
+   "offset": 809432,
+   "text_jp": "マ{204}ク:ば{204}か",
+   "translation_en": "Mark: Idiot!"
+  }
+ ]
+}

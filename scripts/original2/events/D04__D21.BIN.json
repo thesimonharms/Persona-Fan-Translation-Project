@@ -1,0 +1,79 @@
+{
+ "file": "D04/D21.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 101412,
+   "length_bytes": 13,
+   "raw_hex": "25071980cb81ef0b2a100680d7",
+   "text_jp": "ゆきの:戻されたか…",
+   "translation_en": "Yukino: ..."
+  },
+  {
+   "id": 1,
+   "offset": 101427,
+   "length_bytes": 13,
+   "raw_hex": "844081251925062f01240c0218",
+   "text_jp": "広間のゆかがあやしいね",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 101444,
+   "length_bytes": 20,
+   "raw_hex": "52755f80cb827b4d102e39093d4c80d780d780d7",
+   "text_jp": "アヤセ:思ったんだけどぉ………",
+   "translation_en": "Ayase: ..."
+  },
+  {
+   "id": 3,
+   "offset": 101468,
+   "length_bytes": 11,
+   "raw_hex": "80da52755d53250680db14",
+   "text_jp": "｜アヤシイゆか』と",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 101495,
+   "length_bytes": 7,
+   "raw_hex": "82bb13150280d0",
+   "text_jp": "傑てない?",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 101506,
+   "length_bytes": 17,
+   "raw_hex": "25071980cb80d780d7865a84ab244d1329",
+   "text_jp": "ゆきの:……漫才やってる",
+   "translation_en": "Yukino: ..."
+  },
+  {
+   "id": 6,
+   "offset": 101525,
+   "length_bytes": 11,
+   "raw_hex": "81a38249354e15022e3926",
+   "text_jp": "場合じゃないんだよ",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 101540,
+   "length_bytes": 9,
+   "raw_hex": "25071980cb3d032427",
+   "text_jp": "ゆきの:どうやら",
+   "translation_en": "Yukino: ..."
+  },
+  {
+   "id": 8,
+   "offset": 101551,
+   "length_bytes": 9,
+   "raw_hex": "83af817f1926033918",
+   "text_jp": "茫解のようだね",
+   "translation_en": "..."
+  }
+ ]
+}

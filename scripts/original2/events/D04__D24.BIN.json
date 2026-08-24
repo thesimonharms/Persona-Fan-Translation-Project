@@ -1,0 +1,95 @@
+{
+ "file": "D04/D24.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 143308,
+   "length_bytes": 12,
+   "raw_hex": "85ce2f06064d130229260339",
+   "text_jp": "鍵がかかっているようだ",
+   "translation_en": "It seems to be locked."
+  },
+  {
+   "id": 1,
+   "offset": 143388,
+   "length_bytes": 9,
+   "raw_hex": "85ce2f06064d130213",
+   "text_jp": "鍵がかかっていて",
+   "translation_en": "It's locked,"
+  },
+  {
+   "id": 2,
+   "offset": 143399,
+   "length_bytes": 8,
+   "raw_hex": "81ae2a0f03161502",
+   "text_jp": "入れそうにない",
+   "translation_en": "we can't get inside."
+  },
+  {
+   "id": 3,
+   "offset": 143476,
+   "length_bytes": 14,
+   "raw_hex": "85d2161a85ce2f0609272a130229",
+   "text_jp": "扉には鍵がかけられている",
+   "translation_en": "The door is firmly locked."
+  },
+  {
+   "id": 4,
+   "offset": 143494,
+   "length_bytes": 9,
+   "raw_hex": "80d70119816781261a",
+   "text_jp": "…あの少女は",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 143505,
+   "length_bytes": 14,
+   "raw_hex": "812b394d1019392b030680d780d0",
+   "text_jp": "幻だったのだろうか…?",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 143588,
+   "length_bytes": 10,
+   "raw_hex": "0a19833085321a82d61a",
+   "text_jp": "この教莖は今は",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 143600,
+   "length_bytes": 10,
+   "raw_hex": "812781db0b2a13021502",
+   "text_jp": "払注されていない",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 143680,
+   "length_bytes": 7,
+   "raw_hex": "0a1981f883bf1a",
+   "text_jp": "この部厘は",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 143689,
+   "length_bytes": 19,
+   "raw_hex": "823002812581272c2a1302150280ce80ce80ce",
+   "text_jp": "長い間払われていない'''",
+   "translation_en": "..."
+  },
+  {
+   "id": 10,
+   "offset": 143776,
+   "length_bytes": 16,
+   "raw_hex": "8145821182a51a839c85760b2a130229",
+   "text_jp": "体套館は閉鐃されている",
+   "translation_en": "..."
+  }
+ ]
+}

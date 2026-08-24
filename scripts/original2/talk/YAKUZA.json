@@ -1,0 +1,2356 @@
+{
+ "file": "TALK/YAKUZA",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 39,
+   "raw_hex": "827981201982791a813882bc1982bc80d7fffcfff62c0c1482bc84122d0831292580cc2e1a80d5",
+   "text_jp": "据道の据は地獄の獄…<CLOSE><PAGE>わしと獄鬥をくぐるゆ{204}んは,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 1,
+   "offset": 8252,
+   "length_bytes": 54,
+   "raw_hex": "fff682762d828682e903122328152e0680d7fff5053d2a80d54011061f0c102b0680d1fff682798120168218022312830882182d80d5",
+   "text_jp": "<PAGE>業を菅莫うつもりなんか…<LINE>おどれ,ぶちかましたろか!<PAGE>据道に気いもつ堅気を,",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 2,
+   "offset": 8306,
+   "length_bytes": 61,
+   "raw_hex": "fff62c0c4e4880d583bc81db0e2e80d180d1fff58203828b221981202d845f21827981201680d5fff6840d4b80d50609292580cc102780d5fff6838a85",
+   "text_jp": "<PAGE>わしゃぁ,信注せん!!<LINE>血染めの道を歩む据道に,<PAGE>声ぇ,かけるゆ{204}たら,<PAGE>小",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 3,
+   "offset": 8366,
+   "length_bytes": 51,
+   "raw_hex": "0e80d1fffc000404816985240c142980cffff51c80d5627f8096782f80d7fffcfff61f0104042c80d586bf8218191502831082",
+   "text_jp": "せ!<CLOSE> ええ痍肭しとる{207}<LINE>ふ,チンピラが…<CLOSE><PAGE>まあええわ,蠹気のない優",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 4,
+   "offset": 8417,
+   "length_bytes": 43,
+   "raw_hex": "852628264d473d80d58285270c023c80cffff52c2a80d517060d192381118785160e4b80cffff686188704",
+   "text_jp": "振りよっぽど,女らしいで{207}<LINE>われ,ぬかすのも大幗にせぇ{207}<PAGE>羅剥",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 5,
+   "offset": 8460,
+   "length_bytes": 39,
+   "raw_hex": "2d847c2e3c85b31681a9032e0680d180d0fff583088218161522272a292e064880d7fffcfff62c",
+   "text_jp": "を拝んで仏に会うんか!?<LINE>堅気になめられるんかぁ…<CLOSE><PAGE>わ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 6,
+   "offset": 8499,
+   "length_bytes": 58,
+   "raw_hex": "0c198286815f2380d50d0d0910194c80d7fff5827981201982791a813882bc1982bc80d7fffcfff62c0c1482bc84122d0831292580cc2e1a80d5",
+   "text_jp": "しの菅宇も,すすけたのぉ…<LINE>据道の据は地獄の獄…<CLOSE><PAGE>わしと獄鬥をくぐるゆ{204}んは,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 7,
+   "offset": 8558,
+   "length_bytes": 57,
+   "raw_hex": "fff682762d828682e903122328152e0680d7fff52c0c2719828c828d164e847383201480d5fff6837785312580cc232e2f80d5012980cffffc",
+   "text_jp": "<PAGE>業を菅莫うつもりなんか…<LINE>わしらの械晃にゃ仁羲と,<PAGE>儀式ゆ{204}もんが,ある{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 8,
+   "offset": 8615,
+   "length_bytes": 43,
+   "raw_hex": "fff60f2a048162849a0c102702092e3c80d1fff52c0c4e4880d583a0262885512d83310910817e80d7fffc",
+   "text_jp": "<PAGE>それえ無袍したらいけんで!<LINE>わしゃぁ,覬より杯を受けた身…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 9,
+   "offset": 8657,
+   "length_bytes": 51,
+   "raw_hex": "83088218164e80d5832f0481980e2e80d7fff5053d284e80d54011061f0c114e2b0680d1fffc81b71282853c012915273e80d5",
+   "text_jp": "堅気にゃ,手え申せん…<LINE>おどりゃ,ぶちかましちゃろか!<CLOSE>一つ女であるならば,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 10,
+   "offset": 8709,
+   "length_bytes": 41,
+   "raw_hex": "fff620392716824f030a1482ec0b2a2e80d1fff52c0c262880d781f116824f032e0680d7fffcfff684",
+   "text_jp": "<PAGE>みだらに歌うこと許されん!<LINE>わしより…旡に歌うんか…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 11,
+   "offset": 8749,
+   "length_bytes": 52,
+   "raw_hex": "73832080d583932c2a84950c02194c80d7fff5012e1019824f024d452880d5fff62c0c1982cc0484b51680d5260382bb14274880",
+   "text_jp": "メ羲,失われ久しいのぉ…<LINE>あんたの歌いっぷり,<PAGE>わしの若え頃に,よう傑とらぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 12,
+   "offset": 8801,
+   "length_bytes": 58,
+   "raw_hex": "cf827981201985344b821b0414293d80cffff5827981201982791a813882bc1982bc80d7fffcfff62c0c1482bc84122d0831292580cc2e1a80d5",
+   "text_jp": "{207}据道の髯ぇ見えとるど{207}<LINE>据道の据は地獄の獄…<CLOSE><PAGE>わしと獄鬥をくぐるゆ{204}んは,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 13,
+   "offset": 8860,
+   "length_bytes": 62,
+   "raw_hex": "fff682762d828682e903122328152e0680d7fff52c2a80d5827981201984571615292e0680d0fffcfff6152a2e354e2b4c2f80d100830882183c1a80d581",
+   "text_jp": "<PAGE>業を菅莫うつもりなんか…<LINE>われ,据道の妻になるんか?<CLOSE><PAGE>なれんじゃろぉが! 堅気では,",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 14,
+   "offset": 8921,
+   "length_bytes": 54,
+   "raw_hex": "261982470e4b81f613272a2e26194c80d1fff51a4d1a4d1a4d80d1fffcfff6827981201683c7020280d583c12229141a80d5fff68444",
+   "text_jp": "よの宰せぇ捨てられんよのぉ!<LINE>はっはっはっ!<CLOSE><PAGE>据道に敕いい,求めるとは,<PAGE>篆",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 15,
+   "offset": 8975,
+   "length_bytes": 51,
+   "raw_hex": "82181581262380d505292e354e194c80d1fff5053d284e80d5152e0d292e15274880d1fff6812616104027060b2a291e3d80d5",
+   "text_jp": "気な女も,おるんじゃのぉ!<LINE>おどりゃ,なんするんならぁ!<PAGE>女にたぶらかされるほど,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 16,
+   "offset": 9026,
+   "length_bytes": 45,
+   "raw_hex": "fff6827981201a80d517290315482c80d1fff52c2a80d7fffcfff682798120160a3f298638021a152e154880d7",
+   "text_jp": "<PAGE>据道は,ぬるうなぁわ!<LINE>われ…<CLOSE><PAGE>据道にこびる狙いはなんなぁ…",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 17,
+   "offset": 9071,
+   "length_bytes": 48,
+   "raw_hex": "fffcfff6707a5c354e15062b03190580d7fff51a4d1a4d1a4d80d1fffcfff6827981201a80d582d481944d12271980d5",
+   "text_jp": "<CLOSE><PAGE>マルサじゃなかろうのお…<LINE>はっはっはっ!<CLOSE><PAGE>据道は,部辺っつらの,",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 18,
+   "offset": 9119,
+   "length_bytes": 63,
+   "raw_hex": "fff6828c847d354e8154062e232e2680cffff582de823780d5841a846002190580cffff68279812019828c828d2380d582ca1982d4832f0284771a80d58134",
+   "text_jp": "<PAGE>械辞じゃ激かんもんよ{207}<LINE>自分,面曰いのお{207}<PAGE>据道の械晃も,日の部手い肇は,迅",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 19,
+   "offset": 9182,
+   "length_bytes": 49,
+   "raw_hex": "15183e8198828c0d292580cc13190580cffff5053d284e80d5040406322e160e042680d1812616103e060b2a291e3d80d5",
+   "text_jp": "なねば申械するゆ{204}てのお{207}<LINE>おどりゃ,ええかげんにせえよ!女にたばかされるほど,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 20,
+   "offset": 9231,
+   "length_bytes": 53,
+   "raw_hex": "fff6827981201a80d517290315482c80d1fff52c2a80d582798120103e06298218152e0680d1fff61a4d1a4d1a4d80d1008126152e",
+   "text_jp": "<PAGE>据道は,ぬるうなぁわ!<LINE>われ,据道たばかる気なんか!<PAGE>はっはっはっ! 女なん",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 21,
+   "offset": 9284,
+   "length_bytes": 38,
+   "raw_hex": "2f80d5fff68378241f2a1302092e1980d1fff52c2a80d5826982100e0480cffff6827981201a",
+   "text_jp": "が,<PAGE>恒やまれていけんの!<LINE>われ,安沚せえ{207}<PAGE>据道は",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 22,
+   "offset": 9322,
+   "length_bytes": 54,
+   "raw_hex": "80d583088218161a832f4b81980b2e80cffff52c2a80d515164919420e142e152780d1fff61a15062780d5830882181981248125153d",
+   "text_jp": ",堅気には手ぇ申さん{207}<LINE>われ,なにぃのぼせとんなら!<PAGE>はなから,堅気の人間など",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 23,
+   "offset": 9376,
+   "length_bytes": 49,
+   "raw_hex": "80d5fff62c0c198472048584272e2c80d1fff51a4d1a4d1a4d80d1fffcfff6827981201a80d581261983cc1683e8120929",
+   "text_jp": ",<PAGE>わしの咆え抉らんわ!<LINE>はっはっはっ!<CLOSE><PAGE>据道は,女の顔に搗つける",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 24,
+   "offset": 9425,
+   "length_bytes": 54,
+   "raw_hex": "fff626031570691a80d50e2e232e2680cffff52c2a80d582d7061924280d303c80d5fff685f9360280d502062a142e0680d0fffcfff6",
+   "text_jp": "<PAGE>ようなマネは,せんもんよ{207}<LINE>われ,何かのやりすぎで,<PAGE>脳ずい,いかれとんか?<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 25,
+   "offset": 9479,
+   "length_bytes": 59,
+   "raw_hex": "2605821b022480d52c0c1a8285354e80cffff5053d284e80d5152e354e8267032e152780d1827981202f80d5830882181982851480d5fff6859a84",
+   "text_jp": "よお見いや,わしは女じゃ{207}<LINE>おどりゃ,なんじゃ言うんなら!据道が,堅気の女と,<PAGE>肩",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 26,
+   "offset": 9538,
+   "length_bytes": 20,
+   "raw_hex": "f2411380d58337152e068244222e2c80d1fff582",
+   "text_jp": "∝べて,茶なんか飲めんわ!<LINE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>"
+  },
+  {
+   "id": 27,
+   "offset": 9558,
+   "length_bytes": 48,
+   "raw_hex": "de823780d5844781841681d209042480d7fff52c2a80d50f198194160c140780cffff62c0c2f80d5834a260329031149",
+   "text_jp": "ｊ分,医者に行けえや…<LINE>われ,その辺にしとき{207}<PAGE>わしが,笶ようるうちぃ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 28,
+   "offset": 9606,
+   "length_bytes": 57,
+   "raw_hex": "80d5fff6586353849e83402422140980cffff582de823780d5841a846002354e15480680cffff68279812019828c828d162380d57680cc7452",
+   "text_jp": ",<PAGE>キツイ定談やめとけ{207}<LINE>自分,面曰いじゃなぁか{207}<PAGE>据道の械晃にも,ユ{204}モア",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 29,
+   "offset": 9663,
+   "length_bytes": 57,
+   "raw_hex": "1a80d5fff682d282d3354e094b190580cffff5053d284e80d5040406322e160e042680d1121f272e80945a16815681c52f2c082c80d1fff683",
+   "text_jp": "は,<PAGE>必要じゃけぇのお{207}<LINE>おどりゃ,ええかげんにせえよ!つまらんボケに殺意がわくわ!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 30,
+   "offset": 9720,
+   "length_bytes": 17,
+   "raw_hex": "04490f1981cc80d581db81c50c140980d1",
+   "text_jp": "えぃその指,注意しとけ!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!"
+  },
+  {
+   "id": 31,
+   "offset": 9737,
+   "length_bytes": 48,
+   "raw_hex": "fff580b880a680a9150c808b7180cc80cffff52c2a80d505232b02194c80cffff62c0c2f84a203132429090480d5fff6",
+   "text_jp": "<LINE>SADなしダミ{204}{207}<LINE>われ,おもろいのぉ{207}<PAGE>わしが賞うてやるけえ,<PAGE>",
+   "notes": "",
+   "translation_en": "<LINE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 32,
+   "offset": 9785,
+   "length_bytes": 45,
+   "raw_hex": "834c03864581a33c814082c30e042480cffff52c2a80d5827981201481aa0c10022e0680d0fffcfff684c383bb",
+   "text_jp": "帛う馴場で前庄せえや{207}<LINE>われ,据道と話したいんか?<CLOSE><PAGE>酔杜",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 33,
+   "offset": 9830,
+   "length_bytes": 16,
+   "raw_hex": "15812481252380d505292e354e194c80",
+   "text_jp": "な人間も,おるんじゃのぉ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!"
+  },
+  {
+   "id": 34,
+   "offset": 9846,
+   "length_bytes": 52,
+   "raw_hex": "cffff511491480d5842f06160e022480cffff5084d084d084d80d7fff6827981202f8308821814828c812581aa0680d1fffcfff6",
+   "text_jp": "{207}<LINE>ちぃと,静かにせいや{207}<LINE>くっくっくっ…<PAGE>据道が堅気と械間話か!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 35,
+   "offset": 9898,
+   "length_bytes": 58,
+   "raw_hex": "0404819281c316154d10232e26194c80cffff52c2a80d583dc81ba1983088218152780d5fff68090571a80d5040406322e160e041980cffff681",
+   "text_jp": "ええ時代になったもんよのぉ{207}<LINE>われ,普僵の堅気なら,<PAGE>バカは,ええかげんにせえの{207}<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 36,
+   "offset": 9956,
+   "length_bytes": 57,
+   "raw_hex": "5e152e42014d132380d582ee272e3c80cffff52c2a80d581cc02272e190680d0fffcfff65b7f597916822e292e2f83d181d228392f80d58212",
+   "text_jp": "スなんぼあっても,坩らんで{207}<LINE>われ,指いらんのか?<CLOSE><PAGE>コンクリに寝るんが朧行りだが,再",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 37,
+   "offset": 10013,
+   "length_bytes": 39,
+   "raw_hex": "168179212e3c2380d504040980cc1980cffff5838a850e161522272a292e064880d7fffcfff62c",
+   "text_jp": "に眈むんでも,ええけ{204}の{207}<LINE>小僧になめられるんかぁ…<CLOSE><PAGE>わ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 38,
+   "offset": 10052,
+   "length_bytes": 55,
+   "raw_hex": "0c198286815f2380d50d0d0910194c80d7fff582de823780d583088218160c114e0180d5fff681aa4980d52c0629354e15480680cffff6",
+   "text_jp": "しの菅宇も,すすけたのぉ…<LINE>自分,堅気にしちゃあ,<PAGE>話ぃ,わかるじゃなぁか{207}<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 39,
+   "offset": 10107,
+   "length_bytes": 51,
+   "raw_hex": "82df1a0f2f80cc1680d58127032e3d80cffff5827981201522102780d502092e80cffff67d537c2d8127032e1a80d584738320",
+   "text_jp": "腹はそが{204}に,払うんど{207}<LINE>据道なめたら,いけん{207}<PAGE>ワイロを払うんは,仁羲",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 40,
+   "offset": 10158,
+   "length_bytes": 49,
+   "raw_hex": "16fff681890d293d0a2b354e15483c80d1fff51a4d1a4d1a4d80d1fff60a19828c828d80d5082a29232e152780d5fff623",
+   "text_jp": "に<PAGE>反するどころじゃなぁで!<LINE>はっはっはっ!<PAGE>この械晃,くれるもんなら,<PAGE>も",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 41,
+   "offset": 10207,
+   "length_bytes": 52,
+   "raw_hex": "274d14074e80d5812582cf0215481980cffff5012e100180d5401182858140354e190380cffff684b2816e833416154d102780d5",
+   "text_jp": "らっときゃ,間違いなぁの{207}<LINE>あんたあ,ぶち女前じゃのう{207}<PAGE>畋冶家になったら,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 42,
+   "offset": 10260,
+   "length_bytes": 20,
+   "raw_hex": "fff62c0c27190a1480d526038480212c80cffff5",
+   "text_jp": "<PAGE>わしらのこと,よう頼むわ{207}<LINE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>"
+  },
+  {
+   "id": 43,
+   "offset": 10279,
+   "length_bytes": 52,
+   "raw_hex": "051f4880d5114914842f06160e022480cffff51a4d1a4d1a4d80d1fffcfff63c064883cc3c80d53c064882ca851e080680d7fff6",
+   "text_jp": "おまぁ,ちぃと静かにせいや{207}<LINE>はっはっはっ!<CLOSE><PAGE>でかぁ顔で,でかぁ日嘛くか…<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 44,
+   "offset": 10331,
+   "length_bytes": 36,
+   "raw_hex": "2c2a80d5834a060c13232b80cc102c80cffff52c2a80d50404821085ff234d14291580cf",
+   "text_jp": "われ,笶かしてもろ{204}たわ{207}<LINE>われ,ええ沚膕もっとるな{207}",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 45,
+   "offset": 10368,
+   "length_bytes": 53,
+   "raw_hex": "fff68279812019830e823380d501293c80cffff52c2a80d582a848822f292e0680d0fff62c0c1985c980d50f2b0f2b81272c2e1480",
+   "text_jp": "<PAGE>据道の素質,あるで{207}<LINE>われ,空ぁ暃るんか?<PAGE>わしの尹,そろそろ払わんと",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 46,
+   "offset": 10420,
+   "length_bytes": 34,
+   "raw_hex": "d5fff685162f85220781980d09041980cffff52c2a80d583088218354e1548194c80",
+   "text_jp": ",<PAGE>刄が泣き申すけえの{207}<LINE>われ,堅気じゃなぁのぉ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 47,
+   "offset": 10454,
+   "length_bytes": 36,
+   "raw_hex": "d7fffcfff63d0a19832e19232e152780d7fff5838a850e80d1000212062c0c2f80d5fff6",
+   "text_jp": "…<CLOSE><PAGE>どこの租のもんなら…<LINE>小僧! いつかわしが,<PAGE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 48,
+   "offset": 10490,
+   "length_bytes": 62,
+   "raw_hex": "81d61685512d82fd0c114e2909041980cffff5838a850e80d5827981202d855c82002981e482d41a80d5fff6861887042d847c2e3c85b3148355270d80d5",
+   "text_jp": "直に杯を宸しちゃるけえの{207}<LINE>小僧,据道を皮冂る以部は,<PAGE>羅剥を拝んで仏と蕎らす,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 49,
+   "offset": 10553,
+   "length_bytes": 48,
+   "raw_hex": "fff60f19826f83c60c1429354e2b031980d1fff51a4d1a4d1a4d80d1fffcfff6827981201681fc0729813d81161a80d5",
+   "text_jp": "<PAGE>その覚悟しとるじゃろうの!<LINE>はっはっはっ!<CLOSE><PAGE>据道に生きる悪魔は,",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 50,
+   "offset": 10601,
+   "length_bytes": 57,
+   "raw_hex": "fff6201580d52c0c1983941615292e3c80cffff582de823780d582d4832f02354e15480680cffff68279812019828c828d162380d5824f832f",
+   "text_jp": "<PAGE>みな,わしの達になるんで{207}<LINE>自分,部手いじゃなぁか{207}<PAGE>据道の械晃にも,歌手",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 51,
+   "offset": 10657,
+   "length_bytes": 35,
+   "raw_hex": "1a80d5fff682d282d3354e094b190580cffff582388406281580d56b55354e80cffffc",
+   "text_jp": "は,<PAGE>必要じゃけぇのお{207}<LINE>目障りな,ハエじゃ{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 52,
+   "offset": 10693,
+   "length_bytes": 44,
+   "raw_hex": "fff62c2a1985c93c851e0782c6140d0680cffff51a4d1a4d1a4d80d1fff6838a850e80d5241a28821d02194c",
+   "text_jp": "<PAGE>われの尹で嘛き藩とすか{207}<LINE>はっはっはっ!<PAGE>小僧,やはり青いのぉ",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 53,
+   "offset": 10736,
+   "length_bytes": 52,
+   "raw_hex": "80cffff62311021482c581d20e042680cffff51c80d5627f8096782f80d7fffcfff61f01040480d586bf82181915028310828526",
+   "text_jp": "{207}<PAGE>もちいと絛行せえよ{207}<LINE>ふ,チンピラが…<CLOSE><PAGE>まあええ,蠹気のない優女よ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 54,
+   "offset": 10788,
+   "length_bytes": 40,
+   "raw_hex": "2880d5264d473d80d58285270c023c80cffff5053d284e80d5040406322e160e042680cf86188704",
+   "text_jp": "り,よっぽど,女らしいで{207}<LINE>おどりゃ,ええかげんにせえよ{207}羅剥",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 55,
+   "offset": 10828,
+   "length_bytes": 37,
+   "raw_hex": "2d847c2e3c85b31681a9032e0680d180d0fff583088218161522272a292e0680d7fffcfff6",
+   "text_jp": "を拝んで仏に会うんか!?<LINE>堅気になめられるんか…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 56,
+   "offset": 10865,
+   "length_bytes": 60,
+   "raw_hex": "2c0c198286815f2380d50d0d09101980d7fff52c2a80d582798120168472837c09292e0680d7fffcfff6080f8169852439091a80d50f1981941980d5",
+   "text_jp": "わしの菅宇も,すすけたの…<LINE>われ,据道に咆村けるんか…<CLOSE><PAGE>くそ痍肭だけは,その辺の,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 57,
+   "offset": 10925,
+   "length_bytes": 42,
+   "raw_hex": "fff6627f809678262880d50129190580cffff5827981201680d5847281173e0d2e0680cffff6264d473d",
+   "text_jp": "<PAGE>チンピラより,あるのお{207}<LINE>据道に,咆瓶ばすんか{207}<PAGE>よっぽど",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 58,
+   "offset": 10967,
+   "length_bytes": 49,
+   "raw_hex": "85b316fff681a90210022e354e194c80d1fff51a4d1a4d1a4d80d1fffcfff60f2f0116821b272a1027821881fb11813d02",
+   "text_jp": "仏に<PAGE>会いたいんじゃのぉ!<LINE>はっはっはっ!<CLOSE><PAGE>そがあに見られたら気持ち悪い",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 59,
+   "offset": 11016,
+   "length_bytes": 63,
+   "raw_hex": "80cf113f4d1480d5822182fa0e042680cffff582de823780d5841a846002194c80cffff68279812019828c828d2380d582ca1982d4832f0284771a80d58134",
+   "text_jp": "{207}ちびっと,遠竃せえよ{207}<LINE>自分,面曰いのぉ{207}<PAGE>据道の械晃も,日の部手い肇は,迅",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 60,
+   "offset": 11079,
+   "length_bytes": 52,
+   "raw_hex": "15183e8198828c0d292580cc13194c80cffff5053d284e80d5040406322e160e042680d181248125196f7816120701031e3d80d5",
+   "text_jp": "なねば申械するゆ{204}てのぉ{207}<LINE>おどりゃ,ええかげんにせえよ!人間のホラにつきあうほど,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 61,
+   "offset": 11131,
+   "length_bytes": 42,
+   "raw_hex": "fff6827981201a80d517290315012c80d1fff51a4d1a4d1a4d80d1fffcfff62c2a80d5827981202d103e",
+   "text_jp": "<PAGE>据道は,ぬるうなあわ!<LINE>はっはっはっ!<CLOSE><PAGE>われ,据道をたば",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 62,
+   "offset": 11173,
+   "length_bytes": 59,
+   "raw_hex": "0629191a80d5fff64011816285c33c80cffff52c2a80d5827981202d1522142e0680d0fffcfff685902881aa262880d5853986c88588244d144d10",
+   "text_jp": "かるのは,<PAGE>ぶち無諌で{207}<LINE>われ,据道をなめとんか?<CLOSE><PAGE>創り話より,銖肥玉やっとった",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 63,
+   "offset": 11232,
+   "length_bytes": 38,
+   "raw_hex": "80d52c0c1981662f853b2b0c023c4b80cffff580d780d780d780d780d780d7fffcfff6827981",
+   "text_jp": ",わしの方が怖ろしいでぇ{207}<LINE>………………<CLOSE><PAGE>据",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>………………<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 64,
+   "offset": 11270,
+   "length_bytes": 48,
+   "raw_hex": "20162380d58222832f15232e1a012980d7fff51a4d1a4d1a4d80d1fffcfff6244d432883088218198126354e194c80cf",
+   "text_jp": "みにも,苦手なもんはある…<LINE>はっはっはっ!<CLOSE><PAGE>やっぱり堅気の女じゃのぉ{207}",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 65,
+   "offset": 11319,
+   "length_bytes": 48,
+   "raw_hex": "fff681e38206020a142d826703232e2680cffff52c2a19824f024d452880d5fff681bc4d1429597880921970701682bb",
+   "text_jp": "<PAGE>戸愛いことを言うもんよ{207}<LINE>われの歌いっぷり,<PAGE>知っとるクラブのママに傑",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 66,
+   "offset": 11366,
+   "length_bytes": 51,
+   "raw_hex": "142980d7fffc80d786ba2a0f03264c80cffff5053d284e80d54011061f0c102b030680d181b71281263c012915273e80d5fff6",
+   "text_jp": "とる…<CLOSE>…偬れそうよぉ{207}<LINE>おどりゃ,ぶちかましたろうか!一つ女であるならば,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 67,
+   "offset": 11417,
+   "length_bytes": 15,
+   "raw_hex": "20392716824f030a104882ec0b2a2e",
+   "text_jp": "みだらに歌うこたぁ許されん",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!"
+  },
+  {
+   "id": 68,
+   "offset": 11432,
+   "length_bytes": 52,
+   "raw_hex": "80d1fff5032180d1000404840d354e80cffff5024d111f4d142980d7fffcfff62c2a80d575809053192422140980cffff6857b82",
+   "text_jp": "!<LINE>うむ! ええ声じゃ{207}<LINE>いっちまっとる…<CLOSE><PAGE>われ,ヤバイのやめとけ{207}<PAGE>将",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<LINE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 69,
+   "offset": 11484,
+   "length_bytes": 54,
+   "raw_hex": "0d80d5824e82dd168534834e0d293c80cffff5053d284e80d5152e0d292e152780d1fff68279812001240d2e1a80d5827981202d80d5",
+   "text_jp": "す,子供に髯釁するで{207}<LINE>おどりゃ,なんするんなら!<PAGE>据道あやすんは,据道を,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 70,
+   "offset": 11539,
+   "length_bytes": 66,
+   "raw_hex": "fff61522074d1429140c06827b042e2c80d1fff50a2a1a80d583d1817816818d4d102c80cffffcfff61f01040480d581b7819280d58308821819817e82372dfff681",
+   "text_jp": "<PAGE>なめきっとるとしか思えんわ!<LINE>これは,朧石に参ったわ{207}<CLOSE><PAGE>まあええ,一時,堅気の身分を<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 71,
+   "offset": 11604,
+   "length_bytes": 59,
+   "raw_hex": "652c032e2380d51f4880d50404194c80cffff5827981201982791a813882bc1982bc80d7fffcfff62c0c4982bc8412062783212a81980d2e1a80d5",
+   "text_jp": "トわうんも,まぁ,ええのぉ{207}<LINE>据道の据は地獄の獄…<CLOSE><PAGE>わしぃ獄鬥から達れ申すんは,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 72,
+   "offset": 11664,
+   "length_bytes": 56,
+   "raw_hex": "fff682762d828682e903122328152e0680d7fff52c0c2719828c828d164e847383201480d5fff6837785312503232e2f80d5012980cffffc",
+   "text_jp": "<PAGE>業を菅莫うつもりなんか…<LINE>わしらの械晃にゃ仁羲と,<PAGE>儀式ゆうもんが,ある{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 73,
+   "offset": 11720,
+   "length_bytes": 58,
+   "raw_hex": "fff60f2a048162849a0c102702092e3d80d1fff58203828b2219812049845f21827981202d80d5fff6855f84d30d29100180d52c2a812616fff6",
+   "text_jp": "<PAGE>それえ無袍したらいけんど!<LINE>血染めの道ぃ歩む据道を,<PAGE>割訪するたあ,われ女に<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 74,
+   "offset": 11777,
+   "length_bytes": 52,
+   "raw_hex": "0c114e0180d50404816985240c142980cffff52c2a80d58126160c114e0180d5fff60404821085ff0c14291980cffff682798120",
+   "text_jp": "しちゃあ,ええ痍肭しとる{207}<LINE>われ,女にしちゃあ,<PAGE>ええ沚膕しとるの{207}<PAGE>据道",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 75,
+   "offset": 11829,
+   "length_bytes": 45,
+   "raw_hex": "198457161529830e82331a80d5012980cffff5053d2a80d58118822f292e0680d0fff685b32f0b3f0c022580cc",
+   "text_jp": "の妻になる素質は,ある{207}<LINE>おどれ,犬暃るんか?<PAGE>仏がさびしいゆ{204}",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 76,
+   "offset": 11874,
+   "length_bytes": 33,
+   "raw_hex": "3c80d5fff62c0c1680d50e2f21091980cffff52c2a80d583088218114e031580d7",
+   "text_jp": "で,<PAGE>わしに,せがむけの{207}<LINE>われ,堅気ちゃうな…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 77,
+   "offset": 11908,
+   "length_bytes": 51,
+   "raw_hex": "fffcfff680d73d094b832e198126152780d7fff58204827f190609272315011980d5fff62c2a1980d584d30216060629526f54",
+   "text_jp": "<CLOSE><PAGE>…どけぇ租の女なら…<LINE>色甞のかけらもなあの,<PAGE>われの,訪いにかかるアホウ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 78,
+   "offset": 11958,
+   "length_bytes": 47,
+   "raw_hex": "2d80d5821b13201001232e354e194c80cffff524061f0c0280d1fff62c0c271a80d50c1480cc132380d5fff6830882",
+   "text_jp": "を,見てみたあもんじゃのぉ{207}<LINE>やかましい!<PAGE>わしらは,しと{204}ても,<PAGE>堅",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 79,
+   "offset": 12005,
+   "length_bytes": 50,
+   "raw_hex": "18198126161a80d5832f4b81980e2e80d1fff51a4d1a4d1a4d80d1fffcfff6021219819281c32380d5813d19827f281680d5",
+   "text_jp": "ねの女には,手ぇ申せん!<LINE>はっはっはっ!<CLOSE><PAGE>いつの時代も,悪の甞りに,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 80,
+   "offset": 12055,
+   "length_bytes": 55,
+   "raw_hex": "fff681261a1b062a29232e354e194c80d1fff50a0a3c80d581bc272e83cc2d0c144d102780d5828582182d83f62c2a292503232e2680cf",
+   "text_jp": "<PAGE>女はひかれるもんじゃのぉ!<LINE>ここで,知らん顔をしとったら,女気を疑われるゆうもんよ{207}",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 81,
+   "offset": 12110,
+   "length_bytes": 44,
+   "raw_hex": "fff62c0c1680d51f060e14093e040480cffff5827981201a820f84bd81f98276354e15013c80cffff6012e10",
+   "text_jp": "<PAGE>わしに,まかせとけばええ{207}<LINE>据道は恙害事業じゃなあで{207}<PAGE>あんた",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 82,
+   "offset": 12154,
+   "length_bytes": 55,
+   "raw_hex": "2780d5837681f781f482ee354e190580cffff580d72c0c2380d58279813d84cd81201480d5fff681d93e2a10819281c32f014d102f80d5",
+   "text_jp": "ら,勉独不坩じゃのお{207}<LINE>…わしも,据悪韭道と,<PAGE>唾ばれた時代があったが,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 83,
+   "offset": 12210,
+   "length_bytes": 59,
+   "raw_hex": "fff62c2a1e3d1980d56c808f5381aa1a80d7fff50a02121a80d50587712d85042c2a10190580d7fffc82de823780d582798120198457140c1380d5",
+   "text_jp": "<PAGE>われほどの,ヒドイ話は…<LINE>こいつは,お抹を奪われたのお…<CLOSE>自分,据道の妻として,",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 84,
+   "offset": 12269,
+   "length_bytes": 42,
+   "raw_hex": "fff682d08237244d130929354e2b031980cffff52c2a80d50b4d0b84820d292e0680d0fffcfff682d615",
+   "text_jp": "<PAGE>十分やってけるじゃろうの{207}<LINE>われ,さっさ滅するんか?<CLOSE><PAGE>今な",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 85,
+   "offset": 12310,
+   "length_bytes": 36,
+   "raw_hex": "2783a3817e81ee85b3160c114e293c80cffff582de823780d583088218354e15481980d7",
+   "text_jp": "ら即身成仏にしちゃるで{207}<LINE>自分,堅気じゃなぁの…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 86,
+   "offset": 12347,
+   "length_bytes": 57,
+   "raw_hex": "fffcfff680d73d0904832e198126152780d7fff5264d473d81341610022e354e1980cffff6827981201a8308821816832f4b390b2e104880d5",
+   "text_jp": "<CLOSE><PAGE>…どけえ租の女なら…<LINE>よっぽど迅にたいんじゃの{207}<PAGE>据道は堅気に手ぇださんたぁ,",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 87,
+   "offset": 12403,
+   "length_bytes": 40,
+   "raw_hex": "fff6103919842c8140354e094b194c80d1fff52c2a80d51039198126354e15481980d7fffcfff63d",
+   "text_jp": "<PAGE>ただの建前じゃけぇのぉ!<LINE>われ,ただの女じゃなぁの…<CLOSE><PAGE>ど",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 88,
+   "offset": 12443,
+   "length_bytes": 46,
+   "raw_hex": "094b832e823e062780d5820d1080d080d7fff51a4d1a4d1a4d80d1fffcfff6012e1080d506152882e8118218354e",
+   "text_jp": "けぇ租織から,禾た?…<LINE>はっはっはっ!<CLOSE><PAGE>あんた,かなり勝ち気じゃ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 89,
+   "offset": 12489,
+   "length_bytes": 41,
+   "raw_hex": "1980cffff62c0c198280203c23012980cffff5012e1080d5827981201681c5821b0d292e0680d7fff6",
+   "text_jp": "の{207}<PAGE>わしの好みでもある{207}<LINE>あんた,据道に意見するんか…<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 90,
+   "offset": 12530,
+   "length_bytes": 33,
+   "raw_hex": "040481261680d515292e354e15480680d0fff52c2a80d5114914817a2a80cffff6",
+   "text_jp": "ええ女に,なるんじゃなぁか?<LINE>われ,ちぃと黙れ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 91,
+   "offset": 12563,
+   "length_bytes": 53,
+   "raw_hex": "812619050c4e41281a80d58280062e80d1fff51a4d1a4d1a4d80d1fff62c2a80d5814283a81904048126354e1980d1fff6828582e8",
+   "text_jp": "女のおしゃべりは,好かん!<LINE>はっはっはっ!<PAGE>われ,屎勢のええ女じゃの!<PAGE>女勝",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 92,
+   "offset": 12616,
+   "length_bytes": 56,
+   "raw_hex": "2849826783514880d582bb8249033d80cffff5830882182f827981201681c5821b0d292580cc102780d5834a81863d0a2b354e15483c80cf",
+   "text_jp": "りぃ言葉ぁ,傑合うど{207}<LINE>堅気が据道に意見するゆ{204}たら,笶止どころじゃなぁで{207}",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 93,
+   "offset": 12672,
+   "length_bytes": 35,
+   "raw_hex": "fff685c04d835c3c80d5834a032c0180cffff5827981202d863c292e1a80d5fff681bb",
+   "text_jp": "<PAGE>縦っ腹で,笶うわあ{207}<LINE>据道を叱るんは,<PAGE>寅",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 94,
+   "offset": 12707,
+   "length_bytes": 46,
+   "raw_hex": "83eb354e0180d582dc04272a2e80d780d7fff51a4d1a4d1a4d80d1fffcfff6021219819281c32380d58126100180",
+   "text_jp": "識じゃあ,考えられん……<LINE>はっはっはっ!<CLOSE><PAGE>いつの時代も,女たあ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 95,
+   "offset": 12753,
+   "length_bytes": 55,
+   "raw_hex": "d5fff6050e4d06021581fc0781872680cffff583088218232e80d50c062382ad81fc1a80d5fff62c0c271483242c272e81662f040480cf",
+   "text_jp": ",<PAGE>おせっかいな生き物よ{207}<LINE>堅気もん,しかも学生は,<PAGE>わしらと関わらん方がええ{207}",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 96,
+   "offset": 12809,
+   "length_bytes": 55,
+   "raw_hex": "fff62c2a80d5260381bc4d1429354e2e80cffff52c2a80d581aa4d114f03232e1a80d5fff68157832f19847204821b130d29232e2680cf",
+   "text_jp": "<PAGE>われ,よう知っとるじゃん{207}<LINE>われ,話っちゅうもんは,<PAGE>梠手の咆え見てするもんよ{207}",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 97,
+   "offset": 12864,
+   "length_bytes": 38,
+   "raw_hex": "fff681bc272e141a80d582672c0b2e3c80cffff581261680d50d060b2a292e0680d7fffcfff6",
+   "text_jp": "<PAGE>知らんとは,言わさんで{207}<LINE>女に,すかされるんか…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 98,
+   "offset": 12901,
+   "length_bytes": 55,
+   "raw_hex": "2c0c028286815f2380d50d0d09101580d7fff583088218232e80d50c062382ad81fc1a80d5fff62c0c271483242c272e81662f040480cf",
+   "text_jp": "わしい菅宇も,すすけたな…<LINE>堅気もん,しかも学生は,<PAGE>わしらと関わらん方がええ{207}",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 99,
+   "offset": 12957,
+   "length_bytes": 56,
+   "raw_hex": "fff62c2a80d5260381bc4d1429354e2e80cffff52c2a80d581aa2580cc232e1a80d5fff68157832f19847204821b130d292e3c80cffff681",
+   "text_jp": "<PAGE>われ,よう知っとるじゃん{207}<LINE>われ,話ゆ{204}もんは,<PAGE>梠手の咆え見てするんで{207}<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 100,
+   "offset": 13012,
+   "length_bytes": 57,
+   "raw_hex": "bc272e141a80d582672c0e2e09041980d1fff52c2a80d581b785cf8619073d292e0680d7fffcfff6838a850e16860a1f2a29104880d52c0c19",
+   "text_jp": "Wらんとは,言わせんけえの!<LINE>われ,一匹猜きどるんか…<CLOSE><PAGE>小僧に噛まれるたぁ,わしの",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 101,
+   "offset": 13070,
+   "length_bytes": 54,
+   "raw_hex": "fff6814286812380d52f102f0710190580d7fff50a284e80d50587712d85042c2a101980d7fffcfff62c2a80d5627f809678140c1315",
+   "text_jp": "<PAGE>屎厳も,がたがきたのお…<LINE>こりゃ,お抹を奪われたの…<CLOSE><PAGE>われ,チンピラとしてな",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 102,
+   "offset": 13123,
+   "length_bytes": 48,
+   "raw_hex": "2780d5fff682d08237244d1309293d80cffff5053d2a80d582d60d31fff605272e2680cc15290680d0fffcfff682d615",
+   "text_jp": "ら,<PAGE>十分やってけるど{207}<LINE>おどれ,今すぐ<PAGE>おらんよ{204}なるか?<CLOSE><PAGE>今な",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 103,
+   "offset": 13171,
+   "length_bytes": 36,
+   "raw_hex": "2783a3817e81ee85b3160c114e293c80cffff52c2a80d583088218354e15011980d7fffc",
+   "text_jp": "ら即身成仏にしちゃるで{207}<LINE>われ,堅気じゃなあの…<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 104,
+   "offset": 13207,
+   "length_bytes": 51,
+   "raw_hex": "fff680d73d0a19832e19232e15274880d7fff5053d284e80d54011814b0c114e2b030680d124061f0c022e354e80d5575e2f80",
+   "text_jp": "<PAGE>…どこの租のもんならぁ…<LINE>おどりゃ,ぶち日しちゃろうか!やかましいんじゃ,カスが",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 105,
+   "offset": 13258,
+   "length_bytes": 29,
+   "raw_hex": "d1fff62c0c2f823f84ea160c102b0680d1fff52c2a80d7fffcfff67580",
+   "text_jp": "!<PAGE>わしが絶町にしたろか!<LINE>われ…<CLOSE><PAGE>ヤ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 106,
+   "offset": 13287,
+   "length_bytes": 50,
+   "raw_hex": "9053191a80d524221409826703103d80d7fff51a4d1a4d1a4d80d1fffcfff6758090531980d5020206322e160c140980cf82",
+   "text_jp": "バイのは,やめとけ言うたど…<LINE>はっはっはっ!<CLOSE><PAGE>ヤバイの,いいかげんにしとけ{207}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 107,
+   "offset": 13337,
+   "length_bytes": 42,
+   "raw_hex": "de823780d51a268447818481d2092480cffff582de823780d5841a846002190580cffff65c8082832a19",
+   "text_jp": "ｊ分,はよ医者行けや{207}<LINE>自分,面曰いのお{207}<PAGE>サギ廡の",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 108,
+   "offset": 13379,
+   "length_bytes": 51,
+   "raw_hex": "830e823380d582d082e5823701293c80cffff580d780d70a192c0c2f80d5fff68308821819832f82ca49821b84aa092e0680d7",
+   "text_jp": "素質,十二分あるで{207}<LINE>……このわしが,<PAGE>堅気の手日ぃ見抜けんか…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 109,
+   "offset": 13430,
+   "length_bytes": 50,
+   "raw_hex": "fff6819281c34982ed3529194c80d780d7fff5012e100180d505232b02194c80cffff61e354e093d80d5837682ad19836a15",
+   "text_jp": "<PAGE>時代ぃ感じるのぉ……<LINE>あんたあ,おもろいのぉ{207}<PAGE>ほじゃけど,勉学の徒な",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 110,
+   "offset": 13480,
+   "length_bytes": 63,
+   "raw_hex": "2780d5fff62311021482df1206042480cffff5012e104880d504284e01831502194c80cffff62c0c27827981201419837c0782490281664880d5fff6837281",
+   "text_jp": "ら,<PAGE>もちいと腹つかえや{207}<LINE>あんたぁ,えりゃあ賢いのぉ{207}<PAGE>わしら据道との村き合い方ぁ,<PAGE>重",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 111,
+   "offset": 13543,
+   "length_bytes": 62,
+   "raw_hex": "108210836814292e354e2b4c1980cffff1fff52c2a80d5827981201481ce83c00d298218152e0680d0152780d5832f83d92503232e833004114e2980cf1f",
+   "text_jp": "た沚得とるんじゃろぉの{207}<PAUSE><LINE>われ,据道と交燠する気なんか?なら,手順ゆうもん教えちゃる{207}ま",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 112,
+   "offset": 13605,
+   "length_bytes": 56,
+   "raw_hex": "361a80d50404818782fd0d2e2480cffff1fff52c0c1a80d5842f85094d1203232e2f80d5fff604284e018280071582853c1980cffffcfff6",
+   "text_jp": "ずは,ええ物宸すんや{207}<PAUSE><LINE>わしは,静寂っつうもんが,<PAGE>えりゃあ好きな女での{207}<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 113,
+   "offset": 13661,
+   "length_bytes": 59,
+   "raw_hex": "2c2a80d50f0a271d2e82dc0414091980cffff5053d2a80d581aa0c490d298218152e152780d5832f83d92503232e80d581fe271502092e3c80d11f",
+   "text_jp": "われ,そこらへん考えとけの{207}<LINE>おどれ,話しぃする気なんなら,手順ゆうもん,守らないけんで!ま",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 114,
+   "offset": 13720,
+   "length_bytes": 41,
+   "raw_hex": "361a81980d232e80d581980c2480cffff1fff583088218232e2f80d5152e1981db152780d7fffcfff6",
+   "text_jp": "ずは申すもん,申しや{207}<PAUSE><LINE>堅気もんが,なんの注なら…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 115,
+   "offset": 13761,
+   "length_bytes": 58,
+   "raw_hex": "2c0c4e80d581a982492f0129264d1380d7fff5827981201681aa0c0609292503102780d5fff61f4d14031580d581248112354e15011980d7fff6",
+   "text_jp": "わしゃ,会合があるよって…<LINE>据道に話しかけるゆうたら,<PAGE>まっとうな,人僮じゃなあの…<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 116,
+   "offset": 13819,
+   "length_bytes": 51,
+   "raw_hex": "2c2a80d5152e0681980c13200280cffff1fff52c2a80d526030c4e412982ca80d5fff681fb4d1429194c80cf839e81ff81fd16",
+   "text_jp": "われ,なんか申してみい{207}<PAUSE><LINE>われ,ようしゃべる日,<PAGE>持っとるのぉ{207}并護土に",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 117,
+   "offset": 13871,
+   "length_bytes": 59,
+   "raw_hex": "fff6154d1081920280d5262b0c4f031580cffff51a4d1a4d1a4d80d1fffcfff68279812081401680d5260382c6111202142980cffff6828081c519",
+   "text_jp": "<PAGE>なった時い,よろしゅうな{207}<LINE>はっはっはっ!<CLOSE><PAGE>据道前に,よう藩ちついとる{207}<PAGE>好意の",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 118,
+   "offset": 13929,
+   "length_bytes": 62,
+   "raw_hex": "85481680d5818723274d140a0680cffff1fff52c2a80d50404839781580c14291980cffff62c0c27827981201419837c0782490281664880d5fff6837281",
+   "text_jp": "卯に,物もらっとこか{207}<PAUSE><LINE>われ,ええ根忤しとるの{207}<PAGE>わしら据道との村き合い方ぁ,<PAGE>重",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 119,
+   "offset": 13991,
+   "length_bytes": 62,
+   "raw_hex": "108210836814292e354e2b4c1980cffff1fff52c2a80d5827981201481ce83c00d298218152e0680d0152780d5832f83d92503232e833004114e2980cf1f",
+   "text_jp": "た沚得とるんじゃろぉの{207}<PAUSE><LINE>われ,据道と交燠する気なんか?なら,手順ゆうもん教えちゃる{207}ま",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 120,
+   "offset": 14053,
+   "length_bytes": 48,
+   "raw_hex": "361a80d50404818782fd0d2e2480cffff1fff5053d2a80d582d782dc04142e15274880d0fff62311021480d585f9200f",
+   "text_jp": "ずは,ええ物宸すんや{207}<PAUSE><LINE>おどれ,何考えとんならぁ?<PAGE>もちいと,脳みそ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 121,
+   "offset": 14101,
+   "length_bytes": 33,
+   "raw_hex": "8127031380d5fff681ce83c00e022480cffff5114914845281100c493c80d1fff6",
+   "text_jp": "払うて,<PAGE>交燠せいや{207}<LINE>ちぃと輊引しぃで!<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 122,
+   "offset": 14134,
+   "length_bytes": 40,
+   "raw_hex": "827981201522142e114e03242b154880d1fff583088218232e2f80d5152e1981db15274880d7fffc",
+   "text_jp": "据道なめとんちゃうやろなぁ!<LINE>堅気もんが,なんの注ならぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 123,
+   "offset": 14175,
+   "length_bytes": 56,
+   "raw_hex": "fff62c0c4e80d581a982492f0129090480d7fff582798120168480212503102780d5fff61f4d14031580d581248112354e15011980d7fff6",
+   "text_jp": "<PAGE>わしゃ,会合があるけえ…<LINE>据道に頼むゆうたら,<PAGE>まっとうな,人僮じゃなあの…<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 124,
+   "offset": 14230,
+   "length_bytes": 51,
+   "raw_hex": "2c2a80d5152e0681980c13200280cffff1fff52c2a80d526030c4e412982ca80d5fff681fb4d1429194c80cf839e81ff81fd16",
+   "text_jp": "われ,なんか申してみい{207}<PAUSE><LINE>われ,ようしゃべる日,<PAGE>持っとるのぉ{207}并護土に",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 125,
+   "offset": 14282,
+   "length_bytes": 59,
+   "raw_hex": "fff6154d1081924980d5262b0c4f031580cffff51a4d1a4d1a4d80d1fffcfff68279812081401680d5260382c6111202142980cffff6828081c519",
+   "text_jp": "<PAGE>なった時ぃ,よろしゅうな{207}<LINE>はっはっはっ!<CLOSE><PAGE>据道前に,よう藩ちついとる{207}<PAGE>好意の",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 126,
+   "offset": 14340,
+   "length_bytes": 58,
+   "raw_hex": "85481680d5818723274d140a0680cffff1fff52c2a80d50404839781580c14291980cffff6827981201680d50f2f481581ce83c00d2982521a80",
+   "text_jp": "卯に,物もらっとこか{207}<PAUSE><LINE>われ,ええ根忤しとるの{207}<PAGE>据道に,そがぁな交燠する奴は",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 127,
+   "offset": 14398,
+   "length_bytes": 61,
+   "raw_hex": "d583088218161a80d50f0305272e3c80cffff52c0c1983bd282d853b2a2e141a80d5fff604284e0180d582f74d8588354e194a80d1fffcfff6260c80d5",
+   "text_jp": ",堅気には,そうおらんで{207}<LINE>わしの怒りを怖れんとは,<PAGE>えりゃあ,壯っ玉じゃのぅ!<CLOSE><PAGE>よし,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 128,
+   "offset": 14459,
+   "length_bytes": 45,
+   "raw_hex": "0f1982f780d581d10c114e292c80cffff1fff52c0c2d809057160d292e0680d0fffcfff6812481251a81c5811f",
+   "text_jp": "その壯,試しちゃるわ{207}<PAUSE><LINE>わしをバカにするんか?<CLOSE><PAGE>人間は意夘",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 129,
+   "offset": 14504,
+   "length_bytes": 53,
+   "raw_hex": "1480d5fff6014d0b28813417232e3d80d1fff52c2a80d58134170680d0fffcfff61f80d50f1981401680d581980d232e1afff6814d",
+   "text_jp": "と,<PAGE>あっさり迅ぬもんど!<LINE>われ,迅ぬか?<CLOSE><PAGE>ま,その前に,申すもんは<PAGE>全",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 130,
+   "offset": 14557,
+   "length_bytes": 40,
+   "raw_hex": "81f880d581980c13232703091980cffff1fff583088218232e2f80d5152e1981db15274880d7fffc",
+   "text_jp": "部,申してもらうけの{207}<PAUSE><LINE>堅気もんが,なんの注ならぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 131,
+   "offset": 14598,
+   "length_bytes": 56,
+   "raw_hex": "fff62c0c4e80d581a982492f0129094b80d7fff58279812080d51522142e0680d0fff62c2a80d583af8218354e15481980d7fffcfff6645e",
+   "text_jp": "<PAGE>わしゃ,会合があるけぇ…<LINE>据道,なめとんか?<PAGE>われ,茫気じゃなぁの…<CLOSE><PAGE>テス",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 132,
+   "offset": 14653,
+   "length_bytes": 52,
+   "raw_hex": "653980d5152e0681980c13200280cffff1fff582853c012915273e80d5fff680c11280d583bd82182d819b0429410c80cffff60f",
+   "text_jp": "トだ,なんか申してみい{207}<PAUSE><LINE>女であるならば,<PAGE>1つ,怒気を抑えるべし{207}<PAGE>そ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 133,
+   "offset": 14705,
+   "length_bytes": 54,
+   "raw_hex": "2f80cc150a14354e80d58154352e2c80cffff52c0c4983bd270d122328354e2b2f80d5fff60f02121a830d0c02815783403c80cffffc",
+   "text_jp": "が{204}なことじゃ,激じんわ{207}<LINE>わしぃ怒らすつもりじゃろが,<PAGE>そいつは難しい梠談で{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 134,
+   "offset": 14759,
+   "length_bytes": 35,
+   "raw_hex": "fff61f80d5152e0681980c140980cffff1fff582de823780d582791f4d1429194c80cf",
+   "text_jp": "<PAGE>ま,なんか申しとけ{207}<PAUSE><LINE>自分,据まっとるのぉ{207}",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 135,
+   "offset": 14795,
+   "length_bytes": 57,
+   "raw_hex": "fff682d681502380d5811c83490e022480cffff582798120141981aa3c4b83c20d292e2c80d5fff6012e104880d54011828007232e354e1980",
+   "text_jp": "<PAGE>今後も,精進せいや{207}<LINE>据道との話でぇ蛬するんわ,<PAGE>あんたぁ,ぶち好きもんじゃの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 136,
+   "offset": 14851,
+   "length_bytes": 54,
+   "raw_hex": "cf12023c4b82d70681980c022480cffff1fff5051f4880d5040406322e160e0480d1fff60839272e83c280d5817a4d13821b29312702",
+   "text_jp": "{207}ついでぇ何か申しいや{207}<PAUSE><LINE>おまぁ,ええかげんにせえ!<PAGE>くだらん蛬,黙って見るぐらい",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 137,
+   "offset": 14905,
+   "length_bytes": 53,
+   "raw_hex": "80d58279812080d51729081a15023c80cffff5053d2a80d5242214092480cffff681928125198162837d2680cffffcfff6830e81d6",
+   "text_jp": ",据道,ぬるくはないで{207}<LINE>おどれ,やめとけや{207}<PAGE>時間の無驟よ{207}<CLOSE><PAGE>素直",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 138,
+   "offset": 14958,
+   "length_bytes": 44,
+   "raw_hex": "168229823819232e82fd0c140780cffff1fff52c2a80d501062e80d7fff6851181bb141a827b042e08270280",
+   "text_jp": "に舍目のもん宸しとき{207}<PAUSE><LINE>われ,あかん…<PAGE>尋寅とは思えんくらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 139,
+   "offset": 15002,
+   "length_bytes": 52,
+   "raw_hex": "d5fff6061528840b833e80d501293d80d7fff580d782d619830882181982dc044b80d5fff62c0c161a2c06272e80d7fffcfff62c",
+   "text_jp": ",<PAGE>かなり聞題,あるど…<LINE>…今の堅気の考えぇ,<PAGE>わしにはわからん…<CLOSE><PAGE>わ",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 140,
+   "offset": 15054,
+   "length_bytes": 50,
+   "raw_hex": "0628240d028187160c13082a0480cffff1fff582de823780d50f2f0116834a0d152480cffff68222834a2d0a2704292e2f80",
+   "text_jp": "かりやすい物にしてくれえ{207}<PAUSE><LINE>自分,そがあに笶すなや{207}<PAGE>苦笶をこらえるんが",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 141,
+   "offset": 15104,
+   "length_bytes": 55,
+   "raw_hex": "d5fff60a2f0116586353232e141a1980d1fff5012e1080d583c282c98184354e194c80cffff60c062380d52c0c19828020260580cffff6",
+   "text_jp": ",<PAGE>こがあにキツイもんとはの!<LINE>あんた,蛬運者じゃのぉ{207}<PAGE>しかも,わしの好みよお{207}<PAGE>",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 142,
+   "offset": 15159,
+   "length_bytes": 58,
+   "raw_hex": "830449825082eb0b0e13232703094b80cffff582798120192c0c4984d3032e1a80d5fff6012981c5816580d504284e0181248125354e80cffffc",
+   "text_jp": "坎ぃ期待させてもらうけぇ{207}<LINE>据道のわしぃ訪うんは,<PAGE>ある意味,えりゃあ人間じゃ{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 143,
+   "offset": 15217,
+   "length_bytes": 56,
+   "raw_hex": "fff6811181871615292e354e15010680d0fff52c0c2d84d303122328152e0680d0fffcfff61e2e152780d50f2a15284981871a80d5fff611",
+   "text_jp": "<PAGE>大物になるんじゃなあか?<LINE>わしを訪うつもりなんか?<CLOSE><PAGE>ほんなら,それなりぃ物は,<PAGE>ち",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 144,
+   "offset": 15273,
+   "length_bytes": 59,
+   "raw_hex": "4e2e148399221323272c2e141980cffff1fff5053d284e80d58279812080d582390320142e0680d0830882181682188269030b2a292e1a80d5fff6",
+   "text_jp": "ゃんと納めてもらわんとの{207}<PAUSE><LINE>おどりゃ,据道,甘うみとんか?堅気に気安うされるんは,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 145,
+   "offset": 15332,
+   "length_bytes": 50,
+   "raw_hex": "821882370404232e354e80d515013c80cffff52c2a80d582798120192c0c1680d5fff68278830f2f01294d114f032e0680d1",
+   "text_jp": "気分ええもんじゃ,なあで{207}<LINE>われ,据道のわしに,<PAGE>刮歓があるっちゅうんか!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 146,
+   "offset": 15382,
+   "length_bytes": 33,
+   "raw_hex": "fff6042b0380d51522272a10232e2680d1fff580d780d780d780d780d7fffcfff6",
+   "text_jp": "<PAGE>えろう,なめられたもんよ!<LINE>……………<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>……………<CLOSE><PAGE>"
+  },
+  {
+   "id": 147,
+   "offset": 15415,
+   "length_bytes": 57,
+   "raw_hex": "83088218232e1680d583358165150280d7fff580d780d780d780d780d7fffcfff683088218232e1680d58335816515482c80d7fffcfff6234d",
+   "text_jp": "堅気もんに,興味ない…<LINE>……………<CLOSE><PAGE>堅気もんに,興味なぁわ…<CLOSE><PAGE>もっ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>……………<CLOSE><PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 148,
+   "offset": 15472,
+   "length_bytes": 49,
+   "raw_hex": "142380d581871a8282354e2f1980cffff1fff58285152e152780d5fff680c11280d58278830f2d15080d410c80cffff60f",
+   "text_jp": "とも,物は別じゃがの{207}<PAUSE><LINE>女なんなら,<PAGE>1つ,刮歓をなくすべし{207}<PAGE>そ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 149,
+   "offset": 15521,
+   "length_bytes": 52,
+   "raw_hex": "2f80cc150a143c1a80d58154352e2c80cffff51a4d1a4d1a4d80d1fffcfff6827981202f82fe290a1480d5244d1319092980cf7d",
+   "text_jp": "が{204}なことでは,激じんわ{207}<LINE>はっはっはっ!<CLOSE><PAGE>据道が附ること,やってのける{207}ワ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 150,
+   "offset": 15573,
+   "length_bytes": 61,
+   "raw_hex": "537c2301284e80d5150582fe2980cffff1fff582de823780d582d786a404262e1580cffffcfff6827981201a830882181980d50c062381261680d5fff6",
+   "text_jp": "イロもありゃ,なお附る{207}<PAUSE><LINE>自分,何怯えよんな{207}<CLOSE><PAGE>据道は堅気の,しかも女に,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 151,
+   "offset": 15634,
+   "length_bytes": 52,
+   "raw_hex": "832f0481980d0a104880d50128042e80cffff52c2a80d5826982100e0280cffff6827981201a80d523270429232e80d5fff62327",
+   "text_jp": "手え申すこたぁ,ありえん{207}<LINE>われ,安沚せい{207}<PAGE>据道は,もらえるもん,<PAGE>もら",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 152,
+   "offset": 15686,
+   "length_bytes": 51,
+   "raw_hex": "04284e0180d583100c02232e2680cffff1fff582851983cc82042d03062f03141a80d5fff65a631985bc190e1f028126354e80",
+   "text_jp": "えりゃあ,優しいもんよ{207}<PAUSE><LINE>女の顔色をうかがうとは,<PAGE>ケツの冗のせまい女じゃ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 153,
+   "offset": 15737,
+   "length_bytes": 56,
+   "raw_hex": "cffff683bc81db0d291681610e2e2c80d1fff5053d284e80d52c0c19839282f22d80d5fff61f353c80d51429122328152e152780d5fff682",
+   "text_jp": "{207}<PAGE>信注するに傴せんわ!<LINE>おどりゃ,わしの機嫌を,<PAGE>まじで,とるつもりなんなら,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 154,
+   "offset": 15793,
+   "length_bytes": 54,
+   "raw_hex": "798120190c0710284983b9042480cffff1fff52c2a80d5152e06865e2e3d29354e2b2f80d7fffc85512d81ce2c0c10232e354e150928",
+   "text_jp": "リ道のしきたりぃ耶えや{207}<PAUSE><LINE>われ,なんか企んどるじゃろが…<CLOSE>杯を交わしたもんじゃなけり",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 155,
+   "offset": 15847,
+   "length_bytes": 37,
+   "raw_hex": "4e80d5241a2880d583bc81db3c072e80cffff52c2a19816d816980d7fffcfff68388842881",
+   "text_jp": "ゃ,やはり,信注できん{207}<LINE>われの怒痍…<CLOSE><PAGE>経験",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 156,
+   "offset": 15884,
+   "length_bytes": 66,
+   "raw_hex": "b81680d583cb0c02827b032e354e2f80d7fff582108248816281db80cf828c828d84400c491402043d80d582798120232e1e3d84598126824e1683100c0280d5fff6",
+   "text_jp": "Sに,性しい思うんじゃが…<LINE>沚配無注{207}械晃広しぃといえど,据道もんほど嫦女子に優しい,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 157,
+   "offset": 15950,
+   "length_bytes": 48,
+   "raw_hex": "843082c982851a80d505272e06271980cffff5827981201681fc1f2a10232e1a80d5fff620158285843082c9354e092e",
+   "text_jp": "佯運女は,おらんからの{207}<LINE>据道に生まれたもんは,<PAGE>みな女佯運じゃけん",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 158,
+   "offset": 15998,
+   "length_bytes": 67,
+   "raw_hex": "80d5fff62c2a80d5826982100e022480cffff52c2a80d583ad1983cf2d81fb4d14292e0680cffffcfff61a260380d5832081888308038124821a011c2a1080d5828584",
+   "text_jp": ",<PAGE>われ,安沚せいや{207}<LINE>われ,契の証を持っとるんか{207}<CLOSE><PAGE>はよう,羲理堅う人惰あふれた,女",
+   "notes": "1 unresolved glyphs",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 159,
+   "offset": 16065,
+   "length_bytes": 14,
+   "raw_hex": "3082c91980987a60661680d50e04",
+   "text_jp": "ぎ運のペルソナに,せえ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!"
+  },
+  {
+   "id": 160,
+   "offset": 16079,
+   "length_bytes": 38,
+   "raw_hex": "2480cfffef260c4e80d50a2a24274880cfffef2c2a1a80d50c500e2e8308821880d7fff67559",
+   "text_jp": "や{207}<VOICE?>よしゃ,これやらぁ{207}<VOICE?>われは,しょせん堅気…<PAGE>ヤク",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 161,
+   "offset": 16117,
+   "length_bytes": 18,
+   "raw_hex": "8086232e1a80d58188817f0b2a2e0680d7ff",
+   "text_jp": "ザもんは,理解されんか…[FF]",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that![FF]"
+  },
+  {
+   "id": 162,
+   "offset": 16135,
+   "length_bytes": 61,
+   "raw_hex": "ef012e104880d582948158112f033d80cfffef80d780d7838d8153392f80d52c2a1a80d5fff61f39627f8096782f82bb8249032c80cffffcfff6838884",
+   "text_jp": "▲あんたぁ,扈忤ちがうど{207}<VOICE?>……残衾だが,われは,<PAGE>まだチンピラが傑合うわ{207}<CLOSE><PAGE>経",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 163,
+   "offset": 16196,
+   "length_bytes": 31,
+   "raw_hex": "282d84cf2e3c80d51f10820d02194c80cfffef1f0180d50a2a2429094b80d5",
+   "text_jp": "りを痿んで,また禾いのぉ{207}<VOICE?>まあ,これやるけぇ,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 164,
+   "offset": 16228,
+   "length_bytes": 10,
+   "raw_hex": "fff682c581d21982ee0c",
+   "text_jp": "<PAGE>絛行の坩し",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 165,
+   "offset": 16237,
+   "length_bytes": 43,
+   "raw_hex": "163c230e4b2480cfffef1e354e011980cfffef1a4d1a4d1a4d80d1fff62c0c271981251680d5121f272e82",
+   "text_jp": "にでもせぇや{207}<VOICE?>ほじゃあの{207}<VOICE?>はっはっはっ!<PAGE>わしらの間に,つまらん",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 166,
+   "offset": 16280,
+   "length_bytes": 34,
+   "raw_hex": "2182fa1a80d5816281db354e09041980cfffef2c2a80d50b4d0b81c8222e060280d1",
+   "text_jp": "む竃は,無注じゃけえの{207}<VOICE?>われ,さっさ決めんかい!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 167,
+   "offset": 16315,
+   "length_bytes": 60,
+   "raw_hex": "fff6230381d24d1380d504042e0680d180d0ffef0a195780cc808f1a83ad1983cf2480cffff68320818883080380d58124821a011c2a1080d5fff682",
+   "text_jp": "<PAGE>もう行って,ええんか!?<VOICE?>このカ{204}ドは契の証や{207}<PAGE>羲理堅う,人惰あふれた,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 168,
+   "offset": 16374,
+   "length_bytes": 49,
+   "raw_hex": "85843082c91980987a6066160e042480cfffef0a2a80d524292c80d7fffcfff6121f272e850885c21a80d50583410280d5",
+   "text_jp": "抉ぎ運のペルソナにせえや{207}<VOICE?>これ,やるわ…<CLOSE><PAGE>つまらん掟帋は,お互い,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 169,
+   "offset": 16424,
+   "length_bytes": 60,
+   "raw_hex": "fff6827884ef161a80d515272e09041980cfffef83088218232e1a80d50514150c4f0380d5fff683343c808480cc723c2380d5242850030980cffff6",
+   "text_jp": "<PAGE>刮柱には,ならんけえの{207}<VOICE?>堅気もんは,おとなしゅう,<PAGE>家でゲ{204}ムでも,やりょうけ{207}<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 170,
+   "offset": 16483,
+   "length_bytes": 55,
+   "raw_hex": "2c0c1a80d581e004270c132327033880cfffef83088218232e1a80d50514150c4f0380d5fff683343c808480cc723c230e042480cffff6",
+   "text_jp": "わしは,帰えらしてもらうぞ{207}<VOICE?>堅気もんは,おとなしゅう,<PAGE>家でゲ{204}ムでもせえや{207}<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 171,
+   "offset": 16538,
+   "length_bytes": 65,
+   "raw_hex": "0a2a3c80d5606d653c2384a203140980cfffef051f4880d50a1985c9195c80911480d780d7fffcfff680d703054d80d1fffc0085162f846f09142980d7fffcfff6",
+   "text_jp": "これで,ソフトでも賞うとけ{207}<VOICE?>おまぁ,この尹のサビと……<CLOSE><PAGE>…うおっ!<CLOSE> 刄が欠けとる…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 172,
+   "offset": 16603,
+   "length_bytes": 51,
+   "raw_hex": "2c80d52c0c19820685c92f4848484880d1ffef230380d52409080f354e0180d1fffcfff62c2a80d55e80987a5780cc808f81fb",
+   "text_jp": "わ,わしの愛尹がぁぁぁぁ!<VOICE?>もう,やけくそじゃあ!<CLOSE><PAGE>われ,スペルカ{204}ド持",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 173,
+   "offset": 16654,
+   "length_bytes": 102,
+   "raw_hex": "4d1380d5fff63d4d0602172a2480d680d1ffef80d7051f040b2e1482cf0280d5fff62c0c4e0180d583b019828c828d3cfff681fc07290c0681602f15028285354e80d7fffbfff7354e094b80d582414983691029812049fff6845f021320140380d5827b0310",
+   "text_jp": "って,<PAGE>どっかいぬれや{214}!<VOICE?>…おまえさんと違い,<PAGE>わしゃあ,簑の械晃で<PAGE>生きるしか龍がない女じゃ…<MENU_A><MENU_B>じゃけぇ,巳ぃ当たる道ぃ<PAGE>歩いてみとう,思うた",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<MENU_A><MENU_B>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 174,
+   "offset": 16756,
+   "length_bytes": 62,
+   "raw_hex": "0a142380d5fff68373061680d5012980d7ffef867a221085664b80d582de823716866d0d094b1980d7fffc0a02120382798120195780cc808f354e094b80",
+   "text_jp": "ことも,<PAGE>曜かに,ある…<VOICE?>諦めた夢ぇ,自分に託すけぇの…<CLOSE>こいつう据道のカ{204}ドじゃけぇ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 175,
+   "offset": 16818,
+   "length_bytes": 53,
+   "raw_hex": "d52522252280d5262b0c4f0384802180d7ffef012e102719260315812481251480d5fff62c0c27827981202f85c203132380d5fff6",
+   "text_jp": ",ゆめゆめ,よろしゅう頼む…<VOICE?>あんたらのような人間と,<PAGE>わしら据道が帋うても,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 176,
+   "offset": 16871,
+   "length_bytes": 51,
+   "raw_hex": "836829232e2c4880d582d72315483c80d7ffef1f80d50a02120324290980cc80d5fff683aa01284e80d7fffc234d142383041a",
+   "text_jp": "得るもんわぁ,何もなぁで…<VOICE?>ま,こいつうやるけ{204},<PAGE>縁ありゃ…<CLOSE>もっとも坎は",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 177,
+   "offset": 16922,
+   "length_bytes": 56,
+   "raw_hex": "fff62c0c19814406230c2a2e093d1980d7ffef8373061680d52c0c2e140a1a80d5fff6818282d980d5832f81ae2a2d833109131580d7fffc",
+   "text_jp": "<PAGE>わしの敵かもしれんけどの…<VOICE?>曜かに,わしんとこは,<PAGE>最近,手入れを受けてな…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 178,
+   "offset": 16978,
+   "length_bytes": 57,
+   "raw_hex": "fff682d781240682bc81ae280c142980d7ffef0a0a1a80d5811181241981ce83c014020a0680d7fffcfff62c0c195780cc808f152780d5fff6",
+   "text_jp": "<PAGE>何人か獄入りしとる…<VOICE?>ここは,大人の交燠といこか…<CLOSE><PAGE>わしのカ{204}ドなら,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 179,
+   "offset": 17035,
+   "length_bytes": 60,
+   "raw_hex": "2c2a2380d581f483c9354e15062b0380d7ffef012e104880d58124812519830882182f80d5fff6819f49816248813a1680d582d70c502e1980d0fff6",
+   "text_jp": "われも,不服じゃなかろう…<VOICE?>あんたぁ,人間の堅気が,<PAGE>月ぃ無ぁ夜に,何しょんの?<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 180,
+   "offset": 17095,
+   "length_bytes": 66,
+   "raw_hex": "0b084d14836004132327050680cffffd00fff52c2a80d581f481db8210230404140a354e80cffff6819f191502813a1a80d58218021209042680cffffcfff61e2e35",
+   "text_jp": "さくっと答えてもらおか{207}<CHOICE> <LINE>われ,不注沚もええとこじゃ{207}<PAGE>月のない夜は,気いつけえよ{207}<CLOSE><PAGE>ほんじ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 181,
+   "offset": 17161,
+   "length_bytes": 59,
+   "raw_hex": "4e80d5831a852d82742327050680cffff1fff52c2a80d1008279812019814b283c80d5fff64027402782d70b270c142e354e80d1fff68238840628",
+   "text_jp": "ゃ,忠冑粁もらおか{207}<PAUSE><LINE>われ! 据道の日りで,<PAGE>ぶらぶら何さらしとんじゃ!<PAGE>目障り",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 182,
+   "offset": 17220,
+   "length_bytes": 65,
+   "raw_hex": "156b551a80d52c0c86100d3c80d1fffd01fff52c2a80d5827981201686eb86ec150c060280d1fffcfff60a1981f4834f836780d5830882181402043d80d5fff612",
+   "text_jp": "なハエは,わし漬すで!<CHOICE>あ<LINE>われ,据道に挨拶なしかい!<CLOSE><PAGE>この不始末,堅気といえど,<PAGE>つ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 183,
+   "offset": 17285,
+   "length_bytes": 51,
+   "raw_hex": "31152c164e80d502092e354e2b80d1fff1fff5053d284e80d582d71981db152780d7fffcfff68081581a80d50514150c4f0380",
+   "text_jp": "ぐなわにゃ,いけんじゃろ!<PAUSE><LINE>おどりゃ,何の注なら…<CLOSE><PAGE>ガキは,おとなしゅう",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 184,
+   "offset": 17336,
+   "length_bytes": 52,
+   "raw_hex": "d5fff683343c822e042480d780d7fffd02fff52c2a80d582d78184354e0280d7fffcfff6152e0683310983074d114e29094b80d5",
+   "text_jp": ",<PAGE>家で寝えや……<CHOICE>い<LINE>われ,何者じゃい…<CLOSE><PAGE>なんか受け取っちゃるけぇ,",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 185,
+   "offset": 17388,
+   "length_bytes": 55,
+   "raw_hex": "fff61a2680d583341602172a2480cffff1fff52c2a80d5821b13200280d1fff6012f80cc15835f819f4a80d581fc071429031149152e42",
+   "text_jp": "<PAGE>はよ,家にいぬれや{207}<PAUSE><LINE>われ,見てみい!<PAGE>あが{204}な梼月ぅ,生きとるうちぃなんぼ",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 186,
+   "offset": 17443,
+   "length_bytes": 61,
+   "raw_hex": "821b2a290680d52c06272e3d80cffffd03fff52c2a80d5821b13200280d1fff681752882d68241857784322f818281f719819f354e80d1fff60a19841c",
+   "text_jp": "見れるか,わからんど{207}<CHOICE>う<LINE>われ,見てみい!<PAGE>狠り今巳弭郎が最独の月じゃ!<PAGE>この記",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 187,
+   "offset": 17504,
+   "length_bytes": 64,
+   "raw_hex": "81531680d582d7062327054c0680cffff1fff5ffed053d284e0180d582bc81201981d93f060916fff683600429100180d50404816985240c14292f80d5821b85",
+   "text_jp": "衾に,何かもらおぉか{207}<PAUSE><LINE><VOICE?>おどりゃあ,獄道の唾びかけに<PAGE>答えるたあ,ええ痍肭しとるが,見",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 188,
+   "offset": 17568,
+   "length_bytes": 61,
+   "raw_hex": "20152785b32f82eb4d14293c80d1fffd04fff5ffee053d2a80d50a0a8279812019839f2d80d5fff681ba2810022e80d525032e152780d5fff682ec81e3",
+   "text_jp": "みなら仏が待っとるで!<CHOICE>え<LINE><VOICE?>おどれ,ここ据道の屏を,<PAGE>僵りたいん,ゆうんなら,<PAGE>許戸",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 189,
+   "offset": 17629,
+   "length_bytes": 58,
+   "raw_hex": "82742580cc232e81980b2e060280d1fff1fff5ffee830882182f80d5819f49816248813a16fff6024d104880d582d70c502e1980d0fff6012e10",
+   "text_jp": "粁ゆ{204}もん申さんかい!<PAUSE><LINE><VOICE?>堅気が,月ぃ無ぁ夜に<PAGE>いったぁ,何しょんの?<PAGE>あんた",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 190,
+   "offset": 17687,
+   "length_bytes": 55,
+   "raw_hex": "80d5830e81d6162580cc132080cffffd05fff5ffec2c2a80d582798120232e1680d5fff68335816501292e152780d72c0629354e2b80d7",
+   "text_jp": ",素直にゆ{204}てみ{207}<CHOICE>お<LINE>[ec]われ,据道もんに,<PAGE>興味あるんなら…わかるじゃろ…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE>[ec]You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 191,
+   "offset": 17743,
+   "length_bytes": 60,
+   "raw_hex": "fffc81980d232e80d581980b164e80cffff1fff5ffeb2c0c1a8279812019fff3354e80cffff682188514270c16830882181481aa0d192380d5fff61f",
+   "text_jp": "<CLOSE>申すもん,申さにゃ{207}<PAUSE><LINE><VOICE?>わしは据道の<NAME?>じゃ{207}<PAGE>気嘖らしに堅気と話すのも,<PAGE>ま",
+   "notes": "",
+   "translation_en": "<CLOSE>You got guts talkin' to me like that!<PAUSE><LINE><VOICE?>You got guts talkin' to me like that!<NAME?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 192,
+   "offset": 17802,
+   "length_bytes": 52,
+   "raw_hex": "80d5813d031502827b03131980cffffd06fff5ffee82de823780d504284e0185708353282ffff6040b0f031583cc0c14291980d1",
+   "text_jp": ",悪うない思うての{207}<CHOICE>か<LINE><VOICE?>自分,えりゃあ羽掘りが<PAGE>えさそうな顔しとるの!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 193,
+   "offset": 17855,
+   "length_bytes": 58,
+   "raw_hex": "fff62c0c162380d511142c092b2480cffff1fff5ffec2c2a80d5827981202d853b2a2e190680d0fff61522101f1880d50480cc06322e160e2e14",
+   "text_jp": "<PAGE>わしにも,ちとわけろや{207}<PAUSE><LINE>[ec]われ,据道を怖れんのか?<PAGE>なめたまね,え{204}かげんにせんと",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<PAUSE><LINE>[ec]You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 194,
+   "offset": 17912,
+   "length_bytes": 60,
+   "raw_hex": "8286815f062784ac0b2a293c80d7fffd07fff5ffed051f4880d586eb86ec1a823882d419232e262880d581f1160d29232e354e2b2f80d7fff62c2a19",
+   "text_jp": "菅宇から莉されるで…<CHOICE>き<LINE><VOICE?>おまぁ,挨拶は目部のもんより,旡にするもんじゃろが…<PAGE>われの",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 195,
+   "offset": 17972,
+   "length_bytes": 56,
+   "raw_hex": "831b81c52d821b0c132327050680d1fff1fff5ffed80d7830882182f4880d5827981201901121f2816fff61516836004142e1580d1fff62c",
+   "text_jp": "誡意を見してもらおか!<PAUSE><LINE><VOICE?>…堅気がぁ,据道のあつまりに<PAGE>なに答えとんな!<PAGE>わ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 196,
+   "offset": 18028,
+   "length_bytes": 68,
+   "raw_hex": "2a80d58120811f0c10022e0680d0fffd08fff5ffeb80d7827981201901121f281683600429100180d5834a2c060d8285354e1980cf625a80a16581c3fff6820a244880d5",
+   "text_jp": "れ,道夘したいんか?<CHOICE>く<LINE><VOICE?>…据道のあつまりに答えるたあ,笶わかす女じゃの{207}チケット代<PAGE>払やぁ,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 197,
+   "offset": 18096,
+   "length_bytes": 62,
+   "raw_hex": "82d6814b839d839e0c114e293c80cffff1fff5ffeb012e104880d504274883280c102e2680d1fff6811883b7832e141981c384b7111983ac80d5fff68480",
+   "text_jp": "今日勘并しちゃるで{207}<PAUSE><LINE><VOICE?>あんたぁ,えらぁ搾したんよ!<PAGE>犬棠租との代扞ちの仟,<PAGE>頼",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAUSE><LINE><VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 198,
+   "offset": 18158,
+   "length_bytes": 59,
+   "raw_hex": "2e3909041980d51019212c4880cffffd09fff5ffec2c2a80d582798120192c0c1681ca0c1380d5fff604274880977b80a15d80a280cc0609142919",
+   "text_jp": "んだけえの,たのむわぁ{207}<CHOICE>け<LINE>[ec]われ,据道のわしに対して,<PAGE>えらぁプレッシャ{204}かけとるの",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CHOICE>You got guts talkin' to me like that!<LINE>[ec]You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 199,
+   "offset": 18217,
+   "length_bytes": 56,
+   "raw_hex": "80cffffc80d7152e06082a042480d7fff1fff52c2a80d504274882181681d24d104880d1fff6260c4e80d52c0c198320832283a1160c1029",
+   "text_jp": "{207}<CLOSE>…なんかくれえや…<PAUSE><LINE>われ,えらぁ気に行ったぁ!<PAGE>よしゃ,わしの羲足罘にしたる",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<CLOSE>You got guts talkin' to me like that!<PAUSE><LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 200,
+   "offset": 18273,
+   "length_bytes": 52,
+   "raw_hex": "80cf830f0c02232e8267031320022480cfffef053d284e80d5827981201522142e0680d1fff6820302821b2e1480d50a1983bd28",
+   "text_jp": "{207}歓しいもん言うてみいや{207}<VOICE?>おどりゃ,据道なめとんか!<PAGE>血い見んと,この怒り",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 201,
+   "offset": 18325,
+   "length_bytes": 47,
+   "raw_hex": "1a80d5fff62303816e1f272e09041980d1ffef152e354e80d5053d2a80d7fff68279812080d5853b4815022e0680d7",
+   "text_jp": "は,<PAGE>もう冶まらんけえの!<VOICE?>なんじゃ,おどれ…<PAGE>据道,怖ぁないんか…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 202,
+   "offset": 18372,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff62c0c196d809a717980cc2f80d7ffef1a4d1a4d1a4d1a4d1a4d80d1fff60a284e80d5401104042c80d1",
+   "text_jp": "<CLOSE><PAGE>わしのファミリ{204}が…<VOICE?>はっはっはっはっはっ!<PAGE>こりゃ,ぶちええわ!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 203,
+   "offset": 18418,
+   "length_bytes": 58,
+   "raw_hex": "fff61a4d1a4d1a4d80d51a4d1a4d1a4d80d1ffef2c2a80d51114827981201522142983792f80d5fff682181615292f80d51f0104042c80cffffc",
+   "text_jp": "<PAGE>はっはっはっ,はっはっはっ!<VOICE?>われ,ちと据道なめとる筒が,<PAGE>気になるが,まあええわ{207}<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 204,
+   "offset": 18475,
+   "length_bytes": 57,
+   "raw_hex": "fff6830f0c02232e8267031320022480cfffef2c2a2f80d52c0c198144354e19031380d5fff683af81d680d526064d102c0280cffffcfff61f",
+   "text_jp": "<PAGE>歓しいもん言うてみいや{207}<VOICE?>われが,わしの敵じゃのうて,<PAGE>茫直,よかったわい{207}<CLOSE><PAGE>ま",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 205,
+   "offset": 18532,
+   "length_bytes": 58,
+   "raw_hex": "80d5830f0c02232e8267031320022480cfffef82de823780d5827981201986472680d1fffcfff62c0c2f81d6811016855180d582fd0c102980d1",
+   "text_jp": ",歓しいもん言うてみいや{207}<VOICE?>自分,据道の鍖よ!<CLOSE><PAGE>わしが直引に杯,宸したる!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 206,
+   "offset": 18590,
+   "length_bytes": 51,
+   "raw_hex": "fff6830f0c02232e8267031320022480cfffef053d2a80d51e2e1f152e152780d7fffcfff681aa49120906102f80d7fff68097",
+   "text_jp": "<PAGE>歓しいもん言うてみいや{207}<VOICE?>おどれ,ほんまなんなら…<CLOSE><PAGE>話ぃつけかたが…<PAGE>プ",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 207,
+   "offset": 18641,
+   "length_bytes": 62,
+   "raw_hex": "7c19832f82ca1682d902354e15480680d1ffef012e104880d581aa8157832f140c114e0180d5fff6110214846381f482ee4d114f232e354e80cffff68279",
+   "text_jp": "ロの手日に近いじゃなぁか!<VOICE?>あんたぁ,話梠手としちゃあ,<PAGE>ちいと役不坩っちゅもんじゃ{207}<PAGE>据",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 208,
+   "offset": 18703,
+   "length_bytes": 57,
+   "raw_hex": "8120152229164e80d5834c0d30292c80cfffef80d782de823780d5816985240129354e15480680cffff60f2f481581aa0d29830882181a80d5",
+   "text_jp": "道なめるにゃ,帛すぎるわ{207}<VOICE?>…自分,痍肭あるじゃなぁか{207}<PAGE>そがぁな話する堅気は,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 209,
+   "offset": 18761,
+   "length_bytes": 28,
+   "raw_hex": "fff6814081c381cd82d8354e093d194c80d7ffef012e104880d58229",
+   "text_jp": "<PAGE>前代孛聞じゃけどのぉ…<VOICE?>あんたぁ,舍",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 210,
+   "offset": 18788,
+   "length_bytes": 48,
+   "raw_hex": "81980c4980cffff6fff8857a354e1980cfffef818282d919824e82dd1a80d5fff6042b0385708353282f0404190380d1",
+   "text_jp": "申しぃ{207}<PAGE>[f8]円じゃの{207}<VOICE?>最近の子供は,<PAGE>えろう羽掘りがええのう!",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>[f8]You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 211,
+   "offset": 18837,
+   "length_bytes": 57,
+   "raw_hex": "fff6830c28830d0380d5232b0314083d80cffff5053d284e80d5827981201522142e0680d080d1fff681aa490d2914074e80d5822931270280",
+   "text_jp": "<PAGE>有り難う,もろうとくど{207}<LINE>おどりゃ,据道なめとんか?!<PAGE>話ぃするときゃ,舍ぐらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 212,
+   "offset": 18893,
+   "length_bytes": 56,
+   "raw_hex": "d5fff6114e2e1481db81c50e2e060180d1fff52c2a80d58229152e16812703102e354e80d0fffcfff682cc0203111680d5816283370d4d14",
+   "text_jp": ",<PAGE>ちゃんと注意せんかあ!<LINE>われ,舍なんに払うたんじゃ?<CLOSE><PAGE>若いうちに,無茶すっと",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 213,
+   "offset": 18949,
+   "length_bytes": 51,
+   "raw_hex": "80d5fff68150811080d50a1004293c80cffff52c2a80d5827981201522142e0680d080d1fff60514150c4f0381980b2e1480d5",
+   "text_jp": ",<PAGE>後引,こたえるで{207}<LINE>われ,据道なめとんか?!<PAGE>おとなしゅう申さんと,",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 214,
+   "offset": 19001,
+   "length_bytes": 63,
+   "raw_hex": "fff6835d0282384b821b29260315293c80cffff52c2a80d5827981201981c5816581bc272e242b80d0fffcfff61f80d582d6814b19838884283c82f23c2380",
+   "text_jp": "<PAGE>痛い目ぇ見るようなるで{207}<LINE>われ,据道の意味知らんやろ?<CLOSE><PAGE>ま,今日の経験で嫌でも",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 215,
+   "offset": 19063,
+   "length_bytes": 32,
+   "raw_hex": "d5fff681bc290a141680d515292c1580cffff5012e104880d58116817881980c",
+   "text_jp": ",<PAGE>知ることに,なるわな{207}<LINE>あんたぁ,魔石申し",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 216,
+   "offset": 19095,
+   "length_bytes": 49,
+   "raw_hex": "022480cffff680c181c73c0404094b80cfffef0a284e4880d583088218161a80d5fff682d3272e232e354e091980cffff6",
+   "text_jp": "いや{207}<PAGE>1茴でええけぇ{207}<VOICE?>こりゃぁ,堅気には,<PAGE>要らんもんじゃけの{207}<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 217,
+   "offset": 19144,
+   "length_bytes": 58,
+   "raw_hex": "830c28830d0380d5232b031408094b80cffff5053d284e80d5827981201522142e0680d080d1fff681aa490d2914074e80d58116817831270280",
+   "text_jp": "有り難う,もろうとくけぇ{207}<LINE>おどりゃ,据道なめとんか?!<PAGE>話ぃするときゃ,魔石ぐらい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 218,
+   "offset": 19202,
+   "length_bytes": 51,
+   "raw_hex": "d5fff6114e2e1481db81c50e2e060180d1fff5051f4880d58116817831270281fb4d14092480cf2c0c271481aa490d292e1527",
+   "text_jp": ",<PAGE>ちゃんと注意せんかあ!<LINE>おまぁ,魔石ぐらい持っとけや{207}わしらと話ぃするんなら",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 219,
+   "offset": 19253,
+   "length_bytes": 55,
+   "raw_hex": "80d5fff6811181f915232e354e091980cffff5053d284e80d5827981201522142e0680d080d1fff60514150c4f0381980b2e1480d5fff6",
+   "text_jp": ",<PAGE>大事なもんじゃけの{207}<LINE>おどりゃ,据道なめとんか?!<PAGE>おとなしゅう申さんと,<PAGE>",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 220,
+   "offset": 19308,
+   "length_bytes": 52,
+   "raw_hex": "82123c84fb1481aa0d29262e15293c80cffff5830882182f81168178152e3880d5fff6152e168127038218152e15274880d0fff6",
+   "text_jp": "再で魚と話するよんなるで{207}<LINE>堅気が魔石なんぞ,<PAGE>なんに払う気なんならぁ?<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 221,
+   "offset": 19360,
+   "length_bytes": 28,
+   "raw_hex": "1f0b0680d58465270314292e0680d080d7fff5012e104880d5820581",
+   "text_jp": "まさか,食らうとるんか?…<LINE>あんたぁ,宝",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 222,
+   "offset": 19388,
+   "length_bytes": 35,
+   "raw_hex": "7881980c492480cffff6fff42f040480cfffef82de823780d5830e81d6354e15480680",
+   "text_jp": "ラ申しぃや{207}<PAGE>[f4]がええ{207}<VOICE?>自分,素直じゃなぁか",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>[f4]You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 223,
+   "offset": 19423,
+   "length_bytes": 15,
+   "raw_hex": "cffff68198828c0d2961538097264c",
+   "text_jp": "{207}<PAGE>申械するタイプよぉ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 224,
+   "offset": 19438,
+   "length_bytes": 56,
+   "raw_hex": "80cffff582de823780d51502354e2e80cffff5053d284e80d5827981201522142e0680d080d1fff60514150c4f0381980b2e1480d5fff683",
+   "text_jp": "{207}<LINE>自分,ないじゃん{207}<LINE>おどりゃ,据道なめとんか?!<PAGE>おとなしゅう申さんと,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 225,
+   "offset": 19494,
+   "length_bytes": 56,
+   "raw_hex": "9a81ae2a3c821b1206292e354e091980cffff52c0c1680d582fd0e2e1e3d80d5fff6820581782f811181f94d114f032e0680d7fffcfff683",
+   "text_jp": "ァ入れで見つかるんじゃけの{207}<LINE>わしに,宸せんほど,<PAGE>宝石が大事っちゅうんか…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>"
+  },
+  {
+   "id": 226,
+   "offset": 19550,
+   "length_bytes": 35,
+   "raw_hex": "0f82020b1a80d5815e14281615293c80cffff52c2a80d581fc82182d81e92c0e2b2480",
+   "text_jp": "そ深さは,命とりになるで{207}<LINE>われ,生気を嗅わせろや",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 227,
+   "offset": 19585,
+   "length_bytes": 33,
+   "raw_hex": "cffff6835d03150226030c114e290980cfffef830882181981fc82181a80d5fff6",
+   "text_jp": "{207}<PAGE>痛うないようしちゃるけ{207}<VOICE?>堅気の生気は,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<VOICE?>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 228,
+   "offset": 19618,
+   "length_bytes": 57,
+   "raw_hex": "84b62a1315020980cc828007152e2680cffff5053d284e80d5827981201522142e0680d1fff6827981201681fc821880d581e92c2a102780d5",
+   "text_jp": "角れてないけ{204}好きなんよ{207}<LINE>おどりゃ,据道なめとんか!<PAGE>据道に生気,嗅われたら,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 229,
+   "offset": 19676,
+   "length_bytes": 59,
+   "raw_hex": "fff684b62a294a252e0680d50180cc2e80d0fff51f0b0682de823780d5822a8249813d022e0680d0fffcfff62c0c80d50f2e152e81e903102780d5",
+   "text_jp": "<PAGE>角れるぅゆんか,あ{204}ん?<LINE>まさか自分,冥合悪いんか?<CLOSE><PAGE>わし,そんなん嗅うたら,",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 230,
+   "offset": 19735,
+   "length_bytes": 55,
+   "raw_hex": "fff6401180d5243e02354e15480680d780d7fff5822980d583e52829390983e52814021380d5fff683270b2e8124812583f902091980d5",
+   "text_jp": "<PAGE>ぶち,やばいじゃなぁか……<LINE>舍,借りるだけ借りといて,<PAGE>返さん人間多いけの,",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 231,
+   "offset": 19790,
+   "length_bytes": 58,
+   "raw_hex": "fff6012e102380d510021d2e354e154880cffff5627f5a150a14244d1429194c80cffff61f80d5822b84cf201a811181f9354e090480d5fff685",
+   "text_jp": "<PAGE>あんたも,たいへんじゃなぁ{207}<LINE>チンケなことやっとるのぉ{207}<PAGE>ま,下痿みは大事じゃけえ,<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 232,
+   "offset": 19847,
+   "length_bytes": 15,
+   "raw_hex": "7b820d821b0d0413844983a5284924",
+   "text_jp": "レ禾見すえて頑悵りぃや",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!"
+  },
+  {
+   "id": 233,
+   "offset": 19862,
+   "length_bytes": 45,
+   "raw_hex": "80cffff5053d2a80d5813416080b2a80cffff580d7816c835a2d8188817f0c14272e354e2b80cffffcfff61f0b",
+   "text_jp": "{207}<LINE>おどれ,迅にくされ{207}<LINE>…秡况を理解しとらんじゃろ{207}<CLOSE><PAGE>まさ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 234,
+   "offset": 19907,
+   "length_bytes": 37,
+   "raw_hex": "0680d5821f8220158187244d142e0680d7fff51e2e152780d5053d2a19833b023d052880d5",
+   "text_jp": "か,危険な物やっとんか…<LINE>ほんなら,おどれの願いどおり,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 235,
+   "offset": 19944,
+   "length_bytes": 41,
+   "raw_hex": "074d112880d512400c114e2b03064880d1fff5012e1080d50427488499842f354e1980cffff6816985",
+   "text_jp": "きっちり,つぶしちゃろうかぁ!<LINE>あんた,えらぁ冷静じゃの{207}<PAGE>痍",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 236,
+   "offset": 19985,
+   "length_bytes": 36,
+   "raw_hex": "24012982851a80d52c0c82ec0c102980cffff58187823706284980d50404824e82dd1a80",
+   "text_jp": "やある女は,わし許したる{207}<LINE>物分かりぃ,ええ子供は",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 237,
+   "offset": 20021,
+   "length_bytes": 31,
+   "raw_hex": "d5fff62c0c80d51b0207160c10293880cffff5012e1080d51e2e1f80d52c0c",
+   "text_jp": ",<PAGE>わし,ひいきにしたるぞ{207}<LINE>あんた,ほんま,わし",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 238,
+   "offset": 20052,
+   "length_bytes": 25,
+   "raw_hex": "190a1480d5fff61522142e194c80d780d7fff51e2e152780d5",
+   "text_jp": "のこと,<PAGE>なめとんのぉ……<LINE>ほんなら,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 239,
+   "offset": 20077,
+   "length_bytes": 38,
+   "raw_hex": "82de8237fff6822e060c114e2b030680d1fff52c2a80d58267030a141a0f2e39090680d0fff6",
+   "text_jp": "自分<PAGE>寝かしちゃろうか!<LINE>われ,言うことはそんだけか?<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 240,
+   "offset": 20115,
+   "length_bytes": 38,
+   "raw_hex": "2311021480d51b18272e1402092e3c80cffff5012e104880d51b18082a1429194c80cffff682",
+   "text_jp": "もちいと,ひねらんといけんで{207}<LINE>あんたぁ,ひねくれとるのぉ{207}<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 241,
+   "offset": 20153,
+   "length_bytes": 31,
+   "raw_hex": "de823780d581b581fc0c114e2b030680d1fff52c2a80d586a12e3d291980d7",
+   "text_jp": "ｊ分,旻生しちゃろうか!<LINE>われ,歪んどるの…",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 242,
+   "offset": 20185,
+   "length_bytes": 26,
+   "raw_hex": "fffcfff62b0815811181241615272e3880d7fff51c17090680d7",
+   "text_jp": "<CLOSE><PAGE>ろくな大人にならんぞ…<LINE>ふぬけか…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 243,
+   "offset": 20211,
+   "length_bytes": 57,
+   "raw_hex": "fffcfff6012e1080d5811c83490c022680cffff5053d2a80d5064d0a0480cc0a148267031048827b0514292e152780d5812582cf02260580d1",
+   "text_jp": "<CLOSE><PAGE>あんた,精進しいよ{207}<LINE>おどれ,かっこえ{204}こと言うたぁ思おとるんなら,間違いよお!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 244,
+   "offset": 20268,
+   "length_bytes": 48,
+   "raw_hex": "fff62c0c2f80d50f198115354e09041980d1fff526038267031080d1fff60f0a1f3c8169852401298252152780d5fff6",
+   "text_jp": "<PAGE>わしが,その星じゃけえの!<LINE>よう言うた!<PAGE>そこまで痍肭ある奴なら,<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 245,
+   "offset": 20315,
+   "length_bytes": 57,
+   "raw_hex": "012e1080d583bc81db0c114e292c4880d1fff51e0380d780815819080e1680d5fff60c2f1502830381f92d0c14291580d7fffcfff6828c1981",
+   "text_jp": "あんた,信注しちゃるわぁ!<LINE>ほう…ガキのくせに,<PAGE>しがない汢事をしとるな…<CLOSE><PAGE>械の",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 246,
+   "offset": 20372,
+   "length_bytes": 54,
+   "raw_hex": "5f80d58229264c80cf826f0414094b80cffff5053d284e80d582c780d583a528502e152780d0fff6827981201980d52c0c0680d0fffc",
+   "text_jp": "セ,舍よぉ{207}覚えとけぇ{207}<LINE>おどりゃ,誰,悵りょんなら?<PAGE>据道の,わしか?<CLOSE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE>"
+  },
+  {
+   "id": 247,
+   "offset": 20427,
+   "length_bytes": 58,
+   "raw_hex": "fff61f0b0680d5707a5c354e1548194c80d7fff52c0c2f80d5820107500329191680d5fff6851a845f100180d50404817e8237354e1980cffff6",
+   "text_jp": "<PAGE>まさか,マルサじゃなぁのぉ…<LINE>わしが,鼬きょうるのに,<PAGE>散歩たあ,ええ身分じゃの{207}<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 248,
+   "offset": 20484,
+   "length_bytes": 27,
+   "raw_hex": "82188514270c1680d53e270c102b0680d1fff51a4d1a4d1a4d1a4d",
+   "text_jp": "気嘖らしに,ばらしたろか!<LINE>はっはっはっはっ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 249,
+   "offset": 20511,
+   "length_bytes": 54,
+   "raw_hex": "80d1fff62c2a80d58198828c0d292c80cffff50a094b162382852f054d102e0680cffff62c2a152780d582798120140c1382d0823780",
+   "text_jp": "!<PAGE>われ,申械するわ{207}<LINE>こけぇにも女がおったんか{207}<PAGE>われなら,据道として十分",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 250,
+   "offset": 20565,
+   "length_bytes": 54,
+   "raw_hex": "d5fff681fc0713020929354e2b031580cffff50f2f4815816d81691a80d525290b2e3c80d1fff6053d2a80d523030c4e4129839281a9",
+   "text_jp": ",<PAGE>生きていけるじゃろうな{207}<LINE>そがぁな怒痍は,ゆるさんで!<PAGE>おどれ,もうしゃべる機会",
+   "notes": "",
+   "translation_en": ",<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 251,
+   "offset": 20619,
+   "length_bytes": 38,
+   "raw_hex": "2ffff6150206230c2a2e09041980d180d1fff5012e1080d5853b0202827b032e152780d5fff6",
+   "text_jp": "が<PAGE>ないかもしれんけえの!!<LINE>あんた,怖いい思うんなら,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 252,
+   "offset": 20657,
+   "length_bytes": 31,
+   "raw_hex": "1a15062780d58360042e354e15482c80d1fff5012e1080d51e2e1f80d5fff6",
+   "text_jp": "はなから,答えんじゃなぁわ!<LINE>あんた,ほんま,<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 253,
+   "offset": 20688,
+   "length_bytes": 52,
+   "raw_hex": "2c0c190a1480d51522142e194c80d780d7fff5012e104880d581f72f28491a02092e80cffff684ac0b2a102780d53d2f4816835d",
+   "text_jp": "わしのこと,なめとんのぉ……<LINE>あんたぁ,独がりぃはいけん{207}<PAGE>莉されたら,どがぁに痛",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 254,
+   "offset": 20740,
+   "length_bytes": 54,
+   "raw_hex": "020680d5fff681bc2810022e0680d180d1fff5830882182f80d51516822e4209100a14fff6826703142e15274880d100012e104880d5",
+   "text_jp": "いか,<PAGE>知りたいんか!!<LINE>堅気が,なに寝ぼけたこと<PAGE>言うとんならぁ! あんたぁ,",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 255,
+   "offset": 20794,
+   "length_bytes": 42,
+   "raw_hex": "fff6827981201522080b4d142e194c80d1fff50110288140261980cffff683088218164980d582bc1981",
+   "text_jp": "<PAGE>据道なめくさっとんのぉ!<LINE>あたり前よの{207}<PAGE>堅気にぃ,獄の",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 256,
+   "offset": 20836,
+   "length_bytes": 50,
+   "raw_hex": "201a80d5fff6401180d50c2e3c043c80cffff5053d2a80d5152e354e8267032e152780d1fff6152214291480d5815e2ffff6",
+   "text_jp": "みは,<PAGE>ぶち,しんでえで{207}<LINE>おどれ,なんじゃ言うんなら!<PAGE>なめとると,命が<PAGE>",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<PAGE>"
+  },
+  {
+   "id": 257,
+   "offset": 20886,
+   "length_bytes": 52,
+   "raw_hex": "152e42014d132380d582ee272e3c4b80d1fff50c4e414d1080d780d7fff61e2e1f197980a354354e15481980d1fffcfff6827981",
+   "text_jp": "なんぼあっても,坩らんでぇ!<LINE>しゃべった……<PAGE>ほんまのリュウじゃなぁの!<CLOSE><PAGE>据",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<PAGE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 258,
+   "offset": 20938,
+   "length_bytes": 34,
+   "raw_hex": "20391f0c134b813882bc81d2082e0680d1fff51a4d1a4d1a4d1a4d80d7fffcfff61e",
+   "text_jp": "みだましてぇ地獄行くんか!<LINE>はっはっはっはっ…<CLOSE><PAGE>ほ",
+   "notes": "",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<CLOSE><PAGE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 259,
+   "offset": 20972,
+   "length_bytes": 32,
+   "raw_hex": "2e1f264c80d7812482cf02354e194c80d7fff5051f4880d581342e392e354e80",
+   "text_jp": "んまよぉ…人違いじゃのぉ…<LINE>おまぁ,迅んだんじゃ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!"
+  },
+  {
+   "id": 260,
+   "offset": 21004,
+   "length_bytes": 28,
+   "raw_hex": "d7fffcfff6030f354e2b80cc2f80d780d7fff5808b7180cc80cffff5",
+   "text_jp": "…<CLOSE><PAGE>うそじゃろ{204}が……<LINE>ダミ{204}{207}<LINE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>You got guts talkin' to me like that!<LINE>You got guts talkin' to me like that!<LINE>"
+  }
+ ]
+}

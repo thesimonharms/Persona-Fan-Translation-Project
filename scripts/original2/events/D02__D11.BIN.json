@@ -1,0 +1,47 @@
+{
+ "file": "D02/D11.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 51148,
+   "length_bytes": 11,
+   "raw_hex": "85d21a839c340b2a130229",
+   "text_jp": "扉は閉ざされている",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 255542,
+   "length_bytes": 6,
+   "raw_hex": "373771851429",
+   "text_jp": "ぜぜミ嘖る",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 256055,
+   "length_bytes": 6,
+   "raw_hex": "4b6e3a85ff14",
+   "text_jp": "ぇヘぢ膕と",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 288681,
+   "length_bytes": 6,
+   "raw_hex": "222214020214",
+   "text_jp": "めめといいと",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 289448,
+   "length_bytes": 7,
+   "raw_hex": "07221407221402",
+   "text_jp": "きめときめとい",
+   "translation_en": "..."
+  }
+ ]
+}

@@ -1,0 +1,2086 @@
+{
+ "file": "TALK/MAYOERU",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 20,
+   "raw_hex": "81fc817e6a82857780d7fffcfff65b6a00fff300",
+   "text_jp": "生身ノ女ヨ…<CLOSE><PAGE>コノ <NAME?> ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<NAME?>"
+  },
+  {
+   "id": 1,
+   "offset": 8232,
+   "length_bytes": 37,
+   "raw_hex": "7efff6830f5e7a656b0083ca818f6680d7fff55480cc80cc80d1fffcfff6fff30067fff681",
+   "text_jp": "ヲ<PAGE>歓スルトハ 苛特ナ…<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ニ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>...<PAGE>"
+  },
+  {
+   "id": 2,
+   "offset": 8269,
+   "length_bytes": 38,
+   "raw_hex": "d25981a3834666808f0066536a808b80d1fff554809b809b80d1fffcfff681fc817e6a828577",
+   "text_jp": "{210}ク場斯ナド ナイノダ!<LINE>ウィィ!<CLOSE><PAGE>生身ノ女ヨ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 3,
+   "offset": 8307,
+   "length_bytes": 41,
+   "raw_hex": "80d7fffcfff6fff3006b0082fc5d53808afff581fc817e6a82857780d7fffcfff6fff3006700838971",
+   "text_jp": "…<CLOSE><PAGE><NAME?> ハ 娼シイゾ<LINE>生身ノ女ヨ…<CLOSE><PAGE><NAME?> ニ 挑ミ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE><NAME?>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 4,
+   "offset": 8348,
+   "length_bytes": 47,
+   "raw_hex": "fff682d77e0083687754650053546a808bfff55480cc80cc80d1fffc007257635980d1fff6606a81fc817e6a814500",
+   "text_jp": "<PAGE>何ヲ 得ヨウト イウノダ<LINE>ウ{204}{204}!<CLOSE> ムカツク!<PAGE>ソノ生身ノ体 ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>...<PAGE>..."
+  },
+  {
+   "id": 5,
+   "offset": 8395,
+   "length_bytes": 37,
+   "raw_hex": "fff36afff681b781f867005d64757a80d1fff581e07a81a383465e78006653fff6fff3007e",
+   "text_jp": "<NAME?>ノ<PAGE>一部ニ シテヤル!<LINE>帰ル場斯スラ ナイ<PAGE><NAME?> ヲ",
+   "notes": "",
+   "translation_en": "<NAME?>...<PAGE>...<LINE>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 6,
+   "offset": 8432,
+   "length_bytes": 45,
+   "raw_hex": "00859c5d64fff6837f5d536a5780d780d7fff584d37d7b7a00667f64fff6827b80a164740071665780a161fffc",
+   "text_jp": " 脅シテ<PAGE>杲シイノカ……<LINE>訪ワレル ナンテ<PAGE>思ッテモ ミナカッタ<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 7,
+   "offset": 8477,
+   "length_bytes": 33,
+   "raw_hex": "fff681fc817e6a82850053538252808b66fff55480cc80cc80d1fffcfff6fff300",
+   "text_jp": "<PAGE>生身ノ女 イイ奴ダナ<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>"
+  },
+  {
+   "id": 8,
+   "offset": 8510,
+   "length_bytes": 36,
+   "raw_hex": "6774fff6868979808100527a6a808b80d1fff5525480a180d7fffcfff681fc817e6a8184",
+   "text_jp": "ニモ<PAGE>誇リガ アルノダ!<LINE>アウッ…<CLOSE><PAGE>生身ノ者",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 9,
+   "offset": 8546,
+   "length_bytes": 45,
+   "raw_hex": "8081fff6fff07e0084d354656b80d780d7fff55480cc80cc80d1fffcfff6822b832f66824f7e008186737c80d1",
+   "text_jp": "ガ<PAGE>[f0]ヲ 訪ウトハ……<LINE>ウ{204}{204}!<CLOSE><PAGE>下手ナ歌ヲ 止メロ!",
+   "notes": "",
+   "translation_en": "...<PAGE>[f0]...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 10,
+   "offset": 8591,
+   "length_bytes": 47,
+   "raw_hex": "fff65b6a814580810056575d59667a80d1fff5525480a180d7fffcfff66c808f53840d00fffc6c808f5e80827a80d7",
+   "text_jp": "<PAGE>コノ体ガ オカシクナル!<LINE>アウッ…<CLOSE><PAGE>ヒドイ声 <CLOSE>ヒドスギル…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 11,
+   "offset": 8639,
+   "length_bytes": 48,
+   "raw_hex": "fffcfff66c808f535b65005c7b7a577480d7fff554809b809b80d1fffcfff6824f6b005353746a808b80d7fffcfff681",
+   "text_jp": "<CLOSE><PAGE>ヒドイコト サレルカモ…<LINE>ウィィ!<CLOSE><PAGE>歌ハ イイモノダ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 12,
+   "offset": 8686,
+   "length_bytes": 38,
+   "raw_hex": "fc817e6a84b57e00827b5381985f7a80d1fff5fff30067fff68198820d66535b65006653fffc",
+   "text_jp": "｝身ノ頃ヲ 思イ申セル!<LINE><NAME?> ニ<PAGE>申禾ナイコト ナイ<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE><NAME?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 13,
+   "offset": 8724,
+   "length_bytes": 45,
+   "raw_hex": "fff681fc817e6b0081f48277808b7c5466fff55480cc80cc80d1fffcfff6fff00065812481256b008144808f54",
+   "text_jp": "<PAGE>生身ハ 不便ダロウナ<LINE>ウ{204}{204}!<CLOSE><PAGE>[f0] ト人間ハ 敵ドウ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>[f0]..."
+  },
+  {
+   "id": 14,
+   "offset": 8769,
+   "length_bytes": 47,
+   "raw_hex": "5dfff684807166808f0082d85a686680d1fff554809b809b80d1fffcfff681fc817e6a812667008480707b7a66808f",
+   "text_jp": "シ<PAGE>頼ミナド 聞ケヌナ!<LINE>ウィィ!<CLOSE><PAGE>生身ノ女ニ 頼マレルナド",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 15,
+   "offset": 8816,
+   "length_bytes": 46,
+   "raw_hex": "fff682d7825680927900808b7c545780d1fff55480cc80cc80d1fffcfff6fff3006b83b183b2808780a2665380d1",
+   "text_jp": "<PAGE>何年ブリ ダロウカ!<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ハ鳥庖ジャナイ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 16,
+   "offset": 8863,
+   "length_bytes": 49,
+   "raw_hex": "fff654577b665380d100870e5c7b665380d1fff5525480a180d7fffcfff6841f86616b853b5380d7fffcfff681fc817e6a",
+   "text_jp": "<PAGE>ウカレナイ! 鴫サレナイ!<LINE>アウッ…<CLOSE><PAGE>計珞ハ怖イ…<CLOSE><PAGE>生身ノ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 17,
+   "offset": 8911,
+   "length_bytes": 41,
+   "raw_hex": "818480d7fffc82d77e00865e7f808e537afff554809b809b80d1fffcfff6fff3006b81f75380d1fffc",
+   "text_jp": "者…<CLOSE>何ヲ 企ンデイル<LINE>ウィィ!<CLOSE><PAGE><NAME?> ハ独イ!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<CLOSE><PAGE><NAME?>...<CLOSE>"
+  },
+  {
+   "id": 18,
+   "offset": 8952,
+   "length_bytes": 48,
+   "raw_hex": "fff681fc817e6a81260053535b65826754fff55b5b6b00827a5380d7fffcfff681aa833e808100665380d7fffcfff681",
+   "text_jp": "<PAGE>生身ノ女 イイコト言ウ<LINE>ココハ 寒イ…<CLOSE><PAGE>話題ガ ナイ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 19,
+   "offset": 9000,
+   "length_bytes": 42,
+   "raw_hex": "fc817e6a8184808100547875705d5380d7fff581fc817e6a81260083706358808b80d1fffcfff6851268",
+   "text_jp": "｝身ノ者ガ ウラヤマシイ…<LINE>生身ノ女 嘘ツキダ!<CLOSE><PAGE>呑ヌ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 20,
+   "offset": 9042,
+   "length_bytes": 47,
+   "raw_hex": "536400fff3008081fff6747854808a80d1fff554809b809b80d1fffcfff681b763827882ca67006680a16180d1fff6",
+   "text_jp": "イテ <NAME?> ガ<PAGE>モラウゾ!<LINE>ウィィ!<CLOSE><PAGE>一ツ刮日ニ ナッタ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<NAME?>...<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 21,
+   "offset": 9089,
+   "length_bytes": 39,
+   "raw_hex": "526a828c808e00846367821663808a80d1fff5fff3006afff681f75c0081bc80a1647a00667f64",
+   "text_jp": "アノ械デ 役ニ立ツゾ!<LINE><NAME?> ノ<PAGE>独サ 知ッテル ナンテ",
+   "notes": "",
+   "translation_en": "...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 22,
+   "offset": 9128,
+   "length_bytes": 62,
+   "raw_hex": "fff681fc817e6a812600557853808a80d1fff55480cc80cc80d1fffc00547a5c53808a80d1fffcfff6812481256a81268081008267545b657efff683bc80",
+   "text_jp": "<PAGE>生身ノ女 エライゾ!<LINE>ウ{204}{204}!<CLOSE> ウルサイゾ!<CLOSE><PAGE>人間ノ女ガ 言ウコトヲ<PAGE>信",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 23,
+   "offset": 9190,
+   "length_bytes": 44,
+   "raw_hex": "877a6f808f0082c66280927b64665380d1fff554809b809b80d1fffcfff6fff3006b0081f75380d1fff681fc",
+   "text_jp": "挙ホド 藩チブレテナイ!<LINE>ウィィ!<CLOSE><PAGE><NAME?> ハ 独イ!<PAGE>生",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 24,
+   "offset": 9234,
+   "length_bytes": 46,
+   "raw_hex": "817e6a8126007480a165853b80817b80d1fff55b5b827a5380d1fff6825a57538346808100535380d7fffcfff681",
+   "text_jp": "身ノ女 モット怖ガレ!<LINE>ココ寒イ!<PAGE>嗄カイ斯ガ イイ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 25,
+   "offset": 9280,
+   "length_bytes": 50,
+   "raw_hex": "fc817e6a814500825a576054808b6680d7fff55480cc80cc80d1fffcfff3006bfff681fc817e6a828567008335816566808f",
+   "text_jp": "｝身ノ体 嗄カソウダナ…<LINE>ウ{204}{204}!<CLOSE><NAME?> ハ<PAGE>生身ノ女ニ 興味ナド",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 26,
+   "offset": 9330,
+   "length_bytes": 50,
+   "raw_hex": "665380d1fff665796359808a007d7b80d1fff5525480a180d7fffcfff6fff3006b8487008285808e527a80d7fffcfff681fc",
+   "text_jp": "ナイ!<PAGE>トリツクゾ ワレ!<LINE>アウッ…<CLOSE><PAGE><NAME?> ハ皆 女デアル…<CLOSE><PAGE>生",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 27,
+   "offset": 9380,
+   "length_bytes": 23,
+   "raw_hex": "817e6a82857700820382be80a1615780d7fff554809b80",
+   "text_jp": "身ノ女ヨ 血邑ッタカ…<LINE>ウィ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 28,
+   "offset": 9403,
+   "length_bytes": 41,
+   "raw_hex": "9b80d1fffcfff67780a15d80a280cc80d1fff581fc817e6a82858081fff6fff3006a00842682c96678",
+   "text_jp": "ィ!<CLOSE><PAGE>ヨッシャ{204}!<LINE>生身ノ女ガ<PAGE><NAME?> ノ 友運ナラ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 29,
+   "offset": 9445,
+   "length_bytes": 22,
+   "raw_hex": "fff65b6a828c7400837f5d5300808b7c5466fff55480",
+   "text_jp": "<PAGE>コノ械モ 杲シイ ダロウナ<LINE>ウ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 30,
+   "offset": 9466,
+   "length_bytes": 29,
+   "raw_hex": "cc80cc80d1fffcfff66370787f80d180d1fff55980d7fffc82225d80d7",
+   "text_jp": "{204}{204}!<CLOSE><PAGE>ツマラン!!<LINE>ク…<CLOSE>苦シ…",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<CLOSE>..."
+  },
+  {
+   "id": 31,
+   "offset": 9495,
+   "length_bytes": 32,
+   "raw_hex": "fffcfff6813468576500827b80a16180d7fff554809b809b80d1fffcfff68210",
+   "text_jp": "<CLOSE><PAGE>迅ヌカト 思ッタ…<LINE>ウィィ!<CLOSE><PAGE>沚",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 32,
+   "offset": 9527,
+   "length_bytes": 35,
+   "raw_hex": "80810081675d00825a57596680a16180d1fff581fc817e6a82857780d7fffcfff6fff3",
+   "text_jp": "ガ 少シ 嗄カクナッタ!<LINE>生身ノ女ヨ…<CLOSE><PAGE><NAME?>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE><NAME?>"
+  },
+  {
+   "id": 33,
+   "offset": 9562,
+   "length_bytes": 43,
+   "raw_hex": "006bfff681aa6a837a587e0082d8586153fff55480cc80cc80d1fffcfff681fc817e6a828c828d6a0081aa",
+   "text_jp": " ハ<PAGE>話ノ轅キヲ 聞キタイ<LINE>ウ{204}{204}!<CLOSE><PAGE>生身ノ械晃ノ 話",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 34,
+   "offset": 9605,
+   "length_bytes": 44,
+   "raw_hex": "66808ffff682d8586159006653808a80d1fff55c798084665386eb86ec80d7fffcfff65b5b6b008499615357",
+   "text_jp": "ナド<PAGE>聞キタク ナイゾ!<LINE>サリゲナイ挨拶…<CLOSE><PAGE>ココハ 冷タイカ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 35,
+   "offset": 9649,
+   "length_bytes": 43,
+   "raw_hex": "7800665380d7fffcfff662650082fc5d53fff5fff3006774fff681678256819281c38081005280a16180d7",
+   "text_jp": "ラ ナイ…<CLOSE><PAGE>チト 娼シイ<LINE><NAME?> ニモ<PAGE>少年時代ガ アッタ…",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 36,
+   "offset": 9692,
+   "length_bytes": 37,
+   "raw_hex": "fffcfff66663575d5300827b538198808bfff55480cc80cc80d1fffcfff682d77e005e7a80",
+   "text_jp": "<CLOSE><PAGE>ナツカシイ 思イ申ダ<LINE>ウ{204}{204}!<CLOSE><PAGE>何ヲ スル",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 37,
+   "offset": 9729,
+   "length_bytes": 36,
+   "raw_hex": "d1fff6fff3006b0083bd80a161808a80d1fff581fc817e6a82857780d7fffcfff6fff300",
+   "text_jp": "!<PAGE><NAME?> ハ 怒ッタゾ!<LINE>生身ノ女ヨ…<CLOSE><PAGE><NAME?> ",
+   "notes": "",
+   "translation_en": "!<PAGE><NAME?>...<LINE>...<CLOSE><PAGE><NAME?>"
+  },
+  {
+   "id": 38,
+   "offset": 9765,
+   "length_bytes": 49,
+   "raw_hex": "7e008544575d64fff6837f5d536a5780d7fff570808b0081fc5864536184b5fff6fff3006a00833467005280a161fff657",
+   "text_jp": "ヲ 鷲カシテ<PAGE>杲シイノカ…<LINE>マダ 生キテイタ頃<PAGE><NAME?> ノ 家ニ アッタ<PAGE>カ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 39,
+   "offset": 9814,
+   "length_bytes": 49,
+   "raw_hex": "745d7b665380d7fffc81e07a83466780d7fff55480cc80cc80d1fffcfff6fff300808100830f5d536a6bfff681fc817e6a",
+   "text_jp": "モシレナイ…<CLOSE>帰ル斯ニ…<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ガ 歓シイノハ<PAGE>生身ノ",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<CLOSE><PAGE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 40,
+   "offset": 9863,
+   "length_bytes": 42,
+   "raw_hex": "814580d100812e6a81d25881a3808b80d1fff554809b809b80d1fffcfff6607b527a6500825a57535774",
+   "text_jp": "体! 稠ノ行キ場ダ!<LINE>ウィィ!<CLOSE><PAGE>ソレアルト 嗄カイカモ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 41,
+   "offset": 9905,
+   "length_bytes": 48,
+   "raw_hex": "80d7fffcfff6808b80a161780082fc5d53fff581fc817e6a82856a008267545b65fff683af5d530057745d7b6653fffc",
+   "text_jp": "…<CLOSE><PAGE>ダッタラ 娼シイ<LINE>生身ノ女ノ 言ウコト<PAGE>茫シイ カモシレナイ<CLOSE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 42,
+   "offset": 9954,
+   "length_bytes": 55,
+   "raw_hex": "fff6844983a57b00835983d35d64757a808afff55480cc80cc80d1fffcfff682ca808e6b00667f65808e74008267557a80d1fff681f759",
+   "text_jp": "<PAGE>頑悵レ 応援シテヤルゾ<LINE>ウ{204}{204}!<CLOSE><PAGE>日デハ ナントデモ 言エル!<PAGE>独ク",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 43,
+   "offset": 10008,
+   "length_bytes": 43,
+   "raw_hex": "816253595f670081fc81c58218808b80d1fff554809b809b80d1fffcfff681815880810053536680d1fff6",
+   "text_jp": "無イクセニ 生意気ダ!<LINE>ウィィ!<CLOSE><PAGE>活キガ イイナ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 44,
+   "offset": 10051,
+   "length_bytes": 48,
+   "raw_hex": "81fc817e667800575900527a809358808bfff581fc817e6a82857780d7fffcfff683bd86a578665965740082d85b557a",
+   "text_jp": "生身ナラ カク アルベキダ<LINE>生身ノ女ヨ…<CLOSE><PAGE>怒噪ラナクトモ 聞コエル",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 45,
+   "offset": 10100,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff65d575d0081115866840d00535366fff55480cc80cc80d1fffcfff6fff3006b0081628144808e527a80",
+   "text_jp": "<CLOSE><PAGE>シカシ 大キナ声 イイナ<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ハ 無敵デアル",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 46,
+   "offset": 10144,
+   "length_bytes": 38,
+   "raw_hex": "d1fff681fc817e6a82850082ec5f665366fff5525480a180d7fffcfff65c80d7fffc827a5380",
+   "text_jp": "!<PAGE>生身ノ女 許セナイナ<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>寒イ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 47,
+   "offset": 10182,
+   "length_bytes": 52,
+   "raw_hex": "d7fffcfff6fff3006b00813d59665380d7fff581fc817e6a828574008134698090fff6fff3006a83946700667b7a808afffcfff6",
+   "text_jp": "…<CLOSE><PAGE><NAME?> ハ 悪クナイ…<LINE>生身ノ女モ 迅ネバ<PAGE><NAME?> ノ達ニ ナレルゾ<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE><NAME?>...<LINE>...<PAGE><NAME?>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 48,
+   "offset": 10234,
+   "length_bytes": 53,
+   "raw_hex": "5d575d005b5b6b0084e95964827a5380d7fff581fc817e808b5778650082a36782667a6680d1fff6fff3006b0081fc817e6a635983",
+   "text_jp": "シカシ ココハ 唯クテ寒イ…<LINE>生身ダカラト 圖ニ帚ルナ!<PAGE><NAME?> ハ 生身ノツク",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 49,
+   "offset": 10287,
+   "length_bytes": 43,
+   "raw_hex": "70fff65e8083007d577a6a808b80d180d1fff554809b809b80d1fffcfff681fc817e6a82856a0082675481",
+   "text_jp": "マ<PAGE>スグ ワカルノダ!!<LINE>ウィィ!<CLOSE><PAGE>生身ノ女ノ 言ウ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 50,
+   "offset": 10330,
+   "length_bytes": 50,
+   "raw_hex": "ba7980d1fff6fff3006b005c535b5480d1fff5667a6f808f80d7fffc607b8081fff6526a828c808e0083d181d280a1647a00",
+   "text_jp": "Uリ!<PAGE><NAME?> ハ サイコウ!<LINE>ナルホド…<CLOSE>ソレガ<PAGE>アノ械デ 朧行ッテル ",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE>...<PAGE>..."
+  },
+  {
+   "id": 51,
+   "offset": 10380,
+   "length_bytes": 55,
+   "raw_hex": "84a3795780d7fffcfff3007484a3796153fff55480cc80cc80d1fffcfff681fc817e6a81457e00821b5f809178575e6680d1fffcfff654",
+   "text_jp": "錘リカ…<CLOSE><NAME?> モ錘リタイ<LINE>ウ{204}{204}!<CLOSE><PAGE>生身ノ体ヲ 見セビラカスナ!<CLOSE><PAGE>ウ",
+   "notes": "",
+   "translation_en": "...<CLOSE><NAME?>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 52,
+   "offset": 10435,
+   "length_bytes": 55,
+   "raw_hex": "80cc80cc80d1fffc00821867597d7f80d1fff581fc817e6a82857780d7fffc83725381456afff67d79676b0082d4832f53808a80d1fff6",
+   "text_jp": "{204}{204}!<CLOSE> 気ニクワン!<LINE>生身ノ女ヨ…<CLOSE>重イ体ノ<PAGE>ワリニハ 部手イゾ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<CLOSE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 53,
+   "offset": 10490,
+   "length_bytes": 38,
+   "raw_hex": "81346980900077798452755767667a80d1fff5841a846053808a0081fc817e6a828580d1fffc",
+   "text_jp": "迅ネバ ヨリ輊ヤカニナル!<LINE>面曰イゾ 生身ノ女!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 54,
+   "offset": 10529,
+   "length_bytes": 49,
+   "raw_hex": "fff681b15d5382678351576500827b80a161fff55480cc80cc80d1fffcfff6fff30067008516836257545780d1fff681fc",
+   "text_jp": "<PAGE>新シイ言葉カト 思ッタ<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ニ 刄向カウカ!<PAGE>生",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 55,
+   "offset": 10577,
+   "length_bytes": 42,
+   "raw_hex": "817e6a8251828d7e0083305564757a80d1fff5525480a180d7fffcfff65980d7fffc82225d53fffcfff6",
+   "text_jp": "身ノ限晃ヲ 教エテヤル!<LINE>アウッ…<CLOSE><PAGE>ク…<CLOSE>苦シイ<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<CLOSE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 56,
+   "offset": 10619,
+   "length_bytes": 40,
+   "raw_hex": "821f665357780082e280847754576680d7fff5821b6373787b7a65fff6667f808b5700825a575380",
+   "text_jp": "危ナイカラ 逃ゲヨウカナ…<LINE>見ツメラレルト<PAGE>ナンダカ 嗄カイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 57,
+   "offset": 10659,
+   "length_bytes": 47,
+   "raw_hex": "d7fffcfff67480a16500821b637364597bfff55480cc80cc80d1fffcfff6856582386a00849a83a66b00835d5380d1",
+   "text_jp": "…<CLOSE><PAGE>モット 見ツメテクレ<LINE>ウ{204}{204}!<CLOSE><PAGE>黒目ノ 袍檪ハ 痛イ!",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 58,
+   "offset": 10706,
+   "length_bytes": 33,
+   "raw_hex": "fff6821b7a6680d10083b183b2746a80d1fff5846c7e00827b5381985e80d7fffc",
+   "text_jp": "<PAGE>見ルナ! 鳥庖モノ!<LINE>葺ヲ 思イ申ス…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 59,
+   "offset": 10740,
+   "length_bytes": 51,
+   "raw_hex": "fff6526a85456b00808f545d647a576680d7fff582e682e7660081aa808780a266535780d1fffcfff67580a180957900526a82",
+   "text_jp": "<PAGE>アノ齟ハ ドウシテルカナ…<LINE>偸快ナ 話ジャナイカ!<CLOSE><PAGE>ヤッパリ アノ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 60,
+   "offset": 10790,
+   "length_bytes": 46,
+   "raw_hex": "8c6bfff6841a84606054808b66809a80d7fff55480cc80cc80d1fffcfff681fc817e6a82850083707e0063596680",
+   "text_jp": "ヂハ<PAGE>面曰ソウダナァ…<LINE>ウ{204}{204}!<CLOSE><PAGE>生身ノ女 嘘ヲ ツクナ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 61,
+   "offset": 10836,
+   "length_bytes": 48,
+   "raw_hex": "d1fff6fff30083b183b267005e7a6680d1fff554809b809b80d1fffcfff681aa6a00811280810081b9556180d1fff652",
+   "text_jp": "!<PAGE><NAME?> 鳥庖ニ スルナ!<LINE>ウィィ!<CLOSE><PAGE>話ノ 僮ガ 塘エタ!<PAGE>ア",
+   "notes": "",
+   "translation_en": "!<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 62,
+   "offset": 10884,
+   "length_bytes": 52,
+   "raw_hex": "6a828c808e0082c75700870e5d64757c54fff55480cc80cc80d1fffc00fff30067fff6853b53005b65667f5700665380d1fff654",
+   "text_jp": "ノ械デ 誰カ 鴫シテヤロウ<LINE>ウ{204}{204}!<CLOSE> <NAME?> ニ<PAGE>怖イ コトナンカ ナイ!<PAGE>ウ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><NAME?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 63,
+   "offset": 10936,
+   "length_bytes": 37,
+   "raw_hex": "80cc80cc80d1fffc00715980917a6680d1fff5525480a180d7fffcfff65c80d7fffc827a53",
+   "text_jp": "{204}{204}!<CLOSE> ミクビルナ!<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>寒イ",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 64,
+   "offset": 10973,
+   "length_bytes": 50,
+   "raw_hex": "80d7fffcfff65980d7fffc82225d5380d7fff554809b809b80d1fffcfff681fc817e6a81266b00607f6681aa8081fff6853b",
+   "text_jp": "…<CLOSE><PAGE>ク…<CLOSE>苦シイ…<LINE>ウィィ!<CLOSE><PAGE>生身ノ女ハ ソンナ話ガ<PAGE>怖",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<CLOSE>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 65,
+   "offset": 11023,
+   "length_bytes": 48,
+   "raw_hex": "536a5780d0fffc0083b183b2808b66809afff55353840d7e005d647a66fff681fc817e6a812677fffc00834c5981347f",
+   "text_jp": "イノカ?<CLOSE> 鳥庖ダナァ<LINE>イイ声ヲ シテルナ<PAGE>生身ノ女ヨ<CLOSE> 帛ク迅ン",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 66,
+   "offset": 11071,
+   "length_bytes": 41,
+   "raw_hex": "808efff6fff300650083ba6700824f5654fff55480cc80cc80d1fffcfff6822b832f66824f7e008186",
+   "text_jp": "デ<PAGE><NAME?> ト 共ニ 歌オウ<LINE>ウ{204}{204}!<CLOSE><PAGE>下手ナ歌ヲ 止",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 67,
+   "offset": 11112,
+   "length_bytes": 41,
+   "raw_hex": "737c80d1fff6775a5300827a59667a80d1fff554809b809b80d1fffcfff6824f6b007753746a808b80",
+   "text_jp": "メロ!<PAGE>ヨケイ 寒クナル!<LINE>ウィィ!<CLOSE><PAGE>歌ハ ヨイモノダ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 68,
+   "offset": 11153,
+   "length_bytes": 49,
+   "raw_hex": "d7fffcfff68218814380810084437a80d1fff581fc817e6a81267780d7fffcfff6808f545354811483887e005d64537a80",
+   "text_jp": "…<CLOSE><PAGE>気力ガ 蘇ル!<LINE>生身ノ女ヨ…<CLOSE><PAGE>ドウイウ神経ヲ シテイル",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 69,
+   "offset": 11202,
+   "length_bytes": 55,
+   "raw_hex": "d0fff6fff3006b0081fc817e650082cf54fff55480cc80cc80d1fffc00fff3006774fff68689798081527a80d1fffc00605453545b656b",
+   "text_jp": "?<PAGE><NAME?> ハ 生身ト 違ウ<LINE>ウ{204}{204}!<CLOSE> <NAME?> ニモ<PAGE>誇リガアル!<CLOSE> ソウイウコトハ",
+   "notes": "",
+   "translation_en": "?<PAGE><NAME?>...<LINE>...<CLOSE><NAME?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 70,
+   "offset": 11258,
+   "length_bytes": 47,
+   "raw_hex": "fff681fc817e6a824e82dd670082675580d1fff581fc817e6a84b56b00fff3006774fff68139808100536180d7fffc",
+   "text_jp": "<PAGE>生身ノ子供ニ 言エ!<LINE>生身ノ頃ハ <NAME?> ニモ<PAGE>毋ガ イタ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<NAME?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 71,
+   "offset": 11305,
+   "length_bytes": 36,
+   "raw_hex": "fff684955d8092796700827b5381985d6177fff581fc817e6a8126670084d37d7b6180d7",
+   "text_jp": "<PAGE>久シブリニ 思イ申シタヨ<LINE>生身ノ女ニ 訪ワレタ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 72,
+   "offset": 11340,
+   "length_bytes": 49,
+   "raw_hex": "fffcfff65c82be546a7400813d59665366fff55480cc80cc80d1fffc00fff3006bfff682de82376a00757a5b65fff681bc",
+   "text_jp": "<CLOSE><PAGE>サ邑ウノモ 悪クナイナ<LINE>ウ{204}{204}!<CLOSE> <NAME?> ハ<PAGE>自分ノ ヤルコト<PAGE>知",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><NAME?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 73,
+   "offset": 11389,
+   "length_bytes": 55,
+   "raw_hex": "80a1647a80d100fffc607b6b82cf5480d1fff5fff3006b0086128160808b8081fff681fc817e6a830381f96b008198820d6653577480d7",
+   "text_jp": "ッテル! <CLOSE>ソレハ違ウ!<LINE><NAME?> ハ 万龍ダガ<PAGE>生身ノ汢事ハ 申禾ナイカモ…",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 74,
+   "offset": 11444,
+   "length_bytes": 46,
+   "raw_hex": "fff65a808f0084d3536b0082fc5d53808afff5813d82ca5780d7fffcfff681fc817e6a8184808100775982675480",
+   "text_jp": "<PAGE>ケド 訪イハ 娼シイゾ<LINE>悪日カ…<CLOSE><PAGE>生身ノ者ガ ヨク言ウ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 75,
+   "offset": 11490,
+   "length_bytes": 23,
+   "raw_hex": "d7fffcfff6fff3006b82677d6653006a67fff581fc817e",
+   "text_jp": "…<CLOSE><PAGE><NAME?> ハ言ワナイ ノニ<LINE>生身",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE><NAME?>...<LINE>..."
+  },
+  {
+   "id": 76,
+   "offset": 11513,
+   "length_bytes": 36,
+   "raw_hex": "6a00595f67fff681c5821880817a6680d1fff5525480a180d7fffcfff65c80d7fffc827a",
+   "text_jp": "ノ クセニ<PAGE>意気ガルナ!<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>寒",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 77,
+   "offset": 11549,
+   "length_bytes": 56,
+   "raw_hex": "5380d7fffcfff66380d7fffc86575380d7fff582938158650082f880926a6bfff681fc817e6a00818f84906a007754808bfffcfff6526a82",
+   "text_jp": "イ…<CLOSE><PAGE>ツ…<CLOSE>辛イ…<LINE>異忤ト 遊ブノハ<PAGE>生身ノ 特燿ノ ヨウダ<CLOSE><PAGE>アノ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<CLOSE>...<LINE>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 78,
+   "offset": 11605,
+   "length_bytes": 44,
+   "raw_hex": "4181107e0082e4819a808e587a577480d7fff55480cc80cc80d1fffcfff6fff300670082d77e0082267280d0",
+   "text_jp": "べ引ヲ 冉現デキルカモ…<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ニ 何ヲ 筆ム?",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 79,
+   "offset": 11649,
+   "length_bytes": 44,
+   "raw_hex": "fffcfff67d57787f00808e6b66535780d1fff554809b809b80d1fffcfff681fc817e6a8126667f64fff67454",
+   "text_jp": "<CLOSE><PAGE>ワカラン デハナイカ!<LINE>ウィィ!<CLOSE><PAGE>生身ノ女ナンテ<PAGE>モウ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 80,
+   "offset": 11693,
+   "length_bytes": 53,
+   "raw_hex": "81628188808b6500827b80a164536180d1fff581fc817e6a81267780d7fffc607f6667fff682d6808100865753667800fffc81347f",
+   "text_jp": "無理ダト 思ッテイタ!<LINE>生身ノ女ヨ…<CLOSE>ソンナニ<PAGE>今ガ 辛イナラ <CLOSE>迅ン",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 81,
+   "offset": 11746,
+   "length_bytes": 50,
+   "raw_hex": "808efff6fff3006700667a80815353808afff55480cc80cc80d1fffcfff68145808100527a808b5a0082315365827b5580d1",
+   "text_jp": "デ<PAGE><NAME?> ニ ナルガイイゾ<LINE>ウ{204}{204}!<CLOSE><PAGE>体ガ アルダケ 箕イト思エ!",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 82,
+   "offset": 11796,
+   "length_bytes": 43,
+   "raw_hex": "fff6fff300808100747854808a80d180d1fff5525480a180d7fffcfff65c80d7fffc827a6054808b6680d7",
+   "text_jp": "<PAGE><NAME?> ガ モラウゾ!!<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>寒ソウダナ…",
+   "notes": "",
+   "translation_en": "<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 83,
+   "offset": 11840,
+   "length_bytes": 46,
+   "raw_hex": "fffcfff681fc817e740086815d536a5780d7fff581fc817e6a81267780d7fffcfff6fff30067839354746a006653",
+   "text_jp": "<CLOSE><PAGE>生身モ 厳シイノカ…<LINE>生身ノ女ヨ…<CLOSE><PAGE><NAME?> ニ失ウモノ ナイ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 84,
+   "offset": 11886,
+   "length_bytes": 50,
+   "raw_hex": "fff6859c5d647400816281c58165808b808afff5fff3006b8162814480d1fff6839354746a0082d774665380d180d1fff681",
+   "text_jp": "<PAGE>脅シテモ 無意味ダゾ<LINE><NAME?> ハ無敵!<PAGE>失ウモノ 何モナイ!!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE><NAME?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 85,
+   "offset": 11935,
+   "length_bytes": 29,
+   "raw_hex": "fc817e6a8145808100830f5d5380d180d1fff5525480a180d7fffcfff6",
+   "text_jp": "｝身ノ体ガ 歓シイ!!<LINE>アウッ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 86,
+   "offset": 11965,
+   "length_bytes": 51,
+   "raw_hex": "fff3007efff6859c5d6400837f5d535780d7fff5fff3007e00538087737a6680d1fffcfff65b7b808e6b0081fc817e6a84b565",
+   "text_jp": "<NAME?> ヲ<PAGE>脅シテ 杲シイカ…<LINE><NAME?> ヲ イジメルナ!<CLOSE><PAGE>コレデハ 生身ノ頃ト",
+   "notes": "",
+   "translation_en": "<NAME?>...<PAGE>...<LINE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 87,
+   "offset": 12015,
+   "length_bytes": 45,
+   "raw_hex": "fff6817d7d78665300808e6b66535780d1fff5525480a180d7fffcfff65e808559827a5380d7fffc827a535778",
+   "text_jp": "<PAGE>変ワラナイ デハナイカ!<LINE>アウッ…<CLOSE><PAGE>スゴク寒イ…<CLOSE>寒イカラ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 88,
+   "offset": 12060,
+   "length_bytes": 58,
+   "raw_hex": "fff66780d7fffc82e280847754576680d7fff554809b809b80d1fffc0053808773787b7a6afff681c5811f6500821881fb628081535380d7fffc",
+   "text_jp": "<PAGE>ニ…<CLOSE>逃ゲヨウカナ…<LINE>ウィィ!<CLOSE> イジメラレルノ<PAGE>意夘ト 気持チガイイ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<CLOSE>...<LINE>...<CLOSE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 89,
+   "offset": 12119,
+   "length_bytes": 70,
+   "raw_hex": "fff682d75767008238826f736171615380d7fff581fc817e6a81266a008267545b65fff67480a16574808b80d7fffbfff7745d575d61780081fc817e6a8126fff6fff3006a00",
+   "text_jp": "<PAGE>何カニ 目覚メタミタイ…<LINE>生身ノ女ノ 言ウコト<PAGE>モットモダ…<MENU_A><MENU_B>モシカシタラ 生身ノ女<PAGE><NAME?> ノ ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<MENU_A><MENU_B>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 90,
+   "offset": 12188,
+   "length_bytes": 58,
+   "raw_hex": "81e07a8346fff681bc80a1647a577480d7fff581fc817e6a81266700fff3006afff682d78081007d577a6a808b80d1fffcfff65480cc80cc80d1",
+   "text_jp": "帰ル斯<PAGE>知ッテルカモ…<LINE>生身ノ女ニ <NAME?> ノ<PAGE>何ガ ワカルノダ!<CLOSE><PAGE>ウ{204}{204}!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<NAME?>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 91,
+   "offset": 12246,
+   "length_bytes": 47,
+   "raw_hex": "fffc0081fc81c58218808b808a80d180d1fff581fc6a85f9816586ed6b0083155366fffcfff65d5774007759008291",
+   "text_jp": "<CLOSE> 生意気ダゾ!!<LINE>生ノ脳味猥ハ 賢イナ<CLOSE><PAGE>シカモ ヨク 瞶",
+   "notes": "",
+   "translation_en": "<CLOSE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 92,
+   "offset": 12293,
+   "length_bytes": 56,
+   "raw_hex": "5780a16464fff6842a81656054808b80d7fff55480cc80cc80d1fffc00fff3006bfff682168401668111812480d1fffc00605453545b656b",
+   "text_jp": "カッテテ<PAGE>美味ソウダ…<LINE>ウ{204}{204}!<CLOSE> <NAME?> ハ<PAGE>立卵ナ大人!<CLOSE> ソウイウコトハ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><NAME?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 93,
+   "offset": 12350,
+   "length_bytes": 42,
+   "raw_hex": "fff682de82376a824e82dd670082675580d1fff5525480a180d7fffcfff65b80d7fffc853b5380d7fffc",
+   "text_jp": "<PAGE>自分ノ子供ニ 言エ!<LINE>アウッ…<CLOSE><PAGE>コ…<CLOSE>怖イ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>...<CLOSE>"
+  },
+  {
+   "id": 94,
+   "offset": 12391,
+   "length_bytes": 46,
+   "raw_hex": "fff66780d7fffc82e280847754576680d7fff5fff300740081fc817e6a84b56bfff67759008139670083bd787b61",
+   "text_jp": "<PAGE>ニ…<CLOSE>逃ゲヨウカナ…<LINE><NAME?> モ 生身ノ頃ハ<PAGE>ヨク 毋ニ 怒ラレタ",
+   "notes": "",
+   "translation_en": "<PAGE>...<CLOSE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 95,
+   "offset": 12438,
+   "length_bytes": 43,
+   "raw_hex": "fff684955d8092796700827b5381985d6177fff581fc817e6a81267780d7fffcfff6637b6659005d665380",
+   "text_jp": "<PAGE>久シブリニ 思イ申シタヨ<LINE>生身ノ女ヨ…<CLOSE><PAGE>ツレナク シナイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 96,
+   "offset": 12480,
+   "length_bytes": 56,
+   "raw_hex": "8efff6526a828c6a0081aa7e005d64597bfff55480cc80cc80d1fffc008162849a5c7b6180d1fffcfff67280855380d1fffc0081fc817e6a",
+   "text_jp": "デ<PAGE>アノ械ノ 話ヲ シテクレ<LINE>ウ{204}{204}!<CLOSE> 無袍サレタ!<CLOSE><PAGE>ムゴイ!<CLOSE> 生身ノ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 97,
+   "offset": 12536,
+   "length_bytes": 38,
+   "raw_hex": "fff6595f6700825a5759006653808a80d1fff5525480a180d7fffcfff65c80d7fffc827a5380",
+   "text_jp": "<PAGE>クセニ 嗄カク ナイゾ!<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>寒イ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 98,
+   "offset": 12574,
+   "length_bytes": 41,
+   "raw_hex": "d7fffcfff65b5b7400827a5e80827a80d7fff581fc817e6a82857780d7fffcfff682be557a00fff300",
+   "text_jp": "…<CLOSE><PAGE>ココモ 寒スギル…<LINE>生身ノ女ヨ…<CLOSE><PAGE>邑エル <NAME?> ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<NAME?>"
+  },
+  {
+   "id": 99,
+   "offset": 12615,
+   "length_bytes": 56,
+   "raw_hex": "6afff681aa8157832f67006680a164597bfff55480cc80cc80d1fffc008162849a5c7b6180d1fffcfff67280855380d1fffc0081fc817e6a",
+   "text_jp": "ノ<PAGE>話梠手ニ ナッテクレ<LINE>ウ{204}{204}!<CLOSE> 無袍サレタ!<CLOSE><PAGE>ムゴイ!<CLOSE> 生身ノ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 100,
+   "offset": 12671,
+   "length_bytes": 53,
+   "raw_hex": "fff6595f6700825a5759006653808a80d1fff5525480a180d7fffcfff65b5b6b00808f80d7fffc808f5b808b7c5480d7fffcfff684",
+   "text_jp": "<PAGE>クセニ 嗄カク ナイゾ!<LINE>アウッ…<CLOSE><PAGE>ココハ ド…<CLOSE>ドコダロウ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 101,
+   "offset": 12724,
+   "length_bytes": 46,
+   "raw_hex": "9961530081fc817e8090577900537a80d7fff581fc817e6a82857780d7fffcfff6606a8145008181588081005353",
+   "text_jp": "ポタイ 生身バカリ イル…<LINE>生身ノ女ヨ…<CLOSE><PAGE>ソノ体 活キガ イイ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 102,
+   "offset": 12770,
+   "length_bytes": 50,
+   "raw_hex": "66fff6fff3006b830f5d596680a16180d1fff55480cc80cc80d1fffcfff6fff3006b00853b808178665380d1fff681fc817e",
+   "text_jp": "ナ<PAGE><NAME?> ハ歓シクナッタ!<LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ハ 怖ガラナイ!<PAGE>生身",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE><PAGE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 103,
+   "offset": 12820,
+   "length_bytes": 43,
+   "raw_hex": "6a814500832f670081ae7b7a70808e80d1fff5525480a180d7fffcfff6fff30082be80a1647a808b5a80d7",
+   "text_jp": "ノ体 手ニ 入レルマデ!<LINE>アウッ…<CLOSE><PAGE><NAME?> 邑ッテルダケ…",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 104,
+   "offset": 12864,
+   "length_bytes": 46,
+   "raw_hex": "fffcfff666808900811e81167e005e7a80d7fff55480cc80cc80d1fffcfff67557705d53808a80d10081fc817e80",
+   "text_jp": "<CLOSE><PAGE>ナゼ 邪魔ヲ スル…<LINE>ウ{204}{204}!<CLOSE><PAGE>ヤカマシイゾ! 生身",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 105,
+   "offset": 12909,
+   "length_bytes": 33,
+   "raw_hex": "d1fff6815580a16400757c545780d180d1fff5525480a180d7fffcfff681fc817e",
+   "text_jp": "!<PAGE>咤ッテ ヤロウカ!!<LINE>アウッ…<CLOSE><PAGE>生身",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 106,
+   "offset": 12942,
+   "length_bytes": 51,
+   "raw_hex": "6a82858081fff656575d596680a16180d7fff5607b6b0081fc817e6a86eb86ec5780d0fffcfff6fff30080810081fc58645361",
+   "text_jp": "ノ女ガ<PAGE>オカシクナッタ…<LINE>ソレハ 生身ノ挨拶カ?<CLOSE><PAGE><NAME?> ガ 生キテイタ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 107,
+   "offset": 12994,
+   "length_bytes": 49,
+   "raw_hex": "fff684b5650082cf80a16400817d808b808afff55b5b6b00827a5380d7fffcfff686aa837f808100665380d7fffcfff681",
+   "text_jp": "<PAGE>頃ト 違ッテ 変ダゾ<LINE>ココハ 寒イ…<CLOSE><PAGE>娟杲ガ ナイ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 108,
+   "offset": 13042,
+   "length_bytes": 35,
+   "raw_hex": "fc817e6a8285808100547875705d5380d7fff5525480a180d7fffcfff65c80d7fffc82",
+   "text_jp": "｝身ノ女ガ ウラヤマシイ…<LINE>アウッ…<CLOSE><PAGE>サ…<CLOSE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 109,
+   "offset": 13077,
+   "length_bytes": 44,
+   "raw_hex": "7a5380d7fffcfff65980d7fffc82225d53fff581f4827b827c808b80d7fffcfff68210808100825a707a80d7",
+   "text_jp": "ルイ…<CLOSE><PAGE>ク…<CLOSE>苦シイ<LINE>不思譲ダ…<CLOSE><PAGE>沚ガ 嗄マル…",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<CLOSE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 110,
+   "offset": 13121,
+   "length_bytes": 47,
+   "raw_hex": "fffcfff682d66b005e80855900837f5d53fff581fc6a82ca808100527a65fff68204537c0081aa5f7a6a808b6680d7",
+   "text_jp": "<CLOSE><PAGE>今ハ スゴク 杲シイ<LINE>生ノ日ガ アルト<PAGE>色イロ 話セルノダナ…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 111,
+   "offset": 13168,
+   "length_bytes": 51,
+   "raw_hex": "fffcfff6606a82ca808100830f5d5380d7fff581aa6b007759007d5780a16180d7fffcfff65d575d00fff3006b00827a53fffc",
+   "text_jp": "<CLOSE><PAGE>ソノ日ガ 歓シイ…<LINE>話ハ ヨク ワカッタ…<CLOSE><PAGE>シカシ <NAME?> ハ 寒イ<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<NAME?>...<CLOSE>"
+  },
+  {
+   "id": 112,
+   "offset": 13219,
+   "length_bytes": 41,
+   "raw_hex": "fff682d75700825a5753746a00597bfff1fff55480cc80cc80d1fffcfff681fc817e6a81457e0081fb",
+   "text_jp": "<PAGE>何カ 嗄カイモノ クレ<PAUSE><LINE>ウ{204}{204}!<CLOSE><PAGE>生身ノ体ヲ 持",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 113,
+   "offset": 13260,
+   "length_bytes": 41,
+   "raw_hex": "636678fff6fff300670083247d7a6680d1fff55480cc80cc80d1fffcfff6606a81aa67008335816566",
+   "text_jp": "ツナラ<PAGE><NAME?> ニ 関ワルナ!<LINE>ウ{204}{204}!<CLOSE><PAGE>ソノ話ニ 興味ナ",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 114,
+   "offset": 13301,
+   "length_bytes": 32,
+   "raw_hex": "53fff6825a5753818700775b5f80d1fff1fff5525480a180d7fffcfff65b7d53",
+   "text_jp": "イ<PAGE>嗄カイ物 ヨコセ!<PAUSE><LINE>アウッ…<CLOSE><PAGE>コワイ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 115,
+   "offset": 13333,
+   "length_bytes": 31,
+   "raw_hex": "80d7fff683346b00808f5b576680d780d7fff5525480a180d7fffcfff6fff3",
+   "text_jp": "…<PAGE>家ハ ドコカナ……<LINE>アウッ…<CLOSE><PAGE><NAME?>",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>"
+  },
+  {
+   "id": 116,
+   "offset": 13364,
+   "length_bytes": 35,
+   "raw_hex": "00676bfff683248396665380d780d780d7fff5fff3006bfff681fc817e650081aa8081",
+   "text_jp": " ニハ<PAGE>関係ナイ………<LINE><NAME?> ハ<PAGE>生身ト 話ガ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 117,
+   "offset": 13399,
+   "length_bytes": 40,
+   "raw_hex": "00808e5864fff66564740082fc5d53808afff554809b809b80d1fffcfff681fc817e6a0081aa5e5b",
+   "text_jp": " デキテ<PAGE>トテモ 娼シイゾ<LINE>ウィィ!<CLOSE><PAGE>生身ノ 話スコ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 118,
+   "offset": 13439,
+   "length_bytes": 29,
+   "raw_hex": "65fff66580a164740061736700667a80d1fff553535774005d7b665380",
+   "text_jp": "ト<PAGE>トッテモ タメニ ナル!<LINE>イイカモ シレナイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 119,
+   "offset": 13468,
+   "length_bytes": 31,
+   "raw_hex": "d7fffcfff670808b00808b73808b5a808ffff581fc817e6700814300575f80",
+   "text_jp": "…<CLOSE><PAGE>マダ ダメダケド<LINE>生身ニ 力 カセ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 120,
+   "offset": 13499,
+   "length_bytes": 41,
+   "raw_hex": "90fff681e07a834600808e587a577480d7fff55480cc80cc80d1fffcfff681fc817e6a81457e0081fb",
+   "text_jp": "バ<PAGE>帰ル斯 デキルカモ…<LINE>ウ{204}{204}!<CLOSE><PAGE>生身ノ体ヲ 持",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 121,
+   "offset": 13540,
+   "length_bytes": 21,
+   "raw_hex": "636678fff6fff300670083247d7a6680d1fff5fff3",
+   "text_jp": "ツナラ<PAGE><NAME?> ニ 関ワルナ!<LINE><NAME?>",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<LINE><NAME?>"
+  },
+  {
+   "id": 122,
+   "offset": 13561,
+   "length_bytes": 24,
+   "raw_hex": "006bfff6814300575d6159665380d180d1fff5fff30081fc",
+   "text_jp": " ハ<PAGE>力 カシタクナイ!!<LINE><NAME?> 生",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><NAME?>..."
+  },
+  {
+   "id": 123,
+   "offset": 13585,
+   "length_bytes": 31,
+   "raw_hex": "817e6afff6846367008216647a576680d7fff5525480a180d7fffcfff6fff3",
+   "text_jp": "身ノ<PAGE>役ニ 立テルカナ…<LINE>アウッ…<CLOSE><PAGE><NAME?>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>"
+  },
+  {
+   "id": 124,
+   "offset": 13616,
+   "length_bytes": 32,
+   "raw_hex": "006bfff682be80a1647a808b5a80d780d7fff5fff06a00814300830f5d536a57",
+   "text_jp": " ハ<PAGE>邑ッテルダケ……<LINE>[f0]ノ 力 歓シイノカ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>[f0]..."
+  },
+  {
+   "id": 125,
+   "offset": 13648,
+   "length_bytes": 31,
+   "raw_hex": "80d1fff682fc5d536600858357536680d7fff5fff3006bfff6846367008216",
+   "text_jp": "!<PAGE>娼シイナ 暦カイナ…<LINE><NAME?> ハ<PAGE>役ニ 立",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 126,
+   "offset": 13679,
+   "length_bytes": 40,
+   "raw_hex": "637780d1fffcfff66f7f65006f7f6580d1fff5fff3006a0083bd797efff684a253615300656b80d7",
+   "text_jp": "ツヨ!<CLOSE><PAGE>ホント ホント!<LINE><NAME?> ノ 怒リヲ<PAGE>賞イタイ トハ…",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 127,
+   "offset": 13719,
+   "length_bytes": 46,
+   "raw_hex": "fffcfff683ca818f660081fc817e808b66fff581fc817e6a81847780d7fffcfff682d75700747880a164757a0057",
+   "text_jp": "<CLOSE><PAGE>苛特ナ 生身ダナ<LINE>生身ノ者ヨ…<CLOSE><PAGE>何カ モラッテヤル カ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 128,
+   "offset": 13765,
+   "length_bytes": 36,
+   "raw_hex": "78fff6fff3008218675380a164597bfff1fff55480cc80cc80d1fffcfff6fff30083b183",
+   "text_jp": "ラ<PAGE><NAME?> 気ニイッテクレ<PAUSE><LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> 鳥",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE><NAME?>...<PAUSE><LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 129,
+   "offset": 13801,
+   "length_bytes": 53,
+   "raw_hex": "b2675e7a5780d1fff682ec5f66536680d1fff55480cc80cc80d1fffc00fff3006bfff683bd80a161808a80d1fffc00808e74fff681",
+   "text_jp": "Mニスルカ!<PAGE>許セナイナ!<LINE>ウ{204}{204}!<CLOSE> <NAME?> ハ<PAGE>怒ッタゾ!<CLOSE> デモ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><NAME?>...<PAGE>...<CLOSE>...<PAGE>"
+  },
+  {
+   "id": 130,
+   "offset": 13854,
+   "length_bytes": 27,
+   "raw_hex": "5e8085530070808b00812567824954fff1fff5525480a180d7fffc",
+   "text_jp": "スゴイ マダ 間ニ合ウ<PAUSE><LINE>アウッ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE>"
+  },
+  {
+   "id": 131,
+   "offset": 13882,
+   "length_bytes": 40,
+   "raw_hex": "fff681fc817e6a81840081f76054808b80d7fff5525480a180d7fffcfff680905767005c7b6180d7",
+   "text_jp": "<PAGE>生身ノ者 独ソウダ…<LINE>アウッ…<CLOSE><PAGE>バカニ サレタ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 132,
+   "offset": 13921,
+   "length_bytes": 34,
+   "raw_hex": "fff682be80a1647a808b5a00666a6780d7fff5fff3006bfff65363740082e682e780",
+   "text_jp": "<PAGE>邑ッテルダケ ナノニ…<LINE><NAME?> ハ<PAGE>イツモ 偸快",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 133,
+   "offset": 13955,
+   "length_bytes": 51,
+   "raw_hex": "8e00536153fff6808b57780083bd786653fff5fff3006b0081fc817e808780a26653fff6808b57780081fc817e6a0082ed821a",
+   "text_jp": "デ イタイ<PAGE>ダカラ 怒ラナイ<LINE><NAME?> ハ 生身ジャナイ<PAGE>ダカラ 生身ノ 感惰",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 134,
+   "offset": 14006,
+   "length_bytes": 44,
+   "raw_hex": "8195819a6bfff6667f808e7400837f5d53fff581fc817e6a00818477fff67480a1650083c27e00839b598081",
+   "text_jp": "表現ハ<PAGE>ナンデモ 杲シイ<LINE>生身ノ 者ヨ<PAGE>モット 蛬ヲ 屠クガ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 135,
+   "offset": 14050,
+   "length_bytes": 61,
+   "raw_hex": "5353fff6fff300825082eb5d64537a808afff581fc817e6a0081b783c26b008335816582025380d7fffcfff6808e7400fff30083c2808e586653fff680",
+   "text_jp": "イイ<PAGE><NAME?> 期待シテイルゾ<LINE>生身ノ 一蛬ハ 興味深イ…<CLOSE><PAGE>デモ <NAME?> 蛬デキナイ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE><NAME?>...<LINE>...<CLOSE><PAGE>...<NAME?>...<PAGE>"
+  },
+  {
+   "id": 136,
+   "offset": 14111,
+   "length_bytes": 45,
+   "raw_hex": "8b57780082d75700747880a164757afff1fff55480cc80cc80d1fffcfff6607b80810082d7808b650053546a80",
+   "text_jp": "ダカラ 何カ モラッテヤル<PAUSE><LINE>ウ{204}{204}!<CLOSE><PAGE>ソレガ 何ダト イウノ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 137,
+   "offset": 14156,
+   "length_bytes": 48,
+   "raw_hex": "8bfff663707866530081f482e7808b80d1fff5fff3006a83bd79830f5d535780d1fffcfff683137981205c5f6100848c",
+   "text_jp": "ダ<PAGE>ツマラナイ 不快ダ!<LINE><NAME?> ノ怒リ歓シイカ!<CLOSE><PAGE>嵜リ道サセタ 罸",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 138,
+   "offset": 14204,
+   "length_bytes": 43,
+   "raw_hex": "808bfff682d75700638083665580d1fff1fff5525480a180d7fffcfff6667f5700827a5380d7fffcfff681",
+   "text_jp": "ダ<PAGE>何カ ツグナエ!<PAUSE><LINE>アウッ…<CLOSE><PAGE>ナンカ 寒イ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 139,
+   "offset": 14247,
+   "length_bytes": 43,
+   "raw_hex": "fc817e6a812481fc00827a6054808b80d7fff55c80d7fffc827a80d7fffcfff681fc817e6584a564740082",
+   "text_jp": "｝身ノ人生 寒ソウダ…<LINE>サ…<CLOSE>寒…<CLOSE><PAGE>生身ト君テモ ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 140,
+   "offset": 14290,
+   "length_bytes": 46,
+   "raw_hex": "5a5759665380d7fff681e07c54576680d7fff581fc817e6b0082e682e7808b6680d1fffcfff6fff3007400834c08",
+   "text_jp": "ケカクナイ…<PAGE>帰ロウカナ…<LINE>生身ハ 偸快ダナ!<CLOSE><PAGE><NAME?> モ 帛く",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 141,
+   "offset": 14336,
+   "length_bytes": 36,
+   "raw_hex": "fff681d25881a37e00821b635a775480d1fff55353808a007480a165757b80d1fffcfff6",
+   "text_jp": "<PAGE>行キ場ヲ 見ツケヨウ!<LINE>イイゾ モットヤレ!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 142,
+   "offset": 14372,
+   "length_bytes": 41,
+   "raw_hex": "fff3008081fff6821b646400757a577866fff5fff3006b0081fc817e67fff683358165527a80d7fffc",
+   "text_jp": "<NAME?> ガ<PAGE>見テテ ヤルカラナ<LINE><NAME?> ハ 生身ニ<PAGE>興味アル…<CLOSE>",
+   "notes": "",
+   "translation_en": "<NAME?>...<PAGE>...<LINE><NAME?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 143,
+   "offset": 14414,
+   "length_bytes": 44,
+   "raw_hex": "fff684d3536700826680a164740053535766fff581fc817e6500819281257efff683ba675d64740053538081",
+   "text_jp": "<PAGE>訪イニ 帚ッテモ イイカナ<LINE>生身ト 時間ヲ<PAGE>共ニシテモ イイガ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 144,
+   "offset": 14457,
+   "length_bytes": 39,
+   "raw_hex": "fff6fff3007400822582265e7a808afff1fff55480cc80cc80d1fffcfff6fff3006b00fff0808b",
+   "text_jp": "<PAGE><NAME?> モ 希筆スルゾ<PAUSE><LINE>ウ{204}{204}!<CLOSE><PAGE><NAME?> ハ [f0]ダ",
+   "notes": "",
+   "translation_en": "<PAGE><NAME?>...<PAUSE><LINE>...<CLOSE><PAGE><NAME?>...[f0]..."
+  },
+  {
+   "id": 145,
+   "offset": 14496,
+   "length_bytes": 54,
+   "raw_hex": "fff681fc817e656b008157537b665380d1fff5fff30081d25881a30083285e80d1fffcfff681fc817e6700757a00819281256b006653",
+   "text_jp": "<PAGE>生身トハ 梠イレナイ!<LINE><NAME?> 行キ場 搾ス!<CLOSE><PAGE>生身ニ ヤル 時間ハ ナイ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 146,
+   "offset": 14550,
+   "length_bytes": 41,
+   "raw_hex": "80d1fff6819281256b0084a25580d1fff1fff5525480a180d7fffcfff681fc817e6b0080887a535778",
+   "text_jp": "!<PAGE>時間ハ 賞エ!<PAUSE><LINE>アウッ…<CLOSE><PAGE>生身ハ ズルイカラ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 147,
+   "offset": 14591,
+   "length_bytes": 48,
+   "raw_hex": "80d7fffcfff682d7576a00870a577480d7fff5525480a180d7fffcfff681fc817e6a81d28154007d5778665380d7fffc",
+   "text_jp": "…<CLOSE><PAGE>何カノ 昜カモ…<LINE>アウッ…<CLOSE><PAGE>生身ノ行激 ワカラナイ…<CLOSE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 148,
+   "offset": 14640,
+   "length_bytes": 45,
+   "raw_hex": "fff65480d7fffc5980d7fffc82225d53fffcfff554809b809b80d1fffcfff6fff30080810082d282d3666a5780",
+   "text_jp": "<PAGE>ウ…<CLOSE>ク…<CLOSE>苦シイ<CLOSE><LINE>ウィィ!<CLOSE><PAGE><NAME?> ガ 必要ナノカ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<CLOSE>...<CLOSE>...<CLOSE><LINE>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 149,
+   "offset": 14684,
+   "length_bytes": 46,
+   "raw_hex": "d1fffcfff66564740082fc5d53808a80d1fff5fff3006b0084d3826d008111828058fffcfff681fc817e6a818477",
+   "text_jp": "!<CLOSE><PAGE>トテモ 娼シイゾ!<LINE><NAME?> ハ 訪惑 大好キ<CLOSE><PAGE>生身ノ者ヨ",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>...<LINE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 150,
+   "offset": 14730,
+   "length_bytes": 44,
+   "raw_hex": "0081b7833667fff684d3826d5d775480d1fff5fff3006b0083c4538184fff6538087736179005d6653fff681",
+   "text_jp": " 一緒ニ<PAGE>訪惑シヨウ!<LINE><NAME?> ハ 弱イ者<PAGE>イジメタリ シナイ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 151,
+   "offset": 14774,
+   "length_bytes": 49,
+   "raw_hex": "fc817e6a818400826982105e7a80817753fff581fc817e6a81840053535b6500826754fff6fff3006b008218675380a161",
+   "text_jp": "｝身ノ者 安沚スルガヨイ<LINE>生身ノ者 イイコト 言ウ<PAGE><NAME?> ハ 気ニイッタ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 152,
+   "offset": 14823,
+   "length_bytes": 28,
+   "raw_hex": "fff682d75700747880a16400757c54fff1fff55480cc80cc80d1fffc",
+   "text_jp": "<PAGE>何カ モラッテ ヤロウ<PAUSE><LINE>ウ{204}{204}!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<CLOSE>"
+  },
+  {
+   "id": 153,
+   "offset": 14852,
+   "length_bytes": 47,
+   "raw_hex": "fff6fff3006bfff683700082ec5c665380d1fff5824282105700808f5457fff652755d5300746a808b80d1fff68403",
+   "text_jp": "<PAGE><NAME?> ハ<PAGE>嘘 許サナイ!<LINE>本沚カ ドウカ<PAGE>アヤシイ モノダ!<PAGE>懌",
+   "notes": "",
+   "translation_en": "<PAGE><NAME?>...<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 154,
+   "offset": 14898,
+   "length_bytes": 40,
+   "raw_hex": "83cf6a0066536a808100813d5380d1fff1fff5525480a180d7fffcfff6fff3006b005353fff080d7",
+   "text_jp": "証ノ ナイノガ 悪イ!<PAUSE><LINE>アウッ…<CLOSE><PAGE><NAME?> ハ イイ[f0]…",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE><NAME?>...[f0]…"
+  },
+  {
+   "id": 155,
+   "offset": 14938,
+   "length_bytes": 41,
+   "raw_hex": "fffcfff65778577d7b6400537a80d080d7fff5525480a180d7fffcfff681fc817e6a005e7a5b65fff6",
+   "text_jp": "<CLOSE><PAGE>カラカワレテ イル?…<LINE>アウッ…<CLOSE><PAGE>生身ノ スルコト<PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 156,
+   "offset": 14979,
+   "length_bytes": 54,
+   "raw_hex": "82d7570083b080810052796054808b80d7fff5fff3006b005e8085536a808b80d1fffcfff681fc817e6a008184007759007d577a80d1",
+   "text_jp": "何カ 簑ガ アリソウダ…<LINE><NAME?> ハ スゴイノダ!<CLOSE><PAGE>生身ノ 者 ヨク ワカル!",
+   "notes": "",
+   "translation_en": "...<LINE><NAME?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 157,
+   "offset": 15033,
+   "length_bytes": 44,
+   "raw_hex": "fff67480a165008267546a808b80d180d1fff5605b70808e0082677d7b7a65fff6fff30084968088575d5380",
+   "text_jp": "<PAGE>モット 言ウノダ!!<LINE>ソコマデ 言ワレルト<PAGE><NAME?> 恥ズカシイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 158,
+   "offset": 15077,
+   "length_bytes": 41,
+   "raw_hex": "d7fffcfff6808e740082fc5d53808a80d1fff5fff3006a005e80987a5780cc808ffff681fb80a1647a",
+   "text_jp": "…<CLOSE><PAGE>デモ 娼シイゾ!<LINE><NAME?> ノ スペルカ{204}ド<PAGE>持ッテル",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 159,
+   "offset": 15118,
+   "length_bytes": 19,
+   "raw_hex": "6a5780d7fffcfff6811181f967005d7c77ffef",
+   "text_jp": "ノカ…<CLOSE><PAGE>大事ニ シロヨ<VOICE?>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>"
+  },
+  {
+   "id": 160,
+   "offset": 15137,
+   "length_bytes": 27,
+   "raw_hex": "5b7b7e00757afff6811181f967005d7c77ffef80d780d7fffcfff6",
+   "text_jp": "コレヲ ヤル<PAGE>大事ニ シロヨ<VOICE?>……<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>……<CLOSE><PAGE>"
+  },
+  {
+   "id": 161,
+   "offset": 15164,
+   "length_bytes": 25,
+   "raw_hex": "fff3006bfff67061005c82be546a5780d7ffeffff3006bfff6",
+   "text_jp": "<NAME?> ハ<PAGE>マタ サ邑ウノカ…<VOICE?><NAME?> ハ<PAGE>",
+   "notes": "",
+   "translation_en": "<NAME?>...<PAGE>...<VOICE?><NAME?>...<PAGE>"
+  },
+  {
+   "id": 162,
+   "offset": 15189,
+   "length_bytes": 39,
+   "raw_hex": "8294815880810082cf545778fff6808b73fff5fff3006bfff681fc817e670083358165527a8081",
+   "text_jp": "扈忤ガ 違ウカラ<PAGE>ダメ<LINE><NAME?> ハ<PAGE>生身ニ 興味アルガ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 163,
+   "offset": 15228,
+   "length_bytes": 36,
+   "raw_hex": "fff683c4530081fc817e6b0082f253808bffef819881a9536a00841c8153808bfff65b7b",
+   "text_jp": "<PAGE>弱イ 生身ハ 嫌イダ<VOICE?>申会イノ 記衾ダ<PAGE>コレ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 164,
+   "offset": 15264,
+   "length_bytes": 42,
+   "raw_hex": "7e00757afffcfff6811181f967005d7c77ffef808e6b005682827b808b6680d7fffcfff6fff3006b0070",
+   "text_jp": "ヲ ヤル<CLOSE><PAGE>大事ニ シロヨ<VOICE?>デハ オ別レダナ…<CLOSE><PAGE><NAME?> ハ マ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 165,
+   "offset": 15306,
+   "length_bytes": 38,
+   "raw_hex": "61fff682be536a836e670081987a6a808bffeffff3006b0081fc817e6a8184fff682186781ae",
+   "text_jp": "タ<PAGE>邑イノ啼ニ 申ルノダ<VOICE?><NAME?> ハ 生身ノ者<PAGE>気ニ入",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 166,
+   "offset": 15344,
+   "length_bytes": 32,
+   "raw_hex": "80a1615778fff65b7b74005280847a808affeffff3006bfff681d25881a30083",
+   "text_jp": "ッタカラ<PAGE>コレモ アゲルゾ<VOICE?><NAME?> ハ<PAGE>行キ場 ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 167,
+   "offset": 15376,
+   "length_bytes": 42,
+   "raw_hex": "285d808efff684f15d536a808b808180d7ffeffff3006774fff681e07a81a38346808100808e586180d1",
+   "text_jp": "りシデ<PAGE>恠シイノダガ…<VOICE?><NAME?> ニモ<PAGE>帰ル場斯ガ デキタ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 168,
+   "offset": 15419,
+   "length_bytes": 36,
+   "raw_hex": "fffcfff65780cc808f007e00777c5d5980d7ffef525480a180d7fffc525480a180d7fffc",
+   "text_jp": "<CLOSE><PAGE>カ{204}ド ヲ ヨロシク…<VOICE?>アウッ…<CLOSE>アウッ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<CLOSE>...<CLOSE>"
+  },
+  {
+   "id": 169,
+   "offset": 15455,
+   "length_bytes": 35,
+   "raw_hex": "fff65b7b808e007680d7fffc82ec5d6480d7ffeffff3006b00745485fe586180d1fff6",
+   "text_jp": "<PAGE>コレデ ユ…<CLOSE>許シテ…<VOICE?><NAME?> ハ モウ訖キタ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<CLOSE>...<VOICE?><NAME?>...<PAGE>"
+  },
+  {
+   "id": 170,
+   "offset": 15489,
+   "length_bytes": 44,
+   "raw_hex": "82be80a164618166808100837f5d5380d1fff582be80a164618166808100837f5d5380d1fffcfff65b7b0075",
+   "text_jp": "邑ッテタ方ガ 杲シイ!<LINE>邑ッテタ方ガ 杲シイ!<CLOSE><PAGE>コレ ヤ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 171,
+   "offset": 15533,
+   "length_bytes": 51,
+   "raw_hex": "7a5778fff6fff3006b00745481d25980d1ffef60545355809080d7fffcfff65e8085590083bd80a1616a0084955d80927980d1",
+   "text_jp": "ルカラ<PAGE><NAME?> ハ モウ行ク!<VOICE?>ソウイエバ…<CLOSE><PAGE>スゴク 怒ッタノ 久シブリ!",
+   "notes": "",
+   "translation_en": "...<PAGE><NAME?>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 172,
+   "offset": 15584,
+   "length_bytes": 37,
+   "raw_hex": "fff6667f57005e80a158795d61577480d7ffef667f808e576680d0fffcfff6705200535375",
+   "text_jp": "<PAGE>ナンカ スッキリシタカモ…<VOICE?>ナンデカナ?<CLOSE><PAGE>マア イイヤ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 173,
+   "offset": 15622,
+   "length_bytes": 43,
+   "raw_hex": "fff65e80987a5780cc808f00757a808a80d1ffef81fc817e650081b783366678fff6858357530080987a60",
+   "text_jp": "<PAGE>スペルカ{204}ド ヤルゾ!<VOICE?>生身ト 一緒ナラ<PAGE>暦カイ ペルソ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 174,
+   "offset": 15664,
+   "length_bytes": 53,
+   "raw_hex": "660067fff6667b7a0057745d7b665380d7ffef80d780d75e80987a5780cc808f00757a80d7fffcfff681e07a83347e0081fb80a164",
+   "text_jp": "ナ ニ<PAGE>ナレル カモシレナイ…<VOICE?>……スペルカ{204}ド ヤル…<CLOSE><PAGE>帰ル家ヲ 持ッテ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 175,
+   "offset": 15717,
+   "length_bytes": 33,
+   "raw_hex": "7afff680987a60660067005d64597b80d7ffef525480a180d7fffcfff6fff3006b",
+   "text_jp": "ル<PAGE>ペルソナ ニ シテクレ…<VOICE?>アウッ…<CLOSE><PAGE><NAME?> ハ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE><NAME?>..."
+  },
+  {
+   "id": 176,
+   "offset": 15751,
+   "length_bytes": 36,
+   "raw_hex": "fff681fc817e6500818c54821800665380d7ffef81fc817e6a8184676bfff65b7b7e0052",
+   "text_jp": "<PAGE>生身ト 闘ウ気 ナイ…<VOICE?>生身ノ者ニハ<PAGE>コレヲ ア",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 177,
+   "offset": 15786,
+   "length_bytes": 41,
+   "raw_hex": "80847afffcfff6811181f967005d64597bffef81fc817e6700808f545e7b8090fff6816281f9670081",
+   "text_jp": "ゲル<CLOSE><PAGE>大事ニ シテクレ<VOICE?>生身ニ ドウスレバ<PAGE>無事ニ ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 178,
+   "offset": 15827,
+   "length_bytes": 43,
+   "raw_hex": "e0785f64fff6597b7a576680d780d780d7ffeffff3006afff65e80987a5780cc808f005280847a577880d7",
+   "text_jp": "十ラセテ<PAGE>クレルカナ………<VOICE?><NAME?> ノ<PAGE>スペルカ{204}ド アゲルカラ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 179,
+   "offset": 15870,
+   "length_bytes": 73,
+   "raw_hex": "fffcfff6827a536a6b00665d675d6480d7ffef535366809a00535366809a80d1fff6606a8145fff65280a161576054808b66809a80d7fffbfff7fff3006bfff681fc817e6a81458081",
+   "text_jp": "<CLOSE><PAGE>寒イノハ ナシニシテ…<VOICE?>イイナァ イイナァ!<PAGE>ソノ体<PAGE>アッタカソウダナァ…<MENU_A><MENU_B><NAME?> ハ<PAGE>生身ノ体ガ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<PAGE>...<PAGE>...<MENU_A><MENU_B><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 180,
+   "offset": 15944,
+   "length_bytes": 51,
+   "raw_hex": "fff6816281586700830f5d596680a16180d1fff581fc817e6a81846678fff6825a575381870081fb80a1647a808b7c80d7fffc",
+   "text_jp": "<PAGE>無忤ニ 歓シクナッタ!<LINE>生身ノ者ナラ<PAGE>嗄カイ物 持ッテルダロ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 181,
+   "offset": 15994,
+   "length_bytes": 77,
+   "raw_hex": "fff6656757590082d75700830f5d53fff1fff5606a8145fff65280a161576054808b80d7fff6808e7400fff3006a82cf5480d1fffbfff7fff3006bfff6839282f200813d596680a16180d1fff6",
+   "text_jp": "<PAGE>トニカク 何カ 歓シイ<PAUSE><LINE>ソノ体<PAGE>アッタカソウダ…<PAGE>デモ <NAME?> ノ違ウ!<MENU_A><MENU_B><NAME?> ハ<PAGE>機嫌 悪クナッタ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>...<PAGE>...<NAME?>...<MENU_A><MENU_B><NAME?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 182,
+   "offset": 16071,
+   "length_bytes": 74,
+   "raw_hex": "81fc817e6a81846a005f53808b808a80d1fff5606a8145fff65280a161576054808b80d7fff6808e7400fff3006a82cf5480d1fffbfff75480cc80cc80d1fffcfff682df67005861808a",
+   "text_jp": "生身ノ者ノ セイダゾ!<LINE>ソノ体<PAGE>アッタカソウダ…<PAGE>デモ <NAME?> ノ違ウ!<MENU_A><MENU_B>ウ{204}{204}!<CLOSE><PAGE>腹ニ キタゾ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>...<NAME?>...<MENU_A><MENU_B>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 183,
+   "offset": 16145,
+   "length_bytes": 81,
+   "raw_hex": "80d1fff682d75700775b5f80d180d1fff1fff5525480a180d7fffcfff6667f570082a8821880810082cf5480d7fff6819f808100665380d7fffbfff77580a1809579fff65b5b740084a58210813800813d",
+   "text_jp": "!<PAGE>何カ ヨコセ!!<PAUSE><LINE>アウッ…<CLOSE><PAGE>ナンカ 空気ガ 違ウ…<PAGE>月ガ ナイ…<MENU_A><MENU_B>ヤッパリ<PAGE>ココモ 君沚地 悪",
+   "notes": "",
+   "translation_en": "!<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>...<PAGE>...<MENU_A><MENU_B>...<PAGE>..."
+  },
+  {
+   "id": 184,
+   "offset": 16226,
+   "length_bytes": 77,
+   "raw_hex": "5380d7fffcfff670610082be54576680d7fff5fff3007400846c6bfff681fc817e808b80a1617f808b80d7fffcfff665647400535381fc817e808b80a16180d7fffbfff7819a81c36a81fc817e",
+   "text_jp": "イ…<CLOSE><PAGE>マタ 邑ウカナ…<LINE><NAME?> モ 葺ハ<PAGE>生身ダッタンダ…<CLOSE><PAGE>トテモ イイ生身ダッタ…<MENU_A><MENU_B>現代ノ生身",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE><NAME?>...<PAGE>...<CLOSE><PAGE>...<MENU_A><MENU_B>..."
+  },
+  {
+   "id": 185,
+   "offset": 16303,
+   "length_bytes": 46,
+   "raw_hex": "6bfff6853b5381fc817e00666a576680d7fff582e682e7808b665280d7fffcfff67580a18095790081fc817e6500",
+   "text_jp": "ハ<PAGE>怖イ生身 ナノカナ…<LINE>偸快ダナア…<CLOSE><PAGE>ヤッパリ 生身ト ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 186,
+   "offset": 16349,
+   "length_bytes": 59,
+   "raw_hex": "537a65fff6828c6a815f808100825a5753fff554809b809b80d10081fc817e650081aa808e587a80d1fff6667f808b570082fc5d53665280d7fffc",
+   "text_jp": "イルト<PAGE>械ノ宇ガ 嗄カイ<LINE>ウィィ! 生身ト 話デキル!<PAGE>ナンダカ 娼シイナア…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 187,
+   "offset": 16409,
+   "length_bytes": 79,
+   "raw_hex": "fff682be80a16157538081005280a161808afff5ffed607f6600535381fc817e7efff681fb80a1647a00667f64fff6667f570080887a53808a80d180d1fffbfff77257635980d100fffc5a808f80d7",
+   "text_jp": "<PAGE>邑ッタカイガ アッタゾ<LINE><VOICE?>ソンナ イイ生身ヲ<PAGE>持ッテル ナンテ<PAGE>ナンカ ズルイゾ!!<MENU_A><MENU_B>ムカツク! <CLOSE>ケド…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<PAGE>...<MENU_A><MENU_B>...<CLOSE>..."
+  },
+  {
+   "id": 188,
+   "offset": 16488,
+   "length_bytes": 85,
+   "raw_hex": "fffcfff670808b0081aa6b0082d85364757afff5ffed607f6600535381fc817e7efff681fb80a1647a00667f64fff6667f570080887a53808a80d180d1fffbfff782df6700586180d1fffcfff682d75700775b5f80",
+   "text_jp": "<CLOSE><PAGE>マダ 話ハ 聞イテヤル<LINE><VOICE?>ソンナ イイ生身ヲ<PAGE>持ッテル ナンテ<PAGE>ナンカ ズルイゾ!!<MENU_A><MENU_B>腹ニ キタ!<CLOSE><PAGE>何カ ヨコセ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE><VOICE?>...<PAGE>...<PAGE>...<MENU_A><MENU_B>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 189,
+   "offset": 16572,
+   "length_bytes": 46,
+   "raw_hex": "90fff681ce83c07e005d64757a80d1fff1fff5ffec81fc817e6a8184650081aa5d6153fff6808b577800840d575a",
+   "text_jp": "バ<PAGE>交燠ヲ シテヤル!<PAUSE><LINE>[ec]生身ノ者ト 話シタイ<PAGE>ダカラ 声カケ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>[ec]...<PAGE>..."
+  },
+  {
+   "id": 190,
+   "offset": 16618,
+   "length_bytes": 60,
+   "raw_hex": "6180d7fff6827a536a00665d808b7780d7fff5ffee8360556400597b6180d7fffcfff681fc817e6a818400825a576054808b5a808f80d7fffcfff674",
+   "text_jp": "タ…<PAGE>寒イノ ナシダヨ…<LINE><VOICE?>答エテ クレタ…<CLOSE><PAGE>生身ノ者 嗄カソウダケド…<CLOSE><PAGE>モ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>...<CLOSE><PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 191,
+   "offset": 16678,
+   "length_bytes": 50,
+   "raw_hex": "5481675d008394824e821b7754576680d7fff5ffee81fc817e6a818400837f5d605480d1fff6fff3006b0081fc817e6a5b65",
+   "text_jp": "ウ少シ 達子見ヨウカナ…<LINE><VOICE?>生身ノ者 杲シソウ!<PAGE><NAME?> ハ 生身ノコト",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?>...<PAGE><NAME?>..."
+  },
+  {
+   "id": 192,
+   "offset": 16728,
+   "length_bytes": 55,
+   "raw_hex": "fff677590081bc796159006680a16180d1fff5ffeb5b7f66670082e682e7666a6bfff681fc817e6a818480810085835753577880d1fffc",
+   "text_jp": "<PAGE>ヨク 知リタク ナッタ!<LINE><VOICE?>コンナニ 偸快ナノハ<PAGE>生身ノ者ガ 暦カイカラ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 193,
+   "offset": 16783,
+   "length_bytes": 61,
+   "raw_hex": "fff6fff3006b0082ed83145e7a808a80d1fff5ffec5480cc80cc80d1fffc00525480a180d7fffcfff65480cc80cc80d1fffc00525480a180d7fffcfff6",
+   "text_jp": "<PAGE><NAME?> ハ 感謝スルゾ!<LINE>[ec]ウ{204}{204}!<CLOSE> アウッ…<CLOSE><PAGE>ウ{204}{204}!<CLOSE> アウッ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE><NAME?>...<LINE>[ec]...<CLOSE>...<CLOSE><PAGE>...<CLOSE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 194,
+   "offset": 16844,
+   "length_bytes": 74,
+   "raw_hex": "8218808100817d670066796054808b80d7fff5ffed821882695900832781f95c7b6180d7fffcfff682be557a00fff3007efff682d7808b6500827b80a1647a80d1fffbfff7ffec537580",
+   "text_jp": "気ガ 変ニ ナリソウダ…<LINE><VOICE?>気安ク 返事サレタ…<CLOSE><PAGE>邑エル <NAME?> ヲ<PAGE>何ダト 思ッテル!<MENU_A><MENU_B>[ec]イヤ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE><VOICE?>...<CLOSE><PAGE>...<NAME?>...<PAGE>...<MENU_A><MENU_B>[ec]..."
+  },
+  {
+   "id": 195,
+   "offset": 16918,
+   "length_bytes": 49,
+   "raw_hex": "d7fffcfff6827b80a1647a6a57665280d7fff5ffeb82fc5d53757800835c8081821663757880d7fffcfff6fff3006bfff6",
+   "text_jp": "…<CLOSE><PAGE>思ッテルノカナア…<LINE><VOICE?>娼シイヤラ 腹ガ立ツヤラ…<CLOSE><PAGE><NAME?> ハ<PAGE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE><VOICE?>...<CLOSE><PAGE><NAME?>...<PAGE>"
+  },
+  {
+   "id": 196,
+   "offset": 16967,
+   "length_bytes": 42,
+   "raw_hex": "81fc817e8081007759007d5778665380d1fff5ffedfff3006b0084dc809183bd7a80d1fff681fc817e6a",
+   "text_jp": "生身ガ ヨク ワカラナイ!<LINE><VOICE?><NAME?> ハ 冨ビ怒ル!<PAGE>生身ノ",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 197,
+   "offset": 17009,
+   "length_bytes": 41,
+   "raw_hex": "81847780d7fffcfff682d75700597bfff1fff5ffec525480a180d7fffcfff6808b5a808f0082108081",
+   "text_jp": "者ヨ…<CLOSE><PAGE>何カ クレ<PAUSE><LINE>[ec]アウッ…<CLOSE><PAGE>ダケド 沚ガ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<PAUSE><LINE>[ec]...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 198,
+   "offset": 17050,
+   "length_bytes": 40,
+   "raw_hex": "0085f87a6a6bfff6668089808b7c5480d7fff5ffebfff3006bfff670808a00808780a266535a808f",
+   "text_jp": " 躍ルノハ<PAGE>ナゼダロウ…<LINE><VOICE?><NAME?> ハ<PAGE>マゾ ジャナイケド",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 199,
+   "offset": 17091,
+   "length_bytes": 48,
+   "raw_hex": "fff6667f5700853b536a808182e782ed80d7fff5fff3006b0081fc817e6a81848081fff6828058676680a16100fffc83",
+   "text_jp": "<PAGE>ナンカ 怖イノガ快感…<LINE><NAME?> ハ 生身ノ者ガ<PAGE>好キニナッタ <CLOSE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE><NAME?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 200,
+   "offset": 17138,
+   "length_bytes": 51,
+   "raw_hex": "3b53808565fff682d7808e74005859808affef54545480cc80cc80d180d1fffcfff681fc817e6a818400811182f253808b80d1",
+   "text_jp": "づイゴト<PAGE>何デモ キクゾ<VOICE?>ウウウ{204}{204}!!<CLOSE><PAGE>生身ノ者 大嫌イダ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 201,
+   "offset": 17189,
+   "length_bytes": 35,
+   "raw_hex": "80d1fff683077963536400757a80d180d1ffef525480a180d7fffcfff6525480a180d7",
+   "text_jp": "!<PAGE>取リツイテ ヤル!!<VOICE?>アウッ…<CLOSE><PAGE>アウッ…",
+   "notes": "",
+   "translation_en": "!<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 202,
+   "offset": 17224,
+   "length_bytes": 17,
+   "raw_hex": "fffcfff6568334670081e07961537780d7",
+   "text_jp": "<CLOSE><PAGE>オ家ニ 帰リタイヨ…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>..."
+  },
+  {
+   "id": 203,
+   "offset": 17241,
+   "length_bytes": 52,
+   "raw_hex": "ffeffff3006bfff682475f808b665280d7ffef81fc817e6a81846b0082f253808bfffcfff6808e74006280a480a1658335816552",
+   "text_jp": "<VOICE?><NAME?> ハ<PAGE>宰セダナア…<VOICE?>生身ノ者ハ 嫌イダ<CLOSE><PAGE>デモ チョット興味ア",
+   "notes": "",
+   "translation_en": "<VOICE?><NAME?>...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 204,
+   "offset": 17293,
+   "length_bytes": 48,
+   "raw_hex": "7afffcfff682d77e008226726a808b80d0ffef525480a180d7fffc5280d7fffcfff68267545b6582d859577880d7fffc",
+   "text_jp": "ル<CLOSE><PAGE>何ヲ 筆ムノダ?<VOICE?>アウッ…<CLOSE>ア…<CLOSE><PAGE>言ウコト聞クカラ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>...<CLOSE>...<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 205,
+   "offset": 17341,
+   "length_bytes": 51,
+   "raw_hex": "fff6808f545d6400830f5d536a576680d7ffeffff3006b0081fc817e6a81848081fff68111828058676680a16100fffc833b53",
+   "text_jp": "<PAGE>ドウシテ 歓シイノカナ…<VOICE?><NAME?> ハ 生身ノ者ガ<PAGE>大好キニナッタ <CLOSE>願イ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?><NAME?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 206,
+   "offset": 17392,
+   "length_bytes": 48,
+   "raw_hex": "808565fff682d7808e740086a6557a808affef5480cc80cc80d1fffc525480a180d7fffcfff6525480a180d7fffc5254",
+   "text_jp": "ゴト<PAGE>何デモ 抃エルゾ<VOICE?>ウ{204}{204}!<CLOSE>アウッ…<CLOSE><PAGE>アウッ…<CLOSE>アウ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE>...<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 207,
+   "offset": 17440,
+   "length_bytes": 48,
+   "raw_hex": "80a180d7fffcfff65480cc80cc80d1fffcffef80d780d780d780d7fffcfff681fc817e6a81456b00830f5d538081fff6",
+   "text_jp": "ッ…<CLOSE><PAGE>ウ{204}{204}!<CLOSE><VOICE?>…………<CLOSE><PAGE>生身ノ体ハ 歓シイガ<PAGE>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<CLOSE><VOICE?>…………<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 208,
+   "offset": 17488,
+   "length_bytes": 47,
+   "raw_hex": "812755665381456b0083358165665380d1ffef80d780d780d780d7fffcfff6607b00535381fc817e808b6680d7fffc",
+   "text_jp": "払エナイ体ハ 興味ナイ!<VOICE?>…………<CLOSE><PAGE>ソレ イイ生身ダナ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>…………<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 209,
+   "offset": 17536,
+   "length_bytes": 36,
+   "raw_hex": "fff6821b64640086ba7b80947b005e7a80d7ffeffff3006bfff6568229808100830f5d53",
+   "text_jp": "<PAGE>見テテ 偬レボレ スル…<VOICE?><NAME?> ハ<PAGE>オ舍ガ 歓シイ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 210,
+   "offset": 17571,
+   "length_bytes": 28,
+   "raw_hex": "808afff6fff8857a808e00835f82ee808bffef54809b809b80d1fffc",
+   "text_jp": "ゾ<PAGE>[f8]円デ 梼坩ダ<VOICE?>ウィィ!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>[f8]...<VOICE?>...<CLOSE>"
+  },
+  {
+   "id": 211,
+   "offset": 17599,
+   "length_bytes": 43,
+   "raw_hex": "fff681fc817e6a81840053538252808b66fff581fb80a1646653808a80d180d1fffcfff65480cc80cc80d1",
+   "text_jp": "<PAGE>生身ノ者 イイ奴ダナ<LINE>持ッテナイゾ!!<CLOSE><PAGE>ウ{204}{204}!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 212,
+   "offset": 17643,
+   "length_bytes": 35,
+   "raw_hex": "fff681fc817e6a81840083706353616680d1fff5525480d7fffcfff681fb80a1646653",
+   "text_jp": "<PAGE>生身ノ者 嘘ツイタナ!<LINE>アウ…<CLOSE><PAGE>持ッテナイ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 213,
+   "offset": 17677,
+   "length_bytes": 17,
+   "raw_hex": "7f808780a2fff65d576180810066535766",
+   "text_jp": "ンジャ<PAGE>シカタガ ナイカナ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 214,
+   "offset": 17695,
+   "length_bytes": 25,
+   "raw_hex": "fff5fff3007efff6823959821b7a667780d1fff5525480a180",
+   "text_jp": "<LINE><NAME?> ヲ<PAGE>甘ク見ルナヨ!<LINE>アウッ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<LINE><NAME?>...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 215,
+   "offset": 17719,
+   "length_bytes": 35,
+   "raw_hex": "d7fffcfff6fff3006c748087536a6780d7fff5fff3006bfff681168178808100830f5d",
+   "text_jp": "…<CLOSE><PAGE><NAME?> ヒモジイノニ…<LINE><NAME?> ハ<PAGE>魔石ガ 歓シ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE><NAME?>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 216,
+   "offset": 17754,
+   "length_bytes": 28,
+   "raw_hex": "53808afff681b763808e00835f82ee808bffef54809b809b80d1fffc",
+   "text_jp": "イゾ<PAGE>一ツデ 梼坩ダ<VOICE?>ウィィ!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE>"
+  },
+  {
+   "id": 217,
+   "offset": 17782,
+   "length_bytes": 48,
+   "raw_hex": "fff681fc817e6a818400828058808b808afff581fb80a164665380d1fff681fc817e6a81846b0083b183b25780d0fffc",
+   "text_jp": "<PAGE>生身ノ者 好キダゾ<LINE>持ッテナイ!<PAGE>生身ノ者ハ 鳥庖カ?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 218,
+   "offset": 17831,
+   "length_bytes": 35,
+   "raw_hex": "fff65880a1650083b183b2666a808b7c5466fff5525480d7fffcfff681fb80a1646653",
+   "text_jp": "<PAGE>キット 鳥庖ナノダロウナ<LINE>アウ…<CLOSE><PAGE>持ッテナイ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 219,
+   "offset": 17865,
+   "length_bytes": 29,
+   "raw_hex": "7f808780a2fff65d576180810066535766fff581fc817e6a81847780d1",
+   "text_jp": "ンジャ<PAGE>シカタガ ナイカナ<LINE>生身ノ者ヨ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 220,
+   "offset": 17895,
+   "length_bytes": 45,
+   "raw_hex": "fff6fff3007efff6823959821b7a667780d1fff5808b73666a80d7fffcfff6808e7400568229667800597b6157",
+   "text_jp": "<PAGE><NAME?> ヲ<PAGE>甘ク見ルナヨ!<LINE>ダメナノ…<CLOSE><PAGE>デモ オ舍ナラ クレタカ",
+   "notes": "",
+   "translation_en": "<PAGE><NAME?>...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 221,
+   "offset": 17939,
+   "length_bytes": 30,
+   "raw_hex": "66fff683046700825082eb5d775480a165fff5fff3006bfff68205817880",
+   "text_jp": "ナ<PAGE>坎ニ 期待シヨウット<LINE><NAME?> ハ<PAGE>宝石",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 222,
+   "offset": 17969,
+   "length_bytes": 44,
+   "raw_hex": "8100830f5d53808afff6fff40080815353ffef54809b809b80d1fffcfff681fc817e6a818400828058808b80",
+   "text_jp": "叮歓シイゾ<PAGE>[f4] ガイイ<VOICE?>ウィィ!<CLOSE><PAGE>生身ノ者 好キダ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>[f4]...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 223,
+   "offset": 18013,
+   "length_bytes": 20,
+   "raw_hex": "8a80d1fff682065d64757a808a80d180d1fff552",
+   "text_jp": "ゾ!<PAGE>愛シテヤルゾ!!<LINE>ア",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 224,
+   "offset": 18033,
+   "length_bytes": 25,
+   "raw_hex": "80a1fffc605480d7fffcfff656575d5369fff581fc817e6a81",
+   "text_jp": "ッ<CLOSE>ソウ…<CLOSE><PAGE>オカシイネ<LINE>生身ノ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE>...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 225,
+   "offset": 18058,
+   "length_bytes": 29,
+   "raw_hex": "846bfff6830f70717b00808b6680d180d1fff581fc817e6a81846bfff6",
+   "text_jp": "比<PAGE>歓マミレ ダナ!!<LINE>生身ノ者ハ<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 226,
+   "offset": 18087,
+   "length_bytes": 42,
+   "raw_hex": "fff4007efff682065d647a7f808b6680d1fff5fff3006bfff681fc817e6a81fc8218808100830f5d5380",
+   "text_jp": "[f4] ヲ<PAGE>愛シテルンダナ!<LINE><NAME?> ハ<PAGE>生身ノ生気ガ 歓シイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "[f4]...<PAGE>...<LINE><NAME?>...<PAGE>..."
+  },
+  {
+   "id": 227,
+   "offset": 18129,
+   "length_bytes": 39,
+   "raw_hex": "8afff681b781e953808e00835f82ee808bffef54809b809b80d180d1fffcfff6842a81655d6054",
+   "text_jp": "ゾ<PAGE>一嗅イデ 梼坩ダ<VOICE?>ウィィ!!<CLOSE><PAGE>美味シソウ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 228,
+   "offset": 18168,
+   "length_bytes": 40,
+   "raw_hex": "80d180d1fff65361808b58705e80d180d1fff5fff0676bfff681f482d3808b65008267546a5780d1",
+   "text_jp": "!!<PAGE>イタダキマス!!<LINE>[f0]ニハ<PAGE>不要ダト 言ウノカ!",
+   "notes": "",
+   "translation_en": "!!<PAGE>...<LINE>[f0]...<PAGE>..."
+  },
+  {
+   "id": 229,
+   "offset": 18208,
+   "length_bytes": 34,
+   "raw_hex": "fff681fc817e6a81840075668252808b66fff56280a480a165fff681e954808b5a66",
+   "text_jp": "<PAGE>生身ノ者 ヤナ奴ダナ<LINE>チョット<PAGE>嗅ウダケナ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 230,
+   "offset": 18242,
+   "length_bytes": 26,
+   "raw_hex": "6a6780d7fffcfff6fff3005c715d5380d7fff5808b7180ccfff5",
+   "text_jp": "ノニ…<CLOSE><PAGE><NAME?> サミシイ…<LINE>ダミ{204}<LINE>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE><NAME?>...<LINE>...<LINE>"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "D02/D12.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 239288,
+   "length_bytes": 5,
+   "raw_hex": "5a04616b0a",
+   "text_jp": "ケえタハこ",
+   "translation_en": "..."
+  }
+ ]
+}

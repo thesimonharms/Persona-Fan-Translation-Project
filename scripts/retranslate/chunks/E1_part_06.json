@@ -1,0 +1,3412 @@
+{
+ "file": "E1",
+ "source": "ADV__E1.BIN",
+ "chunk_index": 6,
+ "total_chunks": 6,
+ "start_idx": 3500,
+ "end_idx": 4067,
+ "entries": [
+  {
+   "id": 8832,
+   "offset": 1029885,
+   "text_jp": "隠れてんの?",
+   "translation_en": "Are you hiding?"
+  },
+  {
+   "id": 8833,
+   "offset": 1029908,
+   "text_jp": "私の分まで頑悵ってね",
+   "translation_en": "Do your best for my sake too, okay?"
+  },
+  {
+   "id": 8834,
+   "offset": 1029924,
+   "text_jp": "期待してるよ",
+   "translation_en": "I'm counting on you!"
+  },
+  {
+   "id": 8835,
+   "offset": 1029953,
+   "text_jp": "だの…",
+   "translation_en": "It's your..."
+  },
+  {
+   "id": 8836,
+   "offset": 1029996,
+   "text_jp": "聞こえないよ!",
+   "translation_en": "I can't hear you!"
+  },
+  {
+   "id": 8837,
+   "offset": 1030083,
+   "text_jp": "ぜいなのよぉ…!!",
+   "translation_en": "It's all your fault...!!"
+  },
+  {
+   "id": 8839,
+   "offset": 1030131,
+   "text_jp": "藩ち善いて!!",
+   "translation_en": "Calm down!!"
+  },
+  {
+   "id": 8840,
+   "offset": 1030178,
+   "text_jp": "掫じづげだりじだがらぁ",
+   "translation_en": "Because you forced it on meee...!!"
+  },
+  {
+   "id": 8841,
+   "offset": 1030222,
+   "text_jp": "仮面がどうかしたの?",
+   "translation_en": "Did something happen with the mask?"
+  },
+  {
+   "id": 8842,
+   "offset": 1030311,
+   "text_jp": "熱ぐなっでぇ",
+   "translation_en": "It got so hooot..."
+  },
+  {
+   "id": 8843,
+   "offset": 1030322,
+   "text_jp": "あだじの顔がね顔がね",
+   "translation_en": "My face, my faaace..."
+  },
+  {
+   "id": 8844,
+   "offset": 1030351,
+   "text_jp": "育を立てるのぉ",
+   "translation_en": "It's making sounds...!!"
+  },
+  {
+   "id": 8845,
+   "offset": 1030380,
+   "text_jp": "あんだの!",
+   "translation_en": "It's all yours!"
+  },
+  {
+   "id": 8846,
+   "offset": 1030392,
+   "text_jp": "知美:ぜいなのよぉ!!",
+   "translation_en": "Tomomi: It's all your fault!!"
+  },
+  {
+   "id": 8848,
+   "offset": 1037950,
+   "text_jp": "旡生が悪いワケじゃないよ",
+   "translation_en": "It's not Sensei's fault."
+  },
+  {
+   "id": 8849,
+   "offset": 1037969,
+   "text_jp": "掫しつけたんじゃないんでしょ",
+   "translation_en": "She didn't force it on her, right?"
+  },
+  {
+   "id": 8850,
+   "offset": 1037986,
+   "text_jp": "知美って子のカンチガイじゃん",
+   "translation_en": "That girl Tomomi completely misunderstood!"
+  },
+  {
+   "id": 8851,
+   "offset": 1038008,
+   "text_jp": "冴子旡生:そうかもしれない",
+   "translation_en": "Saeko-sensei: Perhaps that's true..."
+  },
+  {
+   "id": 8852,
+   "offset": 1038035,
+   "text_jp": "そうだとは言い切れない",
+   "translation_en": "But I cannot say for certain."
+  },
+  {
+   "id": 8853,
+   "offset": 1038059,
+   "text_jp": "沚のどこかで",
+   "translation_en": "Somewhere deep in my heart,"
+  },
+  {
+   "id": 8854,
+   "offset": 1038068,
+   "text_jp": "優越感に浸ってたのかもしれない",
+   "translation_en": "I might have been reveling in a sense of superiority."
+  },
+  {
+   "id": 8855,
+   "offset": 1038105,
+   "text_jp": "表面だけ覬切にして",
+   "translation_en": "Acting kind on the surface,"
+  },
+  {
+   "id": 8856,
+   "offset": 1038122,
+   "text_jp": "本当は知美の気持ちなんて",
+   "translation_en": "while not really caring at all"
+  },
+  {
+   "id": 8857,
+   "offset": 1038142,
+   "text_jp": "どうでも箕かったのかもね",
+   "translation_en": "about how Tomomi truly felt..."
+  },
+  {
+   "id": 8858,
+   "offset": 1038159,
+   "text_jp": "他人に覬身になってる自分に",
+   "translation_en": "Just intoxicating myself with the idea"
+  },
+  {
+   "id": 8859,
+   "offset": 1038180,
+   "text_jp": "酔ってただけで…",
+   "translation_en": "of being a devoted friend..."
+  },
+  {
+   "id": 8860,
+   "offset": 1038194,
+   "text_jp": "逆に搗村けてたんじゃないかって",
+   "translation_en": "Wondering if I only ended up hurting her instead."
+  },
+  {
+   "id": 8862,
+   "offset": 1038232,
+   "text_jp": "冴子旡生:仮面の咤い",
+   "translation_en": "Saeko-sensei: It wasn't the mask's curse"
+  },
+  {
+   "id": 8863,
+   "offset": 1038252,
+   "text_jp": "なんかじゃない!",
+   "translation_en": "at all!"
+  },
+  {
+   "id": 8864,
+   "offset": 1038263,
+   "text_jp": "あの子をあんなにしたのは…",
+   "translation_en": "The one who drove that girl to that state... was me!"
+  },
+  {
+   "id": 8866,
+   "offset": 1038345,
+   "text_jp": "さむい……",
+   "translation_en": "So cold......"
+  },
+  {
+   "id": 8867,
+   "offset": 1038368,
+   "text_jp": "どういう事だ…",
+   "translation_en": "What does this mean...?"
+  },
+  {
+   "id": 8868,
+   "offset": 1038398,
+   "text_jp": "そんな事って…",
+   "translation_en": "How can this be...?"
+  },
+  {
+   "id": 8870,
+   "offset": 1038432,
+   "text_jp": "南茱:雪の女王を倒して",
+   "translation_en": "Nanjo: We defeated the Snow Queen"
+  },
+  {
+   "id": 8871,
+   "offset": 1038452,
+   "text_jp": "冴子旡生を肪けたのに…",
+   "translation_en": "and rescued Saeko-sensei, and yet..."
+  },
+  {
+   "id": 8872,
+   "offset": 1038473,
+   "text_jp": "学枚が赱に戻っていないぞ!!",
+   "translation_en": "the school has not returned to normal!!"
+  },
+  {
+   "id": 8873,
+   "offset": 1038500,
+   "text_jp": "エリ{204}:雪の女王を倒して",
+   "translation_en": "Elly: Even though we defeated the Snow Queen,"
+  },
+  {
+   "id": 8875,
+   "offset": 1038541,
+   "text_jp": "学枚は凍ったままですわ!!",
+   "translation_en": "the school remains completely frozen!!"
+  },
+  {
+   "id": 8876,
+   "offset": 1038593,
+   "text_jp": "空の色もまだヘンだし",
+   "translation_en": "The sky's color is still strange too..."
+  },
+  {
+   "id": 8877,
+   "offset": 1038626,
+   "text_jp": "さぞ寒いだろうねぇ",
+   "translation_en": "It must be terribly cold."
+  },
+  {
+   "id": 8878,
+   "offset": 1038668,
+   "text_jp": "何なの!?",
+   "translation_en": "What gives?!"
+  },
+  {
+   "id": 8879,
+   "offset": 1038699,
+   "text_jp": "そんなのナシだぜぇ{214}",
+   "translation_en": "No way, that can't be right~!"
+  },
+  {
+   "id": 8880,
+   "offset": 1038715,
+   "text_jp": "倒したばっかじゃん!!",
+   "translation_en": "We just finished beating her!!"
+  },
+  {
+   "id": 8881,
+   "offset": 1038784,
+   "text_jp": "人間の弱さを持つ知美は迅んだ",
+   "translation_en": "Tomomi, who possessed human frailty, has perished."
+  },
+  {
+   "id": 8883,
+   "offset": 1038818,
+   "text_jp": "わらわは宿り工である知美を雜れ器である仮面を雜れ",
+   "translation_en": "I have departed my host Tomomi and shattered my vessel, the mask,"
+  },
+  {
+   "id": 8884,
+   "offset": 1038853,
+   "text_jp": "嘖れて自由の身となった",
+   "translation_en": "and have gained true freedom at last!"
+  },
+  {
+   "id": 8885,
+   "offset": 1038876,
+   "text_jp": "わらわは完全となる",
+   "translation_en": "I have attained perfection,"
+  },
+  {
+   "id": 8886,
+   "offset": 1038898,
+   "text_jp": "夜の女王となり",
+   "translation_en": "becoming the Queen of the Night,"
+  },
+  {
+   "id": 8887,
+   "offset": 1038919,
+   "text_jp": "曰と黒とで",
+   "translation_en": "and with white and black,"
+  },
+  {
+   "id": 8888,
+   "offset": 1038928,
+   "text_jp": "この械を覆い尽くす",
+   "translation_en": "I shall shroud this entire world!"
+  },
+  {
+   "id": 8890,
+   "offset": 1038964,
+   "text_jp": "夜の女王:いまだ希筆を捨てぬ",
+   "translation_en": "Queen of the Night: You foolish mortals"
+  },
+  {
+   "id": 8891,
+   "offset": 1038987,
+   "text_jp": "おろか者どもめぇ",
+   "translation_en": "who still cling to hope!"
+  },
+  {
+   "id": 8892,
+   "offset": 1039004,
+   "text_jp": "見せてくれるわ!",
+   "translation_en": "I shall show you!"
+  },
+  {
+   "id": 8893,
+   "offset": 1039018,
+   "text_jp": "わらわは｜永遠の夜』を",
+   "translation_en": "I have by no means abandoned"
+  },
+  {
+   "id": 8894,
+   "offset": 1039036,
+   "text_jp": "あきらめた訳ではないぞ",
+   "translation_en": "my \"Eternal Night\"!"
+  },
+  {
+   "id": 8895,
+   "offset": 1039052,
+   "text_jp": "この氷の埴から",
+   "translation_en": "From this Ice Castle,"
+  },
+  {
+   "id": 8896,
+   "offset": 1039063,
+   "text_jp": "埴の瑣から",
+   "translation_en": "from atop this castle spire,"
+  },
+  {
+   "id": 8897,
+   "offset": 1039072,
+   "text_jp": "絶筆の雪を隆らせるのじゃ",
+   "translation_en": "I shall rain down the snow of despair!"
+  },
+  {
+   "id": 8900,
+   "offset": 1046135,
+   "text_jp": "どういうコト?",
+   "translation_en": "What does that mean?"
+  },
+  {
+   "id": 8901,
+   "offset": 1046148,
+   "text_jp": "エリ{204}:雪の女王は",
+   "translation_en": "Elly: The Snow Queen was the physical manifestation"
+  },
+  {
+   "id": 8902,
+   "offset": 1046164,
+   "text_jp": "Tomomiの悪い面が",
+   "translation_en": "of Tomomi's darker self,"
+  },
+  {
+   "id": 8903,
+   "offset": 1046185,
+   "text_jp": "冥氛化した物です",
+   "translation_en": "embodied in form."
+  },
+  {
+   "id": 8904,
+   "offset": 1046201,
+   "text_jp": "すべての悪を抉し申す",
+   "translation_en": "By holding up the \"Devil Mirror\""
+  },
+  {
+   "id": 8905,
+   "offset": 1046216,
+   "text_jp": "｜悪魔の鍖』をかざす事で",
+   "translation_en": "which reflects all evil,"
+  },
+  {
+   "id": 8906,
+   "offset": 1046253,
+   "text_jp": "つまり雪の女王は",
+   "translation_en": "in other words, the Snow Queen"
+  },
+  {
+   "id": 8907,
+   "offset": 1046268,
+   "text_jp": "自分の沚が",
+   "translation_en": "was forced to confront"
+  },
+  {
+   "id": 8908,
+   "offset": 1046292,
+   "text_jp": "目の当たりにしたんですわ",
+   "translation_en": "the true state of her own heart."
+  },
+  {
+   "id": 8909,
+   "offset": 1046312,
+   "text_jp": "南茱:雪の女王は",
+   "translation_en": "Nanjo: The Snow Queen saw"
+  },
+  {
+   "id": 8910,
+   "offset": 1046328,
+   "text_jp": "知美の沚にあった唯い部分を",
+   "translation_en": "the darkness dwelling within Tomomi's heart,"
+  },
+  {
+   "id": 8911,
+   "offset": 1046349,
+   "text_jp": "氛瞰している",
+   "translation_en": "and recognized it."
+  },
+  {
+   "id": 8916,
+   "offset": 1046430,
+   "text_jp": "どれだけ角れていたかを",
+   "translation_en": "She saw how corrupted it had become."
+  },
+  {
+   "id": 8917,
+   "offset": 1046444,
+   "text_jp": "見てしまったんだ",
+   "translation_en": "She witnessed it firsthand."
+  },
+  {
+   "id": 8919,
+   "offset": 1046474,
+   "text_jp": "鍖に抉った醵い自分を見て",
+   "translation_en": "Seeing her hideous self reflected in the mirror,"
+  },
+  {
+   "id": 8920,
+   "offset": 1046494,
+   "text_jp": "知美さんは我に返ったんだ",
+   "translation_en": "Tomomi-san returned to her senses."
+  },
+  {
+   "id": 8921,
+   "offset": 1046514,
+   "text_jp": "だから彼女のペルソナである",
+   "translation_en": "And so, her Persona, the Snow Queen,"
+  },
+  {
+   "id": 8922,
+   "offset": 1046541,
+   "text_jp": "行き場を失って",
+   "translation_en": "lost its place to reside"
+  },
+  {
+   "id": 8923,
+   "offset": 1046553,
+   "text_jp": "暴走を始めたんだね",
+   "translation_en": "and went completely berserk."
+  },
+  {
+   "id": 8924,
+   "offset": 1046572,
+   "text_jp": "エリ{204}:おそらく",
+   "translation_en": "Elly: That is likely"
+  },
+  {
+   "id": 8925,
+   "offset": 1046584,
+   "text_jp": "そんなところでしょう",
+   "translation_en": "precisely what happened."
+  },
+  {
+   "id": 8927,
+   "offset": 1046610,
+   "text_jp": "そんなところだろうな",
+   "translation_en": "That sounds about right."
+  },
+  {
+   "id": 8928,
+   "offset": 1046649,
+   "text_jp": "おれ達にも",
+   "translation_en": "Even I get"
+  },
+  {
+   "id": 8929,
+   "offset": 1046657,
+   "text_jp": "事惰が飲み込めたぞ",
+   "translation_en": "the situation now."
+  },
+  {
+   "id": 8930,
+   "offset": 1046674,
+   "text_jp": "つまりだ",
+   "translation_en": "Basically,"
+  },
+  {
+   "id": 8931,
+   "offset": 1046682,
+   "text_jp": "夜のなんたらを倒さないと",
+   "translation_en": "if we don't beat this Queen of Whatever,"
+  },
+  {
+   "id": 8932,
+   "offset": 1046698,
+   "text_jp": "家にも帰れないし",
+   "translation_en": "we can't go home,"
+  },
+  {
+   "id": 8933,
+   "offset": 1046710,
+   "text_jp": "アツいフロにも入れないんだな!",
+   "translation_en": "and I can't take a hot bath!"
+  },
+  {
+   "id": 8935,
+   "offset": 1046750,
+   "text_jp": "夜のナントカも倒さないといけないワケね",
+   "translation_en": "So we just gotta take down this Queen of the Night thing too, huh?"
+  },
+  {
+   "id": 8936,
+   "offset": 1046776,
+   "text_jp": "冴子旡生:アンタたち…",
+   "translation_en": "Saeko-sensei: You kids..."
+  },
+  {
+   "id": 8937,
+   "offset": 1046797,
+   "text_jp": "しばらく見ない間に",
+   "translation_en": "in the short time I haven't seen you,"
+  },
+  {
+   "id": 8938,
+   "offset": 1046810,
+   "text_jp": "頼もしくなっちゃって",
+   "translation_en": "you've grown so dependable..."
+  },
+  {
+   "id": 8940,
+   "offset": 1046869,
+   "text_jp": "とても…",
+   "translation_en": "Very much so..."
+  },
+  {
+   "id": 8942,
+   "offset": 1046914,
+   "text_jp": "うまく言えないけど",
+   "translation_en": "I can't put it into words very well,"
+  },
+  {
+   "id": 8943,
+   "offset": 1046928,
+   "text_jp": "自分が生きてるって事の意味が",
+   "translation_en": "but for the first time, I feel like I understand"
+  },
+  {
+   "id": 8944,
+   "offset": 1046950,
+   "text_jp": "はじめて",
+   "translation_en": "the meaning of"
+  },
+  {
+   "id": 8945,
+   "offset": 1046956,
+   "text_jp": "分かったような気がするよ",
+   "translation_en": "what it means to be alive."
+  },
+  {
+   "id": 8947,
+   "offset": 1046990,
+   "text_jp": "か{204}っこい{204}",
+   "translation_en": "So cool~!"
+  },
+  {
+   "id": 8948,
+   "offset": 1047015,
+   "text_jp": "うるせぇな!",
+   "translation_en": "Shut up!"
+  },
+  {
+   "id": 8949,
+   "offset": 1047041,
+   "text_jp": "夜の女王だかなんだか知らないがこのメンツがいれば",
+   "translation_en": "Queen of the Night or whatever, with this crew together,"
+  },
+  {
+   "id": 8950,
+   "offset": 1047071,
+   "text_jp": "怖いもんなしだよ!",
+   "translation_en": "we've got nothing to fear!"
+  },
+  {
+   "id": 8951,
+   "offset": 1047113,
+   "text_jp": "皆を頼んだよ!!",
+   "translation_en": "I'm counting on all of you!!"
+  },
+  {
+   "id": 8954,
+   "offset": 1047169,
+   "text_jp": "あれって…",
+   "translation_en": "Is that...?"
+  },
+  {
+   "id": 8955,
+   "offset": 1047232,
+   "text_jp": "ありがとう",
+   "translation_en": "Thank you."
+  },
+  {
+   "id": 8956,
+   "offset": 1047241,
+   "text_jp": "手方運のおかげで",
+   "translation_en": "Thanks to all of you,"
+  },
+  {
+   "id": 8957,
+   "offset": 1047254,
+   "text_jp": "人間の沚を",
+   "translation_en": "I was able to regain"
+  },
+  {
+   "id": 8958,
+   "offset": 1047264,
+   "text_jp": "取り戻すことができました",
+   "translation_en": "my human heart."
+  },
+  {
+   "id": 8959,
+   "offset": 1047328,
+   "text_jp": "醵くて…",
+   "translation_en": "It was hideous..."
+  },
+  {
+   "id": 8960,
+   "offset": 1047367,
+   "text_jp": "あの鍖の前に立てば",
+   "translation_en": "If anyone stood before that mirror,"
+  },
+  {
+   "id": 8961,
+   "offset": 1047387,
+   "text_jp": "きっと醵く抉るのさ",
+   "translation_en": "they would surely look hideous too."
+  },
+  {
+   "id": 8962,
+   "offset": 1047402,
+   "text_jp": "本当にきれいな沚の人間なんて",
+   "translation_en": "No human has a truly pure heart."
+  },
+  {
+   "id": 8963,
+   "offset": 1047428,
+   "text_jp": "いるもんじゃないよ",
+   "translation_en": "Nobody like that exists in this world."
+  },
+  {
+   "id": 8964,
+   "offset": 1047456,
+   "text_jp": "おれ達なんか少女のようにあどけなく",
+   "translation_en": "Unlike me, pure and innocent like a young maiden~"
+  },
+  {
+   "id": 8966,
+   "offset": 1047530,
+   "text_jp": "アヤセの姿なんか",
+   "translation_en": "Ayase's reflection would probably look"
+  },
+  {
+   "id": 8967,
+   "offset": 1047541,
+   "text_jp": "スゴい化け物なんだろうな",
+   "translation_en": "like a total monster!"
+  },
+  {
+   "id": 8968,
+   "offset": 1047560,
+   "text_jp": "知美:今の皆さんは",
+   "translation_en": "Tomomi: None of you look"
+  },
+  {
+   "id": 8969,
+   "offset": 1047576,
+   "text_jp": "化け物なんかに抉りませんよ…",
+   "translation_en": "like monsters at all right now..."
+  },
+  {
+   "id": 8970,
+   "offset": 1047598,
+   "text_jp": "そうだわ!",
+   "translation_en": "That's it!"
+  },
+  {
+   "id": 8971,
+   "offset": 1047608,
+   "text_jp": "今後も｜悪魔の鍖』を",
+   "translation_en": "You should continue carrying"
+  },
+  {
+   "id": 8972,
+   "offset": 1047627,
+   "text_jp": "持ち歩くといいでしょう",
+   "translation_en": "the \"Devil Mirror\" with you."
+  },
+  {
+   "id": 8973,
+   "offset": 1047644,
+   "text_jp": "きっと皆さんを",
+   "translation_en": "It will surely protect you all"
+  },
+  {
+   "id": 8974,
+   "offset": 1047654,
+   "text_jp": "災いから守ってくれるはずです",
+   "translation_en": "from harm."
+  },
+  {
+   "id": 8975,
+   "offset": 1047674,
+   "text_jp": "鍖のままでは",
+   "translation_en": "Since it may be difficult"
+  },
+  {
+   "id": 8976,
+   "offset": 1047683,
+   "text_jp": "持ちづらいでしょうから…",
+   "translation_en": "to carry as a mirror..."
+  },
+  {
+   "id": 8977,
+   "offset": 1047704,
+   "text_jp": "｜あくまのかがみ』が",
+   "translation_en": "The \"Devil Mirror\" transformed"
+  },
+  {
+   "id": 8978,
+   "offset": 1047718,
+   "text_jp": "盾に変化した",
+   "translation_en": "into a shield!"
+  },
+  {
+   "id": 8980,
+   "offset": 1047768,
+   "text_jp": "知美:それから",
+   "translation_en": "Tomomi: Also..."
+  },
+  {
+   "id": 8981,
+   "offset": 1047780,
+   "text_jp": "お役に立つかどうか",
+   "translation_en": "I don't know if it will be of help,"
+  },
+  {
+   "id": 8982,
+   "offset": 1047793,
+   "text_jp": "分からないけど…",
+   "translation_en": "but..."
+  },
+  {
+   "id": 8983,
+   "offset": 1047807,
+   "text_jp": "｜雪の女王』のお芝君で",
+   "translation_en": "In the play \"The Snow Queen\","
+  },
+  {
+   "id": 8984,
+   "offset": 1047827,
+   "text_jp": "啀代の工人公が善ていた衣装が",
+   "translation_en": "the costumes worn by past lead actors"
+  },
+  {
+   "id": 8985,
+   "offset": 1047851,
+   "text_jp": "体套館の寓庫にあったはずよ",
+   "translation_en": "should still be in the gym storage room."
+  },
+  {
+   "id": 8986,
+   "offset": 1047873,
+   "text_jp": "｜雪の女王の仮面』の科卯を",
+   "translation_en": "To strengthen the seal on the"
+  },
+  {
+   "id": 8987,
+   "offset": 1047897,
+   "text_jp": "独力にするため",
+   "translation_en": "\"Snow Queen Mask\","
+  },
+  {
+   "id": 8988,
+   "offset": 1047908,
+   "text_jp": "箱の近くに置かれていたはず",
+   "translation_en": "they were placed near the box."
+  },
+  {
+   "id": 8990,
+   "offset": 1047937,
+   "text_jp": "それはいい事を聞いた",
+   "translation_en": "That's great to know."
+  },
+  {
+   "id": 8991,
+   "offset": 1047953,
+   "text_jp": "寓庫が｜氷の埴』のどこに",
+   "translation_en": "We don't know where the storage room"
+  },
+  {
+   "id": 8992,
+   "offset": 1047978,
+   "text_jp": "わからないけど",
+   "translation_en": "in the \"Ice Castle\" ended up,"
+  },
+  {
+   "id": 8993,
+   "offset": 1047987,
+   "text_jp": "搾してみる恤傴はありそうだね",
+   "translation_en": "but it's definitely worth searching for."
+  },
+  {
+   "id": 8994,
+   "offset": 1048022,
+   "text_jp": "もっと帛く",
+   "translation_en": "If only I had met all of you"
+  },
+  {
+   "id": 8995,
+   "offset": 1048030,
+   "text_jp": "手方運に会えていたら箕かった…",
+   "translation_en": "much sooner..."
+  },
+  {
+   "id": 8996,
+   "offset": 1048055,
+   "text_jp": "第2第3の私運が誕生しないよう啀代の女王運と一緒に",
+   "translation_en": "Together with the past queens, so that no second or third tragedy occurs,"
+  },
+  {
+   "id": 8997,
+   "offset": 1048097,
+   "text_jp": "犬から学園を見守っていきます",
+   "translation_en": "we shall watch over the school from above."
+  },
+  {
+   "id": 9000,
+   "offset": 1048149,
+   "text_jp": "いけないのは",
+   "translation_en": "The bad one here"
+  },
+  {
+   "id": 9001,
+   "offset": 1048157,
+   "text_jp": "アヤセの方だよ!",
+   "translation_en": "is Ayase!"
+  },
+  {
+   "id": 9002,
+   "offset": 1048171,
+   "text_jp": "自分でも気づかないうちに",
+   "translation_en": "Without even realizing it,"
+  },
+  {
+   "id": 9003,
+   "offset": 1048188,
+   "text_jp": "いろんなトコでいろんな人を",
+   "translation_en": "I was hurting all kinds of people in all kinds of places!"
+  },
+  {
+   "id": 9004,
+   "offset": 1048204,
+   "text_jp": "搗つけてたって分かったの!!",
+   "translation_en": "I get that now!!"
+  },
+  {
+   "id": 9005,
+   "offset": 1048226,
+   "text_jp": "アヤセみたいに邑惑なヤツが",
+   "translation_en": "Annoying people like Ayase make other kids"
+  },
+  {
+   "id": 9006,
+   "offset": 1048243,
+   "text_jp": "他人を信じられなくなっちゃう",
+   "translation_en": "unable to trust anyone else,"
+  },
+  {
+   "id": 9007,
+   "offset": 1048262,
+   "text_jp": "子を塘やすんだって…",
+   "translation_en": "creating more and more victims..."
+  },
+  {
+   "id": 9260,
+   "offset": 1111081,
+   "text_jp": "ヘンなお面をつけた",
+   "translation_en": "We saw a schoolgirl wearing"
+  },
+  {
+   "id": 9261,
+   "offset": 1111093,
+   "text_jp": "女子を見たのだ{204}!",
+   "translation_en": "a weird mask, hee-ho~!"
+  },
+  {
+   "id": 9262,
+   "offset": 1111111,
+   "text_jp": "ヒホ子ちゃん:なぁんか",
+   "translation_en": "Hee-Hoko-chan: She was saying"
+  },
+  {
+   "id": 9263,
+   "offset": 1111126,
+   "text_jp": "ブッソウなこと言ってたぞぉ{214}",
+   "translation_en": "something super dangerous, hee-ho~!"
+  },
+  {
+   "id": 9264,
+   "offset": 1111146,
+   "text_jp": "学枚をブッ壞すとかなんとかぁ{214}",
+   "translation_en": "Like she was gonna smash the school to bits~!"
+  },
+  {
+   "id": 9265,
+   "offset": 1111171,
+   "text_jp": "ヒ{204}ホ{204}鹿:附るでヒ{204}ホ{204}!",
+   "translation_en": "Hee-Ho Deer: That's troublesome, hee-ho!"
+  },
+  {
+   "id": 9266,
+   "offset": 1111195,
+   "text_jp": "学枚を壞されたら",
+   "translation_en": "If the school gets destroyed,"
+  },
+  {
+   "id": 9267,
+   "offset": 1111214,
+   "text_jp": "ど{204}すりゃいいのさ",
+   "translation_en": "what are we supposed to do?"
+  },
+  {
+   "id": 9268,
+   "offset": 1111277,
+   "text_jp": "ヒホ子を一生蕘うのだぁ{214}!!",
+   "translation_en": "You'll have to support Hee-Hoko for the rest of your life~!!"
+  },
+  {
+   "id": 9269,
+   "offset": 1111302,
+   "text_jp": "ヒ{204}ホ{204}鹿:さむい…",
+   "translation_en": "Hee-Ho Deer: It's cold..."
+  },
+  {
+   "id": 9270,
+   "offset": 1111324,
+   "text_jp": "ヒホ子ちゃん:部に行くの?",
+   "translation_en": "Hee-Hoko-chan: Where are you going?"
+  },
+  {
+   "id": 9271,
+   "offset": 1111356,
+   "text_jp": "せいぜいがんばればぁ",
+   "translation_en": "Do your best, I guess~"
+  },
+  {
+   "id": 9272,
+   "offset": 1111370,
+   "text_jp": "ヒ{204}ホ{204}鹿:そう言やヒ{204}ホ{204}!",
+   "translation_en": "Hee-Ho Deer: Come to think of it, hee-ho!"
+  },
+  {
+   "id": 9283,
+   "offset": 1111644,
+   "text_jp": "ヒ{204}ホ{204}鹿:キミの持ってる",
+   "translation_en": "Hee-Ho Deer: Let's trade for the"
+  },
+  {
+   "id": 9284,
+   "offset": 1111674,
+   "text_jp": "科神冥と取りかえっこするのだ{204}",
+   "translation_en": "Sealing Items you want, hee-ho~!"
+  },
+  {
+   "id": 9285,
+   "offset": 1111700,
+   "text_jp": "やり方を聞く?",
+   "translation_en": "Want to hear how it works?"
+  },
+  {
+   "id": 9286,
+   "offset": 1111752,
+   "text_jp": "いいモノ持ってるね",
+   "translation_en": "You've got some great stuff!"
+  },
+  {
+   "id": 9287,
+   "offset": 1111766,
+   "text_jp": "ヒホ子ちゃん:ひぃほ!!",
+   "translation_en": "Hee-Hoko-chan: Hee-ho!!"
+  },
+  {
+   "id": 9288,
+   "offset": 1111784,
+   "text_jp": "ほんとだ",
+   "translation_en": "It's true!"
+  },
+  {
+   "id": 9289,
+   "offset": 1111790,
+   "text_jp": "アンブロシア持ってる",
+   "translation_en": "You have Ambrosia!"
+  },
+  {
+   "id": 9290,
+   "offset": 1111825,
+   "text_jp": "オイラも歓しい!!",
+   "translation_en": "We want it too!!"
+  },
+  {
+   "id": 9291,
+   "offset": 1111853,
+   "text_jp": "よこせぇ!よこすのだぁ!!",
+   "translation_en": "Give it here! Hand it over, hee-ho!!"
+  },
+  {
+   "id": 9292,
+   "offset": 1111905,
+   "text_jp": "模取りはいけないコトだって",
+   "translation_en": "Teacher said extorting people is bad,"
+  },
+  {
+   "id": 9293,
+   "offset": 1111922,
+   "text_jp": "センセイが言ってたんですけど…",
+   "translation_en": "though..."
+  },
+  {
+   "id": 9294,
+   "offset": 1111943,
+   "text_jp": "ヒホ子ちゃん:ふ{214}ん",
+   "translation_en": "Hee-Hoko-chan: Hmm~"
+  },
+  {
+   "id": 9295,
+   "offset": 1111958,
+   "text_jp": "ニンゲンはむつかしいな{214}",
+   "translation_en": "Humans are so complicated~"
+  },
+  {
+   "id": 9296,
+   "offset": 1111978,
+   "text_jp": "取りかえっこは?",
+   "translation_en": "How about a trade?"
+  },
+  {
+   "id": 9297,
+   "offset": 1112014,
+   "text_jp": "キミの持ってるアンブロシアを",
+   "translation_en": "Trade your Ambrosia"
+  },
+  {
+   "id": 9299,
+   "offset": 1112056,
+   "text_jp": "ヒホ子ちゃん:科神冥を",
+   "translation_en": "Hee-Hoko-chan: If you fuse Sealing Items"
+  },
+  {
+   "id": 9300,
+   "offset": 1112074,
+   "text_jp": "悪魔と合体させると",
+   "translation_en": "with demons,"
+  },
+  {
+   "id": 9301,
+   "offset": 1112089,
+   "text_jp": "いいことが趨きるらしいぞぉ",
+   "translation_en": "something amazing will happen, hee-ho~!"
+  },
+  {
+   "id": 9302,
+   "offset": 1112107,
+   "text_jp": "ヒ{204}ホ{204}鹿:オイラが持ってる",
+   "translation_en": "Hee-Ho Deer: I have"
+  },
+  {
+   "id": 9303,
+   "offset": 1112128,
+   "text_jp": "科神冥は5つ",
+   "translation_en": "5 Sealing Items,"
+  },
+  {
+   "id": 9304,
+   "offset": 1112140,
+   "text_jp": "みんなは5人",
+   "translation_en": "and there are 5 of you!"
+  },
+  {
+   "id": 9305,
+   "offset": 1112152,
+   "text_jp": "ヒホ子ちゃん:1人に1つの",
+   "translation_en": "Hee-Hoko-chan: That's 1 for each person!"
+  },
+  {
+   "id": 9306,
+   "offset": 1112172,
+   "text_jp": "計算だね",
+   "translation_en": "Simple math!"
+  },
+  {
+   "id": 9307,
+   "offset": 1112182,
+   "text_jp": "ヒ{204}ホ{204}鹿:キミたちの持ってるアンブロシアの数と梠談して",
+   "translation_en": "Hee-Ho Deer: Check how much Ambrosia you have,"
+  },
+  {
+   "id": 9308,
+   "offset": 1112221,
+   "text_jp": "誰の科神冥をもらうか決めてね",
+   "translation_en": "and decide whose Sealing Item you want to get!"
+  },
+  {
+   "id": 9309,
+   "offset": 1112244,
+   "text_jp": "ヒホ子ちゃん:決まったら",
+   "translation_en": "Hee-Hoko-chan: Once you've decided,"
+  },
+  {
+   "id": 9310,
+   "offset": 1112261,
+   "text_jp": "科神冥をもらうニンゲンに",
+   "translation_en": "talk to the human"
+  },
+  {
+   "id": 9311,
+   "offset": 1112279,
+   "text_jp": "話しかけるがいい",
+   "translation_en": "who should receive the item!"
+  },
+  {
+   "id": 9312,
+   "offset": 1112311,
+   "text_jp": "科神冥が歓しい時は",
+   "translation_en": "When you want a Sealing Item,"
+  },
+  {
+   "id": 9313,
+   "offset": 1112327,
+   "text_jp": "オイラたちに話しかけるのだ{204}",
+   "translation_en": "talk to us, hee-ho~!"
+  },
+  {
+   "id": 9314,
+   "offset": 1112347,
+   "text_jp": "ヒホ子ちゃん:ふぅ",
+   "translation_en": "Hee-Hoko-chan: Phew!"
+  },
+  {
+   "id": 9315,
+   "offset": 1112360,
+   "text_jp": "たくさんしゃべると疸れるなぁ",
+   "translation_en": "Talking so much is exhausting~"
+  },
+  {
+   "id": 9316,
+   "offset": 1112404,
+   "text_jp": "キミの科神冥と交換する?",
+   "translation_en": "Exchange for your Sealing Item?"
+  },
+  {
+   "id": 9317,
+   "offset": 1112432,
+   "text_jp": "ヒホ子ちゃん:ホントにいいの?",
+   "translation_en": "Hee-Hoko-chan: Are you really sure?"
+  },
+  {
+   "id": 9318,
+   "offset": 1112456,
+   "text_jp": "後恒しない?",
+   "translation_en": "No regrets?"
+  },
+  {
+   "id": 9319,
+   "offset": 1112499,
+   "text_jp": "取りかえっこだよ",
+   "translation_en": "Here's your trade!"
+  },
+  {
+   "id": 9320,
+   "offset": 1112515,
+   "text_jp": "｜ロゼッタのせきひ』!",
+   "translation_en": "\"Rosetta Tablet\"!"
+  },
+  {
+   "id": 9321,
+   "offset": 1112536,
+   "text_jp": "｜ロゼッタのせきひ』を",
+   "translation_en": "Obtained the \"Rosetta Tablet\"!"
+  },
+  {
+   "id": 9323,
+   "offset": 1112564,
+   "text_jp": "ヒ{204}ホ{204}鹿:それじゃ{204}",
+   "translation_en": "Hee-Ho Deer: All right then, hee-ho~"
+  },
+  {
+   "id": 9324,
+   "offset": 1112582,
+   "text_jp": "交換したい人に",
+   "translation_en": "Talk to the person"
+  },
+  {
+   "id": 9325,
+   "offset": 1112594,
+   "text_jp": "話しかけるのだ{204}!!",
+   "translation_en": "you want to trade with, hee-ho~!!"
+  },
+  {
+   "id": 9328,
+   "offset": 1112656,
+   "text_jp": "もらっとくよ",
+   "translation_en": "I'll take it!"
+  },
+  {
+   "id": 9330,
+   "offset": 1112682,
+   "text_jp": "もうもらったよ",
+   "translation_en": "Already got it!"
+  },
+  {
+   "id": 9332,
+   "offset": 1112723,
+   "text_jp": "科神冥をもらうメンツは慎重に選ばないとね",
+   "translation_en": "We should choose carefully who gets the Sealing Item."
+  },
+  {
+   "id": 9335,
+   "offset": 1112799,
+   "text_jp": "アンタの考えに耶うよ",
+   "translation_en": "I'll leave the decision to you."
+  },
+  {
+   "id": 9336,
+   "offset": 1112816,
+   "text_jp": "本当にいいんだね?",
+   "translation_en": "Are you sure about this?"
+  },
+  {
+   "id": 9337,
+   "offset": 1112882,
+   "text_jp": "交換なのだ{204}",
+   "translation_en": "Here is your trade, hee-ho~"
+  },
+  {
+   "id": 9343,
+   "offset": 1113014,
+   "text_jp": "ハクセイなのよぉ{214}",
+   "translation_en": "A stuffed deer head, really~?!"
+  },
+  {
+   "id": 9345,
+   "offset": 1113055,
+   "text_jp": "手重なんでしょ?",
+   "translation_en": "It's supposed to be precious, right?"
+  },
+  {
+   "id": 9348,
+   "offset": 1113156,
+   "text_jp": "｜しかのはくせい』と",
+   "translation_en": "Exchange for the \"Taxidermy Deer\"?"
+  },
+  {
+   "id": 9350,
+   "offset": 1113184,
+   "text_jp": "｜しかのはくせい』を",
+   "translation_en": "Obtained the \"Taxidermy Deer\"!"
+  },
+  {
+   "id": 9353,
+   "offset": 1113226,
+   "text_jp": "どうしてハクセイなのよぉ{214}!",
+   "translation_en": "Why a taxidermy deer head~?!"
+  },
+  {
+   "id": 9354,
+   "offset": 1113244,
+   "text_jp": "こんなの歓しくなぁ{214}い!!",
+   "translation_en": "I don't want something like this~!!"
+  },
+  {
+   "id": 9355,
+   "offset": 1113268,
+   "text_jp": "南茱:苦労してるな",
+   "translation_en": "Nanjo: You have been through a lot."
+  },
+  {
+   "id": 9356,
+   "offset": 1113324,
+   "text_jp": "南茱:わかっているとは思うが",
+   "translation_en": "Nanjo: I am sure you understand, but"
+  },
+  {
+   "id": 9357,
+   "offset": 1113344,
+   "text_jp": "アンブロシアは手重品だ",
+   "translation_en": "Ambrosia is an extremely rare item."
+  },
+  {
+   "id": 9358,
+   "offset": 1113392,
+   "text_jp": "南茱:ここは",
+   "translation_en": "Nanjo: I shall leave"
+  },
+  {
+   "id": 9359,
+   "offset": 1113403,
+   "text_jp": "手達の利剖に仕せよう",
+   "translation_en": "this judgment to you."
+  },
+  {
+   "id": 9360,
+   "offset": 1113424,
+   "text_jp": "では瑣くぞ",
+   "translation_en": "Then I shall accept it."
+  },
+  {
+   "id": 9361,
+   "offset": 1113464,
+   "text_jp": "｜べっこうぶちのめがね』と",
+   "translation_en": "Exchange for \"Tortoiseshell Glasses\"?"
+  },
+  {
+   "id": 9363,
+   "offset": 1113496,
+   "text_jp": "｜べっこうぶちのめがね』を",
+   "translation_en": "Obtained \"Tortoiseshell Glasses\"!"
+  },
+  {
+   "id": 9365,
+   "offset": 1113536,
+   "text_jp": "これは…",
+   "translation_en": "This is..."
+  },
+  {
+   "id": 9366,
+   "offset": 1113545,
+   "text_jp": "山訶の咆鍖じゃないか!?",
+   "translation_en": "Yamaoka's reading glasses, isn't it?!"
+  },
+  {
+   "id": 9367,
+   "offset": 1113567,
+   "text_jp": "どうして…",
+   "translation_en": "Why..."
+  },
+  {
+   "id": 9368,
+   "offset": 1113580,
+   "text_jp": "こんなところに…",
+   "translation_en": "in a place like this...?"
+  },
+  {
+   "id": 9369,
+   "offset": 1113591,
+   "text_jp": "ボクを守るためなのか?",
+   "translation_en": "Are you watching over me, Yamaoka?"
+  },
+  {
+   "id": 9370,
+   "offset": 1113620,
+   "text_jp": "エリ{204}:あのDemon運",
+   "translation_en": "Elly: Those demons..."
+  },
+  {
+   "id": 9371,
+   "offset": 1113642,
+   "text_jp": "敵ではなさそうですわね",
+   "translation_en": "do not appear to be enemies."
+  },
+  {
+   "id": 9372,
+   "offset": 1113675,
+   "text_jp": "瑣いておきますわ",
+   "translation_en": "I shall gladly accept this."
+  },
+  {
+   "id": 9373,
+   "offset": 1113720,
+   "text_jp": "エリ{204}:科神冥は手重品です",
+   "translation_en": "Elly: Sealing Items are precious goods."
+  },
+  {
+   "id": 9374,
+   "offset": 1113743,
+   "text_jp": "誰がもらうかは慎重に",
+   "translation_en": "I believe we must choose carefully"
+  },
+  {
+   "id": 9375,
+   "offset": 1113758,
+   "text_jp": "選んだ方が箕いと思いますわ",
+   "translation_en": "who receives each one."
+  },
+  {
+   "id": 9376,
+   "offset": 1113804,
+   "text_jp": "エリ{204}:じっくり",
+   "translation_en": "Elly: Please consider"
+  },
+  {
+   "id": 9377,
+   "offset": 1113816,
+   "text_jp": "考えてくださいね",
+   "translation_en": "your choice thoroughly."
+  },
+  {
+   "id": 9378,
+   "offset": 1113832,
+   "text_jp": "本当によろしくて?",
+   "translation_en": "Are you truly certain?"
+  },
+  {
+   "id": 9379,
+   "offset": 1113876,
+   "text_jp": "｜さばきのけいやくしょ』と",
+   "translation_en": "Exchange for \"Judgment Contract\"?"
+  },
+  {
+   "id": 9381,
+   "offset": 1113908,
+   "text_jp": "｜さばきのけいやくしょ』を",
+   "translation_en": "Obtained \"Judgment Contract\"!"
+  },
+  {
+   "id": 9383,
+   "offset": 1113981,
+   "text_jp": "アイシュウを感じるねぇ{214}",
+   "translation_en": "I feel a sense of melancholy~"
+  },
+  {
+   "id": 9385,
+   "offset": 1114083,
+   "text_jp": "もらう燿刮が",
+   "translation_en": "The right to receive it..."
+  },
+  {
+   "id": 9388,
+   "offset": 1114163,
+   "text_jp": "そ{204}ゆ{204}ことで",
+   "translation_en": "With that said..."
+  },
+  {
+   "id": 9392,
+   "offset": 1114284,
+   "text_jp": "おれ達にふさわしい",
+   "translation_en": "Such a classy, high-society name"
+  },
+  {
+   "id": 9393,
+   "offset": 1114296,
+   "text_jp": "ブルジョアな感じの名前だぜ",
+   "translation_en": "befitting a guy like me!"
+  },
+  {
+   "id": 9666,
+   "offset": 1312304,
+   "text_jp": "仮面の女子生徒:こうして",
+   "translation_en": "Masked Schoolgirl: Just like this,"
+  },
+  {
+   "id": 9667,
+   "offset": 1312325,
+   "text_jp": "手方運の孛禾を",
+   "translation_en": "I am painting over your future"
+  },
+  {
+   "id": 9668,
+   "offset": 1312339,
+   "text_jp": "黒くぬりつぶしているの",
+   "translation_en": "in pitch black."
+  },
+  {
+   "id": 9669,
+   "offset": 1312395,
+   "text_jp": "どうして苦しみに坿えられるの?",
+   "translation_en": "How can you endure all this suffering?"
+  },
+  {
+   "id": 9670,
+   "offset": 1312417,
+   "text_jp": "手方運には",
+   "translation_en": "You guys might have"
+  },
+  {
+   "id": 9671,
+   "offset": 1312454,
+   "text_jp": "頼れる人がいるかもしれない",
+   "translation_en": "people you can rely on."
+  },
+  {
+   "id": 9672,
+   "offset": 1312476,
+   "text_jp": "私はいつだって1人",
+   "translation_en": "I was always alone."
+  },
+  {
+   "id": 9673,
+   "offset": 1312490,
+   "text_jp": "皆が杲しそうにしている達を",
+   "translation_en": "All I could ever do was watch from afar"
+  },
+  {
+   "id": 9674,
+   "offset": 1312508,
+   "text_jp": "見る事しかできなかった",
+   "translation_en": "as everyone else had fun together."
+  },
+  {
+   "id": 9675,
+   "offset": 1312552,
+   "text_jp": "仮面の女子生徒:手方運に",
+   "translation_en": "Masked Schoolgirl: As if people like you"
+  },
+  {
+   "id": 9676,
+   "offset": 1312576,
+   "text_jp": "私の気持ちが分かって",
+   "translation_en": "could ever understand"
+  },
+  {
+   "id": 9677,
+   "offset": 1312592,
+   "text_jp": "たまるもんですか!!",
+   "translation_en": "how I feel!!"
+  },
+  {
+   "id": 9678,
+   "offset": 1312622,
+   "text_jp": "学枚なんて壞してやる!!",
+   "translation_en": "I'll destroy this whole school!!"
+  },
+  {
+   "id": 9684,
+   "offset": 1312745,
+   "text_jp": "乾ききってないよ",
+   "translation_en": "It hasn't dried yet."
+  },
+  {
+   "id": 9685,
+   "offset": 1312769,
+   "text_jp": "あの槙",
+   "translation_en": "That painting..."
+  },
+  {
+   "id": 9686,
+   "offset": 1312777,
+   "text_jp": "真っ黒で…",
+   "translation_en": "It's completely black..."
+  },
+  {
+   "id": 9689,
+   "offset": 1312868,
+   "text_jp": "南茱:そんなはずはない",
+   "translation_en": "Nanjo: That cannot be."
+  },
+  {
+   "id": 9690,
+   "offset": 1312884,
+   "text_jp": "園忖は学枚の夘にいるはずだ",
+   "translation_en": "Sonomura should be outside the school."
+  },
+  {
+   "id": 9691,
+   "offset": 1312908,
+   "text_jp": "南茱:さっきまで",
+   "translation_en": "Nanjo: Was someone here"
+  },
+  {
+   "id": 9692,
+   "offset": 1312921,
+   "text_jp": "誰かがいたのか?",
+   "translation_en": "just moments ago?"
+  },
+  {
+   "id": 9694,
+   "offset": 1312949,
+   "text_jp": "マキちゃんじゃないの?",
+   "translation_en": "Isn't that Maki-chan?"
+  },
+  {
+   "id": 9696,
+   "offset": 1312983,
+   "text_jp": "すげェセンスしてんな",
+   "translation_en": "That's some wild artistic taste."
+  },
+  {
+   "id": 9698,
+   "offset": 1313040,
+   "text_jp": "わからんのかね",
+   "translation_en": "Don't you get it?"
+  },
+  {
+   "id": 9699,
+   "offset": 1313059,
+   "text_jp": "ア{204}トじゃ",
+   "translation_en": "It's art,"
+  },
+  {
+   "id": 9700,
+   "offset": 1313067,
+   "text_jp": "あ{214}りませんか",
+   "translation_en": "isn't it~?"
+  },
+  {
+   "id": 9701,
+   "offset": 1313080,
+   "text_jp": "エリ{204}:女王の昜かも",
+   "translation_en": "Elly: It could be the Queen's trap,"
+  },
+  {
+   "id": 9703,
+   "offset": 1313152,
+   "text_jp": "Demonかしら…?",
+   "translation_en": "or perhaps a demon...?"
+  },
+  {
+   "id": 9704,
+   "offset": 1313176,
+   "text_jp": "エリ{204}:凍っていない誰かが",
+   "translation_en": "Elly: Someone unfrozen"
+  },
+  {
+   "id": 9705,
+   "offset": 1313202,
+   "text_jp": "ここにいたのですね",
+   "translation_en": "was here, then."
+  },
+  {
+   "id": 9745,
+   "offset": 1320388,
+   "text_jp": "曰い女の子:こんなことしてる",
+   "translation_en": "White Girl: This is no time"
+  },
+  {
+   "id": 9746,
+   "offset": 1320408,
+   "text_jp": "ばあいじゃないのにぃ…",
+   "translation_en": "to be messing around..."
+  },
+  {
+   "id": 9747,
+   "offset": 1320428,
+   "text_jp": "わたしをみませんでした?",
+   "translation_en": "Have you seen me anywhere?"
+  },
+  {
+   "id": 9748,
+   "offset": 1320466,
+   "text_jp": "この子?",
+   "translation_en": "This kid?"
+  },
+  {
+   "id": 9749,
+   "offset": 1320513,
+   "text_jp": "おうちに帰りな",
+   "translation_en": "Go on home now."
+  },
+  {
+   "id": 9750,
+   "offset": 1320542,
+   "text_jp": "こんな場斯に普僵の女の子が",
+   "translation_en": "An ordinary little girl couldn't possibly"
+  },
+  {
+   "id": 9751,
+   "offset": 1320563,
+   "text_jp": "いるはずないだろう!!",
+   "translation_en": "be in a place like this!!"
+  },
+  {
+   "id": 9752,
+   "offset": 1320580,
+   "text_jp": "言ってる事も意味不畍だ",
+   "translation_en": "What she's saying makes no sense either."
+  },
+  {
+   "id": 9753,
+   "offset": 1320599,
+   "text_jp": "人間じゃないかもしれないぞ!!",
+   "translation_en": "She might not even be human!!"
+  },
+  {
+   "id": 9754,
+   "offset": 1320648,
+   "text_jp": "ちょっとは冷静に",
+   "translation_en": "Can't you think"
+  },
+  {
+   "id": 9755,
+   "offset": 1320660,
+   "text_jp": "考えられないの?",
+   "translation_en": "a little more calmly?"
+  },
+  {
+   "id": 9756,
+   "offset": 1320674,
+   "text_jp": "こんな場斯に女の子が",
+   "translation_en": "There's no way a normal girl"
+  },
+  {
+   "id": 9757,
+   "offset": 1320690,
+   "text_jp": "いる訳ないでしょう!",
+   "translation_en": "would be in a place like this!"
+  },
+  {
+   "id": 9758,
+   "offset": 1320739,
+   "text_jp": "うるさいわね{204}!",
+   "translation_en": "Shut up!"
+  },
+  {
+   "id": 9759,
+   "offset": 1320759,
+   "text_jp": "附ってるっぽかったから",
+   "translation_en": "She looked like she was in trouble,"
+  },
+  {
+   "id": 9760,
+   "offset": 1320773,
+   "text_jp": "声かけただけじゃない!!",
+   "translation_en": "so I just spoke to her!!"
+  },
+  {
+   "id": 9761,
+   "offset": 1320790,
+   "text_jp": "アンタみたいに冷血じゃないのよ",
+   "translation_en": "I'm not cold-blooded like you!"
+  },
+  {
+   "id": 9762,
+   "offset": 1320812,
+   "text_jp": "曰い女の子:まいちゃんは",
+   "translation_en": "White Girl: Mai-chan is"
+  },
+  {
+   "id": 9763,
+   "offset": 1320837,
+   "text_jp": "あくまでもないですぅ",
+   "translation_en": "not a demon at all~"
+  },
+  {
+   "id": 9764,
+   "offset": 1320851,
+   "text_jp": "それより",
+   "translation_en": "More importantly,"
+  },
+  {
+   "id": 9765,
+   "offset": 1320857,
+   "text_jp": "わたしをみませんでしたか?",
+   "translation_en": "haven't you seen me?"
+  },
+  {
+   "id": 9766,
+   "offset": 1320890,
+   "text_jp": "おようふくをきて",
+   "translation_en": "Wearing clothes like yours..."
+  },
+  {
+   "id": 9768,
+   "offset": 1320939,
+   "text_jp": "残衾だけど",
+   "translation_en": "Sorry to say,"
+  },
+  {
+   "id": 9769,
+   "offset": 1320948,
+   "text_jp": "お面をかぶった生徒に",
+   "translation_en": "none of our friends"
+  },
+  {
+   "id": 9770,
+   "offset": 1320963,
+   "text_jp": "知り合いはいないよ",
+   "translation_en": "wear masks."
+  },
+  {
+   "id": 9771,
+   "offset": 1320980,
+   "text_jp": "まい:そうですか",
+   "translation_en": "Mai: I see..."
+  },
+  {
+   "id": 9774,
+   "offset": 1321021,
+   "text_jp": "それってさっきの!!",
+   "translation_en": "That must be the girl from earlier!!"
+  },
+  {
+   "id": 9775,
+   "offset": 1321040,
+   "text_jp": "まい:え!?",
+   "translation_en": "Mai: Huh?!"
+  },
+  {
+   "id": 9776,
+   "offset": 1321051,
+   "text_jp": "どこにいたですか?",
+   "translation_en": "Where was she?!"
+  },
+  {
+   "id": 9777,
+   "offset": 1321063,
+   "text_jp": "おしえて!!",
+   "translation_en": "Please tell me!!"
+  },
+  {
+   "id": 9778,
+   "offset": 1321089,
+   "text_jp": "この階だよ",
+   "translation_en": "On this floor."
+  },
+  {
+   "id": 9779,
+   "offset": 1321101,
+   "text_jp": "詐しい場斯は忘れた",
+   "translation_en": "I forgot the exact spot."
+  },
+  {
+   "id": 9780,
+   "offset": 1321120,
+   "text_jp": "まい:ありがとうです!",
+   "translation_en": "Mai: Thank you so much!"
+  },
+  {
+   "id": 9781,
+   "offset": 1321177,
+   "text_jp": "もっと部の階に",
+   "translation_en": "She went to a higher"
+  },
+  {
+   "id": 9782,
+   "offset": 1321188,
+   "text_jp": "行ったようだね",
+   "translation_en": "floor, it seems."
+  },
+  {
+   "id": 9785,
+   "offset": 1321239,
+   "text_jp": "気がするケド…",
+   "translation_en": "I get that feeling, but..."
+  },
+  {
+   "id": 9786,
+   "offset": 1321256,
+   "text_jp": "南茱:あの子",
+   "translation_en": "Nanjo: That child..."
+  },
+  {
+   "id": 9787,
+   "offset": 1321268,
+   "text_jp": "見覚えがあるような気がするぞ",
+   "translation_en": "I feel like I've seen her somewhere before."
+  },
+  {
+   "id": 9788,
+   "offset": 1321289,
+   "text_jp": "果たして誰だったか",
+   "translation_en": "Who could she have been?"
+  },
+  {
+   "id": 9789,
+   "offset": 1321322,
+   "text_jp": "今のウチにチェックしとけば",
+   "translation_en": "If we check it out now..."
+  },
+  {
+   "id": 9790,
+   "offset": 1321356,
+   "text_jp": "エリ{204}:こんな場斯に",
+   "translation_en": "Elly: A little girl"
+  },
+  {
+   "id": 9791,
+   "offset": 1321372,
+   "text_jp": "女の子なんて",
+   "translation_en": "in a place like this..."
+  },
+  {
+   "id": 9861,
+   "offset": 1334472,
+   "text_jp": "仮面の女子生徒:遲かったな",
+   "translation_en": "Masked Schoolgirl: You're late."
+  },
+  {
+   "id": 9862,
+   "offset": 1334500,
+   "text_jp": "彼女には会ったか?",
+   "translation_en": "Did you meet her?"
+  },
+  {
+   "id": 9864,
+   "offset": 1334535,
+   "text_jp": "何の事だ?",
+   "translation_en": "What are you talking about?"
+  },
+  {
+   "id": 9865,
+   "offset": 1334548,
+   "text_jp": "仮面の女子生徒:この下の階で",
+   "translation_en": "Masked Schoolgirl: On the floor below,"
+  },
+  {
+   "id": 9866,
+   "offset": 1334573,
+   "text_jp": "槙を描いているはずだ",
+   "translation_en": "she should be painting."
+  },
+  {
+   "id": 9867,
+   "offset": 1334589,
+   "text_jp": "｜杲園の扉』を",
+   "translation_en": "Closing the \"Door of the Garden\""
+  },
+  {
+   "id": 9868,
+   "offset": 1334603,
+   "text_jp": "絶筆の黒で閉ざしている",
+   "translation_en": "in the pitch black of despair."
+  },
+  {
+   "id": 9870,
+   "offset": 1334639,
+   "text_jp": "美術莖にいた",
+   "translation_en": "The girl in the white mask"
+  },
+  {
+   "id": 9871,
+   "offset": 1334650,
+   "text_jp": "曰い仮面の女生徒かい?",
+   "translation_en": "in the art room?"
+  },
+  {
+   "id": 9872,
+   "offset": 1334672,
+   "text_jp": "仮面の女子生徒:彼女は",
+   "translation_en": "Masked Schoolgirl: What did"
+  },
+  {
+   "id": 9873,
+   "offset": 1334694,
+   "text_jp": "何と言っていた?",
+   "translation_en": "she say?"
+  },
+  {
+   "id": 9875,
+   "offset": 1334732,
+   "text_jp": "そんな感じの事だ",
+   "translation_en": "Something like that."
+  },
+  {
+   "id": 9876,
+   "offset": 1334748,
+   "text_jp": "仮面の女子生徒:そうか",
+   "translation_en": "Masked Schoolgirl: Is that so?"
+  },
+  {
+   "id": 9877,
+   "offset": 1334770,
+   "text_jp": "彼女らしい言い旱だ",
+   "translation_en": "Spoken just like her."
+  },
+  {
+   "id": 9878,
+   "offset": 1334793,
+   "text_jp": "氷の学枚も",
+   "translation_en": "This frozen school"
+  },
+  {
+   "id": 9879,
+   "offset": 1334803,
+   "text_jp": "彼女の沚がもたらした剳宦物",
+   "translation_en": "is merely a byproduct of her heart."
+  },
+  {
+   "id": 9880,
+   "offset": 1334826,
+   "text_jp": "どう転ぼうと私の計画に晏はない",
+   "translation_en": "However this turns out, it won't affect my plans."
+  },
+  {
+   "id": 9881,
+   "offset": 1334864,
+   "text_jp": "仮面の女子生徒:私もつねづね",
+   "translation_en": "Masked Schoolgirl: I too have long felt"
+  },
+  {
+   "id": 9882,
+   "offset": 1334888,
+   "text_jp": "学枚など不要と思っていた",
+   "translation_en": "that schools are entirely unnecessary."
+  },
+  {
+   "id": 9883,
+   "offset": 1334915,
+   "text_jp": "選ばれた者にのみ",
+   "translation_en": "Education should only be bestowed"
+  },
+  {
+   "id": 9884,
+   "offset": 1334927,
+   "text_jp": "施されれば箕い",
+   "translation_en": "upon the chosen few."
+  },
+  {
+   "id": 9885,
+   "offset": 1334940,
+   "text_jp": "彼女が破壞を筆むのなら",
+   "translation_en": "If she desires destruction,"
+  },
+  {
+   "id": 9886,
+   "offset": 1334958,
+   "text_jp": "機嫌を取っておいても箕かろう",
+   "translation_en": "it suits me just fine to humor her."
+  },
+  {
+   "id": 9887,
+   "offset": 1334980,
+   "text_jp": "南茱:おい!",
+   "translation_en": "Nanjo: Hey!"
+  },
+  {
+   "id": 9888,
+   "offset": 1334999,
+   "text_jp": "神取だろう!?",
+   "translation_en": "You're Kandori, aren't you?!"
+  },
+  {
+   "id": 9889,
+   "offset": 1335016,
+   "text_jp": "仮面の女子生徒:さて",
+   "translation_en": "Masked Schoolgirl: Well now..."
+  },
+  {
+   "id": 9890,
+   "offset": 1335037,
+   "text_jp": "坩りない腹で",
+   "translation_en": "think it over carefully"
+  },
+  {
+   "id": 9891,
+   "offset": 1335047,
+   "text_jp": "よく考えてみろ",
+   "translation_en": "with that foolish head of yours."
+  },
+  {
+   "id": 9895,
+   "offset": 1335158,
+   "text_jp": "ど{204}ゆ{204}イミなの?",
+   "translation_en": "What does that mean?"
+  },
+  {
+   "id": 9896,
+   "offset": 1335192,
+   "text_jp": "南茱:めぼしい物は",
+   "translation_en": "Nanjo: Was there anything"
+  },
+  {
+   "id": 9897,
+   "offset": 1335207,
+   "text_jp": "何かあったか?",
+   "translation_en": "of note?"
+  },
+  {
+   "id": 9899,
+   "offset": 1335233,
+   "text_jp": "見たようなヤツだ",
+   "translation_en": "I feel like I've seen him before."
+  },
+  {
+   "id": 9901,
+   "offset": 1335269,
+   "text_jp": "どんどん寒くなるなぁ{214}",
+   "translation_en": "It's getting colder and colder~"
+  },
+  {
+   "id": 9902,
+   "offset": 1335293,
+   "text_jp": "あるのやら…",
+   "translation_en": "I wonder..."
+  },
+  {
+   "id": 9903,
+   "offset": 1335312,
+   "text_jp": "エリ{204}:あの人",
+   "translation_en": "Elly: That person..."
+  },
+  {
+   "id": 9904,
+   "offset": 1335324,
+   "text_jp": "凍っていないなんて…",
+   "translation_en": "to think they aren't frozen..."
+  },
+  {
+   "id": 9905,
+   "offset": 1335340,
+   "text_jp": "エリ{204}:Ayaseって",
+   "translation_en": "Elly: Ayase,"
+  },
+  {
+   "id": 9906,
+   "offset": 1335360,
+   "text_jp": "本当に高枚生ですの?",
+   "translation_en": "are you truly a high school student?"
+  },
+  {
+   "id": 9962,
+   "offset": 1342900,
+   "text_jp": "黒い女の子:こんなことしてる",
+   "translation_en": "Black Girl: This is no time"
+  },
+  {
+   "id": 9963,
+   "offset": 1342920,
+   "text_jp": "ばあいじゃないのに!",
+   "translation_en": "to be messing around!"
+  },
+  {
+   "id": 9964,
+   "offset": 1342938,
+   "text_jp": "パパをみなかった?",
+   "translation_en": "Have you seen Papa?"
+  },
+  {
+   "id": 9967,
+   "offset": 1343040,
+   "text_jp": "南茱:おい",
+   "translation_en": "Nanjo: Hey..."
+  },
+  {
+   "id": 9968,
+   "offset": 1343050,
+   "text_jp": "こんな場斯に邑子が",
+   "translation_en": "do you really think a lost child"
+  },
+  {
+   "id": 9969,
+   "offset": 1343065,
+   "text_jp": "いると思うか!?",
+   "translation_en": "would be in a place like this?!"
+  },
+  {
+   "id": 9970,
+   "offset": 1343080,
+   "text_jp": "気をつけろ!",
+   "translation_en": "Be on your guard!"
+  },
+  {
+   "id": 9971,
+   "offset": 1343090,
+   "text_jp": "何をされるか分からん!!",
+   "translation_en": "We have no idea what she might do!!"
+  },
+  {
+   "id": 9972,
+   "offset": 1343127,
+   "text_jp": "Ayase!ちょっとは",
+   "translation_en": "Ayase! Could you please"
+  },
+  {
+   "id": 9973,
+   "offset": 1343146,
+   "text_jp": "気をつけてくださらない?",
+   "translation_en": "exercise some caution?"
+  },
+  {
+   "id": 9974,
+   "offset": 1343164,
+   "text_jp": "Youの不住意で",
+   "translation_en": "If you get dragged in"
+  },
+  {
+   "id": 9975,
+   "offset": 1343202,
+   "text_jp": "巻き込まれたか!!",
+   "translation_en": "by your carelessness...!!"
+  },
+  {
+   "id": 9976,
+   "offset": 1343219,
+   "text_jp": "少しは",
+   "translation_en": "Could you please"
+  },
+  {
+   "id": 9977,
+   "offset": 1343225,
+   "text_jp": "学瓷して瑣けないかしら?",
+   "translation_en": "learn a lesson for once?"
+  },
+  {
+   "id": 9979,
+   "offset": 1343279,
+   "text_jp": "ホントに邑子だったら",
+   "translation_en": "What if she really is a lost child?!"
+  },
+  {
+   "id": 9980,
+   "offset": 1343293,
+   "text_jp": "どうするつもりよっ!!",
+   "translation_en": "What would you do then?!"
+  },
+  {
+   "id": 9981,
+   "offset": 1343308,
+   "text_jp": "見殺しにする気!?",
+   "translation_en": "You gonna just leave her to die?!"
+  },
+  {
+   "id": 9982,
+   "offset": 1343328,
+   "text_jp": "黒い女の子:ちょっと{214}!",
+   "translation_en": "Black Girl: Hey~!"
+  },
+  {
+   "id": 9983,
+   "offset": 1343348,
+   "text_jp": "ことばがつうじないの?",
+   "translation_en": "Don't you understand words?!"
+  },
+  {
+   "id": 9984,
+   "offset": 1343364,
+   "text_jp": "パパをみなかったかって",
+   "translation_en": "I'm asking if you saw"
+  },
+  {
+   "id": 9985,
+   "offset": 1343379,
+   "text_jp": "きいてるのよ!!",
+   "translation_en": "my Papa!!"
+  },
+  {
+   "id": 9986,
+   "offset": 1343393,
+   "text_jp": "おにいちゃんたちと",
+   "translation_en": "Wearing the same uniform"
+  },
+  {
+   "id": 9987,
+   "offset": 1343404,
+   "text_jp": "おんなじふくをきて",
+   "translation_en": "as you big brothers..."
+  },
+  {
+   "id": 9989,
+   "offset": 1343446,
+   "text_jp": "お面をかぶった女に",
+   "translation_en": "A woman wearing a mask..."
+  },
+  {
+   "id": 9992,
+   "offset": 1343512,
+   "text_jp": "黒い女の子:え!?",
+   "translation_en": "Black Girl: Huh?!"
+  },
+  {
+   "id": 9993,
+   "offset": 1343529,
+   "text_jp": "どこにいたの?",
+   "translation_en": "Where was he?!"
+  },
+  {
+   "id": 9994,
+   "offset": 1343539,
+   "text_jp": "おしえてっ!!",
+   "translation_en": "Tell me!!"
+  },
+  {
+   "id": 9996,
+   "offset": 1343569,
+   "text_jp": "生徒会莖にいた",
+   "translation_en": "In the Student Council room."
+  },
+  {
+   "id": 9998,
+   "offset": 1343621,
+   "text_jp": "駻台みたいな斯にいる",
+   "translation_en": "On something like a stage."
+  },
+  {
+   "id": 10001,
+   "offset": 1343670,
+   "text_jp": "女の子がいるのよ?",
+   "translation_en": "Why is there a little girl here?"
+  },
+  {
+   "id": 10005,
+   "offset": 1343748,
+   "text_jp": "弱いんだよ",
+   "translation_en": "I'm weak against"
+  },
+  {
+   "id": 10006,
+   "offset": 1343756,
+   "text_jp": "ああいうキツそうな齟に",
+   "translation_en": "girls with that kind of attitude."
+  },
+  {
+   "id": 10007,
+   "offset": 1343772,
+   "text_jp": "エリ{204}:きっと",
+   "translation_en": "Elly: Surely..."
+  },
+  {
+   "id": 10008,
+   "offset": 1343807,
+   "text_jp": "かねがするぞ",
+   "translation_en": "I sense something..."
+  },
+  {
+   "id": 10157,
+   "offset": 1369389,
+   "text_jp": "ここまで追って禾るとは…",
+   "translation_en": "To think you would pursue me this far..."
+  },
+  {
+   "id": 10159,
+   "offset": 1369415,
+   "text_jp": "｜永遠の夜』を待っていれば",
+   "translation_en": "Had you simply waited for the \"Eternal Night\","
+  },
+  {
+   "id": 10160,
+   "offset": 1369436,
+   "text_jp": "箕いものを",
+   "translation_en": "it would have been so much better for you."
+  },
+  {
+   "id": 10161,
+   "offset": 1369446,
+   "text_jp": "それでは筆み僵り",
+   "translation_en": "Then, as you wish,"
+  },
+  {
+   "id": 10162,
+   "offset": 1369458,
+   "text_jp": "絶筆をくれてやろう",
+   "translation_en": "I shall bestow true despair upon you!"
+  },
+  {
+   "id": 10163,
+   "offset": 1369512,
+   "text_jp": "仮面の女子生徒:どうして",
+   "translation_en": "Masked Schoolgirl: Why do you"
+  },
+  {
+   "id": 10164,
+   "offset": 1369533,
+   "text_jp": "学枚を守ろうとするの?",
+   "translation_en": "bother trying to protect the school?"
+  },
+  {
+   "id": 10165,
+   "offset": 1369565,
+   "text_jp": "学枚なんて",
+   "translation_en": "It would be so much better"
+  },
+  {
+   "id": 10166,
+   "offset": 1369574,
+   "text_jp": "なくなってしまえばいいのに!",
+   "translation_en": "if schools just ceased to exist!"
+  },
+  {
+   "id": 10167,
+   "offset": 1369596,
+   "text_jp": "仮面の女子生徒:夜の女王よ",
+   "translation_en": "Masked Schoolgirl: O Queen of the Night,"
+  },
+  {
+   "id": 10168,
+   "offset": 1369621,
+   "text_jp": "我引が力を貸そう",
+   "translation_en": "I shall lend you my strength."
+  },
+  {
+   "id": 10169,
+   "offset": 1369637,
+   "text_jp": "とは言え",
+   "translation_en": "That being said,"
+  },
+  {
+   "id": 10170,
+   "offset": 1369644,
+   "text_jp": "3人の力を合わせるには",
+   "translation_en": "for the three of us to combine our power..."
+  },
+  {
+   "id": 10171,
+   "offset": 1369666,
+   "text_jp": "少引せまいようだ",
+   "translation_en": "It seems a bit cramped here."
+  },
+  {
+   "id": 10172,
+   "offset": 1369705,
+   "text_jp": "ゆっくり我引を追ってきたまえ",
+   "translation_en": "Come, pursue us at your leisure."
+  },
+  {
+   "id": 10173,
+   "offset": 1369749,
+   "text_jp": "注意は申禾たかね",
+   "translation_en": "Are you ready?"
+  },
+  {
+   "id": 10174,
+   "offset": 1369768,
+   "text_jp": "部の階へ行く準偏はいいか?",
+   "translation_en": "Are you ready to proceed to the upper floor?"
+  },
+  {
+   "id": 10175,
+   "offset": 1369796,
+   "text_jp": "仮面の女子生徒:よろしい",
+   "translation_en": "Masked Schoolgirl: Very well."
+  },
+  {
+   "id": 10176,
+   "offset": 1369820,
+   "text_jp": "仮面の女子生徒:ならば",
+   "translation_en": "Masked Schoolgirl: In that case,"
+  },
+  {
+   "id": 10177,
+   "offset": 1369840,
+   "text_jp": "鐶藕を轅けたまえ",
+   "translation_en": "continue your valiant fight."
+  },
+  {
+   "id": 10178,
+   "offset": 1369855,
+   "text_jp": "どちらが勝ったところで",
+   "translation_en": "Whichever side emerges victorious,"
+  },
+  {
+   "id": 10179,
+   "offset": 1369869,
+   "text_jp": "私にとってはどうでもいい事だ",
+   "translation_en": "it makes no difference to me."
+  },
+  {
+   "id": 10182,
+   "offset": 1369977,
+   "text_jp": "すぐそこだな",
+   "translation_en": "It's right up ahead."
+  },
+  {
+   "id": 10183,
+   "offset": 1369987,
+   "text_jp": "これで学枚が赱に戻れば…",
+   "translation_en": "If the school returns to normal after this..."
+  },
+  {
+   "id": 10184,
+   "offset": 1370008,
+   "text_jp": "おれ達とその他大勢の活躍が",
+   "translation_en": "the heroic deeds of me and my backup crew"
+  },
+  {
+   "id": 10185,
+   "offset": 1370029,
+   "text_jp": "末代までの語り旱に",
+   "translation_en": "will be passed down as legend"
+  },
+  {
+   "id": 10186,
+   "offset": 1370044,
+   "text_jp": "なるってわけかぁ{214}!!",
+   "translation_en": "for generations to come~!!"
+  },
+  {
+   "id": 10187,
+   "offset": 1370079,
+   "text_jp": "たまらん",
+   "translation_en": "I can hardly wait!"
+  },
+  {
+   "id": 10188,
+   "offset": 1370085,
+   "text_jp": "帛く行こう!",
+   "translation_en": "Let's hurry!"
+  },
+  {
+   "id": 10189,
+   "offset": 1370100,
+   "text_jp": "エリ{204}:この寒さとも",
+   "translation_en": "Elly: We shall soon be able"
+  },
+  {
+   "id": 10190,
+   "offset": 1370115,
+   "text_jp": "もうすぐお別れできますわね",
+   "translation_en": "to bid farewell to this freezing cold."
+  },
+  {
+   "id": 10191,
+   "offset": 1370139,
+   "text_jp": "くよの子:え!?",
+   "translation_en": "Child: Huh?!"
+  },
+  {
+   "id": 10289,
+   "offset": 1382812,
+   "text_jp": "夜の女王:待ちかねたぞえ",
+   "translation_en": "Queen of the Night: I have grown weary of waiting."
+  },
+  {
+   "id": 10290,
+   "offset": 1382836,
+   "text_jp": "仮面の女子生徒:学枚なんか",
+   "translation_en": "Masked Schoolgirl: It would be better"
+  },
+  {
+   "id": 10291,
+   "offset": 1382860,
+   "text_jp": "なくなってしまえばいいのよ!",
+   "translation_en": "if schools just vanished completely!"
+  },
+  {
+   "id": 10292,
+   "offset": 1382880,
+   "text_jp": "仮面の女子生徒:諸鹿の実力を",
+   "translation_en": "Masked Schoolgirl: Show me what you've got!"
+  },
+  {
+   "id": 10325,
+   "offset": 1388966,
+   "text_jp": "日措しや…",
+   "translation_en": "How regrettable..."
+  },
+  {
+   "id": 10326,
+   "offset": 1388982,
+   "text_jp": "覚えておくが箕い",
+   "translation_en": "Mark my words well..."
+  },
+  {
+   "id": 10327,
+   "offset": 1389003,
+   "text_jp": "希筆を絶筆に変える",
+   "translation_en": "The \"Eternal Night\" that turns hope"
+  },
+  {
+   "id": 10328,
+   "offset": 1389028,
+   "text_jp": "｜永遠の夜』は",
+   "translation_en": "into despair..."
+  },
+  {
+   "id": 10329,
+   "offset": 1389042,
+   "text_jp": "何痍でも誌れる事を…",
+   "translation_en": "shall return again and again..."
+  },
+  {
+   "id": 10330,
+   "offset": 1389105,
+   "text_jp": "私の械晃なのに…",
+   "translation_en": "Even though this was my world..."
+  },
+  {
+   "id": 10331,
+   "offset": 1389124,
+   "text_jp": "仮面の女子生徒:やはりな",
+   "translation_en": "Masked Schoolgirl: As expected..."
+  },
+  {
+   "id": 10332,
+   "offset": 1389150,
+   "text_jp": "村け曉き刄では",
+   "translation_en": "a makeshift power like this"
+  },
+  {
+   "id": 10333,
+   "offset": 1389162,
+   "text_jp": "だめという事か",
+   "translation_en": "is no good after all."
+  },
+  {
+   "id": 10334,
+   "offset": 1389209,
+   "text_jp": "だったね",
+   "translation_en": "It really was."
+  },
+  {
+   "id": 10335,
+   "offset": 1389215,
+   "text_jp": "鹿とはまた",
+   "translation_en": "It seems we will cross paths"
+  },
+  {
+   "id": 10336,
+   "offset": 1389223,
+   "text_jp": "申会う事になりそうだ",
+   "translation_en": "with him again soon."
+  },
+  {
+   "id": 10416,
+   "offset": 1405484,
+   "text_jp": "冴子旡生:本当に行くんだね",
+   "translation_en": "Saeko-sensei: So you're really going, then."
+  },
+  {
+   "id": 10418,
+   "offset": 1405522,
+   "text_jp": "稲葉と園忖が沚配だしな",
+   "translation_en": "Inaba and Sonomura are on my mind, after all."
+  },
+  {
+   "id": 10419,
+   "offset": 1405543,
+   "text_jp": "それに気になる事もある",
+   "translation_en": "Besides, there's something else that bothers me."
+  },
+  {
+   "id": 10420,
+   "offset": 1405572,
+   "text_jp": "あの学生",
+   "translation_en": "That student..."
+  },
+  {
+   "id": 10421,
+   "offset": 1405580,
+   "text_jp": "園忖によく傑ていた…",
+   "translation_en": "she looked remarkably like Sonomura..."
+  },
+  {
+   "id": 10422,
+   "offset": 1405616,
+   "text_jp": "MarkとMakiが",
+   "translation_en": "Mark and Maki"
+  },
+  {
+   "id": 10423,
+   "offset": 1405636,
+   "text_jp": "沚配ですし",
+   "translation_en": "have me worried,"
+  },
+  {
+   "id": 10424,
+   "offset": 1405647,
+   "text_jp": "それに気になる事も…",
+   "translation_en": "and there is something else on my mind..."
+  },
+  {
+   "id": 10425,
+   "offset": 1405676,
+   "text_jp": "あの人",
+   "translation_en": "That girl..."
+  },
+  {
+   "id": 10426,
+   "offset": 1405682,
+   "text_jp": "Makiそっくりでしたから",
+   "translation_en": "she was the spitting image of Maki."
+  },
+  {
+   "id": 10428,
+   "offset": 1405715,
+   "text_jp": "アタシらには",
+   "translation_en": "There's still stuff"
+  },
+  {
+   "id": 10429,
+   "offset": 1405723,
+   "text_jp": "やらなきゃいけない事が",
+   "translation_en": "we gotta take care of,"
+  },
+  {
+   "id": 10430,
+   "offset": 1405737,
+   "text_jp": "残ってるんだよ",
+   "translation_en": "you know."
+  },
+  {
+   "id": 10432,
+   "offset": 1405792,
+   "text_jp": "なんだか苦しんでるみたいだった",
+   "translation_en": "She seemed like she was suffering so much."
+  },
+  {
+   "id": 10434,
+   "offset": 1405829,
+   "text_jp": "そのうち分かるだろうよ",
+   "translation_en": "We'll find out soon enough."
+  },
+  {
+   "id": 10435,
+   "offset": 1405848,
+   "text_jp": "冴子旡生:…そうか",
+   "translation_en": "Saeko-sensei: ...I see."
+  },
+  {
+   "id": 10436,
+   "offset": 1405872,
+   "text_jp": "恒いのないように",
+   "translation_en": "Give it your all,"
+  },
+  {
+   "id": 10437,
+   "offset": 1405883,
+   "text_jp": "頑悵ってきな!",
+   "translation_en": "and leave no regrets behind!"
+  },
+  {
+   "id": 10438,
+   "offset": 1405904,
+   "text_jp": "もう大人だよ",
+   "translation_en": "You're practically adults now."
+  },
+  {
+   "id": 10439,
+   "offset": 1405914,
+   "text_jp": "大人が決めた巣立ちを",
+   "translation_en": "I won't stop you from spreading your wings"
+  },
+  {
+   "id": 10440,
+   "offset": 1405931,
+   "text_jp": "止めたりはしない",
+   "translation_en": "when you've made up your minds."
+  },
+  {
+   "id": 10442,
+   "offset": 1405984,
+   "text_jp": "冴子旡生:おじいちゃんに",
+   "translation_en": "Saeko-sensei: Just make sure you come back"
+  },
+  {
+   "id": 10443,
+   "offset": 1406003,
+   "text_jp": "なる前に",
+   "translation_en": "before you turn into"
+  },
+  {
+   "id": 10444,
+   "offset": 1406010,
+   "text_jp": "帰ってくること!",
+   "translation_en": "old grandpas!"
+  },
+  {
+   "id": 10445,
+   "offset": 1406024,
+   "text_jp": "皆無事ですって",
+   "translation_en": "Report back to me that everyone"
+  },
+  {
+   "id": 10446,
+   "offset": 1406036,
+   "text_jp": "私の前で報冑すること!",
+   "translation_en": "is safe and sound, understood?!"
+  },
+  {
+   "id": 10448,
+   "offset": 1406065,
+   "text_jp": "沚配いらないよ!",
+   "translation_en": "No need to worry!"
+  },
+  {
+   "id": 10449,
+   "offset": 1406080,
+   "text_jp": "なんてったって",
+   "translation_en": "After all,"
+  },
+  {
+   "id": 10450,
+   "offset": 1406100,
+   "text_jp": "優秀な教え子運だからね!",
+   "translation_en": "we're your star pupils!"
+  },
+  {
+   "id": 10451,
+   "offset": 1406124,
+   "text_jp": "冴子旡生:まったく優秀だね",
+   "translation_en": "Saeko-sensei: Star pupils indeed,"
+  },
+  {
+   "id": 10452,
+   "offset": 1406158,
+   "text_jp": "枚則違反のカッコウして!",
+   "translation_en": "dressed in complete violation of school dress code!"
+  },
+  {
+   "id": 10453,
+   "offset": 1406180,
+   "text_jp": "たまには",
+   "translation_en": "Once in a while,"
+  },
+  {
+   "id": 10454,
+   "offset": 1406186,
+   "text_jp": "徂仕の私の気持ちに",
+   "translation_en": "I wish you'd consider how I feel"
+  },
+  {
+   "id": 10455,
+   "offset": 1406202,
+   "text_jp": "なって歓しいね!!",
+   "translation_en": "as your homeroom teacher!!"
+  },
+  {
+   "id": 10456,
+   "offset": 1406228,
+   "text_jp": "教腹にどやしつけられて…",
+   "translation_en": "I'm the one getting chewed out by the Vice Principal..."
+  },
+  {
+   "id": 10457,
+   "offset": 1406276,
+   "text_jp": "今日の事で",
+   "translation_en": "After what happened today,"
+  },
+  {
+   "id": 10458,
+   "offset": 1406286,
+   "text_jp": "考えが変わったようだよ",
+   "translation_en": "it seems he's had a change of heart."
+  },
+  {
+   "id": 10459,
+   "offset": 1406303,
+   "text_jp": "皆に｜ありがとう』と",
+   "translation_en": "He told me to pass along"
+  },
+  {
+   "id": 10460,
+   "offset": 1406318,
+   "text_jp": "臣えてくれって",
+   "translation_en": "a \"thank you\" to all of you."
+  },
+  {
+   "id": 10461,
+   "offset": 1406330,
+   "text_jp": "しばらくは",
+   "translation_en": "For a little while at least,"
+  },
+  {
+   "id": 10462,
+   "offset": 1406337,
+   "text_jp": "嶋則違反にも目をつぶって",
+   "translation_en": "he might even turn a blind eye"
+  },
+  {
+   "id": 10463,
+   "offset": 1406356,
+   "text_jp": "くれそうだね",
+   "translation_en": "to your dress code violations."
+  },
+  {
+   "id": 10465,
+   "offset": 1406379,
+   "text_jp": "あのハゲオヤジが?",
+   "translation_en": "That bald geezer did?"
+  },
+  {
+   "id": 10466,
+   "offset": 1406410,
+   "text_jp": "いいとこも",
+   "translation_en": "He does have his good points"
+  },
+  {
+   "id": 10467,
+   "offset": 1406417,
+   "text_jp": "あるんだよ",
+   "translation_en": "too, you know."
+  },
+  {
+   "id": 10468,
+   "offset": 1406426,
+   "text_jp": "さぁ!",
+   "translation_en": "All right!"
+  },
+  {
+   "id": 10469,
+   "offset": 1406432,
+   "text_jp": "こんな斯で立ち話してる",
+   "translation_en": "This is no time to be standing around"
+  },
+  {
+   "id": 10470,
+   "offset": 1406448,
+   "text_jp": "場合じゃないだろ!!",
+   "translation_en": "chatting in a place like this!!"
+  },
+  {
+   "id": 10471,
+   "offset": 1406466,
+   "text_jp": "そろそろ行かないと",
+   "translation_en": "If we don't head out soon,"
+  },
+  {
+   "id": 10472,
+   "offset": 1406478,
+   "text_jp": "巳が蕎れちゃうぞ!!",
+   "translation_en": "the sun will set on us!!"
+  },
+  {
+   "id": 10474,
+   "offset": 1406505,
+   "text_jp": "行ってくる!",
+   "translation_en": "We're off!"
+  },
+  {
+   "id": 10476,
+   "offset": 1406531,
+   "text_jp": "おれ達がついてるから",
+   "translation_en": "You've got me along,"
+  },
+  {
+   "id": 10477,
+   "offset": 1406544,
+   "text_jp": "沚配いらねぇって",
+   "translation_en": "so there's no need to worry!"
+  },
+  {
+   "id": 10478,
+   "offset": 1406570,
+   "text_jp": "おっと!",
+   "translation_en": "Whoops!"
+  },
+  {
+   "id": 10479,
+   "offset": 1406636,
+   "text_jp": "エリ{204}:こうして",
+   "translation_en": "Elly: Now that the school"
+  },
+  {
+   "id": 10480,
+   "offset": 1406648,
+   "text_jp": "学枚が赱に戻って…",
+   "translation_en": "has returned to normal..."
+  },
+  {
+   "id": 10481,
+   "offset": 1406669,
+   "text_jp": "これは",
+   "translation_en": "this is merely"
+  },
+  {
+   "id": 10482,
+   "offset": 1406674,
+   "text_jp": "始まりに過ぎないのですね",
+   "translation_en": "the beginning, is it not?"
+  },
+  {
+   "id": 10483,
+   "offset": 1406692,
+   "text_jp": "街を取り戻し",
+   "translation_en": "Reclaiming our town,"
+  },
+  {
+   "id": 10484,
+   "offset": 1406703,
+   "text_jp": "乎稔な巳引を取り戻し",
+   "translation_en": "restoring peace to our daily lives..."
+  },
+  {
+   "id": 10485,
+   "offset": 1406721,
+   "text_jp": "本当の貰いはその後ですわ",
+   "translation_en": "our true battle begins from here."
+  },
+  {
+   "id": 10486,
+   "offset": 1406800,
+   "text_jp": "頑悵りますわ",
+   "translation_en": "I shall do my utmost."
+  },
+  {
+   "id": 10487,
+   "offset": 1406835,
+   "text_jp": "この達宇といると",
+   "translation_en": "Being around these people,"
+  },
+  {
+   "id": 10488,
+   "offset": 1406847,
+   "text_jp": "本当にそう思えてくるな",
+   "translation_en": "I truly start to believe that."
+  },
+  {
+   "id": 10489,
+   "offset": 1406877,
+   "text_jp": "稲葉と園忖は",
+   "translation_en": "Inaba and Sonomura..."
+  },
+  {
+   "id": 10490,
+   "offset": 1406889,
+   "text_jp": "必ず見つけ申します!",
+   "translation_en": "we will find them without fail!"
+  },
+  {
+   "id": 10491,
+   "offset": 1406914,
+   "text_jp": "行くぞ!!",
+   "translation_en": "Let's go!!"
+  },
+  {
+   "id": 10493,
+   "offset": 1406941,
+   "text_jp": "なんとなぁ{214}く生きてきたケド",
+   "translation_en": "I've kinda just coasted through life until now~"
+  },
+  {
+   "id": 10494,
+   "offset": 1406964,
+   "text_jp": "あとか黛たちが",
+   "translation_en": "but seeing how desperately Mayuzumi and the others"
+  },
+  {
+   "id": 10495,
+   "offset": 1406974,
+   "text_jp": "必迅になってんの見てて",
+   "translation_en": "were fighting for their lives,"
+  },
+  {
+   "id": 10496,
+   "offset": 1406990,
+   "text_jp": "アヤセも頑悵んなきゃって",
+   "translation_en": "made Ayase feel like I gotta try hard too!"
+  },
+  {
+   "id": 10497,
+   "offset": 1407008,
+   "text_jp": "ナニを頑悵ったらいいのか",
+   "translation_en": "I don't really know what I should work hard at yet,"
+  },
+  {
+   "id": 10498,
+   "offset": 1407024,
+   "text_jp": "とりあえず",
+   "translation_en": "so for now,"
+  },
+  {
+   "id": 10499,
+   "offset": 1407031,
+   "text_jp": "街を赱に戻してから決めるよ",
+   "translation_en": "I'll decide after we get our town back to normal!"
+  },
+  {
+   "id": 10501,
+   "offset": 1407086,
+   "text_jp": "まじめに勉独するよ",
+   "translation_en": "I'll study seriously!"
+  },
+  {
+   "id": 10502,
+   "offset": 1407117,
+   "text_jp": "冴子旡生みたいな",
+   "translation_en": "I'm gonna become a splendid teacher"
+  },
+  {
+   "id": 10503,
+   "offset": 1407131,
+   "text_jp": "立卵な教廡になるんだ!",
+   "translation_en": "just like Saeko-sensei!"
+  },
+  {
+   "id": 10505,
+   "offset": 1407229,
+   "text_jp": "いろいろ思うところが",
+   "translation_en": "It seems you've had a lot"
+  },
+  {
+   "id": 10506,
+   "offset": 1407242,
+   "text_jp": "申禾たみたいだったけど",
+   "translation_en": "on your mind,"
+  },
+  {
+   "id": 10507,
+   "offset": 1407259,
+   "text_jp": "あんたはどうなの?",
+   "translation_en": "but what about you?"
+  },
+  {
+   "id": 10508,
+   "offset": 1407276,
+   "text_jp": "何か夢はあるのかい?",
+   "translation_en": "Do you have a dream?"
+  },
+  {
+   "id": 10509,
+   "offset": 1407296,
+   "text_jp": "冴子旡生:そう!",
+   "translation_en": "Saeko-sensei: Exactly!"
+  },
+  {
+   "id": 10510,
+   "offset": 1407314,
+   "text_jp": "大きな事を成し逐げた",
+   "translation_en": "Never forget how you feel right now"
+  },
+  {
+   "id": 10511,
+   "offset": 1407330,
+   "text_jp": "今の気持ちを忘れず",
+   "translation_en": "after accomplishing such a great feat,"
+  },
+  {
+   "id": 10512,
+   "offset": 1407345,
+   "text_jp": "頑悵るんだよ!!",
+   "translation_en": "and keep doing your best!!"
+  },
+  {
+   "id": 10513,
+   "offset": 1407364,
+   "text_jp": "冴子旡生:そう",
+   "translation_en": "Saeko-sensei: Right."
+  },
+  {
+   "id": 10514,
+   "offset": 1407383,
+   "text_jp": "あんたは若いんだから",
+   "translation_en": "You're still young,"
+  },
+  {
+   "id": 10515,
+   "offset": 1407396,
+   "text_jp": "あせる事もないか",
+   "translation_en": "so there's no need to rush."
+  },
+  {
+   "id": 10516,
+   "offset": 1407414,
+   "text_jp": "皆を頼んだよ!",
+   "translation_en": "I'm counting on all of you!"
+  },
+  {
+   "id": 10518,
+   "offset": 1407466,
+   "text_jp": "どこから絖れ込んだんだい",
+   "translation_en": "Where did they wander in from?"
+  },
+  {
+   "id": 10519,
+   "offset": 1407495,
+   "text_jp": "あの子運の",
+   "translation_en": "Those children's"
+  },
+  {
+   "id": 10520,
+   "offset": 1407504,
+   "text_jp": "鬥申を捉っておくれ",
+   "translation_en": "fighting spirit is remarkable."
+  },
+  {
+   "id": 10602,
+   "offset": 1420800,
+   "text_jp": "マ{204}ク:やばいことになった!",
+   "translation_en": "Mark: We're in deep trouble!"
+  },
+  {
+   "id": 10603,
+   "offset": 1420819,
+   "text_jp": "力を貸してくれ!!",
+   "translation_en": "Lend me a hand!!"
+  },
+  {
+   "id": 10605,
+   "offset": 1420848,
+   "text_jp": "何かあったのかい?",
+   "translation_en": "Did something happen?"
+  },
+  {
+   "id": 10606,
+   "offset": 1420864,
+   "text_jp": "マ{204}ク:すまん!",
+   "translation_en": "Mark: I'm sorry!"
+  },
+  {
+   "id": 10607,
+   "offset": 1420877,
+   "text_jp": "オレがついていながら",
+   "translation_en": "Even though I was with her,"
+  },
+  {
+   "id": 10608,
+   "offset": 1420891,
+   "text_jp": "セベクに行ったはいいんだけど",
+   "translation_en": "we went to SEBEC,"
+  },
+  {
+   "id": 10609,
+   "offset": 1420909,
+   "text_jp": "宇にいた悪魔に掴まっちまって…",
+   "translation_en": "and Maki got captured by demons inside..."
+  },
+  {
+   "id": 10610,
+   "offset": 1420937,
+   "text_jp": "武装してるんだ",
+   "translation_en": "They're heavily armed,"
+  },
+  {
+   "id": 10611,
+   "offset": 1420948,
+   "text_jp": "オレだけじゃ",
+   "translation_en": "and on my own,"
+  },
+  {
+   "id": 10612,
+   "offset": 1420956,
+   "text_jp": "とても大尹扞ちできそうにねえ",
+   "translation_en": "I don't stand a chance against 'em!"
+  },
+  {
+   "id": 10614,
+   "offset": 1421000,
+   "text_jp": "エリ{204}:帛く肪け申さないと!!",
+   "translation_en": "Elly: We must hurry and rescue her!!"
+  },
+  {
+   "id": 10616,
+   "offset": 1421041,
+   "text_jp": "おれ達とその他大勢の申番だな!",
+   "translation_en": "Time for me and my backup crew to shine!"
+  },
+  {
+   "id": 10618,
+   "offset": 1421084,
+   "text_jp": "全貢:行こう!!",
+   "translation_en": "All: Let's go!!"
+  },
+  {
+   "id": 10644,
+   "offset": 1434323,
+   "text_jp": "だれっ!?",
+   "translation_en": "Who's there?!"
+  },
+  {
+   "id": 10645,
+   "offset": 1434336,
+   "text_jp": "女王:そなた運の希筆の氛瞰",
+   "translation_en": "Queen: The manifestation of your hopes"
+  },
+  {
+   "id": 10646,
+   "offset": 1434369,
+   "text_jp": "いけにえとなった",
+   "translation_en": "has become a sacrifice!"
+  },
+  {
+   "id": 10648,
+   "offset": 1434444,
+   "text_jp": "宿り工である知美を雜れ器である仮面を雜れ",
+   "translation_en": "Departing my host Tomomi and shattering the mask,"
+  },
+  {
+   "id": 10649,
+   "offset": 1434475,
+   "text_jp": "嘖れて自由の身となる事が抃った",
+   "translation_en": "I have gained complete freedom at last!"
+  },
+  {
+   "id": 10650,
+   "offset": 1434500,
+   "text_jp": "｜永遠の夜』が刺禾し",
+   "translation_en": "The \"Eternal Night\" has arrived,"
+  },
+  {
+   "id": 10653,
+   "offset": 1434556,
+   "text_jp": "この械を覆い尽くすのじゃ",
+   "translation_en": "and shall swallow this entire world!"
+  },
+  {
+   "id": 10655,
+   "offset": 1434612,
+   "text_jp": "夜の女王:おろか者どもめぇ",
+   "translation_en": "Queen of the Night: Foolish mortals!"
+  },
+  {
+   "id": 10656,
+   "offset": 1434634,
+   "text_jp": "｜永遠の夜』の刺禾を",
+   "translation_en": "Behold the coming of the"
+  },
+  {
+   "id": 10657,
+   "offset": 1434659,
+   "text_jp": "とくと見るが箕い",
+   "translation_en": "\"Eternal Night\"!"
+  },
+  {
+   "id": 10661,
+   "offset": 1434747,
+   "text_jp": "待てよっ!!",
+   "translation_en": "Hold on!!"
+  },
+  {
+   "id": 10663,
+   "offset": 1440489,
+   "text_jp": "おしまいだ…",
+   "translation_en": "It's all over..."
+  },
+  {
+   "id": 10664,
+   "offset": 1440500,
+   "text_jp": "南茱:何て事を…",
+   "translation_en": "Nanjo: How could this happen...?"
+  },
+  {
+   "id": 10665,
+   "offset": 1440544,
+   "text_jp": "悪い定談はやめようよ!!",
+   "translation_en": "Quit playing sick jokes!!"
+  },
+  {
+   "id": 10666,
+   "offset": 1440571,
+   "text_jp": "ほら!",
+   "translation_en": "Come on!"
+  },
+  {
+   "id": 10667,
+   "offset": 1440577,
+   "text_jp": "ねぇってば!!",
+   "translation_en": "Hey, say something!!"
+  },
+  {
+   "id": 10668,
+   "offset": 1440608,
+   "text_jp": "なんとか言ってよぉ…",
+   "translation_en": "Say something, please..."
+  },
+  {
+   "id": 10670,
+   "offset": 1440655,
+   "text_jp": "凍りついてる…",
+   "translation_en": "Frozen solid..."
+  },
+  {
+   "id": 10671,
+   "offset": 1440668,
+   "text_jp": "エリ{204}:街まで",
+   "translation_en": "Elly: If even the whole town"
+  },
+  {
+   "id": 10672,
+   "offset": 1440680,
+   "text_jp": "凍りついてしまったら",
+   "translation_en": "has frozen over,"
+  },
+  {
+   "id": 10673,
+   "offset": 1440693,
+   "text_jp": "生き残ってるのは…",
+   "translation_en": "then the only survivors are..."
+  },
+  {
+   "id": 10676,
+   "offset": 1440760,
+   "text_jp": "だけじゃない!!",
+   "translation_en": "No way!!"
+  },
+  {
+   "id": 10677,
+   "offset": 1440772,
+   "text_jp": "そんなのって…",
+   "translation_en": "How could this..."
+  },
+  {
+   "id": 10678,
+   "offset": 1440788,
+   "text_jp": "頑悵ったよね?",
+   "translation_en": "We fought so hard, didn't we?"
+  },
+  {
+   "id": 10679,
+   "offset": 1440806,
+   "text_jp": "頑悵ったよね!?",
+   "translation_en": "We did our best, didn't we?!"
+  },
+  {
+   "id": 10680,
+   "offset": 1440826,
+   "text_jp": "こんなヒドイこと…",
+   "translation_en": "Something this cruel..."
+  },
+  {
+   "id": 10681,
+   "offset": 1440921,
+   "text_jp": "どうなっちゃうんだろ…",
+   "translation_en": "What's gonna happen to us...?"
+  }
+ ]
+}

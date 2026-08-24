@@ -1,0 +1,2086 @@
+{
+ "file": "TALK/QSIRUBA",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 22,
+   "raw_hex": "62797f62797f80d1fff680b62d00830f0c0219191980",
+   "text_jp": "チリンチリン!<PAGE>Qを 歓しいののの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 1,
+   "offset": 8234,
+   "length_bytes": 46,
+   "raw_hex": "d0fff6527f527f6100062c0202020280d1fff55880cc80cc80cc80cc80cc80d1fff68335816515024d1315024d13",
+   "text_jp": "?<PAGE>アンアンタ かわいいいい!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>興味ないってないって",
+   "notes": "",
+   "translation_en": "?<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 2,
+   "offset": 8281,
+   "length_bytes": 47,
+   "raw_hex": "fff680b61a000f030f0382674d13291980d1fff56c6c6c809b80d680d1fff680b62f82d282d34d130a143c0c5080d1",
+   "text_jp": "<PAGE>Qは そうそう言ってるの!<LINE>ヒヒヒィ{214}!<PAGE>Qが必要ってことでしょ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 3,
+   "offset": 8327,
+   "length_bytes": 39,
+   "raw_hex": "fff606152882188237020202022c1880d1fff562797f62797f80d1fff680b61a000a2c08150219",
+   "text_jp": "<PAGE>かなり気分いいいいわね!<LINE>チリンチリン!<PAGE>Qは こわくないの",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 4,
+   "offset": 8366,
+   "length_bytes": 34,
+   "raw_hex": "26fff6527f527f61000202028124392319fff55880cc80cc80cc80cc80cc80d1fff6",
+   "text_jp": "よ<PAGE>アンアンタ いいい人だもの<LINE>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 5,
+   "offset": 8400,
+   "length_bytes": 32,
+   "raw_hex": "80b6165a5a5a7f570081af2912232880d1fff580907980a180d7fffcfff65880",
+   "text_jp": "Qにケケケンカ 売るつもり!<LINE>バリッ…<CLOSE><PAGE>キ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 6,
+   "offset": 8432,
+   "length_bytes": 29,
+   "raw_hex": "a380d780b62f82d70c104d1302031980d0fff562797f62797f80d1fffc",
+   "text_jp": "ュ…Qが何したっていうの?<LINE>チリンチリン!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 7,
+   "offset": 8461,
+   "length_bytes": 45,
+   "raw_hex": "fff60f0f0f198218161529354e150280d1fff55880cc80cc80cc80cc80cc80d1fff680b61a0f2e15160005832f",
+   "text_jp": "<PAGE>そそその気になるじゃない!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qはそんなに お手",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 8,
+   "offset": 8506,
+   "length_bytes": 41,
+   "raw_hex": "845215fff6fff0354e1502192680d180d1fff580907980a180d7fffcfff6527f527f6180d780b62d3d",
+   "text_jp": "輊な<PAGE>[f0]じゃないのよ!!<LINE>バリッ…<CLOSE><PAGE>アンアンタ…Qをど",
+   "notes": "",
+   "translation_en": "...<PAGE>[f0]...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 9,
+   "offset": 8547,
+   "length_bytes": 44,
+   "raw_hex": "0a0616fff681af291223283c0c500380d7fff55880cc80cc80cc80cc80cc80d1fff6527f527f6100822b832f",
+   "text_jp": "こかに<PAGE>売るつもりでしょう…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ 下手",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 10,
+   "offset": 8591,
+   "length_bytes": 44,
+   "raw_hex": "0d3080d1fff6391f4d13115003390280d1fff5527f527f61238395811d1880d7fffcfff63c23000a0a1a80d7",
+   "text_jp": "すぎ!<PAGE>だまってちょうだい!<LINE>アンアンタも騒菫ね…<CLOSE><PAGE>でも ここは…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 11,
+   "offset": 8635,
+   "length_bytes": 43,
+   "raw_hex": "fff65880a380d780b619152c3e282680d7fff56c6c6c809b80d680d1fff6527f527f61238395811d1880d1",
+   "text_jp": "<PAGE>キュ…Qのなわばりよ…<LINE>ヒヒヒィ{214}!<PAGE>アンアンタも騒菫ね!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 12,
+   "offset": 8679,
+   "length_bytes": 42,
+   "raw_hex": "fff6819c8125032a0c022c4880d680d180d1fff562797f62797f80d1fff680b62d00830f0c0219191980",
+   "text_jp": "<PAGE>仲間うれしいわぁ{214}!!<LINE>チリンチリン!<PAGE>Qを 歓しいののの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 13,
+   "offset": 8720,
+   "length_bytes": 46,
+   "raw_hex": "d0fff6527f527f6100062c0202020280d1fff55880cc80cc80cc80cc80cc80d1fff68335816515024d1315024d13",
+   "text_jp": "?<PAGE>アンアンタ かわいいいい!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>興味ないってないって",
+   "notes": "",
+   "translation_en": "?<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 14,
+   "offset": 8767,
+   "length_bytes": 47,
+   "raw_hex": "fff680b61a000f030f0382674d13291980d1fff56c6c6c809b80d680d1fff680b62f82d282d34d130a143c0c5080d1",
+   "text_jp": "<PAGE>Qは そうそう言ってるの!<LINE>ヒヒヒィ{214}!<PAGE>Qが必要ってことでしょ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 15,
+   "offset": 8813,
+   "length_bytes": 50,
+   "raw_hex": "fff606152882188237020202022c1880d1fff55880cc80cc80cc80cc80cc80d1fffcfff680b61a000f2e1582390282678351",
+   "text_jp": "<PAGE>かなり気分いいいいわね!<LINE>キ{204}{204}{204}{204}{204}!<CLOSE><PAGE>Qは そんな甘い言葉",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 16,
+   "offset": 8863,
+   "length_bytes": 43,
+   "raw_hex": "161afff61b4d0606271502192680d180d1fff580907980a180d7fffcfff6527f527f6100230c060c13fff6",
+   "text_jp": "には<PAGE>ひっかからないのよ!!<LINE>バリッ…<CLOSE><PAGE>アンアンタ もしかして<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 17,
+   "offset": 8906,
+   "length_bytes": 40,
+   "raw_hex": "1580d782d7061008272e3c293c0c5080d7fff56c6c6c809b80d680d1fff6527f527f610082fc0c02",
+   "text_jp": "な…何かたくらんでるでしょ…<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ 娼しい",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 18,
+   "offset": 8946,
+   "length_bytes": 39,
+   "raw_hex": "0a14fff682674d13082a29354e150280d1fff562797f62797f80d1fff6527f527f6100817d150a",
+   "text_jp": "こと<PAGE>言ってくれるじゃない!<LINE>チリンチリン!<PAGE>アンアンタ 変なこ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 19,
+   "offset": 8985,
+   "length_bytes": 30,
+   "raw_hex": "14fff68267031900817d158124812580d1fff55880cc80cc80cc80cc80cc",
+   "text_jp": "と<PAGE>言うの 変な人間!<LINE>キ{204}{204}{204}{204}{204}",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 20,
+   "offset": 9015,
+   "length_bytes": 44,
+   "raw_hex": "80d1fff6030f1a535a535a1502192680d1fff56c6c6c809b80d680d1fff6527f527f6100841a84600281aa0d",
+   "text_jp": "!<PAGE>うそはイケイケないのよ!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ 面曰い話す",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 21,
+   "offset": 9059,
+   "length_bytes": 39,
+   "raw_hex": "29191880d10202020282ed350d292c80d1fff562797f62797f80d1fff6527f527f610083c40219",
+   "text_jp": "るのね!いいいい感じするわ!<LINE>チリンチリン!<PAGE>アンアンタ 弱いの",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 22,
+   "offset": 9098,
+   "length_bytes": 27,
+   "raw_hex": "060c2780d0fff683c40219060c270180d0fff55880cc80cc80cc80",
+   "text_jp": "かしら?<PAGE>弱いのかしらあ?<LINE>キ{204}{204}{204}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 23,
+   "offset": 9125,
+   "length_bytes": 39,
+   "raw_hex": "cc80cc80d1fff6050505391f2880d180d1fff56c6c6c809b80d680d1fff6527f527f610080b619",
+   "text_jp": "{204}{204}!<PAGE>おおおだまり!!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ Qの",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 24,
+   "offset": 9164,
+   "length_bytes": 43,
+   "raw_hex": "853b0bfff681bc4d132919184b80d680d1fff562797f62797f80d1fff6527f527f6100062c02022c18fff6",
+   "text_jp": "怖さ<PAGE>知ってるのねぇ{214}!<LINE>チリンチリン!<PAGE>アンアンタ かわいいわね<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 25,
+   "offset": 9207,
+   "length_bytes": 41,
+   "raw_hex": "80b619008157832f1615290623232380d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f61152e",
+   "text_jp": "Qの 梠手になるかももも!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタなん",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 26,
+   "offset": 9248,
+   "length_bytes": 9,
+   "raw_hex": "06fff68157832f1600",
+   "text_jp": "か<PAGE>梠手に ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 27,
+   "offset": 9257,
+   "length_bytes": 47,
+   "raw_hex": "15271502192680d1fff580907980a180d7fff56c6c6c809b80d680d1fff680b61981768143000b082a120c132980d0",
+   "text_jp": "ならないのよ!<LINE>バリッ…<LINE>ヒヒヒィ{214}!<PAGE>Qの魅力 さくれつしてる?",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 28,
+   "offset": 9304,
+   "length_bytes": 45,
+   "raw_hex": "fff66c6c6c809b80d680d100818d292c18fff562797f62797f80d1fff6841a846002354e150202020280d1fff6",
+   "text_jp": "<PAGE>ヒヒヒィ{214}! 参るわね<LINE>チリンチリン!<PAGE>面曰いじゃないいいい!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 29,
+   "offset": 9349,
+   "length_bytes": 53,
+   "raw_hex": "80b62f006d809a7f16154d1301322980d1fff55880cc80cc80cc80cc80cc80d1fff680b6198280201a00538082795e814819fff680",
+   "text_jp": "Qが ファンになってあげる!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qの好みは イギリス采の<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 30,
+   "offset": 9402,
+   "length_bytes": 24,
+   "raw_hex": "927880a1597680cc745215192680d180d1fff580907980a1",
+   "text_jp": "ブラックユ{204}モアなのよ!!<LINE>バリッ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 31,
+   "offset": 9426,
+   "length_bytes": 36,
+   "raw_hex": "80d7fff682df05060c05060c022c1880d7fff56c6c6c809b80d680d1fff66c6c6c6c809b",
+   "text_jp": "…<PAGE>腹おかしおかしいわね…<LINE>ヒヒヒィ{214}!<PAGE>ヒヒヒヒィ",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 32,
+   "offset": 9462,
+   "length_bytes": 31,
+   "raw_hex": "80d680d1fff66c6c6c6c6c809b80d680d1fff562797f62797f80d1fff680b6",
+   "text_jp": "{214}!<PAGE>ヒヒヒヒヒィ{214}!<LINE>チリンチリン!<PAGE>Q",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>Q"
+  },
+  {
+   "id": 33,
+   "offset": 9493,
+   "length_bytes": 32,
+   "raw_hex": "1981aa2382d8021323270503060c2780d1fff55880cc80cc80cc80cc80cc80d1",
+   "text_jp": "の話も聞いてもらおうかしら!<LINE>キ{204}{204}{204}{204}{204}!",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 34,
+   "offset": 9525,
+   "length_bytes": 28,
+   "raw_hex": "fff6121f2e150281aa0c15023c3c3c80d1fff56c6c6c809b80d680d1",
+   "text_jp": "<PAGE>つまんない話しないででで!<LINE>ヒヒヒィ{214}!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 35,
+   "offset": 9553,
+   "length_bytes": 37,
+   "raw_hex": "fff6102c02150281aa23000202020280d1fff562797f62797f80d1fff6527f527f61002429",
+   "text_jp": "<PAGE>たわいない話も いいいい!<LINE>チリンチリン!<PAGE>アンアンタ やる",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 36,
+   "offset": 9590,
+   "length_bytes": 36,
+   "raw_hex": "354e1502fff61b1b1b4d06064d102c80d1fff55880cc80cc80cc80cc80cc80d1fff68092",
+   "text_jp": "じゃない<PAGE>ひひひっかかったわ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>ブ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 37,
+   "offset": 9626,
+   "length_bytes": 25,
+   "raw_hex": "78547f6e80a1808f19823785f43c4b80d1fff580907980a180",
+   "text_jp": "ラウンヘッドの分鵙でぇ!<LINE>バリッ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 38,
+   "offset": 9651,
+   "length_bytes": 38,
+   "raw_hex": "d7fffcfff6152e152e1519000a021280d7fff562797f62797f80d1fff6527f527f6100020282",
+   "text_jp": "…<CLOSE><PAGE>なんなんなの こいつ…<LINE>チリンチリン!<PAGE>アンアンタ いい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 39,
+   "offset": 9689,
+   "length_bytes": 34,
+   "raw_hex": "102f09fff60c1329354e150202020280d1fff55880cc80cc80cc80cc80cc80d1fff6",
+   "text_jp": "たがけ<PAGE>してるじゃないいいい!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 40,
+   "offset": 9723,
+   "length_bytes": 42,
+   "raw_hex": "80b61a000f2e151982d32715022c2680d1fff56c6c6c809b80d680d1fff62327042981871a00152e3c23",
+   "text_jp": "Qは そんなの要らないわよ!<LINE>ヒヒヒィ{214}!<PAGE>もらえる物は なんでも",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 41,
+   "offset": 9765,
+   "length_bytes": 42,
+   "raw_hex": "fff680b61a002327042919264c80d680d1fff562797f62797f80d1fff6527f527f614d130082de83bc83",
+   "text_jp": "<PAGE>Qは もらえるのよぉ{214}!<LINE>チリンチリン!<PAGE>アンアンタって 自信",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 42,
+   "offset": 9807,
+   "length_bytes": 51,
+   "raw_hex": "343c0c5080d1813d0815022c18181880d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f6180d10080b61621064d13fff6",
+   "text_jp": "ざでしょ!悪くないわねねね!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ! Qにむかって<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 43,
+   "offset": 9858,
+   "length_bytes": 27,
+   "raw_hex": "808e575382ca10100819002422151580d1fff56c6c6c809b80d680",
+   "text_jp": "デカイ日たたくの やめなな!<LINE>ヒヒヒィ{214}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 44,
+   "offset": 9885,
+   "length_bytes": 30,
+   "raw_hex": "d1fff6527f527f611982670381ba2880d1fff580b61a000a2c0815021926",
+   "text_jp": "!<PAGE>アンアンタの言う僵り!<LINE>Qは こわくないのよ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 45,
+   "offset": 9916,
+   "length_bytes": 49,
+   "raw_hex": "fff6527f527f610002020281243c0c5080d1fff55880cc80cc80cc80cc80cc80d1fff680947f80947f2f80b616005a5a5a",
+   "text_jp": "<PAGE>アンアンタ いいい人でしょ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>ボンボンがQに ケケケ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 46,
+   "offset": 9964,
+   "length_bytes": 28,
+   "raw_hex": "7f57fff681af294d130203194c80d180d1fff580907980a180d7fffc",
+   "text_jp": "ンカ<PAGE>売るっていうのぉ!!<LINE>バリッ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 47,
+   "offset": 9992,
+   "length_bytes": 39,
+   "raw_hex": "fff6527f527f61000a0a853b02191880d7fff562797f62797f80d1fff6527f527f610080b6190a",
+   "text_jp": "<PAGE>アンアンタ ここ怖いのね…<LINE>チリンチリン!<PAGE>アンアンタ Qのこ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 48,
+   "offset": 10031,
+   "length_bytes": 51,
+   "raw_hex": "14fff62608002c064d1329354e150280d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f611982dc041a0080b61afff681",
+   "text_jp": "と<PAGE>よく わかってるじゃない!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタの考えは Qは<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 49,
+   "offset": 10082,
+   "length_bytes": 28,
+   "raw_hex": "4d81f80005821b81ba0c151926262680d1fff56c6c6c809b80d680d1",
+   "text_jp": "っ部 お見僵しなのよよよ!<LINE>ヒヒヒィ{214}!",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 50,
+   "offset": 10111,
+   "length_bytes": 33,
+   "raw_hex": "fff680b61a000f1981ba2815192680d180d1fff562797f62797f80d1fff6808b7f",
+   "text_jp": "<PAGE>Qは その僵りなのよ!!<LINE>チリンチリン!<PAGE>ダン",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 51,
+   "offset": 10143,
+   "length_bytes": 51,
+   "raw_hex": "5e80d100808b7f5e80d100808b7f5e80d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f610084ab816015022c2c2c80d1",
+   "text_jp": "ス! ダンス! ダンス!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ 才龍ないわわわ!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 52,
+   "offset": 10194,
+   "length_bytes": 41,
+   "raw_hex": "fff60d3308821b82220c02192680d180d1fff56c6c6c809b80d680d1fff60202020282ed35354e1502",
+   "text_jp": "<PAGE>すごく見苦しいのよ!!<LINE>ヒヒヒィ{214}!<PAGE>いいいい感じじゃない",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 53,
+   "offset": 10235,
+   "length_bytes": 39,
+   "raw_hex": "80d180d1fff66c6c6c809b80d680d180d1fff562797f62797f80d1fff680b61a000a2c08150219",
+   "text_jp": "!!<PAGE>ヒヒヒィ{214}!!<LINE>チリンチリン!<PAGE>Qは こわくないの",
+   "notes": "",
+   "translation_en": "!!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 54,
+   "offset": 10274,
+   "length_bytes": 34,
+   "raw_hex": "26fff6527f527f610002020281243c0c50fff55880cc80cc80cc80cc80cc80d1fff6",
+   "text_jp": "よ<PAGE>アンアンタ いいい人でしょ<LINE>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 55,
+   "offset": 10308,
+   "length_bytes": 32,
+   "raw_hex": "80b6165a5a5a7f570081af2912232880d1fff580907980a180d7fffcfff65880",
+   "text_jp": "Qにケケケンカ 売るつもり!<LINE>バリッ…<CLOSE><PAGE>キ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 56,
+   "offset": 10340,
+   "length_bytes": 40,
+   "raw_hex": "a380d780b62f82d70c104d1302031980d0fff562797f62797f80d1fff680b6160083358165012919",
+   "text_jp": "ュ…Qが何したっていうの?<LINE>チリンチリン!<PAGE>Qに 興味あるの",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 57,
+   "offset": 10380,
+   "length_bytes": 46,
+   "raw_hex": "191980d0fff63d030c26030615061580d7fff55880cc80cc80cc80cc80cc80d1fff61516821b1329192680d180d1",
+   "text_jp": "のの?<PAGE>どうしようかなかな…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>なに見てるのよ!!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 58,
+   "offset": 10427,
+   "length_bytes": 47,
+   "raw_hex": "fff683cc168098537f650d292c2680d180d1fff56c6c6c809b80d680d1fff6527f527f6100020282380c13292c1880",
+   "text_jp": "<PAGE>顔にペイントするわよ!!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ いい目してるわね",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 59,
+   "offset": 10473,
+   "length_bytes": 39,
+   "raw_hex": "d1144d13230081e90210081529292980d1fff562797f62797f80d1fff6527f527f6100817d150a",
+   "text_jp": "!とっても 嗅いたくなるるる!<LINE>チリンチリン!<PAGE>アンアンタ 変なこ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 60,
+   "offset": 10512,
+   "length_bytes": 30,
+   "raw_hex": "14fff68267031900817d158124812580d1fff55880cc80cc80cc80cc80cc",
+   "text_jp": "と<PAGE>言うの 変な人間!<LINE>キ{204}{204}{204}{204}{204}",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 61,
+   "offset": 10542,
+   "length_bytes": 44,
+   "raw_hex": "80d1fff6030f1a535a535a1502192680d1fff56c6c6c809b80d680d1fff6527f527f6100841a84600281aa0d",
+   "text_jp": "!<PAGE>うそはイケイケないのよ!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ 面曰い話す",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 62,
+   "offset": 10586,
+   "length_bytes": 49,
+   "raw_hex": "29191880d10202020282ed350d292c80d1fff55880cc80cc80cc80cc80cc80d1fff6814d863600853b08150202020280d1",
+   "text_jp": "るのね!いいいい感じするわ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>全然 怖くないいいい!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 63,
+   "offset": 10635,
+   "length_bytes": 21,
+   "raw_hex": "80d1fff6121f271502354e150280d180d1fff58090",
+   "text_jp": "!<PAGE>つまらないじゃない!!<LINE>バ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 64,
+   "offset": 10656,
+   "length_bytes": 40,
+   "raw_hex": "7980a180d7fffcfff6034d0f0f0f0f80d7fff56c6c6c809b80d680d1fff6527f527f611981aa4d13",
+   "text_jp": "リッ…<CLOSE><PAGE>うっそそそそ…<LINE>ヒヒヒィ{214}!<PAGE>アンアンタの話って",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 65,
+   "offset": 10697,
+   "length_bytes": 42,
+   "raw_hex": "fff68242836916014d1020100202020280d1fff562797f62797f80d1fff682d4832f02354e15021980d1",
+   "text_jp": "<PAGE>本当にあったみたいいいい!<LINE>チリンチリン!<PAGE>部手いじゃないの!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 66,
+   "offset": 10738,
+   "length_bytes": 44,
+   "raw_hex": "fff681248125160c131a0024292c1880d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f6100822b832f",
+   "text_jp": "<PAGE>人間にしては やるわね!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ 下手",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 67,
+   "offset": 10782,
+   "length_bytes": 43,
+   "raw_hex": "0d3080d1fff6391f4d13115003390280d1fff56c6c6c809b80d680d1fff6527f527f61238395811d1880d1",
+   "text_jp": "すぎ!<PAGE>だまってちょうだい!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタも騒菫ね!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 68,
+   "offset": 10826,
+   "length_bytes": 36,
+   "raw_hex": "fff6819c8125032a0c022c4880d680d180d1fff562797f62797f80d1fff6527f527f6100",
+   "text_jp": "<PAGE>仲間うれしいわぁ{214}!!<LINE>チリンチリン!<PAGE>アンアンタ ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 69,
+   "offset": 10861,
+   "length_bytes": 47,
+   "raw_hex": "80b6190a14fff6828007152e3c0c5080d1fff55880cc80cc80cc80cc80cc80d1fff680b61a00094d0a030202825626",
+   "text_jp": "Qのこと<PAGE>好きなんでしょ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qは けっこういい年よ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 70,
+   "offset": 10908,
+   "length_bytes": 27,
+   "raw_hex": "80d1fff6809057160c15023c26262680d1fff56c6c6c809b80d680",
+   "text_jp": "!<PAGE>バカにしないでよよよ!<LINE>ヒヒヒィ{214}",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 71,
+   "offset": 10935,
+   "length_bytes": 29,
+   "raw_hex": "d1fff682390413020219060c27272780d1fff562797f62797f80d1fffc",
+   "text_jp": "!<PAGE>甘えていいのかしららら!<LINE>チリンチリン!<CLOSE>",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 72,
+   "offset": 10964,
+   "length_bytes": 45,
+   "raw_hex": "fff60f0f0f198218161529354e150280d1fff55880cc80cc80cc80cc80cc80d1fff680b61a0f2e15160005832f",
+   "text_jp": "<PAGE>そそその気になるじゃない!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qはそんなに お手",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 73,
+   "offset": 11009,
+   "length_bytes": 41,
+   "raw_hex": "845215fff6fff0354e1502192680d180d1fff580907980a180d7fffcfff6527f527f6180d780b62d3d",
+   "text_jp": "輊な<PAGE>[f0]じゃないのよ!!<LINE>バリッ…<CLOSE><PAGE>アンアンタ…Qをど",
+   "notes": "",
+   "translation_en": "...<PAGE>[f0]...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 74,
+   "offset": 11050,
+   "length_bytes": 44,
+   "raw_hex": "0a0616fff681af291223283c0c500380d7fff562797f62797f80d1fff6527f527f610082ca813d022c1880d1",
+   "text_jp": "こかに<PAGE>売るつもりでしょう…<LINE>チリンチリン!<PAGE>アンアンタ 日悪いわね!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 75,
+   "offset": 11095,
+   "length_bytes": 48,
+   "raw_hex": "fff63c23838a8218816526020615151580d1fff55880cc80cc80cc80cc80cc80d1fff61b1b1b824184c609812616fff6",
+   "text_jp": "<PAGE>でも小気味よいかななな!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>ひひひ巳曉け女に<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 76,
+   "offset": 11142,
+   "length_bytes": 28,
+   "raw_hex": "82672c2a29848f82490215022c80d180d1fff580907980a180d7fffc",
+   "text_jp": "言われる筋合いないわ!!<LINE>バリッ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 77,
+   "offset": 11170,
+   "length_bytes": 45,
+   "raw_hex": "fff6152e152e151980d7527f527f6180d7fff562797f62797f80d1fff6527f527f6100062c0202093d80d7fff6",
+   "text_jp": "<PAGE>なんなんなの…アンアンタ…<LINE>チリンチリン!<PAGE>アンアンタ かわいいけど…<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 78,
+   "offset": 11215,
+   "length_bytes": 50,
+   "raw_hex": "815781581a003d03060c27272780d080d7fff55880cc80cc80cc80cc80cc80d1fff6527f527f6100151682dc0413291980d1",
+   "text_jp": "梠忤は どうかしららら?…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ なに考えてるの!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 79,
+   "offset": 11265,
+   "length_bytes": 39,
+   "raw_hex": "fff680b61a008126151926262680d180d1fff56c6c6c809b80d680d1fff682fc0c02354e150219",
+   "text_jp": "<PAGE>Qは 女なのよよよ!!<LINE>ヒヒヒィ{214}!<PAGE>娼しいじゃないの",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 80,
+   "offset": 11304,
+   "length_bytes": 33,
+   "raw_hex": "80d1fff63c230080b61a812615192680d1fff562797f62797f80d1fff68522080a",
+   "text_jp": "!<PAGE>でも Qは女なのよ!<LINE>チリンチリン!<PAGE>泣くこ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 81,
+   "offset": 11337,
+   "length_bytes": 44,
+   "raw_hex": "14150202022c26fff662797f62797f80d1fff55880cc80cc80cc80cc80cc80d1fff6030303290b022c1880d1",
+   "text_jp": "とないいいわよ<PAGE>チリンチリン!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>うううるさいわね!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 82,
+   "offset": 11381,
+   "length_bytes": 46,
+   "raw_hex": "fff680b616832483961502354e150280d1fff580907980a180d7fffcfff63d030c13008522081980d7fffcfff681",
+   "text_jp": "<PAGE>Qに関係ないじゃない!<LINE>バリッ…<CLOSE><PAGE>どうして 泣くの…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 83,
+   "offset": 11427,
+   "length_bytes": 43,
+   "raw_hex": "24812513000f2e1516865702060c2780d7fff562797f62797f80d1fff60f2e15859c0c1a000a2c08150226",
+   "text_jp": "や間て そんなに辛いかしら…<LINE>チリンチリン!<PAGE>そんな脅しは こわくないよ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 84,
+   "offset": 11471,
+   "length_bytes": 35,
+   "raw_hex": "fff6527f527f610002020281243c0c5080d1fff55880cc80cc80cc80cc80cc80d1fff6",
+   "text_jp": "<PAGE>アンアンタ いいい人でしょ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 85,
+   "offset": 11505,
+   "length_bytes": 32,
+   "raw_hex": "80b6165a5a5a7f570081af2912232880d1fff580907980a180d7fffcfff65880",
+   "text_jp": "Qにケケケンカ 売るつもり!<LINE>バリッ…<CLOSE><PAGE>キ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 86,
+   "offset": 11537,
+   "length_bytes": 52,
+   "raw_hex": "a380d780b62f82d70c104d1302031980d7fff55880cc80cc80cc80cc80cc80d1fff6527f527f610082d783941912232880d0fff6",
+   "text_jp": "ュ…Qが何したっていうの…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ 何達のつもり?<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 87,
+   "offset": 11589,
+   "length_bytes": 41,
+   "raw_hex": "80b6165a5a5a7f5781af29191880d180d1fff580907980a180d7fffcfff6527f527f61007257635980",
+   "text_jp": "Qにケケケンカ売るのね!!<LINE>バリッ…<CLOSE><PAGE>アンアンタ ムカツク",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 88,
+   "offset": 11630,
+   "length_bytes": 40,
+   "raw_hex": "d780d7fff6093d00853b020202020280d7fff56c6c6c809b80d680d1fff680b6160f2e150a148267",
+   "text_jp": "……<PAGE>けど 怖いいいいい…<LINE>ヒヒヒィ{214}!<PAGE>Qにそんなこと言",
+   "notes": "",
+   "translation_en": "……<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 89,
+   "offset": 11670,
+   "length_bytes": 25,
+   "raw_hex": "4d1323fff672808b4d132323232e2680d1fff562797f62797f",
+   "text_jp": "っても<PAGE>ムダってもももんよ!<LINE>チリンチリン",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 90,
+   "offset": 11695,
+   "length_bytes": 54,
+   "raw_hex": "80d1fff6527f527f610082df260b0f0318fff55880cc80cc80cc80cc80cc80d1fff6527f527f610082d783941912232880d180d1fff6",
+   "text_jp": "!<PAGE>アンアンタ 腹よさそうね<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ 何達のつもり!!<PAGE>",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 91,
+   "offset": 11749,
+   "length_bytes": 45,
+   "raw_hex": "8111812440291900242215151580d180d1fff56c6c6c809b80d680d1fff60f2e150a14002c064d1329292980d1",
+   "text_jp": "大人ぶるの やめななな!!<LINE>ヒヒヒィ{214}!<PAGE>そんなこと わかってるるる!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 92,
+   "offset": 11794,
+   "length_bytes": 49,
+   "raw_hex": "fff680b6230082df02023c0c5080d180d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f6116863c272a29826f041a",
+   "text_jp": "<PAGE>Qも 腹いいでしょ!!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタに叱られる覚えは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 93,
+   "offset": 11843,
+   "length_bytes": 28,
+   "raw_hex": "fff680b6161a0015020202020280d180d1fff580907980a180d7fffc",
+   "text_jp": "<PAGE>Qには ないいいいい!!<LINE>バリッ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 94,
+   "offset": 11872,
+   "length_bytes": 31,
+   "raw_hex": "fff680b62f82d70c104d13020319191980d7fff56c6c6c809b80d680d1fff6",
+   "text_jp": "<PAGE>Qが何したっていうののの…<LINE>ヒヒヒィ{214}!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 95,
+   "offset": 11902,
+   "length_bytes": 40,
+   "raw_hex": "0f19826783512f0006060682e782ed80d1fff562797f62797f80d1fff60a2a06272300527f527f61",
+   "text_jp": "その言葉が かかか快感!<LINE>チリンチリン!<PAGE>これからも アンアンタ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 96,
+   "offset": 11942,
+   "length_bytes": 46,
+   "raw_hex": "1afff680b616061f2c15021905050580d0fff55880cc80cc80cc80cc80cc80d1fff681ce83c00d29821815021918",
+   "text_jp": "は<PAGE>Qにかまわないのおおお?<LINE>キ{204}{204}{204}{204}{204}!<PAGE>交燠する気ないのね",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 97,
+   "offset": 11988,
+   "length_bytes": 25,
+   "raw_hex": "80d1fff680b61a0083bd292c26262680d1fff580907980a180",
+   "text_jp": "!<PAGE>Qは 怒るわよよよ!<LINE>バリッ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 98,
+   "offset": 12013,
+   "length_bytes": 40,
+   "raw_hex": "d7fffcfff680b6198157832f0c132680d7fff562797f62797f80d1fff60a2a06272300527f527f61",
+   "text_jp": "…<CLOSE><PAGE>Qの梠手してよ…<LINE>チリンチリン!<PAGE>これからも アンアンタ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 99,
+   "offset": 12053,
+   "length_bytes": 46,
+   "raw_hex": "1afff680b616061f2c15021905050580d0fff55880cc80cc80cc80cc80cc80d1fff681ce83c00d29821815021918",
+   "text_jp": "は<PAGE>Qにかまわないのおおお?<LINE>キ{204}{204}{204}{204}{204}!<PAGE>交燠する気ないのね",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 100,
+   "offset": 12099,
+   "length_bytes": 25,
+   "raw_hex": "80d1fff680b61a0083bd292c26262680d1fff580907980a180",
+   "text_jp": "!<PAGE>Qは 怒るわよよよ!<LINE>バリッ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 101,
+   "offset": 12124,
+   "length_bytes": 43,
+   "raw_hex": "d7fffcfff680b6198157832f0c132680d7fff562797f62797f80d1fff60f2e15859c0c1a000a2c08150226",
+   "text_jp": "…<CLOSE><PAGE>Qの梠手してよ…<LINE>チリンチリン!<PAGE>そんな脅しは こわくないよ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 102,
+   "offset": 12168,
+   "length_bytes": 35,
+   "raw_hex": "fff6527f527f610002020281243c0c5080d1fff55880cc80cc80cc80cc80cc80d1fff6",
+   "text_jp": "<PAGE>アンアンタ いいい人でしょ!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 103,
+   "offset": 12202,
+   "length_bytes": 32,
+   "raw_hex": "80b6165a5a5a7f570081af2912232880d1fff580907980a180d7fffcfff65880",
+   "text_jp": "Qにケケケンカ 売るつもり!<LINE>バリッ…<CLOSE><PAGE>キ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 104,
+   "offset": 12234,
+   "length_bytes": 45,
+   "raw_hex": "a380d780b62f82d70c104d1302031980d7fff55880cc80cc80cc80cc80cc80d1fff65880cc80cc80cc80cc80cc",
+   "text_jp": "ュ…Qが何したっていうの…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>キ{204}{204}{204}{204}{204}",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 105,
+   "offset": 12279,
+   "length_bytes": 26,
+   "raw_hex": "80d1fff65880cc80cc80cc80cc80cc80d1fff580907980a180d7",
+   "text_jp": "!<PAGE>キ{204}{204}{204}{204}{204}!<LINE>バリッ…",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 106,
+   "offset": 12306,
+   "length_bytes": 34,
+   "raw_hex": "fff680907980a180d7fff680907980a180d7fff56c6c6c809b80d680d1fff66c6c6c",
+   "text_jp": "<PAGE>バリッ…<PAGE>バリッ…<LINE>ヒヒヒィ{214}!<PAGE>ヒヒヒ",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 107,
+   "offset": 12339,
+   "length_bytes": 26,
+   "raw_hex": "809b80d680d1fff66c6c6c809b80d680d1fff562797f62797f80",
+   "text_jp": "ィ{214}!<PAGE>ヒヒヒィ{214}!<LINE>チリンチリン",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 108,
+   "offset": 12365,
+   "length_bytes": 40,
+   "raw_hex": "d1fff6527f527f61000d330202020280d1fff580907980a180d7fffcfff6010101240c02020280d7",
+   "text_jp": "!<PAGE>アンアンタ すごいいいい!<LINE>バリッ…<CLOSE><PAGE>あああやしいいい…",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 109,
+   "offset": 12405,
+   "length_bytes": 47,
+   "raw_hex": "fffcfff680b61a00853b022c2c2c2c80d7fff56c6c6c809b80d680d1fff61f398677867815811681830c060606fff6",
+   "text_jp": "<CLOSE><PAGE>Qは 怖いわわわわ…<LINE>ヒヒヒィ{214}!<PAGE>まだ幼稚な魔術しかかか<PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 110,
+   "offset": 12452,
+   "length_bytes": 49,
+   "raw_hex": "812481251a8198820d15021918181880d1fff580b6161a008188817f3c071502093dfff6152e06008306062a2919261880",
+   "text_jp": "人間は申禾ないのねねね!<LINE>Qには 理解できないけど<PAGE>なんか 帆かれるのよね",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 111,
+   "offset": 12501,
+   "length_bytes": 50,
+   "raw_hex": "d7fffcfff60f03020381aa4d13131380d1fff562797f62797f80d1fff682d11481aa2f0c10021918181880d0fffcfff61527",
+   "text_jp": "…<CLOSE><PAGE>そういう話っててて!<LINE>チリンチリン!<PAGE>私と話がしたいのねねね?<CLOSE><PAGE>なら",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 112,
+   "offset": 12551,
+   "length_bytes": 57,
+   "raw_hex": "0080b61984dc400a140c13131380d1fff1fff55880cc80cc80cc80cc80cc80d1fff680b6161a83248396150281aa3c0c5080d180d1fff682f1",
+   "text_jp": " Qの冨ぶことしててて!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qには関係ない話でしょ!!<PAGE>実",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 113,
+   "offset": 12608,
+   "length_bytes": 54,
+   "raw_hex": "19012981ce83c00d291926262680d1fff1fff55880cc80cc80cc80cc80cc80d1fff6527f527f610080b61481aa0c10021527fff61f36",
+   "text_jp": "のある交燠するのよよよ!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ Qと話したいなら<PAGE>まず",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 114,
+   "offset": 12662,
+   "length_bytes": 36,
+   "raw_hex": "1a0082d70681980c150b02262680d1fff1fff580907980a180d7fffcfff680b61a000f2e",
+   "text_jp": "は 何か申しなさいよよ!<PAUSE><LINE>バリッ…<CLOSE><PAGE>Qは そん",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 115,
+   "offset": 12698,
+   "length_bytes": 46,
+   "raw_hex": "1581aafff682d8071008150202020280d7fff580907980a180d7fffcfff6152e3c80b6160f2e1581aa0d291980d7",
+   "text_jp": "な話<PAGE>聞きたくないいいい…<LINE>バリッ…<CLOSE><PAGE>なんでQにそんな話するの…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 116,
+   "offset": 12744,
+   "length_bytes": 49,
+   "raw_hex": "fffcfff682aa85740c114e032c2c2c80d7fff56c6c6c809b80d680d1fff6527f527f610026080c4e4129292980d1fffc83",
+   "text_jp": "<CLOSE><PAGE>警戒しちゃうわわわ…<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ よくしゃべるるる!<CLOSE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 117,
+   "offset": 12793,
+   "length_bytes": 47,
+   "raw_hex": "952f0c02190080b61a82800702020280d1fff56c6c6c809b80d680d1fff6841a84600281aa18181880d1fff682d706",
+   "text_jp": "パがしいの Qは好きいいい!<LINE>ヒヒヒィ{214}!<PAGE>面曰い話ねねね!<PAGE>何か",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 118,
+   "offset": 12840,
+   "length_bytes": 47,
+   "raw_hex": "012a3e00234d1482e682e7020280d1fff1fff562797f62797f80d1fff68124812513002c0628240d02020280d1fffc",
+   "text_jp": "あれば もっと偸快いい!<PAUSE><LINE>チリンチリン!<PAGE>人間て わかりやすいいい!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 119,
+   "offset": 12887,
+   "length_bytes": 48,
+   "raw_hex": "fff683358165002c021307102c2c2c80d1fff562797f62797f80d1fff682d12f830f0c021918181880d0fffcfff61527",
+   "text_jp": "<PAGE>興味 わいてきたわわわ!<LINE>チリンチリン!<PAGE>私が歓しいのねねね?<CLOSE><PAGE>なら",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 120,
+   "offset": 12935,
+   "length_bytes": 43,
+   "raw_hex": "0080b61984dc400a140c13131380d1fff1fff55880cc80cc80cc80cc80cc80d1fff680b61a008124812516",
+   "text_jp": " Qの冨ぶことしててて!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qは 人間に",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 121,
+   "offset": 12978,
+   "length_bytes": 54,
+   "raw_hex": "83358165152e13fff615020202020280d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f610080b61481ce83c00c100215271f36",
+   "text_jp": "興味なんて<PAGE>ないいいいい!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ Qと交燠したいならまず",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 122,
+   "offset": 13032,
+   "length_bytes": 41,
+   "raw_hex": "1a0082d70681980c150b02262680d1fff1fff580907980a180d7fffcfff680b61a00812481251680d7",
+   "text_jp": "は 何か申しなさいよよ!<PAUSE><LINE>バリッ…<CLOSE><PAGE>Qは 人間に…",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 123,
+   "offset": 13073,
+   "length_bytes": 52,
+   "raw_hex": "80d7fff6833581651502062727272780d7fff580907980a180d7fffcfff680b61981432f00830f0c02191980d080d7fffcfff615",
+   "text_jp": "…<PAGE>興味ないからららら…<LINE>バリッ…<CLOSE><PAGE>Qの力が 歓しいのの?…<CLOSE><PAGE>な",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 124,
+   "offset": 13125,
+   "length_bytes": 47,
+   "raw_hex": "2e060082f215835782ed0d292c2c2c80d7fff56c6c6c809b80d680d1fff680b64d13001f398176814381b8020280d0",
+   "text_jp": "んか 嫌な斈感するわわわ…<LINE>ヒヒヒィ{214}!<PAGE>Qって まだ魅力吋いい?",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 125,
+   "offset": 13172,
+   "length_bytes": 40,
+   "raw_hex": "fffcfff6849636060c022c2c2c80d780d7fff580b61a0084801f2a2919fff682fc0c022c2c2c80d7",
+   "text_jp": "<CLOSE><PAGE>恥ずかしいわわわ……<LINE>Qは 頼まれるの<PAGE>娼しいわわわ…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 126,
+   "offset": 13212,
+   "length_bytes": 45,
+   "raw_hex": "fffcfff63c230082fc0c023909090980d1fff562797f62797f80d1fff680b61683bd4d13830f0c0219191980d0",
+   "text_jp": "<CLOSE><PAGE>でも 娼しいだけけけ!<LINE>チリンチリン!<PAGE>Qに怒って歓しいののの?",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 127,
+   "offset": 13257,
+   "length_bytes": 42,
+   "raw_hex": "fff6527f527f6100817d151918181880d1fff562797f62797f80d1fff680b61a83bd27150202020280d1",
+   "text_jp": "<PAGE>アンアンタ 変なのねねね!<LINE>チリンチリン!<PAGE>Qは怒らないいいい!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 128,
+   "offset": 13299,
+   "length_bytes": 46,
+   "raw_hex": "fff682d706002327030627272780d1fff1fff55880cc80cc80cc80cc80cc80d1fff6809057160c102c181880d180",
+   "text_jp": "<PAGE>何か もらうかららら!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>バカにしたわねね!",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 129,
+   "offset": 13345,
+   "length_bytes": 48,
+   "raw_hex": "d1fff680b61a83bd4d102c2c2c80d180d1fff55880cc80cc80cc80cc80cc80d1fff6527f527f6100725763592c1880d1",
+   "text_jp": "!<PAGE>Qは怒ったわわわ!!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ ムカツクわね!",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 130,
+   "offset": 13393,
+   "length_bytes": 32,
+   "raw_hex": "fff65880cc80cc80cc80cc80cc80d180d1fff580907980a180d7fffcfff6527f",
+   "text_jp": "<PAGE>キ{204}{204}{204}{204}{204}!!<LINE>バリッ…<CLOSE><PAGE>アン",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 131,
+   "offset": 13425,
+   "length_bytes": 46,
+   "raw_hex": "527f6100821f822015827f280d292980d7fff580907980a180d7fffcfff680b61a0084f10c0206270627062780d7",
+   "text_jp": "アンタ 危険な甞りするる…<LINE>バリッ…<CLOSE><PAGE>Qは 恠しいからからから…",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 132,
+   "offset": 13472,
+   "length_bytes": 46,
+   "raw_hex": "fff6011f280081ce83c03c071502020280d7fff5527f527f61008393831d39093dfff680b61a82102f8440020627",
+   "text_jp": "<PAGE>あまり 交燠できないいい…<LINE>アンアンタ 失礼だけど<PAGE>Qは沚が広いから",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 133,
+   "offset": 13517,
+   "length_bytes": 48,
+   "raw_hex": "06270627fff682ec0c13013229292980d1fff56c6c6c809b80d680d1fff6527f527f610082de823782e8832f15191818",
+   "text_jp": "からから<PAGE>許してあげるるる!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ 自分勝手なのねね",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 134,
+   "offset": 13566,
+   "length_bytes": 28,
+   "raw_hex": "fff680b61a000f0302031900828007262626fff562797f62797f80d1",
+   "text_jp": "<PAGE>Qは そういうの 好きよよよ<LINE>チリンチリン!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 135,
+   "offset": 13593,
+   "length_bytes": 48,
+   "raw_hex": "fff680b61a83358165234d1026262680d1fff562797f62797f80d1fff680b61a83358165234d1026262680d1fff682d7",
+   "text_jp": "<PAGE>Qは興味もったよよよ!<LINE>チリンチリン!<PAGE>Qは興味もったよよよ!<PAGE>何",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 136,
+   "offset": 13641,
+   "length_bytes": 47,
+   "raw_hex": "0600082a2a3e8182825c18181880d1fff1fff55880cc80cc80cc80cc80cc80d1fff6121f2715022c18181880d180d1",
+   "text_jp": "か くれれば最高ねねね!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>つまらないわねねね!!",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 137,
+   "offset": 13688,
+   "length_bytes": 52,
+   "raw_hex": "fff612311502150b02020280d180d1fff1fff55880cc80cc80cc80cc80cc80d1fff680b61a832482101502020280d180d1fff682",
+   "text_jp": "<PAGE>つぐないなさいいい!!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qは関沚ないいい!!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 138,
+   "offset": 13740,
+   "length_bytes": 30,
+   "raw_hex": "d706260a0c150b0202020280d180d1fff1fff580907980a180d7fffcfff6",
+   "text_jp": "…かよこしなさいいいい!!<PAUSE><LINE>バリッ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 139,
+   "offset": 13770,
+   "length_bytes": 49,
+   "raw_hex": "80b61a82f215835782ed0d2919191980d7fff580907980a180d7fffcfff680b6163d030c13830f0c022c0980d080d7fffc",
+   "text_jp": "Qは嫌な斈感するののの…<LINE>バリッ…<CLOSE><PAGE>Qにどうして歓しいわけ?…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 140,
+   "offset": 13820,
+   "length_bytes": 51,
+   "raw_hex": "fff680d782d70600082a2919191980d0fff1fff56c6c6c809b80d680d1fff6527f527f6100020282ed35020280d1fff680b619",
+   "text_jp": "<PAGE>…何か くれるののの?<PAUSE><LINE>ヒヒヒィ{214}!<PAGE>アンアンタ いい感じいい!<PAGE>Qの",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 141,
+   "offset": 13870,
+   "length_bytes": 49,
+   "raw_hex": "82ed81581680968096809680a1617980d1fff56c6c6c809b80d680d1fff680b61a837f0c2e39062706270627fff6527f52",
+   "text_jp": "感忤にピピピッタリ!<LINE>ヒヒヒィ{214}!<PAGE>Qは杲しんだからからから<PAGE>アンア",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 142,
+   "offset": 13919,
+   "length_bytes": 43,
+   "raw_hex": "7f610082d70682ce82d502020280d1fff1fff562797f62797f80d1fff684d32c2a132919060c2701010180",
+   "text_jp": "ンタ 何か瑣戴いいい!<PAUSE><LINE>チリンチリン!<PAGE>訪われてるのかしらあああ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 143,
+   "offset": 13962,
+   "length_bytes": 47,
+   "raw_hex": "d1fff680b61a8182825c3c0c50030380d1fff562797f62797f80d1fff680b6197959555e6582d80213040480d1fff6",
+   "text_jp": "!<PAGE>Qは最高でしょうう!<LINE>チリンチリン!<PAGE>Qのリクエスト聞いてええ!<PAGE>",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 144,
+   "offset": 14009,
+   "length_bytes": 55,
+   "raw_hex": "82d706830f0c021905050580d180d1fff1fff55880cc80cc80cc80cc80cc80d1fff680b61a82d481ac15813d81161519191980d1fff652",
+   "text_jp": "何か歓しいのおおお!!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qは部品な悪魔なののの!<PAGE>ア",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 145,
+   "offset": 14064,
+   "length_bytes": 50,
+   "raw_hex": "7f527f610081a382cf0215192680d180d1fff55880cc80cc80cc80cc80cc80d1fff680b61681db81f92f01291527fff682d7",
+   "text_jp": "ンアンタ 場違いなのよ!!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qに注事があるなら<PAGE>何",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 146,
+   "offset": 14114,
+   "length_bytes": 26,
+   "raw_hex": "0600260a0c150b0226262680d180d1fff1fff580907980a180d7",
+   "text_jp": "か よこしなさいよよよ!!<PAUSE><LINE>バリッ…",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 147,
+   "offset": 14141,
+   "length_bytes": 49,
+   "raw_hex": "fffcfff62415835782ed0d291926262680d7fff580907980a180d7fffcfff680b61a813d811639062780d780d7fffcfff6",
+   "text_jp": "<CLOSE><PAGE>やな斈感するのよよよ…<LINE>バリッ…<CLOSE><PAGE>Qは悪魔だから……<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 148,
+   "offset": 14189,
+   "length_bytes": 23,
+   "raw_hex": "81248125140006062c2a150219191980d7fff56c6c6c80",
+   "text_jp": "人間と かかわれないののの…<LINE>ヒヒヒ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 149,
+   "offset": 14212,
+   "length_bytes": 52,
+   "raw_hex": "9b80d680d1fff682fc0c022c01010180d7fff56c6c6c809b80d680d1fff684d3826d0b2a29191a0202093d3d3d80d7fff680b61a",
+   "text_jp": "ィ{214}!<PAGE>娼しいわあああ…<LINE>ヒヒヒィ{214}!<PAGE>訪惑されるのはいいけどどど…<PAGE>Qは",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 150,
+   "offset": 14264,
+   "length_bytes": 47,
+   "raw_hex": "830f0c0281870023270210020280d1fff1fff562797f62797f80d1fff680b62d00853b2f4d13003d030d29191980d0",
+   "text_jp": "歓しい物 もらいたいい!<PAUSE><LINE>チリンチリン!<PAGE>Qを 怖がって どうするのの?",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 151,
+   "offset": 14311,
+   "length_bytes": 33,
+   "raw_hex": "fffc817d15812481253918181880d180d1fff562797f62797f80d1fff6354e010b",
+   "text_jp": "<CLOSE>変な人間だねねね!!<LINE>チリンチリン!<PAGE>じゃあさ",
+   "notes": "",
+   "translation_en": "<CLOSE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 152,
+   "offset": 14344,
+   "length_bytes": 46,
+   "raw_hex": "0082d70682ce82d502020280d180d1fff1fff55880cc80cc80cc80cc80cc80d1fff6527f527f61000f1982678351",
+   "text_jp": " 何か瑣戴いいい!!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ その言葉",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 153,
+   "offset": 14391,
+   "length_bytes": 52,
+   "raw_hex": "fff682428218354e15022c18181880d180d1fff55880cc80cc80cc80cc80cc80d1fff60f19826783512f82428218394d13fff683",
+   "text_jp": "<PAGE>本気じゃないわねねね!!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>その言葉が本気だって<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 154,
+   "offset": 14442,
+   "length_bytes": 40,
+   "raw_hex": "cf83982d821b0e1326262680d180d1fff1fff580907980a180d7fffcfff680b62d0005391329152e",
+   "text_jp": "{207}拠を見せてよよよ!!<PAUSE><LINE>バリッ…<CLOSE><PAGE>Qを おだてるなん",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 155,
+   "offset": 14482,
+   "length_bytes": 51,
+   "raw_hex": "1380d7fff6152e0600817d392c80d780d7fff580907980a180d7fffcfff6527f527f6100865e2e3c29292980d080d7fffcfff6",
+   "text_jp": "て…<PAGE>なんか 変だわ……<LINE>バリッ…<CLOSE><PAGE>アンアンタ 企んでるるる?…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 156,
+   "offset": 14533,
+   "length_bytes": 46,
+   "raw_hex": "80b62d003d030d298218060c270c2780d7fff56c6c6c809b80d680d1fff6141323008218823702022c1880d180d1",
+   "text_jp": "Qを どうする気かしらしら…<LINE>ヒヒヒィ{214}!<PAGE>とても 気分いいわね!!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 157,
+   "offset": 14580,
+   "length_bytes": 48,
+   "raw_hex": "fff6234d1482674d13830f0c0202020280d1fff56c6c6c809b80d680d1fff680b61981432f002c064d1302291527fff6",
+   "text_jp": "<PAGE>もっと言って歓しいいいい!<LINE>ヒヒヒィ{214}!<PAGE>Qの力が わかっているなら<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 158,
+   "offset": 14627,
+   "length_bytes": 52,
+   "raw_hex": "82d383c10309150b02020280d180d1fff1fff56c6c6c809b80d680d10080b6195780cc808ffff681fb4d1329354e1502020280d1",
+   "text_jp": "要求うけなさいいい!!<PAUSE><LINE>ヒヒヒィ{214}! Qのカ{204}ド<PAGE>持ってるじゃないいい!",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 159,
+   "offset": 14679,
+   "length_bytes": 15,
+   "raw_hex": "fff61a240880987a6066160c131313",
+   "text_jp": "<PAGE>はやくペルソナにしててて",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 160,
+   "offset": 14694,
+   "length_bytes": 24,
+   "raw_hex": "80d1ffef80b61a000a2a013229292980d1ffef8090798090",
+   "text_jp": "!<VOICE?>Qは これあげるるる!<VOICE?>バリバ",
+   "notes": "",
+   "translation_en": "!<VOICE?>...<VOICE?>..."
+  },
+  {
+   "id": 161,
+   "offset": 14718,
+   "length_bytes": 13,
+   "raw_hex": "7980a180d7fff6121f2e150219",
+   "text_jp": "リッ…<PAGE>つまんないの",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 162,
+   "offset": 14731,
+   "length_bytes": 52,
+   "raw_hex": "191980d7ffef152e0682cf0320100280d1ffef80b61a00234d1481f702812416fff65e80987a5780cc808f0001322919191980d1",
+   "text_jp": "のの…<VOICE?>なんか違うみたい!<VOICE?>Qは もっと独い人に<PAGE>スペルカ{204}ド あげるののの!",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 163,
+   "offset": 14783,
+   "length_bytes": 29,
+   "raw_hex": "fff6527f527f611a003922222280d180d1ffef0f2a354e0118181880d7",
+   "text_jp": "<PAGE>アンアンタは だめめめ!!<VOICE?>それじゃあねねね…",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 164,
+   "offset": 14813,
+   "length_bytes": 27,
+   "raw_hex": "fffcfff680b62f000a2a0132292c2c2c80d1ffef80907980a180d7",
+   "text_jp": "<CLOSE><PAGE>Qが これあげるわわわ!<VOICE?>バリッ…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 165,
+   "offset": 14839,
+   "length_bytes": 17,
+   "raw_hex": "80907980a180d7fff68090538090535353",
+   "text_jp": "バリッ…<PAGE>バイバイイイ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 166,
+   "offset": 14856,
+   "length_bytes": 34,
+   "raw_hex": "ffef0a2a1a80b619821881fb11111180d1ffef834c0881c82213830f0c02020280d1",
+   "text_jp": "<VOICE?>これはQの気持ちちち!<VOICE?>帛く決めて歓しいいい!",
+   "notes": "",
+   "translation_en": "<VOICE?>...<VOICE?>..."
+  },
+  {
+   "id": 167,
+   "offset": 14891,
+   "length_bytes": 53,
+   "raw_hex": "fff680b61a008191288218151919192680d7ffef80b61a00842f0615844882042f82f202020280d1fff6390627272700527f527f61",
+   "text_jp": "<PAGE>Qは 移り気なのののよ…<VOICE?>Qは 静かな員色が嫌いいい!<PAGE>だかららら アンアンタ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 168,
+   "offset": 14944,
+   "length_bytes": 32,
+   "raw_hex": "fff616302406150080987a6066160c1380d1ffef0a2a0001322906270627fff6",
+   "text_jp": "<PAGE>にぎやかな ペルソナにして!<VOICE?>これ あげるからから<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 169,
+   "offset": 14975,
+   "length_bytes": 43,
+   "raw_hex": "80b61a830219140a0081d2082c2c2c80d1ffef527f527f6114021323fff680b61a00121f2715020627fff6",
+   "text_jp": "Qは他のとこ 行くわわわ!<VOICE?>アンアンタといても<PAGE>Qは つまらないから<PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 170,
+   "offset": 15018,
+   "length_bytes": 66,
+   "raw_hex": "2303830219140a81d20806270b0b0b80d1ffef527f527f6114021323fff680b61a00121f271502020280d1fffbfff780b61a00841a846002140a81d208093d3d80d1",
+   "text_jp": "もう他のとこ行くからさささ!<VOICE?>アンアンタといても<PAGE>Qは つまらないいい!<MENU_A><MENU_B>Qは 面曰いとこ行くけどど!",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<MENU_A><MENU_B>..."
+  },
+  {
+   "id": 171,
+   "offset": 15084,
+   "length_bytes": 55,
+   "raw_hex": "fff60e2213000a2a000132292c2c2c80d1ffef80b61a002429821815080c102c2c2c80d1fff6527f527f611a005780cc808f832f1681ae",
+   "text_jp": "<PAGE>せめて これ あげるわわわ!<VOICE?>Qは やる気なくしたわわわ!<PAGE>アンアンタは カ{204}ド手に入",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 172,
+   "offset": 15139,
+   "length_bytes": 46,
+   "raw_hex": "2a3e152e3c2323230002022e3c0c5080d1ffef5780cc808f013229093dfff6817d1580987a6066160c1027fff683",
+   "text_jp": "ればなんでももも いいんでしょ!<VOICE?>カ{204}ドあげるけど<PAGE>変なペルソナにしたら<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 173,
+   "offset": 15185,
+   "length_bytes": 43,
+   "raw_hex": "cc1680b64d138289082c26262680d180d1ffef0f2a3c1818180080b61afff6527f527f6114818b03122328",
+   "text_jp": "{204}にQって霄くわよよよ!!<VOICE?>それでねねね Qは<PAGE>アンアンタと貰うつもり",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 174,
+   "offset": 15228,
+   "length_bytes": 38,
+   "raw_hex": "15020280d784e786e50c100219191980d7ffef80b6195780cc808f013229062780d7fffcfff6",
+   "text_jp": "ないい…隆伏したいののの…<VOICE?>Qのカ{204}ドあげるから…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 175,
+   "offset": 15266,
+   "length_bytes": 31,
+   "raw_hex": "82d7230c15023c0081e00c1318181880d7ffef0f2a3c1818180080b61afff6",
+   "text_jp": "何もしないで 帰してねねね…<VOICE?>それでねねね Qは<PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 176,
+   "offset": 15297,
+   "length_bytes": 34,
+   "raw_hex": "527f527f6114818b0312232815020280d7ffef0a2a00013229292980d7fff680b619",
+   "text_jp": "アンアンタと貰うつもりないい…<VOICE?>これ あげるるる…<PAGE>Qの",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 177,
+   "offset": 15331,
+   "length_bytes": 52,
+   "raw_hex": "84c281c53906270083310983074d1380d1ffef80907980a180d780907980a180d7fffcfff6527f527f610080b6195780cc808f2f",
+   "text_jp": "敬意だから 受け取って!<VOICE?>バリッ…バリッ…<CLOSE><PAGE>アンアンタ Qのカ{204}ドが",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 178,
+   "offset": 15384,
+   "length_bytes": 54,
+   "raw_hex": "fff6830f0c02152727000132292c2c2c80d7ffef80b61a0083021983461681d24d1323fff682821616160002022c261880d7fffcfff6",
+   "text_jp": "<PAGE>歓しいならら あげるわわわ…<VOICE?>Qは 他の斯に行っても<PAGE>別ににに いいわよね…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 179,
+   "offset": 15437,
+   "length_bytes": 46,
+   "raw_hex": "5780cc808f0132292e3906270b0b0b80d7ffef62797f62797f80d1fff6812481251481aa0c10064d1019191980d1",
+   "text_jp": "カ{204}ドあげるんだからさささ…<VOICE?>チリンチリン!<PAGE>人間と話したかったののの!",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 180,
+   "offset": 15483,
+   "length_bytes": 49,
+   "raw_hex": "fff680b61481ce83c00c260318181880d1fff562797f62797f80d1fff6527f527f6115270002090f030380d1fff680b61a",
+   "text_jp": "<PAGE>Qと交燠しようねねね!<LINE>チリンチリン!<PAGE>アンアンタなら いけそうう!<PAGE>Qは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 181,
+   "offset": 15532,
+   "length_bytes": 53,
+   "raw_hex": "0082d706830f0c0219191980d180d1fff1fff55880cc80cc80cc80cc80cc80d1fff6527f527f61000d330882f2010180d180d1fff6",
+   "text_jp": " 何か歓しいののの!!<PAUSE><LINE>キ{204}{204}{204}{204}{204}!<PAGE>アンアンタ すごく嫌ああ!!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 182,
+   "offset": 15585,
+   "length_bytes": 49,
+   "raw_hex": "81ce83c00c100815022e39093d3d3d80d1fff55880cc80cc80cc80cc80cc80d1fff680b61a83bd4d1329292980d1fff682",
+   "text_jp": "交燠したくないんだけどどど!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qは怒ってるるる!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 183,
+   "offset": 15634,
+   "length_bytes": 46,
+   "raw_hex": "d70600260a0c150b02020280d180d1fff1fff580907980a180d7fffcfff6819f2f150206270080b61a86d4826215",
+   "text_jp": "…か よこしなさいいい!!<PAUSE><LINE>バリッ…<CLOSE><PAGE>月がないから Qは臆痞な",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 184,
+   "offset": 15680,
+   "length_bytes": 44,
+   "raw_hex": "191980d7853b021900150c2f02020280d7fff580907980a180d7fffcfff6527f527f610083cc2f853b020202",
+   "text_jp": "のの…怖いの なしがいいい…<LINE>バリッ…<CLOSE><PAGE>アンアンタ 顔が怖いいい",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 185,
+   "offset": 15724,
+   "length_bytes": 45,
+   "raw_hex": "80d1fff682f21582ed35020202020280d7fff56c6c6c809b80d680d1fff6819f2f842a0c0202020280d1fff682",
+   "text_jp": "!<PAGE>嫌な感じいいいいい…<LINE>ヒヒヒィ{214}!<PAGE>月が美しいいいい!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 186,
+   "offset": 15769,
+   "length_bytes": 52,
+   "raw_hex": "d6813a1a8182825c030303030380d180d1fff56c6c6c809b80d680d1fff6527f527f610082d706082a0f0380d1fff682d682411a",
+   "text_jp": "{214}夜は最高ううううう!!<LINE>ヒヒヒィ{214}!<PAGE>アンアンタ 何かくれそう!<PAGE>今巳は",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 187,
+   "offset": 15821,
+   "length_bytes": 51,
+   "raw_hex": "007880a15880cc0623232380d180d1fff1fff5ffed527f527f610082d70672576359093dfff683d4820b0f033906270080b62f",
+   "text_jp": " ラッキ{204}かももも!!<PAUSE><LINE><VOICE?>アンアンタ 何かムカツクけど<PAGE>遏履そうだから Qが",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 188,
+   "offset": 15873,
+   "length_bytes": 54,
+   "raw_hex": "fff681ce83c00c13000132292c2c2c2c80d1fff5ffee527f527f610081248125151916fff63d030c13000a0a16022919191980d1fff6",
+   "text_jp": "<PAGE>交燠して あげるわわわわ!<LINE><VOICE?>アンアンタ 人間なのに<PAGE>どうして ここにいるののの!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 189,
+   "offset": 15926,
+   "length_bytes": 49,
+   "raw_hex": "230c240082d706082a2919191980d080d1fff5ffee527f527f6100853b02093d80d7fff680b61a00833581650129062780",
+   "text_jp": "もしや 何かくれるののの?!<LINE><VOICE?>アンアンタ 怖いけど…<PAGE>Qは 興味あるから",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 190,
+   "offset": 15975,
+   "length_bytes": 44,
+   "raw_hex": "d7fff681ce83c00c100219191980d780d7fff5ffec527f527f6100853b02093dfff680b6160082d706082a29",
+   "text_jp": "…<PAGE>交燠したいののの……<LINE>[ec]アンアンタ 怖いけど<PAGE>Qに 何かくれる",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>[ec]...<PAGE>..."
+  },
+  {
+   "id": 191,
+   "offset": 16019,
+   "length_bytes": 43,
+   "raw_hex": "0623fff60c2a1502152e13131380d7fff1fff5ffee80b61a008124812581118280070202020280d1fff683",
+   "text_jp": "かも<PAGE>しれないなんててて…<PAUSE><LINE><VOICE?>Qは 人間大好きいいいい!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE><VOICE?>...<PAGE>"
+  },
+  {
+   "id": 192,
+   "offset": 16062,
+   "length_bytes": 57,
+   "raw_hex": "4c080081ce83c00c1f0c500326262680d1fff5ffeb80b61a0082b081ce81b8354e1502093dfff6527f527f610081ce83c00c100219191980d1",
+   "text_jp": "ぉく 交燠しましょうよよよ!<LINE><VOICE?>Qは 扎交吋じゃないけど<PAGE>アンアンタ 交燠したいののの!",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 193,
+   "offset": 16119,
+   "length_bytes": 37,
+   "raw_hex": "1f361a0082d706830f0c02020280d1fff1fff5ffed527f527f61354e1502020280d1fff683",
+   "text_jp": "まずは 何か歓しいいい!<PAUSE><LINE><VOICE?>アンアンタじゃないいい!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAUSE><LINE><VOICE?>...<PAGE>"
+  },
+  {
+   "id": 194,
+   "offset": 16156,
+   "length_bytes": 35,
+   "raw_hex": "0219812416840d060910191602020280d1fff5ffec853b0283cc0c15023c26262680d7",
+   "text_jp": "いの人に声かけたのにいいい!<LINE>[ec]怖い顔しないでよよよ…",
+   "notes": "",
+   "translation_en": "...<LINE>[ec]..."
+  },
+  {
+   "id": 195,
+   "offset": 16191,
+   "length_bytes": 56,
+   "raw_hex": "fff6527f527f610082f21582ed350280d7fff5ffeb8182825c19819f151926262680d1fff6527f527f61162300821b04293c0c5080d16c6c",
+   "text_jp": "<PAGE>アンアンタ 嫌な感じい…<LINE><VOICE?>最高の月なのよよよ!<PAGE>アンアンタにも 見えるでしょ!ヒヒ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 196,
+   "offset": 16247,
+   "length_bytes": 57,
+   "raw_hex": "6c809b80d680d1006c6c6c809b80d680d1fff5ffed527f527f61001f17090f030380d180d1fff6152e0600232703093d05050580d1fff681a6",
+   "text_jp": "ヒィ{214}! ヒヒヒィ{214}!<LINE><VOICE?>アンアンタ まぬけそうう!!<PAGE>なんか もらうけどおおお!<PAGE>文",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 197,
+   "offset": 16304,
+   "length_bytes": 59,
+   "raw_hex": "845315023c0c500318181880d180d1fff1fff5ffec527f527f6100853b02060c27272780d7fffcfff680b61a0082088209837b83201519191980d7",
+   "text_jp": "句ないでしょうねねね!!<PAUSE><LINE>[ec]アンアンタ 怖いかしららら…<CLOSE><PAGE>Qは 乎和工羲なののの…",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>[ec]...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 198,
+   "offset": 16364,
+   "length_bytes": 57,
+   "raw_hex": "fff63906270082d70682ce82d502020280d7fff5ffeb80b61a00813d811d15191519151980d1fff6812481251482cf030627000f0a2e140a0a",
+   "text_jp": "<PAGE>だから 何か瑣戴いいい…<LINE><VOICE?>Qは 悪菫なのなのなの!<PAGE>人間と違うから そこんとここ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 199,
+   "offset": 16420,
+   "length_bytes": 53,
+   "raw_hex": "0a82dc04130081ce83c00c1318181880d1fff5527f527f610082181681ae4d102c80d1fff680b62f0081fe4d1301322929030380d1",
+   "text_jp": "こ考えて 交燠してねねね!<LINE>アンアンタ 気に入ったわ!<PAGE>Qが 守ってあげるるうう!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 200,
+   "offset": 16473,
+   "length_bytes": 34,
+   "raw_hex": "fff682d61a0082d72f830f0c02020280d0ffef0d3308725763591926262680d1fff6",
+   "text_jp": "<PAGE>今は 何が歓しいいい?<VOICE?>すごくムカツクのよよよ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 201,
+   "offset": 16507,
+   "length_bytes": 35,
+   "raw_hex": "527f527f610081828199392c2c80d180d1ffef0a0a0a2c021926262680d7fffcfff680",
+   "text_jp": "アンアンタ 最倡だわわ!!<VOICE?>こここわいのよよよ…<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 202,
+   "offset": 16542,
+   "length_bytes": 31,
+   "raw_hex": "b61a00144d13230a2c0202020280d180d1ffef527f527f61141981ce83c04d",
+   "text_jp": "Qは とってもこわいいいい!!<VOICE?>アンアンタとの交燠っ",
+   "notes": "",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 203,
+   "offset": 16573,
+   "length_bytes": 51,
+   "raw_hex": "13fff61413237657535353535380d180d1ffef527f527f6100021f021139093d3d3d80b61a008335816581fb4d100627062706",
+   "text_jp": "て<PAGE>とてもユカイイイイイ!!<VOICE?>アンアンタ いまいちだけどどどQは 興味持ったからからか",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 204,
+   "offset": 16624,
+   "length_bytes": 54,
+   "raw_hex": "27fff684802000070213013229292980d1ffef527f527f6100853b028124812539093dfff680b61a008335816581fb4d100627062706",
+   "text_jp": "ら<PAGE>頼み きいてあげるるる!<VOICE?>アンアンタ 怖い人間だけど<PAGE>Qは 興味持ったからからか",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 205,
+   "offset": 16678,
+   "length_bytes": 56,
+   "raw_hex": "27fff684802000070213013229292980d1ffef527f527f61008182825c03030380d180d1fff680b61900818f8282160c13013229292980d1",
+   "text_jp": "ら<PAGE>頼み きいてあげるるる!<VOICE?>アンアンタ 最高ううう!!<PAGE>Qの 特別にしてあげるるる!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 206,
+   "offset": 16735,
+   "length_bytes": 54,
+   "raw_hex": "fff682d61a0082d72f830f0c0202021980d0ffef23030081f483d0020202020280d180d1fff6527f527f610080b61682d70c10021906",
+   "text_jp": "<PAGE>今は 何が歓しいいいの?<VOICE?>もう 不畍いいいいい!!<PAGE>アンアンタ Qに何したいのか",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 207,
+   "offset": 16789,
+   "length_bytes": 60,
+   "raw_hex": "fff60b4d4328002c06271502192680d180d1ffef527f527f610080b61981ce83c08157832f1616fff6814d863600152715022c18181880d1fff62303",
+   "text_jp": "<PAGE>さっぱり わからないのよ!!<VOICE?>アンアンタ Qの交燠梠手にに<PAGE>全然 ならないわねねね!<PAGE>もう",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 208,
+   "offset": 16848,
+   "length_bytes": 36,
+   "raw_hex": "81670c008388842884cf2e3c26262680d1ffef527f527f61000d330281248125181880d1",
+   "text_jp": "少し 経験痿んでよよよ!<VOICE?>アンアンタ すごい人間ねね!",
+   "notes": "",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 209,
+   "offset": 16884,
+   "length_bytes": 28,
+   "raw_hex": "fff680b61a003f4d08280c102c2c2c80d1ffef80b61a000582290083",
+   "text_jp": "<PAGE>Qは びっくりしたわわわ!<VOICE?>Qは お舍 ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 210,
+   "offset": 16912,
+   "length_bytes": 26,
+   "raw_hex": "0f0c02020280d1fff6fff8857a262680d1ffef6c6c6c809b80d6",
+   "text_jp": "そしいいい!<PAGE>[f8]円よよ!<VOICE?>ヒヒヒィ{214}",
+   "notes": "",
+   "translation_en": "...<PAGE>[f8]...<VOICE?>..."
+  },
+  {
+   "id": 211,
+   "offset": 16938,
+   "length_bytes": 35,
+   "raw_hex": "80d180d1fff682fc0c022c2c2c2c2c80d1ffef5880cc80cc80cc80cc80cc80d1fff680",
+   "text_jp": "!!<PAGE>娼しいわわわわわ!<VOICE?>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!!<PAGE>...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 212,
+   "offset": 16973,
+   "length_bytes": 28,
+   "raw_hex": "b61a008325832615195375757580d180d1ffef62797f80d7fffcfff6",
+   "text_jp": "Qは 茸乏なのイヤヤヤ!!<VOICE?>チリン…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 213,
+   "offset": 17001,
+   "length_bytes": 51,
+   "raw_hex": "527f527f610083258326151918181880d7ffef5880cc80cc80cc80cc80cc80d1fff680b61981432d00823908821b13293c0c50",
+   "text_jp": "アンアンタ 茸乏なのねねね…<VOICE?>キ{204}{204}{204}{204}{204}!<PAGE>Qの力を 甘く見てるでしょ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 214,
+   "offset": 17052,
+   "length_bytes": 38,
+   "raw_hex": "80d1fff6725763592c2c2c2c2c80d180d1ffef527f527f610081ce83c00d29821815021980d0",
+   "text_jp": "!<PAGE>ムカツクわわわわわ!!<VOICE?>アンアンタ 交燠する気ないの?",
+   "notes": "",
+   "translation_en": "!<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 215,
+   "offset": 17090,
+   "length_bytes": 35,
+   "raw_hex": "152e06060600808b7320100218181880d7ffef80b61a008116817800830f0c02020280",
+   "text_jp": "なんかかか ダメみたいねねね…<VOICE?>Qは 魔石 歓しいいい",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 216,
+   "offset": 17125,
+   "length_bytes": 26,
+   "raw_hex": "d1fff680c181c73c0002020202020280d1ffef6c6c6c809b80d6",
+   "text_jp": "!<PAGE>1茴で いいいいいい!<VOICE?>ヒヒヒィ{214}",
+   "notes": "",
+   "translation_en": "!<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 217,
+   "offset": 17151,
+   "length_bytes": 35,
+   "raw_hex": "80d180d1fff682fc0c022c2c2c2c2c80d1ffef5880cc80cc80cc80cc80cc80d1fff681",
+   "text_jp": "!!<PAGE>娼しいわわわわわ!<VOICE?>キ{204}{204}{204}{204}{204}!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!!<PAGE>...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 218,
+   "offset": 17186,
+   "length_bytes": 32,
+   "raw_hex": "1681783127020081fb4d13150b022680d1fff5811681782f001502152e1380d7",
+   "text_jp": "に石ぐらい 持ってなさいよ!<LINE>魔石が ないなんて…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 219,
+   "offset": 17219,
+   "length_bytes": 37,
+   "raw_hex": "fffcfff680b61a83bc35272a1502150280d7fff55880cc80cc80cc80cc80cc80d1fff60f19",
+   "text_jp": "<CLOSE><PAGE>Qは信じられないない…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>その",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 220,
+   "offset": 17255,
+   "length_bytes": 38,
+   "raw_hex": "83cc160080b64d138747082c26262680d1fff5527f527f610081ce83c00d29821815021980d0",
+   "text_jp": "顔に Qって描くわよよよ!<LINE>アンアンタ 交燠する気ないの?",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 221,
+   "offset": 17293,
+   "length_bytes": 28,
+   "raw_hex": "152e06060600808b7320100218181880d7fff580b61a008205817800",
+   "text_jp": "なんかかか ダメみたいねねね…<LINE>Qは 宝石 ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 222,
+   "offset": 17321,
+   "length_bytes": 26,
+   "raw_hex": "830f0c02020280d1fff6fff42f020280d1ffef6c6c6c809b80d6",
+   "text_jp": "歓しいいい!<PAGE>[f4]がいい!<VOICE?>ヒヒヒィ{214}",
+   "notes": "",
+   "translation_en": "...<PAGE>[f4]...<VOICE?>..."
+  },
+  {
+   "id": 223,
+   "offset": 17347,
+   "length_bytes": 7,
+   "raw_hex": "80d180d1fff682",
+   "text_jp": "!!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!!<PAGE>"
+  },
+  {
+   "id": 224,
+   "offset": 17354,
+   "length_bytes": 51,
+   "raw_hex": "fc0c022c2c2c2c2c80d1fff5034d0f80d7fff55880cc80cc80cc80cc80cc80d1fff680b61981432d00823908821b13293c0c50",
+   "text_jp": "｝しいわわわわわ!<LINE>うっそ…<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qの力を 甘く見てるでしょ",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 225,
+   "offset": 17405,
+   "length_bytes": 38,
+   "raw_hex": "80d1fff6725763592c2c2c2c2c80d180d1fff5527f527f610081ce83c00d29821815021980d0",
+   "text_jp": "!<PAGE>ムカツクわわわわわ!!<LINE>アンアンタ 交燠する気ないの?",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 226,
+   "offset": 17443,
+   "length_bytes": 35,
+   "raw_hex": "152e06060600808b7320100218181880d7fff580b61a0081fc82180081e90210020202",
+   "text_jp": "なんかかか ダメみたいねねね…<LINE>Qは 生気 嗅いたいいい",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 227,
+   "offset": 17478,
+   "length_bytes": 26,
+   "raw_hex": "80d1fff681b782ca3c00020202020280d1ffef527f527f611981",
+   "text_jp": "!<PAGE>一日で いいいいい!<VOICE?>アンアンタの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 228,
+   "offset": 17504,
+   "length_bytes": 47,
+   "raw_hex": "fc8218fff6842a81650c0f0303030380d1fff55880cc80cc80cc80cc80cc80d1fff680b6161a0081e92c2a10081502",
+   "text_jp": "｝気<PAGE>美味しそうううう!<LINE>キ{204}{204}{204}{204}{204}!<PAGE>Qには 嗅われたくない",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 229,
+   "offset": 17551,
+   "length_bytes": 50,
+   "raw_hex": "19191980d0725763590303030380d180d1fff5527f527f6100230c060c13fff6814583b500813d0219191980d0fffcfff680",
+   "text_jp": "ののの?ムカツクうううう!!<LINE>アンアンタ もしかして<PAGE>体諢 悪いののの?<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 230,
+   "offset": 17601,
+   "length_bytes": 27,
+   "raw_hex": "b6000f2e1581fc821802271502020280d7fff5808b7180ccfff580",
+   "text_jp": "Q そんな生気いらないいい…<LINE>ダミ{204}<LINE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<LINE>"
+  }
+ ]
+}

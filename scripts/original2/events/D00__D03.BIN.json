@@ -1,0 +1,23 @@
+{
+ "file": "D00/D03.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 65184,
+   "length_bytes": 11,
+   "raw_hex": "7080cc5980cb080f0380d7",
+   "text_jp": "マ{204}ク:くそう…",
+   "translation_en": "Mark: ..."
+  },
+  {
+   "id": 1,
+   "offset": 65197,
+   "length_bytes": 19,
+   "raw_hex": "829b843d1a3d0a1681d24d111f4d102e3980d7",
+   "text_jp": "園忖はどこに行っちまったんだ…",
+   "translation_en": "..."
+  }
+ ]
+}

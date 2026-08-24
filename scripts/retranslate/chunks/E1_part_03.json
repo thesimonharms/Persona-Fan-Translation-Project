@@ -1,0 +1,4210 @@
+{
+ "file": "E1",
+ "source": "ADV__E1.BIN",
+ "chunk_index": 3,
+ "total_chunks": 6,
+ "start_idx": 1400,
+ "end_idx": 2100,
+ "entries": [
+  {
+   "id": 3411,
+   "offset": 461370,
+   "text_jp": "教えてくれないか?",
+   "translation_en": "Won't you tell us?"
+  },
+  {
+   "id": 3412,
+   "offset": 461388,
+   "text_jp": "二人のお邪魔は",
+   "translation_en": "We won't get"
+  },
+  {
+   "id": 3413,
+   "offset": 461406,
+   "text_jp": "しないよ",
+   "translation_en": "in the way of you two."
+  },
+  {
+   "id": 3415,
+   "offset": 461438,
+   "text_jp": "もってないか?",
+   "translation_en": "Don't you have it?"
+  },
+  {
+   "id": 3416,
+   "offset": 461450,
+   "text_jp": "とっても大切なモノなんだ",
+   "translation_en": "It's something very important."
+  },
+  {
+   "id": 3417,
+   "offset": 461477,
+   "text_jp": "はなから",
+   "translation_en": "I didn't expect much"
+  },
+  {
+   "id": 3418,
+   "offset": 461483,
+   "text_jp": "期待はしてないがな",
+   "translation_en": "from the start, mind you."
+  },
+  {
+   "id": 3419,
+   "offset": 461496,
+   "text_jp": "とりあえずだ",
+   "translation_en": "Just in case,"
+  },
+  {
+   "id": 3420,
+   "offset": 461506,
+   "text_jp": "どちらか持っていないのか?",
+   "translation_en": "do either of you happen to have it?"
+  },
+  {
+   "id": 3421,
+   "offset": 461523,
+   "text_jp": "｜鍖の破片』だ",
+   "translation_en": "A \"Mirror Shard\"."
+  },
+  {
+   "id": 3422,
+   "offset": 461549,
+   "text_jp": "学枚を敕うため",
+   "translation_en": "In order to save the school,"
+  },
+  {
+   "id": 3423,
+   "offset": 461561,
+   "text_jp": "どうしても必要な物なのです",
+   "translation_en": "it is an item we absolutely require."
+  },
+  {
+   "id": 3424,
+   "offset": 461588,
+   "text_jp": "ありませんか?",
+   "translation_en": "Do you have one?"
+  },
+  {
+   "id": 3425,
+   "offset": 461647,
+   "text_jp": "ない!",
+   "translation_en": "Nope!"
+  },
+  {
+   "id": 3426,
+   "offset": 461655,
+   "text_jp": "おれのヘア{204}セット注の",
+   "translation_en": "All I've got is the hand mirror"
+  },
+  {
+   "id": 3427,
+   "offset": 461671,
+   "text_jp": "手鍖しかないや",
+   "translation_en": "I use for styling my hair."
+  },
+  {
+   "id": 3428,
+   "offset": 461682,
+   "text_jp": "これでもいい?",
+   "translation_en": "Will this do?"
+  },
+  {
+   "id": 3429,
+   "offset": 461696,
+   "text_jp": "たまきちゃん:…もう!",
+   "translation_en": "Tamaki-chan: ...Geez!"
+  },
+  {
+   "id": 3430,
+   "offset": 461712,
+   "text_jp": "バカただし!",
+   "translation_en": "You idiot, Tadashi!"
+  },
+  {
+   "id": 3431,
+   "offset": 461722,
+   "text_jp": "いいわけないでしょ!",
+   "translation_en": "Of course that won't do!"
+  },
+  {
+   "id": 3432,
+   "offset": 461779,
+   "text_jp": "黛さんのいう",
+   "translation_en": "Could this be what"
+  },
+  {
+   "id": 3433,
+   "offset": 461801,
+   "text_jp": "これかな?",
+   "translation_en": "Mayuzumi-san was talking about?"
+  },
+  {
+   "id": 3434,
+   "offset": 461811,
+   "text_jp": "ポケットにいつのまにか",
+   "translation_en": "Somehow it was in my pocket"
+  },
+  {
+   "id": 3435,
+   "offset": 461826,
+   "text_jp": "入ってたみたい…",
+   "translation_en": "without me noticing..."
+  },
+  {
+   "id": 3436,
+   "offset": 461840,
+   "text_jp": "ただしくん:…ええ{204}!?",
+   "translation_en": "Tadashi-kun: ...Whaaaat?!"
+  },
+  {
+   "id": 3437,
+   "offset": 461859,
+   "text_jp": "たまきちゃん!!",
+   "translation_en": "Tamaki-chan!!"
+  },
+  {
+   "id": 3438,
+   "offset": 461877,
+   "text_jp": "そんなモノ",
+   "translation_en": "That you had"
+  },
+  {
+   "id": 3439,
+   "offset": 461890,
+   "text_jp": "持ってるなんて…",
+   "translation_en": "something like that..."
+  },
+  {
+   "id": 3440,
+   "offset": 461904,
+   "text_jp": "聞いてないよォ!!",
+   "translation_en": "I never heard about this!!"
+  },
+  {
+   "id": 3441,
+   "offset": 461919,
+   "text_jp": "あぁ{204}!愛を聲いあった",
+   "translation_en": "Aaaah! After we swore our love"
+  },
+  {
+   "id": 3442,
+   "offset": 461956,
+   "text_jp": "なのに!",
+   "translation_en": "to each other, too!"
+  },
+  {
+   "id": 3443,
+   "offset": 461965,
+   "text_jp": "龝密をつくるなんて!!",
+   "translation_en": "Keeping secrets from me!!"
+  },
+  {
+   "id": 3444,
+   "offset": 461987,
+   "text_jp": "ひどいや!",
+   "translation_en": "That's so cruel!"
+  },
+  {
+   "id": 3445,
+   "offset": 462000,
+   "text_jp": "たまきちゃん:…ちょっと!",
+   "translation_en": "Tamaki-chan: ...Hold on!"
+  },
+  {
+   "id": 3446,
+   "offset": 462018,
+   "text_jp": "あたしだって",
+   "translation_en": "I only just"
+  },
+  {
+   "id": 3447,
+   "offset": 462026,
+   "text_jp": "いま気がついたんだからね!",
+   "translation_en": "noticed it right now!"
+  },
+  {
+   "id": 3448,
+   "offset": 462045,
+   "text_jp": "人聞きの悪いコト",
+   "translation_en": "Don't go saying things"
+  },
+  {
+   "id": 3449,
+   "offset": 462058,
+   "text_jp": "いわないでよ!",
+   "translation_en": "that sound so scandalous!"
+  },
+  {
+   "id": 3450,
+   "offset": 462068,
+   "text_jp": "…少しだまってて!",
+   "translation_en": "...Just shut up for a second!"
+  },
+  {
+   "id": 3451,
+   "offset": 462087,
+   "text_jp": "これでよければ",
+   "translation_en": "If this will do,"
+  },
+  {
+   "id": 3452,
+   "offset": 462096,
+   "text_jp": "持っていって",
+   "translation_en": "please take it with you."
+  },
+  {
+   "id": 3453,
+   "offset": 462120,
+   "text_jp": "｜今痍は鹿の番』って言ったの",
+   "translation_en": "When you said \"This time it's my turn\","
+  },
+  {
+   "id": 3454,
+   "offset": 462143,
+   "text_jp": "覚えてる?",
+   "translation_en": "do you remember that?"
+  },
+  {
+   "id": 3455,
+   "offset": 462154,
+   "text_jp": "あれ…ホントになっちゃったね",
+   "translation_en": "That... really came true, didn't it?"
+  },
+  {
+   "id": 3456,
+   "offset": 462171,
+   "text_jp": "でもキミならきっと",
+   "translation_en": "But I'm sure you"
+  },
+  {
+   "id": 3457,
+   "offset": 462182,
+   "text_jp": "うまくやれるよ",
+   "translation_en": "can pull it off."
+  },
+  {
+   "id": 3458,
+   "offset": 462193,
+   "text_jp": "がんばってね!",
+   "translation_en": "Do your best!"
+  },
+  {
+   "id": 3467,
+   "offset": 462327,
+   "text_jp": "こんな事くらいしか",
+   "translation_en": "This is about all"
+  },
+  {
+   "id": 3468,
+   "offset": 462339,
+   "text_jp": "役に立てなくて…",
+   "translation_en": "I can do to help..."
+  },
+  {
+   "id": 3469,
+   "offset": 462368,
+   "text_jp": "一緒に行けたらいいんだけど",
+   "translation_en": "I wish I could go with you, but"
+  },
+  {
+   "id": 3470,
+   "offset": 462388,
+   "text_jp": "今のあたし運じゃあなた運の",
+   "translation_en": "with how we are now,"
+  },
+  {
+   "id": 3471,
+   "offset": 462406,
+   "text_jp": "坩手まといにしか",
+   "translation_en": "we'd only end up"
+  },
+  {
+   "id": 3472,
+   "offset": 462418,
+   "text_jp": "ならないみたいだね",
+   "translation_en": "holding you back."
+  },
+  {
+   "id": 3473,
+   "offset": 462431,
+   "text_jp": "肪けてくれてありがとう",
+   "translation_en": "Thank you for saving us."
+  },
+  {
+   "id": 3474,
+   "offset": 462445,
+   "text_jp": "がんばってね",
+   "translation_en": "Good luck out there."
+  },
+  {
+   "id": 3475,
+   "offset": 462456,
+   "text_jp": "｜かがみのはへん』を手に入れた",
+   "translation_en": "Obtained the \"Mirror Shard\"."
+  },
+  {
+   "id": 3476,
+   "offset": 462480,
+   "text_jp": "ただしくん:う{204}ん",
+   "translation_en": "Tadashi-kun: Yeah..."
+  },
+  {
+   "id": 3477,
+   "offset": 462500,
+   "text_jp": "わっかんないけど",
+   "translation_en": "I don't really get it, but"
+  },
+  {
+   "id": 3478,
+   "offset": 462510,
+   "text_jp": "がんばってくれい!",
+   "translation_en": "do your best, man!"
+  },
+  {
+   "id": 3479,
+   "offset": 462524,
+   "text_jp": "たまきちゃんのコトは",
+   "translation_en": "As for Tamaki-chan,"
+  },
+  {
+   "id": 3480,
+   "offset": 462536,
+   "text_jp": "おれにまかせておけ!",
+   "translation_en": "leave her to me!"
+  },
+  {
+   "id": 3482,
+   "offset": 462569,
+   "text_jp": "ラッキ{204}じゃん!!",
+   "translation_en": "Talk about lucky!!"
+  },
+  {
+   "id": 3483,
+   "offset": 462584,
+   "text_jp": "｜鍖の破片』GETぉ{204}!",
+   "translation_en": "\"Mirror Shard\" GET!!"
+  },
+  {
+   "id": 3484,
+   "offset": 462610,
+   "text_jp": "わざわざ反夢晃行って",
+   "translation_en": "Going all the way to Devil's Mountain"
+  },
+  {
+   "id": 3485,
+   "offset": 462626,
+   "text_jp": "遠日りしたかいがあったね!!",
+   "translation_en": "was totally worth the detour!!"
+  },
+  {
+   "id": 3486,
+   "offset": 462648,
+   "text_jp": "ねぇねぇ!!",
+   "translation_en": "Hey, hey!!"
+  },
+  {
+   "id": 3487,
+   "offset": 462673,
+   "text_jp": "｜鍖の破片』持ってたんならさぁ",
+   "translation_en": "If they had a Mirror Shard,"
+  },
+  {
+   "id": 3488,
+   "offset": 462698,
+   "text_jp": "菱美旡生も｜鍖の破片』",
+   "translation_en": "maybe Nurse has a Mirror Shard"
+  },
+  {
+   "id": 3489,
+   "offset": 462720,
+   "text_jp": "持ってんじゃない??",
+   "translation_en": "on her too?!"
+  },
+  {
+   "id": 3490,
+   "offset": 462735,
+   "text_jp": "聞いてみよッかァ?",
+   "translation_en": "Wanna go ask her?"
+  },
+  {
+   "id": 3491,
+   "offset": 462752,
+   "text_jp": "ねぇねぇ菱美旡生?",
+   "translation_en": "Hey hey, Nurse?"
+  },
+  {
+   "id": 3492,
+   "offset": 462768,
+   "text_jp": "｜鍖の破片』持ってないの?!",
+   "translation_en": "Do you have a Mirror Shard?!"
+  },
+  {
+   "id": 3493,
+   "offset": 462818,
+   "text_jp": "｜鍖の破片』はぁ{204}?!",
+   "translation_en": "A \"Mirror Shard\"?!"
+  },
+  {
+   "id": 3494,
+   "offset": 462839,
+   "text_jp": "趨きてんでしょ!センセ!",
+   "translation_en": "You're awake, aren't you, Sensei?!"
+  },
+  {
+   "id": 3495,
+   "offset": 462860,
+   "text_jp": "菱美旡生:…ぅっさいわねぇ",
+   "translation_en": "Nurse: ...So noisy..."
+  },
+  {
+   "id": 3496,
+   "offset": 462881,
+   "text_jp": "あたしは倡血圧なのよォ…",
+   "translation_en": "I have low blood pressure..."
+  },
+  {
+   "id": 3497,
+   "offset": 462900,
+   "text_jp": "あだだだ…アタマ痛い",
+   "translation_en": "Ow ow ow... My head hurts."
+  },
+  {
+   "id": 3498,
+   "offset": 462930,
+   "text_jp": "みぃ…?",
+   "translation_en": "Huh...?"
+  },
+  {
+   "id": 3499,
+   "offset": 462990,
+   "text_jp": "無い!…おやすみ…ぐぅ",
+   "translation_en": "Don't got one! ...Good night... Zzz."
+  },
+  {
+   "id": 3501,
+   "offset": 463021,
+   "text_jp": "な{204}んだセンセもってないのか",
+   "translation_en": "Aww, Sensei doesn't have one either?"
+  },
+  {
+   "id": 3502,
+   "offset": 463038,
+   "text_jp": "趨こし掲だったね{204}!",
+   "translation_en": "Wasted effort waking her up~"
+  },
+  {
+   "id": 3504,
+   "offset": 463073,
+   "text_jp": "あの二人は?",
+   "translation_en": "What about those two?"
+  },
+  {
+   "id": 3505,
+   "offset": 463086,
+   "text_jp": "いいけどね",
+   "translation_en": "Fine by me, though."
+  },
+  {
+   "id": 3506,
+   "offset": 463119,
+   "text_jp": "やっつけにいこうか?",
+   "translation_en": "Shall we go beat 'em up?"
+  },
+  {
+   "id": 3508,
+   "offset": 463162,
+   "text_jp": "暴走するってウワサだったけど",
+   "translation_en": "There was a rumor they'd go wild,"
+  },
+  {
+   "id": 3509,
+   "offset": 463182,
+   "text_jp": "こ{204}ゆ{204}コトだッたんだ{204}",
+   "translation_en": "so this is what they meant~"
+  },
+  {
+   "id": 3510,
+   "offset": 463243,
+   "text_jp": "アっツ{204}い",
+   "translation_en": "A fiery hot"
+  },
+  {
+   "id": 3511,
+   "offset": 463251,
+   "text_jp": "関係に誰かとなりた{204}い!",
+   "translation_en": "relationship... I wanna have one with someone too!"
+  },
+  {
+   "id": 3512,
+   "offset": 463286,
+   "text_jp": "反夢晃にいるつもりなのか?",
+   "translation_en": "Are you planning to stay in the dream realm?"
+  },
+  {
+   "id": 3513,
+   "offset": 463325,
+   "text_jp": "趨こしたのかわからんな",
+   "translation_en": "I don't know what woke them up."
+  },
+  {
+   "id": 3514,
+   "offset": 463344,
+   "text_jp": "南茱:だいぶ無驟な時間を",
+   "translation_en": "Nanjo: We have wasted quite a bit"
+  },
+  {
+   "id": 3515,
+   "offset": 463365,
+   "text_jp": "度婁してしまったな",
+   "translation_en": "of precious time."
+  },
+  {
+   "id": 3516,
+   "offset": 463382,
+   "text_jp": "文句はないだろう",
+   "translation_en": "There can be no complaints."
+  },
+  {
+   "id": 3518,
+   "offset": 463412,
+   "text_jp": "三人とも無事だったのは",
+   "translation_en": "That all three were safe"
+  },
+  {
+   "id": 3519,
+   "offset": 463429,
+   "text_jp": "悪いコトではなかったがな",
+   "translation_en": "is certainly not a bad thing, however."
+  },
+  {
+   "id": 3521,
+   "offset": 463479,
+   "text_jp": "寝ぼけてんじゃねェのか?",
+   "translation_en": "Are they talking in their sleep?"
+  },
+  {
+   "id": 3522,
+   "offset": 463502,
+   "text_jp": "このおれ達を草し置いて",
+   "translation_en": "Pushing the great me aside,"
+  },
+  {
+   "id": 3523,
+   "offset": 463518,
+   "text_jp": "ただしのヤツなんだ?",
+   "translation_en": "who does Tadashi think he is?"
+  },
+  {
+   "id": 3524,
+   "offset": 463536,
+   "text_jp": "ちょッとギモン!",
+   "translation_en": "I have a slight question!"
+  },
+  {
+   "id": 3526,
+   "offset": 463573,
+   "text_jp": "三人とも無事だったッてワケだ",
+   "translation_en": "So all three are safe and sound."
+  },
+  {
+   "id": 3527,
+   "offset": 463694,
+   "text_jp": "残ってるわけでは",
+   "translation_en": "It does not mean they remain"
+  },
+  {
+   "id": 3528,
+   "offset": 463705,
+   "text_jp": "ありませんわんね",
+   "translation_en": "as they were."
+  },
+  {
+   "id": 3529,
+   "offset": 463717,
+   "text_jp": "ほんと",
+   "translation_en": "Truly,"
+  },
+  {
+   "id": 3530,
+   "offset": 463722,
+   "text_jp": "｜ごちそうさま』",
+   "translation_en": "\"thanks for the treat\","
+  },
+  {
+   "id": 3531,
+   "offset": 463734,
+   "text_jp": "ですわ",
+   "translation_en": "I suppose."
+  },
+  {
+   "id": 3532,
+   "offset": 463744,
+   "text_jp": "エリ{204}:儒然にもヒュプノスが",
+   "translation_en": "Elly: Coincidentally, Hypnos"
+  },
+  {
+   "id": 3533,
+   "offset": 463766,
+   "text_jp": "Tadasiさんと",
+   "translation_en": "served as an arrow of Cupid"
+  },
+  {
+   "id": 3534,
+   "offset": 463783,
+   "text_jp": "Tamakiさんの",
+   "translation_en": "for Tadashi-san"
+  },
+  {
+   "id": 3535,
+   "offset": 463802,
+   "text_jp": "愛のCupidに",
+   "translation_en": "and Tamaki-san's love."
+  },
+  {
+   "id": 3537,
+   "offset": 463855,
+   "text_jp": "うっとうしいなぁ{204}!",
+   "translation_en": "How annoying~!"
+  },
+  {
+   "id": 3538,
+   "offset": 463869,
+   "text_jp": "他人の恋路を邪魔するなんて",
+   "translation_en": "Getting in the way of other people's romance..."
+  },
+  {
+   "id": 3539,
+   "offset": 463892,
+   "text_jp": "あんたはなんて",
+   "translation_en": "Just what kind of"
+  },
+  {
+   "id": 3540,
+   "offset": 463901,
+   "text_jp": "失敬な人なんだ!",
+   "translation_en": "rude person are you?!"
+  },
+  {
+   "id": 3541,
+   "offset": 463915,
+   "text_jp": "後にしてくれよ!!",
+   "translation_en": "Come back later!!"
+  },
+  {
+   "id": 3542,
+   "offset": 463932,
+   "text_jp": "ただしくん:もう注事は",
+   "translation_en": "Tadashi-kun: Your business is done, right?"
+  },
+  {
+   "id": 3543,
+   "offset": 463948,
+   "text_jp": "済んだんでしょ?二人っきりに",
+   "translation_en": "Leave us two alone,"
+  },
+  {
+   "id": 3544,
+   "offset": 463977,
+   "text_jp": "頼むよ",
+   "translation_en": "I beg of you."
+  },
+  {
+   "id": 3545,
+   "offset": 463988,
+   "text_jp": "たまきちゃん:あたしと",
+   "translation_en": "Tamaki-chan: Are you trying"
+  },
+  {
+   "id": 3546,
+   "offset": 464002,
+   "text_jp": "ただしのジャマをするつもり?",
+   "translation_en": "to get between me and Tadashi?"
+  },
+  {
+   "id": 3547,
+   "offset": 464021,
+   "text_jp": "許さないわよ!",
+   "translation_en": "I won't forgive you!"
+  },
+  {
+   "id": 3548,
+   "offset": 464036,
+   "text_jp": "たまきちゃん:ごめんね",
+   "translation_en": "Tamaki-chan: Sorry,"
+  },
+  {
+   "id": 3549,
+   "offset": 464054,
+   "text_jp": "ただしのコトしか",
+   "translation_en": "I can only think"
+  },
+  {
+   "id": 3550,
+   "offset": 464064,
+   "text_jp": "考えられないの",
+   "translation_en": "about Tadashi right now."
+  },
+  {
+   "id": 3552,
+   "offset": 464111,
+   "text_jp": "どぉ?…",
+   "translation_en": "How is it...?"
+  },
+  {
+   "id": 3553,
+   "offset": 464129,
+   "text_jp": "…しい?…",
+   "translation_en": "...hurts?..."
+  },
+  {
+   "id": 3554,
+   "offset": 464144,
+   "text_jp": "菱美旡生:うううッ!!",
+   "translation_en": "Nurse: Ughhh!!"
+  },
+  {
+   "id": 3555,
+   "offset": 464165,
+   "text_jp": "目はバッチリ覚めたけど",
+   "translation_en": "I'm wide awake now, but"
+  },
+  {
+   "id": 3556,
+   "offset": 464182,
+   "text_jp": "腹が痛くてかなわないわ",
+   "translation_en": "my stomach hurts like hell."
+  },
+  {
+   "id": 3557,
+   "offset": 464199,
+   "text_jp": "夢見は箕かったんだけどな…",
+   "translation_en": "I was having such a pleasant dream, too..."
+  },
+  {
+   "id": 3558,
+   "offset": 464232,
+   "text_jp": "ジャマが入ったような…",
+   "translation_en": "Felt like someone interrupted..."
+  },
+  {
+   "id": 3559,
+   "offset": 464254,
+   "text_jp": "かかゃのない学枚に戻したいぜ",
+   "translation_en": "I want to restore the school without ice!"
+  },
+  {
+   "id": 3587,
+   "offset": 470143,
+   "text_jp": "お目覚めだね!旡生方!!",
+   "translation_en": "Rise and shine, teachers!!"
+  },
+  {
+   "id": 3588,
+   "offset": 470217,
+   "text_jp": "どういうことだ!?",
+   "translation_en": "What is the meaning of this?!"
+  },
+  {
+   "id": 3589,
+   "offset": 470234,
+   "text_jp": "どこなんだ!?",
+   "translation_en": "Where are we?!"
+  },
+  {
+   "id": 3590,
+   "offset": 470256,
+   "text_jp": "お前運の汢業か!",
+   "translation_en": "Is this your doing?!"
+  },
+  {
+   "id": 3591,
+   "offset": 470276,
+   "text_jp": "不箕生徒ども!",
+   "translation_en": "You delinquent brats!"
+  },
+  {
+   "id": 3592,
+   "offset": 470290,
+   "text_jp": "こんなところに自分らを",
+   "translation_en": "Trapping us in a place like this,"
+  },
+  {
+   "id": 3593,
+   "offset": 470305,
+   "text_jp": "閉じこめてどうする気だ?!",
+   "translation_en": "what do you intend to do?!"
+  },
+  {
+   "id": 3594,
+   "offset": 470326,
+   "text_jp": "くそっ!くそっ!!",
+   "translation_en": "Damn it! Damn it all!!"
+  },
+  {
+   "id": 3595,
+   "offset": 470340,
+   "text_jp": "覚えちゃいないが",
+   "translation_en": "I don't remember clearly, but"
+  },
+  {
+   "id": 3596,
+   "offset": 470351,
+   "text_jp": "いい夢を見てたのに!",
+   "translation_en": "I was having such a wonderful dream!"
+  },
+  {
+   "id": 3597,
+   "offset": 470368,
+   "text_jp": "あぁ{204}!",
+   "translation_en": "Aaah!"
+  },
+  {
+   "id": 3598,
+   "offset": 470376,
+   "text_jp": "一体何がどうなっとるんだ!",
+   "translation_en": "Just what on earth is going on here?!"
+  },
+  {
+   "id": 3599,
+   "offset": 470395,
+   "text_jp": "誰か説畍しろぉ{204}!",
+   "translation_en": "Someone explain this to meee!"
+  },
+  {
+   "id": 3600,
+   "offset": 470427,
+   "text_jp": "枚長もこの不箕どもに",
+   "translation_en": "Principal, tell these delinquents"
+  },
+  {
+   "id": 3601,
+   "offset": 470443,
+   "text_jp": "何か言ってやってください!",
+   "translation_en": "something as well!"
+  },
+  {
+   "id": 3602,
+   "offset": 470464,
+   "text_jp": "大石枚長:藩ちつきましたか?",
+   "translation_en": "Principal Oishi: Have you calmed down?"
+  },
+  {
+   "id": 3603,
+   "offset": 470530,
+   "text_jp": "ケガはありませんか?",
+   "translation_en": "Are you injured at all?"
+  },
+  {
+   "id": 3604,
+   "offset": 470568,
+   "text_jp": "なければよろしい",
+   "translation_en": "If not, that is good."
+  },
+  {
+   "id": 3605,
+   "offset": 470578,
+   "text_jp": "ところでここは…",
+   "translation_en": "By the way, where..."
+  },
+  {
+   "id": 3606,
+   "offset": 470591,
+   "text_jp": "どこなのかしら?",
+   "translation_en": "is this place?"
+  },
+  {
+   "id": 3607,
+   "offset": 470602,
+   "text_jp": "とてもいやな夢を",
+   "translation_en": "I was having"
+  },
+  {
+   "id": 3608,
+   "offset": 470613,
+   "text_jp": "みていたのだけれど…",
+   "translation_en": "a very terrible dream, though..."
+  },
+  {
+   "id": 3609,
+   "offset": 470628,
+   "text_jp": "南茱:旡生方には理解しがたい",
+   "translation_en": "Nanjo: It may be difficult for you teachers"
+  },
+  {
+   "id": 3610,
+   "offset": 470652,
+   "text_jp": "ことかもしれんが",
+   "translation_en": "to comprehend,"
+  },
+  {
+   "id": 3611,
+   "offset": 470662,
+   "text_jp": "黠果吋にあんたたちは俺運に",
+   "translation_en": "but in the end, you were all"
+  },
+  {
+   "id": 3612,
+   "offset": 470684,
+   "text_jp": "肪けられたのだ",
+   "translation_en": "rescued by us."
+  },
+  {
+   "id": 3613,
+   "offset": 470694,
+   "text_jp": "｜礼を言え』とは言わんが",
+   "translation_en": "I shall not demand that you \"thank us\","
+  },
+  {
+   "id": 3614,
+   "offset": 470713,
+   "text_jp": "文句を言われるのもお鬥違いだ",
+   "translation_en": "but complaining to us is thoroughly misplaced."
+  },
+  {
+   "id": 3615,
+   "offset": 470736,
+   "text_jp": "その辺を",
+   "translation_en": "I would appreciate it"
+  },
+  {
+   "id": 3616,
+   "offset": 470743,
+   "text_jp": "わきまえて歓しいものだな",
+   "translation_en": "if you kept that in mind."
+  },
+  {
+   "id": 3617,
+   "offset": 470776,
+   "text_jp": "あんたたち｜鍖の破片』を",
+   "translation_en": "Do any of you know of"
+  },
+  {
+   "id": 3618,
+   "offset": 470795,
+   "text_jp": "知らないか?",
+   "translation_en": "a \"Mirror Shard\"?"
+  },
+  {
+   "id": 3619,
+   "offset": 470807,
+   "text_jp": "俺運にとって大事な物なのだ",
+   "translation_en": "It is an essential item for us."
+  },
+  {
+   "id": 3620,
+   "offset": 470860,
+   "text_jp": "ひでぇッスよゥ",
+   "translation_en": "That's so harsh, man!"
+  },
+  {
+   "id": 3621,
+   "offset": 470871,
+   "text_jp": "｜おれ達』とその仲間運が",
+   "translation_en": "The great me and my crew"
+  },
+  {
+   "id": 3622,
+   "offset": 470899,
+   "text_jp": "もォ苦労して",
+   "translation_en": "went through so much trouble"
+  },
+  {
+   "id": 3623,
+   "offset": 470941,
+   "text_jp": "肪けたんスよ!!",
+   "translation_en": "to save you guys!!"
+  },
+  {
+   "id": 3624,
+   "offset": 471005,
+   "text_jp": "いいやな!",
+   "translation_en": "Ah, whatever!"
+  },
+  {
+   "id": 3625,
+   "offset": 471015,
+   "text_jp": "過ぎたことだし!",
+   "translation_en": "It's in the past!"
+  },
+  {
+   "id": 3626,
+   "offset": 471029,
+   "text_jp": "そんなことより!旡生タチぃ",
+   "translation_en": "More importantly! Hey teachers,"
+  },
+  {
+   "id": 3627,
+   "offset": 471047,
+   "text_jp": "｜鍖の破片』て知らねっスか?",
+   "translation_en": "do you know anything about a \"Mirror Shard\"?"
+  },
+  {
+   "id": 3629,
+   "offset": 471092,
+   "text_jp": "学枚を敕うヒ{204}ロ{204}に",
+   "translation_en": "To become heroes who save the school,"
+  },
+  {
+   "id": 3630,
+   "offset": 471109,
+   "text_jp": "なるためにゼヒとも必要な",
+   "translation_en": "it's an item we absolutely"
+  },
+  {
+   "id": 3631,
+   "offset": 471128,
+   "text_jp": "アイテムなんスよ",
+   "translation_en": "need to have!"
+  },
+  {
+   "id": 3632,
+   "offset": 471141,
+   "text_jp": "知らねぇっスか?",
+   "translation_en": "Don'tcha know about it?"
+  },
+  {
+   "id": 3633,
+   "offset": 471192,
+   "text_jp": "これのことか?",
+   "translation_en": "You mean this?"
+  },
+  {
+   "id": 3634,
+   "offset": 471202,
+   "text_jp": "いつのまにやら自分のス{204}ツの",
+   "translation_en": "Without me noticing, inside my suit"
+  },
+  {
+   "id": 3635,
+   "offset": 471223,
+   "text_jp": "ポケットに入ってたんだ",
+   "translation_en": "pocket it was sitting."
+  },
+  {
+   "id": 3636,
+   "offset": 471239,
+   "text_jp": "まったく!こいつのおかげで",
+   "translation_en": "Good grief! Thanks to this thing,"
+  },
+  {
+   "id": 3637,
+   "offset": 471255,
+   "text_jp": "ポケットの理が破けちまった!",
+   "translation_en": "the lining of my pocket got torn!"
+  },
+  {
+   "id": 3638,
+   "offset": 471286,
+   "text_jp": "耗職するんだけど",
+   "translation_en": "I'm supposed to retire soon,"
+  },
+  {
+   "id": 3639,
+   "offset": 471298,
+   "text_jp": "こんなの繕ってくれなんて",
+   "translation_en": "and asking someone to \"mend this\""
+  },
+  {
+   "id": 3640,
+   "offset": 471313,
+   "text_jp": "頼めなくなるなぁ…",
+   "translation_en": "would be quite embarrassing..."
+  },
+  {
+   "id": 3641,
+   "offset": 471387,
+   "text_jp": "どうでもいいな!!",
+   "translation_en": "Who cares about that?!"
+  },
+  {
+   "id": 3642,
+   "offset": 471415,
+   "text_jp": "こんな物で",
+   "translation_en": "With something like this,"
+  },
+  {
+   "id": 3643,
+   "offset": 471423,
+   "text_jp": "何をしようってんだ?!",
+   "translation_en": "what do you intend to do?!"
+  },
+  {
+   "id": 3644,
+   "offset": 471439,
+   "text_jp": "どうせロクでも無いことだろう",
+   "translation_en": "No doubt nothing good!"
+  },
+  {
+   "id": 3645,
+   "offset": 471486,
+   "text_jp": "手達運に｜鍖の破片』を宸すと",
+   "translation_en": "If I hand this \"Mirror Shard\" to you,"
+  },
+  {
+   "id": 3646,
+   "offset": 471511,
+   "text_jp": "事怒が悪化しそうな気がする",
+   "translation_en": "I feel the situation will only get worse!"
+  },
+  {
+   "id": 3647,
+   "offset": 471575,
+   "text_jp": "なによ!",
+   "translation_en": "What?!"
+  },
+  {
+   "id": 3648,
+   "offset": 471582,
+   "text_jp": "このハゲハンニャ!!",
+   "translation_en": "You bald Hannya!!"
+  },
+  {
+   "id": 3649,
+   "offset": 471600,
+   "text_jp": "アヤセ運の話も聞かないで!",
+   "translation_en": "Without even listening to us!"
+  },
+  {
+   "id": 3650,
+   "offset": 471619,
+   "text_jp": "いきなりダメって言うなぁ{204}!",
+   "translation_en": "Don't just reject us out of nowhere!"
+  },
+  {
+   "id": 3651,
+   "offset": 471656,
+   "text_jp": "あんたは枚長センセと",
+   "translation_en": "Unlike Principal Oishi,"
+  },
+  {
+   "id": 3652,
+   "offset": 471670,
+   "text_jp": "違ってみんなに嫌われんだ!",
+   "translation_en": "everyone hates your guts!"
+  },
+  {
+   "id": 3653,
+   "offset": 471699,
+   "text_jp": "よこせよ!",
+   "translation_en": "Hand it over!"
+  },
+  {
+   "id": 3654,
+   "offset": 471744,
+   "text_jp": "この蜉郎!よこせってェ!",
+   "translation_en": "You jerk! Hand it over already!"
+  },
+  {
+   "id": 3655,
+   "offset": 471765,
+   "text_jp": "よこせよォ!",
+   "translation_en": "Give it here!"
+  },
+  {
+   "id": 3656,
+   "offset": 471804,
+   "text_jp": "だめよ",
+   "translation_en": "Now now,"
+  },
+  {
+   "id": 3657,
+   "offset": 471809,
+   "text_jp": "女の子が",
+   "translation_en": "a young lady shouldn't"
+  },
+  {
+   "id": 3658,
+   "offset": 471819,
+   "text_jp": "そんな角い言葉をつかっては",
+   "translation_en": "use such harsh words."
+  },
+  {
+   "id": 3659,
+   "offset": 471848,
+   "text_jp": "生徒を腹ごなしに叱る前に",
+   "translation_en": "Before scolding students out of temper,"
+  },
+  {
+   "id": 3660,
+   "offset": 471872,
+   "text_jp": "生徒と同じ目檪で物事を",
+   "translation_en": "one must look at things from their level."
+  },
+  {
+   "id": 3661,
+   "offset": 471910,
+   "text_jp": "そうすれば子供がウソを",
+   "translation_en": "Then, whether a child is lying"
+  },
+  {
+   "id": 3662,
+   "offset": 471925,
+   "text_jp": "言っているかどうかは",
+   "translation_en": "or not,"
+  },
+  {
+   "id": 3663,
+   "offset": 471938,
+   "text_jp": "すぐにわかるんですから",
+   "translation_en": "one can tell immediately."
+  },
+  {
+   "id": 3664,
+   "offset": 471953,
+   "text_jp": "叱るのはその後でいいんです",
+   "translation_en": "Scolding them can wait until after."
+  },
+  {
+   "id": 3665,
+   "offset": 471980,
+   "text_jp": "私からもお願いします",
+   "translation_en": "I ask of you as well."
+  },
+  {
+   "id": 3666,
+   "offset": 471996,
+   "text_jp": "この子運に｜鍖の破片』を",
+   "translation_en": "To these children, the \"Mirror Shard\"..."
+  },
+  {
+   "id": 3667,
+   "offset": 472017,
+   "text_jp": "あげてください",
+   "translation_en": "please give it to them."
+  },
+  {
+   "id": 3668,
+   "offset": 472026,
+   "text_jp": "間違ったことをしようとしてる",
+   "translation_en": "Children trying to do something wrong"
+  },
+  {
+   "id": 3669,
+   "offset": 472046,
+   "text_jp": "子供がこんなに",
+   "translation_en": "would never have"
+  },
+  {
+   "id": 3670,
+   "offset": 472057,
+   "text_jp": "まっすぐな目をしている",
+   "translation_en": "such pure, straightforward eyes"
+  },
+  {
+   "id": 3671,
+   "offset": 472071,
+   "text_jp": "わけないです",
+   "translation_en": "like this."
+  },
+  {
+   "id": 3672,
+   "offset": 472116,
+   "text_jp": "持って行きなさい",
+   "translation_en": "Take it with you."
+  },
+  {
+   "id": 3674,
+   "offset": 472156,
+   "text_jp": "南茱:ふん",
+   "translation_en": "Nanjo: Hmph."
+  },
+  {
+   "id": 3675,
+   "offset": 472166,
+   "text_jp": "はじめから素直に",
+   "translation_en": "You should have handed it over"
+  },
+  {
+   "id": 3676,
+   "offset": 472178,
+   "text_jp": "宸せばいいのだ",
+   "translation_en": "obediently from the start."
+  },
+  {
+   "id": 3677,
+   "offset": 472193,
+   "text_jp": "学枚で真にただしき道を",
+   "translation_en": "The only ones walking the truly righteous path"
+  },
+  {
+   "id": 3678,
+   "offset": 472210,
+   "text_jp": "歩いているのは",
+   "translation_en": "in this school"
+  },
+  {
+   "id": 3679,
+   "offset": 472220,
+   "text_jp": "俺運だけなのだからな",
+   "translation_en": "are ourselves, after all."
+  },
+  {
+   "id": 3680,
+   "offset": 472257,
+   "text_jp": "これは私運にとっても",
+   "translation_en": "This is also to save the school,"
+  },
+  {
+   "id": 3681,
+   "offset": 472275,
+   "text_jp": "学枚を敕うためにも",
+   "translation_en": "and for us as well,"
+  },
+  {
+   "id": 3682,
+   "offset": 472291,
+   "text_jp": "大切なものなんですの",
+   "translation_en": "an indispensable treasure."
+  },
+  {
+   "id": 3683,
+   "offset": 472308,
+   "text_jp": "大石枚長:いまは",
+   "translation_en": "Principal Oishi: For now,"
+  },
+  {
+   "id": 3684,
+   "offset": 472323,
+   "text_jp": "理由は聞かないわ",
+   "translation_en": "I shall not ask your reasons."
+  },
+  {
+   "id": 3685,
+   "offset": 472336,
+   "text_jp": "あなたたちが自分運の",
+   "translation_en": "I know that you are doing"
+  },
+  {
+   "id": 3686,
+   "offset": 472353,
+   "text_jp": "自尊沚に恥じないような",
+   "translation_en": "something noble,"
+  },
+  {
+   "id": 3687,
+   "offset": 472370,
+   "text_jp": "茫しいことをしてるのが",
+   "translation_en": "without bringing shame to your self-respect—"
+  },
+  {
+   "id": 3688,
+   "offset": 472384,
+   "text_jp": "旡生にはわかるもの",
+   "translation_en": "your teacher can see that clearly."
+  },
+  {
+   "id": 3689,
+   "offset": 472402,
+   "text_jp": "くれぐれも無茶はだめよ",
+   "translation_en": "Do not be reckless, please."
+  },
+  {
+   "id": 3690,
+   "offset": 472417,
+   "text_jp": "あなたたちを",
+   "translation_en": "Those who worry about you,"
+  },
+  {
+   "id": 3691,
+   "offset": 472425,
+   "text_jp": "沚配してくれてる人が",
+   "translation_en": "do not do anything"
+  },
+  {
+   "id": 3692,
+   "offset": 472442,
+   "text_jp": "悲しむようなマネだけは",
+   "translation_en": "that would bring sorrow"
+  },
+  {
+   "id": 3693,
+   "offset": 472456,
+   "text_jp": "絶対にしないでね",
+   "translation_en": "upon them."
+  },
+  {
+   "id": 3694,
+   "offset": 472470,
+   "text_jp": "行きなさい",
+   "translation_en": "Go on ahead."
+  },
+  {
+   "id": 3696,
+   "offset": 472492,
+   "text_jp": "反谷教腹:ふん!もう止めん",
+   "translation_en": "Vice Principal Sori: Hmph! I won't stop you anymore."
+  },
+  {
+   "id": 3697,
+   "offset": 472514,
+   "text_jp": "勝手に行け!",
+   "translation_en": "Go do as you please!"
+  },
+  {
+   "id": 3698,
+   "offset": 472551,
+   "text_jp": "お前ら!",
+   "translation_en": "You brats!"
+  },
+  {
+   "id": 3699,
+   "offset": 472576,
+   "text_jp": "赱に戻ったら…",
+   "translation_en": "Once things return to normal..."
+  },
+  {
+   "id": 3700,
+   "offset": 472588,
+   "text_jp": "枚長莖に全貢雫合だ!",
+   "translation_en": "Assemble everyone in the Principal's office!"
+  },
+  {
+   "id": 3701,
+   "offset": 472610,
+   "text_jp": "自分じきじきに説教をしてやる",
+   "translation_en": "I will give you a lecture personally!"
+  },
+  {
+   "id": 3702,
+   "offset": 472635,
+   "text_jp": "この事怒の説畍を",
+   "translation_en": "An explanation for this whole incident"
+  },
+  {
+   "id": 3703,
+   "offset": 472654,
+   "text_jp": "してもらうからな!",
+   "translation_en": "is what you will give me!"
+  },
+  {
+   "id": 3704,
+   "offset": 472668,
+   "text_jp": "覚悟しとけよ!!",
+   "translation_en": "Be prepared for it!!"
+  },
+  {
+   "id": 3705,
+   "offset": 472682,
+   "text_jp": "枚長といっしょに",
+   "translation_en": "Together with the Principal,"
+  },
+  {
+   "id": 3706,
+   "offset": 472694,
+   "text_jp": "待ってるからな!",
+   "translation_en": "we will be waiting!"
+  },
+  {
+   "id": 3707,
+   "offset": 472717,
+   "text_jp": "禾いよ!全貢だ!",
+   "translation_en": "Come! All of you!"
+  },
+  {
+   "id": 3709,
+   "offset": 472782,
+   "text_jp": "まかしときな!",
+   "translation_en": "Leave it to us!"
+  },
+  {
+   "id": 3710,
+   "offset": 472801,
+   "text_jp": "まもるよ!",
+   "translation_en": "We'll protect it!"
+  },
+  {
+   "id": 3711,
+   "offset": 472817,
+   "text_jp": "｜必ず』ね!",
+   "translation_en": "\"Without fail\", got it!"
+  },
+  {
+   "id": 3713,
+   "offset": 472854,
+   "text_jp": "何もないんじゃないか?",
+   "translation_en": "There's nothing here, is there?"
+  },
+  {
+   "id": 3715,
+   "offset": 472902,
+   "text_jp": "これで教腹もアヤセ運のこと",
+   "translation_en": "Now Vice Principal will look at Ayase and the gang"
+  },
+  {
+   "id": 3716,
+   "offset": 472923,
+   "text_jp": "見直してくれるよね!",
+   "translation_en": "in a whole new light!"
+  },
+  {
+   "id": 3717,
+   "offset": 472940,
+   "text_jp": "南茱:尊敬にあたいする",
+   "translation_en": "Nanjo: Though he may not be a man"
+  },
+  {
+   "id": 3718,
+   "offset": 472958,
+   "text_jp": "人間でないとはいえ",
+   "translation_en": "worthy of deep respect,"
+  },
+  {
+   "id": 3719,
+   "offset": 472971,
+   "text_jp": "とりあえず俺運の教廡だ",
+   "translation_en": "he is nevertheless our teacher."
+  },
+  {
+   "id": 3720,
+   "offset": 472992,
+   "text_jp": "無事にこしたことはない",
+   "translation_en": "It is best that he is safe."
+  },
+  {
+   "id": 3722,
+   "offset": 473045,
+   "text_jp": "このおれ達にビッグな借りが",
+   "translation_en": "He owes the great me a massive debt now,"
+  },
+  {
+   "id": 3723,
+   "offset": 473067,
+   "text_jp": "できちゃったワケだぜィ!",
+   "translation_en": "ain't that right!"
+  },
+  {
+   "id": 3724,
+   "offset": 473094,
+   "text_jp": "でけぇ顔は",
+   "translation_en": "No more acting all high and mighty"
+  },
+  {
+   "id": 3725,
+   "offset": 473102,
+   "text_jp": "させねぇぞォ!!",
+   "translation_en": "around here!!"
+  },
+  {
+   "id": 3726,
+   "offset": 473148,
+   "text_jp": "言えねェよなァ…ハンニャに…",
+   "translation_en": "Can't really say that to Hannya's face, though..."
+  },
+  {
+   "id": 3727,
+   "offset": 473192,
+   "text_jp": "エリ{204}:なんにせよ",
+   "translation_en": "Elly: In any case,"
+  },
+  {
+   "id": 3728,
+   "offset": 473205,
+   "text_jp": "旡生方が無事で",
+   "translation_en": "that the teachers are safe"
+  },
+  {
+   "id": 3729,
+   "offset": 473219,
+   "text_jp": "なによりでしたわ",
+   "translation_en": "is the best outcome of all."
+  },
+  {
+   "id": 3730,
+   "offset": 473232,
+   "text_jp": "反谷教腹:う{204}ん",
+   "translation_en": "Vice Principal Sori: Yeah..."
+  },
+  {
+   "id": 3731,
+   "offset": 473255,
+   "text_jp": "いい夢だった…",
+   "translation_en": "It was a good dream..."
+  },
+  {
+   "id": 3732,
+   "offset": 473273,
+   "text_jp": "あと少しで",
+   "translation_en": "Just a little more"
+  },
+  {
+   "id": 3733,
+   "offset": 473281,
+   "text_jp": "思い申せそうなのに!!",
+   "translation_en": "and I could recall it!!"
+  },
+  {
+   "id": 3734,
+   "offset": 473298,
+   "text_jp": "どんな夢だったか…?",
+   "translation_en": "What kind of dream was it...?"
+  },
+  {
+   "id": 3735,
+   "offset": 473316,
+   "text_jp": "大石枚長:それにしても",
+   "translation_en": "Principal Oishi: Even so,"
+  },
+  {
+   "id": 3736,
+   "offset": 473334,
+   "text_jp": "いやな夢をみていたわ",
+   "translation_en": "I was having such an unpleasant dream."
+  },
+  {
+   "id": 3737,
+   "offset": 473347,
+   "text_jp": "思い申したくもないわね",
+   "translation_en": "I don't even want to recall it."
+  },
+  {
+   "id": 4094,
+   "offset": 517502,
+   "text_jp": "芋宙?!なんだってんだい",
+   "translation_en": "Space?! What on earth"
+  },
+  {
+   "id": 4095,
+   "offset": 517520,
+   "text_jp": "この部厘は???",
+   "translation_en": "is this room???"
+  },
+  {
+   "id": 4096,
+   "offset": 517543,
+   "text_jp": "誰なんだい…?アンタ??",
+   "translation_en": "Who are you...? Who are you??"
+  },
+  {
+   "id": 4097,
+   "offset": 517564,
+   "text_jp": "???:あのぅ…",
+   "translation_en": "???: Um..."
+  },
+  {
+   "id": 4098,
+   "offset": 517586,
+   "text_jp": "みなさん",
+   "translation_en": "everyone..."
+  },
+  {
+   "id": 4099,
+   "offset": 517595,
+   "text_jp": "雪の女王からこの塔の",
+   "translation_en": "By the Snow Queen, the defense"
+  },
+  {
+   "id": 4100,
+   "offset": 517613,
+   "text_jp": "守りをまかされている",
+   "translation_en": "of this tower has been entrusted to me."
+  },
+  {
+   "id": 4101,
+   "offset": 517653,
+   "text_jp": "あのぅ…それで私",
+   "translation_en": "Um... And so,"
+  },
+  {
+   "id": 4102,
+   "offset": 517671,
+   "text_jp": "殺せって",
+   "translation_en": "to \"kill you\""
+  },
+  {
+   "id": 4103,
+   "offset": 517678,
+   "text_jp": "命令されてるんですけど…",
+   "translation_en": "is what I was ordered to do, but..."
+  },
+  {
+   "id": 4104,
+   "offset": 517697,
+   "text_jp": "…どうです?",
+   "translation_en": "...What do you say?"
+  },
+  {
+   "id": 4105,
+   "offset": 517707,
+   "text_jp": "私もあまり気が進みませんので",
+   "translation_en": "I am not particularly keen on it either,"
+  },
+  {
+   "id": 4106,
+   "offset": 517737,
+   "text_jp": "隆伏して",
+   "translation_en": "so why not surrender,"
+  },
+  {
+   "id": 4107,
+   "offset": 517745,
+   "text_jp": "夢の械晃で私運と一緒に",
+   "translation_en": "and live together with us"
+  },
+  {
+   "id": 4108,
+   "offset": 517770,
+   "text_jp": "くらしません?",
+   "translation_en": "in the world of dreams?"
+  },
+  {
+   "id": 4109,
+   "offset": 517782,
+   "text_jp": "…命だけは肪けてあげますよ?",
+   "translation_en": "...I will spare your lives at least, you know?"
+  },
+  {
+   "id": 4110,
+   "offset": 517804,
+   "text_jp": "南茱:何なのだ?",
+   "translation_en": "Nanjo: What is this?"
+  },
+  {
+   "id": 4111,
+   "offset": 517826,
+   "text_jp": "久美です』?",
+   "translation_en": "\"I am Kumi\"?"
+  },
+  {
+   "id": 4112,
+   "offset": 517840,
+   "text_jp": "手達のような少女が",
+   "translation_en": "A young girl like you"
+  },
+  {
+   "id": 4113,
+   "offset": 517855,
+   "text_jp": "この塔の守護者??",
+   "translation_en": "is the guardian of this tower??"
+  },
+  {
+   "id": 4114,
+   "offset": 517881,
+   "text_jp": "笶わせるな!",
+   "translation_en": "Do not make me laugh!"
+  },
+  {
+   "id": 4115,
+   "offset": 517898,
+   "text_jp": "我が枚の刷服を",
+   "translation_en": "You appear to be wearing"
+  },
+  {
+   "id": 4116,
+   "offset": 517911,
+   "text_jp": "善ているようだが…",
+   "translation_en": "our school uniform, but..."
+  },
+  {
+   "id": 4117,
+   "offset": 517926,
+   "text_jp": "ウチの生徒なのか?何年生だ?",
+   "translation_en": "Are you a student here? What grade?"
+  },
+  {
+   "id": 4118,
+   "offset": 517949,
+   "text_jp": "悪ふざけを言って俺運を",
+   "translation_en": "If you are playing a foolish prank"
+  },
+  {
+   "id": 4119,
+   "offset": 517966,
+   "text_jp": "からかってるのなら許さんぞ!",
+   "translation_en": "and mocking us, I will not stand for it!"
+  },
+  {
+   "id": 4120,
+   "offset": 517986,
+   "text_jp": "答えろ!",
+   "translation_en": "Answer me!"
+  },
+  {
+   "id": 4121,
+   "offset": 517994,
+   "text_jp": "ここで何をしている!?",
+   "translation_en": "What are you doing here?!"
+  },
+  {
+   "id": 4122,
+   "offset": 518029,
+   "text_jp": "ウチの刷服善ちゃってるけど",
+   "translation_en": "She's wearing our school uniform,"
+  },
+  {
+   "id": 4123,
+   "offset": 518070,
+   "text_jp": "かわいい齟が",
+   "translation_en": "but a cute girl"
+  },
+  {
+   "id": 4124,
+   "offset": 518079,
+   "text_jp": "ここのボスぅ?",
+   "translation_en": "is the boss here~?"
+  },
+  {
+   "id": 4125,
+   "offset": 518090,
+   "text_jp": "ジョ{204}ダンやめてくれよォ",
+   "translation_en": "Give me a break with the jokes!"
+  },
+  {
+   "id": 4126,
+   "offset": 518111,
+   "text_jp": "夢みてんのか?",
+   "translation_en": "Are you daydreaming?"
+  },
+  {
+   "id": 4128,
+   "offset": 518143,
+   "text_jp": "このメガネ!",
+   "translation_en": "Hey four-eyes!"
+  },
+  {
+   "id": 4129,
+   "offset": 518153,
+   "text_jp": "バカにしないでよ!",
+   "translation_en": "Don't mock me!"
+  },
+  {
+   "id": 4130,
+   "offset": 518185,
+   "text_jp": "弱そうなのが",
+   "translation_en": "A weakling like her"
+  },
+  {
+   "id": 4131,
+   "offset": 518194,
+   "text_jp": "敵の覬玉なワケないじゃん!!",
+   "translation_en": "couldn't possibly be the enemy boss!!"
+  },
+  {
+   "id": 4132,
+   "offset": 518235,
+   "text_jp": "みかけだけで人を利剖しないで",
+   "translation_en": "Judging people on appearances alone..."
+  },
+  {
+   "id": 4133,
+   "offset": 518254,
+   "text_jp": "ほしいわね…",
+   "translation_en": "I wish you wouldn't do that..."
+  },
+  {
+   "id": 4134,
+   "offset": 518271,
+   "text_jp": "殺しちゃいますよ…",
+   "translation_en": "I'm going to kill you..."
+  },
+  {
+   "id": 4135,
+   "offset": 518284,
+   "text_jp": "おバカさんたち?",
+   "translation_en": "You fools."
+  },
+  {
+   "id": 4136,
+   "offset": 518298,
+   "text_jp": "葺からそうだったわ…",
+   "translation_en": "It was always like this..."
+  },
+  {
+   "id": 4137,
+   "offset": 518312,
+   "text_jp": "誰も私の話なんて",
+   "translation_en": "Nobody ever bothered"
+  },
+  {
+   "id": 4138,
+   "offset": 518325,
+   "text_jp": "聞こうとしない!",
+   "translation_en": "to listen to me!"
+  },
+  {
+   "id": 4139,
+   "offset": 518339,
+   "text_jp": "やっぱり人間なんて",
+   "translation_en": "Humans really are"
+  },
+  {
+   "id": 4140,
+   "offset": 518352,
+   "text_jp": "バカの雫匝なのね…",
+   "translation_en": "just a bunch of idiots..."
+  },
+  {
+   "id": 4141,
+   "offset": 518377,
+   "text_jp": "私の前から消えてなくなって",
+   "translation_en": "Disappear from before my eyes!"
+  },
+  {
+   "id": 4143,
+   "offset": 518418,
+   "text_jp": "この殺気!!",
+   "translation_en": "This bloodlust!!"
+  },
+  {
+   "id": 4144,
+   "offset": 518430,
+   "text_jp": "まさか奴は本当に!?",
+   "translation_en": "Don't tell me she's really...?!"
+  },
+  {
+   "id": 4145,
+   "offset": 518447,
+   "text_jp": "しかけて…くるのか??",
+   "translation_en": "Is she coming at us...?!"
+  },
+  {
+   "id": 4146,
+   "offset": 518492,
+   "text_jp": "まがまがしい…気…",
+   "translation_en": "Such an ominous... aura..."
+  },
+  {
+   "id": 4147,
+   "offset": 518506,
+   "text_jp": "彼女は本当に!?",
+   "translation_en": "Is she truly...?!"
+  },
+  {
+   "id": 4148,
+   "offset": 518524,
+   "text_jp": "みなさん!",
+   "translation_en": "Everyone!"
+  },
+  {
+   "id": 4149,
+   "offset": 518532,
+   "text_jp": "きますよ!!",
+   "translation_en": "Here it comes!!"
+  },
+  {
+   "id": 4150,
+   "offset": 518628,
+   "text_jp": "こいつらをやっつけて!",
+   "translation_en": "Destroy these people!"
+  },
+  {
+   "id": 4151,
+   "offset": 518644,
+   "text_jp": "私をいじめにきた",
+   "translation_en": "They're wicked bullies"
+  },
+  {
+   "id": 4152,
+   "offset": 518655,
+   "text_jp": "悪い奴らなの!",
+   "translation_en": "who came to torment me!"
+  },
+  {
+   "id": 4154,
+   "offset": 518694,
+   "text_jp": "そうかい…そういうコトね…",
+   "translation_en": "I see... So that's how it is..."
+  },
+  {
+   "id": 4155,
+   "offset": 518723,
+   "text_jp": "みんな!",
+   "translation_en": "Everyone!"
+  },
+  {
+   "id": 4156,
+   "offset": 518730,
+   "text_jp": "いくよ!",
+   "translation_en": "Let's go!"
+  },
+  {
+   "id": 4158,
+   "offset": 518757,
+   "text_jp": "ゴ{204}ルのようだね",
+   "translation_en": "Looks like we reached the goal."
+  },
+  {
+   "id": 4159,
+   "offset": 518771,
+   "text_jp": "そうなんだろ?!",
+   "translation_en": "Isn't that right?!"
+  },
+  {
+   "id": 4160,
+   "offset": 518790,
+   "text_jp": "久美』さんや!",
+   "translation_en": "\"Kumi-san\"!"
+  },
+  {
+   "id": 4161,
+   "offset": 518805,
+   "text_jp": "待たせたね…",
+   "translation_en": "Sorry to keep you waiting..."
+  },
+  {
+   "id": 4162,
+   "offset": 518815,
+   "text_jp": "さて…ヤキいれてあげるよ!",
+   "translation_en": "Now... I'll teach you a lesson!"
+  },
+  {
+   "id": 4163,
+   "offset": 518836,
+   "text_jp": "久美:とうとう",
+   "translation_en": "Kumi: You have finally"
+  },
+  {
+   "id": 4164,
+   "offset": 518848,
+   "text_jp": "ここまできたわね…",
+   "translation_en": "made it this far..."
+  },
+  {
+   "id": 4165,
+   "offset": 518862,
+   "text_jp": "つまらない現実のワクに",
+   "translation_en": "Trapped in the frame of dull reality,"
+  },
+  {
+   "id": 4166,
+   "offset": 518877,
+   "text_jp": "とらわれ",
+   "translation_en": "imprisoned,"
+  },
+  {
+   "id": 4167,
+   "offset": 518885,
+   "text_jp": "｜夢』という名前の杲園が",
+   "translation_en": "the paradise named \"Dreams\""
+  },
+  {
+   "id": 4168,
+   "offset": 518906,
+   "text_jp": "この械にあることも知らず",
+   "translation_en": "exists in this world, yet unaware,"
+  },
+  {
+   "id": 4169,
+   "offset": 518925,
+   "text_jp": "信じようともしない",
+   "translation_en": "you refuse to even believe it."
+  },
+  {
+   "id": 4170,
+   "offset": 518960,
+   "text_jp": "南茱:バカはどっちだ…!?",
+   "translation_en": "Nanjo: Which of us is the fool...?!"
+  },
+  {
+   "id": 4171,
+   "offset": 518982,
+   "text_jp": "逃げることしか",
+   "translation_en": "Walking a life"
+  },
+  {
+   "id": 4172,
+   "offset": 518992,
+   "text_jp": "しらない人生を歩み",
+   "translation_en": "that knows only how to flee,"
+  },
+  {
+   "id": 4173,
+   "offset": 519008,
+   "text_jp": "逃げるという行為",
+   "translation_en": "from the very act of fleeing,"
+  },
+  {
+   "id": 4174,
+   "offset": 519021,
+   "text_jp": "そのものからも逃げ申した",
+   "translation_en": "you fled further still."
+  },
+  {
+   "id": 4175,
+   "offset": 519037,
+   "text_jp": "莫け尤め!",
+   "translation_en": "You pathetic coward!"
+  },
+  {
+   "id": 4176,
+   "offset": 519049,
+   "text_jp": "もう話すコトはなにも無い!",
+   "translation_en": "There is nothing more to discuss!"
+  },
+  {
+   "id": 4177,
+   "offset": 519067,
+   "text_jp": "かかってくるがいい!",
+   "translation_en": "Come at me if you dare!"
+  },
+  {
+   "id": 4179,
+   "offset": 519102,
+   "text_jp": "アンタみて{204}なカワイイ齟と",
+   "translation_en": "Fighting a cute girl like you..."
+  },
+  {
+   "id": 4180,
+   "offset": 519119,
+   "text_jp": "貰うなんて…",
+   "translation_en": "is tough on the great me!"
+  },
+  {
+   "id": 4181,
+   "offset": 519131,
+   "text_jp": "おれ達…つらいゼ!",
+   "translation_en": "It's heartbreaking!"
+  },
+  {
+   "id": 4182,
+   "offset": 519149,
+   "text_jp": "汢方ねェよな…",
+   "translation_en": "Can't be helped, though..."
+  },
+  {
+   "id": 4183,
+   "offset": 519164,
+   "text_jp": "学枚のため!",
+   "translation_en": "For the school!"
+  },
+  {
+   "id": 4184,
+   "offset": 519177,
+   "text_jp": "茫羲のため!",
+   "translation_en": "For justice!"
+  },
+  {
+   "id": 4185,
+   "offset": 519190,
+   "text_jp": "おれ達が目立つため!!",
+   "translation_en": "For me to stand out in the spotlight!!"
+  },
+  {
+   "id": 4186,
+   "offset": 519210,
+   "text_jp": "ヤラれちゃってくれェッ!",
+   "translation_en": "Take this beatdown!!"
+  },
+  {
+   "id": 4188,
+   "offset": 519247,
+   "text_jp": "あんたみたいなガリ勉!",
+   "translation_en": "A bookworm like you!"
+  },
+  {
+   "id": 4189,
+   "offset": 519265,
+   "text_jp": "アヤセ運が5人がかりで",
+   "translation_en": "When the five of us gang up"
+  },
+  {
+   "id": 4190,
+   "offset": 519281,
+   "text_jp": "やっつければ",
+   "translation_en": "and take you down,"
+  },
+  {
+   "id": 4191,
+   "offset": 519289,
+   "text_jp": "杲勝だもんね{204}!",
+   "translation_en": "it's an easy win~!"
+  },
+  {
+   "id": 4192,
+   "offset": 519305,
+   "text_jp": "あやまるなら今だぞ!",
+   "translation_en": "If you wanna apologize, do it now!"
+  },
+  {
+   "id": 4193,
+   "offset": 519324,
+   "text_jp": "久美:他人を見かけだけでしか",
+   "translation_en": "Kumi: Judging others solely"
+  },
+  {
+   "id": 4194,
+   "offset": 519346,
+   "text_jp": "利剖しない",
+   "translation_en": "by appearances..."
+  },
+  {
+   "id": 4195,
+   "offset": 519355,
+   "text_jp": "バカな人運ね…",
+   "translation_en": "You really are foolish people..."
+  },
+  {
+   "id": 4196,
+   "offset": 519393,
+   "text_jp": "私を肪けて!!",
+   "translation_en": "Save me!!"
+  },
+  {
+   "id": 4197,
+   "offset": 519408,
+   "text_jp": "あいつらをやっつけて!!",
+   "translation_en": "Destroy them!!"
+  },
+  {
+   "id": 4198,
+   "offset": 519428,
+   "text_jp": "南茱:何!あれは!?",
+   "translation_en": "Nanjo: What is that?!"
+  },
+  {
+   "id": 4199,
+   "offset": 519464,
+   "text_jp": "ヤツは彼女の夢の宦物",
+   "translation_en": "Was that creature not a product"
+  },
+  {
+   "id": 4200,
+   "offset": 519481,
+   "text_jp": "ではなかったのか?",
+   "translation_en": "of her own dream?"
+  },
+  {
+   "id": 4201,
+   "offset": 519496,
+   "text_jp": "エリ{204}:まさか!?",
+   "translation_en": "Elly: Could it be?!"
+  },
+  {
+   "id": 4202,
+   "offset": 519511,
+   "text_jp": "Kumiさんの…",
+   "translation_en": "Kumi-san's..."
+  },
+  {
+   "id": 4203,
+   "offset": 519548,
+   "text_jp": "｜反夢晃』のヒュプノスは",
+   "translation_en": "Hypnos in the \"World of Hypnos\""
+  },
+  {
+   "id": 4204,
+   "offset": 519569,
+   "text_jp": "Kumiさんの夢の宦物では",
+   "translation_en": "was not a creation of Kumi-san's dream"
+  },
+  {
+   "id": 4205,
+   "offset": 519591,
+   "text_jp": "なかったんですわ!",
+   "translation_en": "after all!"
+  },
+  {
+   "id": 4206,
+   "offset": 519637,
+   "text_jp": "夢の宇にまで私を",
+   "translation_en": "Even inside the dream,"
+  },
+  {
+   "id": 4207,
+   "offset": 519657,
+   "text_jp": "あいつらを",
+   "translation_en": "destroy those people"
+  },
+  {
+   "id": 4208,
+   "offset": 519664,
+   "text_jp": "やっつけてぇッ!!",
+   "translation_en": "already!!"
+  },
+  {
+   "id": 4210,
+   "offset": 519701,
+   "text_jp": "ペルソナ払いなら",
+   "translation_en": "Against Persona users,"
+  },
+  {
+   "id": 4211,
+   "offset": 519720,
+   "text_jp": "いらないね!",
+   "translation_en": "we don't need holding back!"
+  },
+  {
+   "id": 4212,
+   "offset": 519731,
+   "text_jp": "みんな!いくよッ!!",
+   "translation_en": "Everyone! Let's go!!"
+  },
+  {
+   "id": 4235,
+   "offset": 525690,
+   "text_jp": "あんたの大切な王子達…",
+   "translation_en": "Your precious princes..."
+  },
+  {
+   "id": 4236,
+   "offset": 525711,
+   "text_jp": "いや…あんたの沚が生んだ",
+   "translation_en": "No... born from your own heart,"
+  },
+  {
+   "id": 4237,
+   "offset": 525745,
+   "text_jp": "いないんだ",
+   "translation_en": "they are not here."
+  },
+  {
+   "id": 4238,
+   "offset": 525757,
+   "text_jp": "やるかい?",
+   "translation_en": "Wanna keep going?"
+  },
+  {
+   "id": 4239,
+   "offset": 525772,
+   "text_jp": "いっこうに",
+   "translation_en": "I don't mind"
+  },
+  {
+   "id": 4240,
+   "offset": 525779,
+   "text_jp": "かまわないよ…",
+   "translation_en": "at all..."
+  },
+  {
+   "id": 4241,
+   "offset": 525810,
+   "text_jp": "黠局…私の君場斯なんて",
+   "translation_en": "In the end... a place for me"
+  },
+  {
+   "id": 4242,
+   "offset": 525830,
+   "text_jp": "どこにもないんですね…",
+   "translation_en": "exists nowhere, does it...?"
+  },
+  {
+   "id": 4243,
+   "offset": 525846,
+   "text_jp": "現実にも…夢にも",
+   "translation_en": "Neither in reality... nor in dreams."
+  },
+  {
+   "id": 4244,
+   "offset": 525862,
+   "text_jp": "あは…",
+   "translation_en": "Aha..."
+  },
+  {
+   "id": 4245,
+   "offset": 525868,
+   "text_jp": "夢からも逃げ申さなくちゃ…",
+   "translation_en": "I must flee from dreams as well..."
+  },
+  {
+   "id": 4246,
+   "offset": 525896,
+   "text_jp": "南茱:夢のない人間は",
+   "translation_en": "Nanjo: A person without dreams"
+  },
+  {
+   "id": 4247,
+   "offset": 525924,
+   "text_jp": "つまらんものだ",
+   "translation_en": "is a dull thing indeed."
+  },
+  {
+   "id": 4248,
+   "offset": 525935,
+   "text_jp": "夢だけ追いかけてる",
+   "translation_en": "Yet those who chase only dreams"
+  },
+  {
+   "id": 4249,
+   "offset": 525948,
+   "text_jp": "人間にはおおむね",
+   "translation_en": "generally lack"
+  },
+  {
+   "id": 4250,
+   "offset": 525960,
+   "text_jp": "宇身がないものだ",
+   "translation_en": "any substance."
+  },
+  {
+   "id": 4251,
+   "offset": 525974,
+   "text_jp": "夢をなくさず",
+   "translation_en": "Do not lose your dreams,"
+  },
+  {
+   "id": 4252,
+   "offset": 525987,
+   "text_jp": "夢に掘り日されず生きろ",
+   "translation_en": "yet do not let dreams consume you. Live."
+  },
+  {
+   "id": 4253,
+   "offset": 526006,
+   "text_jp": "夢は追うものでもなく…",
+   "translation_en": "Dreams are neither to be chased..."
+  },
+  {
+   "id": 4254,
+   "offset": 526024,
+   "text_jp": "夢は逃げ場斯でもない…",
+   "translation_en": "nor a refuge to flee into..."
+  },
+  {
+   "id": 4255,
+   "offset": 526044,
+   "text_jp": "夢は…沚の糂だ",
+   "translation_en": "Dreams are... the nourishment of the soul."
+  },
+  {
+   "id": 4256,
+   "offset": 526057,
+   "text_jp": "しかし夢は待っているだけでは",
+   "translation_en": "However, merely waiting for dreams"
+  },
+  {
+   "id": 4257,
+   "offset": 526075,
+   "text_jp": "自分の物になることはない",
+   "translation_en": "will never make them yours."
+  },
+  {
+   "id": 4258,
+   "offset": 526094,
+   "text_jp": "夢とは芽えられる物でなく",
+   "translation_en": "A dream is not something bestowed upon you,"
+  },
+  {
+   "id": 4259,
+   "offset": 526121,
+   "text_jp": "ツカむ物だ……!",
+   "translation_en": "it is something you must grasp with your own hands...!"
+  },
+  {
+   "id": 4260,
+   "offset": 526137,
+   "text_jp": "山訶がよく言っていたものだ",
+   "translation_en": "Yamaoka used to say that often."
+  },
+  {
+   "id": 4262,
+   "offset": 526189,
+   "text_jp": "ワケだけど…",
+   "translation_en": "That is the case, but..."
+  },
+  {
+   "id": 4263,
+   "offset": 526200,
+   "text_jp": "な{204}んか",
+   "translation_en": "Somehow,"
+  },
+  {
+   "id": 4264,
+   "offset": 526221,
+   "text_jp": "こ{204}ゆ{204}の…",
+   "translation_en": "stuff like this..."
+  },
+  {
+   "id": 4266,
+   "offset": 526250,
+   "text_jp": "勝った{204}!",
+   "translation_en": "We won!!"
+  },
+  {
+   "id": 4267,
+   "offset": 526269,
+   "text_jp": "みたか!",
+   "translation_en": "Did ya see that?!"
+  },
+  {
+   "id": 4268,
+   "offset": 526300,
+   "text_jp": "ど{204}だ!",
+   "translation_en": "How's that?!"
+  },
+  {
+   "id": 4269,
+   "offset": 526310,
+   "text_jp": "まいったか{204}?!",
+   "translation_en": "Had enough?!"
+  },
+  {
+   "id": 4270,
+   "offset": 526345,
+   "text_jp": "独い人ばかりなんですね…",
+   "translation_en": "You are all such strong people..."
+  },
+  {
+   "id": 4271,
+   "offset": 526362,
+   "text_jp": "私に少しでも…",
+   "translation_en": "If only I had even a little..."
+  },
+  {
+   "id": 4272,
+   "offset": 526376,
+   "text_jp": "そんな独さがあれば…",
+   "translation_en": "of that strength..."
+  },
+  {
+   "id": 4273,
+   "offset": 526392,
+   "text_jp": "｜雪の女王の仮面』の",
+   "translation_en": "the \"Mask of the Snow Queen\"..."
+  },
+  {
+   "id": 4274,
+   "offset": 526420,
+   "text_jp": "のらないで…",
+   "translation_en": "without giving in..."
+  },
+  {
+   "id": 4275,
+   "offset": 526429,
+   "text_jp": "生きていけたのかもしれないね",
+   "translation_en": "perhaps I could have lived on."
+  },
+  {
+   "id": 4276,
+   "offset": 526448,
+   "text_jp": "人を賓めることしかしないで",
+   "translation_en": "Doing nothing but blaming others,"
+  },
+  {
+   "id": 4277,
+   "offset": 526465,
+   "text_jp": "自分を安全地帯において",
+   "translation_en": "keeping myself in a safe zone,"
+  },
+  {
+   "id": 4278,
+   "offset": 526484,
+   "text_jp": "うらみごとばかり言っていた",
+   "translation_en": "spewing nothing but grudges and spite..."
+  },
+  {
+   "id": 4279,
+   "offset": 526509,
+   "text_jp": "私を賓めた他の人運と",
+   "translation_en": "I was just like the other people"
+  },
+  {
+   "id": 4280,
+   "offset": 526526,
+   "text_jp": "おんなじだったんだもんね…",
+   "translation_en": "who blamed and tormented me..."
+  },
+  {
+   "id": 4281,
+   "offset": 526544,
+   "text_jp": "南茱:ふん…",
+   "translation_en": "Nanjo: Hmph..."
+  },
+  {
+   "id": 4282,
+   "offset": 526560,
+   "text_jp": "わかっただけでも",
+   "translation_en": "If you have understood that much,"
+  },
+  {
+   "id": 4283,
+   "offset": 526579,
+   "text_jp": "攝省するがいい",
+   "translation_en": "reflect upon it."
+  },
+  {
+   "id": 4284,
+   "offset": 526592,
+   "text_jp": "夢は曜かに沚の糂だ…",
+   "translation_en": "Dreams are indeed the nourishment of the soul..."
+  },
+  {
+   "id": 4285,
+   "offset": 526611,
+   "text_jp": "夢に逃げては",
+   "translation_en": "Fleeing into dreams"
+  },
+  {
+   "id": 4286,
+   "offset": 526621,
+   "text_jp": "現実を変えることはできんのだ",
+   "translation_en": "will never change reality."
+  },
+  {
+   "id": 4287,
+   "offset": 526644,
+   "text_jp": "エリ{204}:Kumiさん",
+   "translation_en": "Elly: Kumi-san,"
+  },
+  {
+   "id": 4288,
+   "offset": 526662,
+   "text_jp": "そのコトに気がついた",
+   "translation_en": "now that you have realized this,"
+  },
+  {
+   "id": 4289,
+   "offset": 526675,
+   "text_jp": "あなたは…",
+   "translation_en": "you are..."
+  },
+  {
+   "id": 4290,
+   "offset": 526688,
+   "text_jp": "弱い人間なんかじゃ…",
+   "translation_en": "not a weak person at all."
+  },
+  {
+   "id": 4291,
+   "offset": 526714,
+   "text_jp": "夢は私たち人間の沚の",
+   "translation_en": "Dreams are like an oasis"
+  },
+  {
+   "id": 4292,
+   "offset": 526731,
+   "text_jp": "Oasisのような物…",
+   "translation_en": "for the human heart..."
+  },
+  {
+   "id": 4293,
+   "offset": 526753,
+   "text_jp": "人生という砂漠を歩きつかれた",
+   "translation_en": "Healing the thirst of travelers"
+  },
+  {
+   "id": 4294,
+   "offset": 526774,
+   "text_jp": "啼人の渇きをいやす…ね",
+   "translation_en": "weary from traversing the desert of life..."
+  },
+  {
+   "id": 4295,
+   "offset": 526793,
+   "text_jp": "でもOasisの君沚地が",
+   "translation_en": "Yet no matter how wonderful"
+  },
+  {
+   "id": 4296,
+   "offset": 526815,
+   "text_jp": "いくらよくても",
+   "translation_en": "an oasis feels,"
+  },
+  {
+   "id": 4297,
+   "offset": 526826,
+   "text_jp": "啼人はいずれ砂漠に",
+   "translation_en": "a traveler must eventually step out"
+  },
+  {
+   "id": 4298,
+   "offset": 526841,
+   "text_jp": "歩き申さなくては",
+   "translation_en": "and continue walking"
+  },
+  {
+   "id": 4299,
+   "offset": 526853,
+   "text_jp": "いけないものですわ",
+   "translation_en": "across the desert."
+  },
+  {
+   "id": 4300,
+   "offset": 526866,
+   "text_jp": "人間とはどんなにつらくても",
+   "translation_en": "For no matter how painful it may be,"
+  },
+  {
+   "id": 4301,
+   "offset": 526883,
+   "text_jp": "生きている限り｜現実』という",
+   "translation_en": "as long as we live, we are travelers walking"
+  },
+  {
+   "id": 4302,
+   "offset": 526905,
+   "text_jp": "砂漠を行く啼人なのですから…",
+   "translation_en": "the desert known as \"Reality\"..."
+  },
+  {
+   "id": 4303,
+   "offset": 526932,
+   "text_jp": "久美:ありがとう…",
+   "translation_en": "Kumi: Thank you..."
+  },
+  {
+   "id": 4304,
+   "offset": 526947,
+   "text_jp": "みなさん…",
+   "translation_en": "everyone..."
+  },
+  {
+   "id": 4305,
+   "offset": 526957,
+   "text_jp": "みなさんのような友運が",
+   "translation_en": "If only I had friends"
+  },
+  {
+   "id": 4306,
+   "offset": 526987,
+   "text_jp": "いてくれたなら…",
+   "translation_en": "like all of you..."
+  },
+  {
+   "id": 4307,
+   "offset": 527000,
+   "text_jp": "よかったのにな…",
+   "translation_en": "how wonderful that would have been..."
+  },
+  {
+   "id": 4308,
+   "offset": 527013,
+   "text_jp": "みなさんのコト",
+   "translation_en": "I will never"
+  },
+  {
+   "id": 4309,
+   "offset": 527022,
+   "text_jp": "忘れません…",
+   "translation_en": "forget you..."
+  },
+  {
+   "id": 4310,
+   "offset": 527043,
+   "text_jp": "…さようなら",
+   "translation_en": "...Goodbye."
+  },
+  {
+   "id": 4312,
+   "offset": 527099,
+   "text_jp": "手に入れた",
+   "translation_en": "Obtained."
+  },
+  {
+   "id": 4313,
+   "offset": 527136,
+   "text_jp": "そんなに悪い奴",
+   "translation_en": "She wasn't that bad of a person"
+  },
+  {
+   "id": 4314,
+   "offset": 527147,
+   "text_jp": "じゃなかったね…",
+   "translation_en": "after all..."
+  },
+  {
+   "id": 4315,
+   "offset": 527160,
+   "text_jp": "あいつも｜仮面』に人生を",
+   "translation_en": "She was just another victim whose life"
+  },
+  {
+   "id": 4316,
+   "offset": 527180,
+   "text_jp": "杜わされた犠牲者だったんだ",
+   "translation_en": "was ruined by the \"Mask\"."
+  },
+  {
+   "id": 4317,
+   "offset": 527204,
+   "text_jp": "帰ろう!",
+   "translation_en": "Let's head back!"
+  },
+  {
+   "id": 4318,
+   "offset": 527222,
+   "text_jp": "はやく",
+   "translation_en": "We gotta hurry and"
+  },
+  {
+   "id": 4319,
+   "offset": 527227,
+   "text_jp": "肪けなきゃね!!",
+   "translation_en": "save Sensei!!"
+  },
+  {
+   "id": 4320,
+   "offset": 527258,
+   "text_jp": "攻珞した!",
+   "translation_en": "Conquered the tower!"
+  },
+  {
+   "id": 4587,
+   "offset": 564041,
+   "text_jp": "イヤな気配のする部厘だね",
+   "translation_en": "What an unpleasant room this is."
+  },
+  {
+   "id": 4588,
+   "offset": 564059,
+   "text_jp": "悪意のこもった袍檪で",
+   "translation_en": "As if being stared at"
+  },
+  {
+   "id": 4589,
+   "offset": 564077,
+   "text_jp": "見つめられているような…",
+   "translation_en": "with malicious eyes..."
+  },
+  {
+   "id": 4590,
+   "offset": 564119,
+   "text_jp": "みなさま",
+   "translation_en": "Ladies and gentlemen,"
+  },
+  {
+   "id": 4591,
+   "offset": 564129,
+   "text_jp": "この塔に",
+   "translation_en": "welcome to"
+  },
+  {
+   "id": 4592,
+   "offset": 564138,
+   "text_jp": "おいでくださいましたわ",
+   "translation_en": "this tower."
+  },
+  {
+   "id": 4593,
+   "offset": 564153,
+   "text_jp": "沚から歡迎しましてよ",
+   "translation_en": "I welcome you from the bottom of my heart."
+  },
+  {
+   "id": 4594,
+   "offset": 564203,
+   "text_jp": "姿を見せろ!いずれ",
+   "translation_en": "Show yourself! No doubt you are"
+  },
+  {
+   "id": 4595,
+   "offset": 564217,
+   "text_jp": "この塔の番人鳳惰であろう!!",
+   "translation_en": "the guardian of this tower!!"
+  },
+  {
+   "id": 4596,
+   "offset": 564242,
+   "text_jp": "もったいぶった斯で",
+   "translation_en": "Putting on airs..."
+  },
+  {
+   "id": 4597,
+   "offset": 564261,
+   "text_jp": "雪の女王の",
+   "translation_en": "Borrowing the Snow Queen's authority,"
+  },
+  {
+   "id": 4598,
+   "offset": 564271,
+   "text_jp": "｜トラの屎を借るキツネ』に",
+   "translation_en": "you are merely a fox borrowing a tiger's might,"
+  },
+  {
+   "id": 4599,
+   "offset": 564296,
+   "text_jp": "小者なのだからな!",
+   "translation_en": "a petty weakling!"
+  },
+  {
+   "id": 4600,
+   "offset": 564328,
+   "text_jp": "姿を見せなさい!",
+   "translation_en": "Show yourself!"
+  },
+  {
+   "id": 4601,
+   "offset": 564355,
+   "text_jp": "Guardianでしょう?",
+   "translation_en": "You are the Guardian, are you not?"
+  },
+  {
+   "id": 4602,
+   "offset": 564381,
+   "text_jp": "私運の前に",
+   "translation_en": "Can you not even step out"
+  },
+  {
+   "id": 4603,
+   "offset": 564391,
+   "text_jp": "申てもこれないのですか?",
+   "translation_en": "before us?"
+  },
+  {
+   "id": 4604,
+   "offset": 564409,
+   "text_jp": "ふふ…それもしかたないこと",
+   "translation_en": "Fufu... Perhaps that is only natural?"
+  },
+  {
+   "id": 4605,
+   "offset": 564425,
+   "text_jp": "ですか?",
+   "translation_en": "Is it?"
+  },
+  {
+   "id": 4606,
+   "offset": 564434,
+   "text_jp": "塔のGuardianなど",
+   "translation_en": "A tower Guardian who can do nothing"
+  },
+  {
+   "id": 4607,
+   "offset": 564457,
+   "text_jp": "雪の女王の力を借りなければ",
+   "translation_en": "without borrowing the power of the Snow Queen,"
+  },
+  {
+   "id": 4608,
+   "offset": 564477,
+   "text_jp": "何もできない小者",
+   "translation_en": "is nothing more than a pathetic"
+  },
+  {
+   "id": 4609,
+   "offset": 564492,
+   "text_jp": "なんですものね!",
+   "translation_en": "small fry, after all!"
+  },
+  {
+   "id": 4611,
+   "offset": 564527,
+   "text_jp": "アヤセ運がコワくて",
+   "translation_en": "You're too scared of Ayase and the gang"
+  },
+  {
+   "id": 4612,
+   "offset": 564539,
+   "text_jp": "申てこれないんだろ{204}!",
+   "translation_en": "to come on out!"
+  },
+  {
+   "id": 4613,
+   "offset": 564557,
+   "text_jp": "へ{204}ん!へ{204}んだ!",
+   "translation_en": "Nyah-nyah! So there!"
+  },
+  {
+   "id": 4614,
+   "offset": 564572,
+   "text_jp": "ミンナ{204}!この塔のボスって",
+   "translation_en": "Hey everyone! The boss of this tower"
+  },
+  {
+   "id": 4615,
+   "offset": 564591,
+   "text_jp": "なんか弱そうじゃ{204}ん!",
+   "translation_en": "sounds totally weak!"
+  },
+  {
+   "id": 4616,
+   "offset": 564612,
+   "text_jp": "ついてるッて感じ!?",
+   "translation_en": "Talk about lucky, right?!"
+  },
+  {
+   "id": 4617,
+   "offset": 564668,
+   "text_jp": "なんて",
+   "translation_en": "My,"
+  },
+  {
+   "id": 4618,
+   "offset": 564681,
+   "text_jp": "よく状える",
+   "translation_en": "what delightfully insolent"
+  },
+  {
+   "id": 4619,
+   "offset": 564691,
+   "text_jp": "小尤ちゃん運なんでしょう!",
+   "translation_en": "little brats you are!"
+  },
+  {
+   "id": 4620,
+   "offset": 564729,
+   "text_jp": "ありそうね",
+   "translation_en": "Quite likely."
+  },
+  {
+   "id": 4621,
+   "offset": 564753,
+   "text_jp": "すみそうですわ!",
+   "translation_en": "That will be settled!"
+  },
+  {
+   "id": 4622,
+   "offset": 564766,
+   "text_jp": "だァ{204}って!",
+   "translation_en": "After all!"
+  },
+  {
+   "id": 4623,
+   "offset": 564782,
+   "text_jp": "弱い梠手は",
+   "translation_en": "Weak opponents"
+  },
+  {
+   "id": 4624,
+   "offset": 564799,
+   "text_jp": "すぐに",
+   "translation_en": "shatter"
+  },
+  {
+   "id": 4625,
+   "offset": 564806,
+   "text_jp": "壞れてしまうんですもの!",
+   "translation_en": "so very quickly!"
+  },
+  {
+   "id": 4626,
+   "offset": 564833,
+   "text_jp": "自若詔介が遲れましたわね",
+   "translation_en": "My self-introduction has been delayed, hasn't it?"
+  },
+  {
+   "id": 4627,
+   "offset": 564852,
+   "text_jp": "これはごめんあそあせ",
+   "translation_en": "Do forgive my rudeness."
+  },
+  {
+   "id": 4628,
+   "offset": 564866,
+   "text_jp": "ワタクシこの｜ネメシスの塔』の守護を｜雪の女王』達より",
+   "translation_en": "I am tasked by the \"Snow Queen\" to guard this \"Tower of Nemesis\","
+  },
+  {
+   "id": 4629,
+   "offset": 564906,
+   "text_jp": "命ぜられております",
+   "translation_en": "commanded by her grace,"
+  },
+  {
+   "id": 4630,
+   "offset": 564927,
+   "text_jp": "美智子』ですわ",
+   "translation_en": "the name is \"Michiko\"."
+  },
+  {
+   "id": 4631,
+   "offset": 564940,
+   "text_jp": "ワタクシの手にかかって",
+   "translation_en": "To perish at my hands,"
+  },
+  {
+   "id": 4632,
+   "offset": 564954,
+   "text_jp": "迅ねるコトを",
+   "translation_en": "you should consider it"
+  },
+  {
+   "id": 4633,
+   "offset": 564965,
+   "text_jp": "光朱に思ってくださいましね",
+   "translation_en": "an immense honor."
+  },
+  {
+   "id": 4634,
+   "offset": 565035,
+   "text_jp": "あなたよ!!",
+   "translation_en": "You!!"
+  },
+  {
+   "id": 4635,
+   "offset": 565054,
+   "text_jp": "なんてコトでございましょう!",
+   "translation_en": "What a delightful notion!"
+  },
+  {
+   "id": 4636,
+   "offset": 565097,
+   "text_jp": "どぉ?そんなヤツ等と",
+   "translation_en": "How about it? Rather than being killed alongside those wretches,"
+  },
+  {
+   "id": 4637,
+   "offset": 565111,
+   "text_jp": "一緒にワタクシに殺されるより",
+   "translation_en": "by my hand,"
+  },
+  {
+   "id": 4638,
+   "offset": 565139,
+   "text_jp": "ペットになリませんコト?",
+   "translation_en": "would you care to become my pet?"
+  },
+  {
+   "id": 4639,
+   "offset": 565190,
+   "text_jp": "なんだとぉッ?!",
+   "translation_en": "What was that?!"
+  },
+  {
+   "id": 4640,
+   "offset": 565213,
+   "text_jp": "俺のコトかぁ!?",
+   "translation_en": "You mean me?!"
+  },
+  {
+   "id": 4641,
+   "offset": 565234,
+   "text_jp": "しかも手達のように",
+   "translation_en": "And to a woman with an attitude"
+  },
+  {
+   "id": 4642,
+   "offset": 565282,
+   "text_jp": "いちぢるしく悪い女の?!",
+   "translation_en": "as dreadfully rotten as yours?!"
+  },
+  {
+   "id": 4643,
+   "offset": 565302,
+   "text_jp": "愛瑶激物の立場になれだと!?",
+   "translation_en": "Become a pet to the likes of you?!"
+  },
+  {
+   "id": 4644,
+   "offset": 565333,
+   "text_jp": "舌をなめるなよ!",
+   "translation_en": "Don't you dare mock me!"
+  },
+  {
+   "id": 4645,
+   "offset": 565347,
+   "text_jp": "この俺にそんな日をきいたコト",
+   "translation_en": "Spouting such nonsense to me,"
+  },
+  {
+   "id": 4646,
+   "offset": 565371,
+   "text_jp": "後恒させてくれる!",
+   "translation_en": "I will make you regret it bitterly!"
+  },
+  {
+   "id": 4647,
+   "offset": 565414,
+   "text_jp": "おれ達なの??",
+   "translation_en": "You mean the great me??"
+  },
+  {
+   "id": 4648,
+   "offset": 565426,
+   "text_jp": "チョット待ったぁ{204}ッ!",
+   "translation_en": "Hold on a damn minute!!"
+  },
+  {
+   "id": 4649,
+   "offset": 565447,
+   "text_jp": "何なんだよォ!このブスは!",
+   "translation_en": "What's with this ugly hag?!"
+  },
+  {
+   "id": 4650,
+   "offset": 565467,
+   "text_jp": "いきなし申てきて",
+   "translation_en": "Popping out of nowhere"
+  },
+  {
+   "id": 4651,
+   "offset": 565478,
+   "text_jp": "何ワケわかんないコト",
+   "translation_en": "and babbling total gibberish!!"
+  },
+  {
+   "id": 4652,
+   "offset": 565493,
+   "text_jp": "言ってんだよォ!!",
+   "translation_en": "What the hell?!"
+  },
+  {
+   "id": 4653,
+   "offset": 565510,
+   "text_jp": "ふざけんなよ!",
+   "translation_en": "Don't mess with me!"
+  },
+  {
+   "id": 4654,
+   "offset": 565520,
+   "text_jp": "この｜ブラウン』達を",
+   "translation_en": "To make \"Brown-sama\""
+  },
+  {
+   "id": 4655,
+   "offset": 565547,
+   "text_jp": "ペットにするだと",
+   "translation_en": "your pet?!"
+  },
+  {
+   "id": 4656,
+   "offset": 565571,
+   "text_jp": "バカにしやがって!!",
+   "translation_en": "Making fun of me!!"
+  },
+  {
+   "id": 4657,
+   "offset": 565586,
+   "text_jp": "ブチのめしてやらァ!",
+   "translation_en": "I'm gonna beat the crap outta you!"
+  },
+  {
+   "id": 4658,
+   "offset": 565613,
+   "text_jp": "もっとブスに螯刑してやるぜ!",
+   "translation_en": "I'll give your ugly face some plastic surgery!"
+  },
+  {
+   "id": 4659,
+   "offset": 565688,
+   "text_jp": "惰けを",
+   "translation_en": "And here I offered"
+  },
+  {
+   "id": 4660,
+   "offset": 565696,
+   "text_jp": "かけてやったというのに!",
+   "translation_en": "you mercy!"
+  },
+  {
+   "id": 4661,
+   "offset": 565725,
+   "text_jp": "下引の者にこのワタクシの",
+   "translation_en": "Expecting lowborn rabble to appreciate"
+  },
+  {
+   "id": 4662,
+   "offset": 565742,
+   "text_jp": "偉大さを理解しろというのが",
+   "translation_en": "my greatness was asking too much, I see."
+  },
+  {
+   "id": 4663,
+   "offset": 565763,
+   "text_jp": "ムリな梠談だったわけね",
+   "translation_en": "A hopeless conversation."
+  },
+  {
+   "id": 4664,
+   "offset": 565788,
+   "text_jp": "小尤ちゃん運…",
+   "translation_en": "Little brats..."
+  },
+  {
+   "id": 4665,
+   "offset": 565810,
+   "text_jp": "ワタクシの手で",
+   "translation_en": "With my own hands,"
+  },
+  {
+   "id": 4666,
+   "offset": 565820,
+   "text_jp": "壞してさしあげますことよ…",
+   "translation_en": "I shall break you to pieces..."
+  },
+  {
+   "id": 4667,
+   "offset": 565842,
+   "text_jp": "この塔の時間刷限を",
+   "translation_en": "The time limit on this tower,"
+  },
+  {
+   "id": 4668,
+   "offset": 565858,
+   "text_jp": "解瞭しましたわ!",
+   "translation_en": "I have lifted it!"
+  },
+  {
+   "id": 4669,
+   "offset": 565871,
+   "text_jp": "何時間かけてもかまわない!",
+   "translation_en": "Take as many hours as you like!"
+  },
+  {
+   "id": 4670,
+   "offset": 565892,
+   "text_jp": "何がなんでも",
+   "translation_en": "No matter what,"
+  },
+  {
+   "id": 4671,
+   "offset": 565901,
+   "text_jp": "ワタクシの下へいらしてね!",
+   "translation_en": "do come to my presence!"
+  },
+  {
+   "id": 4672,
+   "offset": 565920,
+   "text_jp": "いい?何時間かけても",
+   "translation_en": "Understand? Take as long"
+  },
+  {
+   "id": 4673,
+   "offset": 565936,
+   "text_jp": "かまわないのよ!",
+   "translation_en": "as you please!"
+  },
+  {
+   "id": 4674,
+   "offset": 565952,
+   "text_jp": "お待ちしてますわ!!",
+   "translation_en": "I shall be waiting!!"
+  },
+  {
+   "id": 4675,
+   "offset": 565967,
+   "text_jp": "ごきげんようッ!!",
+   "translation_en": "Farewell!!"
+  },
+  {
+   "id": 4676,
+   "offset": 566006,
+   "text_jp": "一筋縄ではいかない",
+   "translation_en": "She doesn't seem like an easy"
+  },
+  {
+   "id": 4677,
+   "offset": 566020,
+   "text_jp": "梠手らしいね…",
+   "translation_en": "opponent to handle..."
+  },
+  {
+   "id": 4679,
+   "offset": 566057,
+   "text_jp": "あの女の忤格を考えると",
+   "translation_en": "Considering that woman's personality,"
+  },
+  {
+   "id": 4680,
+   "offset": 566074,
+   "text_jp": "何かウラがあるね",
+   "translation_en": "there's definitely a catch."
+  },
+  {
+   "id": 4681,
+   "offset": 566087,
+   "text_jp": "そうは思わないか?",
+   "translation_en": "Don't you agree?"
+  },
+  {
+   "id": 4683,
+   "offset": 566120,
+   "text_jp": "美智子って女",
+   "translation_en": "That Michiko chick"
+  },
+  {
+   "id": 4684,
+   "offset": 566132,
+   "text_jp": "誰かに傑てるよね",
+   "translation_en": "reminds me of someone."
+  },
+  {
+   "id": 4685,
+   "offset": 566149,
+   "text_jp": "えらそうなトコとか{204}",
+   "translation_en": "All stuck-up and high and mighty~"
+  },
+  {
+   "id": 4686,
+   "offset": 566164,
+   "text_jp": "南茱:何なのだ!あの女は!?",
+   "translation_en": "Nanjo: What is with that woman?!"
+  },
+  {
+   "id": 4687,
+   "offset": 566188,
+   "text_jp": "人を見下すような",
+   "translation_en": "Looking down on others"
+  },
+  {
+   "id": 4688,
+   "offset": 566201,
+   "text_jp": "偉そうな怒痍を取りおって!",
+   "translation_en": "with such an arrogant attitude!"
+  },
+  {
+   "id": 4689,
+   "offset": 566223,
+   "text_jp": "まったく何達のつもりだ!?",
+   "translation_en": "Just who does she think she is?!"
+  },
+  {
+   "id": 4690,
+   "offset": 566242,
+   "text_jp": "自分が械の宇で一番偉い",
+   "translation_en": "Does she believe she is the greatest"
+  },
+  {
+   "id": 4691,
+   "offset": 566262,
+   "text_jp": "とでも思っているのか?",
+   "translation_en": "being in the entire world?"
+  },
+  {
+   "id": 4692,
+   "offset": 566290,
+   "text_jp": "まったく不偸快だな!!",
+   "translation_en": "Utterly distasteful!!"
+  },
+  {
+   "id": 4693,
+   "offset": 566331,
+   "text_jp": "身につけていそうな",
+   "translation_en": "That haughty attitude"
+  },
+  {
+   "id": 4694,
+   "offset": 566343,
+   "text_jp": "偉そうな怒痍…",
+   "translation_en": "she wears so comfortably..."
+  },
+  {
+   "id": 4695,
+   "offset": 566358,
+   "text_jp": "械の宇に自分より偉い奴なんて",
+   "translation_en": "Acting like there couldn't possibly be anyone"
+  },
+  {
+   "id": 4696,
+   "offset": 566380,
+   "text_jp": "いっこないと思ってそうな",
+   "translation_en": "greater than her in the whole world,"
+  },
+  {
+   "id": 4697,
+   "offset": 566395,
+   "text_jp": "ふてぶてしい怒痍!",
+   "translation_en": "such insolent arrogance!"
+  },
+  {
+   "id": 4698,
+   "offset": 566419,
+   "text_jp": "あの女",
+   "translation_en": "That chick..."
+  },
+  {
+   "id": 4699,
+   "offset": 566425,
+   "text_jp": "名字に｜な』が村く",
+   "translation_en": "She's the spitting image of a certain someone"
+  },
+  {
+   "id": 4700,
+   "offset": 566441,
+   "text_jp": "誰かサンにそっくしだぜ!",
+   "translation_en": "whose last name starts with \"Na\"!"
+  },
+  {
+   "id": 4701,
+   "offset": 566475,
+   "text_jp": "limitがない?",
+   "translation_en": "No time limit?"
+  },
+  {
+   "id": 4702,
+   "offset": 566492,
+   "text_jp": "どういうコトでしょう?",
+   "translation_en": "What could this mean?"
+  },
+  {
+   "id": 4703,
+   "offset": 566508,
+   "text_jp": "そんなモノがなくても",
+   "translation_en": "Is it her supreme confidence"
+  },
+  {
+   "id": 4704,
+   "offset": 566520,
+   "text_jp": "私運をたやすく倒せるぞという",
+   "translation_en": "that she can easily defeat us"
+  },
+  {
+   "id": 4705,
+   "offset": 566539,
+   "text_jp": "あの女の余裕なんでしょうか?",
+   "translation_en": "even without a time limit?"
+  },
+  {
+   "id": 4706,
+   "offset": 566561,
+   "text_jp": "それとも…",
+   "translation_en": "Or perhaps..."
+  },
+  {
+   "id": 4707,
+   "offset": 566569,
+   "text_jp": "理由は他にあるのかしら?",
+   "translation_en": "is there another reason?"
+  },
+  {
+   "id": 4708,
+   "offset": 566596,
+   "text_jp": "何かしらウラが",
+   "translation_en": "There is no doubt"
+  },
+  {
+   "id": 4709,
+   "offset": 566606,
+   "text_jp": "あるのは間違いなさそうですわ",
+   "translation_en": "that there is some hidden catch."
+  },
+  {
+   "id": 4710,
+   "offset": 566635,
+   "text_jp": "limitのこと…",
+   "translation_en": "The time limit..."
+  },
+  {
+   "id": 4711,
+   "offset": 566652,
+   "text_jp": "かえって気にしたほうが",
+   "translation_en": "we had better remain mindful of it,"
+  },
+  {
+   "id": 4712,
+   "offset": 566666,
+   "text_jp": "よさそうですわね",
+   "translation_en": "I should think."
+  },
+  {
+   "id": 4713,
+   "offset": 566684,
+   "text_jp": "夢の宦物では",
+   "translation_en": "In the dream world..."
+  },
+  {
+   "id": 4743,
+   "offset": 573096,
+   "text_jp": "悪魔旡生:おいッ誰がこぼして",
+   "translation_en": "Demon Teacher: Hey! Who said you could"
+  },
+  {
+   "id": 4744,
+   "offset": 573119,
+   "text_jp": "いいと言ったザマすか?",
+   "translation_en": "spill that, de-gowasu?!"
+  },
+  {
+   "id": 4745,
+   "offset": 573135,
+   "text_jp": "牛乳は身体にイイんザマすよ!",
+   "translation_en": "Milk is good for your body, de-gowasu!"
+  },
+  {
+   "id": 4746,
+   "offset": 573159,
+   "text_jp": "それを好きなだけ飲めるなんて",
+   "translation_en": "Being able to drink all you want,"
+  },
+  {
+   "id": 4747,
+   "offset": 573177,
+   "text_jp": "アンタみたいに食い意地の",
+   "translation_en": "for a gluttonous little piglet"
+  },
+  {
+   "id": 4748,
+   "offset": 573194,
+   "text_jp": "はっていそうな子ブタちゃん",
+   "translation_en": "like you,"
+  },
+  {
+   "id": 4749,
+   "offset": 573213,
+   "text_jp": "なら大冨びのはずザマしょ!",
+   "translation_en": "you ought to be overjoyed, de-gowasu!"
+  },
+  {
+   "id": 4750,
+   "offset": 573285,
+   "text_jp": "飲みまくるザマす",
+   "translation_en": "Keep chugging, de-gowasu!"
+  },
+  {
+   "id": 4751,
+   "offset": 573322,
+   "text_jp": "そっちの咆鍖!",
+   "translation_en": "You over there, four-eyes!"
+  },
+  {
+   "id": 4752,
+   "offset": 573334,
+   "text_jp": "そのヘッピリ騰は何ザマすか?",
+   "translation_en": "What kind of wobbly knees are those, de-gowasu?!"
+  },
+  {
+   "id": 4753,
+   "offset": 573358,
+   "text_jp": "腕立てはアゴが地面に",
+   "translation_en": "Push-ups only count when your chin"
+  },
+  {
+   "id": 4754,
+   "offset": 573375,
+   "text_jp": "村くくらい部体を藩とした時!",
+   "translation_en": "touches the floor!"
+  },
+  {
+   "id": 4755,
+   "offset": 573397,
+   "text_jp": "枌めて1日にカウント",
+   "translation_en": "Only then does it count"
+  },
+  {
+   "id": 4756,
+   "offset": 573414,
+   "text_jp": "されるザマすよ!",
+   "translation_en": "as a single rep, de-gowasu!"
+  },
+  {
+   "id": 4757,
+   "offset": 573428,
+   "text_jp": "しっかりやらないと",
+   "translation_en": "Do it properly, or I'll"
+  },
+  {
+   "id": 4758,
+   "offset": 573448,
+   "text_jp": "塘やすザマすよ!",
+   "translation_en": "add more reps, de-gowasu!"
+  },
+  {
+   "id": 4759,
+   "offset": 573667,
+   "text_jp": "たすけて!!",
+   "translation_en": "Save me!!"
+  },
+  {
+   "id": 4760,
+   "offset": 573683,
+   "text_jp": "ゆるして!!",
+   "translation_en": "Forgive me!!"
+  },
+  {
+   "id": 4761,
+   "offset": 573701,
+   "text_jp": "ぼくは",
+   "translation_en": "I just..."
+  },
+  {
+   "id": 4762,
+   "offset": 573717,
+   "text_jp": "だけは!",
+   "translation_en": "anything but this!"
+  },
+  {
+   "id": 4763,
+   "offset": 573731,
+   "text_jp": "襞品だけは!!",
+   "translation_en": "Dairy products especially!!"
+  },
+  {
+   "id": 4764,
+   "offset": 573744,
+   "text_jp": "ダァメなんだァッ{204}{204}{204}!!!",
+   "translation_en": "I CAN'T TAKE ITTTTT!!!"
+  },
+  {
+   "id": 4765,
+   "offset": 573869,
+   "text_jp": "ダメなのらァ{204}",
+   "translation_en": "I can't do it~"
+  },
+  {
+   "id": 4766,
+   "offset": 573889,
+   "text_jp": "僕のように",
+   "translation_en": "For someone like me"
+  },
+  {
+   "id": 4767,
+   "offset": 573903,
+   "text_jp": "腹脳労鼬の傑合う",
+   "translation_en": "suited for intellectual labor,"
+  },
+  {
+   "id": 4768,
+   "offset": 573948,
+   "text_jp": "腕立てをやるためには",
+   "translation_en": "to do push-ups,"
+  },
+  {
+   "id": 4769,
+   "offset": 573968,
+   "text_jp": "できてはいないのだ!",
+   "translation_en": "my body was not built for this!"
+  },
+  {
+   "id": 4770,
+   "offset": 574023,
+   "text_jp": "それに黒瓜!!",
+   "translation_en": "And Kurokawa!!"
+  },
+  {
+   "id": 4771,
+   "offset": 574036,
+   "text_jp": "なにやってんだ?!",
+   "translation_en": "What are you doing?!"
+  },
+  {
+   "id": 4772,
+   "offset": 574056,
+   "text_jp": "学枚にいたんじゃ!?",
+   "translation_en": "Weren't you at the school?!"
+  },
+  {
+   "id": 4773,
+   "offset": 574086,
+   "text_jp": "やだ!",
+   "translation_en": "No!"
+  },
+  {
+   "id": 4774,
+   "offset": 574108,
+   "text_jp": "ヤメてよゥ!!",
+   "translation_en": "Stop it!!"
+  },
+  {
+   "id": 4775,
+   "offset": 574173,
+   "text_jp": "迅んじゃう…ョう",
+   "translation_en": "I'm gonna die...!"
+  },
+  {
+   "id": 4776,
+   "offset": 574204,
+   "text_jp": "子ブタちゃん!",
+   "translation_en": "Little piggy!"
+  },
+  {
+   "id": 4777,
+   "offset": 574216,
+   "text_jp": "なに曰目ムいてるザマす!?",
+   "translation_en": "Why are your eyes rolling back, de-gowasu?!"
+  },
+  {
+   "id": 4778,
+   "offset": 574245,
+   "text_jp": "もっと飲むザマすよ!",
+   "translation_en": "Drink more, de-gowasu!"
+  },
+  {
+   "id": 4779,
+   "offset": 574279,
+   "text_jp": "牛乳を飲むために",
+   "translation_en": "To drink milk,"
+  },
+  {
+   "id": 4780,
+   "offset": 574292,
+   "text_jp": "生まれてきたマシ{204}ンになる",
+   "translation_en": "become a machine born to guzzle it down!"
+  },
+  {
+   "id": 4781,
+   "offset": 574353,
+   "text_jp": "できないよほォォォ…",
+   "translation_en": "I can't take any moreee..."
+  },
+  {
+   "id": 4782,
+   "offset": 574385,
+   "text_jp": "あははぁ…",
+   "translation_en": "Ahahaha..."
+  },
+  {
+   "id": 4783,
+   "offset": 574432,
+   "text_jp": "悪魔旡生:こぉら!",
+   "translation_en": "Demon Teacher: Hey!"
+  },
+  {
+   "id": 4784,
+   "offset": 574449,
+   "text_jp": "このメガネザル!!",
+   "translation_en": "You little tarsier monkey!!"
+  },
+  {
+   "id": 4785,
+   "offset": 574474,
+   "text_jp": "壞れるんじゃないザマす!",
+   "translation_en": "Don't you break down on me, de-gowasu!"
+  },
+  {
+   "id": 4786,
+   "offset": 574493,
+   "text_jp": "アンタ運を最後に壞すのは",
+   "translation_en": "The one who gets to destroy you in the end"
+  },
+  {
+   "id": 4787,
+   "offset": 574511,
+   "text_jp": "美智子達ザマすのヨ!",
+   "translation_en": "is Lady Michiko, de-gowasu!"
+  },
+  {
+   "id": 4788,
+   "offset": 574531,
+   "text_jp": "その前に壞したりしたら",
+   "translation_en": "If you break before then,"
+  },
+  {
+   "id": 4789,
+   "offset": 574546,
+   "text_jp": "アタクシが美智子達に",
+   "translation_en": "Lady Michiko will break"
+  },
+  {
+   "id": 4790,
+   "offset": 574562,
+   "text_jp": "壞されてしまうザマす!!",
+   "translation_en": "me to pieces, de-gowasu!!"
+  },
+  {
+   "id": 4791,
+   "offset": 574599,
+   "text_jp": "というか",
+   "translation_en": "Or rather,"
+  },
+  {
+   "id": 4792,
+   "offset": 574613,
+   "text_jp": "というか…",
+   "translation_en": "or rather..."
+  },
+  {
+   "id": 4793,
+   "offset": 574621,
+   "text_jp": "美智子が糸を帆いているのか",
+   "translation_en": "Michiko is pulling the strings, is she?"
+  },
+  {
+   "id": 4794,
+   "offset": 574643,
+   "text_jp": "にしても",
+   "translation_en": "Even so,"
+  },
+  {
+   "id": 4795,
+   "offset": 574649,
+   "text_jp": "ある意味計算し尽くされた",
+   "translation_en": "it is in a sense a meticulously calculated,"
+  },
+  {
+   "id": 4796,
+   "offset": 574668,
+   "text_jp": "実に効果吋な擇聞だ",
+   "translation_en": "thoroughly effective form of torture."
+  },
+  {
+   "id": 4797,
+   "offset": 574687,
+   "text_jp": "二人の苦手な部分を賓め",
+   "translation_en": "Targeting their exact weaknesses,"
+  },
+  {
+   "id": 4798,
+   "offset": 574707,
+   "text_jp": "なおかつ",
+   "translation_en": "and furthermore,"
+  },
+  {
+   "id": 4799,
+   "offset": 574713,
+   "text_jp": "そのやり方にムダがない",
+   "translation_en": "there is no waste in the method."
+  },
+  {
+   "id": 4800,
+   "offset": 574730,
+   "text_jp": "しかも擇聞そのものに",
+   "translation_en": "Moreover, as to whether this torture itself"
+  },
+  {
+   "id": 4801,
+   "offset": 574744,
+   "text_jp": "何か意味があるのかといえば",
+   "translation_en": "serves any grand purpose,"
+  },
+  {
+   "id": 4802,
+   "offset": 574762,
+   "text_jp": "それもなさそうだ",
+   "translation_en": "there appears to be none."
+  },
+  {
+   "id": 4803,
+   "offset": 574774,
+   "text_jp": "擇聞のための擇聞",
+   "translation_en": "Torture purely for the sake of torture..."
+  },
+  {
+   "id": 4804,
+   "offset": 574788,
+   "text_jp": "実に恐ろしいな…",
+   "translation_en": "Truly terrifying..."
+  },
+  {
+   "id": 4805,
+   "offset": 574820,
+   "text_jp": "あの二人!もう目がうつろに",
+   "translation_en": "Those two! Their eyes are already hollow"
+  },
+  {
+   "id": 4806,
+   "offset": 574839,
+   "text_jp": "なってますわ!",
+   "translation_en": "and glazed over!"
+  },
+  {
+   "id": 4807,
+   "offset": 574851,
+   "text_jp": "帛く何とかしないと!",
+   "translation_en": "We must do something quickly!"
+  },
+  {
+   "id": 4808,
+   "offset": 574866,
+   "text_jp": "取り返しのつかないことに",
+   "translation_en": "Otherwise, it will be too late"
+  },
+  {
+   "id": 4809,
+   "offset": 574882,
+   "text_jp": "なってしまいますわ!",
+   "translation_en": "to save them!"
+  },
+  {
+   "id": 4810,
+   "offset": 574926,
+   "text_jp": "殀精さんだぁ!",
+   "translation_en": "It's a fairy!"
+  },
+  {
+   "id": 4811,
+   "offset": 574949,
+   "text_jp": "ホントに見えたんだよう",
+   "translation_en": "I really saw it!"
+  },
+  {
+   "id": 4812,
+   "offset": 574963,
+   "text_jp": "お毋さ{204}ん!!へへへっ",
+   "translation_en": "Mommy!! Hehehe..."
+  },
+  {
+   "id": 4813,
+   "offset": 574984,
+   "text_jp": "トロ:ぉホゲぇッ!!",
+   "translation_en": "Toro: Bleeeaaargh!!"
+  },
+  {
+   "id": 4814,
+   "offset": 575034,
+   "text_jp": "あれ?",
+   "translation_en": "Huh?"
+  },
+  {
+   "id": 4815,
+   "offset": 575045,
+   "text_jp": "アアア綾臘さん!",
+   "translation_en": "A-A-Ayase-san!"
+  },
+  {
+   "id": 4816,
+   "offset": 575058,
+   "text_jp": "みなさん!!",
+   "translation_en": "Everyone!!"
+  },
+  {
+   "id": 4817,
+   "offset": 575095,
+   "text_jp": "たァすけてェえええ!",
+   "translation_en": "Save meeeee!"
+  },
+  {
+   "id": 4819,
+   "offset": 575125,
+   "text_jp": "メンツがメンツだしィ…",
+   "translation_en": "Considering who it is..."
+  },
+  {
+   "id": 4820,
+   "offset": 575140,
+   "text_jp": "ていうかァ…",
+   "translation_en": "Or rather..."
+  },
+  {
+   "id": 4821,
+   "offset": 575152,
+   "text_jp": "パスって感じ??",
+   "translation_en": "kinda feels like a pass??"
+  },
+  {
+   "id": 4822,
+   "offset": 575168,
+   "text_jp": "にしてもォ",
+   "translation_en": "Still, though,"
+  },
+  {
+   "id": 4823,
+   "offset": 575176,
+   "text_jp": "何であの美智子って奴",
+   "translation_en": "why is that Michiko chick"
+  },
+  {
+   "id": 4824,
+   "offset": 575193,
+   "text_jp": "こんなことすんの?",
+   "translation_en": "doing something like this?"
+  },
+  {
+   "id": 4825,
+   "offset": 575207,
+   "text_jp": "なんか意味あんの?",
+   "translation_en": "Is there any point to it?"
+  },
+  {
+   "id": 4826,
+   "offset": 575245,
+   "text_jp": "それはね",
+   "translation_en": "That is because"
+  },
+  {
+   "id": 4827,
+   "offset": 575251,
+   "text_jp": "彼らが醵いからよ!",
+   "translation_en": "they are ugly!"
+  },
+  {
+   "id": 4828,
+   "offset": 575267,
+   "text_jp": "醵さはそれだけで罪ッ!",
+   "translation_en": "Ugliness alone is a sin!"
+  },
+  {
+   "id": 4829,
+   "offset": 575284,
+   "text_jp": "罪なのッ!",
+   "translation_en": "A sin, I say!"
+  },
+  {
+   "id": 4831,
+   "offset": 575310,
+   "text_jp": "このワタクシが!",
+   "translation_en": "I myself"
+  },
+  {
+   "id": 4832,
+   "offset": 575321,
+   "text_jp": "｜醵悪』という名の罪を",
+   "translation_en": "shall pass judgment on the sin"
+  },
+  {
+   "id": 4833,
+   "offset": 575345,
+   "text_jp": "貮いているのよ!",
+   "translation_en": "known as \"Ugliness\"!"
+  },
+  {
+   "id": 4834,
+   "offset": 575359,
+   "text_jp": "おわかり?",
+   "translation_en": "Do you understand,"
+  },
+  {
+   "id": 4835,
+   "offset": 575367,
+   "text_jp": "小尤ちゃん運?",
+   "translation_en": "little brats?"
+  },
+  {
+   "id": 4836,
+   "offset": 575433,
+   "text_jp": "いうか?",
+   "translation_en": "You say?"
+  },
+  {
+   "id": 4837,
+   "offset": 575448,
+   "text_jp": "そんな醵い奴等で悪いが",
+   "translation_en": "Sorry to disappoint your highness regarding our 'ugly' friends,"
+  },
+  {
+   "id": 4838,
+   "offset": 575465,
+   "text_jp": "彼らは学友だ",
+   "translation_en": "but they are our schoolmates."
+  },
+  {
+   "id": 4839,
+   "offset": 575509,
+   "text_jp": "申してもらおう",
+   "translation_en": "Hand them over."
+  },
+  {
+   "id": 4840,
+   "offset": 575558,
+   "text_jp": "エ{204}がァああッ",
+   "translation_en": "What did you say?!"
+  },
+  {
+   "id": 4841,
+   "offset": 575570,
+   "text_jp": "言うんじャねェエェっ!!",
+   "translation_en": "Don't you dare say that!!"
+  },
+  {
+   "id": 4842,
+   "offset": 575592,
+   "text_jp": "このブス女ぁッ!!",
+   "translation_en": "You ugly hag!!"
+  },
+  {
+   "id": 4843,
+   "offset": 575610,
+   "text_jp": "もう許さねぇぞ!",
+   "translation_en": "I won't let you get away with this!"
+  },
+  {
+   "id": 4844,
+   "offset": 575622,
+   "text_jp": "ブスのくせにトロと悪魔鹿を",
+   "translation_en": "Ugly as you are, bullying Toro and the occult nerd!"
+  },
+  {
+   "id": 4845,
+   "offset": 575641,
+   "text_jp": "いぢめやがって!",
+   "translation_en": "Picking on them like that!"
+  },
+  {
+   "id": 4846,
+   "offset": 575654,
+   "text_jp": "さっさとクサリの鍵",
+   "translation_en": "Hurry up and unlock these chains"
+  },
+  {
+   "id": 4847,
+   "offset": 575666,
+   "text_jp": "闢けて擇聞止めさせろ!",
+   "translation_en": "and stop this torture!"
+  },
+  {
+   "id": 4848,
+   "offset": 575688,
+   "text_jp": "美智子:まぁ{204}!なんて",
+   "translation_en": "Michiko: My, my! What thoughtful"
+  },
+  {
+   "id": 4849,
+   "offset": 575707,
+   "text_jp": "友運思いの人運なのかしら??",
+   "translation_en": "friends you are!"
+  },
+  {
+   "id": 4850,
+   "offset": 575732,
+   "text_jp": "美しい友惰?",
+   "translation_en": "Beautiful friendship, is it?"
+  }
+ ]
+}

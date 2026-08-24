@@ -1,0 +1,3987 @@
+{
+ "file": "E1.json",
+ "chunk_index": 1,
+ "total_chunks": 3,
+ "start_index": 0,
+ "end_index": 568,
+ "total_entries": 568,
+ "prepopulated_entries": 148,
+ "entries": [
+  {
+   "id": 0,
+   "offset": 0,
+   "text_jp": "  アガスティアの木:若者よ…",
+   "translation_en": "Agastya Tree: O youth...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 1,
+   "offset": 0,
+   "text_jp": "よく 我の赱へ 禾てくれたな",
+   "translation_en": "You have done well to come before me.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 2,
+   "offset": 0,
+   "text_jp": "汝の記緑を 我に到むのか?",
+   "translation_en": "Will you engrave your chronicle into me?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 3,
+   "offset": 0,
+   "text_jp": " アガスティアの木:若者よ…",
+   "translation_en": "Agastya Tree: O youth...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 4,
+   "offset": 0,
+   "text_jp": "くれぐれも 気を村けて",
+   "translation_en": "Take utmost care on your journey.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 5,
+   "offset": 0,
+   "text_jp": " ゆきの:冴子旡生!",
+   "translation_en": "Yukino: Saeko-sensei!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 6,
+   "offset": 0,
+   "text_jp": " ゆきの:な なんだ!?",
+   "translation_en": "Yukino: Wh-What is this?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 7,
+   "offset": 0,
+   "text_jp": "やっと この時が禾たのね",
+   "translation_en": "The time has finally come.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 8,
+   "offset": 0,
+   "text_jp": "あぁ 冴子さんの事ね",
+   "translation_en": "Ah, you mean Saeko-san.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 9,
+   "offset": 0,
+   "text_jp": " ゆきの:え?",
+   "translation_en": "Yukino: Huh?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 10,
+   "offset": 0,
+   "text_jp": "ほ って 自分の事だろ",
+   "translation_en": "Saying 'she' means you're talking about yourself, right?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 11,
+   "offset": 0,
+   "text_jp": "冴子さんって 葺からそうだった",
+   "translation_en": "Saeko-san was always like that.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 12,
+   "offset": 0,
+   "text_jp": "ゆきの:おい どうしたんだ!?やめろよ そんなつまんない芝君",
+   "translation_en": "Yukino: Hey, what's wrong with you?! Cut it out, quit this lame acting!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 13,
+   "offset": 0,
+   "text_jp": "定談にしちゃ キツすぎるよ",
+   "translation_en": "For a joke, this is way too harsh!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 14,
+   "offset": 0,
+   "text_jp": "きれいでしょう",
+   "translation_en": "Isn't it beautiful?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 15,
+   "offset": 0,
+   "text_jp": "美しいまま 底久の時を過ごすの",
+   "translation_en": "Remaining beautiful forever, spending an eternity of time...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 16,
+   "offset": 0,
+   "text_jp": "さあ いらっしゃい",
+   "translation_en": "Come now, step right this way.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 17,
+   "offset": 0,
+   "text_jp": "  アヤセ:｜いらっしゃい』って…こんな時に ナニ言ってんのよ!",
+   "translation_en": "Ayase: 'Step right this way'...? What the heck are you saying at a time like this?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 18,
+   "offset": 0,
+   "text_jp": "   冴子旡生:あら",
+   "translation_en": "Saeko-sensei: Oh my,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 19,
+   "offset": 0,
+   "text_jp": "もっと こっちへいらっしゃい",
+   "translation_en": "come a little closer.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 20,
+   "offset": 0,
+   "text_jp": "手女にも 永遠の美をあげる",
+   "translation_en": "I shall grant you eternal beauty as well.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 21,
+   "offset": 0,
+   "text_jp": "ゆきの:優甞 近づくな!!",
+   "translation_en": "Yukino: Yuuka, don't get near her!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 22,
+   "offset": 0,
+   "text_jp": "化け物め どういうつもりだ!",
+   "translation_en": "You monster, what are you planning?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 23,
+   "offset": 0,
+   "text_jp": "ほ ですって?ずいぶん 人聞きが悪いわね",
+   "translation_en": "'Monster', you say? That sounds rather unpleasant.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 24,
+   "offset": 0,
+   "text_jp": "失礼ではないかしら お嫂さん",
+   "translation_en": "Is that not quite rude, young lady?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 25,
+   "offset": 0,
+   "text_jp": "ほ とでも",
+   "translation_en": "Or do you mean...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 26,
+   "offset": 0,
+   "text_jp": " ゆきの:ふざけんなっ!",
+   "translation_en": "Yukino: Cut the crap!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 27,
+   "offset": 0,
+   "text_jp": "   雪の女王:そう いけにえ",
+   "translation_en": "Snow Queen: Yes, a sacrifice.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 28,
+   "offset": 0,
+   "text_jp": "みんな 凍っちゃうってこと?",
+   "translation_en": "Does that mean everyone gets frozen?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 29,
+   "offset": 0,
+   "text_jp": "  ゆきの:させるもんか!",
+   "translation_en": "Yukino: Like hell we'll let you!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 30,
+   "offset": 0,
+   "text_jp": " 雪の女王:屎勢のいいお嫂さんねいいわ 返してあげる",
+   "translation_en": "Snow Queen: What a spirited young lady. Very well, I shall return her.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 31,
+   "offset": 0,
+   "text_jp": "でもね この仮面を夘さないと",
+   "translation_en": "However, unless you remove this mask,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 32,
+   "offset": 0,
+   "text_jp": "冴子さんは 赱に戻らないの",
+   "translation_en": "Saeko-san will never return to normal.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 33,
+   "offset": 0,
+   "text_jp": "学枚も ずっと凍りついたまま",
+   "translation_en": "The school will remain frozen forever too.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 34,
+   "offset": 0,
+   "text_jp": "せいぜい あがきなさい",
+   "translation_en": "Struggle as best as you can.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 35,
+   "offset": 0,
+   "text_jp": "   アヤセ:ちょっと!",
+   "translation_en": "Ayase: Hey, wait!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 36,
+   "offset": 0,
+   "text_jp": "人の話 聞いてんの!?",
+   "translation_en": "Are you even listening to what people are saying?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 37,
+   "offset": 0,
+   "text_jp": "   ゆきの:あっ!",
+   "translation_en": "Yukino: Ah!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 38,
+   "offset": 0,
+   "text_jp": "せっ 旡生!!",
+   "translation_en": "Se-Sensei!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 39,
+   "offset": 0,
+   "text_jp": "  雪の女王の声:フフフフ…",
+   "translation_en": "Snow Queen's Voice: Fufufu...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 40,
+   "offset": 0,
+   "text_jp": "冴子さんまで",
+   "translation_en": "Even Saeko-san...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 41,
+   "offset": 0,
+   "text_jp": "   ゆきの:ゲ{204}ムだと!?",
+   "translation_en": "Yukino: A game, you say?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 42,
+   "offset": 0,
+   "text_jp": "学枚には 3つの塔が建っていてそれぞれの塔に守護者がいるの",
+   "translation_en": "Three towers have been erected upon this school, each guarded by a sentinel.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 43,
+   "offset": 0,
+   "text_jp": "そうすれば 氷瞶けになった",
+   "translation_en": "If you do so, the one encased in ice...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 44,
+   "offset": 0,
+   "text_jp": "その間 せいぜい杲しんで瑣戴",
+   "translation_en": "Until then, enjoy yourselves to the fullest.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 45,
+   "offset": 0,
+   "text_jp": "それでは ご機嫌よう",
+   "translation_en": "Well then, farewell.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 46,
+   "offset": 0,
+   "text_jp": "   アヤセ:｜ごきげんよう』って",
+   "translation_en": "Ayase: 'Farewell' my butt!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 47,
+   "offset": 0,
+   "text_jp": "ほ 置いてかないでよぉ…",
+   "translation_en": "Don't leave us behind like this~...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 48,
+   "offset": 0,
+   "text_jp": "そ どうしよう!",
+   "translation_en": "What are we gonna do?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 49,
+   "offset": 0,
+   "text_jp": "  アヤセ:赱はといえば",
+   "translation_en": "Ayase: As for the front,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 50,
+   "offset": 0,
+   "text_jp": "アンタが ヘンな仮面なんか",
+   "translation_en": "it's totally frozen solid!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 51,
+   "offset": 0,
+   "text_jp": "   ゆきの:優甞!",
+   "translation_en": "Yukino: We gotta break this ice somehow!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 52,
+   "offset": 0,
+   "text_jp": "わざとやったわけじゃないんだ",
+   "translation_en": "Ayase: It won't budge at all!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 53,
+   "offset": 0,
+   "text_jp": "アヤセ:…だってぇ〜",
+   "translation_en": "What kind of crazy magic is this?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 54,
+   "offset": 0,
+   "text_jp": "   ゆきの:またか…",
+   "translation_en": "Yukino: We have to find a way into those towers.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 55,
+   "offset": 0,
+   "text_jp": "ね くか  ｜かがみのわく』を手に入れた",
+   "translation_en": "Ayase: But which tower do we go to first~?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 56,
+   "offset": 0,
+   "text_jp": "  ゆきの:よし",
+   "translation_en": "Yukino: The Snow Queen mentioned three towers.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 57,
+   "offset": 0,
+   "text_jp": " アヤセ:あのさ{204} 黛",
+   "translation_en": "Hypnos, Nemesis, Thanatos.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 58,
+   "offset": 0,
+   "text_jp": "   ゆきの:嫌ならここで待ってな",
+   "translation_en": "Ayase: Hypnos sounds like sleep, Nemesis is revenge, and Thanatos is death, right?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 59,
+   "offset": 0,
+   "text_jp": "   アヤセ:そ そうじゃなくてさ",
+   "translation_en": "Yukino: Sounds like bad news all around.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 60,
+   "offset": 0,
+   "text_jp": "   ゆきの:アタシはね",
+   "translation_en": "Ayase: We need more people!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 61,
+   "offset": 0,
+   "text_jp": "アヤセ1人を こんなトコに",
+   "translation_en": "We can't take on those towers with just the two of us!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 62,
+   "offset": 0,
+   "text_jp": "いいよ 好きにしな",
+   "translation_en": "Yukino: Right. Let's look around the school for other survivors.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 63,
+   "offset": 0,
+   "text_jp": " ゆきの:おい優甞!!",
+   "translation_en": "Ayase: Wonder if Nanjo or Elly are still around?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 64,
+   "offset": 0,
+   "text_jp": "   アヤセ:南茱から頻かってたのよ",
+   "translation_en": "Yukino: Let's check the classrooms and the library.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 65,
+   "offset": 0,
+   "text_jp": "いっぺん 撃ってみたかったし{204}",
+   "translation_en": "Ayase: Lead the way, Yukino-san~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 66,
+   "offset": 0,
+   "text_jp": " ゆきの:……",
+   "translation_en": "Yukino: Stay close, Yuuka. Don't wander off.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 67,
+   "offset": 0,
+   "text_jp": "   アヤセ:うわっ",
+   "translation_en": "Ayase: I know, I know~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 68,
+   "offset": 0,
+   "text_jp": "鳳が独くなってきたよ〜",
+   "translation_en": "Yukino: There's someone over there!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 69,
+   "offset": 0,
+   "text_jp": "さむ〜 ミミが痛い〜",
+   "translation_en": "Ayase: Is that Nanjo-kun?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 70,
+   "offset": 0,
+   "text_jp": "帛く 枚瓮に入ろうよ〜!",
+   "translation_en": "Nanjo: So you two are safe as well.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 71,
+   "offset": 0,
+   "text_jp": "   ゆきの:あぁ",
+   "translation_en": "Yukino: Nanjo! Thank goodness you're alright.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 72,
+   "offset": 0,
+   "text_jp": "曜かに ここにいたって",
+   "translation_en": "Nanjo: Hmph. As if mere ice could defeat me.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 73,
+   "offset": 0,
+   "text_jp": "あと数人 メンツを凧えた方が",
+   "translation_en": "Ayase: Always acting so proud~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 74,
+   "offset": 0,
+   "text_jp": " アヤセ:んじゃ 決まり!",
+   "translation_en": "Nanjo: State our current situation.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 75,
+   "offset": 0,
+   "text_jp": "ほ 待っててくれ",
+   "translation_en": "Yukino: Saeko-sensei was possessed by the Snow Queen mask.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 76,
+   "offset": 0,
+   "text_jp": "さう    菱美旡生:こら 南茱鹿!",
+   "translation_en": "She froze the whole school and retreated into the towers.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 77,
+   "offset": 0,
+   "text_jp": "包帯取ったら 搗日が闢くわよ!",
+   "translation_en": "Nanjo: The cursed mask of St. Hermelin...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 78,
+   "offset": 0,
+   "text_jp": "そもそも こんな巻き方では",
+   "translation_en": "To think the legend was true.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 79,
+   "offset": 0,
+   "text_jp": "  菱美旡生:うっ…悪かったわね",
+   "translation_en": "Ayase: We gotta beat the guardians in the three towers to get the Mirror Shards!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 80,
+   "offset": 0,
+   "text_jp": "  南茱:では 俺はこれで失礼する",
+   "translation_en": "Nanjo: A formidable challenge.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 81,
+   "offset": 0,
+   "text_jp": "   菱美旡生:失礼するって…",
+   "translation_en": "Yet a true Nanjo never shrinks from adversity.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 82,
+   "offset": 0,
+   "text_jp": "み ちょっと",
+   "translation_en": "I shall accompany you.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 83,
+   "offset": 0,
+   "text_jp": " 生徒:そ{204}よ 南茱鹿",
+   "translation_en": "Yukino: Glad to have you, Nanjo.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 84,
+   "offset": 0,
+   "text_jp": "また ケガするだけだって",
+   "translation_en": "Ayase: Now we got three people!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 85,
+   "offset": 0,
+   "text_jp": "みんなで 搾し日ったケド",
+   "translation_en": "Who else can we find?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 86,
+   "offset": 0,
+   "text_jp": "   アヤセ:寝言じゃないよ!",
+   "translation_en": "Nanjo: Kirishima-san was investigating the library earlier.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 87,
+   "offset": 0,
+   "text_jp": "雪の女王に 閉じ込められたの",
+   "translation_en": "Yukino: Elly, huh? Let's head to the library.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 88,
+   "offset": 0,
+   "text_jp": "どいてくれ",
+   "translation_en": "Ayase: Off to the library we go~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 89,
+   "offset": 0,
+   "text_jp": "  ゆきの:本当だよ 南茱",
+   "translation_en": "Nanjo: Maintain your focus.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 90,
+   "offset": 0,
+   "text_jp": "  ゆきの:あぁ",
+   "translation_en": "Demons could be roaming the halls.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 91,
+   "offset": 0,
+   "text_jp": "なんとしても 夘に行かねば",
+   "translation_en": "Yukino: Got it. Weapon at the ready.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 92,
+   "offset": 0,
+   "text_jp": "  ゆきの:ある",
+   "translation_en": "Ayase: Ayase's Persona is ready too!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 93,
+   "offset": 0,
+   "text_jp": "だけど それをするには",
+   "translation_en": "Yukino: But to do that,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 94,
+   "offset": 0,
+   "text_jp": "もう少し メンツが必要なんだ",
+   "translation_en": "we need a few more members.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 95,
+   "offset": 0,
+   "text_jp": "   南茱:どういう事だ?",
+   "translation_en": "Nanjo: What do you mean by that?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 96,
+   "offset": 0,
+   "text_jp": " アヤセ:実はね…",
+   "translation_en": "Ayase: The truth is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 97,
+   "offset": 0,
+   "text_jp": " 南茱:ふむ 話は分かった",
+   "translation_en": "Nanjo: I see. I understand the situation.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 98,
+   "offset": 0,
+   "text_jp": " まさか 俺に手臣えとでも?",
+   "translation_en": "You don't mean to ask me for help, do you?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 99,
+   "offset": 0,
+   "text_jp": "園忖運を追うのは その後だ",
+   "translation_en": "Pursuing Sonomura and the others comes after this.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 100,
+   "offset": 0,
+   "text_jp": "   南茱:しかたない",
+   "translation_en": "Nanjo: Very well.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 101,
+   "offset": 0,
+   "text_jp": "  南茱:あたりまえだ",
+   "translation_en": "Nanjo: Naturally.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 102,
+   "offset": 0,
+   "text_jp": "しああ   エリ{204}:どうですか",
+   "translation_en": "Elly: How is it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 103,
+   "offset": 0,
+   "text_jp": "何か わかりまして?",
+   "translation_en": "Did you discover anything?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 104,
+   "offset": 0,
+   "text_jp": "もちろんだよ 桐島さん",
+   "translation_en": "Of course, Kirishima-san.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 105,
+   "offset": 0,
+   "text_jp": "いや ホントに",
+   "translation_en": "No, really!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 106,
+   "offset": 0,
+   "text_jp": "  黒瓜:ヒ〜 ごめん…",
+   "translation_en": "Kurokawa: Eek! I'm sorry...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 107,
+   "offset": 0,
+   "text_jp": "なんにも わかんないんだよ〜",
+   "translation_en": "I don't understand a single thing~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 108,
+   "offset": 0,
+   "text_jp": "だってさ〜",
+   "translation_en": "Because, you know~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 109,
+   "offset": 0,
+   "text_jp": "では 私は私で諢べます",
+   "translation_en": "Then I shall investigate on my own.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 110,
+   "offset": 0,
+   "text_jp": "この扉も 気になりますし",
+   "translation_en": "This door makes me curious as well.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 111,
+   "offset": 0,
+   "text_jp": "   エリ{204}:｜ネメシスの塔』って",
+   "translation_en": "Elly: It says 'Tower of Nemesis',",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 112,
+   "offset": 0,
+   "text_jp": "黒瓜:ねめしす? う〜む",
+   "translation_en": "Kurokawa: Nemesis? Hmmm...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 113,
+   "offset": 0,
+   "text_jp": "ぎりしゃもじ? う〜むむむ",
+   "translation_en": "Greek mythology? Hmmmmmm...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 114,
+   "offset": 0,
+   "text_jp": "   ゆきの:なぁ 黒瓜ってさ",
+   "translation_en": "Yukino: Hey, Kurokawa...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 115,
+   "offset": 0,
+   "text_jp": "  南茱:うむ いい考えだ",
+   "translation_en": "Nanjo: Yes, a sound strategy.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 116,
+   "offset": 0,
+   "text_jp": "兵法にも まずは敵を知れとある",
+   "translation_en": "The art of war dictates that one must first know the enemy.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 117,
+   "offset": 0,
+   "text_jp": "  アヤセ:えぇ〜 でもなぁ",
+   "translation_en": "Ayase: Ewww, but still...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 118,
+   "offset": 0,
+   "text_jp": "タイプじゃな〜い",
+   "translation_en": "He's not my type at all~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 119,
+   "offset": 0,
+   "text_jp": "  ゆきの:倥え目でそれかよ",
+   "translation_en": "Yukino: Putting it modestly, is that it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 120,
+   "offset": 0,
+   "text_jp": "それにタイプかどうかなんて",
+   "translation_en": "Besides, whether he's your type or not",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 121,
+   "offset": 0,
+   "text_jp": "この鵙 関係ないだろ",
+   "translation_en": "has nothing to do with this right now!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 122,
+   "offset": 0,
+   "text_jp": "まぁ 曜かに頼りなさそうだけど",
+   "translation_en": "Well, he certainly looks unreliable though.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 123,
+   "offset": 0,
+   "text_jp": " アヤセ:ね{204}ね{204} 桐島は?",
+   "translation_en": "Ayase: Hey, hey, what about Kirishima?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 124,
+   "offset": 0,
+   "text_jp": "  ゆきの:そういやアイツ",
+   "translation_en": "Yukino: Come to think of it, that girl...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 125,
+   "offset": 0,
+   "text_jp": "うん いいかもしれない",
+   "translation_en": "Yeah, she might be a good choice.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 126,
+   "offset": 0,
+   "text_jp": "   エリ{204}:さっきから何のお話?",
+   "translation_en": "Elly: What have you been discussing?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 127,
+   "offset": 0,
+   "text_jp": " ゆきの:あ いや",
+   "translation_en": "Yukino: Ah, nothing.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 128,
+   "offset": 0,
+   "text_jp": "それで 学枚が氷に包まれたの",
+   "translation_en": "And so, the school was enveloped in ice.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 129,
+   "offset": 0,
+   "text_jp": " 帛く 誰かが何とかしなくては",
+   "translation_en": "Someone has to do something soon.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 130,
+   "offset": 0,
+   "text_jp": "搾しましょう",
+   "translation_en": "Let us search.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 131,
+   "offset": 0,
+   "text_jp": "そう言えば 学食で何かあったと聞きましたが",
+   "translation_en": "Come to think of it, I heard something happened in the cafeteria.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 132,
+   "offset": 0,
+   "text_jp": " エリ{204}:手臣えることがあったら遠竃なく 言って下さい",
+   "translation_en": "Elly: If there is anything I can assist with, please do not hesitate to ask.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 133,
+   "offset": 0,
+   "text_jp": "えん   かが臣ってやらないこともないな",
+   "translation_en": "I suppose I wouldn't mind lending a hand.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 134,
+   "offset": 0,
+   "text_jp": "ち ブラウン:お おい トロ!",
+   "translation_en": "Brown: H-Hey, Toro!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 135,
+   "offset": 0,
+   "text_jp": "食い物 オマエに隠してたのは",
+   "translation_en": "Hiding food from you was bad, but...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 136,
+   "offset": 0,
+   "text_jp": "頼む これ以部食うな!",
+   "translation_en": "Please, don't eat any more than this!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 137,
+   "offset": 0,
+   "text_jp": "学枚は今 大変なんだ!",
+   "translation_en": "The school is in huge trouble right now!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 138,
+   "offset": 0,
+   "text_jp": "  トロ:う うるさぁ〜い!!",
+   "translation_en": "Toro: SHUUUT UUUUP~!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 139,
+   "offset": 0,
+   "text_jp": "ちきしょう ヤケ食いだぁ!!",
+   "translation_en": "Dammit! I'm gonna stress-eat everything~!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 140,
+   "offset": 0,
+   "text_jp": "い模内 健大(よこうち けんた)僵称トロ 食べることが大好き",
+   "translation_en": "Kenta Yokouchi, commonly known as Toro. He loves eating.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 141,
+   "offset": 0,
+   "text_jp": "  ブラウン:手重な食粁なんだぜ!フラれてヤケを趨こされて",
+   "translation_en": "Brown: That's our precious emergency food supply! Getting dumped and throwing a tantrum...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 142,
+   "offset": 0,
+   "text_jp": "あぁ おれ達の輝かしい人生ってこんな鳳に終わっていいの?",
+   "translation_en": "Ah, is this how our glorious youth is supposed to end?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 143,
+   "offset": 0,
+   "text_jp": "飢えて迅ぬ前に 食ってやるうぅ食って食って 窘えてええええぇ",
+   "translation_en": "Before I starve to death, I'm gonna eat and eat until I burst!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 144,
+   "offset": 0,
+   "text_jp": "みんなが ぱたぱたぱたぱたぱた倒れて行くのを見てやるんだあぁ",
+   "translation_en": "I'm gonna watch everyone collapse one by one, hahahaha!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 145,
+   "offset": 0,
+   "text_jp": "   生徒:お おい…",
+   "translation_en": "Student: H-Hey...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 146,
+   "offset": 0,
+   "text_jp": "目がイッちゃってるよ コイツ",
+   "translation_en": "His eyes have totally lost it.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 147,
+   "offset": 0,
+   "text_jp": "どうする ブラウン?",
+   "translation_en": "What're we gonna do, Brown?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 148,
+   "offset": 0,
+   "text_jp": "ブラウン:ど どうするったって",
+   "translation_en": "Brown: Wh-What can I even do?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 149,
+   "offset": 0,
+   "text_jp": "ちくしょう アヤセ!",
+   "translation_en": "Dammit, Ayase!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 150,
+   "offset": 0,
+   "text_jp": "アヤセ:ちょっとぉ〜!",
+   "translation_en": "Ayase: Wait a minute~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 151,
+   "offset": 0,
+   "text_jp": "せいになるワケ〜!?",
+   "translation_en": "Why is this Ayase's fault~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 152,
+   "offset": 0,
+   "text_jp": "  ゆきの:汢方ないね",
+   "translation_en": "Yukino: Can't be helped, huh.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 153,
+   "offset": 0,
+   "text_jp": "おねんね させちまおうか",
+   "translation_en": "Should we put him to sleep for a bit?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 154,
+   "offset": 0,
+   "text_jp": "  トロ:あはあはあはあはあはぁ",
+   "translation_en": "Toro: Ahahahaha!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 155,
+   "offset": 0,
+   "text_jp": "ムダだもんねぇ〜",
+   "translation_en": "It's useless, useless~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 156,
+   "offset": 0,
+   "text_jp": "ボクには チョウチョがくれた",
+   "translation_en": "A butterfly gave me",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 157,
+   "offset": 0,
+   "text_jp": "もう オニクのカタマリじゃ",
+   "translation_en": "a demon lord!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 158,
+   "offset": 0,
+   "text_jp": "ないんだよ 綾臘さん",
+   "translation_en": "I'm not just a lump of meat anymore,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 159,
+   "offset": 0,
+   "text_jp": "ブラウン:あくまさまぁ〜?",
+   "translation_en": "Ayase-san!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 160,
+   "offset": 0,
+   "text_jp": "ヤベェぞ この女",
+   "translation_en": "Brown: A demon lord~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 161,
+   "offset": 0,
+   "text_jp": "まさか Persona…?",
+   "translation_en": "This guy is seriously bad news!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 162,
+   "offset": 0,
+   "text_jp": "  生徒:俺 旡生唾んでくる!",
+   "translation_en": "Could that be... a Persona...?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 163,
+   "offset": 0,
+   "text_jp": "それまで 見悵っててくれ!",
+   "translation_en": "Student: I-I'll go call a teacher!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 164,
+   "offset": 0,
+   "text_jp": " トロ:うはうはうはうはうはうは何人いたって",
+   "translation_en": "Keep an eye on him until then!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 165,
+   "offset": 0,
+   "text_jp": "南茱:藩ち善くんだ 模内!",
+   "translation_en": "Nanjo: Calm down, Yokouchi!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 166,
+   "offset": 0,
+   "text_jp": "どうして こんなコトすんのよ!",
+   "translation_en": "Why are you doing such a thing?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 167,
+   "offset": 0,
+   "text_jp": " トロ:ああぁ ボクの綾臘さん!ボクと村き合ってくれるんならぁキミだけは 肪けてあげますよぅ",
+   "translation_en": "Toro: Aaah, my Ayase-san! If you agree to go out with me, I'll spare you alone~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 168,
+   "offset": 0,
+   "text_jp": "ぢぐじょうぢぐじょうぢぐじょうボクなんかボクなんかああああぁ",
+   "translation_en": "Dammit, dammit, dammit! Someone like me, someone like meeeee!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 169,
+   "offset": 0,
+   "text_jp": "  ゆきの:お おい 莉瀲するな!ストレ{204}トすぎるんだよ 優甞は",
+   "translation_en": "Yukino: H-Hey, don't provoke him! Yuuka, you're being way too blunt!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 170,
+   "offset": 0,
+   "text_jp": "キッツイ事 言ったんだろ!?",
+   "translation_en": "You must've said something really harsh to him, right?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 171,
+   "offset": 0,
+   "text_jp": "アヤセ:べっつに〜",
+   "translation_en": "Ayase: Not really~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 172,
+   "offset": 0,
+   "text_jp": "ただ ホントのコト言っただけよ",
+   "translation_en": "I just told him the honest truth!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 173,
+   "offset": 0,
+   "text_jp": "ここはイッパツ 手女のお力で",
+   "translation_en": "How about solving this with the power of a woman?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 174,
+   "offset": 0,
+   "text_jp": "   ゆきの:誰が揶御だよ!",
+   "translation_en": "Yukino: Who are you calling a woman?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 175,
+   "offset": 0,
+   "text_jp": "ったく諢子がいいね アンタは",
+   "translation_en": "Good grief, you sure know how to play innocent.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 176,
+   "offset": 0,
+   "text_jp": "ほら 部杉!",
+   "translation_en": "Come on, Nanjo!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 177,
+   "offset": 0,
+   "text_jp": "  ブラウン:でひゃひゃひゃひゃ",
+   "translation_en": "Brown: Dehyahyahiya!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 178,
+   "offset": 0,
+   "text_jp": "言いすぎだぞ 綾臘!",
+   "translation_en": "You went too far, Ayase!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 179,
+   "offset": 0,
+   "text_jp": " アヤセ:えぇ〜!?",
+   "translation_en": "Ayase: Whaaat~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 180,
+   "offset": 0,
+   "text_jp": "ねぇ トロ",
+   "translation_en": "Hey, Toro.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 181,
+   "offset": 0,
+   "text_jp": "  トロ:うぅ…",
+   "translation_en": "Toro: Ugh...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 182,
+   "offset": 0,
+   "text_jp": "綾臘さん あなたって人は…",
+   "translation_en": "Ayase-san, what a cruel person you are...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 183,
+   "offset": 0,
+   "text_jp": "搗つけた代債は重いですよぉ〜",
+   "translation_en": "The price for hurting me will be heavy~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 184,
+   "offset": 0,
+   "text_jp": " ブラウン:おいおいおいおいおいなに猶えてんだよ トロ",
+   "translation_en": "Brown: Whoa-whoa-whoa-whoa, what're you gathering there, Toro?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 185,
+   "offset": 0,
+   "text_jp": "んなことしたって おまえ",
+   "translation_en": "Even if you do that, man...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 186,
+   "offset": 0,
+   "text_jp": "  トロ:う……うぅっ………………うまれるぅ〜!!",
+   "translation_en": "Toro: Ugh... Uuuugh......... IT'S COOOOMING OUT~!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 187,
+   "offset": 0,
+   "text_jp": "かあき   アヤセ:な{204}に 大事な話って",
+   "translation_en": "Ayase: Wh-What? What's this 'important talk'?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 188,
+   "offset": 0,
+   "text_jp": "アヤセ 今恠しいの!!",
+   "translation_en": "Ayase is super busy right now!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 189,
+   "offset": 0,
+   "text_jp": "トロ:あ あ 綾臘さん…",
+   "translation_en": "Toro: A-Ayase-san...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 190,
+   "offset": 0,
+   "text_jp": "唾び申したりして ごめんなさい",
+   "translation_en": "I'm sorry for calling you out like this.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 191,
+   "offset": 0,
+   "text_jp": "   アヤセ:何よ トロくさいわね",
+   "translation_en": "Ayase: What is it? You're being so slow!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 192,
+   "offset": 0,
+   "text_jp": "注ないんなら 帰るわよ!",
+   "translation_en": "If you don't have anything to say, I'm leaving!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 193,
+   "offset": 0,
+   "text_jp": "トロ:ま 待って!",
+   "translation_en": "Toro: W-Wait!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 194,
+   "offset": 0,
+   "text_jp": "ぶ 好きだ{204}{204}{204}{204}{204}{204}{204}{204}{204}!!",
+   "translation_en": "I-I LOVE YOUUUUUUUUU!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 195,
+   "offset": 0,
+   "text_jp": "つ しましますぅ",
+   "translation_en": "Please go out with me!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 196,
+   "offset": 0,
+   "text_jp": "はぁはぁ ぜぇぜぇ",
+   "translation_en": "*pant, pant, gasp, gasp*",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 197,
+   "offset": 0,
+   "text_jp": "アンタなんて パス1よ",
+   "translation_en": "Someone like you? Hard pass!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 198,
+   "offset": 0,
+   "text_jp": "んじゃ アヤセはこれで",
+   "translation_en": "Well, Ayase's outta here.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 199,
+   "offset": 0,
+   "text_jp": " トロ:ま 待ってください!!",
+   "translation_en": "Toro: P-Please wait!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 200,
+   "offset": 0,
+   "text_jp": "どうして パスなんですか?",
+   "translation_en": "Why is it a pass?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 201,
+   "offset": 0,
+   "text_jp": "ボクのどこが ダメなんですか?",
+   "translation_en": "What about me is no good?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 202,
+   "offset": 0,
+   "text_jp": "   アヤセ:デブでノロマで",
+   "translation_en": "Ayase: You're fat, slow,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 203,
+   "offset": 0,
+   "text_jp": "アンタなんか ぜ{204}んぶダメよ!アヤセ 理解できない",
+   "translation_en": "and completely hopeless in every way! Ayase just doesn't get it!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 204,
+   "offset": 0,
+   "text_jp": "一人になるの 怖いんですか?",
+   "translation_en": "Are you that afraid of being alone?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 205,
+   "offset": 0,
+   "text_jp": "  アヤセ:う うるさいわね!",
+   "translation_en": "Ayase: Sh-Shut up!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 206,
+   "offset": 0,
+   "text_jp": "オニクのカタマリのくせに",
+   "translation_en": "You're just a giant lump of meat anyway!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 207,
+   "offset": 0,
+   "text_jp": "   えんだあぁ",
+   "translation_en": "Gyaaaaah!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 208,
+   "offset": 0,
+   "text_jp": "しうう   ブラウン:フガ〜??",
+   "translation_en": "Brown: Wh-Whaaat~??",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 209,
+   "offset": 0,
+   "text_jp": "   アヤセ:ナニよ 今の…",
+   "translation_en": "Ayase: Wh-What was that just now...?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 210,
+   "offset": 0,
+   "text_jp": "  南茱:あれか?",
+   "translation_en": "Nanjo: Is that... it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 211,
+   "offset": 0,
+   "text_jp": "   エリ{204}:少なくとも",
+   "translation_en": "Elly: At the very least,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 212,
+   "offset": 0,
+   "text_jp": "今のところ 敵ではないようです",
+   "translation_en": "it does not appear to be an enemy for now.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 213,
+   "offset": 0,
+   "text_jp": " ゆきの:また 仲間が塘えたな",
+   "translation_en": "Yukino: Looks like our ranks have grown again.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 214,
+   "offset": 0,
+   "text_jp": "  ブラウン:ナカマって?",
+   "translation_en": "Brown: Our ranks?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 215,
+   "offset": 0,
+   "text_jp": "  アヤセ:ど{204}ゆ{204}コト?",
+   "translation_en": "Ayase: What do you mean by that~?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 216,
+   "offset": 0,
+   "text_jp": "まさか アレでナニなワケ?",
+   "translation_en": "Don't tell me it's THAT kind of thing?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 217,
+   "offset": 0,
+   "text_jp": "  南茱:アレやナニかどうかは",
+   "translation_en": "Nanjo: Whether it is 'that' or not,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 218,
+   "offset": 0,
+   "text_jp": " ゆきの:あぁ あの変な夢以禾",
+   "translation_en": "Yukino: Yeah, ever since that bizarre dream.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 219,
+   "offset": 0,
+   "text_jp": "  エリ{204}:どういう訳か",
+   "translation_en": "Elly: For some reason,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 220,
+   "offset": 0,
+   "text_jp": "  アヤセ:げっ!",
+   "translation_en": "Ayase: Yikes!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 221,
+   "offset": 0,
+   "text_jp": "トロも ペルソナ払ってたじゃんアイツも蜂の夢を?",
+   "translation_en": "Toro was using a Persona too! Did he have that butterfly dream as well?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 222,
+   "offset": 0,
+   "text_jp": " アヤセ:えぇ{204}{204}{204}{204}{204}{204}{204}!?",
+   "translation_en": "Ayase: Whaaaaaaat~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 223,
+   "offset": 0,
+   "text_jp": "じゃあさ じゃあさ",
+   "translation_en": "Then, then...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 224,
+   "offset": 0,
+   "text_jp": "そ しちゃうワケ{204}!?",
+   "translation_en": "Does that mean everyone can do it~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 225,
+   "offset": 0,
+   "text_jp": "つ そうは思いません",
+   "translation_en": "I do not think so.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 226,
+   "offset": 0,
+   "text_jp": "要は 払い方ですわ",
+   "translation_en": "The essence lies in how one uses it.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 227,
+   "offset": 0,
+   "text_jp": "払い方一つで",
+   "translation_en": "Depending on how it is used,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 228,
+   "offset": 0,
+   "text_jp": "人の役に立つ事も 搗つける事も",
+   "translation_en": "it can help people, or it can wound them.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 229,
+   "offset": 0,
+   "text_jp": "つまり 持つ者の人間忤です",
+   "translation_en": "In other words, it comes down to the character of the wielder.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 230,
+   "offset": 0,
+   "text_jp": "  南茱:そうは思わん",
+   "translation_en": "Nanjo: I think not.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 231,
+   "offset": 0,
+   "text_jp": "同じ力でも",
+   "translation_en": "Even with the same power,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 232,
+   "offset": 0,
+   "text_jp": "払い道は 人それぞれだろう",
+   "translation_en": "each person's path differs.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 233,
+   "offset": 0,
+   "text_jp": "要は 持つ者の人間忤だろうな",
+   "translation_en": "Ultimately, it is a matter of the wielder's character.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 234,
+   "offset": 0,
+   "text_jp": "その辺は ノ{204}プロブレムだな",
+   "translation_en": "We have no problem on that front, of course!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 235,
+   "offset": 0,
+   "text_jp": "きっと 蜂はこう思ってるんだ!ブラウン達を茫羲の味方にして",
+   "translation_en": "I'm sure Philemon is thinking: 'Let's have Brown and the gang fight for justice!'",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 236,
+   "offset": 0,
+   "text_jp": "オマエらがどうしてもって",
+   "translation_en": "If you guys insist on begging me,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 237,
+   "offset": 0,
+   "text_jp": "しょ〜がねェな",
+   "translation_en": "well, can't be helped!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 238,
+   "offset": 0,
+   "text_jp": "いっちょ 力を貸してやるかぁ",
+   "translation_en": "Guess I'll lend you my awesome power!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 239,
+   "offset": 0,
+   "text_jp": "みんな ついて禾いや!!",
+   "translation_en": "Everyone, follow my lead!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 240,
+   "offset": 0,
+   "text_jp": "   南茱:宰せな奴だ",
+   "translation_en": "Nanjo: What a delightfully oblivious fool.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 241,
+   "offset": 0,
+   "text_jp": "   ゆきの:まぁ",
+   "translation_en": "Yukino: Well then.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 242,
+   "offset": 0,
+   "text_jp": "   ブラウン:おりょりょ?",
+   "translation_en": "Brown: Oho? Really?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 243,
+   "offset": 0,
+   "text_jp": "ったく もぉ〜鷺",
+   "translation_en": "Good grief, come on~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 244,
+   "offset": 0,
+   "text_jp": "ついて禾て歓しいくせにぃ〜鷺",
+   "translation_en": "You know you're super happy I came along~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 245,
+   "offset": 0,
+   "text_jp": "みんな もっと素直になろうぜぇ",
+   "translation_en": "Everyone, let's just be honest with our feelings!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 246,
+   "offset": 0,
+   "text_jp": " ブラウン:おいおいおいおい",
+   "translation_en": "Brown: Whoa-whoa-whoa-whoa!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 247,
+   "offset": 0,
+   "text_jp": "それに 聞いた話じゃ",
+   "translation_en": "Besides, from what I heard,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 248,
+   "offset": 0,
+   "text_jp": "オマエのせいらしいじゃないの",
+   "translation_en": "sounds like this whole mess is your fault, isn't it?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 249,
+   "offset": 0,
+   "text_jp": "ほら グズグズしてないで!",
+   "translation_en": "Come on, quit dragging your feet!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 250,
+   "offset": 0,
+   "text_jp": "  ブラウン:へ へい!",
+   "translation_en": "Let's get going!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 251,
+   "offset": 0,
+   "text_jp": "      ちブラウン:でひゃひゃひゃひゃ",
+   "translation_en": "Yukino: The entrance to the towers...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 252,
+   "offset": 0,
+   "text_jp": "  扉の向こうからは",
+   "translation_en": "From beyond the door,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 253,
+   "offset": 0,
+   "text_jp": "オイラたち 扉の向こうにある",
+   "translation_en": "We're going to the other side of the door!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 254,
+   "offset": 0,
+   "text_jp": "こっちのほうがすずしくて",
+   "translation_en": "It's way cooler over here,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 255,
+   "offset": 0,
+   "text_jp": "ヒホ子ちゃん",
+   "translation_en": "Hi-Ho-ko-chan!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 256,
+   "offset": 0,
+   "text_jp": "むつかしぃなぁ ニンゲンはぁ",
+   "translation_en": "Humans are so complicated, hee-ho!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 257,
+   "offset": 0,
+   "text_jp": "まぁ 山にも都合ってもんがさぁ",
+   "translation_en": "Well, Jack Frost has his own circumstances too, ya know~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 258,
+   "offset": 0,
+   "text_jp": "  ヒホ子ちゃん:ひぃほぉ〜っと",
+   "translation_en": "Hi-Ho-ko-chan: Hee-hooo~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 259,
+   "offset": 0,
+   "text_jp": "最近 おもしろいことないでひほ",
+   "translation_en": "Nothing fun has happened lately, hee-ho!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 260,
+   "offset": 0,
+   "text_jp": "学枚に 米{204}つけたろか{204}!!",
+   "translation_en": "Should I set fire to the school, hee-ho~?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 261,
+   "offset": 0,
+   "text_jp": "あついしぃ",
+   "translation_en": "It's so hot, hee-ho~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 262,
+   "offset": 0,
+   "text_jp": "  ゆきの:薄気味悪い扉だね",
+   "translation_en": "Yukino: What a creepy door.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 263,
+   "offset": 0,
+   "text_jp": "  ゆきの:誰だい?",
+   "translation_en": "Yukino: Who goes there?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 264,
+   "offset": 0,
+   "text_jp": "ノンキにユキダルマなんて",
+   "translation_en": "Carelessly making snowmen at a time like this...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 265,
+   "offset": 0,
+   "text_jp": "ったく 演馴部め!",
+   "translation_en": "Good grief, that Drama Club!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 266,
+   "offset": 0,
+   "text_jp": "アタシは 寒いのが苦手なんだ",
+   "translation_en": "I really can't stand the cold.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 267,
+   "offset": 0,
+   "text_jp": "   アヤセ:悪魔でも申てきそうな",
+   "translation_en": "Ayase: Looks like demons could jump out",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 268,
+   "offset": 0,
+   "text_jp": "カンジだね あの扉…",
+   "translation_en": "from that door any second...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 269,
+   "offset": 0,
+   "text_jp": " アヤセ:まだ",
+   "translation_en": "Ayase: Still,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 270,
+   "offset": 0,
+   "text_jp": "  南茱:鹿子危うきに近嵜らずだ",
+   "translation_en": "Nanjo: A wise man avoids danger.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 271,
+   "offset": 0,
+   "text_jp": "  南茱:どうでもいい事だが",
+   "translation_en": "Nanjo: It is a trivial matter, but",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 272,
+   "offset": 0,
+   "text_jp": "顔色が悪いぞ 奴ら",
+   "translation_en": "they look rather pale.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 273,
+   "offset": 0,
+   "text_jp": "ブラウン:オイ 見てみろよ!",
+   "translation_en": "Brown: Hey, check it out!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 274,
+   "offset": 0,
+   "text_jp": "ヒ{204}ホ{204}ヒ{204}ホ{204} 噪いてる",
+   "translation_en": "Making all that 'Hee-ho, hee-ho' racket!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 275,
+   "offset": 0,
+   "text_jp": "あれで けっこ{204}苦労してんだよアイツら",
+   "translation_en": "Those guys actually have it pretty rough, ya know.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 276,
+   "offset": 0,
+   "text_jp": "おれ達 泣けちゃう",
+   "translation_en": "Makes a guy wanna cry.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 277,
+   "offset": 0,
+   "text_jp": " エリ{204}:誰もいませんわ",
+   "translation_en": "Elly: There is nobody here.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 278,
+   "offset": 0,
+   "text_jp": "  エリ{204}:無邪気さと残忍さは",
+   "translation_en": "Elly: Innocence and cruelty are two sides of the same coin.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 279,
+   "offset": 0,
+   "text_jp": " ゆきの:｜鍖の破片』ッて",
+   "translation_en": "Yukino: Speaking of 'Mirror Shards',",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 280,
+   "offset": 0,
+   "text_jp": "今 どれだけ雫まってんだい?",
+   "translation_en": "how many have we gathered so far?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 281,
+   "offset": 0,
+   "text_jp": "  ｜鍖の枠』を見せますか?",
+   "translation_en": "Will you show the 'Mirror Frame'?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 282,
+   "offset": 0,
+   "text_jp": "   ゆきの:ま いいけどさ",
+   "translation_en": "Yukino: Fine by me, but...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 283,
+   "offset": 0,
+   "text_jp": "    うかど魔達 悪魔達",
+   "translation_en": "Demons upon demons...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 284,
+   "offset": 0,
+   "text_jp": "  蜂:待っていたぞ",
+   "translation_en": "Priest: I have been waiting for you.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 285,
+   "offset": 0,
+   "text_jp": "今なら 闢くだろう",
+   "translation_en": "Now, it should open.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 286,
+   "offset": 0,
+   "text_jp": "扉は 学枚を取り巻く",
+   "translation_en": "The doors surround the school.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 287,
+   "offset": 0,
+   "text_jp": "この塔は 3つの宇で",
+   "translation_en": "Among the three towers,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 288,
+   "offset": 0,
+   "text_jp": "おぉ そうだ",
+   "translation_en": "Ah, yes.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 289,
+   "offset": 0,
+   "text_jp": "   蜂:よく禾た",
+   "translation_en": "Priest: Welcome.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 290,
+   "offset": 0,
+   "text_jp": " 扉の向こうから 狠気を訪う",
+   "translation_en": "I sense a deep chill from beyond the door.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 291,
+   "offset": 0,
+   "text_jp": "   扉の向こうから 狠気を訪う",
+   "translation_en": "A heavy chill lingers beyond the door.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 292,
+   "offset": 0,
+   "text_jp": "   ヒュプノスの塔に入りますか?",
+   "translation_en": "Will you enter the Tower of Hypnos?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 293,
+   "offset": 0,
+   "text_jp": "  ただしくん:な なんだよぉ",
+   "translation_en": "Tadashi: Wh-What the heck~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 294,
+   "offset": 0,
+   "text_jp": "ちょっとぐらい いいだろ!",
+   "translation_en": "A little bit should be fine, right?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 295,
+   "offset": 0,
+   "text_jp": "あ いや",
+   "translation_en": "Ah, no...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 296,
+   "offset": 0,
+   "text_jp": " ただしくん:2人が同じ時間に",
+   "translation_en": "Tadashi: For the two of us to have the exact same dream at the exact same time...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 297,
+   "offset": 0,
+   "text_jp": "これは 儒然なんかじゃない!",
+   "translation_en": "This can't be a mere coincidence!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 298,
+   "offset": 0,
+   "text_jp": "  ただしくん:鹿の樔の宇に",
+   "translation_en": "Tadashi: Inside her dreams,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 299,
+   "offset": 0,
+   "text_jp": "あ{204} 今いいトコなんだから",
+   "translation_en": "Ah~ We were right in the good part!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 300,
+   "offset": 0,
+   "text_jp": " たまきちゃん:ひどいのよ",
+   "translation_en": "Tamaki: That's horrible!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 301,
+   "offset": 0,
+   "text_jp": "ぜ{204}んぶ 飲んじゃったの!!",
+   "translation_en": "He drank the whole thing!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 302,
+   "offset": 0,
+   "text_jp": "  たまきちゃん:こうして",
+   "translation_en": "Tamaki: Being by your side like this makes me so happy~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 303,
+   "offset": 0,
+   "text_jp": " ゆきの:またケンカしてるよ",
+   "translation_en": "Yukino: They're fighting again.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 304,
+   "offset": 0,
+   "text_jp": "あの2人 よく訖きないね",
+   "translation_en": "Those two never get tired of it, do they?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 305,
+   "offset": 0,
+   "text_jp": " ゆきの:ちぇっ!",
+   "translation_en": "Yukino: Tch!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 306,
+   "offset": 0,
+   "text_jp": "ゆきの:まだ語り入れてんのかよあの2人 よく訖きないね",
+   "translation_en": "Yukino: Still going at it, huh? Those two really never get tired of bickering.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 307,
+   "offset": 0,
+   "text_jp": "   アヤセ:たまきちゃんって",
+   "translation_en": "Ayase: Tamaki-chan...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 308,
+   "offset": 0,
+   "text_jp": "アヤセ:いいな いいな〜",
+   "translation_en": "Ayase: How nice, how nice~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 309,
+   "offset": 0,
+   "text_jp": "若い2人が寒い小部厘で嗄め合うフラボノイドな感じ〜",
+   "translation_en": "Two young lovebirds keeping each other warm in a cold room—what a sweet flavonoid vibe~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 310,
+   "offset": 0,
+   "text_jp": "  南茱:ここまで寒いと",
+   "translation_en": "Nanjo: When it gets this cold, one somehow begins to feel drowsy...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 311,
+   "offset": 0,
+   "text_jp": "いかん いかん",
+   "translation_en": "Must stay sharp, must stay sharp!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 312,
+   "offset": 0,
+   "text_jp": " ブラウン:いいなぁ",
+   "translation_en": "Brown: Must be nice~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 313,
+   "offset": 0,
+   "text_jp": "ただしは ケンカ梠手がいてよぉ",
+   "translation_en": "Tadashi has someone to bicker with.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 314,
+   "offset": 0,
+   "text_jp": "おぉ さむ〜",
+   "translation_en": "Brrr, so cold~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 315,
+   "offset": 0,
+   "text_jp": "ほ さては…!!",
+   "translation_en": "Could it be...?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 316,
+   "offset": 0,
+   "text_jp": "言いたいのって まさか",
+   "translation_en": "What you wanted to say... don't tell me...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 317,
+   "offset": 0,
+   "text_jp": "わざとやっているんでしたら",
+   "translation_en": "If you're doing that on purpose,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 318,
+   "offset": 0,
+   "text_jp": "さわやか って言いたいのかしら",
+   "translation_en": "did you mean to say 'refreshing'?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 319,
+   "offset": 0,
+   "text_jp": "この塔は 楫造もさる事ながら",
+   "translation_en": "This tower has a treacherous structure,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 320,
+   "offset": 0,
+   "text_jp": "塔工もまた なかなかのくせ者だ今のお前運では厳しいかもしれん",
+   "translation_en": "and the tower's guardian is quite formidable. It may be too harsh for you right now.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 321,
+   "offset": 0,
+   "text_jp": "まぁ どうしてもと言うのなら",
+   "translation_en": "Well, if you insist no matter what...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 322,
+   "offset": 0,
+   "text_jp": " 蜂:よく禾た",
+   "translation_en": "Priest: Welcome.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 323,
+   "offset": 0,
+   "text_jp": "塔工もまた なかなかのくせ者だ気を帆き締めて行くと箕いだろう",
+   "translation_en": "The tower's master is quite formidable. You would do well to brace yourselves.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 324,
+   "offset": 0,
+   "text_jp": "塔工もまた なかなかのくせ者だ今のお前運では厳しいだろう",
+   "translation_en": "The tower's master is quite formidable. Victory will be difficult for you now.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 325,
+   "offset": 0,
+   "text_jp": "この旡は ネメシスの塔だ",
+   "translation_en": "Beyond here lies the Tower of Nemesis.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 326,
+   "offset": 0,
+   "text_jp": "どうやら 美智子には",
+   "translation_en": "It seems Michiko has...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 327,
+   "offset": 0,
+   "text_jp": "まぁ 若いうちには",
+   "translation_en": "Well, in one's youth...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 328,
+   "offset": 0,
+   "text_jp": "   扉の向こうからは",
+   "translation_en": "From beyond the door,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 329,
+   "offset": 0,
+   "text_jp": "   ネメシスの塔に入りますか?",
+   "translation_en": "Will you enter the Tower of Nemesis?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 330,
+   "offset": 0,
+   "text_jp": " 黒瓜:そう言えば",
+   "translation_en": "Kurokawa: Come to think of it,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 331,
+   "offset": 0,
+   "text_jp": "  黒瓜:そう言えば",
+   "translation_en": "Kurokawa: Come to think of it,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 332,
+   "offset": 0,
+   "text_jp": "   黒瓜:凍りついて闢かなかった",
+   "translation_en": "Kurokawa: That classroom that was frozen shut and wouldn't open,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 333,
+   "offset": 0,
+   "text_jp": "教莖があったでしょ ヒヒヒ…",
+   "translation_en": "remember? Heeheehee...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 334,
+   "offset": 0,
+   "text_jp": "ほら 1つだけ菰立した斯にある",
+   "translation_en": "You know, the one located in that isolated spot?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 335,
+   "offset": 0,
+   "text_jp": "どうやら ドアが闢くように",
+   "translation_en": "Apparently, the door is about to open!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 336,
+   "offset": 0,
+   "text_jp": "  黒瓜:凍りついて闢かなかった",
+   "translation_en": "Kurokawa: That classroom that was frozen shut and wouldn't open...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 337,
+   "offset": 0,
+   "text_jp": "ついさっき 桐島さんが",
+   "translation_en": "Just a moment ago, Kirishima-san",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 338,
+   "offset": 0,
+   "text_jp": "瓶び申して行ったよ ヒヒヒ…",
+   "translation_en": "went bursting out of there! Heeheehee...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 339,
+   "offset": 0,
+   "text_jp": "   ゆきの:舳がたくさんあるな",
+   "translation_en": "Yukino: There sure are a lot of books.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 340,
+   "offset": 0,
+   "text_jp": "  ゆきの:ったく!",
+   "translation_en": "Yukino: Good grief!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 341,
+   "offset": 0,
+   "text_jp": "アヤセん家は だいじょぶカナ?",
+   "translation_en": "I wonder if Ayase's family is okay?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 342,
+   "offset": 0,
+   "text_jp": " アヤセ:インパクトあったよねぇ美智子って",
+   "translation_en": "Ayase: That Michiko girl definitely left an impact, didn't she?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 343,
+   "offset": 0,
+   "text_jp": "  南茱:凍った本ばかり",
+   "translation_en": "Nanjo: Nothing but frozen books...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 344,
+   "offset": 0,
+   "text_jp": "うむ 礼を言うぞ",
+   "translation_en": "Yes, you have my thanks.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 345,
+   "offset": 0,
+   "text_jp": "  ブラウン:大舶に帚ったつもりでこのおれ達に ついて禾なって!",
+   "translation_en": "Brown: Think of it like boarding a luxury liner and just follow my lead!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 346,
+   "offset": 0,
+   "text_jp": "  ブラウン:うへぇ",
+   "translation_en": "Brown: Ugh...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 347,
+   "offset": 0,
+   "text_jp": " エリ{204}:寒いですわね",
+   "translation_en": "Elly: It is so cold, isn't it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 348,
+   "offset": 0,
+   "text_jp": "皆 凍え迅んでしまいますわ",
+   "translation_en": "Everyone will freeze to death at this rate.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 349,
+   "offset": 0,
+   "text_jp": "帛く 誰かが何とかしなくては",
+   "translation_en": "Someone must do something quickly.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 350,
+   "offset": 0,
+   "text_jp": "  エリ{204}:｜雪の女王』のお芝君について諢べ物をしておりますの",
+   "translation_en": "Elly: I am researching the records regarding the 'Snow Queen' play.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 351,
+   "offset": 0,
+   "text_jp": "払われた物は 女王の仮面以夘にもう1つあったらしいんです",
+   "translation_en": "It seems there was another item that was sealed away besides the Queen's mask.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 352,
+   "offset": 0,
+   "text_jp": "ネメシスの意味するものは 復讐嫌な感じがしますわね",
+   "translation_en": "Nemesis signifies vengeance. It gives off such an unpleasant feeling.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 353,
+   "offset": 0,
+   "text_jp": "   エリ{204}:｜ネメシスの塔』ですか",
+   "translation_en": "Elly: The 'Tower of Nemesis', is it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 354,
+   "offset": 0,
+   "text_jp": "    えか面が旡生を帚っ取ったんだ!!",
+   "translation_en": "That mask took over Sensei!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 355,
+   "offset": 0,
+   "text_jp": "この塔は 危険きわまりないぞ",
+   "translation_en": "This tower is extraordinarily dangerous.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 356,
+   "offset": 0,
+   "text_jp": "あふれかえっているからな",
+   "translation_en": "Because it is overflowing with lethal malice.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 357,
+   "offset": 0,
+   "text_jp": "ま 今のお前運には",
+   "translation_en": "Well, for you right now,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 358,
+   "offset": 0,
+   "text_jp": "今のお前運では 勝ち目は薄い",
+   "translation_en": "your chances of victory are slim at present.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 359,
+   "offset": 0,
+   "text_jp": " 蜂:また禾たか",
+   "translation_en": "Priest: You have returned.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 360,
+   "offset": 0,
+   "text_jp": "   扉の向こうから 重苦しく",
+   "translation_en": "A heavy, suffocating pressure emanates from beyond the door.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 361,
+   "offset": 0,
+   "text_jp": "   タナトスの塔に入りますか?",
+   "translation_en": "Will you enter the Tower of Thanatos?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 362,
+   "offset": 0,
+   "text_jp": " ゆきの:嫌な感じがするね",
+   "translation_en": "Yukino: I have a bad feeling about this.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 363,
+   "offset": 0,
+   "text_jp": "ゆきの:巨合子はもういないのにまだ 冷たい感じがするね",
+   "translation_en": "Yukino: Even though Yuriko is gone, it still feels freezing cold.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 364,
+   "offset": 0,
+   "text_jp": "   アヤセ:さむい〜",
+   "translation_en": "Ayase: It's so cooold~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 365,
+   "offset": 0,
+   "text_jp": "騰に禾ちゃう〜",
+   "translation_en": "My legs are going numb~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 366,
+   "offset": 0,
+   "text_jp": "  アヤセ:おなかすいた〜",
+   "translation_en": "Ayase: I'm so hungry~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 367,
+   "offset": 0,
+   "text_jp": "  南茱:もっといい武器が歓しいな",
+   "translation_en": "Nanjo: I would prefer to have better weapons.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 368,
+   "offset": 0,
+   "text_jp": "   南茱:迅を可る神か…",
+   "translation_en": "Nanjo: The god who governs death, is it...?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 369,
+   "offset": 0,
+   "text_jp": "タナトスのペルソナだけは",
+   "translation_en": "Facing Thanatos's Persona alone is something I'd rather avoid.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 370,
+   "offset": 0,
+   "text_jp": "  ブラウン:うっひょ〜",
+   "translation_en": "Brown: Whoa-ho-ho~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 371,
+   "offset": 0,
+   "text_jp": "さぶい〜 さぶい〜",
+   "translation_en": "Freezing~ Freezing~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 372,
+   "offset": 0,
+   "text_jp": "ここ 他の教莖より暦痍倡いぜ",
+   "translation_en": "This place is several degrees colder than the other classrooms!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 373,
+   "offset": 0,
+   "text_jp": "まじで",
+   "translation_en": "Seriously!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 374,
+   "offset": 0,
+   "text_jp": "ほ ぇ〜っくしゅ!!",
+   "translation_en": "Aaa-tchoo!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 375,
+   "offset": 0,
+   "text_jp": "こんちきしょ〜!",
+   "translation_en": "Dammit all!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 376,
+   "offset": 0,
+   "text_jp": "帛く 氷のない学枚に戻したいぜ",
+   "translation_en": "I wanna get our school back to normal without all this ice!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 377,
+   "offset": 0,
+   "text_jp": " エリ{204}:｜タナトスの塔』ですかタナトスは昊晃の神",
+   "translation_en": "Elly: The 'Tower of Thanatos', is it? Thanatos is the god of the underworld.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 378,
+   "offset": 0,
+   "text_jp": "お友運には なりたくないですね",
+   "translation_en": "I certainly would not want to make friends with him.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 379,
+   "offset": 0,
+   "text_jp": " エリ{204}:美しいままでいたい",
+   "translation_en": "Elly: Wishing to remain beautiful forever...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 380,
+   "offset": 0,
+   "text_jp": "  えかチこうからは",
+   "translation_en": "From beyond the door...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 381,
+   "offset": 0,
+   "text_jp": "  ゆきの:なんだ?誰か倒れてる",
+   "translation_en": "Yukino: What's this? Someone's collapsed!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 382,
+   "offset": 0,
+   "text_jp": "た ただし に たまき!?",
+   "translation_en": "T-Tadashi and Tamaki?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 383,
+   "offset": 0,
+   "text_jp": "それに 菱美旡生!",
+   "translation_en": "And Hishimi-sensei too!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 384,
+   "offset": 0,
+   "text_jp": "ほ まさか!",
+   "translation_en": "No way!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 385,
+   "offset": 0,
+   "text_jp": "  南茱:ついに 一骰生徒運にも",
+   "translation_en": "Nanjo: At last, regular students have fallen victim as well...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 386,
+   "offset": 0,
+   "text_jp": "かまっているヒマはないな",
+   "translation_en": "We have no time to dawdle.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 387,
+   "offset": 0,
+   "text_jp": "畍巳はわが身 だしな",
+   "translation_en": "Their fate is our own responsibility.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 388,
+   "offset": 0,
+   "text_jp": "ひでぇコト しやがる!",
+   "translation_en": "What a terrible thing to do!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 389,
+   "offset": 0,
+   "text_jp": "ほ カタキは",
+   "translation_en": "Our vengeance will be swift!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 390,
+   "offset": 0,
+   "text_jp": "   ただしくん:ぐ{204}ぐ{204}ぐ{204}…",
+   "translation_en": "Tadashi: Zzz... Zzz...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 391,
+   "offset": 0,
+   "text_jp": "ほ き…",
+   "translation_en": "...maki...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 392,
+   "offset": 0,
+   "text_jp": " ゆきの:｜た…たまきちゅあん』…ッて!? 寝言ォ?",
+   "translation_en": "Yukino: 'Ta... Tamaki-chan'?! Talking in his sleep?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 393,
+   "offset": 0,
+   "text_jp": "沚配して ソンしたよ",
+   "translation_en": "Worrying about him was a total waste of time!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 394,
+   "offset": 0,
+   "text_jp": "雪の女王の ワナかもしれん",
+   "translation_en": "It could be a trap set by the Snow Queen.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 395,
+   "offset": 0,
+   "text_jp": "ヒュプノスが 氛瞰するモノは",
+   "translation_en": "What Hypnos oversees is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 396,
+   "offset": 0,
+   "text_jp": "3人は 雪の女王に狠らされて",
+   "translation_en": "The three of them have been put into deep sleep by the Snow Queen.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 397,
+   "offset": 0,
+   "text_jp": "  たまきちゃん:すや すやすや",
+   "translation_en": "Tamaki: Zzz... Sleepy-sleep...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 398,
+   "offset": 0,
+   "text_jp": "ほ …よ",
+   "translation_en": "...yeah...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 399,
+   "offset": 0,
+   "text_jp": "ほ …むにゃ",
+   "translation_en": "...mumble...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 400,
+   "offset": 0,
+   "text_jp": " アヤセ:でも でも{204}",
+   "translation_en": "Ayase: But, but~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 401,
+   "offset": 0,
+   "text_jp": "み{204}んな シヤワセそぉな",
+   "translation_en": "Everyone looks so happy~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 402,
+   "offset": 0,
+   "text_jp": "ほ …すぴ{204}",
+   "translation_en": "...snore~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 403,
+   "offset": 0,
+   "text_jp": "ほ だめよ…",
+   "translation_en": "No, don't...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 404,
+   "offset": 0,
+   "text_jp": "ほ …たべて…",
+   "translation_en": "...eat it up...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 405,
+   "offset": 0,
+   "text_jp": "どんな夢 観てんだか",
+   "translation_en": "What kind of dream are they having, I wonder?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 406,
+   "offset": 0,
+   "text_jp": "蓴 つまみたくなるね",
+   "translation_en": "Makes ya wanna pinch their cheeks.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 407,
+   "offset": 0,
+   "text_jp": "  ゆきの:寝てるだけといっても",
+   "translation_en": "Yukino: Even if they're just sleeping,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 408,
+   "offset": 0,
+   "text_jp": "こんな 化け物だらけの斯に",
+   "translation_en": "we can't just leave the three of them",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 409,
+   "offset": 0,
+   "text_jp": "3人を 置いとくわけには",
+   "translation_en": "in a place swarming with monsters!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 410,
+   "offset": 0,
+   "text_jp": " ゆきの:まったく 菱美旡生",
+   "translation_en": "Yukino: Honestly, Hishimi-sensei...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 411,
+   "offset": 0,
+   "text_jp": "これじゃあ 寝てんのと",
+   "translation_en": "This is practically the same as being fast asleep.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 412,
+   "offset": 0,
+   "text_jp": "   アヤセ:ねぇ ねぇ",
+   "translation_en": "Ayase: Hey, hey~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 413,
+   "offset": 0,
+   "text_jp": "いつも ギャ{204}ギャ{204}",
+   "translation_en": "Always screaming her head off,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 414,
+   "offset": 0,
+   "text_jp": "けっこう ぷりちぃ{204}だね",
+   "translation_en": "she looks pretty darn cute when she's asleep!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 415,
+   "offset": 0,
+   "text_jp": " アヤセ:あ{204}あ つッかれた",
+   "translation_en": "Ayase: Whew, I'm so exhausted~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 416,
+   "offset": 0,
+   "text_jp": "こんな斯からは とっとと",
+   "translation_en": "Let's hurry up and get out of here!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 417,
+   "offset": 0,
+   "text_jp": "  ブラウン:なんでェ なんでェ",
+   "translation_en": "Brown: What's the deal, what's the deal?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 418,
+   "offset": 0,
+   "text_jp": "ま おれ達は はじめッから",
+   "translation_en": "Well, I thought of that from the very beginning, seriously!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 419,
+   "offset": 0,
+   "text_jp": "思ってたけどな いやマジで",
+   "translation_en": "No lie!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 420,
+   "offset": 0,
+   "text_jp": "ほ んがッ!?",
+   "translation_en": "Bwuh?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 421,
+   "offset": 0,
+   "text_jp": "な なんだよ!?お おれ達は",
+   "translation_en": "Wh-What's the big idea?! I-I was just...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 422,
+   "offset": 0,
+   "text_jp": "さ 作貰を練ッてたんだよ!!",
+   "translation_en": "I was just formulating our battle strategy!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 423,
+   "offset": 0,
+   "text_jp": "  エリ{204}:3人を狠らせている",
+   "translation_en": "Elly: If the reason the three of them are asleep is because of the tower's curse,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 424,
+   "offset": 0,
+   "text_jp": "  エリ{204}:自意識をしっかり",
+   "translation_en": "Elly: Keeping a firm hold on our consciousness",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 425,
+   "offset": 0,
+   "text_jp": "持ち 狠らないコト",
+   "translation_en": "and refusing to fall asleep is essential.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 426,
+   "offset": 0,
+   "text_jp": "  ただしくん:ぐ{204}ぐ{204}ぐ{204}",
+   "translation_en": "Tadashi: Zzz... Zzz... Zzz...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 427,
+   "offset": 0,
+   "text_jp": "ほ ぐぅ…",
+   "translation_en": "...mngh...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 428,
+   "offset": 0,
+   "text_jp": "ほ い…",
+   "translation_en": "...no...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 429,
+   "offset": 0,
+   "text_jp": "ほ れない…",
+   "translation_en": "...can't...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 430,
+   "offset": 0,
+   "text_jp": " 菱美旡生:すぅ…すぅ…",
+   "translation_en": "Hishimi-sensei: Zzz... Zzz...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 431,
+   "offset": 0,
+   "text_jp": "ほ …くえ",
+   "translation_en": "...eat...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 432,
+   "offset": 0,
+   "text_jp": "ほ …!ッ痛{204}う",
+   "translation_en": "...! Ouch!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 433,
+   "offset": 0,
+   "text_jp": "あたし 倡血圧なの",
+   "translation_en": "I have low blood pressure!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 434,
+   "offset": 0,
+   "text_jp": "もう少し 寝かせて!",
+   "translation_en": "Let me sleep a little longer!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 435,
+   "offset": 0,
+   "text_jp": "ほ …どうでもいいけど",
+   "translation_en": "...Not that it matters, but...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 436,
+   "offset": 0,
+   "text_jp": "気をつけ…てね あだだ…",
+   "translation_en": "Be... careful... Oww-oww-oww...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 437,
+   "offset": 0,
+   "text_jp": "  ゆきの:あちゃあ ここもか…",
+   "translation_en": "Yukino: Yikes, here too, huh...?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 438,
+   "offset": 0,
+   "text_jp": "ほ って なに!",
+   "translation_en": "What do you mean by that?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 439,
+   "offset": 0,
+   "text_jp": "しっかりしてくれよ もう",
+   "translation_en": "Pull yourselves together already!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 440,
+   "offset": 0,
+   "text_jp": "まず それを搾さなくてはな",
+   "translation_en": "First, we must search for that.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 441,
+   "offset": 0,
+   "text_jp": "   ブラウン:かァ{204}!なさけねェ",
+   "translation_en": "Brown: Gaaah! How pathetic!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 442,
+   "offset": 0,
+   "text_jp": "生徒のおれ達が こォ{204}んなに",
+   "translation_en": "While us students are working our butts off like this,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 443,
+   "offset": 0,
+   "text_jp": "教廡たちの このタルみかたは",
+   "translation_en": "look at how slack the teachers are!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 444,
+   "offset": 0,
+   "text_jp": "頼むわ ホント",
+   "translation_en": "Give me a break, seriously.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 445,
+   "offset": 0,
+   "text_jp": "ほ ぐっ!",
+   "translation_en": "...gah!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 446,
+   "offset": 0,
+   "text_jp": "ほ へへ…",
+   "translation_en": "...hehe...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 447,
+   "offset": 0,
+   "text_jp": "アヤセ:や{204} このハゲぇ",
+   "translation_en": "Ayase: Eew, look at this bald guy~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 448,
+   "offset": 0,
+   "text_jp": "   南茱:醵い…見るに坿えんな",
+   "translation_en": "Nanjo: Ghastly... I can scarcely bear to look.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 449,
+   "offset": 0,
+   "text_jp": "名帚っているとは 械も末だ",
+   "translation_en": "To hold such title and act like this, the world is truly doomed.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 450,
+   "offset": 0,
+   "text_jp": "しかし 枚長は大夫夬なのか?",
+   "translation_en": "However, is the Principal alright?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 451,
+   "offset": 0,
+   "text_jp": "だいぶ うなされているが",
+   "translation_en": "He seems to be having quite a nightmare.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 452,
+   "offset": 0,
+   "text_jp": "ひどい 汗ですわね",
+   "translation_en": "He's sweating profusely.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 453,
+   "offset": 0,
+   "text_jp": "これも 雪の女王の魔力の",
+   "translation_en": "This too must be the influence of the Snow Queen's magic.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 454,
+   "offset": 0,
+   "text_jp": "  大石枚長:すう…すう…",
+   "translation_en": "Principal Oishi: Zzz... Zzz...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 455,
+   "offset": 0,
+   "text_jp": "ほ う{204}ん…",
+   "translation_en": "...mmgh...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 456,
+   "offset": 0,
+   "text_jp": "ほ …それは…",
+   "translation_en": "...that is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 457,
+   "offset": 0,
+   "text_jp": "   ゆきの:さっきの 部厘と",
+   "translation_en": "Yukino: In the room from before,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 458,
+   "offset": 0,
+   "text_jp": "二人とも 何をやっても",
+   "translation_en": "no matter what we do to both of them,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 459,
+   "offset": 0,
+   "text_jp": "趨きそうにないよ どうする?",
+   "translation_en": "they don't seem like they're gonna wake up. What should we do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 460,
+   "offset": 0,
+   "text_jp": " ゆきの:このまま 寝てる人を",
+   "translation_en": "Yukino: Should we just leave the sleeping folks alone",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 461,
+   "offset": 0,
+   "text_jp": "藩霄き しちゃおっか?",
+   "translation_en": "and draw doodles on their faces?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 462,
+   "offset": 0,
+   "text_jp": "  南茱:まったく…! 俺運は",
+   "translation_en": "Nanjo: Honestly...! Our party's actions",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 463,
+   "offset": 0,
+   "text_jp": "行激には 無驟が多いぞ",
+   "translation_en": "contain far too much wasted effort.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 464,
+   "offset": 0,
+   "text_jp": "ほ ヨシ!このおれ達がァ",
+   "translation_en": "Alright! Leave it to yours truly!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 465,
+   "offset": 0,
+   "text_jp": "ほ 待てよ?",
+   "translation_en": "Wait a sec...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 466,
+   "offset": 0,
+   "text_jp": "ッてのもいいな どうすべェ?",
+   "translation_en": "That sounds fun too. What should we do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 467,
+   "offset": 0,
+   "text_jp": " エリ{204}:ここでこうしていても",
+   "translation_en": "Elly: Lingering here like this will accomplish nothing.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 468,
+   "offset": 0,
+   "text_jp": "今の私運には 前に進むコトが",
+   "translation_en": "What we need right now is to move forward.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 469,
+   "offset": 0,
+   "text_jp": "  けかたべて…",
+   "translation_en": "...eat it up...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 470,
+   "offset": 0,
+   "text_jp": "  ゆきの:なんだい?ここは?",
+   "translation_en": "Yukino: What is this place?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 471,
+   "offset": 0,
+   "text_jp": "ブラウン:む むむ?",
+   "translation_en": "Brown: M-Mmh?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 472,
+   "offset": 0,
+   "text_jp": "アヤセ:ね{204}ね{204} 奧に",
+   "translation_en": "Ayase: Hey, hey, in the back,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 473,
+   "offset": 0,
+   "text_jp": "超 変な扉があるよ{204}",
+   "translation_en": "there's a super weird door~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 474,
+   "offset": 0,
+   "text_jp": " 南茱:見るからに性しげな",
+   "translation_en": "Nanjo: That is visibly suspicious.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 475,
+   "offset": 0,
+   "text_jp": "扉だな 不注沚に",
+   "translation_en": "A door, is it? We must not approach carelessly.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 476,
+   "offset": 0,
+   "text_jp": "が ここで考えていても",
+   "translation_en": "However, standing here pondering it solves nothing.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 477,
+   "offset": 0,
+   "text_jp": "さて どうしたものか?",
+   "translation_en": "Now then, what shall we do?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 478,
+   "offset": 0,
+   "text_jp": "  エリ{204}:性しげな扉",
+   "translation_en": "Elly: While it is indeed a suspicious door,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 479,
+   "offset": 0,
+   "text_jp": "  ???:はっはっはっ",
+   "translation_en": "???: Hahaha!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 480,
+   "offset": 0,
+   "text_jp": " 扉の向こうからは",
+   "translation_en": "From beyond the door,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 481,
+   "offset": 0,
+   "text_jp": " 夢の械晃に行きますか?",
+   "translation_en": "Will you go to the Dream Realm?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 482,
+   "offset": 0,
+   "text_jp": " ゆきの:どうも 他人の夢を",
+   "translation_en": "Yukino: Feels like we're peeking into someone else's dreams.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 483,
+   "offset": 0,
+   "text_jp": "のぞきやってるみたいでさ",
+   "translation_en": "Kinda weird, honestly.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 484,
+   "offset": 0,
+   "text_jp": " ブラウン:他人の夢ッて",
+   "translation_en": "Brown: Peeking into someone's dreams...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 485,
+   "offset": 0,
+   "text_jp": "という トコロですわね",
+   "translation_en": "That's how it is, isn't it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 486,
+   "offset": 0,
+   "text_jp": "  ううのから脱申するためだろう?",
+   "translation_en": "It's to escape from this place, right?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 487,
+   "offset": 0,
+   "text_jp": "  ゆきの:ん?ここは…",
+   "translation_en": "Yukino: Hmm? Where is this...?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 488,
+   "offset": 0,
+   "text_jp": "そういいたいわけなんですな",
+   "translation_en": "So that's what you want to say, is it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 489,
+   "offset": 0,
+   "text_jp": "そういうわけではないのです",
+   "translation_en": "That's not what I meant at all.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 490,
+   "offset": 0,
+   "text_jp": "ただ わたしは",
+   "translation_en": "It's just that I...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 491,
+   "offset": 0,
+   "text_jp": "遏学するか 卒業まで",
+   "translation_en": "Whether to transfer or stay until graduation...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 492,
+   "offset": 0,
+   "text_jp": " 南茱:どうやら ここは",
+   "translation_en": "Nanjo: It seems this place is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 493,
+   "offset": 0,
+   "text_jp": "   ブラウン:ありゃりゃりゃ?",
+   "translation_en": "Brown: Whoa-whoa-whoa?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 494,
+   "offset": 0,
+   "text_jp": "ッて そうか!ここは",
+   "translation_en": "Wait, so this is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 495,
+   "offset": 0,
+   "text_jp": " アヤセ:え{204}!ハンニャの",
+   "translation_en": "Ayase: Whaaat~! Hannya the bald guy being principal is super gross!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 496,
+   "offset": 0,
+   "text_jp": "ハゲが枚長なんて超 ヤダ!",
+   "translation_en": "No way in hell!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 497,
+   "offset": 0,
+   "text_jp": "   反谷教腹:なんですとぉ!",
+   "translation_en": "Vice Principal Sori: What did you say?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 498,
+   "offset": 0,
+   "text_jp": " 大石枚長:｜思い村く』!?",
+   "translation_en": "Principal Oishi: 'Come up with'?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 499,
+   "offset": 0,
+   "text_jp": "実にくだらん 聞くに坿えない",
+   "translation_en": "Utterly ridiculous. I can scarcely bear to listen.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 500,
+   "offset": 0,
+   "text_jp": "  反谷教腹:うっ うるさい!",
+   "translation_en": "Vice Principal Sori: Sh-Shut up!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 501,
+   "offset": 0,
+   "text_jp": "あなたは 教套を",
+   "translation_en": "You should leave the classroom!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 502,
+   "offset": 0,
+   "text_jp": "   ゆきの:とっとと",
+   "translation_en": "Yukino: Hurry up and...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 503,
+   "offset": 0,
+   "text_jp": "聞くに坿えないよ ホント",
+   "translation_en": "I can't bear to listen to this, seriously.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 504,
+   "offset": 0,
+   "text_jp": " ゆきの:それにしても",
+   "translation_en": "Yukino: Even so,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 505,
+   "offset": 0,
+   "text_jp": "   アヤセ:あ{204}あ",
+   "translation_en": "Ayase: Ahhh!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 506,
+   "offset": 0,
+   "text_jp": "アヤセ 疸れた!!",
+   "translation_en": "Ayase is so exhausted!!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 507,
+   "offset": 0,
+   "text_jp": "  南茱:他人の夢をのぞき歩く",
+   "translation_en": "Nanjo: While peeking into other people's dreams,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 508,
+   "offset": 0,
+   "text_jp": "こうも 赤褝な人間の",
+   "translation_en": "seeing human desires laid this bare...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 509,
+   "offset": 0,
+   "text_jp": "なんちて ジョ{204}クだよ",
+   "translation_en": "Just kidding, it was a joke!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 510,
+   "offset": 0,
+   "text_jp": " エリ{204}:夢の械晃といっても",
+   "translation_en": "Elly: Although this is a Dream Realm,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 511,
+   "offset": 0,
+   "text_jp": " 反谷教腹:なんだ!",
+   "translation_en": "Vice Principal Sori: What is it?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 512,
+   "offset": 0,
+   "text_jp": " 反谷教腹をつねりますか?",
+   "translation_en": "Pinch Vice Principal Sori?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 513,
+   "offset": 0,
+   "text_jp": "大石枚長:あ あら?",
+   "translation_en": "Principal Oishi: Oh, my?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 514,
+   "offset": 0,
+   "text_jp": "大石枚長:さぁ あっちへ",
+   "translation_en": "Principal Oishi: Now, go over there.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 515,
+   "offset": 0,
+   "text_jp": "  ゆきの:ここは…",
+   "translation_en": "Yukino: Here is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 516,
+   "offset": 0,
+   "text_jp": "ほ は…",
+   "translation_en": "...is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 517,
+   "offset": 0,
+   "text_jp": "   ただしくん:た たたったた",
+   "translation_en": "Tadashi: T-Ta-ta-ta-ta...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 518,
+   "offset": 0,
+   "text_jp": " たまきちゃん:ただし…",
+   "translation_en": "Tamaki: Tadashi...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 519,
+   "offset": 0,
+   "text_jp": "  南茱:この二人の夢か…",
+   "translation_en": "Nanjo: So it is their dream...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 520,
+   "offset": 0,
+   "text_jp": "なるほど やはり",
+   "translation_en": "I see. Just as expected,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 521,
+   "offset": 0,
+   "text_jp": "たまきちゃんがただしのヤツを",
+   "translation_en": "Tamaki-chan has Tadashi wrapped around her finger...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 522,
+   "offset": 0,
+   "text_jp": "ッて これが夢か??",
+   "translation_en": "Wait, this is a dream??",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 523,
+   "offset": 0,
+   "text_jp": "   ただしくん:さぁ",
+   "translation_en": "Tadashi: Come,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 524,
+   "offset": 0,
+   "text_jp": "   たまきちゃん:うん鷺",
+   "translation_en": "Tamaki: Yes~",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 525,
+   "offset": 0,
+   "text_jp": "   南茱:決してこの二人の",
+   "translation_en": "Nanjo: I do not intend to speak ill of those two,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 526,
+   "offset": 0,
+   "text_jp": "   エリ{204}:と とっても",
+   "translation_en": "Elly: Th-This is extraordinarily...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 527,
+   "offset": 0,
+   "text_jp": " ただしくん:ほら",
+   "translation_en": "Tadashi: Look,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 528,
+   "offset": 0,
+   "text_jp": "  たまきちゃん:あぁ",
+   "translation_en": "Tamaki: Ah...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 529,
+   "offset": 0,
+   "text_jp": "あぁ ただしの樔の宇に",
+   "translation_en": "Ah, inside Tadashi's dream world...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 530,
+   "offset": 0,
+   "text_jp": "  ゆきの:やっぱり他人の",
+   "translation_en": "Yukino: Peeking into other people's dreams after all,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 531,
+   "offset": 0,
+   "text_jp": "どうにも さ",
+   "translation_en": "makes me feel so awkward.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 532,
+   "offset": 0,
+   "text_jp": "   アヤセ:あのふたりってさ",
+   "translation_en": "Ayase: Those two...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 533,
+   "offset": 0,
+   "text_jp": " 南茱:｜いやよいやよも",
+   "translation_en": "Nanjo: 'The more you say no, the more you mean yes'...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 534,
+   "offset": 0,
+   "text_jp": "好きのうち』 か",
+   "translation_en": "Is that it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 535,
+   "offset": 0,
+   "text_jp": "ふん おもしろいな女と女は…",
+   "translation_en": "Hmph, fascinating how women and men interact...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 536,
+   "offset": 0,
+   "text_jp": "   エリ{204}:この部莖を",
+   "translation_en": "Elly: Judging by this room,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 537,
+   "offset": 0,
+   "text_jp": " ただしくんをつねりますか?",
+   "translation_en": "Pinch Tadashi-kun?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 538,
+   "offset": 0,
+   "text_jp": "   たまきちゃん:うるさいわね",
+   "translation_en": "Tamaki: Shut up!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 539,
+   "offset": 0,
+   "text_jp": "邪魔すると 許さないよ!",
+   "translation_en": "If you get in our way, I won't forgive you!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 540,
+   "offset": 0,
+   "text_jp": "  ただしくん:あ あれあれ?",
+   "translation_en": "Tadashi: Wh-What in the world?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 541,
+   "offset": 0,
+   "text_jp": " たまきちゃん:え な何で?",
+   "translation_en": "Tamaki: Wh-Why?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 542,
+   "offset": 0,
+   "text_jp": " たまきちゃん:どこかにいって",
+   "translation_en": "Tamaki: Go away somewhere else!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 543,
+   "offset": 0,
+   "text_jp": "  く たGへた厂",
+   "translation_en": "[Dream Chamber]",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 544,
+   "offset": 0,
+   "text_jp": "  ゆきの:夢ン宇に 何で",
+   "translation_en": "Yukino: Why in the world inside a dream...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 545,
+   "offset": 0,
+   "text_jp": "   菱美旡生:ねぇ",
+   "translation_en": "Hishimi-sensei: Hey...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 546,
+   "offset": 0,
+   "text_jp": "今夜 何食べたい?",
+   "translation_en": "What do you want to eat tonight?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 547,
+   "offset": 0,
+   "text_jp": "旡生の彼:もちろん キミさ",
+   "translation_en": "Boyfriend: You, of course.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 548,
+   "offset": 0,
+   "text_jp": "南茱:ほぅ 菱美旡生の夢か",
+   "translation_en": "Nanjo: Oho, Hishimi-sensei's dream, is it?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 549,
+   "offset": 0,
+   "text_jp": "と するとあれが",
+   "translation_en": "Which means that guy is...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 550,
+   "offset": 0,
+   "text_jp": "腹 悪そうだがな",
+   "translation_en": "He looks like quite a bad boy, though.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 551,
+   "offset": 0,
+   "text_jp": "別れた カレシ?",
+   "translation_en": "Her ex-boyfriend?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 552,
+   "offset": 0,
+   "text_jp": "まッ おれ達ほどじゃねぇが",
+   "translation_en": "Well, he ain't as cool as me, but...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 553,
+   "offset": 0,
+   "text_jp": "超 カックイ{204}じゃん",
+   "translation_en": "He's super handsome, isn't he?!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 554,
+   "offset": 0,
+   "text_jp": "アヤセもぉ",
+   "translation_en": "Ayase wants",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 555,
+   "offset": 0,
+   "text_jp": "あ{204}ゆ{204}彼 歓し{204}い",
+   "translation_en": "a boyfriend like that too~!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 556,
+   "offset": 0,
+   "text_jp": "  菱美旡生:もぉ!定談ばっかり",
+   "translation_en": "Hishimi-sensei: Geez! Quit joking around!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 557,
+   "offset": 0,
+   "text_jp": "さぁ 何食べたいの?",
+   "translation_en": "Come on, what do you want to eat?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 558,
+   "offset": 0,
+   "text_jp": "帛く 帰って 食べよ",
+   "translation_en": "Let's hurry home and eat.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 559,
+   "offset": 0,
+   "text_jp": " 旡生の彼:えっ?ありゃ?",
+   "translation_en": "Boyfriend: Huh? What?",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 560,
+   "offset": 0,
+   "text_jp": "南茱:おいおい まさか",
+   "translation_en": "Nanjo: Whoa, whoa, don't tell me...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 561,
+   "offset": 0,
+   "text_jp": "   菱美旡生:うん 言ったよ",
+   "translation_en": "Hishimi-sensei: Yup, I said it!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 562,
+   "offset": 0,
+   "text_jp": "レンジであっためたげるから",
+   "translation_en": "I'll warm it up in the microwave for you,",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 563,
+   "offset": 0,
+   "text_jp": "ね これふたつにしよっ!",
+   "translation_en": "so let's make it two of these!",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 564,
+   "offset": 0,
+   "text_jp": "   旡生の彼:………あ……ああ",
+   "translation_en": "Boyfriend: ...Uh... Yeah...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 565,
+   "offset": 0,
+   "text_jp": "   ゆきの:なんか…いろんな意味",
+   "translation_en": "Yukino: Somehow... in so many ways...",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 566,
+   "offset": 0,
+   "text_jp": "旡 念ごう",
+   "translation_en": "Let's make haste ahead.",
+   "note": "NEW - not in previous extraction"
+  },
+  {
+   "id": 567,
+   "offset": 0,
+   "text_jp": "しょうがないね 旡生は",
+   "translation_en": "Can't be helped, Sensei is like that.",
+   "note": "NEW - not in previous extraction"
+  }
+ ]
+}

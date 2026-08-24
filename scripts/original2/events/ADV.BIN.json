@@ -1,0 +1,351 @@
+{
+ "file": "ADV.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 102710,
+   "length_bytes": 6,
+   "raw_hex": "502621204002",
+   "text_jp": "ょよむみぶい",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 159858,
+   "length_bytes": 3,
+   "raw_hex": "05266a",
+   "text_jp": "およノ",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 338068,
+   "length_bytes": 8,
+   "raw_hex": "82d7231502260339",
+   "text_jp": "何もないようだ",
+   "translation_en": "There doesn't seem to be anything here."
+  },
+  {
+   "id": 3,
+   "offset": 338144,
+   "length_bytes": 6,
+   "raw_hex": "0f112706271a",
+   "text_jp": "そちらからは",
+   "translation_en": "From that side,"
+  },
+  {
+   "id": 4,
+   "offset": 338152,
+   "length_bytes": 4,
+   "raw_hex": "142a1502",
+   "text_jp": "とれない",
+   "translation_en": "Cannot be taken."
+  },
+  {
+   "id": 5,
+   "offset": 346436,
+   "length_bytes": 10,
+   "raw_hex": "0a1980987a60661a80d7",
+   "text_jp": "このペルソナは…",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 355856,
+   "length_bytes": 13,
+   "raw_hex": "808480cc722d836c81770c1f0d",
+   "text_jp": "ゲ{204}ムを終了します",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 355884,
+   "length_bytes": 13,
+   "raw_hex": "815185612d83324d13822b0b02",
+   "text_jp": "璽源を切って下さい",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 355899,
+   "length_bytes": 14,
+   "raw_hex": "80d882d7068094617f2d839a0d14",
+   "text_jp": "(何かボタンを掫すと",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 355945,
+   "length_bytes": 11,
+   "raw_hex": "5f80a1650b2a13021f0e2e",
+   "text_jp": "セットされていません",
+   "translation_en": "..."
+  },
+  {
+   "id": 10,
+   "offset": 355958,
+   "length_bytes": 13,
+   "raw_hex": "5f80cc80922f8198820d1f0e2e",
+   "text_jp": "セ{204}ブが申禾ません",
+   "translation_en": "..."
+  },
+  {
+   "id": 11,
+   "offset": 355976,
+   "length_bytes": 17,
+   "raw_hex": "812781db0d2973747980cc5780cc808f19",
+   "text_jp": "払注するメモリ{204}カ{204}ドの",
+   "translation_en": "..."
+  },
+  {
+   "id": 12,
+   "offset": 356012,
+   "length_bytes": 18,
+   "raw_hex": "73747980cc5780cc808f2f81372a13021f0d",
+   "text_jp": "メモリ{204}カ{204}ドが壞れています",
+   "translation_en": "..."
+  },
+  {
+   "id": 13,
+   "offset": 356032,
+   "length_bytes": 14,
+   "raw_hex": "0a1973747980cc5780cc808f161a",
+   "text_jp": "このメモリ{204}カ{204}ドには",
+   "translation_en": "..."
+  },
+  {
+   "id": 14,
+   "offset": 356048,
+   "length_bytes": 12,
+   "raw_hex": "5f80cc80928198820d1f0e2e",
+   "text_jp": "セ{204}ブ申禾ません",
+   "translation_en": "..."
+  },
+  {
+   "id": 15,
+   "offset": 356077,
+   "length_bytes": 13,
+   "raw_hex": "82a80783f581d02f01281f0e2e",
+   "text_jp": "空き容蕈がありません",
+   "translation_en": "..."
+  },
+  {
+   "id": 16,
+   "offset": 356092,
+   "length_bytes": 13,
+   "raw_hex": "5f80cc80922f8198820d1f0e2e",
+   "text_jp": "セ{204}ブが申禾ません",
+   "translation_en": "..."
+  },
+  {
+   "id": 17,
+   "offset": 356112,
+   "length_bytes": 18,
+   "raw_hex": "5f80cc80921a816281f981b681770c1f0c10",
+   "text_jp": "セ{204}ブは無事完了しました",
+   "translation_en": "..."
+  },
+  {
+   "id": 18,
+   "offset": 356149,
+   "length_bytes": 16,
+   "raw_hex": "6d809e80cc7080a1650b2a13021f0e2e",
+   "text_jp": "フォ{204}マットされていません",
+   "translation_en": "..."
+  },
+  {
+   "id": 19,
+   "offset": 356169,
+   "length_bytes": 15,
+   "raw_hex": "6d809e80cc7080a1650c1f0d0680d0",
+   "text_jp": "フォ{204}マットしますか?",
+   "translation_en": "..."
+  },
+  {
+   "id": 20,
+   "offset": 356205,
+   "length_bytes": 14,
+   "raw_hex": "6d809e80cc7080a1650c13021f0d",
+   "text_jp": "フォ{204}マットしています",
+   "translation_en": "..."
+  },
+  {
+   "id": 21,
+   "offset": 356236,
+   "length_bytes": 29,
+   "raw_hex": "73747980cc5780cc808f196d809e80cc7080a1652f836c81770c1f0c10",
+   "text_jp": "メモリ{204}カ{204}ドのフォ{204}マットが終了しました",
+   "translation_en": "..."
+  },
+  {
+   "id": 22,
+   "offset": 356272,
+   "length_bytes": 29,
+   "raw_hex": "73747980cc5780cc808f196d809e80cc7080a16516839383810c1f0c10",
+   "text_jp": "メモリ{204}カ{204}ドのフォ{204}マットに失敗しました",
+   "translation_en": "..."
+  },
+  {
+   "id": 23,
+   "offset": 356308,
+   "length_bytes": 16,
+   "raw_hex": "808e80cc612d828907822d2e3c021f0d",
+   "text_jp": "デ{204}タを霄き込んでいます",
+   "translation_en": "..."
+  },
+  {
+   "id": 24,
+   "offset": 356352,
+   "length_bytes": 16,
+   "raw_hex": "815f82ff808e80cc61195f80cc80922f",
+   "text_jp": "宇剖デ{204}タのセ{204}ブが",
+   "translation_en": "..."
+  },
+  {
+   "id": 25,
+   "offset": 356370,
+   "length_bytes": 8,
+   "raw_hex": "81b681770c1f0c10",
+   "text_jp": "完了しました",
+   "translation_en": "..."
+  },
+  {
+   "id": 26,
+   "offset": 356380,
+   "length_bytes": 13,
+   "raw_hex": "808480cc722d836c81770c1f0d",
+   "text_jp": "ゲ{204}ムを終了します",
+   "translation_en": "..."
+  },
+  {
+   "id": 27,
+   "offset": 356416,
+   "length_bytes": 23,
+   "raw_hex": "0a19808e80cc6119837a072d834f22290a142f3c071f0d",
+   "text_jp": "このデ{204}タの轅きを始めることができます",
+   "translation_en": "..."
+  },
+  {
+   "id": 28,
+   "offset": 356443,
+   "length_bytes": 17,
+   "raw_hex": "0a191f1f815185612d83324d13822b0b02",
+   "text_jp": "このまま璽源を切って下さい",
+   "translation_en": "..."
+  },
+  {
+   "id": 29,
+   "offset": 356462,
+   "length_bytes": 14,
+   "raw_hex": "80d882d7068094617f2d839a0d14",
+   "text_jp": "(何かボタンを掫すと",
+   "translation_en": "..."
+  },
+  {
+   "id": 30,
+   "offset": 356479,
+   "length_bytes": 16,
+   "raw_hex": "6153657a8420841a1681ef281f0d80d9",
+   "text_jp": "タイトル画面に戻ります)",
+   "translation_en": "..."
+  },
+  {
+   "id": 31,
+   "offset": 356509,
+   "length_bytes": 9,
+   "raw_hex": "81f019808e80cc611a",
+   "text_jp": "赱のデ{204}タは",
+   "translation_en": "..."
+  },
+  {
+   "id": 32,
+   "offset": 356520,
+   "length_bytes": 9,
+   "raw_hex": "822404130c1f021f0d",
+   "text_jp": "消えてしまいます",
+   "translation_en": "..."
+  },
+  {
+   "id": 33,
+   "offset": 356533,
+   "length_bytes": 11,
+   "raw_hex": "82d48289070c1f0d0680d0",
+   "text_jp": "部霄きしますか?",
+   "translation_en": "..."
+  },
+  {
+   "id": 34,
+   "offset": 356603,
+   "length_bytes": 15,
+   "raw_hex": "82d48289070d290a141a3c071f0e2e",
+   "text_jp": "部霄きすることはできません",
+   "translation_en": "..."
+  },
+  {
+   "id": 35,
+   "offset": 356624,
+   "length_bytes": 47,
+   "raw_hex": "5f80cc8092808e80cc6180d880b8808e80cc6180d982b6835e16815f82ff808e80cc6180d880a8808e80cc6180d92d",
+   "text_jp": "セ{204}ブデ{204}タ(Sデ{204}タ)領域に宇剖デ{204}タ(Cデ{204}タ)を",
+   "translation_en": "..."
+  },
+  {
+   "id": 36,
+   "offset": 356673,
+   "length_bytes": 15,
+   "raw_hex": "82d48289070d290a141a3c071f0e2e",
+   "text_jp": "部霄きすることはできません",
+   "translation_en": "..."
+  },
+  {
+   "id": 37,
+   "offset": 356761,
+   "length_bytes": 20,
+   "raw_hex": "827922817f07826c1214072f820d1f0c100680d7",
+   "text_jp": "据め解き放つときが禾ましたか…",
+   "translation_en": "..."
+  },
+  {
+   "id": 38,
+   "offset": 356785,
+   "length_bytes": 18,
+   "raw_hex": "15273e83ba16818b020c0f19828215298210",
+   "text_jp": "ならば共に貰いしその別なる沚",
+   "translation_en": "..."
+  },
+  {
+   "id": 39,
+   "offset": 356808,
+   "length_bytes": 6,
+   "raw_hex": "0b16864b0413",
+   "text_jp": "さに替えて",
+   "translation_en": "..."
+  },
+  {
+   "id": 40,
+   "offset": 356816,
+   "length_bytes": 15,
+   "raw_hex": "0115101683270c1f0c5003061580d7",
+   "text_jp": "あなたに返しましょうかな…",
+   "translation_en": "..."
+  },
+  {
+   "id": 41,
+   "offset": 356837,
+   "length_bytes": 4,
+   "raw_hex": "0110111a",
+   "text_jp": "あたちは",
+   "translation_en": "..."
+  },
+  {
+   "id": 42,
+   "offset": 356850,
+   "length_bytes": 7,
+   "raw_hex": "832f1681ae2a10",
+   "text_jp": "手に入れた",
+   "translation_en": "..."
+  }
+ ]
+}

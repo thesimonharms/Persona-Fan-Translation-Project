@@ -1,0 +1,3910 @@
+{
+ "file": "E0",
+ "source": "ADV__E0.BIN",
+ "chunk_index": 1,
+ "total_chunks": 8,
+ "start_idx": 0,
+ "end_idx": 650,
+ "entries": [
+  {
+   "id": 2,
+   "offset": 9531,
+   "text_jp": "部杉よぉ",
+   "translation_en": "Hey, Uesugi..."
+  },
+  {
+   "id": 15,
+   "offset": 9840,
+   "text_jp": "ゆきの",
+   "translation_en": "Yukino"
+  },
+  {
+   "id": 38,
+   "offset": 10371,
+   "text_jp": "てきと{204}に禾てくんな",
+   "translation_en": "Don't just make stuff up as you go!"
+  },
+  {
+   "id": 42,
+   "offset": 10564,
+   "text_jp": "あれ?",
+   "translation_en": "Huh?"
+  },
+  {
+   "id": 43,
+   "offset": 10580,
+   "text_jp": "ちょっと部杉ぃ!これじゃアヤセ",
+   "translation_en": "Hey Uesugi! Like this, Ayase..."
+  },
+  {
+   "id": 47,
+   "offset": 10650,
+   "text_jp": "オレの勝ちだな",
+   "translation_en": "Looks like my win!"
+  },
+  {
+   "id": 52,
+   "offset": 10794,
+   "text_jp": "往生鵙の悪りぃヤツだな{204}",
+   "translation_en": "You're a sore loser, ain't ya~"
+  },
+  {
+   "id": 55,
+   "offset": 10863,
+   "text_jp": "今さら達れてけっても遲せぇ…",
+   "translation_en": "It's too late to ask to be taken along..."
+  },
+  {
+   "id": 57,
+   "offset": 10946,
+   "text_jp": "育だけでしたのに鷲きましたわね",
+   "translation_en": "It was just a rumor, yet what a surprise!"
+  },
+  {
+   "id": 60,
+   "offset": 11063,
+   "text_jp": "肪けて…",
+   "translation_en": "Help me..."
+  },
+  {
+   "id": 61,
+   "offset": 11084,
+   "text_jp": "なんだぁ!",
+   "translation_en": "What the?!"
+  },
+  {
+   "id": 62,
+   "offset": 11108,
+   "text_jp": "これは!?",
+   "translation_en": "What is this?!"
+  },
+  {
+   "id": 63,
+   "offset": 11148,
+   "text_jp": "ますます興味深いですわ!",
+   "translation_en": "This is becoming all the more fascinating!"
+  },
+  {
+   "id": 64,
+   "offset": 11181,
+   "text_jp": "なにぃ{214}!!",
+   "translation_en": "Whaaat?!"
+  },
+  {
+   "id": 65,
+   "offset": 11205,
+   "text_jp": "気をつけな!",
+   "translation_en": "Watch out!"
+  },
+  {
+   "id": 66,
+   "offset": 11228,
+   "text_jp": "マ{204}ク:うお!?",
+   "translation_en": "Mark: Whoa?!"
+  },
+  {
+   "id": 67,
+   "offset": 11244,
+   "text_jp": "南茱:ぐっ!?",
+   "translation_en": "Nanjo: Guh?!"
+  },
+  {
+   "id": 68,
+   "offset": 11268,
+   "text_jp": "茫女(いなばまさお)",
+   "translation_en": "Masao Inaba (Brown)"
+  },
+  {
+   "id": 69,
+   "offset": 11554,
+   "text_jp": "ゆか)",
+   "translation_en": "Yuka Ayase"
+  },
+  {
+   "id": 70,
+   "offset": 11638,
+   "text_jp": "帰匡子女のお嫂達",
+   "translation_en": "A refined returnee young lady."
+  },
+  {
+   "id": 71,
+   "offset": 16728,
+   "text_jp": "アガスティアの木:若者よ…",
+   "translation_en": "Agastya Tree: Young one..."
+  },
+  {
+   "id": 72,
+   "offset": 16760,
+   "text_jp": "禾てくれたな",
+   "translation_en": "You have come."
+  },
+  {
+   "id": 73,
+   "offset": 16796,
+   "text_jp": "我に到むのか?",
+   "translation_en": "Do you wish to record with me?"
+  },
+  {
+   "id": 75,
+   "offset": 16844,
+   "text_jp": "気を村けて",
+   "translation_en": "Take care,"
+  },
+  {
+   "id": 76,
+   "offset": 16853,
+   "text_jp": "行くがよい",
+   "translation_en": "and go forth."
+  },
+  {
+   "id": 83,
+   "offset": 30227,
+   "text_jp": "あの夢",
+   "translation_en": "That dream..."
+  },
+  {
+   "id": 84,
+   "offset": 30293,
+   "text_jp": "同じの見てん",
+   "translation_en": "We all saw the same one..."
+  },
+  {
+   "id": 85,
+   "offset": 30320,
+   "text_jp": "菱美旡生:目が覚めたのね",
+   "translation_en": "Nurse: You're awake, I see."
+  },
+  {
+   "id": 86,
+   "offset": 30354,
+   "text_jp": "懌健莖へようこそ",
+   "translation_en": "Welcome to the nurse's office."
+  },
+  {
+   "id": 87,
+   "offset": 30367,
+   "text_jp": "かわいい寝顔だったわよ",
+   "translation_en": "You had such a cute sleeping face."
+  },
+  {
+   "id": 88,
+   "offset": 30402,
+   "text_jp": "なつみ)",
+   "translation_en": "Natsumi Hizumi"
+  },
+  {
+   "id": 89,
+   "offset": 30432,
+   "text_jp": "粁理は得意でないらしい",
+   "translation_en": "She apparently isn't very good at cooking."
+  },
+  {
+   "id": 90,
+   "offset": 30531,
+   "text_jp": "沚配したじゃないの!",
+   "translation_en": "I was worried sick about you!"
+  },
+  {
+   "id": 91,
+   "offset": 30601,
+   "text_jp": "生徒の人気も高い",
+   "translation_en": "She is very popular among students."
+  },
+  {
+   "id": 92,
+   "offset": 30636,
+   "text_jp": "菱美旡生うちのコたちが",
+   "translation_en": "Nurse: Our students have gone"
+  },
+  {
+   "id": 93,
+   "offset": 30653,
+   "text_jp": "ご邑惑かけちゃって!",
+   "translation_en": "and caused you so much trouble!"
+  },
+  {
+   "id": 94,
+   "offset": 30672,
+   "text_jp": "マ{204}ク:生徒の面倒みるのが",
+   "translation_en": "Mark: Looking after students"
+  },
+  {
+   "id": 95,
+   "offset": 30693,
+   "text_jp": "汢事なんだから",
+   "translation_en": "is your job,"
+  },
+  {
+   "id": 96,
+   "offset": 30704,
+   "text_jp": "しょ{204}がね{204}じゃん…",
+   "translation_en": "so what can ya do...?"
+  },
+  {
+   "id": 97,
+   "offset": 30743,
+   "text_jp": "少しは",
+   "translation_en": "At least a little..."
+  },
+  {
+   "id": 98,
+   "offset": 30775,
+   "text_jp": "事惰は桐島と綾臘に聞いたけど",
+   "translation_en": "I heard the situation from Kirishima and Ayase, but"
+  },
+  {
+   "id": 99,
+   "offset": 30859,
+   "text_jp": "家に帰りな!",
+   "translation_en": "Go straight home!"
+  },
+  {
+   "id": 100,
+   "offset": 30897,
+   "text_jp": "思ってんだ?",
+   "translation_en": "What are you thinking?"
+  },
+  {
+   "id": 101,
+   "offset": 30938,
+   "text_jp": "見てれば分かるよ",
+   "translation_en": "Just watching is enough to tell."
+  },
+  {
+   "id": 102,
+   "offset": 30965,
+   "text_jp": "どこか",
+   "translation_en": "Somewhere"
+  },
+  {
+   "id": 103,
+   "offset": 30978,
+   "text_jp": "検萓して",
+   "translation_en": "Get checked up"
+  },
+  {
+   "id": 104,
+   "offset": 31052,
+   "text_jp": "行ってやるよ",
+   "translation_en": "I'll go with you."
+  },
+  {
+   "id": 105,
+   "offset": 31095,
+   "text_jp": "冴子旡生のクラスの子が入畭してませんでしたっけ?",
+   "translation_en": "Wasn't someone from Saeko-sensei's class hospitalized?"
+  },
+  {
+   "id": 106,
+   "offset": 31144,
+   "text_jp": "園忖のことだろ",
+   "translation_en": "You mean Sonomura, right?"
+  },
+  {
+   "id": 107,
+   "offset": 31160,
+   "text_jp": "冴子旡生:そうだね",
+   "translation_en": "Saeko-sensei: That's right."
+  },
+  {
+   "id": 108,
+   "offset": 31179,
+   "text_jp": "ついでって訳じゃないけど園忖のお見駻いをしてあげてよ",
+   "translation_en": "Not that it's just an afterthought, but please go visit Sonomura in the hospital."
+  },
+  {
+   "id": 109,
+   "offset": 31214,
+   "text_jp": "もう1年近くも入畭してるんだ",
+   "translation_en": "She's been hospitalized for almost a year now."
+  },
+  {
+   "id": 110,
+   "offset": 31239,
+   "text_jp": "きっと寂しがってるよ",
+   "translation_en": "I'm sure she's feeling lonely."
+  },
+  {
+   "id": 111,
+   "offset": 31292,
+   "text_jp": "なんで",
+   "translation_en": "Why"
+  },
+  {
+   "id": 112,
+   "offset": 31306,
+   "text_jp": "倒れたりするかな",
+   "translation_en": "did you have to collapse?"
+  },
+  {
+   "id": 113,
+   "offset": 31328,
+   "text_jp": "あと1丶月なのに",
+   "translation_en": "With only one month left..."
+  },
+  {
+   "id": 114,
+   "offset": 31373,
+   "text_jp": "宇止にするかァ?",
+   "translation_en": "Shall we cancel it?"
+  },
+  {
+   "id": 115,
+   "offset": 31392,
+   "text_jp": "南茱:臻し方あるまい",
+   "translation_en": "Nanjo: It cannot be helped."
+  },
+  {
+   "id": 116,
+   "offset": 31425,
+   "text_jp": "済ませるに限る",
+   "translation_en": "Best to get it over with."
+  },
+  {
+   "id": 117,
+   "offset": 31440,
+   "text_jp": "マ{204}ク:御髯痞畭だろ?",
+   "translation_en": "Mark: Mikage Hospital, right?"
+  },
+  {
+   "id": 118,
+   "offset": 31484,
+   "text_jp": "牝東の方なんだ",
+   "translation_en": "It's to the northeast."
+  },
+  {
+   "id": 119,
+   "offset": 31568,
+   "text_jp": "うろうろしてりゃ",
+   "translation_en": "Wandering around..."
+  },
+  {
+   "id": 120,
+   "offset": 31637,
+   "text_jp": "赱気づけてやるか!",
+   "translation_en": "Shall we cheer her up!"
+  },
+  {
+   "id": 121,
+   "offset": 31697,
+   "text_jp": "行ってきなさい!",
+   "translation_en": "Off you go!"
+  },
+  {
+   "id": 128,
+   "offset": 31880,
+   "text_jp": "菱美旡生:新しい観葉植物を",
+   "translation_en": "Nurse: A new decorative houseplant,"
+  },
+  {
+   "id": 129,
+   "offset": 31916,
+   "text_jp": "どう?",
+   "translation_en": "how is it?"
+  },
+  {
+   "id": 130,
+   "offset": 31922,
+   "text_jp": "いい感じでしょ?",
+   "translation_en": "Looks nice, doesn't it?"
+  },
+  {
+   "id": 131,
+   "offset": 31942,
+   "text_jp": "話しかけてやると",
+   "translation_en": "They say if you talk to it,"
+  },
+  {
+   "id": 132,
+   "offset": 31953,
+   "text_jp": "よく套つって言うから",
+   "translation_en": "it grows really well,"
+  },
+  {
+   "id": 133,
+   "offset": 31982,
+   "text_jp": "声かけてやってね",
+   "translation_en": "so please give it some kind words."
+  },
+  {
+   "id": 134,
+   "offset": 31998,
+   "text_jp": "あうマ{204}ク:｜ペルソナ達』だぁ?",
+   "translation_en": "Mark: \"Persona-sama\", huh?"
+  },
+  {
+   "id": 168,
+   "offset": 37751,
+   "text_jp": "ろくな蔵霄が",
+   "translation_en": "Hardly any decent collection of books."
+  },
+  {
+   "id": 169,
+   "offset": 37767,
+   "text_jp": "うちにある霄庫の方がよほどマシだぞ",
+   "translation_en": "The library at my estate is far superior."
+  },
+  {
+   "id": 170,
+   "offset": 37838,
+   "text_jp": "検萓しに行こうぜ!",
+   "translation_en": "Let's go get checked up!"
+  },
+  {
+   "id": 172,
+   "offset": 37874,
+   "text_jp": "悪魔鹿をバカにしてるらしいけど",
+   "translation_en": "People seem to make fun of the occult nerd,"
+  },
+  {
+   "id": 173,
+   "offset": 37902,
+   "text_jp": "偉そうにしないだけ",
+   "translation_en": "but just by not acting high and mighty,"
+  },
+  {
+   "id": 174,
+   "offset": 37925,
+   "text_jp": "ちょっとは",
+   "translation_en": "he's at least a little"
+  },
+  {
+   "id": 175,
+   "offset": 37932,
+   "text_jp": "マシだと思うね",
+   "translation_en": "better than the rest."
+  },
+  {
+   "id": 176,
+   "offset": 37956,
+   "text_jp": "あ鹿か",
+   "translation_en": "Is that so?"
+  },
+  {
+   "id": 177,
+   "offset": 37969,
+   "text_jp": "学園の7不思譲を",
+   "translation_en": "The Seven Wonders of the school,"
+  },
+  {
+   "id": 178,
+   "offset": 37985,
+   "text_jp": "諢べてるんだ",
+   "translation_en": "I'm investigating them."
+  },
+  {
+   "id": 179,
+   "offset": 37996,
+   "text_jp": "教えてほしい?",
+   "translation_en": "Want me to tell you?"
+  },
+  {
+   "id": 180,
+   "offset": 38011,
+   "text_jp": "後でね…",
+   "translation_en": "Later, okay...?"
+  },
+  {
+   "id": 181,
+   "offset": 38041,
+   "text_jp": "つとむ)",
+   "translation_en": "Tsutomu Kurokawa"
+  },
+  {
+   "id": 182,
+   "offset": 38059,
+   "text_jp": "オカルトに詐しい",
+   "translation_en": "Well-versed in the occult,"
+  },
+  {
+   "id": 183,
+   "offset": 38072,
+   "text_jp": "間違えていることも多い",
+   "translation_en": "though often mistaken."
+  },
+  {
+   "id": 184,
+   "offset": 38138,
+   "text_jp": "言ってるんだ",
+   "translation_en": "He is saying that."
+  },
+  {
+   "id": 185,
+   "offset": 38173,
+   "text_jp": "数段部だね",
+   "translation_en": "The math club, right?"
+  },
+  {
+   "id": 186,
+   "offset": 38190,
+   "text_jp": "教えられないけどね",
+   "translation_en": "I can't tell you, though."
+  },
+  {
+   "id": 187,
+   "offset": 38217,
+   "text_jp": "仲の箕い悪いはあるんだろうね",
+   "translation_en": "I guess some people get along and some don't."
+  },
+  {
+   "id": 188,
+   "offset": 38260,
+   "text_jp": "それこそ大変なことに",
+   "translation_en": "That would turn into"
+  },
+  {
+   "id": 189,
+   "offset": 38274,
+   "text_jp": "なるんじゃないのかな",
+   "translation_en": "a huge disaster, wouldn't it?"
+  },
+  {
+   "id": 190,
+   "offset": 38305,
+   "text_jp": "あっちに",
+   "translation_en": "Over there."
+  },
+  {
+   "id": 191,
+   "offset": 38331,
+   "text_jp": "体套の授業で転んじゃったの",
+   "translation_en": "Fell during P.E. class."
+  },
+  {
+   "id": 192,
+   "offset": 38356,
+   "text_jp": "みんなで大笶い!",
+   "translation_en": "Everyone burst out laughing!"
+  },
+  {
+   "id": 193,
+   "offset": 38394,
+   "text_jp": "カワイソ{204}だよね!",
+   "translation_en": "Poor thing, right~!"
+  },
+  {
+   "id": 208,
+   "offset": 43487,
+   "text_jp": "決まってないんだよな",
+   "translation_en": "It hasn't been decided yet."
+  },
+  {
+   "id": 209,
+   "offset": 43513,
+   "text_jp": "臣統のお芝君が",
+   "translation_en": "The traditional play,"
+  },
+  {
+   "id": 210,
+   "offset": 43532,
+   "text_jp": "聞いたんですけど",
+   "translation_en": "I heard about it,"
+  },
+  {
+   "id": 211,
+   "offset": 43543,
+   "text_jp": "それをやらないんですか?",
+   "translation_en": "are you not performing it?"
+  },
+  {
+   "id": 212,
+   "offset": 43611,
+   "text_jp": "すぐに決めるから",
+   "translation_en": "We'll decide soon,"
+  },
+  {
+   "id": 213,
+   "offset": 43628,
+   "text_jp": "待っててね",
+   "translation_en": "so just wait."
+  },
+  {
+   "id": 214,
+   "offset": 43640,
+   "text_jp": "南茱:｜雪の』というと…",
+   "translation_en": "Nanjo: When you say \"Snow\"..."
+  },
+  {
+   "id": 215,
+   "offset": 43661,
+   "text_jp": "｜雪の女王』のことか?",
+   "translation_en": "do you mean \"The Snow Queen\"?"
+  },
+  {
+   "id": 216,
+   "offset": 43684,
+   "text_jp": "マ{204}ク:演馴なんかいいから",
+   "translation_en": "Mark: Forget acting,"
+  },
+  {
+   "id": 217,
+   "offset": 43703,
+   "text_jp": "オレに錘らせろって!",
+   "translation_en": "let me paint the set!"
+  },
+  {
+   "id": 218,
+   "offset": 43752,
+   "text_jp": "枌芹だね",
+   "translation_en": "A rookie, huh."
+  },
+  {
+   "id": 219,
+   "offset": 43812,
+   "text_jp": "この年のヤツ",
+   "translation_en": "The one from that year,"
+  },
+  {
+   "id": 220,
+   "offset": 43823,
+   "text_jp": "1つだけ欠けてる",
+   "translation_en": "only a single one is missing."
+  },
+  {
+   "id": 221,
+   "offset": 43842,
+   "text_jp": "気になるね",
+   "translation_en": "Bothers me, honestly."
+  },
+  {
+   "id": 222,
+   "offset": 43876,
+   "text_jp": "おかしくありませんでした?",
+   "translation_en": "Wasn't that weird?"
+  },
+  {
+   "id": 223,
+   "offset": 43897,
+   "text_jp": "あんなに怒るの?",
+   "translation_en": "Why get that mad?"
+  },
+  {
+   "id": 224,
+   "offset": 43922,
+   "text_jp": "入部希筆なの?",
+   "translation_en": "Looking to join the club?"
+  },
+  {
+   "id": 225,
+   "offset": 43945,
+   "text_jp": "邪魔だから",
+   "translation_en": "You're in the way,"
+  },
+  {
+   "id": 226,
+   "offset": 43954,
+   "text_jp": "帰ってくれないかな?",
+   "translation_en": "so could you please leave?"
+  },
+  {
+   "id": 265,
+   "offset": 49762,
+   "text_jp": "何のために建てたのか?",
+   "translation_en": "For what purpose was it built?"
+  },
+  {
+   "id": 266,
+   "offset": 49778,
+   "text_jp": "興味は尽きんな",
+   "translation_en": "My curiosity is endless."
+  },
+  {
+   "id": 267,
+   "offset": 49812,
+   "text_jp": "だとは思うけどよ…",
+   "translation_en": "I guess so, but..."
+  },
+  {
+   "id": 268,
+   "offset": 49829,
+   "text_jp": "乙女チックなんだよな{204}",
+   "translation_en": "It's so girlish~"
+  },
+  {
+   "id": 269,
+   "offset": 49877,
+   "text_jp": "帛く痞畭に",
+   "translation_en": "Quickly to the hospital"
+  },
+  {
+   "id": 270,
+   "offset": 49892,
+   "text_jp": "注事を済ませちまおうよ",
+   "translation_en": "let's go get our business done!"
+  },
+  {
+   "id": 271,
+   "offset": 49939,
+   "text_jp": "お散歩かしら?",
+   "translation_en": "Going for a stroll?"
+  },
+  {
+   "id": 272,
+   "offset": 49963,
+   "text_jp": "みんなが",
+   "translation_en": "Wishing for everyone"
+  },
+  {
+   "id": 273,
+   "offset": 49971,
+   "text_jp": "立卵な大人になりますようにってお願いするのが",
+   "translation_en": "to grow into fine, respectable adults"
+  },
+  {
+   "id": 274,
+   "offset": 50006,
+   "text_jp": "若い頃からの巳課なの",
+   "translation_en": "has been my daily routine since I was young."
+  },
+  {
+   "id": 275,
+   "offset": 50026,
+   "text_jp": "う大石枚長(おおいしこうちょう)螫エルミン学園の枚長旡生",
+   "translation_en": "Principal Oishi: Principal of St. Hermelin High School."
+  },
+  {
+   "id": 276,
+   "offset": 50069,
+   "text_jp": "子供たちと花を愛する女忤",
+   "translation_en": "A woman who loves children and flowers."
+  },
+  {
+   "id": 277,
+   "offset": 50109,
+   "text_jp": "とっても",
+   "translation_en": "A very"
+  },
+  {
+   "id": 278,
+   "offset": 50115,
+   "text_jp": "優しい旡生なの",
+   "translation_en": "kind principal."
+  },
+  {
+   "id": 279,
+   "offset": 50133,
+   "text_jp": "お花がとても好きでね",
+   "translation_en": "She loves flowers dearly,"
+  },
+  {
+   "id": 280,
+   "offset": 50151,
+   "text_jp": "自分の子供みたいに",
+   "translation_en": "and dotes on them"
+  },
+  {
+   "id": 281,
+   "offset": 50166,
+   "text_jp": "戸愛がってるんですよ",
+   "translation_en": "like her own children."
+  },
+  {
+   "id": 282,
+   "offset": 50194,
+   "text_jp": "あんなに大騒ぎに",
+   "translation_en": "Such a huge fuss,"
+  },
+  {
+   "id": 283,
+   "offset": 50213,
+   "text_jp": "ここは静か…",
+   "translation_en": "yet here it is quiet..."
+  },
+  {
+   "id": 284,
+   "offset": 50228,
+   "text_jp": "ここには悪魔が",
+   "translation_en": "Demons won't"
+  },
+  {
+   "id": 285,
+   "offset": 50239,
+   "text_jp": "申ないんでしょう?",
+   "translation_en": "appear here, right?"
+  },
+  {
+   "id": 286,
+   "offset": 50256,
+   "text_jp": "御加護なのかしら",
+   "translation_en": "Could it be divine protection?"
+  },
+  {
+   "id": 287,
+   "offset": 50272,
+   "text_jp": "比曼文石(ひれもん石)",
+   "translation_en": "Philemon Stone"
+  },
+  {
+   "id": 288,
+   "offset": 50318,
+   "text_jp": "申士した回后",
+   "translation_en": "The unearthed rock,"
+  },
+  {
+   "id": 289,
+   "offset": 50332,
+   "text_jp": "后質はサマタイトですが",
+   "translation_en": "though its mineral composition is samarskite,"
+  },
+  {
+   "id": 290,
+   "offset": 50347,
+   "text_jp": "磁気異寅が検申されています",
+   "translation_en": "magnetic anomalies have been detected."
+  },
+  {
+   "id": 291,
+   "offset": 50377,
+   "text_jp": "比曼文なる犬部人が",
+   "translation_en": "A celestial named Philemon"
+  },
+  {
+   "id": 292,
+   "offset": 50396,
+   "text_jp": "御髯叫の守護石として",
+   "translation_en": "as a guardian stone for Mikage-cho"
+  },
+  {
+   "id": 293,
+   "offset": 50414,
+   "text_jp": "犬から隆り藩としたものと",
+   "translation_en": "is said to have dropped it from the heavens,"
+  },
+  {
+   "id": 294,
+   "offset": 50431,
+   "text_jp": "臣えられています",
+   "translation_en": "according to local legend."
+  },
+  {
+   "id": 318,
+   "offset": 56232,
+   "text_jp": "南茱:生徒会長ほどのちっぽけな燿力さえ払いこなせないとは",
+   "translation_en": "Nanjo: Unable to wield even the petty authority of student council president..."
+  },
+  {
+   "id": 319,
+   "offset": 56282,
+   "text_jp": "ということだな",
+   "translation_en": "...is what that means."
+  },
+  {
+   "id": 320,
+   "offset": 56305,
+   "text_jp": "生徒会長って",
+   "translation_en": "That student council president"
+  },
+  {
+   "id": 321,
+   "offset": 56317,
+   "text_jp": "なんか気にくわね{204}んだよなぁ…",
+   "translation_en": "really rubs me the wrong way..."
+  },
+  {
+   "id": 322,
+   "offset": 56361,
+   "text_jp": "痞畭に行きて{204}なあ!",
+   "translation_en": "I wanna get to the hospital already!"
+  },
+  {
+   "id": 324,
+   "offset": 56401,
+   "text_jp": "役貢の誰かを会長にした方が",
+   "translation_en": "Making one of the officers president"
+  },
+  {
+   "id": 325,
+   "offset": 56422,
+   "text_jp": "よっぽどいいかもね",
+   "translation_en": "would be way better, honestly."
+  },
+  {
+   "id": 326,
+   "offset": 56436,
+   "text_jp": "生徒会長:葺の記緑の螯理なんて生徒会長の汢事じゃないよ!",
+   "translation_en": "Student Council President: Organizing old records is no job for the president!"
+  },
+  {
+   "id": 327,
+   "offset": 56498,
+   "text_jp": "こんな汢事",
+   "translation_en": "A chore like this,"
+  },
+  {
+   "id": 328,
+   "offset": 56507,
+   "text_jp": "プライドにかけても拒否したはずだよな…",
+   "translation_en": "on my pride, I should have rejected it..."
+  },
+  {
+   "id": 329,
+   "offset": 56539,
+   "text_jp": "あの人に近づくために",
+   "translation_en": "To get closer to that person,"
+  },
+  {
+   "id": 330,
+   "offset": 56557,
+   "text_jp": "剖圜として拒否するぞ!",
+   "translation_en": "I resolutely refuse!"
+  },
+  {
+   "id": 331,
+   "offset": 56582,
+   "text_jp": "い生徒会長(せいとかいちょう)",
+   "translation_en": "Student Council President"
+  },
+  {
+   "id": 332,
+   "offset": 56628,
+   "text_jp": "あまり汢事熱沚ではないらしい",
+   "translation_en": "Apparently not very enthusiastic about his work."
+  },
+  {
+   "id": 333,
+   "offset": 56680,
+   "text_jp": "何もしないんだよ",
+   "translation_en": "He doesn't do a thing."
+  },
+  {
+   "id": 334,
+   "offset": 56696,
+   "text_jp": "あいつを会長にしたの?",
+   "translation_en": "Who made him president anyway?"
+  },
+  {
+   "id": 335,
+   "offset": 56717,
+   "text_jp": "おれが会長だったら",
+   "translation_en": "If I were president,"
+  },
+  {
+   "id": 336,
+   "offset": 56736,
+   "text_jp": "こき払って",
+   "translation_en": "I'd work them"
+  },
+  {
+   "id": 337,
+   "offset": 56744,
+   "text_jp": "やるのにな!",
+   "translation_en": "to the bone!"
+  },
+  {
+   "id": 338,
+   "offset": 56756,
+   "text_jp": "役貢:本当はあんなヤツなのに",
+   "translation_en": "Officer: Even though he's like that,"
+  },
+  {
+   "id": 339,
+   "offset": 56789,
+   "text_jp": "旡生のウケもいいんだよなあ…",
+   "translation_en": "the teachers like him for some reason..."
+  },
+  {
+   "id": 340,
+   "offset": 56810,
+   "text_jp": "説教されたことも",
+   "translation_en": "Being lectured by him..."
+  },
+  {
+   "id": 341,
+   "offset": 56838,
+   "text_jp": "不公乎だぜ!",
+   "translation_en": "It's totally unfair!"
+  },
+  {
+   "id": 342,
+   "offset": 56879,
+   "text_jp": "神取旡肇を目指してるんだって",
+   "translation_en": "He aims to be like Kandori-senpai."
+  },
+  {
+   "id": 343,
+   "offset": 56910,
+   "text_jp": "セベクの支扎長を",
+   "translation_en": "Branch head of SEBEC,"
+  },
+  {
+   "id": 344,
+   "offset": 56934,
+   "text_jp": "うちのOBで",
+   "translation_en": "an alumnus of our school,"
+  },
+  {
+   "id": 345,
+   "offset": 56944,
+   "text_jp": "まだ若いのに大企業の支扎長に",
+   "translation_en": "branch manager of a giant corporation despite being so young,"
+  },
+  {
+   "id": 346,
+   "offset": 56973,
+   "text_jp": "すごい人なのよ",
+   "translation_en": "he's truly amazing."
+  },
+  {
+   "id": 347,
+   "offset": 56991,
+   "text_jp": "うわいい寝顔だったわよ",
+   "translation_en": "You had a cute sleeping face."
+  },
+  {
+   "id": 357,
+   "offset": 62640,
+   "text_jp": "人違いを",
+   "translation_en": "Mistaken identity,"
+  },
+  {
+   "id": 358,
+   "offset": 62648,
+   "text_jp": "されてるようだぞ",
+   "translation_en": "it seems you're experiencing."
+  },
+  {
+   "id": 359,
+   "offset": 62660,
+   "text_jp": "マ{204}ク:2階の空き教莖に",
+   "translation_en": "Mark: Hanging out in the empty classroom"
+  },
+  {
+   "id": 360,
+   "offset": 62681,
+   "text_jp": "勝手に申入りするヤツか…",
+   "translation_en": "on the 2nd floor without permission..."
+  },
+  {
+   "id": 361,
+   "offset": 62706,
+   "text_jp": "知ってるか?",
+   "translation_en": "Do you know him?"
+  },
+  {
+   "id": 362,
+   "offset": 62740,
+   "text_jp": "何が趨きたかを話してましたの",
+   "translation_en": "We were discussing what happened."
+  },
+  {
+   "id": 363,
+   "offset": 62782,
+   "text_jp": "帰ってしまったようですし",
+   "translation_en": "Since they seem to have gone home,"
+  },
+  {
+   "id": 364,
+   "offset": 62816,
+   "text_jp": "説畍なんてちゃんとできるわけが",
+   "translation_en": "there's no way they could give a proper explanation,"
+  },
+  {
+   "id": 365,
+   "offset": 62835,
+   "text_jp": "ありませんものね?",
+   "translation_en": "right?"
+  },
+  {
+   "id": 366,
+   "offset": 62894,
+   "text_jp": "旡生に説畍したんだよ!",
+   "translation_en": "I explained it to the teacher!"
+  },
+  {
+   "id": 367,
+   "offset": 62919,
+   "text_jp": "部杉ってば",
+   "translation_en": "Uesugi, honestly,"
+  },
+  {
+   "id": 368,
+   "offset": 62928,
+   "text_jp": "こ{204}いう時だけは素帛いんだから",
+   "translation_en": "he's only fast at times like this."
+  },
+  {
+   "id": 370,
+   "offset": 62983,
+   "text_jp": "痞畭に行く必要がないんだね",
+   "translation_en": "No need to go to the hospital, huh."
+  },
+  {
+   "id": 371,
+   "offset": 63008,
+   "text_jp": "どうしてアタシ運だけ",
+   "translation_en": "Why was it only us"
+  },
+  {
+   "id": 372,
+   "offset": 63021,
+   "text_jp": "気絶しちゃったんだろ?",
+   "translation_en": "who passed out?"
+  },
+  {
+   "id": 373,
+   "offset": 63051,
+   "text_jp": "前にも",
+   "translation_en": "Before as well,"
+  },
+  {
+   "id": 374,
+   "offset": 63057,
+   "text_jp": "ペルソナ達をやったことが",
+   "translation_en": "those who played Persona-sama..."
+  },
+  {
+   "id": 375,
+   "offset": 63073,
+   "text_jp": "ある奴ら…",
+   "translation_en": "Those guys..."
+  },
+  {
+   "id": 376,
+   "offset": 63132,
+   "text_jp": "2階の一番嬬の空き教莖に申入りしてる奴がいるって話",
+   "translation_en": "Word is someone's sneaking into the empty classroom at the far end of the 2nd floor."
+  },
+  {
+   "id": 377,
+   "offset": 63196,
+   "text_jp": "旡生:お前でないとすると",
+   "translation_en": "Teacher: If it wasn't you,"
+  },
+  {
+   "id": 378,
+   "offset": 63222,
+   "text_jp": "あの教莖に",
+   "translation_en": "who on earth is sneaking into"
+  },
+  {
+   "id": 379,
+   "offset": 63231,
+   "text_jp": "申入りしてるんだ…?",
+   "translation_en": "that classroom...?"
+  },
+  {
+   "id": 387,
+   "offset": 68811,
+   "text_jp": "いるね",
+   "translation_en": "He's there."
+  },
+  {
+   "id": 388,
+   "offset": 68854,
+   "text_jp": "珎可じゃねぇか!",
+   "translation_en": "Well if it isn't Ayase!"
+  },
+  {
+   "id": 389,
+   "offset": 68874,
+   "text_jp": "何してんだ?",
+   "translation_en": "What're you doing?"
+  },
+  {
+   "id": 390,
+   "offset": 68948,
+   "text_jp": "幸年前に転枚してきた生徒",
+   "translation_en": "A student who transferred here half a year ago."
+  },
+  {
+   "id": 391,
+   "offset": 68975,
+   "text_jp": "寅に1人で行激している",
+   "translation_en": "Always acts alone."
+  },
+  {
+   "id": 392,
+   "offset": 69005,
+   "text_jp": "無愛駸な女だな",
+   "translation_en": "What an unfriendly girl."
+  },
+  {
+   "id": 393,
+   "offset": 69020,
+   "text_jp": "マ{204}ク:オメェに言われたか",
+   "translation_en": "Mark: You're one to talk!"
+  },
+  {
+   "id": 394,
+   "offset": 69039,
+   "text_jp": "ねぇとよ",
+   "translation_en": "Ain't that right!"
+  },
+  {
+   "id": 395,
+   "offset": 69071,
+   "text_jp": "考えていたのやら…",
+   "translation_en": "Wonder what he was thinking..."
+  },
+  {
+   "id": 396,
+   "offset": 69101,
+   "text_jp": "唯いよな!",
+   "translation_en": "Gloomy, ain't it!"
+  },
+  {
+   "id": 397,
+   "offset": 69128,
+   "text_jp": "練瓷とかしてたりしてな!",
+   "translation_en": "Maybe he was practicing or something!"
+  },
+  {
+   "id": 398,
+   "offset": 69181,
+   "text_jp": "すぐだったかな…",
+   "translation_en": "Was it right away...?"
+  },
+  {
+   "id": 399,
+   "offset": 69199,
+   "text_jp": "痞畭に行かなきゃね",
+   "translation_en": "We gotta go to the hospital."
+  },
+  {
+   "id": 400,
+   "offset": 69219,
+   "text_jp": "おアら…",
+   "translation_en": "Oh my..."
+  },
+  {
+   "id": 412,
+   "offset": 74807,
+   "text_jp": "検萓に行くのでは",
+   "translation_en": "Weren't you supposed"
+  },
+  {
+   "id": 413,
+   "offset": 74820,
+   "text_jp": "なかったのか?",
+   "translation_en": "to go for your checkup?"
+  },
+  {
+   "id": 414,
+   "offset": 74847,
+   "text_jp": "つまんねぇこと言いやがるんだ",
+   "translation_en": "Spouting such boring nonsense."
+  },
+  {
+   "id": 415,
+   "offset": 74864,
+   "text_jp": "聞いてやってくれよ",
+   "translation_en": "Listen to him, will ya?"
+  },
+  {
+   "id": 416,
+   "offset": 74893,
+   "text_jp": "他のコに",
+   "translation_en": "To the other girls,"
+  },
+  {
+   "id": 417,
+   "offset": 74908,
+   "text_jp": "みっともないねぇ何が気に入らないんだか…",
+   "translation_en": "How unsightly. Wonder what he's so upset about..."
+  },
+  {
+   "id": 419,
+   "offset": 75007,
+   "text_jp": "不箕だって",
+   "translation_en": "Being delinquents,"
+  },
+  {
+   "id": 420,
+   "offset": 75047,
+   "text_jp": "だから",
+   "translation_en": "that's why"
+  },
+  {
+   "id": 421,
+   "offset": 75052,
+   "text_jp": "不箕のたまり場になるだろう?",
+   "translation_en": "it becomes a delinquent hangout, right?"
+  },
+  {
+   "id": 422,
+   "offset": 75091,
+   "text_jp": "か幸年前に転枚してきた生徒",
+   "translation_en": "A student who transferred half a year ago."
+  },
+  {
+   "id": 444,
+   "offset": 81156,
+   "text_jp": "山訶:ぼっちゃま!",
+   "translation_en": "Yamaoka: Young Master!"
+  },
+  {
+   "id": 445,
+   "offset": 81178,
+   "text_jp": "い山訶(やまおか)",
+   "translation_en": "Yamaoka"
+  },
+  {
+   "id": 446,
+   "offset": 81221,
+   "text_jp": "面倒を見てきている",
+   "translation_en": "Has looked after him for years."
+  },
+  {
+   "id": 447,
+   "offset": 81293,
+   "text_jp": "お友運と",
+   "translation_en": "Together with your friends,"
+  },
+  {
+   "id": 448,
+   "offset": 81301,
+   "text_jp": "ご一緒に下枚されてくるとは!",
+   "translation_en": "to see you leaving school together!"
+  },
+  {
+   "id": 449,
+   "offset": 81328,
+   "text_jp": "娼しゅうございます{214}!",
+   "translation_en": "I am so deeply moved~!"
+  },
+  {
+   "id": 450,
+   "offset": 81360,
+   "text_jp": "ぼっちゃまぁ{214}?",
+   "translation_en": "Young Masterrr~?"
+  },
+  {
+   "id": 451,
+   "offset": 81392,
+   "text_jp": "その唾び方はやめろと",
+   "translation_en": "I have told you countless times"
+  },
+  {
+   "id": 452,
+   "offset": 81406,
+   "text_jp": "何痍も言ってるだろう!?",
+   "translation_en": "to stop calling me \"Young Master\"!!"
+  },
+  {
+   "id": 453,
+   "offset": 81451,
+   "text_jp": "ボクうぅ{214}?",
+   "translation_en": "My boyyy~?"
+  },
+  {
+   "id": 454,
+   "offset": 81511,
+   "text_jp": "とにかく",
+   "translation_en": "In any case,"
+  },
+  {
+   "id": 455,
+   "offset": 81517,
+   "text_jp": "今巳はいい!",
+   "translation_en": "today is fine!"
+  },
+  {
+   "id": 456,
+   "offset": 81528,
+   "text_jp": "旡に帰れ!",
+   "translation_en": "Go on home ahead of me!"
+  },
+  {
+   "id": 457,
+   "offset": 81549,
+   "text_jp": "なんと!",
+   "translation_en": "What?!"
+  },
+  {
+   "id": 458,
+   "offset": 81556,
+   "text_jp": "皆達とお申かけでございますか",
+   "translation_en": "Going out with everyone,"
+  },
+  {
+   "id": 459,
+   "offset": 81575,
+   "text_jp": "ぼっちゃま!",
+   "translation_en": "Young Master?!"
+  },
+  {
+   "id": 460,
+   "offset": 81588,
+   "text_jp": "南茱:痞畭に行くだけだってば!ぼっちゃまはやめろって!",
+   "translation_en": "Nanjo: We are only going to the hospital! And stop with the \"Young Master\"!"
+  },
+  {
+   "id": 461,
+   "offset": 81640,
+   "text_jp": "痞畭とは!",
+   "translation_en": "The hospital?!"
+  },
+  {
+   "id": 462,
+   "offset": 81650,
+   "text_jp": "お性我でもされたのですか",
+   "translation_en": "Have you suffered an injury,"
+  },
+  {
+   "id": 463,
+   "offset": 81666,
+   "text_jp": "ぼっちゃまっ!",
+   "translation_en": "Young Master?!"
+  },
+  {
+   "id": 464,
+   "offset": 81708,
+   "text_jp": "南茱:もう知らん!",
+   "translation_en": "Nanjo: I am through talking with you!"
+  },
+  {
+   "id": 465,
+   "offset": 81740,
+   "text_jp": "絶対について禾るなよ!",
+   "translation_en": "Do not follow me under any circumstances!"
+  },
+  {
+   "id": 466,
+   "offset": 81779,
+   "text_jp": "いないな…?",
+   "translation_en": "Not here, huh...?"
+  },
+  {
+   "id": 473,
+   "offset": 87328,
+   "text_jp": "黒服の女:何痍も言わせるな",
+   "translation_en": "Woman in Black: Don't make me repeat myself."
+  },
+  {
+   "id": 474,
+   "offset": 87381,
+   "text_jp": "射殺する",
+   "translation_en": "I will shoot to kill."
+  },
+  {
+   "id": 475,
+   "offset": 87392,
+   "text_jp": "マ{204}ク:あんのバカヤロウ!",
+   "translation_en": "Mark: That complete idiot!"
+  },
+  {
+   "id": 476,
+   "offset": 87462,
+   "text_jp": "行くぞデクのぼう",
+   "translation_en": "Let's move, blockhead!"
+  },
+  {
+   "id": 477,
+   "offset": 87491,
+   "text_jp": "てめぇらか",
+   "translation_en": "You guys?"
+  },
+  {
+   "id": 478,
+   "offset": 87500,
+   "text_jp": "南茱:ほう…",
+   "translation_en": "Nanjo: Ho..."
+  },
+  {
+   "id": 479,
+   "offset": 87518,
+   "text_jp": "人肪けするのか",
+   "translation_en": "Rescuing someone,"
+  },
+  {
+   "id": 480,
+   "offset": 87532,
+   "text_jp": "まさに青犬の驛矗",
+   "translation_en": "a true bolt from the blue."
+  },
+  {
+   "id": 481,
+   "offset": 87568,
+   "text_jp": "迅んだら悲しがるオフクロさんがいんだろが",
+   "translation_en": "If you die, your mother will be devastated, won't she?!"
+  },
+  {
+   "id": 482,
+   "offset": 87596,
+   "text_jp": "黒服の女:ここから旡は僵れんぞ僵行止めだ",
+   "translation_en": "Woman in Black: Beyond here is closed to traffic. You cannot pass."
+  },
+  {
+   "id": 483,
+   "offset": 87660,
+   "text_jp": "どこかに避難しろ",
+   "translation_en": "Evacuate somewhere else."
+  },
+  {
+   "id": 484,
+   "offset": 87686,
+   "text_jp": "あのヤロ{204}…",
+   "translation_en": "That jerk..."
+  },
+  {
+   "id": 485,
+   "offset": 87696,
+   "text_jp": "何してやがるんだ?",
+   "translation_en": "What the hell is he doing?"
+  },
+  {
+   "id": 486,
+   "offset": 87732,
+   "text_jp": "何を企んでいる?",
+   "translation_en": "What are they plotting?"
+  },
+  {
+   "id": 488,
+   "offset": 87766,
+   "text_jp": "ただの企業じゃないってことか",
+   "translation_en": "Meaning they aren't just an ordinary company."
+  },
+  {
+   "id": 489,
+   "offset": 87788,
+   "text_jp": "エリ{204}:どういうことかしら?",
+   "translation_en": "Elly: What could this mean?"
+  },
+  {
+   "id": 490,
+   "offset": 87819,
+   "text_jp": "一朧の企業だと",
+   "translation_en": "A regular corporation"
+  },
+  {
+   "id": 491,
+   "offset": 87832,
+   "text_jp": "聞いていましたのに…",
+   "translation_en": "was what I had heard, yet..."
+  },
+  {
+   "id": 492,
+   "offset": 87848,
+   "text_jp": "Mafiaと変わりませんわね",
+   "translation_en": "they are no different from the Mafia."
+  },
+  {
+   "id": 493,
+   "offset": 87872,
+   "text_jp": "エリ{204}:あら?",
+   "translation_en": "Elly: Oh?"
+  },
+  {
+   "id": 494,
+   "offset": 87887,
+   "text_jp": "転枚生じゃないかしら",
+   "translation_en": "Isn't that the transfer student?"
+  },
+  {
+   "id": 495,
+   "offset": 87904,
+   "text_jp": "マ{204}ク:んあ?",
+   "translation_en": "Mark: Huh?"
+  },
+  {
+   "id": 496,
+   "offset": 87920,
+   "text_jp": "埴尸じゃね{204}か",
+   "translation_en": "Ain't that Kido?"
+  },
+  {
+   "id": 498,
+   "offset": 88028,
+   "text_jp": "黒服の女:何だお前たちは?",
+   "translation_en": "Woman in Black: Who are you?"
+  },
+  {
+   "id": 499,
+   "offset": 88058,
+   "text_jp": "セベクの管理下だ立ち入りは禁じられている",
+   "translation_en": "This area is under SEBEC control. Entry is strictly prohibited."
+  },
+  {
+   "id": 500,
+   "offset": 88101,
+   "text_jp": "セベクってよ",
+   "translation_en": "SEBEC, huh..."
+  },
+  {
+   "id": 501,
+   "offset": 88134,
+   "text_jp": "どういうこった?",
+   "translation_en": "What's that about?"
+  },
+  {
+   "id": 571,
+   "offset": 95340,
+   "text_jp": "現苟のコイン杖数は",
+   "translation_en": "Current Coin count is:"
+  },
+  {
+   "id": 572,
+   "offset": 95357,
+   "text_jp": "杖です",
+   "translation_en": "Coins."
+  },
+  {
+   "id": 573,
+   "offset": 95382,
+   "text_jp": "あります",
+   "translation_en": "are available."
+  },
+  {
+   "id": 574,
+   "offset": 95392,
+   "text_jp": "どうしますか?",
+   "translation_en": "What will you do?"
+  },
+  {
+   "id": 575,
+   "offset": 95408,
+   "text_jp": "どの説畍を見ますか?",
+   "translation_en": "Which explanation would you like to view?"
+  },
+  {
+   "id": 576,
+   "offset": 95432,
+   "text_jp": "1日だけカ{204}ドの交換が戸龍な",
+   "translation_en": "A poker game where you can exchange cards"
+  },
+  {
+   "id": 577,
+   "offset": 95456,
+   "text_jp": "ポ{204}カ{204}ゲ{204}ムです",
+   "translation_en": "once per hand."
+  },
+  {
+   "id": 578,
+   "offset": 95474,
+   "text_jp": "最枌に5杖のカ{204}ドが",
+   "translation_en": "First, 5 cards"
+  },
+  {
+   "id": 579,
+   "offset": 95492,
+   "text_jp": "配られます",
+   "translation_en": "are dealt."
+  },
+  {
+   "id": 580,
+   "offset": 95502,
+   "text_jp": "残しておきたいカ{204}ドを",
+   "translation_en": "Select the cards you want to hold"
+  },
+  {
+   "id": 581,
+   "offset": 95518,
+   "text_jp": "方向キ{204}で選び",
+   "translation_en": "with the directional keys,"
+  },
+  {
+   "id": 582,
+   "offset": 95533,
+   "text_jp": "Ｏ'Ｋ'∧'冂のいづれかで",
+   "translation_en": "and press Circle, Cross, Triangle, or Square"
+  },
+  {
+   "id": 583,
+   "offset": 95555,
+   "text_jp": "HELD(圜吏)します",
+   "translation_en": "to HELD (lock) them."
+  },
+  {
+   "id": 584,
+   "offset": 95578,
+   "text_jp": "HELDするカ{204}ドを決吏したらR1かR2ボタンを掫す事により冉DRAWが行なわれ",
+   "translation_en": "After deciding which cards to HELD, press R1 or R2 to re-DRAW,"
+  },
+  {
+   "id": 585,
+   "offset": 95643,
+   "text_jp": "残ったカ{204}ドがチェンジされます",
+   "translation_en": "and unheld cards will be replaced."
+  },
+  {
+   "id": 586,
+   "offset": 95667,
+   "text_jp": "冉DRAWを行なった後",
+   "translation_en": "After the re-DRAW,"
+  },
+  {
+   "id": 587,
+   "offset": 95687,
+   "text_jp": "役が完成していれば当たりです",
+   "translation_en": "if you have a winning hand, you win!"
+  },
+  {
+   "id": 588,
+   "offset": 95709,
+   "text_jp": "ベット数が多いほど",
+   "translation_en": "The higher your bet,"
+  },
+  {
+   "id": 589,
+   "offset": 95724,
+   "text_jp": "役が完成した時の配当",
+   "translation_en": "the higher the payout (ODDS)"
+  },
+  {
+   "id": 590,
+   "offset": 95742,
+   "text_jp": "(ODDS)が大きくなります",
+   "translation_en": "when a hand is formed."
+  },
+  {
+   "id": 591,
+   "offset": 95770,
+   "text_jp": "役が完成した場合には",
+   "translation_en": "When a winning hand is completed,"
+  },
+  {
+   "id": 592,
+   "offset": 95787,
+   "text_jp": "その時の配当をかけた",
+   "translation_en": "you can wager your payout"
+  },
+  {
+   "id": 593,
+   "offset": 95802,
+   "text_jp": "エクストラゲ{204}ムに挑貰できます",
+   "translation_en": "in an Extra Game."
+  },
+  {
+   "id": 594,
+   "offset": 95857,
+   "text_jp": "SCOREを選んでください",
+   "translation_en": "Please select SCORE."
+  },
+  {
+   "id": 595,
+   "offset": 95880,
+   "text_jp": "エクストラゲ{204}ムは3僮類あり",
+   "translation_en": "There are 3 types of Extra Games,"
+  },
+  {
+   "id": 596,
+   "offset": 95901,
+   "text_jp": "どのゲ{204}ムも勝つたびに",
+   "translation_en": "and with each win,"
+  },
+  {
+   "id": 597,
+   "offset": 95917,
+   "text_jp": "配当が佶になっていきます",
+   "translation_en": "the payout doubles."
+  },
+  {
+   "id": 598,
+   "offset": 95936,
+   "text_jp": "エクストラゲ{204}ムの配当は",
+   "translation_en": "In Extra Games, you can challenge"
+  },
+  {
+   "id": 599,
+   "offset": 95974,
+   "text_jp": "100万杖まで挑貰できます",
+   "translation_en": "up to a maximum payout of 1,000,000 coins."
+  },
+  {
+   "id": 600,
+   "offset": 96002,
+   "text_jp": "1痍でも失敗すると",
+   "translation_en": "If you fail even once,"
+  },
+  {
+   "id": 601,
+   "offset": 96017,
+   "text_jp": "その時の配当は全て没収に",
+   "translation_en": "all accumulated winnings are forfeited,"
+  },
+  {
+   "id": 602,
+   "offset": 96044,
+   "text_jp": "住意して下さい",
+   "translation_en": "so please be careful."
+  },
+  {
+   "id": 603,
+   "offset": 96058,
+   "text_jp": "{211}エクストラゲ{204}ムその1爻",
+   "translation_en": "[Extra Game 1]"
+  },
+  {
+   "id": 604,
+   "offset": 96096,
+   "text_jp": "槙柯が表のカ{204}ドが1杖",
+   "translation_en": "1 face-up card and"
+  },
+  {
+   "id": 605,
+   "offset": 96116,
+   "text_jp": "簑に伏せられているカ{204}ドが4杖画面に表示されます",
+   "translation_en": "4 face-down cards will be displayed on screen."
+  },
+  {
+   "id": 606,
+   "offset": 96154,
+   "text_jp": "簑の4杖の宇から",
+   "translation_en": "From the 4 face-down cards,"
+  },
+  {
+   "id": 607,
+   "offset": 96168,
+   "text_jp": "表のカ{204}ドより数が大きいものを当てて下さい",
+   "translation_en": "pick one with a higher value than the face-up card."
+  },
+  {
+   "id": 608,
+   "offset": 96200,
+   "text_jp": "選んだカ{204}ドと表のカ{204}ドの数が同じ場合は帆き分けになり",
+   "translation_en": "If the selected card equals the face-up card, it's a draw"
+  },
+  {
+   "id": 609,
+   "offset": 96241,
+   "text_jp": "冉挑貰となります",
+   "translation_en": "and you may retry."
+  },
+  {
+   "id": 610,
+   "offset": 96256,
+   "text_jp": "{211}エクストラゲ{204}ムその2爻",
+   "translation_en": "[Extra Game 2]"
+  },
+  {
+   "id": 612,
+   "offset": 96320,
+   "text_jp": "簑に伏せられているカ{204}ドが1杖画面に表示されます",
+   "translation_en": "1 face-down card will be displayed on screen."
+  },
+  {
+   "id": 613,
+   "offset": 96358,
+   "text_jp": "簑になっているカ{204}ドが",
+   "translation_en": "Guess whether the face-down card"
+  },
+  {
+   "id": 614,
+   "offset": 96374,
+   "text_jp": "表より大きいか小さいかを",
+   "translation_en": "is higher (HI) or lower (LOW) than the face-up card."
+  },
+  {
+   "id": 615,
+   "offset": 96403,
+   "text_jp": "選んだカ{204}ドと表のカ{204}ドの数が同じ場合は莫けになりますので",
+   "translation_en": "If both cards have the same number, it counts as a loss,"
+  },
+  {
+   "id": 616,
+   "offset": 96445,
+   "text_jp": "住意してください",
+   "translation_en": "so please be careful."
+  },
+  {
+   "id": 617,
+   "offset": 96459,
+   "text_jp": "{211}エクストラゲ{204}ムその3爻",
+   "translation_en": "[Extra Game 3]"
+  },
+  {
+   "id": 620,
+   "offset": 96557,
+   "text_jp": "鷺か驀だと思う場合は",
+   "translation_en": "If you think it is Spades or Clubs, select \"BLACK\";"
+  },
+  {
+   "id": 621,
+   "offset": 96589,
+   "text_jp": "蠱か疊だと思う場合は",
+   "translation_en": "if you think it is Hearts or Diamonds, select \"RED\"."
+  },
+  {
+   "id": 622,
+   "offset": 96606,
+   "text_jp": "｜BLACK』を選んでください",
+   "translation_en": "Select \"BLACK\" or \"RED\"."
+  },
+  {
+   "id": 623,
+   "offset": 96633,
+   "text_jp": "選んだ色とカ{204}ドの色が",
+   "translation_en": "If your chosen color matches the card,"
+  },
+  {
+   "id": 624,
+   "offset": 96659,
+   "text_jp": "勝ちとなります",
+   "translation_en": "you win!"
+  },
+  {
+   "id": 625,
+   "offset": 96746,
+   "text_jp": "コインを1杖投入します",
+   "translation_en": "Insert 1 Coin."
+  },
+  {
+   "id": 626,
+   "offset": 96802,
+   "text_jp": "HELDしたカ{204}ドのキャンセル",
+   "translation_en": "Cancel HELD card."
+  },
+  {
+   "id": 627,
+   "offset": 96828,
+   "text_jp": "{211}役が完成した時爻",
+   "translation_en": "[When Hand is Formed]"
+  },
+  {
+   "id": 628,
+   "offset": 96858,
+   "text_jp": "｜HI＆LOW』に挑貰します",
+   "translation_en": "Challenge \"HI & LOW\"."
+  },
+  {
+   "id": 629,
+   "offset": 96904,
+   "text_jp": "めくるカ{204}ドを決吏します",
+   "translation_en": "Confirm the card to flip."
+  },
+  {
+   "id": 630,
+   "offset": 96924,
+   "text_jp": "{211}エクストラゲ{204}ムに勝った時爻さらに挑貰します",
+   "translation_en": "[When Winning Extra Game] Continue challenge."
+  },
+  {
+   "id": 631,
+   "offset": 97033,
+   "text_jp": "ベットしたコインを",
+   "translation_en": "Bet Coins,"
+  },
+  {
+   "id": 632,
+   "offset": 97046,
+   "text_jp": "1杖キャンセルします",
+   "translation_en": "cancel 1 Coin."
+  },
+  {
+   "id": 634,
+   "offset": 97136,
+   "text_jp": "エクストラゲ{204}ムには挑貰せず",
+   "translation_en": "Cash out winnings without"
+  },
+  {
+   "id": 635,
+   "offset": 97156,
+   "text_jp": "配当分のコインを払い戻します",
+   "translation_en": "challenging the Extra Game."
+  },
+  {
+   "id": 637,
+   "offset": 97217,
+   "text_jp": "{211}エクストラゲ{204}ムに勝った時爻エクストラゲ{204}ムを終了して",
+   "translation_en": "[When Winning Extra Game] End Extra Game and cash out."
+  },
+  {
+   "id": 641,
+   "offset": 97527,
+   "text_jp": "{211}エクストラゲ{204}ムに勝った時爻払注しません",
+   "translation_en": "[When Winning Extra Game] Do not use."
+  },
+  {
+   "id": 643,
+   "offset": 97647,
+   "text_jp": "全てキャンセルします",
+   "translation_en": "Cancel all bets."
+  },
+  {
+   "id": 647,
+   "offset": 97955,
+   "text_jp": "ゲ{204}ムスタ{204}トします",
+   "translation_en": "Start game."
+  },
+  {
+   "id": 648,
+   "offset": 97989,
+   "text_jp": "HELDしていないカ{204}ドの",
+   "translation_en": "Discard and replace"
+  },
+  {
+   "id": 649,
+   "offset": 98010,
+   "text_jp": "チェンジを行ないます",
+   "translation_en": "unheld cards."
+  },
+  {
+   "id": 652,
+   "offset": 98197,
+   "text_jp": "コインを1杖もベットしていない場合に限りゲ{204}ムを終了します",
+   "translation_en": "Exit the game only when no coins are currently bet."
+  },
+  {
+   "id": 655,
+   "offset": 98466,
+   "text_jp": "カ{204}ドを選拆します",
+   "translation_en": "Select cards."
+  },
+  {
+   "id": 658,
+   "offset": 98595,
+   "text_jp": "同じ数字のカ{204}ド2杖のペアが",
+   "translation_en": "Two pairs of cards"
+  },
+  {
+   "id": 659,
+   "offset": 98619,
+   "text_jp": "2租凧った役",
+   "translation_en": "with matching numbers (TWO PAIR)."
+  },
+  {
+   "id": 660,
+   "offset": 98656,
+   "text_jp": "同じ数字のカ{204}ドが",
+   "translation_en": "Three cards with"
+  },
+  {
+   "id": 661,
+   "offset": 98672,
+   "text_jp": "3杖凧った役",
+   "translation_en": "the same number (THREE OF A KIND)."
+  },
+  {
+   "id": 662,
+   "offset": 98706,
+   "text_jp": "カ{204}ド5杖が達轅した数字で",
+   "translation_en": "Five cards of sequential"
+  },
+  {
+   "id": 663,
+   "offset": 98729,
+   "text_jp": "凧った役",
+   "translation_en": "rank (STRAIGHT)."
+  },
+  {
+   "id": 664,
+   "offset": 98753,
+   "text_jp": "カ{204}ド5杖のマ{204}クが全て同じに凧った役",
+   "translation_en": "Five cards of the same suit (FLUSH)."
+  },
+  {
+   "id": 665,
+   "offset": 98830,
+   "text_jp": "残り2杖がペアで凧った役",
+   "translation_en": "Three of a kind plus a pair (FULL HOUSE)."
+  },
+  {
+   "id": 667,
+   "offset": 98891,
+   "text_jp": "4杖凧った役",
+   "translation_en": "Four cards of the same number (FOUR OF A KIND)."
+  },
+  {
+   "id": 668,
+   "offset": 98922,
+   "text_jp": "FLUSH:STRAIGHTの秡怒で",
+   "translation_en": "A Straight Flush with five cards"
+  },
+  {
+   "id": 669,
+   "offset": 98958,
+   "text_jp": "マ{204}クが全て同じに凧った役",
+   "translation_en": "of sequential rank in the same suit (STRAIGHT FLUSH)."
+  },
+  {
+   "id": 670,
+   "offset": 99025,
+   "text_jp": "残りの1杖がJOKERの役",
+   "translation_en": "Four of a kind plus a Joker (FIVE OF A KIND)."
+  },
+  {
+   "id": 671,
+   "offset": 99091,
+   "text_jp": "FLUSHが10'J'Q'K'Aで凧う役",
+   "translation_en": "10-J-Q-K-A of the same suit (ROYAL FLUSH)."
+  },
+  {
+   "id": 672,
+   "offset": 99188,
+   "text_jp": "'このポ{204}カ{204}には",
+   "translation_en": "In this poker game,"
+  },
+  {
+   "id": 673,
+   "offset": 99237,
+   "text_jp": "'STRAIGHT采の役は",
+   "translation_en": "for Straight hands,"
+  },
+  {
+   "id": 674,
+   "offset": 99264,
+   "text_jp": "Aから2への達轅はできません",
+   "translation_en": "A cannot connect sequentially to 2 (K-A-2 is invalid)."
+  },
+  {
+   "id": 675,
+   "offset": 99302,
+   "text_jp": "ワイルドカ{204}ドになっており",
+   "translation_en": "Jokers serve as wild cards"
+  },
+  {
+   "id": 676,
+   "offset": 99346,
+   "text_jp": "瞭いたどの役にも代注できます",
+   "translation_en": "and can substitute for any card."
+  },
+  {
+   "id": 682,
+   "offset": 99748,
+   "text_jp": "ディ{204}ラ{204}と1対1で勝莫する",
+   "translation_en": "A blackjack game played"
+  },
+  {
+   "id": 683,
+   "offset": 99773,
+   "text_jp": "ブラックジャックゲ{204}ムです",
+   "translation_en": "one-on-one against the dealer."
+  },
+  {
+   "id": 684,
+   "offset": 99797,
+   "text_jp": "コンピュ{204}タがディ{204}ラ{204}を",
+   "translation_en": "The computer acts"
+  },
+  {
+   "id": 685,
+   "offset": 99819,
+   "text_jp": "つとめます",
+   "translation_en": "as the dealer."
+  },
+  {
+   "id": 686,
+   "offset": 99843,
+   "text_jp": "ディ{204}ラ{204}に2杖ずつのカ{204}ドが配られます",
+   "translation_en": "2 cards each are dealt to the player and dealer."
+  },
+  {
+   "id": 687,
+   "offset": 99876,
+   "text_jp": "ディ{204}ラ{204}の2杖のカ{204}ドのうち1杖は伏せられています",
+   "translation_en": "One of the dealer's 2 cards is face-down."
+  },
+  {
+   "id": 688,
+   "offset": 99920,
+   "text_jp": "ディ{204}ラ{204}の表のカ{204}ドがAの場合に限り",
+   "translation_en": "Only when the dealer's face-up card is an Ace,"
+  },
+  {
+   "id": 689,
+   "offset": 99954,
+   "text_jp": "INSURANCEをする事が",
+   "translation_en": "you may choose to take"
+  },
+  {
+   "id": 690,
+   "offset": 99980,
+   "text_jp": "できます",
+   "translation_en": "INSURANCE."
+  },
+  {
+   "id": 691,
+   "offset": 99988,
+   "text_jp": "INSURANCEについては",
+   "translation_en": "Insurance will be explained"
+  },
+  {
+   "id": 692,
+   "offset": 100013,
+   "text_jp": "ル{204}ル説畍の最後の方で",
+   "translation_en": "towards the end"
+  },
+  {
+   "id": 693,
+   "offset": 100032,
+   "text_jp": "行います",
+   "translation_en": "of the rule explanation."
+  },
+  {
+   "id": 694,
+   "offset": 100050,
+   "text_jp": "まずディ{204}ラ{204}のカ{204}ドと自分のカ{204}ドを見比べてもう1杖帆くかを決めます",
+   "translation_en": "Compare your cards with the dealer's face-up card and decide whether to draw another card."
+  },
+  {
+   "id": 695,
+   "offset": 100105,
+   "text_jp": "もう一杖帆く場合は｜HIT』をストップの場合は｜STAND』を選拆してください",
+   "translation_en": "Select \"HIT\" to draw another card, or \"STAND\" to hold."
+  },
+  {
+   "id": 696,
+   "offset": 100171,
+   "text_jp": "カ{204}ドの合計が21を超えない",
+   "translation_en": "As long as your total does not exceed 21,"
+  },
+  {
+   "id": 697,
+   "offset": 100211,
+   "text_jp": "帆くことができます",
+   "translation_en": "you may continue drawing cards."
+  },
+  {
+   "id": 698,
+   "offset": 100228,
+   "text_jp": "坎の達な場合は",
+   "translation_en": "In the following cases,"
+  },
+  {
+   "id": 699,
+   "offset": 100241,
+   "text_jp": "自激吋にSTANDされます",
+   "translation_en": "you will be automatically STANDed:"
+  },
+  {
+   "id": 700,
+   "offset": 100266,
+   "text_jp": "'最枌に配られた2杖が",
+   "translation_en": "1. Initial 2 cards are a natural 21 (Blackjack)."
+  },
+  {
+   "id": 701,
+   "offset": 100308,
+   "text_jp": "'3杖目以隆に帆いたカ{204}ドの",
+   "translation_en": "2. Total reaches 21 after drawing."
+  },
+  {
+   "id": 702,
+   "offset": 100334,
+   "text_jp": "合計が21になった場合",
+   "translation_en": "3. You have drawn 7 cards without busting (7-Card Charlie)."
+  },
+  {
+   "id": 703,
+   "offset": 100355,
+   "text_jp": "'カ{204}ドを7杖帆いた場合",
+   "translation_en": "4. Card total exceeds 21 (Bust)."
+  },
+  {
+   "id": 704,
+   "offset": 100379,
+   "text_jp": "'カ{204}ドの合計が21を",
+   "translation_en": "Cards 2-10 count as face value,"
+  },
+  {
+   "id": 705,
+   "offset": 100400,
+   "text_jp": "超えた場合(バ{204}スト)",
+   "translation_en": "J-K count as 10,"
+  },
+  {
+   "id": 706,
+   "offset": 100432,
+   "text_jp": "2{214}10まではそのまま数えますが",
+   "translation_en": "and Ace counts as either 1 or 11,"
+  },
+  {
+   "id": 707,
+   "offset": 100457,
+   "text_jp": "J{214}Kは10として数え",
+   "translation_en": "whichever is more advantageous."
+  },
+  {
+   "id": 708,
+   "offset": 100478,
+   "text_jp": "Aは1または11のどちらかに",
+   "translation_en": "After the player STANDs, the dealer draws cards."
+  },
+  {
+   "id": 709,
+   "offset": 100498,
+   "text_jp": "数えます",
+   "translation_en": "As long as the player's total"
+  },
+  {
+   "id": 710,
+   "offset": 100507,
+   "text_jp": "プレイヤ{204}がSTANDした後にディ{204}ラ{204}がカ{204}ドを帆きます",
+   "translation_en": "does not exceed 21,"
+  },
+  {
+   "id": 711,
+   "offset": 100555,
+   "text_jp": "プレイヤ{204}の合計が21を",
+   "translation_en": "if your total is higher than the dealer's,"
+  },
+  {
+   "id": 712,
+   "offset": 100575,
+   "text_jp": "超えない虻囲で",
+   "translation_en": "or if the dealer busts,"
+  },
+  {
+   "id": 713,
+   "offset": 100587,
+   "text_jp": "ディ{204}ラ{204}より合計が大きいか",
+   "translation_en": "the player wins."
+  },
+  {
+   "id": 714,
+   "offset": 100612,
+   "text_jp": "ディ{204}ラ{204}がバ{204}ストすれば",
+   "translation_en": "If both player and dealer"
+  },
+  {
+   "id": 715,
+   "offset": 100633,
+   "text_jp": "プレイヤ{204}の勝ちとなります",
+   "translation_en": "have Blackjack (Push),"
+  },
+  {
+   "id": 716,
+   "offset": 100685,
+   "text_jp": "両方とも",
+   "translation_en": "the bet"
+  },
+  {
+   "id": 717,
+   "offset": 100693,
+   "text_jp": "ブラックジャックの場合は",
+   "translation_en": "is returned."
+  },
+  {
+   "id": 718,
+   "offset": 100726,
+   "text_jp": "ベットした",
+   "translation_en": "In addition to HIT and STAND,"
+  },
+  {
+   "id": 719,
+   "offset": 100735,
+   "text_jp": "コインは返却されます",
+   "translation_en": "the player may also choose"
+  },
+  {
+   "id": 720,
+   "offset": 100754,
+   "text_jp": "プレイヤ{204}はHITと",
+   "translation_en": "\"DOUBLE DOWN\" or \"SPLIT\"."
+  },
+  {
+   "id": 721,
+   "offset": 100771,
+   "text_jp": "STANDのほかに",
+   "translation_en": "DOUBLE DOWN can only be performed"
+  },
+  {
+   "id": 722,
+   "offset": 100808,
+   "text_jp": "｜SPRIT』を行なう事が",
+   "translation_en": "when you have exactly 2 cards."
+  },
+  {
+   "id": 724,
+   "offset": 100901,
+   "text_jp": "プレイヤ{204}の手札が2杖の",
+   "translation_en": "Double your bet and draw exactly one card."
+  },
+  {
+   "id": 725,
+   "offset": 100921,
+   "text_jp": "時にのみ行なえます",
+   "translation_en": "If you do not have enough coins to match your bet,"
+  },
+  {
+   "id": 726,
+   "offset": 100982,
+   "text_jp": "ベットを佶掛けします",
+   "translation_en": "it cannot be performed."
+  },
+  {
+   "id": 727,
+   "offset": 101004,
+   "text_jp": "手持ちのコインの杖数がベットより少ない場合は",
+   "translation_en": "If you win after Double Down,"
+  },
+  {
+   "id": 728,
+   "offset": 101037,
+   "text_jp": "行なえません",
+   "translation_en": "the payout is doubled."
+  },
+  {
+   "id": 729,
+   "offset": 101061,
+   "text_jp": "DOWNを行ってディ{204}ラ{204}に勝った場合は",
+   "translation_en": "SPLIT can be performed when the player's initial 2 cards"
+  },
+  {
+   "id": 730,
+   "offset": 101095,
+   "text_jp": "配当が2佶になります",
+   "translation_en": "have the same numerical value."
+  },
+  {
+   "id": 731,
+   "offset": 101172,
+   "text_jp": "プレイヤ{204}に最枌に配られた",
+   "translation_en": "Split into two separate hands"
+  },
+  {
+   "id": 732,
+   "offset": 101192,
+   "text_jp": "2杖のカ{204}ドがそれぞれ同じ数字だった場合に行なえます",
+   "translation_en": "and play each independently."
+  },
+  {
+   "id": 733,
+   "offset": 101232,
+   "text_jp": "2杖のカ{204}ドを1杖ずつ分散させ2箇斯にわけて",
+   "translation_en": "Even after a SPLIT,"
+  },
+  {
+   "id": 734,
+   "offset": 101267,
+   "text_jp": "ゲ{204}ムを行ないます",
+   "translation_en": "you may still DOUBLE DOWN"
+  },
+  {
+   "id": 737,
+   "offset": 101334,
+   "text_jp": "SPRITした場合でも",
+   "translation_en": "on each hand."
+  },
+  {
+   "id": 738,
+   "offset": 101354,
+   "text_jp": "各箇斯でD{205}DOWNを",
+   "translation_en": "After a SPLIT,"
+  },
+  {
+   "id": 739,
+   "offset": 101376,
+   "text_jp": "行なう事ができます",
+   "translation_en": "an Ace and a 10-K"
+  },
+  {
+   "id": 740,
+   "offset": 101395,
+   "text_jp": "SPRITした場合は",
+   "translation_en": "counts as 21,"
+  },
+  {
+   "id": 741,
+   "offset": 101419,
+   "text_jp": "Aと10{214}Kの",
+   "translation_en": "not a natural Blackjack."
+  },
+  {
+   "id": 742,
+   "offset": 101433,
+   "text_jp": "租み合わせが禾ても",
+   "translation_en": "[About INSURANCE]"
+  },
+  {
+   "id": 743,
+   "offset": 101460,
+   "text_jp": "JACKにはならず21に数えられます",
+   "translation_en": "A form of insurance offered when"
+  },
+  {
+   "id": 744,
+   "offset": 101491,
+   "text_jp": "ｊINSURANCEについて】",
+   "translation_en": "the dealer's upcard is an Ace,"
+  },
+  {
+   "id": 745,
+   "offset": 101557,
+   "text_jp": "一僮の懌険のようなもので",
+   "translation_en": "prompting if you wish to buy Insurance."
+  },
+  {
+   "id": 746,
+   "offset": 101577,
+   "text_jp": "ディ{204}ラ{204}の最枌のカ{204}ドが",
+   "translation_en": "Select \"NO\" if you do not wish to buy Insurance;"
+  },
+  {
+   "id": 747,
+   "offset": 101610,
+   "text_jp": "聞いかけてきます",
+   "translation_en": "the game proceeds normally."
+  },
+  {
+   "id": 748,
+   "offset": 101657,
+   "text_jp": "しない場合はNOを",
+   "translation_en": "The game proceeds as usual."
+  },
+  {
+   "id": 749,
+   "offset": 101672,
+   "text_jp": "選拆してください",
+   "translation_en": "Pay half your original bet"
+  },
+  {
+   "id": 750,
+   "offset": 101701,
+   "text_jp": "僵寅どうりゲ{204}ム進行します",
+   "translation_en": "as the Insurance fee."
+  },
+  {
+   "id": 751,
+   "offset": 101745,
+   "text_jp": "懌険粁としてBET顳の幸分を",
+   "translation_en": "If the dealer's hole card is 10-K"
+  },
+  {
+   "id": 752,
+   "offset": 101770,
+   "text_jp": "支払います",
+   "translation_en": "(i.e., Dealer has Blackjack),"
+  },
+  {
+   "id": 753,
+   "offset": 101785,
+   "text_jp": "ディ{204}ラ{204}のもう一杖のカ{204}ドが10{214}Kのとき",
+   "translation_en": "your main bet is lost, but insurance pays 2:1,"
+  },
+  {
+   "id": 754,
+   "offset": 101823,
+   "text_jp": "つまりブラックジャックの場合",
+   "translation_en": "and the round ends."
+  },
+  {
+   "id": 755,
+   "offset": 101846,
+   "text_jp": "BET顳は没収されますが",
+   "translation_en": "If the dealer's card"
+  },
+  {
+   "id": 756,
+   "offset": 101896,
+   "text_jp": "そこでゲ{204}ム終了します",
+   "translation_en": "is not a 10-value card (A-9),"
+  },
+  {
+   "id": 757,
+   "offset": 101918,
+   "text_jp": "ディ{204}ラ{204}のカ{204}ドが",
+   "translation_en": "the insurance fee is forfeited,"
+  },
+  {
+   "id": 758,
+   "offset": 101936,
+   "text_jp": "A{214}9の場合は",
+   "translation_en": "and the hand continues normally."
+  },
+  {
+   "id": 759,
+   "offset": 101952,
+   "text_jp": "懌険粁が没収され",
+   "translation_en": "HIT: Draw another card."
+  },
+  {
+   "id": 760,
+   "offset": 101967,
+   "text_jp": "僵寅どうりにゲ{204}ム進行します",
+   "translation_en": "STAND: End your turn."
+  },
+  {
+   "id": 762,
+   "offset": 102094,
+   "text_jp": "HITします",
+   "translation_en": "DOUBLE DOWN: Double bet and draw one card."
+  },
+  {
+   "id": 765,
+   "offset": 102220,
+   "text_jp": "STANDします",
+   "translation_en": "SPLIT: Split matching pair into two hands."
+  },
+  {
+   "id": 766,
+   "offset": 102351,
+   "text_jp": "DOWNします",
+   "translation_en": "(Only when Split is available)"
+  },
+  {
+   "id": 769,
+   "offset": 102478,
+   "text_jp": "SPRITします",
+   "translation_en": "Exit the game."
+  },
+  {
+   "id": 770,
+   "offset": 102493,
+   "text_jp": "(SPRITできる場合のみ)",
+   "translation_en": "Player total is higher than dealer's"
+  },
+  {
+   "id": 772,
+   "offset": 102764,
+   "text_jp": "ゲ{204}ムを終了します",
+   "translation_en": "or dealer busts (Pays 1:1)."
+  },
+  {
+   "id": 775,
+   "offset": 102960,
+   "text_jp": "ディ{204}ラ{204}の合計より大きいか",
+   "translation_en": "Ace plus 10-K natural Blackjack"
+  },
+  {
+   "id": 776,
+   "offset": 102983,
+   "text_jp": "ディ{204}ラ{204}がバ{204}ストした場合",
+   "translation_en": "(Pays 3:2)."
+  },
+  {
+   "id": 777,
+   "offset": 103050,
+   "text_jp": "Aと10{214}Kのいづれかの",
+   "translation_en": "(Automatically STANDs)"
+  },
+  {
+   "id": 778,
+   "offset": 103071,
+   "text_jp": "2杖の租み合わせ",
+   "translation_en": "In the event of a SPLIT:"
+  },
+  {
+   "id": 779,
+   "offset": 103085,
+   "text_jp": "(自激吋にSTANDされます)",
+   "translation_en": "Drawing 6 cards without busting"
+  },
+  {
+   "id": 780,
+   "offset": 103112,
+   "text_jp": "SPRITした場合には",
+   "translation_en": "and standing (6-Card Charlie)"
+  },
+  {
+   "id": 782,
+   "offset": 103188,
+   "text_jp": "カ{204}ドを6杖帆いた時息で",
+   "translation_en": "pays out a special bonus."
+  },
+  {
+   "id": 783,
+   "offset": 103209,
+   "text_jp": "21を超えていない秡怒で",
+   "translation_en": "Drawing 7 cards without busting"
+  },
+  {
+   "id": 784,
+   "offset": 103230,
+   "text_jp": "STANDした場合",
+   "translation_en": "(7-Card Charlie) wins automatically."
+  },
+  {
+   "id": 785,
+   "offset": 103266,
+   "text_jp": "カ{204}ドを7杖帆いた時息で",
+   "translation_en": "Blackjack formed with Ace and Jack"
+  },
+  {
+   "id": 786,
+   "offset": 103287,
+   "text_jp": "21を超えていない場合",
+   "translation_en": "of the same suit"
+  },
+  {
+   "id": 788,
+   "offset": 103352,
+   "text_jp": "AとJのブラックジャックで",
+   "translation_en": "(Spades, Diamonds, or Clubs)."
+  },
+  {
+   "id": 789,
+   "offset": 103374,
+   "text_jp": "カ{204}ドのマ{204}クが2杖とも",
+   "translation_en": "Blackjack with Ace and Jack of Hearts."
+  },
+  {
+   "id": 790,
+   "offset": 103395,
+   "text_jp": "鷺か疊か驀である場合",
+   "translation_en": "Initial 2 cards dealt are both 7s,"
+  },
+  {
+   "id": 793,
+   "offset": 103469,
+   "text_jp": "蠱である場合",
+   "translation_en": "and drawing a 3rd card on HIT"
+  },
+  {
+   "id": 794,
+   "offset": 103492,
+   "text_jp": "配られたカ{204}ドが2杖とも",
+   "translation_en": "results in 7-7-7 (Triple Seven)."
+  },
+  {
+   "id": 795,
+   "offset": 103515,
+   "text_jp": "3杖目をHITして",
+   "translation_en": "A slot machine composed of"
+  },
+  {
+   "id": 796,
+   "offset": 103534,
+   "text_jp": "旻に7を帆いた場合",
+   "translation_en": "16 small reels around a big center reel."
+  },
+  {
+   "id": 802,
+   "offset": 103933,
+   "text_jp": "小ドラム16茴で楫成された",
+   "translation_en": "Depending on the number of coins bet,"
+  },
+  {
+   "id": 803,
+   "offset": 103955,
+   "text_jp": "スロットマシンです",
+   "translation_en": "the number of active paylines"
+  },
+  {
+   "id": 804,
+   "offset": 103969,
+   "text_jp": "ベットしたコインの杖数により",
+   "translation_en": "increases."
+  },
+  {
+   "id": 805,
+   "offset": 103989,
+   "text_jp": "当てるラインの数が",
+   "translation_en": "You can bet up to"
+  },
+  {
+   "id": 806,
+   "offset": 104002,
+   "text_jp": "塘えていきます",
+   "translation_en": "a maximum of 8 Coins."
+  },
+  {
+   "id": 807,
+   "offset": 104014,
+   "text_jp": "コインは最高8杖まで",
+   "translation_en": "Bets 3, 4, 7, 8 activate vertical paylines,"
+  },
+  {
+   "id": 808,
+   "offset": 104030,
+   "text_jp": "ベットする事ができます",
+   "translation_en": "each adding winning lines."
+  },
+  {
+   "id": 809,
+   "offset": 104072,
+   "text_jp": "ベット3'4'7'8はタテが",
+   "translation_en": "Each bet activates 2 paylines."
+  },
+  {
+   "id": 810,
+   "offset": 104097,
+   "text_jp": "それぞれの利吏ラインになります",
+   "translation_en": "When the game starts,"
+  },
+  {
+   "id": 811,
+   "offset": 104135,
+   "text_jp": "1ベットで2本の",
+   "translation_en": "all reels begin spinning."
+  },
+  {
+   "id": 812,
+   "offset": 104150,
+   "text_jp": "利吏ラインがあります",
+   "translation_en": "After spinning for a certain duration,"
+  },
+  {
+   "id": 813,
+   "offset": 104166,
+   "text_jp": "ゲ{204}ムスタ{204}トすると",
+   "translation_en": "the small outer reels stop first."
+  },
+  {
+   "id": 814,
+   "offset": 104188,
+   "text_jp": "全てのドラムが",
+   "translation_en": "(The big center reel continues spinning.)"
+  },
+  {
+   "id": 815,
+   "offset": 104199,
+   "text_jp": "日り始めます",
+   "translation_en": "Use Circle, Cross, Triangle, and Square buttons"
+  },
+  {
+   "id": 816,
+   "offset": 104211,
+   "text_jp": "ドラムがある榲痍日転した斯で",
+   "translation_en": "to rotate small reel positions clockwise."
+  },
+  {
+   "id": 817,
+   "offset": 104233,
+   "text_jp": "小ドラムが旡に渟止します",
+   "translation_en": "Shift the small reels skillfully"
+  },
+  {
+   "id": 818,
+   "offset": 104252,
+   "text_jp": "(大ドラムは日り轅けています)",
+   "translation_en": "to align matching symbols easily."
+  },
+  {
+   "id": 819,
+   "offset": 104277,
+   "text_jp": "Ｏ'Ｋ'∧'冂の各ボタンを",
+   "translation_en": "Adjust them carefully."
+  },
+  {
+   "id": 820,
+   "offset": 104319,
+   "text_jp": "時計日りに位置をずらします",
+   "translation_en": "When finished adjusting small reels,"
+  },
+  {
+   "id": 821,
+   "offset": 104341,
+   "text_jp": "小ドラムをうまくずらして",
+   "translation_en": "press R1 or R2"
+  },
+  {
+   "id": 822,
+   "offset": 104357,
+   "text_jp": "槙柯がそろいやすいように",
+   "translation_en": "to stop the big center reel."
+  },
+  {
+   "id": 823,
+   "offset": 104373,
+   "text_jp": "諢筒して下さい",
+   "translation_en": "Along an active payline,"
+  },
+  {
+   "id": 824,
+   "offset": 104387,
+   "text_jp": "小ドラムの諢筒が終了したら",
+   "translation_en": "if 3 or more matching symbols line up,"
+  },
+  {
+   "id": 825,
+   "offset": 104408,
+   "text_jp": "R1かR2ボタンを掫すと",
+   "translation_en": "it is a win!"
+  },
+  {
+   "id": 826,
+   "offset": 104428,
+   "text_jp": "大ドラムがストップします",
+   "translation_en": "Bets 1-4 can line up to 5 symbols;"
+  },
+  {
+   "id": 827,
+   "offset": 104448,
+   "text_jp": "ベットしたライン部に",
+   "translation_en": "bets 5-8 can line up to 4 symbols."
+  },
+  {
+   "id": 828,
+   "offset": 104463,
+   "text_jp": "槙柯が3つ以部つながって",
+   "translation_en": "If the big center reel matches"
+  },
+  {
+   "id": 829,
+   "offset": 104482,
+   "text_jp": "並んでいれば当たりです",
+   "translation_en": "diagonals, 4 corners, or all positions,"
+  },
+  {
+   "id": 830,
+   "offset": 104499,
+   "text_jp": "ベット1{214}4は最高で5つ",
+   "translation_en": "it counts as a special win regardless of paylines."
+  },
+  {
+   "id": 831,
+   "offset": 104521,
+   "text_jp": "ベット5{214}8は最高で4つ",
+   "translation_en": "Center reel special wins"
+  },
+  {
+   "id": 832,
+   "offset": 104543,
+   "text_jp": "それぞれ並びます",
+   "translation_en": "multiply the payout by the number of coins bet."
+  },
+  {
+   "id": 833,
+   "offset": 104559,
+   "text_jp": "大ドラムの槙柯が",
+   "translation_en": "Bet 1 Coin."
+  },
+  {
+   "id": 834,
+   "offset": 104573,
+   "text_jp": "斜め'4隅'全てのいづれかに",
+   "translation_en": "Rotate the right 4 small reels."
+  },
+  {
+   "id": 835,
+   "offset": 104603,
+   "text_jp": "ベットしたラインに関係なく",
+   "translation_en": "Rotate the bottom 4 small reels."
+  },
+  {
+   "id": 836,
+   "offset": 104622,
+   "text_jp": "当たりとなります",
+   "translation_en": "Rotate the top 4 small reels."
+  },
+  {
+   "id": 837,
+   "offset": 104635,
+   "text_jp": "大ドラムでの当たりは",
+   "translation_en": "Rotate the left 4 small reels."
+  },
+  {
+   "id": 838,
+   "offset": 104650,
+   "text_jp": "配当がベット数ぶん佶塘されます",
+   "translation_en": "Stop the big center reel."
+  },
+  {
+   "id": 839,
+   "offset": 104746,
+   "text_jp": "コインを1杖ベットします",
+   "translation_en": "Each slot machine has different symbols"
+  },
+  {
+   "id": 840,
+   "offset": 104784,
+   "text_jp": "小ドラムの右4つを",
+   "translation_en": "that hit more frequently."
+  },
+  {
+   "id": 841,
+   "offset": 104799,
+   "text_jp": "日転させます",
+   "translation_en": "Instead of sticking to one machine,"
+  },
+  {
+   "id": 844,
+   "offset": 104929,
+   "text_jp": "小ドラムの下4つを",
+   "translation_en": "trying out various machines is recommended."
+  },
+  {
+   "id": 846,
+   "offset": 105057,
+   "text_jp": "小ドラムの部4つを",
+   "translation_en": "During the game, it is easy to forget"
+  },
+  {
+   "id": 850,
+   "offset": 105196,
+   "text_jp": "小ドラムの左4つを",
+   "translation_en": "to rotate the small reels, so stay sharp."
+  },
+  {
+   "id": 853,
+   "offset": 105367,
+   "text_jp": "大ドラムをストップさせます",
+   "translation_en": "Skilled rotation of small reels is the key to multiplying your coins."
+  },
+  {
+   "id": 855,
+   "offset": 105651,
+   "text_jp": "台によって当たりやすい槙柯が",
+   "translation_en": "Playing with low bets"
+  },
+  {
+   "id": 856,
+   "offset": 105671,
+   "text_jp": "異なっています",
+   "translation_en": "means missing out on huge jackpots."
+  },
+  {
+   "id": 857,
+   "offset": 105683,
+   "text_jp": "一つの台にこだわらず",
+   "translation_en": "Always challenging with 8 BET (Max Bet)"
+  },
+  {
+   "id": 858,
+   "offset": 105697,
+   "text_jp": "いろいろな台を試してみるのが",
+   "translation_en": "is the most rewarding approach."
+  },
+  {
+   "id": 859,
+   "offset": 105729,
+   "text_jp": "ゲ{204}ム宇は小ドラムの",
+   "translation_en": "Two dice are rolled on screen,"
+  },
+  {
+   "id": 860,
+   "offset": 105746,
+   "text_jp": "日転をわすれがちになりますので住意してください",
+   "translation_en": "and you wager on"
+  },
+  {
+   "id": 861,
+   "offset": 105777,
+   "text_jp": "小ドラムをうまく諢螯することが手持ちコインを塘やす龝訣です",
+   "translation_en": "the predicted total sum."
+  },
+  {
+   "id": 862,
+   "offset": 105822,
+   "text_jp": "すくないBETで勝莫を",
+   "translation_en": "You may bet on multiple outcomes per game,"
+  },
+  {
+   "id": 863,
+   "offset": 105845,
+   "text_jp": "いざという時に",
+   "translation_en": "up to a maximum of 100 bets"
+  },
+  {
+   "id": 864,
+   "offset": 105855,
+   "text_jp": "大掲をしてしまいます",
+   "translation_en": "per betting spot."
+  },
+  {
+   "id": 865,
+   "offset": 105871,
+   "text_jp": "寅に8BET(フルベット)で",
+   "translation_en": "If the dice roll matches your bet,"
+  },
+  {
+   "id": 866,
+   "offset": 105896,
+   "text_jp": "挑むのが箕いでしょう",
+   "translation_en": "you win a payout based on the odds multiplier."
+  },
+  {
+   "id": 872,
+   "offset": 106280,
+   "text_jp": "画面部にサイコロが2茴",
+   "translation_en": "You can also wager your winnings to challenge the Extra Game."
+  },
+  {
+   "id": 873,
+   "offset": 106307,
+   "text_jp": "その合計を",
+   "translation_en": "Instead of \"guessing the exact total\","
+  },
+  {
+   "id": 874,
+   "offset": 106316,
+   "text_jp": "斈駸するゲ{204}ムです",
+   "translation_en": "\"as long as the total is not 7,"
+  },
+  {
+   "id": 875,
+   "offset": 106366,
+   "text_jp": "1ゲ{204}ムで何箇斯睹けても楫いませんが",
+   "translation_en": "any other total wins!\""
+  },
+  {
+   "id": 876,
+   "offset": 106396,
+   "text_jp": "1箇斯につき最高100ベット",
+   "translation_en": "is the rule of this game."
+  },
+  {
+   "id": 877,
+   "offset": 106422,
+   "text_jp": "迄となります",
+   "translation_en": "(Payouts vary depending on"
+  },
+  {
+   "id": 878,
+   "offset": 106433,
+   "text_jp": "サイコロの合計傴に",
+   "translation_en": "the total roll.)"
+  },
+  {
+   "id": 879,
+   "offset": 106447,
+   "text_jp": "ベットしていた場合当たりとなり佶率に応じた配当を得られます",
+   "translation_en": "If a 7 appears, the game ends"
+  },
+  {
+   "id": 880,
+   "offset": 106494,
+   "text_jp": "当たった時の配当を睹けてエクストラゲ{204}ムに挑貰する事もできます",
+   "translation_en": "and all bets are lost, so beware."
+  },
+  {
+   "id": 881,
+   "offset": 106552,
+   "text_jp": "｜合計傴を当てる』",
+   "translation_en": "[When Total Wins]"
+  },
+  {
+   "id": 882,
+   "offset": 106569,
+   "text_jp": "のではなく",
+   "translation_en": "Challenge the Extra Game."
+  },
+  {
+   "id": 883,
+   "offset": 106578,
+   "text_jp": "｜合計が7さえ申なければ",
+   "translation_en": "Select betting spots."
+  },
+  {
+   "id": 884,
+   "offset": 106597,
+   "text_jp": "どの合計傴でも当たり』",
+   "translation_en": "Totals closer to 7"
+  },
+  {
+   "id": 885,
+   "offset": 106615,
+   "text_jp": "というゲ{204}ムです",
+   "translation_en": "occur with higher mathematical probability."
+  },
+  {
+   "id": 886,
+   "offset": 106629,
+   "text_jp": "(合計傴によって配当は",
+   "translation_en": "Betting more on numbers near 7"
+  },
+  {
+   "id": 887,
+   "offset": 106648,
+   "text_jp": "異なります)",
+   "translation_en": "and less on numbers near 2 and 12"
+  },
+  {
+   "id": 888,
+   "offset": 106664,
+   "text_jp": "7が申たら終わりとなり",
+   "translation_en": "is a solid strategy."
+  },
+  {
+   "id": 890,
+   "offset": 106700,
+   "text_jp": "なりますので住意して下さい",
+   "translation_en": "In the Extra Game, a loss"
+  },
+  {
+   "id": 892,
+   "offset": 106839,
+   "text_jp": "{211}合計傴が当たった場合爻",
+   "translation_en": "forfeits all acquired coins,"
+  },
+  {
+   "id": 893,
+   "offset": 106861,
+   "text_jp": "エクストラゲ{204}ムに挑貰します",
+   "translation_en": "so avoiding greed and cashing out moderately"
+  },
+  {
+   "id": 914,
+   "offset": 108055,
+   "text_jp": "睹ける箇斯を選拆します",
+   "translation_en": "is the secret to not losing out."
+  },
+  {
+   "id": 917,
+   "offset": 108181,
+   "text_jp": "7に近い数ほど",
+   "translation_en": "Numbers 1-9 are arranged in a hidden sequence."
+  },
+  {
+   "id": 918,
+   "offset": 108205,
+   "text_jp": "そのぶん7に近い数が申やすくなっています",
+   "translation_en": "Guess the secret sequence"
+  },
+  {
+   "id": 919,
+   "offset": 108237,
+   "text_jp": "7に近い数は多めに",
+   "translation_en": "of randomly placed numbers."
+  },
+  {
+   "id": 920,
+   "offset": 108252,
+   "text_jp": "2や12に近い数は少なめに",
+   "translation_en": "Great prizes"
+  },
+  {
+   "id": 921,
+   "offset": 108273,
+   "text_jp": "睹けるのが堅実でしょう",
+   "translation_en": "can be won!"
+  },
+  {
+   "id": 922,
+   "offset": 108294,
+   "text_jp": "エクストラゲ{204}ムでは",
+   "translation_en": "If you fail to guess within the turn limit, it is Game Over."
+  },
+  {
+   "id": 923,
+   "offset": 108319,
+   "text_jp": "梗得コインが全て没収されてしまいますので",
+   "translation_en": "Turns correspond to the RESULT entries."
+  },
+  {
+   "id": 924,
+   "offset": 108348,
+   "text_jp": "歓を申さずに適痍なところで",
+   "translation_en": "If your entered"
+  },
+  {
+   "id": 925,
+   "offset": 108367,
+   "text_jp": "やめるのが掲をしないコツです",
+   "translation_en": "guess is incorrect,"
+  },
+  {
+   "id": 931,
+   "offset": 108788,
+   "text_jp": "1{214}9の数字がバラバラに配置されています",
+   "translation_en": "it will be logged sequentially,"
+  },
+  {
+   "id": 932,
+   "offset": 108821,
+   "text_jp": "バラバラに配置されている数の",
+   "translation_en": "so use it as a reference for your next guess."
+  },
+  {
+   "id": 933,
+   "offset": 108842,
+   "text_jp": "配列を当てて下さい",
+   "translation_en": "Above the input area,"
+  },
+  {
+   "id": 934,
+   "offset": 108869,
+   "text_jp": "いい贊品が",
+   "translation_en": "indicators show selected numbers."
+  },
+  {
+   "id": 935,
+   "offset": 108878,
+   "text_jp": "亶えます",
+   "translation_en": "Selected numbers light up while unselected remain dark; refer to the lights"
+  },
+  {
+   "id": 936,
+   "offset": 108887,
+   "text_jp": "嶋吏日数以内に答えられない場合ゲ{204}ムオ{204}バ{204}となります",
+   "translation_en": "to ensure digits 1-9 do not duplicate"
+  },
+  {
+   "id": 937,
+   "offset": 108953,
+   "text_jp": "｜RESULT』の茴数分です",
+   "translation_en": "and are distributed evenly."
+  },
+  {
+   "id": 938,
+   "offset": 109000,
+   "text_jp": "入力した",
+   "translation_en": "Check this display carefully."
+  },
+  {
+   "id": 939,
+   "offset": 109008,
+   "text_jp": "答えがハズれた場合",
+   "translation_en": "This game uses \"Metal Cards\" rather than Coins."
+  },
+  {
+   "id": 940,
+   "offset": 109023,
+   "text_jp": "順坎に霄込まれますので",
+   "translation_en": "Decrease the number"
+  },
+  {
+   "id": 941,
+   "offset": 109042,
+   "text_jp": "坎の解答時の参考にして下さい",
+   "translation_en": "highlighted by the cursor."
+  },
+  {
+   "id": 942,
+   "offset": 109070,
+   "text_jp": "入力箇斯の部に表示",
+   "translation_en": "Change the color (mark) of the cursor-selected number."
+  },
+  {
+   "id": 943,
+   "offset": 109088,
+   "text_jp": "されている",
+   "translation_en": "Use this as a reminder when you"
+  },
+  {
+   "id": 944,
+   "offset": 109118,
+   "text_jp": "各数字が選拆されていると息灯しそうでない場合は消灯しますので各数字の息灯を参阻して",
+   "translation_en": "determine \"This number is confirmed\"."
+  },
+  {
+   "id": 945,
+   "offset": 109181,
+   "text_jp": "1{214}9の数字がダブらず",
+   "translation_en": "Increase the number highlighted by cursor."
+  },
+  {
+   "id": 946,
+   "offset": 109201,
+   "text_jp": "均一に剴り掘られているかを",
+   "translation_en": "Move cursor."
+  },
+  {
+   "id": 947,
+   "offset": 109220,
+   "text_jp": "この表示でチェックして下さい",
+   "translation_en": "The crucial point in this game"
+  },
+  {
+   "id": 948,
+   "offset": 109246,
+   "text_jp": "このゲ{204}ムはコインでなく｜メタルカ{204}ド』を払注します",
+   "translation_en": "is identifying numbers that hit (H) in both rows."
+  },
+  {
+   "id": 949,
+   "offset": 109379,
+   "text_jp": "カ{204}ソルの指している数字を",
+   "translation_en": "Positions that hit in both rows"
+  },
+  {
+   "id": 950,
+   "offset": 109398,
+   "text_jp": "倡い方へ変旻します",
+   "translation_en": "should tentatively"
+  },
+  {
+   "id": 951,
+   "offset": 109510,
+   "text_jp": "カ{204}ソルの指している数字の色を変旻(マ{204}ク)します",
+   "translation_en": "be marked."
+  },
+  {
+   "id": 952,
+   "offset": 109549,
+   "text_jp": "｜ここの数字は曜吏した』と",
+   "translation_en": "Past inputs shown in RESULT are major clues,"
+  },
+  {
+   "id": 953,
+   "offset": 109570,
+   "text_jp": "利剖した鵙の目卯にして下さい",
+   "translation_en": "so refer to them diligently."
+  },
+  {
+   "id": 955,
+   "offset": 109708,
+   "text_jp": "高い方へ変旻します",
+   "translation_en": "Displayed below."
+  },
+  {
+   "id": 961,
+   "offset": 110248,
+   "text_jp": "カ{204}ソルを移激させます",
+   "translation_en": "Awakened to gambling, have you?"
+  },
+  {
+   "id": 962,
+   "offset": 110268,
+   "text_jp": "このゲ{204}ムで重要なところは",
+   "translation_en": "Are they not thinking about anything,"
+  },
+  {
+   "id": 963,
+   "offset": 110294,
+   "text_jp": "両方の列でヒット(H)している斯を見据める事です",
+   "translation_en": "or just clueless? I have no idea."
+  },
+  {
+   "id": 964,
+   "offset": 110333,
+   "text_jp": "両方の列でヒットしている斯を",
+   "translation_en": "Just leave 'em be."
+  },
+  {
+   "id": 965,
+   "offset": 110361,
+   "text_jp": "とりあえず",
+   "translation_en": "They'll disappear soon enough."
+  },
+  {
+   "id": 966,
+   "offset": 110368,
+   "text_jp": "マ{204}クしておきましょう",
+   "translation_en": "Playing slots and stuff"
+  },
+  {
+   "id": 967,
+   "offset": 110387,
+   "text_jp": "過去の入力を表示しているRESULTも大きなヒントに",
+   "translation_en": "should wait until after we visit the hospital!"
+  },
+  {
+   "id": 968,
+   "offset": 110435,
+   "text_jp": "参考にして下さい",
+   "translation_en": "Because we have to go."
+  },
+  {
+   "id": 998,
+   "offset": 116823,
+   "text_jp": "おはに表示されます",
+   "translation_en": "Nothing but weirdos in here."
+  },
+  {
+   "id": 1111,
+   "offset": 132382,
+   "text_jp": "ギャンブルに目覚めたか?",
+   "translation_en": "I don't wanna nag,"
+  },
+  {
+   "id": 1112,
+   "offset": 132428,
+   "text_jp": "何も考えてないのか",
+   "translation_en": "but don't forget!"
+  },
+  {
+   "id": 1113,
+   "offset": 132452,
+   "text_jp": "箕く分からん",
+   "translation_en": "The air in here is terrible."
+  },
+  {
+   "id": 1114,
+   "offset": 132475,
+   "text_jp": "ほっときな",
+   "translation_en": "Uhyahyaha!"
+  },
+  {
+   "id": 1115,
+   "offset": 132491,
+   "text_jp": "消えるだろうよ",
+   "translation_en": "It ain't you guys,"
+  },
+  {
+   "id": 1116,
+   "offset": 132514,
+   "text_jp": "スロットとか",
+   "translation_en": "looks like!"
+  },
+  {
+   "id": 1117,
+   "offset": 132532,
+   "text_jp": "遊ぶのはやっぱ痞畭に行ってからだよな!",
+   "translation_en": "Ain't no demons here~"
+  },
+  {
+   "id": 1118,
+   "offset": 132597,
+   "text_jp": "行かなきゃならないからな",
+   "translation_en": "If they were demons,"
+  },
+  {
+   "id": 1119,
+   "offset": 132642,
+   "text_jp": "変な奴らばかりだね",
+   "translation_en": "I'd exterminate 'em good!"
+  },
+  {
+   "id": 1121,
+   "offset": 132680,
+   "text_jp": "しつこく言いたくは",
+   "translation_en": "Make 'em my"
+  },
+  {
+   "id": 1122,
+   "offset": 132697,
+   "text_jp": "忘れんじゃないよ",
+   "translation_en": "underlings, yeah!"
+  },
+  {
+   "id": 1123,
+   "offset": 132721,
+   "text_jp": "空気が悪いわ",
+   "translation_en": "Some outsider"
+  },
+  {
+   "id": 1124,
+   "offset": 132763,
+   "text_jp": "うひゃひゃひゃ!",
+   "translation_en": "seems to be barging in, ya know~"
+  },
+  {
+   "id": 1125,
+   "offset": 132780,
+   "text_jp": "アンらじゃねぇ",
+   "translation_en": "He's got a big scar across his forehead..."
+  },
+  {
+   "id": 1126,
+   "offset": 132789,
+   "text_jp": "みてぇらなぁ!",
+   "translation_en": "Pisses me off!"
+  },
+  {
+   "id": 1127,
+   "offset": 132816,
+   "text_jp": "アクマりゃないんらぁ",
+   "translation_en": "What should we do?"
+  },
+  {
+   "id": 1128,
+   "offset": 132837,
+   "text_jp": "アクマらったら",
+   "translation_en": "There's no way we can beat demons."
+  },
+  {
+   "id": 1129,
+   "offset": 132850,
+   "text_jp": "タイジしれやんのによぅ",
+   "translation_en": "I'm terrified..."
+  },
+  {
+   "id": 1130,
+   "offset": 132868,
+   "text_jp": "オレのてしたに",
+   "translation_en": "Don't chicken out on me!"
+  },
+  {
+   "id": 1131,
+   "offset": 132877,
+   "text_jp": "するんらぁ!",
+   "translation_en": "While they're away,"
+  },
+  {
+   "id": 1132,
+   "offset": 132921,
+   "text_jp": "よそモンが",
+   "translation_en": "it's up to you"
+  },
+  {
+   "id": 1133,
+   "offset": 132928,
+   "text_jp": "申入りしてるみてぇなんだよな{204}",
+   "translation_en": "to hold it down!"
+  },
+  {
+   "id": 1134,
+   "offset": 132955,
+   "text_jp": "顳に向こうキズがあるらしくてよぉ",
+   "translation_en": "Aaaand"
+  },
+  {
+   "id": 1135,
+   "offset": 132980,
+   "text_jp": "ムカつくぜぇ!",
+   "translation_en": "I blew it all again!"
+  },
+  {
+   "id": 1136,
+   "offset": 133001,
+   "text_jp": "どうしよう",
+   "translation_en": "When a jackpot hits,"
+  },
+  {
+   "id": 1137,
+   "offset": 133011,
+   "text_jp": "悪魔になんて勝てねぇよ",
+   "translation_en": "it's massive, huh...?"
+  },
+  {
+   "id": 1138,
+   "offset": 133037,
+   "text_jp": "怖えよぉ",
+   "translation_en": "Don't tell me you're"
+  },
+  {
+   "id": 1139,
+   "offset": 133066,
+   "text_jp": "びびってんじゃねぇぞ",
+   "translation_en": "gonna play next?!"
+  },
+  {
+   "id": 1140,
+   "offset": 133084,
+   "text_jp": "いねぇ間",
+   "translation_en": "I'm jealous!"
+  },
+  {
+   "id": 1141,
+   "offset": 133104,
+   "text_jp": "てめえに",
+   "translation_en": "Clerk: Welcomeeee~"
+  },
+  {
+   "id": 1142,
+   "offset": 133110,
+   "text_jp": "仕せてんだからよ",
+   "translation_en": "Exchange of money"
+  },
+  {
+   "id": 1143,
+   "offset": 133136,
+   "text_jp": "ま{204}た",
+   "translation_en": "for coins is handled here~"
+  },
+  {
+   "id": 1144,
+   "offset": 133142,
+   "text_jp": "スっちまったぜっ!",
+   "translation_en": "Would you like to exchange cash for coins?"
+  },
+  {
+   "id": 1145,
+   "offset": 133180,
+   "text_jp": "当たりが禾ると",
+   "translation_en": "Clerk: Over here,"
+  },
+  {
+   "id": 1146,
+   "offset": 133191,
+   "text_jp": "デカいってわけかぁ…",
+   "translation_en": "exchanging coins for items"
+  },
+  {
+   "id": 1147,
+   "offset": 133210,
+   "text_jp": "もしかしてオマエが",
+   "translation_en": "is handled..."
+  },
+  {
+   "id": 1148,
+   "offset": 133221,
+   "text_jp": "坎にやるつもりかよっ?",
+   "translation_en": "Currently under maintenance..."
+  },
+  {
+   "id": 1149,
+   "offset": 133241,
+   "text_jp": "恒しいぜっ!",
+   "translation_en": "Press Circle, Cross, Triangle, or Square."
+  },
+  {
+   "id": 1150,
+   "offset": 133256,
+   "text_jp": "店貢:いらっしゃいませぇ{204}",
+   "translation_en": "Cancel."
+  },
+  {
+   "id": 1151,
+   "offset": 133281,
+   "text_jp": "お舍とコインの",
+   "translation_en": "Exit Poker game."
+  },
+  {
+   "id": 1152,
+   "offset": 133297,
+   "text_jp": "行っておりますぅ{204}鷺",
+   "translation_en": "In this game,"
+  },
+  {
+   "id": 1153,
+   "offset": 133314,
+   "text_jp": "お舍をコインに替えますかぁ?",
+   "translation_en": "4 decks of cards (208 cards)"
+  },
+  {
+   "id": 1154,
+   "offset": 133340,
+   "text_jp": "店貢:こちらでは",
+   "translation_en": "are used,"
+  },
+  {
+   "id": 1155,
+   "offset": 133353,
+   "text_jp": "コインとアイテムの交換を",
+   "translation_en": "so 2 or more identical cards"
+  },
+  {
+   "id": 1156,
+   "offset": 133369,
+   "text_jp": "行っております…",
+   "translation_en": "may appear."
+  },
+  {
+   "id": 1157,
+   "offset": 133415,
+   "text_jp": "諢螯宇らしい…",
+   "translation_en": "Exit."
+  },
+  {
+   "id": 1169,
+   "offset": 134745,
+   "text_jp": "Ｏ'Ｋ'∧'冂のいずれかで",
+   "translation_en": "Either an Ace and a 10-K."
+  },
+  {
+   "id": 1219,
+   "offset": 136258,
+   "text_jp": "キャンセルします",
+   "translation_en": "Without exceeding 21."
+  },
+  {
+   "id": 1237,
+   "offset": 137388,
+   "text_jp": "ポ{204}カ{204}ゲ{204}ムを終了します",
+   "translation_en": "Diagonal, 4 corners, or all matching."
+  },
+  {
+   "id": 1346,
+   "offset": 142002,
+   "text_jp": "このゲ{204}ムでは",
+   "translation_en": "Exit Slot Machine."
+  },
+  {
+   "id": 1347,
+   "offset": 142013,
+   "text_jp": "4セットぶん(208杖)の",
+   "translation_en": "On the cursor-selected spot,"
+  },
+  {
+   "id": 1348,
+   "offset": 142036,
+   "text_jp": "カ{204}ドを払注していますので",
+   "translation_en": "bet 10 Coins."
+  },
+  {
+   "id": 1349,
+   "offset": 142057,
+   "text_jp": "同じカ{204}ドが2杖以部",
+   "translation_en": "On the cursor-selected spot,"
+  },
+  {
+   "id": 1350,
+   "offset": 142076,
+   "text_jp": "申てくる場合もあります",
+   "translation_en": "cancel all bet Coins."
+  },
+  {
+   "id": 1360,
+   "offset": 142840,
+   "text_jp": "終了します",
+   "translation_en": "Bet 100 Coins."
+  },
+  {
+   "id": 1365,
+   "offset": 143118,
+   "text_jp": "Aと10{214}Kのいずれかの",
+   "translation_en": "If Coins were bet."
+  },
+  {
+   "id": 1371,
+   "offset": 143277,
+   "text_jp": "21を超えずに",
+   "translation_en": "Exit Dice Game."
+  },
+  {
+   "id": 1422,
+   "offset": 148837,
+   "text_jp": "斜め'4隅'全てのいずれかに",
+   "translation_en": "Current Metal Card count is:"
+  },
+  {
+   "id": 1440,
+   "offset": 149705,
+   "text_jp": "スロットマシンを終了します",
+   "translation_en": "Exit Codebreaker."
+  },
+  {
+   "id": 1477,
+   "offset": 151010,
+   "text_jp": "カ{204}ソルが指している箇斯に",
+   "translation_en": "Reiji Kido"
+  },
+  {
+   "id": 1478,
+   "offset": 151029,
+   "text_jp": "コインを10杖ベットします",
+   "translation_en": "Rather than that,"
+  },
+  {
+   "id": 1482,
+   "offset": 151229,
+   "text_jp": "カ{204}ソルが指している箇斯の",
+   "translation_en": "he's just a stubborn punk."
+  },
+  {
+   "id": 1483,
+   "offset": 151248,
+   "text_jp": "コインを全てキャンセルします",
+   "translation_en": "One of your punk buddies?"
+  },
+  {
+   "id": 1490,
+   "offset": 151514,
+   "text_jp": "コインを100杖ベットします",
+   "translation_en": "...Huh?"
+  },
+  {
+   "id": 1497,
+   "offset": 151905,
+   "text_jp": "コインがベットされていた場合",
+   "translation_en": "A scar across his forehead..."
+  },
+  {
+   "id": 1501,
+   "offset": 152112,
+   "text_jp": "ダイスゲ{204}ムを終了します",
+   "translation_en": "That's definitely him."
+  },
+  {
+   "id": 1516,
+   "offset": 159072,
+   "text_jp": "現苟のメタルカ{204}ド杖数は",
+   "translation_en": "Exit game."
+  },
+  {
+   "id": 1550,
+   "offset": 160518,
+   "text_jp": "コ{204}ドブレイカ{204}を終了します",
+   "translation_en": "Done."
+  },
+  {
+   "id": 1559,
+   "offset": 167153,
+   "text_jp": "とた)",
+   "translation_en": "Kido"
+  },
+  {
+   "id": 1560,
+   "offset": 167751,
+   "text_jp": "と言うより",
+   "translation_en": "stubborn punk"
+  },
+  {
+   "id": 1561,
+   "offset": 167759,
+   "text_jp": "小角いだけだな",
+   "translation_en": "just a stubborn punk"
+  },
+  {
+   "id": 1562,
+   "offset": 167798,
+   "text_jp": "お前のチンピラ仲間か?",
+   "translation_en": "One of your punk buddies?"
+  },
+  {
+   "id": 1563,
+   "offset": 167839,
+   "text_jp": "…んぁ?",
+   "translation_en": "...Huh?"
+  },
+  {
+   "id": 1564,
+   "offset": 167847,
+   "text_jp": "顳に向こうキズってのは",
+   "translation_en": "A scar across his forehead..."
+  }
+ ]
+}

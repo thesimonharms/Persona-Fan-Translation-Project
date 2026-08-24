@@ -1,0 +1,2086 @@
+{
+ "file": "TALK/ZMBITYAN",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 26,
+   "raw_hex": "5683225c7f19826703333dfff6263182372f2e1502093d4c80d7",
+   "text_jp": "オ足サンの言うごど<PAGE>よぐ分がんないけどぉ…",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 1,
+   "offset": 8239,
+   "length_bytes": 50,
+   "raw_hex": "fffcfff6152e2f00020282ed354980d68705fff5808a7f8091392f274d3cfff66458808f80cc160084d32c15023c80d1fffc",
+   "text_jp": "<CLOSE><PAGE>なんが いい感じぃ{214}鷺<LINE>ゾンビだがらっで<PAGE>テキド{204}に 訪わないで!<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 2,
+   "offset": 8288,
+   "length_bytes": 42,
+   "raw_hex": "fff6527f808b4d13003a5041283e4880d1fff5332e1552808b5d2dfff682d282d3140d2981242f000239",
+   "text_jp": "<PAGE>アンダって ぢょべりばぁ!<LINE>ごんなアダシを<PAGE>必要とする人が いだ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 3,
+   "offset": 8330,
+   "length_bytes": 38,
+   "raw_hex": "152e13fff6809180a18083794980d680d1fff55683225c7f130082de83bc83341519184b80d7",
+   "text_jp": "なんて<PAGE>ビッグリぃ{214}!<LINE>オ足サンて 自信家なのねぇ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 4,
+   "offset": 8369,
+   "length_bytes": 44,
+   "raw_hex": "fff63c230082ca3909354e00392239268705fff53a5003212f3b0880d680d180d1fffcfff65683225c7f141a",
+   "text_jp": "<PAGE>でも 日だけじゃ だめだよ鷺<LINE>ぢょうむがづく{214}!!<CLOSE><PAGE>オ足サンとは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 5,
+   "offset": 8412,
+   "length_bytes": 32,
+   "raw_hex": "fff681b783361682f83e15022f274880d1fff5808a7f80911600838981dd3513",
+   "text_jp": "<PAGE>一緒に遊ばないがらぁ!<LINE>ゾンビに 挑芫じて",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 6,
+   "offset": 8445,
+   "length_bytes": 46,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff55683225c7f198267033314fff6263182372f2e1502093d4c80d7",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>オ足サンの言うごと<PAGE>よぐ分がんないけどぉ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 7,
+   "offset": 8491,
+   "length_bytes": 50,
+   "raw_hex": "fff652808b5d0084d32c2a13292039028705fff5808a7f8091392f274d3cfff66458808f80cc160084d32c15023c80d1fffc",
+   "text_jp": "<PAGE>アダシ 訪われてるみだい鷺<LINE>ゾンビだがらっで<PAGE>テキド{204}に 訪わないで!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 8,
+   "offset": 8540,
+   "length_bytes": 36,
+   "raw_hex": "fff6527f808b4d13003a5041283e4880d1fff582d6003a504d14833f023c292e3c4b80d7",
+   "text_jp": "<PAGE>アンダって ぢょべりばぁ!<LINE>今 ぢょっと念いでるんでぇ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 9,
+   "offset": 8576,
+   "length_bytes": 49,
+   "raw_hex": "fffcfff636021f0e80d62e80d780d780d7fff582de82372f00824f2f031f0219fff6382e15160082de83013539021980d0",
+   "text_jp": "<CLOSE><PAGE>ずいませ{214}ん………<LINE>自分が 歌がうまいの<PAGE>ぞんなに 自慢じだいの?",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 10,
+   "offset": 8626,
+   "length_bytes": 37,
+   "raw_hex": "fffcfff6527f808b4d1300751575808d80d1fff55280d752808b5d1981fc303c1084b52628",
+   "text_jp": "<CLOSE><PAGE>アンダって ヤなヤヅ!<LINE>ア…アダシの生ぎでた頃より",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 11,
+   "offset": 8662,
+   "length_bytes": 40,
+   "raw_hex": "fff6822b832f1581242f0210152e1380d7fff51d4d10310f4c80d680d1fffcfff6808a7f80911952",
+   "text_jp": "<PAGE>下手な人がいたなんて…<LINE>へったぐそぉ{214}!<CLOSE><PAGE>ゾンビのア",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 12,
+   "offset": 8702,
+   "length_bytes": 47,
+   "raw_hex": "808b5d1981662ffff6031f02354e2e80d1fff55685855c7f198267033314fff6263182372f2e1502093d4c80d7fffc",
+   "text_jp": "ダシの方が<PAGE>うまいじゃん!<LINE>オ揶サンの言うごと<PAGE>よぐ分がんないけどぉ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 13,
+   "offset": 8749,
+   "length_bytes": 47,
+   "raw_hex": "fff6813d02821882371a003515022680d7fff552808b5d00808a7f809115192680d1fff6813581151981430083e528",
+   "text_jp": "<PAGE>悪い気分は じないよ…<LINE>アダシ ゾンビなのよ!<PAGE>晁星の力 借り",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 14,
+   "offset": 8796,
+   "length_bytes": 38,
+   "raw_hex": "3902152e3cfff683bc35272a15022680d1fff5332e1552808b5d16fff684802181242f000239",
+   "text_jp": "だいなんで<PAGE>信じられないよ!<LINE>ごんなアダシに<PAGE>頼む人が いだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 15,
+   "offset": 8834,
+   "length_bytes": 37,
+   "raw_hex": "152e13fff6809180a18083794980d680d1fff53a504d144c80d1fff682428218354e150219",
+   "text_jp": "なんて<PAGE>ビッグリぃ{214}!<LINE>ぢょっとぉ!<PAGE>本気じゃないの",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 16,
+   "offset": 8871,
+   "length_bytes": 45,
+   "raw_hex": "fff680907b80907b152e3c0d093d4c80d1fff5332e150052808b5d2dfff686b32229152e3c80d780d7fffcfff6",
+   "text_jp": "<PAGE>バレバレなんですけどぉ!<LINE>ごんな アダシを<PAGE>裹めるなんで……<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 17,
+   "offset": 8916,
+   "length_bytes": 28,
+   "raw_hex": "83b02f0001291681c81f4d3c2980d780d7fff552808b5d00808a7f80",
+   "text_jp": "簑が あるに決まっでる……<LINE>アダシ ゾン",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 18,
+   "offset": 8944,
+   "length_bytes": 47,
+   "raw_hex": "9116154d13fff6262f4d10062380d780d7fff55685855c7f4d1300841a846080d60280d1fff6230381673500834c31",
+   "text_jp": "ビになって<PAGE>よがったかも……<LINE>オ揶サンって 面曰{214}い!<PAGE>もう少じ 帛ぐ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 19,
+   "offset": 8991,
+   "length_bytes": 32,
+   "raw_hex": "fff6819881a902392f4d10154880d780d7fff55685855c7f80d1fff638030203",
+   "text_jp": "<PAGE>申会いだがったなぁ……<LINE>オ揶サン!<PAGE>ぞういう",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 20,
+   "offset": 9023,
+   "length_bytes": 29,
+   "raw_hex": "0054808a1afff6023215022e39264c80d1fff5809080a1808120100239",
+   "text_jp": " ウゾは<PAGE>いげないんだよぉ!<LINE>バッガみたいだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 21,
+   "offset": 9052,
+   "length_bytes": 26,
+   "raw_hex": "323d4c80d7fff6834a4d3a4e4d394880d1fff552808b5d1981f7",
+   "text_jp": "げどぉ…<PAGE>笶っぢゃっだぁ!<LINE>アダシの独",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 22,
+   "offset": 9078,
+   "length_bytes": 37,
+   "raw_hex": "34fff682372f4d3c29354e1580cc0280d1fff53a504d144c80d1fff682428218354e150219",
+   "text_jp": "ざ<PAGE>分がっでるじゃな{204}い!<LINE>ぢょっとぉ!<PAGE>本気じゃないの",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 23,
+   "offset": 9115,
+   "length_bytes": 28,
+   "raw_hex": "fff680907b80907b152e3c0d093d4c80d1fff552808b5d00808a7f80",
+   "text_jp": "<PAGE>バレバレなんですけどぉ!<LINE>アダシ ゾン",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 24,
+   "offset": 9143,
+   "length_bytes": 34,
+   "raw_hex": "9116154d13fff6262f4d10062380d780d7fff5817d1575808d80cc80d1fffcfff63c",
+   "text_jp": "ビになって<PAGE>よがったかも……<LINE>変なヤヅ{204}!<CLOSE><PAGE>で",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 25,
+   "offset": 9177,
+   "length_bytes": 39,
+   "raw_hex": "2300808180a1808553532f27024d068705fff552808b5d80d7fff6382e15168452380316821b04",
+   "text_jp": "も ガッゴイイがらいっか鷺<LINE>アダシ…<PAGE>ぞんなに輊ぞうに見え",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 26,
+   "offset": 9216,
+   "length_bytes": 12,
+   "raw_hex": "2980d0fffcfff6152e2f0024",
+   "text_jp": "る?<CLOSE><PAGE>なんが や",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 27,
+   "offset": 9228,
+   "length_bytes": 46,
+   "raw_hex": "39154880d7fff5332c480280d780d780d7fff5034d384c80d100667f809580d0fffcfff652808b5d00808a7f8091",
+   "text_jp": "だなぁ…<LINE>ごわぁい………<LINE>うっぞぉ! ナンパ?<CLOSE><PAGE>アダシ ゾンビ",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 28,
+   "offset": 9274,
+   "length_bytes": 27,
+   "raw_hex": "16154d3cfff6262f4d394880d780d780d7fff50523352b80d60280",
+   "text_jp": "になっで<PAGE>よがっだぁ………<LINE>おもじろ{214}い",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 29,
+   "offset": 9301,
+   "length_bytes": 9,
+   "raw_hex": "d1fff65683225c7f00",
+   "text_jp": "!<PAGE>オ足サン ",
+   "notes": "",
+   "translation_en": "!<PAGE>..."
+  },
+  {
+   "id": 30,
+   "offset": 9310,
+   "length_bytes": 25,
+   "raw_hex": "3a504128314a80d1fff53b1f2e150280d1fff5526f2f00033b",
+   "text_jp": "ぢょべりぐぅ!<LINE>づまんない!<LINE>アホが うづ",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>..."
+  },
+  {
+   "id": 31,
+   "offset": 9335,
+   "length_bytes": 31,
+   "raw_hex": "2980d780d7fffcfff624223c2680d780d7fff5013e3e3e3e3e80d100818282",
+   "text_jp": "る……<CLOSE><PAGE>やめでよ……<LINE>あばばばばば! 最",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 32,
+   "offset": 9366,
+   "length_bytes": 48,
+   "raw_hex": "5c80d1fff605152f00835d4880cc0280d1fff552808b5d140081aa152e3cfff60c3c312a292e394880d780d780d7fffc",
+   "text_jp": "サ!<PAGE>おなが 痛ぁ{204}い!<LINE>アダシと 話なんで<PAGE>しでぐれるんだぁ………<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 33,
+   "offset": 9414,
+   "length_bytes": 52,
+   "raw_hex": "fff65683225c7f00240b35022e391880d7fff5382e1581aa35132981a38249354e1580cc0280d152808b5d00808a7f8091152e39",
+   "text_jp": "<PAGE>オ足サン やさじいんだね…<LINE>ぞんな話じてる場合じゃな{204}い!アダシ ゾンビなんだ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 34,
+   "offset": 9466,
+   "length_bytes": 46,
+   "raw_hex": "2f27fff6849b83a582ed234d3c261880d1fff581248125190d2981aa4d3cfff6012e1f3500817d2c4d3c15021880",
+   "text_jp": "がら<PAGE>蘗悵感もっでよね!<LINE>人間のする話っで<PAGE>あんまじ 変わっでないね",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 35,
+   "offset": 9512,
+   "length_bytes": 43,
+   "raw_hex": "d7fffcfff6152e2f0082fc3502154880d7fff523352f35130052808b5d16fff6061f4d3c830f35021980d0",
+   "text_jp": "…<CLOSE><PAGE>なんが 娼じいなぁ…<LINE>もじがじて アダシに<PAGE>かまっで歓じいの?",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 36,
+   "offset": 9556,
+   "length_bytes": 30,
+   "raw_hex": "fff65683225c7f3c008085808f74184b80d1fff582d7362e192680cc80d1",
+   "text_jp": "<PAGE>オ足サンで ゴドモねぇ!<LINE>何ずんのよ{204}!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 37,
+   "offset": 9585,
+   "length_bytes": 45,
+   "raw_hex": "fff6527f808b0080908081354e150280d1fff5152e15194c80d780d780d7fffcfff65683225c7f003a504d3d80",
+   "text_jp": "<PAGE>アンダ バガじゃない!<LINE>なんなのぉ………<CLOSE><PAGE>オ足サン ぢょっど",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 38,
+   "offset": 9630,
+   "length_bytes": 41,
+   "raw_hex": "d7fff67580900282ed354980d780d780d7fff5332e1552808b5d16fff680927b80897f808f80d0fffc",
+   "text_jp": "…<PAGE>ヤバい感じぃ………<LINE>ごんなアダシに<PAGE>ブレゼンド?<CLOSE>",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 39,
+   "offset": 9671,
+   "length_bytes": 28,
+   "raw_hex": "fff65683225c7f00243435022e394880d7fff5382e15003b1f2e1502",
+   "text_jp": "<PAGE>オ足サン やざじいんだぁ…<LINE>ぞんな づまんない",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 40,
+   "offset": 9699,
+   "length_bytes": 48,
+   "raw_hex": "746afff652808b5d0002271580cc0280d1fff580927b80897f808f312a29194c80d0fffcfff652808b5d00808a7f8091",
+   "text_jp": "モノ<PAGE>アダシ いらな{204}い!<LINE>ブレゼンドぐれるのぉ?<CLOSE><PAGE>アダシ ゾンビ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 41,
+   "offset": 9747,
+   "length_bytes": 35,
+   "raw_hex": "16154d3cfff6262f4d394880d780d780d7fff5808a7f809116008253828f3629152e3c",
+   "text_jp": "になっで<PAGE>よがっだぁ………<LINE>ゾンビに 演説ずるなんで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 42,
+   "offset": 9783,
+   "length_bytes": 48,
+   "raw_hex": "fff65683225c7f00817d2c4d3c29184b80d1fff552808b5d00382e1581aafff68335816515022680d1fffc000f0a2e3d",
+   "text_jp": "<PAGE>オ足サン 変わっでるねぇ!<LINE>アダシ ぞんな話<PAGE>興味ないよ!<CLOSE> そこんど",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 43,
+   "offset": 9830,
+   "length_bytes": 42,
+   "raw_hex": "0afff682dc043c81ce83c03513261880d1fff5151682674d3c29192ffff62c2f2e1502093d4c80d7fffc",
+   "text_jp": "こ<PAGE>考えで交燠じてよね!<LINE>なに言っでるのが<PAGE>わがんないけどぉ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 44,
+   "offset": 9873,
+   "length_bytes": 39,
+   "raw_hex": "fff6152e2f0082ed81540c3a4e4d394880d7fff55683225c7f130082de83bc83341519184b80d7",
+   "text_jp": "<PAGE>なんが 感激しぢゃっだぁ…<LINE>オ足サンて 自信家なのねぇ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 45,
+   "offset": 9912,
+   "length_bytes": 44,
+   "raw_hex": "fff63c230082ca3909354e00392239268705fff53a5003212f3b0880d680d180d1fffcfff65683225c7f141a",
+   "text_jp": "<PAGE>でも 日だけじゃ だめだよ鷺<LINE>ぢょうむがづく{214}!!<CLOSE><PAGE>オ足サンとは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 46,
+   "offset": 9955,
+   "length_bytes": 32,
+   "raw_hex": "fff681b783361682f83e15022f274880d1fff5808a7f8091160081b786f83513",
+   "text_jp": "<PAGE>一緒に遊ばないがらぁ!<LINE>ゾンビに 一喟じて",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 47,
+   "offset": 9988,
+   "length_bytes": 54,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff55683225c7f13003a504d1481588475fff6813d0220100280d1fffc003c2352808b5d",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>オ足サンて ぢょっと忤格<PAGE>悪いみたい!<CLOSE> でもアダシ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 48,
+   "offset": 10042,
+   "length_bytes": 49,
+   "raw_hex": "fff638030203190082f202354e1502268705fff552808b5d00808a7f809115192680d1fff6382e15855c82002f002c2f27",
+   "text_jp": "<PAGE>ぞういうの 嫌いじゃないよ鷺<LINE>アダシ ゾンビなのよ!<PAGE>ぞんな皮冂が わがら",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 49,
+   "offset": 10090,
+   "length_bytes": 33,
+   "raw_hex": "1502fff62c322f001502354e15021980d1fff524394880d7fffcfff6382e151600",
+   "text_jp": "ない<PAGE>わげが ないじゃないの!<LINE>やだぁ…<CLOSE><PAGE>ぞんなに ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 50,
+   "offset": 10123,
+   "length_bytes": 34,
+   "raw_hex": "1e22272a3927fff6849c2a3a4e032680d1fff55683225c7f00031f480280d1fff682",
+   "text_jp": "ほめられだら<PAGE>阻れぢゃうよ!<LINE>オ足サン うまぁい!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 51,
+   "offset": 10157,
+   "length_bytes": 49,
+   "raw_hex": "d681690052808b5d16238330043c4b8705fff51580cc2e3900814d86366e61310f80d680d1fff6382e1584a328821b3729",
+   "text_jp": "{214}痍 アダシにも教えでぇ鷺<LINE>な{204}んだ 全然ヘタぐそ{214}!<PAGE>ぞんな錘り見ぜる",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 52,
+   "offset": 10206,
+   "length_bytes": 48,
+   "raw_hex": "152e13fff682d70082dc043c29194c80d1fff552808b5d1a0084a32a15022f27fff6821b3c29390980d639093dfff615",
+   "text_jp": "なんて<PAGE>何 考えでるのぉ!<LINE>アダシは 錘れないがら<PAGE>見でるだけ{214}だけど<PAGE>な",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 53,
+   "offset": 10254,
+   "length_bytes": 38,
+   "raw_hex": "2e2f006b80a1809680cc1582ed354980d1fff55683225c7f3c0082de83bc83341519184b80d7",
+   "text_jp": "んが ハッピ{204}な感じぃ!<LINE>オ足サンで 自信家なのねぇ…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 54,
+   "offset": 10293,
+   "length_bytes": 44,
+   "raw_hex": "fff63c230082ca3932354e00392239268705fff53a5003212f3b0880d680d180d1fffcfff65683225c7f141a",
+   "text_jp": "<PAGE>でも 日だげじゃ だめだよ鷺<LINE>ぢょうむがづく{214}!!<CLOSE><PAGE>オ足サンとは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 55,
+   "offset": 10336,
+   "length_bytes": 32,
+   "raw_hex": "fff681b783361682f83e15022f274880d1fff5808a7f80911600838981dd3513",
+   "text_jp": "<PAGE>一緒に遊ばないがらぁ!<LINE>ゾンビに 挑芫じて",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 56,
+   "offset": 10369,
+   "length_bytes": 49,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff51548164980d0fffcfff6808a7f809116833581650129194c80d0fff656",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>なぁにぃ?<CLOSE><PAGE>ゾンビに興味あるのぉ?<PAGE>オ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 57,
+   "offset": 10417,
+   "length_bytes": 39,
+   "raw_hex": "83225c7f1300817d1581248125391880d1fff515162680d7fff682d7060081a684533c23012919",
+   "text_jp": "足サンて 変な人間だね!<LINE>なによ…<PAGE>何か 文句でもあるの",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 58,
+   "offset": 10456,
+   "length_bytes": 47,
+   "raw_hex": "80d1fffcfff60a4d3a821b15023c2680d1fff5332e15846916154d3c23fff6828519812419849a83a61a0052808b5d",
+   "text_jp": "!<CLOSE><PAGE>こっぢ見ないでよ!<LINE>ごんな姿になっでも<PAGE>女の人の袍檪は アダシ",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 59,
+   "offset": 10503,
+   "length_bytes": 24,
+   "raw_hex": "16fff6838e1f4d3a4e03231915191880d1fff50523352b80",
+   "text_jp": "に<PAGE>雫まっぢゃうものなのね!<LINE>おもじろ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 60,
+   "offset": 10527,
+   "length_bytes": 28,
+   "raw_hex": "d60280d1fff602025f7f5e3513291880d1fff554808a3e4d062880d1",
+   "text_jp": "{214}い!<PAGE>いいセンスじてるね!<LINE>ウゾばっかり!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 61,
+   "offset": 10556,
+   "length_bytes": 51,
+   "raw_hex": "fff613073d03150a140082672c15023c80d1fff582d739062e3982674d3cfff652808b5d1481aa0c390239093c0c5080d0fffc",
+   "text_jp": "<PAGE>てきどうなこと 言わないで!<LINE>何だかんだ言っで<PAGE>アダシと話しだいだけでしょ?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 62,
+   "offset": 10607,
+   "length_bytes": 32,
+   "raw_hex": "fff652808b5d0080817d53530627154880d7fff5382e15190083bc353c29152e",
+   "text_jp": "<PAGE>アダシ ガワイイからなぁ…<LINE>ぞんなの 信じでるなん",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 63,
+   "offset": 10638,
+   "length_bytes": 29,
+   "raw_hex": "13fff6809080a18081354e1502194c80d1fff5382e1581aa4980d7fffc",
+   "text_jp": "て<PAGE>バッガじゃないのぉ!<LINE>ぞんな話ぃ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 64,
+   "offset": 10668,
+   "length_bytes": 41,
+   "raw_hex": "fff682d802393314001502093d4c80d780d7fff5054d2f350280d1fffcfff6202e1500824283691984",
+   "text_jp": "<PAGE>聞いだごと ないけどぉ……<LINE>おっがじい!<CLOSE><PAGE>みんな 本当の",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 65,
+   "offset": 10708,
+   "length_bytes": 62,
+   "raw_hex": "0c853b2dfff681bc2715022e39232e80d1fff50202002f2e354980d7fffcfff65685855c7f0082d4832f391880cc80d1fff5014d000202354e80cc2e80d1",
+   "text_jp": "し怖を<PAGE>知らないんだもん!<LINE>いい がんじぃ…<CLOSE><PAGE>オ揶サン 部手だね{204}!<LINE>あっ いいじゃ{204}ん!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 66,
+   "offset": 10771,
+   "length_bytes": 51,
+   "raw_hex": "fff65685855c7f0082d4832f391880cc80d1fff582de82372f00824f2f031f0219fff6382e15160082de830135100280d0fffc",
+   "text_jp": "<PAGE>オ揶サン 部手だね{204}!<LINE>自分が 歌がうまいの<PAGE>ぞんなに 自慢じたい?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 67,
+   "offset": 10821,
+   "length_bytes": 47,
+   "raw_hex": "fff6527f808b4d13003a5041283e4880d1fff5020282ed354980d780d780d7fffcfff652808b5d1982101600808780",
+   "text_jp": "<PAGE>アンダって ぢょべりばぁ!<LINE>いい感じぃ………<CLOSE><PAGE>アダシの沚に ジ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 68,
+   "offset": 10868,
+   "length_bytes": 32,
+   "raw_hex": "cc7f14fff60c2029203902154880d780d7fff582d619003d03020333144c80d0",
+   "text_jp": "{204}ンと<PAGE>しみるみだいなぁ……<LINE>今の どういうごとぉ?",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 69,
+   "offset": 10901,
+   "length_bytes": 33,
+   "raw_hex": "fff6051f1f33143c23000c4f2919809e80d0fff5151680d0000f190c4e41288166",
+   "text_jp": "<PAGE>おままごとでも しゅるのォ?<LINE>なに? そのしゃべり方",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 70,
+   "offset": 10933,
+   "length_bytes": 53,
+   "raw_hex": "80d1fff680905716003515023c261880d1fff55685855c7f1300813d811614fff6382e151c031681ce83c03629194c80d0fff683dc",
+   "text_jp": "!<PAGE>バカに じないでよね!<LINE>オ揶サンて 悪魔と<PAGE>ぞんなふうに交燠ずるのぉ?<PAGE>普",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 71,
+   "offset": 10986,
+   "length_bytes": 45,
+   "raw_hex": "81ba1981241482cf034d1382ed354980d1fff55685855c7f198267033314fff6263182372f2e1502093d4c80d7",
+   "text_jp": "僵の人と違うって感じぃ!<LINE>オ揶サンの言うごと<PAGE>よぐ分がんないけどぉ…",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 72,
+   "offset": 11032,
+   "length_bytes": 47,
+   "raw_hex": "fff652808b5d0084d32c2a13292039028705fff5808a7f8091392f274d3cfff60a078127038218152e3c0c500380d1",
+   "text_jp": "<PAGE>アダシ 訪われてるみだい鷺<LINE>ゾンビだがらっで<PAGE>こき払う気なんでしょう!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 73,
+   "offset": 11078,
+   "length_bytes": 41,
+   "raw_hex": "fff6527f808b4d13003a5041283e4880d1fff5332e1552808b5d3c23fff684631682163c292e394880",
+   "text_jp": "<PAGE>アンダって ぢょべりばぁ!<LINE>ごんなアダシでも<PAGE>役に立でるんだぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 74,
+   "offset": 11119,
+   "length_bytes": 53,
+   "raw_hex": "d7fffcfff682fc0c02154880d780d780d7fff55685855c7f13003a504d1481588475fff6813d0220100280d1fffc003c2352808b5d",
+   "text_jp": "…<CLOSE><PAGE>娼しいなぁ………<LINE>オ揶サンて ぢょっと忤格<PAGE>悪いみたい!<CLOSE> でもアダシ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 75,
+   "offset": 11173,
+   "length_bytes": 16,
+   "raw_hex": "fff638030203190082f202354e150226",
+   "text_jp": "<PAGE>ぞういうの 嫌いじゃないよ",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 76,
+   "offset": 11188,
+   "length_bytes": 36,
+   "raw_hex": "8705fff584a8728081808d594a80d180d1fff5382e15333d82672c2a3c2380d7fffcfff6",
+   "text_jp": "鷺<LINE>超ムガヅクぅ!!<LINE>ぞんなごど言われでも…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 77,
+   "offset": 11224,
+   "length_bytes": 45,
+   "raw_hex": "52808b5d00808a7f8091390c4980d780d7fff552808b5d1a808a7f8091392680d7fff6382a3c2302021980d180",
+   "text_jp": "アダシ ゾンビだしぃ……<LINE>アダシはゾンビだよ…<PAGE>ぞれでもいいの!",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 78,
+   "offset": 11269,
+   "length_bytes": 44,
+   "raw_hex": "d0fffcfff6527f614d3c000202812480d1fff5808a7f809116154d3c23fff652808b5d008126392680d1fffc",
+   "text_jp": "?<CLOSE><PAGE>アンタっで いい人!<LINE>ゾンビになっでも<PAGE>アダシ 女だよ!<CLOSE>",
+   "notes": "",
+   "translation_en": "?<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 79,
+   "offset": 11313,
+   "length_bytes": 29,
+   "raw_hex": "fff6828519824e354e15304e00537580d1fff5809980a180d7fffcfff6",
+   "text_jp": "<PAGE>女の子じゃなぎゃ イヤ!<LINE>ポッ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 80,
+   "offset": 11342,
+   "length_bytes": 38,
+   "raw_hex": "527580893a4e2e80d7fffc8280304d80d7fff5527537114e2e80d7fff6062c020f0380d780d7",
+   "text_jp": "アヤゼぢゃん…<CLOSE>好ぎっ…<LINE>アヤぜちゃん…<PAGE>かわいそう……",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 81,
+   "offset": 11381,
+   "length_bytes": 50,
+   "raw_hex": "fffcfff6814316154d3c00013239021580d7fff5527f808b1981aa152e062628fff6808a7f809116154d1052808b5d198166",
+   "text_jp": "<CLOSE><PAGE>力になっで あげだいな…<LINE>アンダの話なんかより<PAGE>ゾンビになったアダシの方",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 82,
+   "offset": 11430,
+   "length_bytes": 28,
+   "raw_hex": "2ffff6264d473d00852209292680d180d1fff552808b5d00808a7f80",
+   "text_jp": "が<PAGE>よっぽど 泣けるよ!!<LINE>アダシ ゾン",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 83,
+   "offset": 11458,
+   "length_bytes": 38,
+   "raw_hex": "9116154d13fff6262f4d10062380d780d7fff55685855c7f130082de83bc83341519184b80d7",
+   "text_jp": "ビになって<PAGE>よがったかも……<LINE>オ揶サンて 自信家なのねぇ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 84,
+   "offset": 11497,
+   "length_bytes": 51,
+   "raw_hex": "fff63c230082ca3909354e00392239268705fff53a5003212f3b0880d680d180d1fffcfff60f2e15331482670352758089141a",
+   "text_jp": "<PAGE>でも 日だけじゃ だめだよ鷺<LINE>ぢょうむがづく{214}!!<CLOSE><PAGE>そんなごと言うアヤゼとは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 85,
+   "offset": 11547,
+   "length_bytes": 30,
+   "raw_hex": "fff681b783361682f83e15022f274880d1fff5808a7f80912d00859c3513",
+   "text_jp": "<PAGE>一緒に遊ばないがらぁ!<LINE>ゾンビを 脅じて",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 86,
+   "offset": 11578,
+   "length_bytes": 38,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff515222e15264c80d1fffcfff6527f808b2380",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>なめんなよぉ!<CLOSE><PAGE>アンダも",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 87,
+   "offset": 11615,
+   "length_bytes": 17,
+   "raw_hex": "8a7f809116fff60c1301322603064880d1",
+   "text_jp": "ゾンビに<PAGE>してあげようかぁ!",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 88,
+   "offset": 11632,
+   "length_bytes": 36,
+   "raw_hex": "fff55685855c7f00332c4980d780d780d7fff552808b5d00808a7f809139232efff682d7",
+   "text_jp": "<LINE>オ揶サン ごわぃ………<LINE>アダシ ゾンビだもん<PAGE>何",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 89,
+   "offset": 11668,
+   "length_bytes": 33,
+   "raw_hex": "82672c2a132300814d8636820882183926fff5808a7f80912d00343d0f03152e3c",
+   "text_jp": "言われても 全然乎気だよ<LINE>ゾンビを ざどそうなんで",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 90,
+   "offset": 11702,
+   "length_bytes": 48,
+   "raw_hex": "fff65685855c7f00817d2c4d3c29184b80d1fff552808b5d00382e1581aafff68335816515022680d1fffc000f0a2e3d",
+   "text_jp": "<PAGE>オ揶サン 変わっでるねぇ!<LINE>アダシ ぞんな話<PAGE>興味ないよ!<CLOSE> そこんど",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 91,
+   "offset": 11749,
+   "length_bytes": 42,
+   "raw_hex": "0afff682dc043c81ce83c03513261880d1fff5151682674d3c29192ffff62c2f2e1502093d4c80d7fffc",
+   "text_jp": "こ<PAGE>考えで交燠じてよね!<LINE>なに言っでるのが<PAGE>わがんないけどぉ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 92,
+   "offset": 11792,
+   "length_bytes": 28,
+   "raw_hex": "fff6152e2f0082ed81540c3a4e4d394880d7fff5152e3c0052808b5d",
+   "text_jp": "<PAGE>なんが 感激しぢゃっだぁ…<LINE>なんで アダシ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 93,
+   "offset": 11819,
+   "length_bytes": 30,
+   "raw_hex": "2ffff6527f808b16863c272a29192680d1fff5808a7f80912d00863c4d3c",
+   "text_jp": "が<PAGE>アンダに叱られるのよ!<LINE>ゾンビを 叱っで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 94,
+   "offset": 11850,
+   "length_bytes": 34,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff55685855c7f1380d7fffcfff683bd",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>オ揶サンて…<CLOSE><PAGE>怒",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 95,
+   "offset": 11883,
+   "length_bytes": 36,
+   "raw_hex": "4d3c2983cc2f00808180a1808553538705fff55685855c7f80d1fff681db81f9394d1027",
+   "text_jp": "っでる顔が ガッゴイイ鷺<LINE>オ揶サン!<PAGE>注事だったら",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 96,
+   "offset": 11920,
+   "length_bytes": 23,
+   "raw_hex": "fff682674d3c082a3c005680a15a80cc8705fff5014d38",
+   "text_jp": "<PAGE>言っでくれで オッケ{204}鷺<LINE>あっぞ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 97,
+   "offset": 11942,
+   "length_bytes": 42,
+   "raw_hex": "0380d1fffcfff6725d3c0d2f4880d180d1fff580d780d780d780d780d780d780d7fffcfff652808b5d19",
+   "text_jp": "う!<CLOSE><PAGE>ムシですがぁ!!<LINE>…………………<CLOSE><PAGE>アダシの",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>…………………<CLOSE><PAGE>..."
+  },
+  {
+   "id": 98,
+   "offset": 11984,
+   "length_bytes": 36,
+   "raw_hex": "3d332ffff682181681ae271502194c80d7fff55683225c7f80d1fff681db81f9394d1027",
+   "text_jp": "どごが<PAGE>気に入らないのぉ…<LINE>オ足サン!<PAGE>注事だったら",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 99,
+   "offset": 12021,
+   "length_bytes": 23,
+   "raw_hex": "fff682674d3c082a3c005680a15a80cc8705fff5014d38",
+   "text_jp": "<PAGE>言っでくれで オッケ{204}鷺<LINE>あっぞ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 100,
+   "offset": 12043,
+   "length_bytes": 42,
+   "raw_hex": "0380d1fffcfff6725d3c0d2f4880d180d1fff580d780d780d780d780d780d780d7fffcfff652808b5d19",
+   "text_jp": "う!<CLOSE><PAGE>ムシですがぁ!!<LINE>…………………<CLOSE><PAGE>アダシの",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>…………………<CLOSE><PAGE>..."
+  },
+  {
+   "id": 101,
+   "offset": 12085,
+   "length_bytes": 38,
+   "raw_hex": "3d332ffff682181681ae271502194c80d7fff55683225c7f130082de83bc83341519184b80d7",
+   "text_jp": "どごが<PAGE>気に入らないのぉ…<LINE>オ足サンて 自信家なのねぇ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 102,
+   "offset": 12124,
+   "length_bytes": 47,
+   "raw_hex": "fff63c230082ca3909354e00392239268705fff53a5003212f3b0880d680d180d1fffcfff62303005683225c7f141a",
+   "text_jp": "<PAGE>でも 日だけじゃ だめだよ鷺<LINE>ぢょうむがづく{214}!!<CLOSE><PAGE>もう オ足サンとは",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 103,
+   "offset": 12170,
+   "length_bytes": 30,
+   "raw_hex": "fff681b783361682f83e15022f274880d1fff5808a7f80912d00859c3513",
+   "text_jp": "<PAGE>一緒に遊ばないがらぁ!<LINE>ゾンビを 脅じて",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 104,
+   "offset": 12201,
+   "length_bytes": 32,
+   "raw_hex": "fff682d72f00837f3502192680d780d780d7fff582d70084ea2e3c2e392680d1",
+   "text_jp": "<PAGE>何が 杲じいのよ………<LINE>何 町んでんだよ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 105,
+   "offset": 12232,
+   "length_bytes": 32,
+   "raw_hex": "fff6527f6100809080a157354e150280d1fff52380cc0082d7191223284980d0",
+   "text_jp": "<PAGE>アンタ バッカじゃない!<LINE>も{204} 何のつもりぃ?",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 106,
+   "offset": 12265,
+   "length_bytes": 30,
+   "raw_hex": "fff65683225c7f0011504d3d7580903280d7fff553577b3c294a80d1fffc",
+   "text_jp": "<PAGE>オ足サン ちょっどヤバげ…<LINE>イカレでるぅ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 107,
+   "offset": 12295,
+   "length_bytes": 52,
+   "raw_hex": "fff63c2300821f150281244d3c8280308705fff55683225c7f1300363380d60280d1fff6832f81ac832a394d102e394880d780d7",
+   "text_jp": "<PAGE>でも 危ない人っで好ぎ鷺<LINE>オ足サンて ずご{214}い!<PAGE>手品廡だったんだぁ……",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 108,
+   "offset": 12347,
+   "length_bytes": 41,
+   "raw_hex": "fffcfff66d809a7f16154d114e020f0380d7fff582d7351323000202093d80d7fffcfff68146809b85",
+   "text_jp": "<CLOSE><PAGE>ファンになっちゃいそう…<LINE>何じても いいけど…<CLOSE><PAGE>米ィ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 109,
+   "offset": 12387,
+   "length_bytes": 35,
+   "raw_hex": "8a0239283629191afff624223c261880d7fff5230381b78169244d3c2680d1fff682d6",
+   "text_jp": "ゾいだりずるのは<PAGE>やめでよね…<LINE>もう一痍やっでよ!<PAGE>今",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 110,
+   "offset": 12422,
+   "length_bytes": 28,
+   "raw_hex": "81691a00821b81364d132037292f2780d1fff5527f808b1981aa4d13",
+   "text_jp": "痍は 見破ってみぜるがら!<LINE>アンダの話って",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 111,
+   "offset": 12450,
+   "length_bytes": 39,
+   "raw_hex": "fff6833581658202020c00841a8460022cfff5826783511a0083bc81db3c3015021548fffcfff6",
+   "text_jp": "<PAGE>興味深いし 面曰いわ<LINE>言葉は 信注でぎないなぁ<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 112,
+   "offset": 12489,
+   "length_bytes": 47,
+   "raw_hex": "83bc35272a29191a00818739098705fff1fff50e4d2f080081a94d391916fff60f2e153314350682670415021980d0",
+   "text_jp": "信じられるのは 物だけ鷺<PAUSE><LINE>せっがく 会っだのに<PAGE>そんなごとじか言えないの?",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 113,
+   "offset": 12536,
+   "length_bytes": 44,
+   "raw_hex": "fffcfff6527f808b003a5041283e4880d1fff53b1f2e15023314fff63139313982672c2a3c23184b80d1fffc",
+   "text_jp": "<CLOSE><PAGE>アンダ ぢょべりばぁ!<LINE>づまんないごと<PAGE>ぐだぐだ言われでもねぇ!<CLOSE>",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 114,
+   "offset": 12581,
+   "length_bytes": 32,
+   "raw_hex": "fff63b1f280082d72f819835152680d1fff1fff5382e1581aa2d0052808b5d16",
+   "text_jp": "<PAGE>づまり 何が申じなよ!<PAUSE><LINE>ぞんな話を アダシに",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>..."
+  },
+  {
+   "id": 115,
+   "offset": 12612,
+   "length_bytes": 48,
+   "raw_hex": "3513fff63d030d29003b232815192680d7fff552808b5d000f1981aa16fff68335816515022e39093d4c80d7fffcfff6",
+   "text_jp": "じて<PAGE>どうする づもりなのよ…<LINE>アダシ その話に<PAGE>興味ないんだけどぉ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 116,
+   "offset": 12660,
+   "length_bytes": 45,
+   "raw_hex": "2303003d4d2f81d2073902154880d780d7fff5244d430052808b5d4d13fff6813d81162628812481251981662f",
+   "text_jp": "もう どっが行きだいなぁ……<LINE>やっぱ アダシって<PAGE>悪魔より人間の方が",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 117,
+   "offset": 12705,
+   "length_bytes": 30,
+   "raw_hex": "fff681aa2f008249032e392618809d80d1fff5841a846002154880d7fffc",
+   "text_jp": "<PAGE>話が 合うんだよねェ!<LINE>面曰いなぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 118,
+   "offset": 12736,
+   "length_bytes": 42,
+   "raw_hex": "fff6364d14000581aa0c353c3902154880d7fff552808b5d2f0082d282d3152e3980d7fffcfff6014d38",
+   "text_jp": "<PAGE>ずっと お話しじでだいなぁ…<LINE>アダシが 必要なんだ…<CLOSE><PAGE>あっぞ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 119,
+   "offset": 12777,
+   "length_bytes": 44,
+   "raw_hex": "0380d7fffcfff63d033526032f154880d7fff552808b5d1981432d830f35021527fff6382a15281900232e2f",
+   "text_jp": "う…<CLOSE><PAGE>どうじようがなぁ…<LINE>アダシの力を歓じいなら<PAGE>ぞれなりの もんが",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 120,
+   "offset": 12821,
+   "length_bytes": 8,
+   "raw_hex": "150214fff6808b73",
+   "text_jp": "ないと<PAGE>ダメ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 121,
+   "offset": 12829,
+   "length_bytes": 43,
+   "raw_hex": "203902154880d7fff1fff50224392680d1fff5382e158480200082d82f150226fffcfff63c230052808b5d",
+   "text_jp": "みだいなぁ…<PAUSE><LINE>いやだよ!<LINE>ぞんな頼み 聞がないよ<CLOSE><PAGE>でも アダシ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 122,
+   "offset": 12872,
+   "length_bytes": 27,
+   "raw_hex": "198480201afff630301534022680d1fff1fff552808b5d19008143",
+   "text_jp": "の頼みは<PAGE>ぎぎなざいよ!<PAUSE><LINE>アダシの 力",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>..."
+  },
+  {
+   "id": 123,
+   "offset": 12899,
+   "length_bytes": 28,
+   "raw_hex": "152e3cfff682d716812703192680d780d7fff5382e15331482674d3c",
+   "text_jp": "なんで<PAGE>何に払うのよ……<LINE>ぞんなごと言っで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 124,
+   "offset": 12928,
+   "length_bytes": 44,
+   "raw_hex": "fff652808b5d2d00391f0d82183c0c5080d7fff50f2a4d3c002335063513fff652808b5d2f830f35024d3c0a",
+   "text_jp": "<PAGE>アダシを だます気でしょ…<LINE>それっで もじかじて<PAGE>アダシが歓じいっでこ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 125,
+   "offset": 12971,
+   "length_bytes": 30,
+   "raw_hex": "3d80d0fffcfff6234d3d82674d3c4b80d1fff58124168480272a29194d3c",
+   "text_jp": "ど?<CLOSE><PAGE>もっど言っでぇ!<LINE>人に頼られるのっで",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 126,
+   "offset": 13001,
+   "length_bytes": 44,
+   "raw_hex": "fff6152e2f0082fc3502203902154880d7fff50f2a002c34143c0c5080d0fffcfff682372f4d3906270b4880",
+   "text_jp": "<PAGE>なんが 娼じいみだいなぁ…<LINE>それ わざとでしょ?<CLOSE><PAGE>分がっだからさぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 127,
+   "offset": 13045,
+   "length_bytes": 36,
+   "raw_hex": "ccfff6834c31008242833e1681ae4d3c26fff552808b5d0083dc81ba3d82cf0381244d3c",
+   "text_jp": "{204}<PAGE>帛ぐ 本題に入っでよ<LINE>アダシ 普僵ど違う人っで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 128,
+   "offset": 13082,
+   "length_bytes": 40,
+   "raw_hex": "fff6152e2f8335816501292e394880d780d7fff5152e15192600527f808b80d1fff6808a7f809139",
+   "text_jp": "<PAGE>なんが興味あるんだぁ……<LINE>なんなのよ アンダ!<PAGE>ゾンビだ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 129,
+   "offset": 13121,
+   "length_bytes": 35,
+   "raw_hex": "2f274d13fff6809057163515023c2680d1fff50a80cc020300728081808d5982521527",
+   "text_jp": "がらって<PAGE>バカにじないでよ!<LINE>こ{204}いう ムガヅク奴なら",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 130,
+   "offset": 13156,
+   "length_bytes": 28,
+   "raw_hex": "fff610222702153100818b04292c1880d1fff5152e2f005380a1114e",
+   "text_jp": "<PAGE>ためらいなぐ 貰えるわね!<LINE>なんが イッちゃ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 131,
+   "offset": 13184,
+   "length_bytes": 45,
+   "raw_hex": "4d132980d7fff60a19812480d780d780d7fff5808a7f80913906274d3c80d7fffcfff60f2e15816d8169142715",
+   "text_jp": "ってる…<PAGE>この人………<LINE>ゾンビだからっで…<CLOSE><PAGE>そんな怒痍とらな",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 132,
+   "offset": 13229,
+   "length_bytes": 37,
+   "raw_hex": "313c23fff60202354e150280d780d780d7fff552808b5d001f39824e82dd39093dfff6527f",
+   "text_jp": "ぐでも<PAGE>いいじゃない………<LINE>アダシ まだ子供だけど<PAGE>アン",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 133,
+   "offset": 13266,
+   "length_bytes": 44,
+   "raw_hex": "808b1981662f5b808f744d4280cc0280d1fff5527f808b0081ce83c04d13fff6152e3906002c064d1315023c",
+   "text_jp": "ダの方がコドモっぼ{204}い!<LINE>アンダ 交燠って<PAGE>なんだか わかってないで",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 134,
+   "offset": 13310,
+   "length_bytes": 31,
+   "raw_hex": "0c5080d01f391f394d130082ed354980d6fff5836e83c281241981b782c34d",
+   "text_jp": "しょ?まだまだって 感じぃ{214}<LINE>啼蛬人の一庄っ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 135,
+   "offset": 13341,
+   "length_bytes": 13,
+   "raw_hex": "3cfff60a2e1583461623000239",
+   "text_jp": "で<PAGE>こんな斯にも いだ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 136,
+   "offset": 13354,
+   "length_bytes": 21,
+   "raw_hex": "191880d7fff5143c2300262f4d10268705fff5527f",
+   "text_jp": "のね…<LINE>とでも よがったよ鷺<LINE>アン",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>..."
+  },
+  {
+   "id": 137,
+   "offset": 13375,
+   "length_bytes": 28,
+   "raw_hex": "808b80d1fffcfff6836c4d3c292c1880d1fff50a1900822b832f4d44",
+   "text_jp": "ダ!<CLOSE><PAGE>終っでるわね!<LINE>この 下手っぴ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 138,
+   "offset": 13403,
+   "length_bytes": 36,
+   "raw_hex": "0280d1fff683064d822d224d3c192680d1fff5833f160082d7362e192680d7fffcfff652",
+   "text_jp": "い!<PAGE>帆っ込めっでのよ!<LINE>念に 何ずんのよ…<CLOSE><PAGE>ア",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 139,
+   "offset": 13439,
+   "length_bytes": 34,
+   "raw_hex": "7f808b002c322c2f2e150280d780d780d7fff5150082d72f82670210021980d7fffc",
+   "text_jp": "ンダ わげわがんない………<LINE>な 何が言いたいの…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 140,
+   "offset": 13474,
+   "length_bytes": 16,
+   "raw_hex": "fff6814d4d86360082372f2e150280d7",
+   "text_jp": "<PAGE>全っ然 分がんない…",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 141,
+   "offset": 13489,
+   "length_bytes": 32,
+   "raw_hex": "80d7fff5094d3303002429354e150280d1fff5527f808b00841a846002154880",
+   "text_jp": "…<LINE>けっごう やるじゃない!<LINE>アンダ 面曰いなぁ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<LINE>...<LINE>..."
+  },
+  {
+   "id": 142,
+   "offset": 13521,
+   "length_bytes": 32,
+   "raw_hex": "d7fff6821b13023c0085fe3015022680d1fff552808b5d168335816581fb1281",
+   "text_jp": "…<PAGE>見ていで 訖ぎないよ!<LINE>アダシに興味持つ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<PAGE>...<LINE>..."
+  },
+  {
+   "id": 143,
+   "offset": 13553,
+   "length_bytes": 43,
+   "raw_hex": "24152e13fff684a80084950c40284980d1fff552808b5d2d84d3826d0d291980d0fffcfff611504d3d8383",
+   "text_jp": "やなんて<PAGE>超 久しぶりぃ!<LINE>アダシを訪惑するの?<CLOSE><PAGE>ちょっど腐",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 144,
+   "offset": 13596,
+   "length_bytes": 19,
+   "raw_hex": "4d1329093d80d7fff602021906154880d7fff5",
+   "text_jp": "ってるけど…<PAGE>いいのかなぁ…<LINE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>"
+  },
+  {
+   "id": 145,
+   "offset": 13615,
+   "length_bytes": 41,
+   "raw_hex": "52808b5d2d80905716353c2e1980d180d0fff5808a7f80911a808a7f809180d1fff681241a812480d1",
+   "text_jp": "アダシをバカにじでんの!?<LINE>ゾンビはゾンビ!<PAGE>人は人!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 146,
+   "offset": 13656,
+   "length_bytes": 7,
+   "raw_hex": "fff65a80877331",
+   "text_jp": "<PAGE>ケジメぐ",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 147,
+   "offset": 13663,
+   "length_bytes": 7,
+   "raw_hex": "27023b32153402",
+   "text_jp": "らいづげなざい",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 148,
+   "offset": 13670,
+   "length_bytes": 23,
+   "raw_hex": "2680d1fff5853b0280d7fff5853b0280d7fff582e02a13",
+   "text_jp": "よ!<LINE>怖い…<LINE>怖い…<LINE>忘れて",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<LINE>..."
+  },
+  {
+   "id": 149,
+   "offset": 13693,
+   "length_bytes": 43,
+   "raw_hex": "1000140722072ffff626202f04292c80d7fff53602402e820c0284d3826d19832f84a01880d1fffcfff63c",
+   "text_jp": "た ときめきが<PAGE>よみがえるわ…<LINE>ずいぶん古い訪惑の手段ね!<CLOSE><PAGE>で",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 150,
+   "offset": 13736,
+   "length_bytes": 15,
+   "raw_hex": "23000f332ffff602022f230c2a1502",
+   "text_jp": "も そごが<PAGE>いいがもしれない",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 151,
+   "offset": 13751,
+   "length_bytes": 42,
+   "raw_hex": "80d1fff5825383382f0082d4832f188705fff50f2e15331482672c15313c23fff6527f808b0082181681",
+   "text_jp": "!<LINE>演技が 部手ね鷺<LINE>そんなごと言わなぐでも<PAGE>アンダ 気に",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 152,
+   "offset": 13793,
+   "length_bytes": 21,
+   "raw_hex": "ae4d392f27fff68111842783f2392680d1fff50334",
+   "text_jp": "Iっだがら<PAGE>大夫夬だよ!<LINE>うざ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 153,
+   "offset": 13814,
+   "length_bytes": 47,
+   "raw_hex": "4d3902154880d1fff624223c2680d180d1fff552808b5d2d0083bd270e3908fff615322a3e48008267033314fff682",
+   "text_jp": "っだいなぁ!<PAGE>やめでよ!!<LINE>アダシを 怒らせだく<PAGE>なげればぁ 言うごと<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 154,
+   "offset": 13861,
+   "length_bytes": 29,
+   "raw_hex": "d82f15304e00808b73392f271880d1fff1fff5152e2f00817d1582ed35",
+   "text_jp": "(がなぎゃ ダメだがらね!<PAUSE><LINE>なんが 変な感じ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 155,
+   "offset": 13890,
+   "length_bytes": 17,
+   "raw_hex": "4980d7fffcfff60124350280d780d780d7",
+   "text_jp": "ぃ…<CLOSE><PAGE>あやじい………",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 156,
+   "offset": 13908,
+   "length_bytes": 45,
+   "raw_hex": "fff582d72f008303832e2e3c293c355080d7fff5332e1500831083b882ed2dfff681652c0429152e1380d7fffc",
+   "text_jp": "<LINE>何が 汢租んでるでじょ…<LINE>ごんな 優越感を<PAGE>味わえるなんて…<CLOSE>",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 157,
+   "offset": 13953,
+   "length_bytes": 30,
+   "raw_hex": "fff6808a7f809116154d3c00262f4d1080d7fff538030203816d816980d7",
+   "text_jp": "<PAGE>ゾンビになっで よがった…<LINE>ぞういう怒痍…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 158,
+   "offset": 13982,
+   "length_bytes": 74,
+   "raw_hex": "fffcfff652808b5d0082803039154880d7fff552808b5d195e80987a5780cc808ffff681fb4d3c293c0c5080d0fffcfff68500023c82372f29192680d7fffbfff7834c31000586541980",
+   "text_jp": "<CLOSE><PAGE>アダシ 好ぎだなぁ…<LINE>アダシのスペルカ{204}ド<PAGE>持っでるでしょ?<CLOSE><PAGE>具いで分がるのよ…<MENU_A><MENU_B>帛ぐ お眦の",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>...<MENU_A><MENU_B>..."
+  },
+  {
+   "id": 159,
+   "offset": 14056,
+   "length_bytes": 26,
+   "raw_hex": "827b5315fff680987a606616353c188705ffef80d782d6814b1a",
+   "text_jp": "思イな<PAGE>ペルソナにじでね鷺<VOICE?>…今日は",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 160,
+   "offset": 14082,
+   "length_bytes": 15,
+   "raw_hex": "00818f828216fff6332a000132114e",
+   "text_jp": " 特別に<PAGE>ごれ あげちゃ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 161,
+   "offset": 14097,
+   "length_bytes": 12,
+   "raw_hex": "0326ffef3b1f2e1502194c80",
+   "text_jp": "うよ<VOICE?>づまんないのぉ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 162,
+   "offset": 14109,
+   "length_bytes": 52,
+   "raw_hex": "d780d780d7ffef152e2f82cf03264c80d1ffef80d752808b5d0083c4028124161afff65780cc808f013215022e394d1080d7fffc",
+   "text_jp": "………<VOICE?>なんが違うよぉ!<VOICE?>…アダシ 弱い人には<PAGE>カ{204}ドあげないんだった…<CLOSE>",
+   "notes": "",
+   "translation_en": "………<VOICE?>...<VOICE?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 163,
+   "offset": 14162,
+   "length_bytes": 29,
+   "raw_hex": "fff6234d140082de82372d839b023c188705ffef14280104360082d681",
+   "text_jp": "<PAGE>もっと 自分を屠いでね鷺<VOICE?>とりあえず 今",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 164,
+   "offset": 14190,
+   "length_bytes": 36,
+   "raw_hex": "4b1afff6332a000132140a0306154880d7fff583041681a9033d071a00527f808b23fff6",
+   "text_jp": "ぇは<PAGE>ごれ あげとこうかなぁ…<LINE>坎に会うどきは アンダも<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 165,
+   "offset": 14226,
+   "length_bytes": 13,
+   "raw_hex": "808a7f80911600154d3c10280c",
+   "text_jp": "ゾンビに なっでたりし",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 166,
+   "offset": 14239,
+   "length_bytes": 48,
+   "raw_hex": "13188705ffef332a23000132114e0380d1ffef52808b5d19005780cc808f2ffff682d32715021527008282160202323d",
+   "text_jp": "てね鷺<VOICE?>ごれも あげちゃう!<VOICE?>アダシの カ{204}ドが<PAGE>要らないなら 別にいいげど",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 167,
+   "offset": 14287,
+   "length_bytes": 48,
+   "raw_hex": "4c80d7fffc354e0100230381d2312680d7fff51a02005e80987a5780cc808f80d7fffcfff652808b5d80d7fffcfff623",
+   "text_jp": "ぉ…<CLOSE>じゃあ もう行ぐよ…<LINE>はい スペルカ{204}ド…<CLOSE><PAGE>アダシ…<CLOSE><PAGE>も",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<CLOSE><PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 168,
+   "offset": 14335,
+   "length_bytes": 31,
+   "raw_hex": "0381b781690080827b53161528390280d7ffef332a00332a013229062780d7",
+   "text_jp": "う一痍 ギレイになりだい…<VOICE?>ごれ ごれあげるから…",
+   "notes": "",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 169,
+   "offset": 14366,
+   "length_bytes": 34,
+   "raw_hex": "fff681b7814b393200821b82e2353c80d1ffef152e2f0084990413303a4e4d3980d7",
+   "text_jp": "<PAGE>一日だげ 見逃じで!<VOICE?>なんが 冷えてぎぢゃっだ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 170,
+   "offset": 14401,
+   "length_bytes": 32,
+   "raw_hex": "fff68282198346160081d2303902154880d7ffef0b4d0b3d0081e04d39273d03",
+   "text_jp": "<PAGE>別の斯に 行ぎだいなぁ…<VOICE?>さっさど 帰っだらどう",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 171,
+   "offset": 14432,
+   "length_bytes": 47,
+   "raw_hex": "80d0fff60b0100332a2d0132292f2780d1ffef3c2300527f808b152e2ffff602123c2381560e292f2700230381670c",
+   "text_jp": "?<PAGE>さあ ごれをあげるがら!<VOICE?>でも アンダなんが<PAGE>いつでも殺せるがら もう少し",
+   "notes": "",
+   "translation_en": "?<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 172,
+   "offset": 14479,
+   "length_bytes": 41,
+   "raw_hex": "fff681fc060c3c0531192300832f1880d7ffef80d780d780d780d780d780d780d780d780d780d7fffc",
+   "text_jp": "<PAGE>生かしでおぐのも 手ね…<VOICE?>…………………………<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>…………………………<CLOSE>"
+  },
+  {
+   "id": 173,
+   "offset": 14521,
+   "length_bytes": 76,
+   "raw_hex": "fff65e80987a5780cc808f000132294a80d1ffef0f033980d1fffcfff6527f808b1982181681ae27150275808d1afff652808b5d2f008465411301322980d7fffbfff73c230033191f1f81b7",
+   "text_jp": "<PAGE>スペルカ{204}ド あげるぅ!<VOICE?>そうだ!<CLOSE><PAGE>アンダの気に入らないヤヅは<PAGE>アダシが 食べてあげる…<MENU_A><MENU_B>でも ごのまま一",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<CLOSE><PAGE>...<PAGE>...<MENU_A><MENU_B>..."
+  },
+  {
+   "id": 174,
+   "offset": 14596,
+   "length_bytes": 61,
+   "raw_hex": "8336161afff681d23215021926184b80d7ffef38033980d1005e80987a5780cc808f82fd0d2c80d1fffc52808b5d2f00011f288465412a15028237fff6",
+   "text_jp": "緒には<PAGE>行げないのよねぇ…<VOICE?>ぞうだ! スペルカ{204}ド宸すわ!<CLOSE>アダシが あまり食べれない分<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE>...<PAGE>"
+  },
+  {
+   "id": 175,
+   "offset": 14657,
+   "length_bytes": 56,
+   "raw_hex": "80987a6066161a008465410b0e3c1880d1ffef527f808b14818b4d39270052808b5d80d7fff682101f3c00808a7f809116154d3a4e0380d7",
+   "text_jp": "ペルソナには 食べさせでね!<VOICE?>アンダと貰っだら アダシ…<PAGE>沚まで ゾンビになっぢゃう…",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 176,
+   "offset": 14713,
+   "length_bytes": 55,
+   "raw_hex": "fffcfff681e02b032f154880d780d780d7fff580d7332a0023274d3c312a2980d0fffcfff63c230052808b5d0627354e0082f2061580d7",
+   "text_jp": "<CLOSE><PAGE>帰ろうがなぁ………<LINE>…ごれ もらっでぐれる?<CLOSE><PAGE>でも アダシからじゃ 嫌かな…",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 177,
+   "offset": 14768,
+   "length_bytes": 39,
+   "raw_hex": "fffc81503c0081f6133c230002022680d7ffef24283902333d80d7fff61f390039310b2e000129",
+   "text_jp": "<CLOSE>後で 捨てでも いいよ…<VOICE?>やりだいごど…<PAGE>まだ だぐさん ある",
+   "notes": "",
+   "translation_en": "<CLOSE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 178,
+   "offset": 14807,
+   "length_bytes": 35,
+   "raw_hex": "192680d7fffcfff6392f2780d780d780d7ffef80d75e80987a5780cc808f0132294a80",
+   "text_jp": "のよ…<CLOSE><PAGE>だがら………<VOICE?>…スペルカ{204}ドあげるぅ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 179,
+   "offset": 14842,
+   "length_bytes": 30,
+   "raw_hex": "d1fffcfff6332a3c0082ec353c184b80d1ffef3d03353c00818b4d3c2919",
+   "text_jp": "!<CLOSE><PAGE>ごれで 許じでねぇ!<VOICE?>どうじで 貰っでるの",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 180,
+   "offset": 14872,
+   "length_bytes": 50,
+   "raw_hex": "80d0fff682f82e3c2a3e0202354e2e80d7fff584950c4028164980d7fff681241681a94d39201002154880d7fffcfff6841c",
+   "text_jp": "?<PAGE>遊んでればいいじゃん…<LINE>久しぶりにぃ…<PAGE>人に会っだみたいなぁ…<CLOSE><PAGE>記",
+   "notes": "",
+   "translation_en": "?<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 181,
+   "offset": 14922,
+   "length_bytes": 50,
+   "raw_hex": "8153160082d72f003a500339028705fff1fff552808b5d0082d682411a839282f22f813d021980d1fff60b4d0b3d0081e02e",
+   "text_jp": "衾に 何が ぢょうだい鷺<PAUSE><LINE>アダシ 今巳は機嫌が悪いの!<PAGE>さっさど 帰ん",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 182,
+   "offset": 14972,
+   "length_bytes": 54,
+   "raw_hex": "15023dfff6835d02823800821b292680d1fff552808b5d16008157832f3513830f35021527fff680977b80897f808f190080c1123127",
+   "text_jp": "ないど<PAGE>痛い目 見るよ!<LINE>アダシに 梠手じて歓じいなら<PAGE>プレゼンドの 1つぐら",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 183,
+   "offset": 15026,
+   "length_bytes": 47,
+   "raw_hex": "02fff6232704292e3c3550031880d1fff1fff5827a82182f00141f2715021980d7fffcfff6394d3c00527f808b1983",
+   "text_jp": "い<PAGE>もらえるんでじょうね!<PAUSE><LINE>寒気が とまらないの…<CLOSE><PAGE>だっで アンダの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 184,
+   "offset": 15073,
+   "length_bytes": 38,
+   "raw_hex": "cc2ffff6853b022e39232e80d780d780d7fff5527f808b80d7fffc83cc2f853b480280d1fff6",
+   "text_jp": "{204}が<PAGE>怖いんだもん………<LINE>アンダ…<CLOSE>顔が怖ぁい!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>...<PAGE>"
+  },
+  {
+   "id": 185,
+   "offset": 15111,
+   "length_bytes": 42,
+   "raw_hex": "81ce83c03510081502264c80d780d780d7fff5020282188237201002154880d7fffcfff6527f808b0052",
+   "text_jp": "交燠じたくないよぉ………<LINE>いい気分みたいなぁ…<CLOSE><PAGE>アンダ ア",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 186,
+   "offset": 15153,
+   "length_bytes": 49,
+   "raw_hex": "808b5d14fff681ce83c035132015028705fff57880a15880cc1533142ffff60128380315835782ed0d292e394880d7fffc",
+   "text_jp": "ダシと<PAGE>交燠じてみない鷺<LINE>ラッキ{204}なごとが<PAGE>ありぞうな斈感するんだぁ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 187,
+   "offset": 15203,
+   "length_bytes": 46,
+   "raw_hex": "fff6152e2f0023270410280c13188705fff1fff5ffed52808b5d0084f10c022e3c4bfff68267023902333d2f0129",
+   "text_jp": "<PAGE>なんが もらえたりしてね鷺<PAUSE><LINE><VOICE?>アダシ 恠しいんでぇ<PAGE>言いだいごどがある",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 188,
+   "offset": 15248,
+   "length_bytes": 47,
+   "raw_hex": "1527fff6832f83121682674d3c261880d1fff5ffee52808b5d0084f10c022e39093d4cfff682d706312a292e152748",
+   "text_jp": "なら<PAGE>手嫗に言っでよね!<LINE><VOICE?>アダシ 恠しいんだけどぉ<PAGE>何かぐれるんならぁ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 189,
+   "offset": 15295,
+   "length_bytes": 50,
+   "raw_hex": "fff681aa0082d8023c0132294a80d1fff1fff5ffee527f808b00853b02093d4c80d7fff652808b5d008335816501292f2748",
+   "text_jp": "<PAGE>話 聞いであげるぅ!<PAUSE><LINE><VOICE?>アンダ 怖いけどぉ…<PAGE>アダシ 興味あるがらぁ",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 190,
+   "offset": 15345,
+   "length_bytes": 37,
+   "raw_hex": "80d7fff681ce83c0351002154880d780d7fff5ffec11504d3d3c23fff6817d15333d0c1027",
+   "text_jp": "…<PAGE>交燠じたいなぁ……<LINE>[ec]ちょっどでも<PAGE>変なごどしたら",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>[ec]...<PAGE>..."
+  },
+  {
+   "id": 191,
+   "offset": 15382,
+   "length_bytes": 38,
+   "raw_hex": "fff652808b5d000d3181e0292f271880d7fff5ffee3d304d8705fffcfff6527f808b19863d16",
+   "text_jp": "<PAGE>アダシ すぐ帰るがらね…<LINE><VOICE?>どぎっ鷺<CLOSE><PAGE>アンダの樔に",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 192,
+   "offset": 15420,
+   "length_bytes": 27,
+   "raw_hex": "fff681e902822d1f2a3c351f02380380d1fff5ffeb184b80d10052",
+   "text_jp": "<PAGE>嗅い込まれでじまいぞう!<LINE><VOICE?>ねぇ! ア",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 193,
+   "offset": 15447,
+   "length_bytes": 33,
+   "raw_hex": "808b5d14fff605354e4128351f355080d1fff5ffed527f808b354e1502194c80d1",
+   "text_jp": "ダシと<PAGE>おじゃべりじまじょ!<LINE><VOICE?>アンダじゃないのぉ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 194,
+   "offset": 15481,
+   "length_bytes": 48,
+   "raw_hex": "fff6830219812416840d06093919164980d1fff5ffed0a142c4d3c000531093d4cfff65280d7fffc52808b5d2d815635",
+   "text_jp": "<PAGE>他の人に声かけだのにぃ!<LINE><VOICE?>ことわっで おぐけどぉ<PAGE>ア…<CLOSE>アダシを殺じ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 195,
+   "offset": 15528,
+   "length_bytes": 49,
+   "raw_hex": "3927fff6815083780d292f271880d780d1fff5ffeb527f808b0052808b5d198765818716fff6152981242f231880d1fffc",
+   "text_jp": "だら<PAGE>後恒するがらね…!<LINE><VOICE?>アンダ アダシの梗物に<PAGE>なる人がもね!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 196,
+   "offset": 15578,
+   "length_bytes": 65,
+   "raw_hex": "fff6022b022b00825082eb353c292c4880d1fff5ffed527f808b2039021575808d00811182f20280d1fff6820882091583cc0c3a4e4d3c0b80d1fffcfff6381982",
+   "text_jp": "<PAGE>いろいろ 期待じでるわぁ!<LINE><VOICE?>アンダみだいなヤヅ 大嫌い!<PAGE>乎和な顔しぢゃっでさ!<CLOSE><PAGE>ぞの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 197,
+   "offset": 15642,
+   "length_bytes": 52,
+   "raw_hex": "470e0052808b5d16238237323c80d1fff1fff5ffec52808b5d003b02818282d91f3cfff681248125394d10192680d780d7fff60f",
+   "text_jp": "ぽせ アダシにも分げで!<PAUSE><LINE>[ec]アダシ づい最近まで<PAGE>人間だったのよ……<PAGE>そ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>[ec]...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 198,
+   "offset": 15694,
+   "length_bytes": 55,
+   "raw_hex": "332e3d3382dc043c81ce83c035131880d7fff5ffeb152e2f00817d158218823780d7fffcfff6527f808b4d130052808b5d19fff6811181",
+   "text_jp": "ごんどご考えで交燠じてね…<LINE><VOICE?>なんが 変な気分…<CLOSE><PAGE>アンダって アダシの<PAGE>大",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE><VOICE?>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 199,
+   "offset": 15749,
+   "length_bytes": 25,
+   "raw_hex": "f9150082d706161528380380d780d780d7fff580d73b1f2849",
+   "text_jp": "午な 何かになりぞう………<LINE>…づまりぃ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 200,
+   "offset": 15774,
+   "length_bytes": 50,
+   "raw_hex": "fffcfff652808b5d1600848020333d80d0ffef80d7527f808b003b1f2e150280d1fffcfff683cc2300821b393115022c80d1",
+   "text_jp": "<CLOSE><PAGE>アダシに 頼みごど?<VOICE?>…アンダ づまんない!<CLOSE><PAGE>顔も 見だぐないわ!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 201,
+   "offset": 15825,
+   "length_bytes": 54,
+   "raw_hex": "fff631363136353c29140081560d2c2680d1ffef80d752808b5d2d0082240d3b232880d0fffcfff602022680d7332e1584693c022926",
+   "text_jp": "<PAGE>ぐずぐずじでると 殺すわよ!<VOICE?>…アダシを 消すづもり?<CLOSE><PAGE>いいよ…ごんな姿でいるよ",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 202,
+   "offset": 15878,
+   "length_bytes": 30,
+   "raw_hex": "28fff6304d14001f0c80d7fffc3c2380d7ffef80d7527f808b1981f21602",
+   "text_jp": "り<PAGE>ぎっと まし…<CLOSE>でも…<VOICE?>…アンダの側にい",
+   "notes": "",
+   "translation_en": "...<PAGE>...<CLOSE>...<VOICE?>..."
+  },
+  {
+   "id": 203,
+   "offset": 15908,
+   "length_bytes": 50,
+   "raw_hex": "293dfff682d7390600014d392f021580d7fff580d752808b5d1605833b020d29333d2ffff601292e3c0c5080d0fffcfff684",
+   "text_jp": "るど<PAGE>何だか あっだがいな…<LINE>…アダシにお願いするごどが<PAGE>あるんでしょ?<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 204,
+   "offset": 15958,
+   "length_bytes": 53,
+   "raw_hex": "1a81c2392f27000b4d0b3d82674d3c80d1ffef80d7527f808b1982670333141527fff682d73c230082d8023c01322980d780d780d7",
+   "text_jp": "は倒だがら さっさど言っで!<VOICE?>…アンダの言うごとなら<PAGE>何でも 聞いであげる………",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 205,
+   "offset": 16011,
+   "length_bytes": 59,
+   "raw_hex": "fffcfff61f361a0081aa0c3c203c2680d7ffef80d781888491152e2f003d033c2302022c80d152808b5d1600833581652d81fb4d3c312a10fff652",
+   "text_jp": "<CLOSE><PAGE>まずは 話しでみでよ…<VOICE?>…理由なんが どうでもいいわ!アダシに 興味を持っでぐれた<PAGE>ア",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 206,
+   "offset": 16070,
+   "length_bytes": 47,
+   "raw_hex": "7f808b19846316008216111002192680d1ffef80d782372f4d392c80d1fff6332a1a00856615192680d1fffcfff685",
+   "text_jp": "ンダの役に 立ちたいのよ!<VOICE?>…分がっだわ!<PAGE>ごれは 夢なのよ!<CLOSE><PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 207,
+   "offset": 16117,
+   "length_bytes": 34,
+   "raw_hex": "66260085661681c81f4d3c290380cc80d1fff580d782428369394d102700527f808b",
+   "text_jp": "ナよ 夢に決まっでるう{204}!<LINE>…本当だったら アンダ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 208,
+   "offset": 16151,
+   "length_bytes": 53,
+   "raw_hex": "152e2ffff68157832f160c1502192680d1fff580d752808b5d0082f11a00364d1481402f27fff6527f808b19331400828007394d39",
+   "text_jp": "なんが<PAGE>梠手にしないのよ!<LINE>…アダシ 実は ずっと前がら<PAGE>アンダのごと 好きだっだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 209,
+   "offset": 16204,
+   "length_bytes": 37,
+   "raw_hex": "1980d1fffcfff61e80d7824283692680d1fff552808b5d2f0083bc35272a29191afff60582",
+   "text_jp": "の!<CLOSE><PAGE>ほ…本当よ!<LINE>アダシが 信じられるのは<PAGE>お",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 210,
+   "offset": 16241,
+   "length_bytes": 11,
+   "raw_hex": "2939094b80d7fffcfff6ff",
+   "text_jp": "るだけぇ…<CLOSE><PAGE>[FF]",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>[FF]"
+  },
+  {
+   "id": 211,
+   "offset": 16252,
+   "length_bytes": 56,
+   "raw_hex": "f8857a188705ffef80867f808280a380d1fff581fb4d3c1502354e15021980d1fffcfff61f4d393180d10080917f809480cc81241afff605",
+   "text_jp": "｝円ね鷺<VOICE?>ザンギュ!<LINE>持っでないじゃないの!<CLOSE><PAGE>まっだぐ! ビンボ{204}人は<PAGE>お",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 212,
+   "offset": 16308,
+   "length_bytes": 20,
+   "raw_hex": "81d93f354e15024d3c82ed354980d180d1fff501",
+   "text_jp": "唾びじゃないっで感じぃ!!<LINE>あ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 213,
+   "offset": 16328,
+   "length_bytes": 33,
+   "raw_hex": "0180d780917f809480cc812415191880d7fff538030203816d8169168198291527",
+   "text_jp": "あ…ビンボ{204}人なのね…<LINE>ぞういう怒痍に申るなら",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 214,
+   "offset": 16361,
+   "length_bytes": 29,
+   "raw_hex": "fff6527f808b198145003e270d2c2680d1fff580d7527f808b1a008118",
+   "text_jp": "<PAGE>アンダの体 ばらすわよ!<LINE>…アンダは 犬",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 215,
+   "offset": 16390,
+   "length_bytes": 46,
+   "raw_hex": "845516fff681d23215023c0c50031880d7fff5811681784980d1fffcfff6811681782f830f0c024d1382ed354980",
+   "text_jp": "匡に<PAGE>行げないでしょうね…<LINE>魔石ぃ!<CLOSE><PAGE>魔石が歓しいって感じぃ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 216,
+   "offset": 16436,
+   "length_bytes": 14,
+   "raw_hex": "d1fffcfff680c1123c0002022f27",
+   "text_jp": "!<CLOSE><PAGE>1つで いいがら",
+   "notes": "",
+   "translation_en": "!<CLOSE><PAGE>..."
+  },
+  {
+   "id": 217,
+   "offset": 16450,
+   "length_bytes": 55,
+   "raw_hex": "4880d1ffef010180d7fffc8583060280d7fff511504d3d4c80d10081fb4d3c15021527fff60f03391400830e81d6168267021534022680",
+   "text_jp": "ぁ!<VOICE?>ああ…<CLOSE>暦かい…<LINE>ちょっどぉ! 持っでないなら<PAGE>そうだと 素直に言いなざいよ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<CLOSE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 218,
+   "offset": 16505,
+   "length_bytes": 57,
+   "raw_hex": "d1fffc1f4d39310082df1631292c1880d1fff523030052808b5d4d1381f481bf392c80d7fffcfff68116817881fb4d3c0f0315008124812515",
+   "text_jp": "!<CLOSE>まっだぐ 腹にぐるわね!<LINE>もう アダシって不渾だわ…<CLOSE><PAGE>魔石持っでそうな 人間な",
+   "notes": "",
+   "translation_en": "!<CLOSE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 219,
+   "offset": 16562,
+   "length_bytes": 33,
+   "raw_hex": "27fff68302160002104d3c0203191680d7fff552808b5d160024272a1502260316",
+   "text_jp": "ら<PAGE>他に いたっでいうのに…<LINE>アダシに やられないように",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 220,
+   "offset": 16595,
+   "length_bytes": 52,
+   "raw_hex": "fff60e0237020082182d120929191880d1fff5814f82ae005a6215191880d7fffcfff6527f808b2039021581248125161afff682",
+   "text_jp": "<PAGE>せいぜい 気をつけるのね!<LINE>黠楫 ケチなのね…<CLOSE><PAGE>アンダみだいな人間には<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 221,
+   "offset": 16647,
+   "length_bytes": 56,
+   "raw_hex": "d70082674d3c23008162837d20390280d7fff5392e3d0381d681ae16008267032c80d1fffcfff6fff4830f350219ffef81a085c981d681ae",
+   "text_jp": "… 言っでも 無驟みだい…<LINE>だんどう直入に 言うわ!<CLOSE><PAGE>[f4]歓じいの<VOICE?>単尹直入",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>[f4]...<VOICE?>..."
+  },
+  {
+   "id": 222,
+   "offset": 16703,
+   "length_bytes": 24,
+   "raw_hex": "16008267032c80d1fff6fff4830f350219ffef820581781a",
+   "text_jp": "に 言うわ!<PAGE>[f4]歓じいの<VOICE?>宝石は",
+   "notes": "",
+   "translation_en": "...<PAGE>[f4]...<VOICE?>..."
+  },
+  {
+   "id": 223,
+   "offset": 16727,
+   "length_bytes": 6,
+   "raw_hex": "008319822119",
+   "text_jp": " 永遠の",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 224,
+   "offset": 16734,
+   "length_bytes": 52,
+   "raw_hex": "fff601332f2a15194c80d7fff5034d3880d7fff583642a1581261900104d3980c112198226202d82ff2b034d3c02031980d0fffc",
+   "text_jp": "<PAGE>あごがれなのぉ…<LINE>うっぞ…<LINE>哀れな女の たっだ1つの筆みを剖ろうっでいうの?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 225,
+   "offset": 16785,
+   "length_bytes": 30,
+   "raw_hex": "fff6527f808b003a5041283e4880d180d1fff58282160002021980d7fffc",
+   "text_jp": "<PAGE>アンダ ぢょべりばぁ!!<LINE>別に いいの…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 226,
+   "offset": 16816,
+   "length_bytes": 46,
+   "raw_hex": "fff6808b732314394d392f2780d780d780d7fff5381981fc073c0229817e814519fff6858323282d80d7fffcfff6",
+   "text_jp": "<PAGE>ダメもとだっだがら………<LINE>ぞの生きでいる身体の<PAGE>暦もりを…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 227,
+   "offset": 16861,
+   "length_bytes": 13,
+   "raw_hex": "52808b5d1623008237323c80d7",
+   "text_jp": "アダシにも 分げで…",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 228,
+   "offset": 16874,
+   "length_bytes": 53,
+   "raw_hex": "80d780d7ffef81fc308327292c809a80d7fff582fe4d3c2981241a00815a323cfff601321534024d3c0082642c152f4d3980d0fffc",
+   "text_jp": "……<VOICE?>生ぎ返るわァ…<LINE>附っでる人は 肪げで<PAGE>あげなざいっで 瓷わながっだ?<CLOSE>",
+   "notes": "",
+   "translation_en": "……<VOICE?>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 229,
+   "offset": 16927,
+   "length_bytes": 31,
+   "raw_hex": "6f7f6516008084808c1575808d80d180d1fff50c500e2e00808a7f80911880",
+   "text_jp": "ホントに ゲヂなヤヅ!!<LINE>しょせん ゾンビね",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 230,
+   "offset": 16958,
+   "length_bytes": 26,
+   "raw_hex": "d7fffcfff6828c81252f00827a022c80d7fff5808b7180ccfff5",
+   "text_jp": "…<CLOSE><PAGE>械間が 寒いわ…<LINE>ダミ{204}<LINE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<LINE>"
+  }
+ ]
+}

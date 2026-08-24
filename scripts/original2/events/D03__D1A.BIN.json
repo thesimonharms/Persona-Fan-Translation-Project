@@ -1,0 +1,87 @@
+{
+ "file": "D03/D1A.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 50604,
+   "length_bytes": 10,
+   "raw_hex": "8192812583322a2680d7",
+   "text_jp": "時間切れよ…",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 50618,
+   "length_bytes": 15,
+   "raw_hex": "01151010111982d2813419012f071a",
+   "text_jp": "あなたたちの必迅のあがきは",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 50635,
+   "length_bytes": 21,
+   "raw_hex": "80da8319822119813a80db198792820d2d024d0f03",
+   "text_jp": "｜永遠の夜』の刺禾をいっそう",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 50658,
+   "length_bytes": 18,
+   "raw_hex": "82b32406160d29161a823f82801984c98335",
+   "text_jp": "棄やかにするには絶好の余興",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 50680,
+   "length_bytes": 4,
+   "raw_hex": "394d102c",
+   "text_jp": "だったわ",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 50691,
+   "length_bytes": 12,
+   "raw_hex": "814082c31a0a0a3c836c2c28",
+   "text_jp": "前庄はここで終わり",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 50710,
+   "length_bytes": 17,
+   "raw_hex": "80da8319822119813a80db140203836119",
+   "text_jp": "｜永遠の夜』という名の",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 50729,
+   "length_bytes": 16,
+   "raw_hex": "5978537080a1595e2f87542d0132292c",
+   "text_jp": "クライマックスが冪をあげるわ",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 50936,
+   "length_bytes": 14,
+   "raw_hex": "85d21a830908839c340b2a130229",
+   "text_jp": "扉は圜く閉ざされている",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 50954,
+   "length_bytes": 13,
+   "raw_hex": "811f161a8198272a0f03161502",
+   "text_jp": "夘には申られそうにない",
+   "translation_en": "..."
+  }
+ ]
+}

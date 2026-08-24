@@ -1,0 +1,63 @@
+{
+ "file": "D00/D06.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 51660,
+   "length_bytes": 7,
+   "raw_hex": "3d2a160d2980d0",
+   "text_jp": "どれにする?",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 51812,
+   "length_bytes": 18,
+   "raw_hex": "809459271982b416853981242f244d130829",
+   "text_jp": "ボクらの街に銖人がやってくる",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 51832,
+   "length_bytes": 7,
+   "raw_hex": "58712f82e81214",
+   "text_jp": "キミが勝つと",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 51841,
+   "length_bytes": 18,
+   "raw_hex": "8539812414024d0c5016841c815385b88534",
+   "text_jp": "銖人といっしょに記衾樶髯",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 51870,
+   "length_bytes": 8,
+   "raw_hex": "01260a241f240d0c",
+   "text_jp": "あよこやまやすし",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 51882,
+   "length_bytes": 8,
+   "raw_hex": "02050a293c0c060c",
+   "text_jp": "いおこるでしかし",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 51948,
+   "length_bytes": 20,
+   "raw_hex": "81c78158830506158257833485bf2f83a8382b02",
+   "text_jp": "茴忤葦かな作家睫が勢ぞろい",
+   "translation_en": "..."
+  }
+ ]
+}

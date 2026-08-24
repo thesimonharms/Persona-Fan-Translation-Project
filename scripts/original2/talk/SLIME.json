@@ -1,0 +1,2086 @@
+{
+ "file": "TALK/SLIME",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 30,
+   "raw_hex": "5680905580d7fffcfff656808e00818283c46a00813d8116808b808a80d7",
+   "text_jp": "オバエ…<CLOSE><PAGE>オデ 最弱ノ 悪魔ダゾ…",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 1,
+   "offset": 8242,
+   "length_bytes": 51,
+   "raw_hex": "fff6607b808e7400830f5d53667f6480d1fff5568090550056808e7e0081ce83c06afff683488264855267005d647a808b7c80",
+   "text_jp": "<PAGE>ソレデモ 歓シイナンテ!<LINE>オバエ オデヲ 交燠ノ<PAGE>練瓷台ニ シテルダロ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 2,
+   "offset": 8293,
+   "length_bytes": 53,
+   "raw_hex": "d1fff66c808f5300677f80847f808b80d1fff5568090550056808e0082d282d35780d0fff6568090550056808e0082d282d35780d0",
+   "text_jp": "!<PAGE>ヒドイ ニンゲンダ!<LINE>オバエ オデ 必要カ?<PAGE>オバエ オデ 必要カ?",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 3,
+   "offset": 8347,
+   "length_bytes": 56,
+   "raw_hex": "fff6568090550056808e0082d282d35780d1fff556808e00818283c46a00813d8116808b80d7fff6568090550070808b0081f759667b7a57",
+   "text_jp": "<PAGE>オバエ オデ 必要カ!<LINE>オデ 最弱ノ 悪魔ダ…<PAGE>オバエ マダ 独クナレルカ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 4,
+   "offset": 8402,
+   "length_bytes": 45,
+   "raw_hex": "78fff656808e00547875705d53808a80d1fff55680905580d1fff656808e00832583c4808b577880a164fff683",
+   "text_jp": "ラ<PAGE>オデ ウラヤマシイゾ!<LINE>オバエ!<PAGE>オデ 茸弱ダカラッテ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 5,
+   "offset": 8447,
+   "length_bytes": 39,
+   "raw_hex": "bd86a57a5b65006653808b7c5480d180d1fff556808e00818283c46a00813d8116808b808a80d7",
+   "text_jp": "X噪ルコト ナイダロウ!!<LINE>オデ 最弱ノ 悪魔ダゾ…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 6,
+   "offset": 8486,
+   "length_bytes": 33,
+   "raw_hex": "fffcfff65b7d535b65007573645a7c80d7fff55680905500818283c46a0056808e",
+   "text_jp": "<CLOSE><PAGE>コワイコト ヤメテケロ…<LINE>オバエ 最弱ノ オデ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 7,
+   "offset": 8520,
+   "length_bytes": 56,
+   "raw_hex": "fff684d354667f6400817d8124808b6680d7fff5568090550056808e7e0081ce83c06afff683488264855267005d647a808b7c80d1fff660",
+   "text_jp": "<PAGE>訪ウナンテ 変人ダナ…<LINE>オバエ オデヲ 交燠ノ<PAGE>練瓷台ニ シテルダロ!<PAGE>ソ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 8,
+   "offset": 8575,
+   "length_bytes": 31,
+   "raw_hex": "7b808e0084d354667f64006c808f5380d1fff553756600835782ed5e7a80d7",
+   "text_jp": "レデ 訪ウナンテ ヒドイ!<LINE>イヤナ 斈感スル…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 9,
+   "offset": 8607,
+   "length_bytes": 40,
+   "raw_hex": "fffcfff656808e00822182fa5d65597780d7fff55680905500824f5465fff656808e008145598088",
+   "text_jp": "<CLOSE><PAGE>オデ 遠竃シトクヨ…<LINE>オバエ 歌ウト<PAGE>オデ 体クズ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 10,
+   "offset": 8646,
+   "length_bytes": 30,
+   "raw_hex": "7b7a80d180d1fff675737c0075737c80d1fff556809055007573655a80d7",
+   "text_jp": "レル!!<PAGE>ヤメロ ヤメロ!<LINE>オバエ ヤメトケ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 11,
+   "offset": 8677,
+   "length_bytes": 29,
+   "raw_hex": "fff656808e6a82da005b7d7b7a00537580d7fff55353824f808b6680d7",
+   "text_jp": "<PAGE>オデノ芹 コワレル イヤ…<LINE>イイ歌ダナ…",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 12,
+   "offset": 8705,
+   "length_bytes": 48,
+   "raw_hex": "fff656808e0082fc5d596680a1617780d1fff55680905580d7fffcfff656808e00818281996a00813d8116808b808a80",
+   "text_jp": "<PAGE>オデ 娼シクナッタヨ!<LINE>オバエ…<CLOSE><PAGE>オデ 最倡ノ 悪魔ダゾ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 13,
+   "offset": 8753,
+   "length_bytes": 42,
+   "raw_hex": "d7fff6607b808e740053537f808b6680d1fff5568090550056808e6a5b65fff657785780a1647a808b7c",
+   "text_jp": "…<PAGE>ソレデモ イインダナ!<LINE>オバエ オデノコト<PAGE>カラカッテルダロ",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 14,
+   "offset": 8795,
+   "length_bytes": 53,
+   "raw_hex": "80d1fff6537566008252808b6680d180d1fff5568090550056808e0082d282d35780d0fff6568090550056808e0082d282d35780d0",
+   "text_jp": "!<PAGE>イヤナ 奴ダナ!!<LINE>オバエ オデ 必要カ?<PAGE>オバエ オデ 必要カ?",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 15,
+   "offset": 8849,
+   "length_bytes": 53,
+   "raw_hex": "fff6568090550056808e0082d282d35780d1fff556808e00818283c4666a0082de8237808e74fff67759007d5780a1647a80d180d1",
+   "text_jp": "<PAGE>オバエ オデ 必要カ!<LINE>オデ 最弱ナノ 自分デモ<PAGE>ヨク ワカッテル!!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 16,
+   "offset": 8902,
+   "length_bytes": 53,
+   "raw_hex": "fff65670550083706358808b7c5480d180d1fff556808e00818283c4666a0082de8237808e74fff67759007d5780a1647a80d7fffc",
+   "text_jp": "<PAGE>オマエ 嘘ツキダロウ!!<LINE>オデ 最弱ナノ 自分デモ<PAGE>ヨク ワカッテル…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 17,
+   "offset": 8954,
+   "length_bytes": 51,
+   "raw_hex": "fff682d7576a007d6600808b7c546680d7fff5568090550056808e00607f6667fff65353813d8116808b6500827b546a5780d0",
+   "text_jp": "<PAGE>何カノ ワナ ダロウナ…<LINE>オバエ オデ ソンナニ<PAGE>イイ悪魔ダト 思ウノカ?",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 18,
+   "offset": 9005,
+   "length_bytes": 33,
+   "raw_hex": "fff670520082fc5d5357780053537580d1fff55680905500817d665b6500826754",
+   "text_jp": "<PAGE>マア 娼シイカラ イイヤ!<LINE>オバエ 変ナコト 言ウ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 19,
+   "offset": 9038,
+   "length_bytes": 56,
+   "raw_hex": "fff656808e0056745d7c5300827b5480d1fff55680905500546000635361808b7c80d1fff656809055007759665300677f80847f80d1fff6",
+   "text_jp": "<PAGE>オデ オモシロイ 思ウ!<LINE>オバエ ウソ ツイタダロ!<PAGE>オバエ ヨクナイ ニンゲン!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 20,
+   "offset": 9094,
+   "length_bytes": 44,
+   "raw_hex": "56808e008280586700667b665380d180d1fff5607f660081aa808100527a6a5780d1fff6667f576a00696167",
+   "text_jp": "オデ 好キニ ナレナイ!!<LINE>ソンナ 話ガ アルノカ!<PAGE>ナンカノ ネタニ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 21,
+   "offset": 9138,
+   "length_bytes": 34,
+   "raw_hex": "fff68127557a0057745d7b665380d180d1fff55680905500853b808179808b6680d1",
+   "text_jp": "<PAGE>払エル カモシレナイ!!<LINE>オバエ 怖ガリダナ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 22,
+   "offset": 9172,
+   "length_bytes": 52,
+   "raw_hex": "fff681248125785d5964005353808a80d1fff556808e00818283c4666a0082de8237808e74fff67759007d5780a1647a80d180d1",
+   "text_jp": "<PAGE>人間ラシクテ イイゾ!<LINE>オデ 最弱ナノ 自分デモ<PAGE>ヨク ワカッテル!!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 23,
+   "offset": 9225,
+   "length_bytes": 53,
+   "raw_hex": "fff65670550083706358808b7c5480d180d1fff5568090550056808e00607f6667fff681f753813d8116808b6500827b546a5780d0",
+   "text_jp": "<PAGE>オマエ 嘘ツキダロウ!!<LINE>オバエ オデ ソンナニ<PAGE>独イ悪魔ダト 思ウノカ?",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 24,
+   "offset": 9277,
+   "length_bytes": 50,
+   "raw_hex": "fff670520082fc5d5357780053537580d1fff5568090550056808e7e0082428218808efff6667f8095005e7a8218666a5780",
+   "text_jp": "<PAGE>マア 娼シイカラ イイヤ!<LINE>オバエ オデヲ 本気デ<PAGE>ナンパ スル気ナノカ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 25,
+   "offset": 9327,
+   "length_bytes": 37,
+   "raw_hex": "d0fff6817d6600677f80847f808b6680d7fff5828a6b00737f5953666a808b80d1fff65680",
+   "text_jp": "?<PAGE>変ナ ニンゲンダナ…<LINE>俺ハ メンクイナノダ!<PAGE>オ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "?<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 26,
+   "offset": 9364,
+   "length_bytes": 47,
+   "raw_hex": "9055005766790083938475808b808a80d1fff5568090550056808e7e0082428218808efff6667f8095005e7a821866",
+   "text_jp": "バエ カナリ 失格ダゾ!<LINE>オバエ オデヲ 本気デ<PAGE>ナンパ スル気ナ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 27,
+   "offset": 9411,
+   "length_bytes": 43,
+   "raw_hex": "6a5780d0fff653577b647a808a80d780d7fff5716759530056808e7efff6667f8095005e7a667f64005680",
+   "text_jp": "ノカ?<PAGE>イカレテルゾ……<LINE>ミニクイ オデヲ<PAGE>ナンパ スルナンテ オ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 28,
+   "offset": 9454,
+   "length_bytes": 41,
+   "raw_hex": "9055fff656575d530056575d5380d180d1fff556745d7c5300808280a2808300808b6680d1fff65680",
+   "text_jp": "バエ<PAGE>オカシイ オカシイ!!<LINE>オモシロイ ギャグ ダナ!<PAGE>オ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 29,
+   "offset": 9495,
+   "length_bytes": 26,
+   "raw_hex": "8e00568090550082ed82105d61808a80d1fff5637078665380d1",
+   "text_jp": "デ オバエ 感沚シタゾ!<LINE>ツマラナイ!",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 30,
+   "offset": 9521,
+   "length_bytes": 39,
+   "raw_hex": "fff656808e00834a5361536a6780d180d1fff556808e80d780d7fffcfff6666780810056745d7c",
+   "text_jp": "<PAGE>オデ 笶イタイノニ!!<LINE>オデ……<CLOSE><PAGE>ナニガ オモシロ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 31,
+   "offset": 9560,
+   "length_bytes": 31,
+   "raw_hex": "536a57fff67d5778665780a16180d780d7fff556745d7c5380d1fff6568090",
+   "text_jp": "イノカ<PAGE>ワカラナカッタ……<LINE>オモシロイ!<PAGE>オバ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 32,
+   "offset": 9591,
+   "length_bytes": 37,
+   "raw_hex": "5500808280a2808300837f5d5380d180d1fff556808e0081aa6a837a580082d8586153fffc",
+   "text_jp": "エ ギャグ 杲シイ!!<LINE>オデ 話ノ轅キ 聞キタイ<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 33,
+   "offset": 9629,
+   "length_bytes": 35,
+   "raw_hex": "fff6828c6a815f6a5b65007d577a577880d1fff556808e00828c812581aa5e7a6f808f",
+   "text_jp": "<PAGE>械ノ宇ノコト ワカルカラ!<LINE>オデ 械間話スルホド",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 34,
+   "offset": 9664,
+   "length_bytes": 32,
+   "raw_hex": "fff66a7f5800808780a26653808a80d180d1fff581bc83eb556400575d5b5966",
+   "text_jp": "<PAGE>ノンキ ジャナイゾ!!<LINE>知識エテ カシコクナ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 35,
+   "offset": 9695,
+   "length_bytes": 35,
+   "raw_hex": "7a80d1fff656808e0082fc5d53808a80d1fff556809055007d5a7d577f665380d1fff6",
+   "text_jp": "ル!<PAGE>オデ 娼シイゾ!<LINE>オバエ ワケワカンナイ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 36,
+   "offset": 9730,
+   "length_bytes": 49,
+   "raw_hex": "607b80810056808e00830658635a7a80d1fff5568090550056808e6a5b65fff6811f8120808b6500827b80a1647a6680d1",
+   "text_jp": "ソレガ オデ 帆キツケル!<LINE>オバエ オデノコト<PAGE>夘道ダト 思ッテルナ!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 37,
+   "offset": 9779,
+   "length_bytes": 40,
+   "raw_hex": "fff6576679006673647a808b7c80d180d1fff55680905500567b00818283c4808b577880a164fff6",
+   "text_jp": "<PAGE>カナリ ナメテルダロ!!<LINE>オバエ オレ 最弱ダカラッテ<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 38,
+   "offset": 9819,
+   "length_bytes": 31,
+   "raw_hex": "808a7f665b65005d6653808e597b7780d7fff55680905500823081fc585e7a",
+   "text_jp": "ゾンナコト シナイデクレヨ…<LINE>オバエ 長生キスル",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 39,
+   "offset": 9850,
+   "length_bytes": 47,
+   "raw_hex": "6980d1fff6607f660083cc5d647a7780d7fff556808e808100830f5d536a6bfff6834c590058627f655d61fff6813d",
+   "text_jp": "ネ!<PAGE>ソンナ 顔シテルヨ…<LINE>オデガ 歓シイノハ<PAGE>帛ク キチントシタ<PAGE>悪",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 40,
+   "offset": 9897,
+   "length_bytes": 29,
+   "raw_hex": "811667667a5b6580d100607b808b5a80d1fff556809055008218808158",
+   "text_jp": "魔ニナルコト! ソレダケ!<LINE>オバエ 気ガキ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 41,
+   "offset": 9926,
+   "length_bytes": 33,
+   "raw_hex": "596680d1fff656808e0082fc5d536680d1fff556808e0056809055008267545b65",
+   "text_jp": "クナ!<PAGE>オデ 娼シイナ!<LINE>オデ オバエ 言ウコト",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 42,
+   "offset": 9960,
+   "length_bytes": 18,
+   "raw_hex": "fff67d577a577800835983d35d64757a80d1",
+   "text_jp": "<PAGE>ワカルカラ 応援シテヤル!",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 43,
+   "offset": 9978,
+   "length_bytes": 57,
+   "raw_hex": "fff55680905500557880927a667780d180d1fff55680905500818283c46a0056808e6770808efff68253828f5e7a667f6400850a53808a80d1",
+   "text_jp": "<LINE>オバエ エラブルナヨ!!<LINE>オバエ 最弱ノ オデニマデ<PAGE>演説スルナンテ 偉イゾ!",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 44,
+   "offset": 10034,
+   "length_bytes": 58,
+   "raw_hex": "fff6830e81d66700547b5d536680d180d1fff556809055005353840d5d647a6680d1fff681347f808b78008395811d670066796054808bfff682",
+   "text_jp": "<PAGE>素直ニ ウレシイナ!!<LINE>オバエ イイ声シテルナ!<PAGE>迅ンダラ 騒菫ニ ナリソウダ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 45,
+   "offset": 10092,
+   "length_bytes": 54,
+   "raw_hex": "d66a81e2670082d68150657400777c5d59fff5808e5753840d808e0081aa5e6680d180d1fff6814570808e00834e536400fffc56808e",
+   "text_jp": "{214}ノ内ニ 今後トモ ヨロシク<LINE>デカイ声デ 話スナ!!<PAGE>体マデ 釁イテ <CLOSE>オデ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 46,
+   "offset": 10146,
+   "length_bytes": 40,
+   "raw_hex": "fff656575d590066796054808b80d180d1fff556808e00818283c46a00813d8116808b80d7fff682",
+   "text_jp": "<PAGE>オカシク ナリソウダ!!<LINE>オデ 最弱ノ 悪魔ダ…<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 47,
+   "offset": 10186,
+   "length_bytes": 41,
+   "raw_hex": "677d7b640083698636808b776680d780d7fff5568090550056808e8081fff65e80855365827b546a57",
+   "text_jp": "ニワレテ 当然ダヨナ……<LINE>オバエ オデガ<PAGE>スゴイト思ウノカ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 48,
+   "offset": 10227,
+   "length_bytes": 51,
+   "raw_hex": "80d0fff656808e6b00818283c4808b808afff582d77e00826780a1647a7f808b80d1fff656808e6b0056809055808100826754",
+   "text_jp": "?<PAGE>オデハ 最弱ダゾ<LINE>何ヲ 言ッテルンダ!<PAGE>オデハ オバエガ 言ウ",
+   "notes": "",
+   "translation_en": "?<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 49,
+   "offset": 10278,
+   "length_bytes": 46,
+   "raw_hex": "7779fff67480a165005e808553808a80d1fff556808e6b0081828199808b5a808ffff65680905500853b7b7a0059",
+   "text_jp": "ヨリ<PAGE>モット スゴイゾ!<LINE>オデハ 最倡ダケド<PAGE>オバエ 怖レル ク",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 50,
+   "offset": 10324,
+   "length_bytes": 32,
+   "raw_hex": "78536afff681436b00527a7f808b7780d1fff5568090550082d4832f536680d1",
+   "text_jp": "ライノ<PAGE>力ハ アルンダヨ!<LINE>オバエ 部手イナ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 51,
+   "offset": 10357,
+   "length_bytes": 45,
+   "raw_hex": "fff656808e740056808f7961536680d180d1fff5607f66007d5a7d577868fff684a379670082187e0077595e7a",
+   "text_jp": "<PAGE>オデモ オドリタイナ!!<LINE>ソンナ ワケワカラヌ<PAGE>錘リニ 気ヲ ヨクスル",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 52,
+   "offset": 10401,
+   "length_bytes": 36,
+   "raw_hex": "fff656808e00808780a269555580d180d1fff5808780a454808800808780a454808880d1",
+   "text_jp": "<PAGE>オデ ジャネエエ!!<LINE>ジョウズ ジョウズ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 53,
+   "offset": 10437,
+   "length_bytes": 54,
+   "raw_hex": "80d1fff6568090550082d4832f536680d1fff556808e00818283c46a00813d8116808b80d7fff6568090550070808b0081f759667b7a",
+   "text_jp": "!<PAGE>オバエ 部手イナ!<LINE>オデ 最弱ノ 悪魔ダ…<PAGE>オバエ マダ 独クナレル",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 54,
+   "offset": 10491,
+   "length_bytes": 44,
+   "raw_hex": "5778fff656808e00547875705d536680d1fff55680905580d1fff656808e00832583c4808b577880a164fff6",
+   "text_jp": "カラ<PAGE>オデ ウラヤマシイナ!<LINE>オバエ!<PAGE>オデ 茸弱ダカラッテ<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 55,
+   "offset": 10535,
+   "length_bytes": 39,
+   "raw_hex": "83bd86a57a5b65006653808b7c80d180d1fff556808e00818283c46a00813d8116808b808a80d7",
+   "text_jp": "怒噪ルコト ナイダロ!!<LINE>オデ 最弱ノ 悪魔ダゾ…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 56,
+   "offset": 10574,
+   "length_bytes": 41,
+   "raw_hex": "fffcfff6853b535b65007573645a7c80d7fff5568090550056808e67fff6808f545d6400830f5d537f",
+   "text_jp": "<CLOSE><PAGE>怖イコト ヤメテケロ…<LINE>オバエ オデニ<PAGE>ドウシテ 歓シイン",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 57,
+   "offset": 10615,
+   "length_bytes": 53,
+   "raw_hex": "808bfff656808e005e78537200808b808afff56b8088575d5300808780a266535780d1fff6568090550056808e670082188081527a",
+   "text_jp": "ダ<PAGE>オデ スライム ダゾ<LINE>ハズカシイ ジャナイカ!<PAGE>オバエ オデニ 気ガアル",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 58,
+   "offset": 10669,
+   "length_bytes": 51,
+   "raw_hex": "fff67d5a808e740066537f808b7c80d180d1fff5846c7e00827b5381985e6980d1fff656808e80810082cc535b7c00850d7f67",
+   "text_jp": "<PAGE>ワケデモ ナインダロ!!<LINE>葺ヲ 思イ申スネ!<PAGE>オデガ 若イコロ 櫃ンニ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 59,
+   "offset": 10720,
+   "length_bytes": 34,
+   "raw_hex": "fff6808180cc7a6b7f65005d61746a5c80d1fff55680905500817d665b6500826754",
+   "text_jp": "<PAGE>ガ{204}ルハント シタモノサ!<LINE>オバエ 変ナコト 言ウ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 60,
+   "offset": 10753,
+   "length_bytes": 56,
+   "raw_hex": "fff656808e0056745d7c5300827b5480d1fff55680905500546000635361808b7c80d1fff656809055007759665300677f80847f80d1fff6",
+   "text_jp": "<PAGE>オデ オモシロイ 思ウ!<LINE>オバエ ウソ ツイタダロ!<PAGE>オバエ ヨクナイ ニンゲン!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 61,
+   "offset": 10809,
+   "length_bytes": 44,
+   "raw_hex": "56808e008280586700667b665380d180d1fff5607f660081aa808100527a6a5780d1fff6667f576a00696167",
+   "text_jp": "オデ 好キニ ナレナイ!!<LINE>ソンナ 話ガ アルノカ!<PAGE>ナンカノ ネタニ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 62,
+   "offset": 10853,
+   "length_bytes": 49,
+   "raw_hex": "fff68127557a0057745d7b665380d180d1fff556808e00853b535b65fff661595c7f0052795e808280d180d1fff682d65c",
+   "text_jp": "<PAGE>払エル カモシレナイ!!<LINE>オデ 怖イコト<PAGE>タクサン アリスギ!!<PAGE>今サ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 63,
+   "offset": 10902,
+   "length_bytes": 29,
+   "raw_hex": "780082d75380a1647400808b7380d180d1fff556808e56808e808e6700",
+   "text_jp": "ラ 何イッテモ ダメ!!<LINE>オデオデデニ ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 64,
+   "offset": 10931,
+   "length_bytes": 46,
+   "raw_hex": "607f6681aafff65d6653808e597b7780d7fff55680905500607f6681aa8081fff6853b53808b667f6400824e82dd",
+   "text_jp": "ソンナ話<PAGE>シナイデクレヨ…<LINE>オバエ ソンナ話ガ<PAGE>怖イダナンテ 子供",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 65,
+   "offset": 10977,
+   "length_bytes": 37,
+   "raw_hex": "808b66fff6811181246700667b776680d1fff556809055005353840d5d647a6680d1fff656",
+   "text_jp": "ダナ<PAGE>大人ニ ナレヨナ!<LINE>オバエ イイ声シテルナ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 66,
+   "offset": 11014,
+   "length_bytes": 39,
+   "raw_hex": "808e6b00568090556500824f53615380d1fff55680905500824f5465fff656808e008145598088",
+   "text_jp": "デハ オバエト 歌イタイ!<LINE>オバエ 歌ウト<PAGE>オデ 体クズ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 67,
+   "offset": 11053,
+   "length_bytes": 28,
+   "raw_hex": "7b7a80d180d1fff675737c0075737c80d1fff55353824f808b6680d7",
+   "text_jp": "レル!!<PAGE>ヤメロ ヤメロ!<LINE>イイ歌ダナ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 68,
+   "offset": 11081,
+   "length_bytes": 61,
+   "raw_hex": "fff656808e0082fc5d596680a1617780d1fff556808e0082d66b005e78537200808b5a808ffff674656b005780a15b5353813d8116808b808a80d1fff6",
+   "text_jp": "<PAGE>オデ 娼シクナッタヨ!<LINE>オデ 今ハ スライム ダケド<PAGE>モトハ カッコイイ悪魔ダゾ!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 69,
+   "offset": 11142,
+   "length_bytes": 45,
+   "raw_hex": "5680905500607b81bc80a1647a6a5780d0fff556808e005e785372fff65680905500567b6a5b657efff6824e82",
+   "text_jp": "オバエ ソレ知ッテルノカ?<LINE>オデ スライム<PAGE>オバエ オレノコトヲ<PAGE>子",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 70,
+   "offset": 11187,
+   "length_bytes": 48,
+   "raw_hex": "dd808b65827b80a1647a808b7c80d180d1fff55680905500707a808e0056808e6afff6813983a000716153808b6680d7",
+   "text_jp": "ｌダト思ッテルダロ!!<LINE>オバエ マルデ オデノ<PAGE>毋覬 ミタイダナ…",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 71,
+   "offset": 11235,
+   "length_bytes": 33,
+   "raw_hex": "fffcfff6667f5700821881fb625353809efff55680905500818283c46a0056808e",
+   "text_jp": "<CLOSE><PAGE>ナンカ 気持チイイォ<LINE>オバエ 最弱ノ オデ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 72,
+   "offset": 11269,
+   "length_bytes": 56,
+   "raw_hex": "fff684d354667f6400817d8124808b6680d7fff5568090550056808e7e0081ce83c06afff683488264855267005d647a808b7c80d1fff660",
+   "text_jp": "<PAGE>訪ウナンテ 変人ダナ…<LINE>オバエ オデヲ 交燠ノ<PAGE>練瓷台ニ シテルダロ!<PAGE>ソ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 73,
+   "offset": 11324,
+   "length_bytes": 45,
+   "raw_hex": "7b808e0084d354667f64006c808f5380d1fff556808e0084d354667f64fff65680905500817d7d80a1647a6680",
+   "text_jp": "レデ 訪ウナンテ ヒドイ!<LINE>オデ 訪ウナンテ<PAGE>オバエ 変ワッテルナ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 74,
+   "offset": 11369,
+   "length_bytes": 43,
+   "raw_hex": "d1fff656808e0082fc5d535a808f5c80d1fff556705500677f80847f6bfff6775900813d59620082675477",
+   "text_jp": "!<PAGE>オデ 娼シイケドサ!<LINE>オマエ ニンゲンハ<PAGE>ヨク 悪クチ 言ウヨ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 75,
+   "offset": 11412,
+   "length_bytes": 37,
+   "raw_hex": "66fff652587b7a0080837853808b7780d7fff556809055006c808f535b65008267546680d1",
+   "text_jp": "ナ<PAGE>アキレル グライダヨ…<LINE>オバエ ヒドイコト 言ウナ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 76,
+   "offset": 11450,
+   "length_bytes": 44,
+   "raw_hex": "fff6567b6b00667f74005d6466536a6780d1fff5568090550056808e6a5b650082f253808b7c80d7fffc6678",
+   "text_jp": "<PAGE>オレハ ナンモ シテナイノニ!<LINE>オバエ オデノコト 嫌イダロ…<CLOSE>ナラ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>..."
+  },
+  {
+   "id": 77,
+   "offset": 11493,
+   "length_bytes": 48,
+   "raw_hex": "00834f7357780081ce83c05e7a667780d7fff55680905580d780d7fffcfff656808e6a5b650083358165527a6a5780d0",
+   "text_jp": " 始メカラ 交燠スルナヨ…<LINE>オバエ……<CLOSE><PAGE>オデノコト 興味アルノカ?",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 78,
+   "offset": 11542,
+   "length_bytes": 48,
+   "raw_hex": "fff666780053535774005d7b6653808a80d1fff556808e005e78537280d7fffcfff65680905500677f80847f80d7fffc",
+   "text_jp": "<PAGE>ナラ イイカモ シレナイゾ!<LINE>オデ スライム…<CLOSE><PAGE>オバエ ニンゲン…<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 79,
+   "offset": 11589,
+   "length_bytes": 50,
+   "raw_hex": "fff68249547d5a006653808b7c80d180d1fff556808e0082fc5d53665280d1fff6568090550082d68169005e78537267fff6",
+   "text_jp": "<PAGE>合ウワケ ナイダロ!!<LINE>オデ 娼シイナア!<PAGE>オバエ 今痍 スライムニ<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 80,
+   "offset": 11639,
+   "length_bytes": 49,
+   "raw_hex": "667b7780d100547f00607b8081535380d1fff55680905500677f80847f6678fff670808b006280a27f5e00527a80d180d1",
+   "text_jp": "ナレヨ! ウン ソレガイイ!<LINE>オバエ ニンゲンナラ<PAGE>マダ チャンス アル!!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 81,
+   "offset": 11688,
+   "length_bytes": 29,
+   "raw_hex": "fff6808980a1615300525878737a6680d1fff556809055008522536474",
+   "text_jp": "<PAGE>ゼッタイ アキラメルナ!<LINE>オバエ 泣イテモ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 82,
+   "offset": 11717,
+   "length_bytes": 37,
+   "raw_hex": "fff65d80a45480816653808b7c80d180d1fff556808e005670550082108248808b5a808f80",
+   "text_jp": "<PAGE>ショウガナイダロ!!<LINE>オデ オマエ 沚配ダケド",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 83,
+   "offset": 11754,
+   "length_bytes": 36,
+   "raw_hex": "d7fff6808e7400666774005d66537780d7fff556808e00818283c4005e78537280d7fff6",
+   "text_jp": "…<PAGE>デモ ナニモ シナイヨ…<LINE>オデ 最弱 スライム…<PAGE>",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 84,
+   "offset": 11790,
+   "length_bytes": 45,
+   "raw_hex": "5680905500627f5a66008252808b6980d1fff5818283c46a0056808e675d57fff682675566536a577780d180d1",
+   "text_jp": "オバエ チンケナ 奴ダネ!<LINE>最弱ノ オデニシカ<PAGE>言エナイノカヨ!!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 85,
+   "offset": 11835,
+   "length_bytes": 46,
+   "raw_hex": "fff6568090550083c48122808b7c5480d1fff556808e0056808f5d64fff6607f666700837f5d535780d780d7fffc",
+   "text_jp": "<PAGE>オバエ 弱虫ダロウ!<LINE>オデ オドシテ<PAGE>ソンナニ 杲シイカ……<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 86,
+   "offset": 11882,
+   "length_bytes": 37,
+   "raw_hex": "fff653756600677f80847f808b6680d780d7fff556808e00818283c4005e78537280d7fff6",
+   "text_jp": "<PAGE>イヤナ ニンゲンダナ……<LINE>オデ 最弱 スライム…<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 87,
+   "offset": 11918,
+   "length_bytes": 46,
+   "raw_hex": "5680905500627f5a66008252808b6680d1fff556808e005380877364fff6607f666700837f5d535780d780d7fffc",
+   "text_jp": "オバエ チンケナ 奴ダナ!<LINE>オデ イジメテ<PAGE>ソンナニ 杲シイカ……<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 88,
+   "offset": 11965,
+   "length_bytes": 49,
+   "raw_hex": "fff653756600677f80847f808b6680d780d7fff556808e005e78537280d1fff653808773787b7a6a00667b647a80d1fff6",
+   "text_jp": "<PAGE>イヤナ ニンゲンダナ……<LINE>オデ スライム!<PAGE>イジメラレルノ ナレテル!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 89,
+   "offset": 12013,
+   "length_bytes": 42,
+   "raw_hex": "7480a165005380877364597b5580d180d1fff556809055008267545b65fff6665766570053536680d180",
+   "text_jp": "モット イジメテクレエ!!<LINE>オバエ 言ウコト<PAGE>ナカナカ イイナ!",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 90,
+   "offset": 12055,
+   "length_bytes": 51,
+   "raw_hex": "d1fff656808e00577f5d7f005d617780d1fff556809055670056808e6a0086575c8081fff67d5a7a6a5780d0007d57787f6a67",
+   "text_jp": "!<PAGE>オデ カンシン シタヨ!<LINE>オバエニ オデノ 辛サガ<PAGE>ワケルノカ? ワカランノニ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 91,
+   "offset": 12107,
+   "length_bytes": 46,
+   "raw_hex": "fff65780a164665b65008267546680d180d1fff5818283c4818281996a0056808e7efff6577080a16400597b7a80",
+   "text_jp": "<PAGE>カッテナコト 言ウナ!!<LINE>最弱最倡ノ オデヲ<PAGE>カマッテ クレル",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 92,
+   "offset": 12152,
+   "length_bytes": 48,
+   "raw_hex": "8b5a808efff682fc5d537f808b80d180d1fff5667f808e0056808e8081fff6677f80847f6700863c787b7a7f808b80d1",
+   "text_jp": "ダケデ<PAGE>娼シインダ!!<LINE>ナンデ オデガ<PAGE>ニンゲンニ 叱ラレルンダ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 93,
+   "offset": 12201,
+   "length_bytes": 30,
+   "raw_hex": "fff66680a165590053576653808a80d180d1fff55680905500840c7c5d53",
+   "text_jp": "<PAGE>ナットク イカナイゾ!!<LINE>オバエ 恐ロシイ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 94,
+   "offset": 12230,
+   "length_bytes": 46,
+   "raw_hex": "6680d7fff656808e0081e07961537780d7fff556808e005e78537280d1fff6863c787b7a6a00667b647a80d1fff6",
+   "text_jp": "ナ…<PAGE>オデ 帰リタイヨ…<LINE>オデ スライム!<PAGE>叱ラレルノ ナレテル!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 95,
+   "offset": 12276,
+   "length_bytes": 51,
+   "raw_hex": "7480a16500863c80a164597b5580d180d1fff556808e00821b64597b7780d1fff656808e650081aa5d77547780d1fff6568090",
+   "text_jp": "モット 叱ッテクレエ!!<LINE>オデ 見テクレヨ!<PAGE>オデト 話シヨウヨ!<PAGE>オバ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 96,
+   "offset": 12327,
+   "length_bytes": 45,
+   "raw_hex": "550081ce83c05e7a8218527a808b7c80d1fff5568090550056808e67fff6667f570081db808780a266536a5780",
+   "text_jp": "エ 交燠スル気アルダロ!<LINE>オバエ オデニ<PAGE>ナンカ 注ジャナイノカ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 97,
+   "offset": 12372,
+   "length_bytes": 35,
+   "raw_hex": "d180d1fff67257635900725763597780d1fff556808e00568090550083bd785d6180d0",
+   "text_jp": "!!<PAGE>ムカツク ムカツクヨ!<LINE>オデ オバエ 怒ラシタ?",
+   "notes": "",
+   "translation_en": "!!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 98,
+   "offset": 12408,
+   "length_bytes": 52,
+   "raw_hex": "fff681aa80837853005d64830f5d536680d7fff556808e00821b64597b7780d1fff656808e650081aa5d77547780d1fff6568090",
+   "text_jp": "<PAGE>話グライ シテ歓シイナ…<LINE>オデ 見テクレヨ!<PAGE>オデト 話シヨウヨ!<PAGE>オバ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 99,
+   "offset": 12459,
+   "length_bytes": 45,
+   "raw_hex": "550081ce83c05e7a8218527a808b7c80d1fff5568090550056808e67fff6667f570081db808780a266536a5780",
+   "text_jp": "エ 交燠スル気アルダロ!<LINE>オバエ オデニ<PAGE>ナンカ 注ジャナイノカ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 100,
+   "offset": 12504,
+   "length_bytes": 35,
+   "raw_hex": "d180d1fff67257635900725763597780d1fff556808e00568090550083bd785d6180d0",
+   "text_jp": "!!<PAGE>ムカツク ムカツクヨ!<LINE>オデ オバエ 怒ラシタ?",
+   "notes": "",
+   "translation_en": "!!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 101,
+   "offset": 12540,
+   "length_bytes": 37,
+   "raw_hex": "fff681aa80837853005d64830f5d536680d7fff556808e00818283c4005e78537280d7fff6",
+   "text_jp": "<PAGE>話グライ シテ歓シイナ…<LINE>オデ 最弱 スライム…<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 102,
+   "offset": 12576,
+   "length_bytes": 45,
+   "raw_hex": "5680905500627f5a66008252808b6980d1fff5818283c46a0056808e675d57fff682675566536a577780d180d1",
+   "text_jp": "オバエ チンケナ 奴ダネ!<LINE>最弱ノ オデニシカ<PAGE>言エナイノカヨ!!",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 103,
+   "offset": 12621,
+   "length_bytes": 46,
+   "raw_hex": "fff6568090550083c48122808b7c5480d1fff556808e0056808f5d64fff6607f666700837f5d535780d780d7fffc",
+   "text_jp": "<PAGE>オバエ 弱虫ダロウ!<LINE>オデ オドシテ<PAGE>ソンナニ 杲シイカ……<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 104,
+   "offset": 12668,
+   "length_bytes": 49,
+   "raw_hex": "fff653756600677f80847f808b6680d780d7fff55680905500547a5c53808a80d1fff656808e005e78537200667f808b57",
+   "text_jp": "<PAGE>イヤナ ニンゲンダナ……<LINE>オバエ ウルサイゾ!<PAGE>オデ スライム ナンダカ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 105,
+   "offset": 12716,
+   "length_bytes": 33,
+   "raw_hex": "78fff66f80a165536400597b7780d180d1fff55680905500666780810082675361",
+   "text_jp": "ラ<PAGE>ホットイテ クレヨ!!<LINE>オバエ ナニガ 言イタ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 106,
+   "offset": 12749,
+   "length_bytes": 55,
+   "raw_hex": "5380d0fff67759007d5778665380d780d7fff5568090550056808e6500831880875780d0fff656808e80810084ea80936653823770808e",
+   "text_jp": "イ?<PAGE>ヨク ワカラナイ……<LINE>オバエ オデト 同ジカ?<PAGE>オデガ 町ベナイ分マデ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 107,
+   "offset": 12804,
+   "length_bytes": 48,
+   "raw_hex": "fff6568090550084ea7f808e597b7780d1fff556809055005e8084556680d7fffcfff656808e7e00846c6a813d811667",
+   "text_jp": "<PAGE>オバエ 町ンデクレヨ!<LINE>オバエ スゲエナ…<CLOSE><PAGE>オデヲ 葺ノ悪魔ニ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 108,
+   "offset": 12852,
+   "length_bytes": 44,
+   "raw_hex": "fff681ef785d64597b7a00577480d780d7fff5568090550056808e7efff682245e655700808f546757fff65e",
+   "text_jp": "<PAGE>戻ラシテクレル カモ……<LINE>オバエ オデヲ<PAGE>消ストカ ドウニカ<PAGE>ス",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 109,
+   "offset": 12896,
+   "length_bytes": 49,
+   "raw_hex": "7a8218808780a26653808b7c6680d780d7fff556809055008338527a7f808b6680d7fff65e78537267006680a16474fff6",
+   "text_jp": "ル気ジャナイダロナ……<LINE>オバエ 技アルンダナ…<PAGE>スライムニ ナッテモ<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 110,
+   "offset": 12945,
+   "length_bytes": 31,
+   "raw_hex": "81fc586400535a7a808b7c547780d180d1fff5677f80847f6b0053536680d7",
+   "text_jp": "生キテ イケルダロウヨ!!<LINE>ニンゲンハ イイナ…",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 111,
+   "offset": 12976,
+   "length_bytes": 52,
+   "raw_hex": "fff6537c7f665b650081aa5f7a577880d7fff57759007d5778665380d7fff6808e7400667f808b5700841a8460605480d1fff65d",
+   "text_jp": "<PAGE>イロンナコト 話セルカラ…<LINE>ヨク ワカラナイ…<PAGE>デモ ナンダカ 面曰ソウ!<PAGE>シ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 112,
+   "offset": 13028,
+   "length_bytes": 15,
+   "raw_hex": "577400667f5700597b605480d180d1",
+   "text_jp": "カモ ナンカ クレソウ!!",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 113,
+   "offset": 13043,
+   "length_bytes": 32,
+   "raw_hex": "fff1fff556808e67005770546680d180d1fff556808e650081aa5d615a7b8090",
+   "text_jp": "<PAUSE><LINE>オデニ カマウナ!!<LINE>オデト 話シタケレバ",
+   "notes": "",
+   "translation_en": "<PAUSE><LINE>...<LINE>..."
+  },
+  {
+   "id": 114,
+   "offset": 13075,
+   "length_bytes": 52,
+   "raw_hex": "fff6667f570081985e7f808b7780d1fff1fff556808e6700577054667780d7fffcfff656808e6b0081f06a813d811667fff681ef",
+   "text_jp": "<PAGE>ナンカ 申スンダヨ!<PAUSE><LINE>オデニ カマウナヨ…<CLOSE><PAGE>オデハ 赱ノ悪魔ニ<PAGE>戻",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 115,
+   "offset": 13127,
+   "length_bytes": 43,
+   "raw_hex": "7a816681337e0081bc796153808b5a80d7fff556808e00666774005d64665380d7fff65680905500817d66",
+   "text_jp": "ル方法ヲ 知リタイダケ…<LINE>オデ ナニモ シテナイ…<PAGE>オバエ 変ナ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 116,
+   "offset": 13170,
+   "length_bytes": 37,
+   "raw_hex": "5b65fff66d585b726a0075737c80d780d7fff556808e650081aa5d64597b7a80d1fffcfff6",
+   "text_jp": "コト<PAGE>フキコムノ ヤメロ……<LINE>オデト 話シテクレル!<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 117,
+   "offset": 13207,
+   "length_bytes": 47,
+   "raw_hex": "607b808b5a808e0082fc5d536680d180d1fff5568090550056808e650081ce83c0fff65d6153667f64005353825280",
+   "text_jp": "ソレダケデ 娼シイナ!!<LINE>オバエ オデト 交燠<PAGE>シタイナンテ イイ奴",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 118,
+   "offset": 13254,
+   "length_bytes": 31,
+   "raw_hex": "8b80d1fffcfff6667f5700597b80d1fff1fff57759007d5778665380d7fffc",
+   "text_jp": "ダ!<CLOSE><PAGE>ナンカ クレ!<PAUSE><LINE>ヨク ワカラナイ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<PAUSE><LINE>...<CLOSE>"
+  },
+  {
+   "id": 119,
+   "offset": 13285,
+   "length_bytes": 34,
+   "raw_hex": "fff6667f656659007d577a5a808f5c80d1fff556808e808100830f5d5380d0fff680",
+   "text_jp": "<PAGE>ナントナク ワカルケドサ!<LINE>オデガ 歓シイ?<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 120,
+   "offset": 13319,
+   "length_bytes": 32,
+   "raw_hex": "8780a25200667f5700830f5d5380d7fff1fff5737f808f54005375808b7780d1",
+   "text_jp": "底ャア ナンカ 歓シイ…<PAUSE><LINE>メンドウ イヤダヨ!",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 121,
+   "offset": 13352,
+   "length_bytes": 35,
+   "raw_hex": "fff656809055005280a1620081d25a7780d1fff556808e6a008143808100830f5d5a7b",
+   "text_jp": "<PAGE>オバエ アッチ 行ケヨ!<LINE>オデノ 力ガ 歓シケレ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 122,
+   "offset": 13386,
+   "length_bytes": 52,
+   "raw_hex": "8090fff6667f5700775b5f80d180d1fff1fff556808e6700577054667780d7fffcfff656808e6b0081f06a813d811667fff681ef",
+   "text_jp": "バ<PAGE>ナンカ ヨコセ!!<PAUSE><LINE>オデニ カマウナヨ…<CLOSE><PAGE>オデハ 赱ノ悪魔ニ<PAGE>戻",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>...<PAGE>..."
+  },
+  {
+   "id": 123,
+   "offset": 13438,
+   "length_bytes": 52,
+   "raw_hex": "7a816681337e0081bc796153808b5a80d7fff55680905500821f8220808b80d7fffcfff656808e6a005e80987a5780cc808ffff6",
+   "text_jp": "ル方法ヲ 知リタイダケ…<LINE>オバエ 危険ダ…<CLOSE><PAGE>オデノ スペルカ{204}ド<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 124,
+   "offset": 13490,
+   "length_bytes": 35,
+   "raw_hex": "811181f967005d665c605480d780d780d7fff556808e80810082d282d380d180d0fff6",
+   "text_jp": "大事ニ シナサソウ………<LINE>オデガ 必要!?<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>"
+  },
+  {
+   "id": 125,
+   "offset": 13525,
+   "length_bytes": 53,
+   "raw_hex": "6280a4540054808e5d5366809a80d180d1fff556809055650081ce83c05d7754576680d7fffcfff6657952558088006054808b6680",
+   "text_jp": "チョウ ウデシイナァ!!<LINE>オバエト 交燠シヨウカナ…<CLOSE><PAGE>トリアエズ ソウダナ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 126,
+   "offset": 13578,
+   "length_bytes": 52,
+   "raw_hex": "d7fffcfff6667f57007478547780d1fff1fff556808e00809057675d6474fff67080876681aa0081c581656653808b7c80d0fff6",
+   "text_jp": "…<CLOSE><PAGE>ナンカ モラウヨ!<PAUSE><LINE>オデ バカニシテモ<PAGE>マジナ話 意味ナイダロ?<PAGE>",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 127,
+   "offset": 13630,
+   "length_bytes": 52,
+   "raw_hex": "830e81d6670081ce83c05d775480d180d1fff556809055006f7f656bfff65b6a0056808e670082188081527a808b7c80d0fff66f",
+   "text_jp": "素直ニ 交燠シヨウ!!<LINE>オバエ ホントハ<PAGE>コノ オデニ 気ガアルダロ?<PAGE>ホ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 128,
+   "offset": 13682,
+   "length_bytes": 29,
+   "raw_hex": "78006667570081985d6680a16480d1fff1fff582df6700597a665280d1",
+   "text_jp": "ラ ナニカ 申シナッテ!<PAUSE><LINE>腹ニ クルナア!",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 129,
+   "offset": 13711,
+   "length_bytes": 54,
+   "raw_hex": "80d1fff6667f5700775b5f80d180d1fff1fff556808e6b0082df67820d61808a80d180d1fff6568090556b0063808366546a808b80d1",
+   "text_jp": "!<PAGE>ナンカ ヨコセ!!<PAUSE><LINE>オデハ 腹ニ禾タゾ!!<PAGE>オバエハ ツグナウノダ!",
+   "notes": "",
+   "translation_en": "!<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 130,
+   "offset": 13765,
+   "length_bytes": 47,
+   "raw_hex": "fff6667f5700775b5f555580d180d1fff1fff5568090550056808e667f57fff6809057675d6400808f545e7a7f808b",
+   "text_jp": "<PAGE>ナンカ ヨコセエエ!!<PAUSE><LINE>オバエ オデナンカ<PAGE>バカニシテ ドウスルンダ",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 131,
+   "offset": 13812,
+   "length_bytes": 53,
+   "raw_hex": "80d7fff653756600835782ed5e7a6680d7fff556808e00568090550058785380d7fff681ce83c00086638352005d61536680d7fff6",
+   "text_jp": "…<PAGE>イヤナ 斈感スルナ…<LINE>オデ オバエ キライ…<PAGE>交燠 拒否 シタイナ…<PAGE>",
+   "notes": "",
+   "translation_en": "…<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 132,
+   "offset": 13865,
+   "length_bytes": 61,
+   "raw_hex": "808e740066675700830f5d536680d7fff1fff556808e00818281996a005e785372808b808a80d1fff656808e00809057675d6400808f545e7f6a80d066",
+   "text_jp": "デモ ナニカ 歓シイナ…<PAUSE><LINE>オデ 最倡ノ スライムダゾ!<PAGE>オデ バカニシテ ドウスンノ?ナ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 133,
+   "offset": 13926,
+   "length_bytes": 53,
+   "raw_hex": "670082dc55647a6a80d000834a547780d1fff5837f5d535b65005d64597b7a6980d1fff656808e6b005b6a81688169808780a2fff6",
+   "text_jp": "ニ 考エテルノ? 笶ウヨ!<LINE>杲シイコト シテクレルネ!<PAGE>オデハ コノ榲痍ジャ<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 134,
+   "offset": 13979,
+   "length_bytes": 46,
+   "raw_hex": "80897f80897f0083bd7866537780d180d1fff556809055007580a1809579fff6677f80847f808b6680d7fffcfff6",
+   "text_jp": "ゼンゼン 怒ラナイヨ!!<LINE>オバエ ヤッパリ<PAGE>ニンゲンダナ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 135,
+   "offset": 14025,
+   "length_bytes": 55,
+   "raw_hex": "678082755780a1640053537766809a80d7fff556808e00568090556a005e7a5b65fff658675380a16100775466821880815e7a80d7fffc",
+   "text_jp": "ニギヤカッテ イイヨナァ…<LINE>オデ オバエノ スルコト<PAGE>キニイッタ ヨウナ気ガスル…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 136,
+   "offset": 14080,
+   "length_bytes": 49,
+   "raw_hex": "fff6667f5700597b617853536680d1fff1fff55680905500547a5c53808a80d1fff656808e00568090558081005e7a5b65",
+   "text_jp": "<PAGE>ナンカ クレタライイナ!<PAUSE><LINE>オバエ ウルサイゾ!<PAGE>オデ オバエガ スルコト",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 137,
+   "offset": 14130,
+   "length_bytes": 54,
+   "raw_hex": "fff65880a4547100665380a1645780d180d1fff57480a1650076575366fff6808b5d746a00825082eb5d64616a67fff6808180a15779",
+   "text_jp": "<PAGE>キョウミ ナイッテカ!!<LINE>モット ユカイナ<PAGE>ダシモノ 期待シテタノニ<PAGE>ガッカリ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 138,
+   "offset": 14183,
+   "length_bytes": 57,
+   "raw_hex": "5c80d100fffc82d75700775b5f80d1fff1fff55680905500656380897f82d7666a80d0fff6808453677f006557005354812480d0fffcfff656",
+   "text_jp": "サ! <CLOSE>何カ ヨコセ!<PAUSE><LINE>オバエ トツゼン何ナノ?<PAGE>ゲイニン トカ イウ人?<CLOSE><PAGE>オ",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<PAUSE><LINE>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 139,
+   "offset": 14240,
+   "length_bytes": 53,
+   "raw_hex": "808e008084536b00557f7980a45e7a80d7fff5568090550056808e005761707a808a80d7fffcfff6817d66005b545d80a454005e7a",
+   "text_jp": "デ ゲイハ エンリョスル…<LINE>オバエ オデ カタマルゾ…<CLOSE><PAGE>変ナ コウショウ スル",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 140,
+   "offset": 14293,
+   "length_bytes": 41,
+   "raw_hex": "6680d7fff6525480d780d7525480d780d7fff556808e00568090556a83c280810082805880d1fff656",
+   "text_jp": "ナ…<PAGE>アウ……アウ……<LINE>オデ オバエノ蛬ガ 好キ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 141,
+   "offset": 14334,
+   "length_bytes": 55,
+   "raw_hex": "809055007480a1650083c25d64597b80d1fff5568090550056808e00837f5d705f7afff656808e007480a16500837f5d71615380d1fff6",
+   "text_jp": "バエ モット 蛬シテクレ!<LINE>オバエ オデ 杲シマセル<PAGE>オデ モット 杲シミタイ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 142,
+   "offset": 14389,
+   "length_bytes": 47,
+   "raw_hex": "5680905500667f5700597b80d180d1fff1fff5568090550056808e7efff6745d575d64005c6080a1647a5780d0fff6",
+   "text_jp": "オバエ ナンカ クレ!!<PAUSE><LINE>オバエ オデヲ<PAGE>モシカシテ サソッテルカ?<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 143,
+   "offset": 14436,
+   "length_bytes": 51,
+   "raw_hex": "5680905500677f80847f00808b776680d0fff5568090556a00822671808f567967fff66680a164740056808e6b0053535a808f",
+   "text_jp": "オバエ ニンゲン ダヨナ?<LINE>オバエノ 筆ミドオリニ<PAGE>ナッテモ オデハ イイケド",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 144,
+   "offset": 14488,
+   "length_bytes": 53,
+   "raw_hex": "fff6667f5700597b6653650075808b77fff1fff556808e00822b825d808b577880a164fff65778575400637479808b7c5480d180d1",
+   "text_jp": "<PAGE>ナンカ クレナイト ヤダヨ<PAUSE><LINE>オデ 下鈑ダカラッテ<PAGE>カラカウ ツモリダロウ!!",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 145,
+   "offset": 14541,
+   "length_bytes": 55,
+   "raw_hex": "fff6568090550053756600677f80847f80d1fff5667f808b57007d577f6653808a80d1fff6568090550056808e6700716380838218fff6",
+   "text_jp": "<PAGE>オバエ イヤナ ニンゲン!<LINE>ナンダカ ワカンナイゾ!<PAGE>オバエ オデニ ミツグ気<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 146,
+   "offset": 14595,
+   "length_bytes": 26,
+   "raw_hex": "527a6a5780d000527a6a5780d180d1fff1fff55b545354007d66",
+   "text_jp": "アルノカ? アルノカ!!<PAUSE><LINE>コウイウ ワナ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 147,
+   "offset": 14621,
+   "length_bytes": 38,
+   "raw_hex": "80a164fff6775900527a7f808b776680d7fff55680905500677f80847f00808b776680d7fff6",
+   "text_jp": "ッテ<PAGE>ヨク アルンダヨナ…<LINE>オバエ ニンゲン ダヨナ…<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 148,
+   "offset": 14659,
+   "length_bytes": 56,
+   "raw_hex": "56808e005e78537200808b808a80d780d7fff5568090550056808e80810082d282d3667f808b80d1fff656808e740081f66461747f808780",
+   "text_jp": "オデ スライム ダゾ……<LINE>オバエ オデガ 必要ナンダ!<PAGE>オデモ 捨テタモンジ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 149,
+   "offset": 14715,
+   "length_bytes": 47,
+   "raw_hex": "a2fff6665380a164005b65576680d180d1fff55e78537267006680a16474fff684d3826d5c7b7a00667f6480d180d1",
+   "text_jp": "ャ<PAGE>ナイッテ コトカナ!!<LINE>スライムニ ナッテモ<PAGE>訪惑サレル ナンテ!!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 150,
+   "offset": 14763,
+   "length_bytes": 51,
+   "raw_hex": "fff682d682416b0073808e61537780d180d1fff556808e00818283c46a00813d8116808b5778fff65680905500607f66816d81",
+   "text_jp": "<PAGE>今巳ハ メデタイヨ!!<LINE>オデ 最弱ノ 悪魔ダカラ<PAGE>オバエ ソンナ怒",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 151,
+   "offset": 14813,
+   "length_bytes": 47,
+   "raw_hex": "696bfff65d6659640053537f808b7780d1fff55680905580810056808e7779fff683856c595366780056808e74fff6",
+   "text_jp": "ネハ<PAGE>シナクテ イインダヨ!<LINE>オバエガ オデヨリ<PAGE>騰ヒクイナラ オデモ<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 152,
+   "offset": 14860,
+   "length_bytes": 56,
+   "raw_hex": "667f570082d383c15d7754576680d1fff1fff55680905500607b8370808b7c80d1fff656808e0082de8237808e7400818283c4808b80a164",
+   "text_jp": "ナンカ 要求シヨウカナ!<PAUSE><LINE>オバエ ソレ嘘ダロ!<PAGE>オデ 自分デモ 最弱ダッテ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 153,
+   "offset": 14916,
+   "length_bytes": 49,
+   "raw_hex": "fff67d5780a1647a7f808b808a80d180d1fff582428218808e00826780a1647a6678fff6606a0083cf83987e00821b5f64",
+   "text_jp": "<PAGE>ワカッテルンダゾ!!<LINE>本気デ 言ッテルナラ<PAGE>ソノ 証拠ヲ 見セテ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 154,
+   "offset": 14966,
+   "length_bytes": 30,
+   "raw_hex": "fff67478545a808f0053536680d180d1fff1fff55680905580d7fffcfff6",
+   "text_jp": "<PAGE>モラウケド イイナ!!<PAUSE><LINE>オバエ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 155,
+   "offset": 14995,
+   "length_bytes": 47,
+   "raw_hex": "666757006159787f808e66535780d080d7fff55e7853726700667a814080d7fffcfff6607f666d54670082677d7b64",
+   "text_jp": "ナニカ タクランデナイカ?…<LINE>スライムニ ナル前…<CLOSE><PAGE>ソンナフウニ 言ワレテ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 156,
+   "offset": 15042,
+   "length_bytes": 36,
+   "raw_hex": "fff656808e00808b705c7b617f808b80d7fff55880927f005353747f808b6680d1fff682",
+   "text_jp": "<PAGE>オデ ダマサレタンダ…<LINE>キブン イイモンダナ!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 157,
+   "offset": 15078,
+   "length_bytes": 42,
+   "raw_hex": "d682416b008182825c6a008241577480d1fff5605b70808e008267546678fff656808f5d640071775457",
+   "text_jp": "{214}巳ハ 最高ノ 巳カモ!<LINE>ソコマデ 言ウナラ<PAGE>オドシテ ミヨウカ",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 158,
+   "offset": 15120,
+   "length_bytes": 50,
+   "raw_hex": "6680d1fff6667f5700775b5f5580d1fff1fff556808e6a005780cc808ffff65680905500745481fb80a1647a6680d1fff680",
+   "text_jp": "ナ!<PAGE>ナンカ ヨコセエ!<PAUSE><LINE>オデノ カ{204}ド<PAGE>オバエ モウ持ッテルナ!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 159,
+   "offset": 15170,
+   "length_bytes": 22,
+   "raw_hex": "8780a2520056808e6b0081db665d5780d7ffef5b7b00",
+   "text_jp": "底ャア オデハ 注ナシカ…<VOICE?>コレ ",
+   "notes": "",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 160,
+   "offset": 15192,
+   "length_bytes": 30,
+   "raw_hex": "757a80d7fff681a68453006653776680d7ffef5d80a45f7f005e78537257",
+   "text_jp": "ヤル…<PAGE>文句 ナイヨナ…<VOICE?>ショセン スライムカ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 161,
+   "offset": 15222,
+   "length_bytes": 12,
+   "raw_hex": "80d7fffcfff656808e005c71",
+   "text_jp": "…<CLOSE><PAGE>オデ サミ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>..."
+  },
+  {
+   "id": 162,
+   "offset": 15234,
+   "length_bytes": 34,
+   "raw_hex": "5d536680d7ffef808480908084809080d7ffef5680905500567b777900832583c480",
+   "text_jp": "シイナ…<VOICE?>ゲバゲバ…<VOICE?>オバエ オレヨリ 茸弱",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<VOICE?>..."
+  },
+  {
+   "id": 163,
+   "offset": 15268,
+   "length_bytes": 28,
+   "raw_hex": "d0fff65680905500808b7300808b6680d7ffef56809055005f80a157",
+   "text_jp": "?<PAGE>オバエ ダメ ダナ…<VOICE?>オバエ セッカ",
+   "notes": "",
+   "translation_en": "?<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 164,
+   "offset": 15296,
+   "length_bytes": 17,
+   "raw_hex": "59808bfff65b7b00747880a164597b80d7",
+   "text_jp": "クダ<PAGE>コレ モラッテクレ…",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 165,
+   "offset": 15313,
+   "length_bytes": 30,
+   "raw_hex": "ffef56808e6b008446670057557a7780d7ffef56809055008182825c808b",
+   "text_jp": "<VOICE?>オデハ 闍ニ カエルヨ…<VOICE?>オバエ 最高ダ",
+   "notes": "",
+   "translation_en": "<VOICE?>...<VOICE?>..."
+  },
+  {
+   "id": 166,
+   "offset": 15343,
+   "length_bytes": 13,
+   "raw_hex": "5778fff656808e005b7b740075",
+   "text_jp": "カラ<PAGE>オデ コレモ ヤ",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 167,
+   "offset": 15356,
+   "length_bytes": 78,
+   "raw_hex": "7a7780d1ffef56808e0081e07a808a80d7ffef56808e6a005e80987a5780cc808ffff6811181f967005d64597b7780d7fffbfff75780a15b53530080987a606667fff65d64830f5d535a808f0052",
+   "text_jp": "ルヨ!<VOICE?>オデ 帰ルゾ…<VOICE?>オデノ スペルカ{204}ド<PAGE>大事ニ シテクレヨ…<MENU_A><MENU_B>カッコイイ ペルソナニ<PAGE>シテ歓シイケド ア",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<VOICE?>...<PAGE>...<MENU_A><MENU_B>...<PAGE>..."
+  },
+  {
+   "id": 168,
+   "offset": 15434,
+   "length_bytes": 26,
+   "raw_hex": "7079fff683f9596b0082267066537780d7ffef5b7b00757a80d7",
+   "text_jp": "マリ<PAGE>多クハ 筆マナイヨ…<VOICE?>コレ ヤル…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 169,
+   "offset": 15460,
+   "length_bytes": 37,
+   "raw_hex": "fff6606a577d790056808e0081e07a80d7ffef56808e00836282d48210527a5778fff68282",
+   "text_jp": "<PAGE>ソノカワリ オデ 帰ル…<VOICE?>オデ 向部沚アルカラ<PAGE>別",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 170,
+   "offset": 15497,
+   "length_bytes": 53,
+   "raw_hex": "6a00677f80847f650081ce83c05e7a80d1ffef56808e0082826a00677f80847f65fff681ce83c05e7a80d100fffc5b7b00757a5778",
+   "text_jp": "ノ ニンゲント 交燠スル!<VOICE?>オデ 別ノ ニンゲント<PAGE>交燠スル! <CLOSE>コレ ヤルカラ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 171,
+   "offset": 15550,
+   "length_bytes": 55,
+   "raw_hex": "fff65680905500837681f75d645b5380d1ffef56809055808100606a82186678fff656808e740082f2665b65005d64757a80d1fff65680",
+   "text_jp": "<PAGE>オバエ 勉独シテコイ!<VOICE?>オバエガ ソノ気ナラ<PAGE>オデモ 嫌ナコト シテヤル!<PAGE>オ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 172,
+   "offset": 15605,
+   "length_bytes": 47,
+   "raw_hex": "8e6a005780cc808f7e0059785580d180d1ffef56808e6a005780cc808f667f64fff68127538120006653808b7c80d1",
+   "text_jp": "デノ カ{204}ドヲ クラエ!!<VOICE?>オデノ カ{204}ドナンテ<PAGE>払イ道 ナイダロ!",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 173,
+   "offset": 15653,
+   "length_bytes": 41,
+   "raw_hex": "fffcfff680d75b7b808e0053536a576680d0ffef567b00568090556a00846367fff682166261536680",
+   "text_jp": "<CLOSE><PAGE>…コレデ イイノカナ?<VOICE?>オレ オバエノ 役ニ<PAGE>立チタイナ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 174,
+   "offset": 15693,
+   "length_bytes": 58,
+   "raw_hex": "d7fffcfff680d7808f545d7754576680d7ffef56808e005680905567005e80987a5780cc808ffff6757a7780d100fffc80987a60666a0086e982",
+   "text_jp": "…<CLOSE><PAGE>…ドウシヨウカナ…<VOICE?>オデ オバエニ スペルカ{204}ド<PAGE>ヤルヨ! <CLOSE>ペルソナノ 林",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE><PAGE>...<VOICE?>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 175,
+   "offset": 15751,
+   "length_bytes": 45,
+   "raw_hex": "7467fff6812780a16400830f5d536680d1ffef808b57780056808e005680905565fff6818b53615966536680d7",
+   "text_jp": "モニ<PAGE>払ッテ 歓シイナ!<VOICE?>ダカラ オデ オバエト<PAGE>貰イタクナイナ…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 176,
+   "offset": 15796,
+   "length_bytes": 44,
+   "raw_hex": "fffcfff6818b53615966537f808b7780d7ffef56808e6a00821881fb62808b80d7fff663707f665300818780",
+   "text_jp": "<CLOSE><PAGE>貰イタクナインダヨ…<VOICE?>オデノ 気持チダ…<PAGE>ツマンナイ 物",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 177,
+   "offset": 15840,
+   "length_bytes": 53,
+   "raw_hex": "8b5a808ffff6747880a1640056597b80d1ffef808e740056808e0084517b665380d7fffcfff682e28084787b7a0082de83bc665366",
+   "text_jp": "ダケド<PAGE>モラッテ オクレ!<VOICE?>デモ オデ 走レナイ…<CLOSE><PAGE>逃ゲラレル 自信ナイナ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 178,
+   "offset": 15893,
+   "length_bytes": 55,
+   "raw_hex": "80d7fffcfff67d537c005d5766535780d7ffef56808e0082de82376a005780cc808f5d57fff681fb80a16466537f808b80d7fffcfff65e",
+   "text_jp": "…<CLOSE><PAGE>ワイロ シカナイカ…<VOICE?>オデ 自分ノ カ{204}ドシカ<PAGE>持ッテナインダ…<CLOSE><PAGE>ス",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<VOICE?>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 179,
+   "offset": 15948,
+   "length_bytes": 48,
+   "raw_hex": "80987a5780cc808f808e0082ec5d6480d7ffef5680905500819f740066536a67fff6853b590066536a5780d080d7fff6",
+   "text_jp": "ペルカ{204}ドデ 許シテ…<VOICE?>オバエ 月モ ナイノニ<PAGE>怖ク ナイノカ?…<PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 180,
+   "offset": 15996,
+   "length_bytes": 49,
+   "raw_hex": "568090550082178218527a7f808b6680d7fff5745d575d640056809055fff656808e670082d75700597b7a80d0fff6667f",
+   "text_jp": "オバエ 勇気アルンダナ…<LINE>モシカシテ オバエ<PAGE>オデニ 何カ クレル?<PAGE>ナン",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 181,
+   "offset": 16045,
+   "length_bytes": 44,
+   "raw_hex": "5700607f6600821880815d645c80d1fff1fff5568090550056808e6a5b65fff680905767005d647a808b7c80",
+   "text_jp": "カ ソンナ 気ガシテサ!<PAUSE><LINE>オバエ オデノコト<PAGE>バカニ シテルダロ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 182,
+   "offset": 16089,
+   "length_bytes": 50,
+   "raw_hex": "d1fff66f7800606a8238007257635980d1fff556808e00568090550082f253808b80d1fff682805867006680a164830f5d5a",
+   "text_jp": "!<PAGE>ホラ ソノ目 ムカツク!<LINE>オデ オバエ 嫌イダ!<PAGE>好キニ ナッテ歓シケ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 183,
+   "offset": 16139,
+   "length_bytes": 28,
+   "raw_hex": "8090fff6667f5700775b5f80d180d1fff1fff5819f80810066537780",
+   "text_jp": "バ<PAGE>ナンカ ヨコセ!!<PAUSE><LINE>月ガ ナイヨ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>..."
+  },
+  {
+   "id": 184,
+   "offset": 16167,
+   "length_bytes": 48,
+   "raw_hex": "d7fffcfff656808e00853b537780d780d7fff56554656300808b5a808f80d7fff65680905500818283c46a0056808e67",
+   "text_jp": "…<CLOSE><PAGE>オデ 怖イヨ……<LINE>トウトツ ダケド…<PAGE>オバエ 最弱ノ オデニ",
+   "notes": "",
+   "translation_en": "…<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 185,
+   "offset": 16216,
+   "length_bytes": 47,
+   "raw_hex": "fff682d757007380837f808e597b80d7fff1fff55b7f66005353819f808b65fff656808e0084a3796159667a7780d1",
+   "text_jp": "<PAGE>何カ メグンデクレ…<PAUSE><LINE>コンナ イイ月ダト<PAGE>オデ 錘リタクナルヨ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 186,
+   "offset": 16263,
+   "length_bytes": 45,
+   "raw_hex": "fff6808b80a164008182825c808b746a80d1fff556808e00677f80847f65fff681aa005d615780a1617f808b80",
+   "text_jp": "<PAGE>ダッテ 最高ダモノ!<LINE>オデ ニンゲント<PAGE>話 シタカッタンダ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 187,
+   "offset": 16307,
+   "length_bytes": 63,
+   "raw_hex": "d1fff6833b53808100576680a1617780d1fff5ffed568090550056808e670081db666a5780d0fff66370787f005b65808e00840d575a7a6680d1fffc80d780",
+   "text_jp": "!<PAGE>願イガ カナッタヨ!<LINE><VOICE?>オバエ オデニ 注ナノカ?<PAGE>ツマラン コトデ 声カケルナ!<CLOSE>…",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<PAGE>...<LINE><VOICE?>...<PAGE>...<CLOSE>…"
+  },
+  {
+   "id": 188,
+   "offset": 16370,
+   "length_bytes": 62,
+   "raw_hex": "d780d7840d575a616a0056808e80d080d7fff5ffee56808e0056809055650081ce83c05d6474fff653535a808f0061808b6b005375808b808a80d1fff680",
+   "text_jp": "……声カケタノ オデ?…<LINE><VOICE?>オデ オバエト 交燠シテモ<PAGE>イイケド タダハ イヤダゾ!<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 189,
+   "offset": 16432,
+   "length_bytes": 47,
+   "raw_hex": "8b577800667f5700747854808a80d1fff1fff5ffec56808e005680905565fff681ce83c05d61535a808f80d7fff685",
+   "text_jp": "ダカラ ナンカ モラウゾ!<PAUSE><LINE>[ec]オデ オバエト<PAGE>交燠シタイケド…<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAUSE><LINE>[ec]...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 190,
+   "offset": 16479,
+   "length_bytes": 51,
+   "raw_hex": "3b5780a16178005e80830081e07a7780d7fff5ffee5680905500853b6054808b5a808f80d7fffcfff6745d575d61780082d757",
+   "text_jp": "づカッタラ スグ 帰ルヨ…<LINE><VOICE?>オバエ 怖ソウダケド…<CLOSE><PAGE>モシカシタラ 何カ",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 191,
+   "offset": 16530,
+   "length_bytes": 59,
+   "raw_hex": "fff6597b7a5774005d7b66536680d7fff1fff5ffeb56808e00738088785d590082188237535380d1fff656809055006353647a7780d1fff6834c59",
+   "text_jp": "<PAGE>クレルカモ シレナイナ…<PAUSE><LINE><VOICE?>オデ メズラシク 気分イイ!<PAGE>オバエ ツイテルヨ!<PAGE>帛ク",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE><VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 192,
+   "offset": 16589,
+   "length_bytes": 60,
+   "raw_hex": "0056808e650081ce83c05d775480d180d1fff5ffeb56808e0081ce83c05e7a7780d180d1fff6677f80847f008111828058808b747f80d1fff6708088",
+   "text_jp": " オデト 交燠シヨウ!!<LINE><VOICE?>オデ 交燠スルヨ!!<PAGE>ニンゲン 大好キダモン!<PAGE>マズ",
+   "notes": "",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 193,
+   "offset": 16649,
+   "length_bytes": 52,
+   "raw_hex": "6b0082d757006280a454808b5380d1fff1fff5ffed80d780d756808e005680905567fff6840d575a617f808780a26653808a80d1",
+   "text_jp": "ハ 何カ チョウダイ!<PAUSE><LINE><VOICE?>……オデ オバエニ<PAGE>声カケタンジャナイゾ!",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 194,
+   "offset": 16701,
+   "length_bytes": 49,
+   "raw_hex": "fff67080a1615900667f667f808b7780d1fff5ffec5680905500745d575d64fff656808e67005a7f570081af7a6a5780d0",
+   "text_jp": "<PAGE>マッタク ナンナンダヨ!<LINE>[ec]オバエ モシカシテ<PAGE>オデニ ケンカ 売ルノカ?",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>[ec]...<PAGE>..."
+  },
+  {
+   "id": 195,
+   "offset": 16750,
+   "length_bytes": 53,
+   "raw_hex": "fff6808e665a7b80900053535a808f80d7fff5ffed568090556a83cc6b00821b615966535a808f80d15b7f6600587b536600819f6b",
+   "text_jp": "<PAGE>デナケレバ イイケド…<LINE><VOICE?>オバエノ顔ハ 見タクナイケド!コンナ キレイナ 月ハ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 196,
+   "offset": 16803,
+   "length_bytes": 52,
+   "raw_hex": "fff685258241808e7400821b61536980d1fff5ffeb568090550070685a660083cc808b6680d1fff656808e00567055005778fff6",
+   "text_jp": "<PAGE>垂巳デモ 見タイネ!<LINE><VOICE?>オバエ マヌケナ 顔ダナ!<PAGE>オデ オマエ カラ<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 197,
+   "offset": 16855,
+   "length_bytes": 56,
+   "raw_hex": "66675700747880a164757a80d180d1fff1fff5ffec5680905500853b6054808b5a808f80d7fff6667f570081aa005d615380d7fffcfff656",
+   "text_jp": "ナニカ モラッテヤル!!<PAUSE><LINE>[ec]オバエ 怖ソウダケド…<PAGE>ナンカ 話 シタイ…<CLOSE><PAGE>オ",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>[ec]...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 198,
+   "offset": 16911,
+   "length_bytes": 48,
+   "raw_hex": "808e006667577e00825082eb5d647a80d7fff5ffeb5b6a00587f6280a45482ed8081fff656808e00828058667f808b80",
+   "text_jp": "デ ナニカヲ 期待シテル…<LINE><VOICE?>コノ キンチョウ感ガ<PAGE>オデ 好キナンダ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 199,
+   "offset": 16959,
+   "length_bytes": 56,
+   "raw_hex": "d1fff65680905574006054808b776680d7fff5568090550056808e65008218808152546680d1fff6775d0081ce83c081ee8216808b7780d1",
+   "text_jp": "!<PAGE>オバエモ ソウダヨナ…<LINE>オバエ オデト 気ガアウナ!<PAGE>ヨシ 交燠成立ダヨ!",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 200,
+   "offset": 17016,
+   "length_bytes": 51,
+   "raw_hex": "fff6830f5d53818700826780a164716680d1ffef5680905580d10056808e67fff681a68453808e7400527a6a5780d180d1fff6",
+   "text_jp": "<PAGE>歓シイ物 言ッテミナ!<VOICE?>オバエ! オデニ<PAGE>文句デモ アルノカ!!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 201,
+   "offset": 17066,
+   "length_bytes": 60,
+   "raw_hex": "82f2665b655d57005d66536a5780d180d1ffef677f80847f005e7a5b6500853b5380d7fffcfff656808e0056809055650081b783366780d7fffcfff6",
+   "text_jp": "嫌ナコトシカ シナイノカ!!<VOICE?>ニンゲン スルコト 怖イ…<CLOSE><PAGE>オデ オバエト 一緒ニ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 202,
+   "offset": 17126,
+   "length_bytes": 55,
+   "raw_hex": "5b7b81e482d40053615966537780d780d7ffef56809055005e7a5b6500841a8460536680d1fff656808e005b7f660082e682e767fff681",
+   "text_jp": "コレ以部 イタクナイヨ……<VOICE?>オバエ スルコト 面曰イナ!<PAGE>オデ コンナ 偸快ニ<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 203,
+   "offset": 17181,
+   "length_bytes": 56,
+   "raw_hex": "ce83c0808e58640082fc5d536680d180d1ffef56809055007566655b00527a5a808ffff65353655b7400527a6680d7fffcfff681ce83c081",
+   "text_jp": "'燠デキテ 娼シイナ!!<VOICE?>オバエ ヤナトコ アルケド<PAGE>イイトコモ アルナ…<CLOSE><PAGE>交燠",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<PAGE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 204,
+   "offset": 17237,
+   "length_bytes": 51,
+   "raw_hex": "ee8216808b0082d7808100830f5d5380d0ffef5680905500853b535a808ffff656808e00833581657400527a7f808b80d7fffc",
+   "text_jp": "∧立ダ 何ガ 歓シイ?<VOICE?>オバエ 怖イケド<PAGE>オデ 興味モ アルンダ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 205,
+   "offset": 17289,
+   "length_bytes": 97,
+   "raw_hex": "fff6568090550082d7808100830f5d5380d0ffef56809055008182825c808b6680d180d1fff68304670081fc707b00577d7a81926bfff656808e00677f80847f6700667a808a80d1fffbfff76579525580880081ce83c06b0081ee821680d1fff6",
+   "text_jp": "<PAGE>オバエ 何ガ 歓シイ?<VOICE?>オバエ 最高ダナ!!<PAGE>坎ニ 生マレ カワル時ハ<PAGE>オデ ニンゲンニ ナルゾ!<MENU_A><MENU_B>トリアエズ 交燠ハ 成立!<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>...<PAGE>...<MENU_A><MENU_B>...<PAGE>"
+  },
+  {
+   "id": 206,
+   "offset": 17385,
+   "length_bytes": 59,
+   "raw_hex": "5680905500808f545d6400830f5d5380d0ffef56809055005e7a5b65008188817f81f4816080d7fffcfff656808e005b7b81e482d4007d5a7d5778",
+   "text_jp": "オバエ ドウシテ 歓シイ?<VOICE?>オバエ スルコト 理解不龍…<CLOSE><PAGE>オデ コレ以部 ワケワカラ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 207,
+   "offset": 17444,
+   "length_bytes": 48,
+   "raw_hex": "665381ce83c0667f64005d6159665380d1ffef567055007c596781ce83c074fff68198820d66537f808b6680d1fff656",
+   "text_jp": "ナイ交燠ナンテ シタクナイ!<VOICE?>オマエ ロクニ交燠モ<PAGE>申禾ナインダナ!<PAGE>オ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 208,
+   "offset": 17492,
+   "length_bytes": 50,
+   "raw_hex": "808e81e4822b80a164005b65808b6680d1ffef80d756809055005e8085537f808b6680d1fff656808e00577f5d7f005d6177",
+   "text_jp": "デ以下ッテ コトダナ!<VOICE?>…オバエ スゴインダナ!<PAGE>オデ カンシン シタヨ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 209,
+   "offset": 17542,
+   "length_bytes": 23,
+   "raw_hex": "80d7fff65480a1657900808b7780d780d7ffef56808e00",
+   "text_jp": "…<PAGE>ウットリ ダヨ……<VOICE?>オデ ",
+   "notes": "",
+   "translation_en": "…<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 210,
+   "offset": 17565,
+   "length_bytes": 9,
+   "raw_hex": "576900830f5d5380d1",
+   "text_jp": "カネ 歓シイ!",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 211,
+   "offset": 17574,
+   "length_bytes": 57,
+   "raw_hex": "fff6fff8557f80d1ffef547b5d537780d1fff5568090550056808e808100822b825d808b5778fff6576981db81c5005d665780a1617f808b7c",
+   "text_jp": "<PAGE>[f8]エン!<VOICE?>ウレシイヨ!<LINE>オバエ オデガ 下鈑ダカラ<PAGE>カネ注意 シナカッタンダロ",
+   "notes": "",
+   "translation_en": "<PAGE>[f8]...<VOICE?>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 212,
+   "offset": 17631,
+   "length_bytes": 32,
+   "raw_hex": "80d1fff680905767005e7f667780d180d1fff5568090550080917f80945480d7",
+   "text_jp": "!<PAGE>バカニ スンナヨ!!<LINE>オバエ ビンボウ…",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 213,
+   "offset": 17664,
+   "length_bytes": 53,
+   "raw_hex": "fffcfff68222836b005d647a7f808b6680d7fff5568090550056808e808b80a164fff684a2538187005d61537f808b808a80d180d1",
+   "text_jp": "<CLOSE><PAGE>苦労 シテルンダナ…<LINE>オバエ オデダッテ<PAGE>賞イ物 シタインダゾ!!",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 214,
+   "offset": 17717,
+   "length_bytes": 44,
+   "raw_hex": "fff680905767005d75808180a16480d180d1fff57580a18095796680d7fffcfff656808e00667f57656bfff6",
+   "text_jp": "<PAGE>バカニ シヤガッテ!!<LINE>ヤッパリナ…<CLOSE><PAGE>オデ ナンカトハ<PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 215,
+   "offset": 17760,
+   "length_bytes": 33,
+   "raw_hex": "81ce83c05e7a82180066537f808b7c80d7fff556808e008116817800830f5d5380",
+   "text_jp": "交燠スル気 ナインダロ…<LINE>オデ 魔石 歓シイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 216,
+   "offset": 17793,
+   "length_bytes": 9,
+   "raw_hex": "d1fff680c181c7808e",
+   "text_jp": "!<PAGE>1茴デ",
+   "notes": "",
+   "translation_en": "!<PAGE>..."
+  },
+  {
+   "id": 217,
+   "offset": 17802,
+   "length_bytes": 28,
+   "raw_hex": "0053537f808b808affef547b5d537780d1fff5568090550081168178",
+   "text_jp": " イインダゾ<VOICE?>ウレシイヨ!<LINE>オバエ 魔石",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<LINE>..."
+  },
+  {
+   "id": 218,
+   "offset": 17830,
+   "length_bytes": 33,
+   "raw_hex": "80837853fff681fb80a1647c7780d180d1fff556809055008116817866536a80d1",
+   "text_jp": "グライ<PAGE>持ッテロヨ!!<LINE>オバエ 魔石ナイノ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 219,
+   "offset": 17863,
+   "length_bytes": 57,
+   "raw_hex": "fff677590081fc58640053787b7a6680d7fff5568090550056808e6a5b65fff6813d8116808b6500827b80a1646653808b7c80d1fff6811f81",
+   "text_jp": "<PAGE>ヨク 生キテ イラレルナ…<LINE>オバエ オデノコト<PAGE>悪魔ダト 思ッテナイダロ!<PAGE>夘",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 220,
+   "offset": 17920,
+   "length_bytes": 43,
+   "raw_hex": "20808b80a16400853b537f808b808a80d1fff57580a18095796680d7fffcfff656808e00667f57656bfff6",
+   "text_jp": "みダッテ 怖インダゾ!<LINE>ヤッパリナ…<CLOSE><PAGE>オデ ナンカトハ<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>...<PAGE>"
+  },
+  {
+   "id": 221,
+   "offset": 17963,
+   "length_bytes": 36,
+   "raw_hex": "81ce83c05e7a82180066537f808b7c80d7fff556808e008205817800830f5d5380d1fff6",
+   "text_jp": "交燠スル気 ナインダロ…<LINE>オデ 宝石 歓シイ!<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>"
+  },
+  {
+   "id": 222,
+   "offset": 17999,
+   "length_bytes": 19,
+   "raw_hex": "fff480d1fff65e80855900830f5d5380d1ffef",
+   "text_jp": "[f4]!<PAGE>スゴク 歓シイ!<VOICE?>",
+   "notes": "",
+   "translation_en": "[f4]!<PAGE>...<VOICE?>"
+  },
+  {
+   "id": 223,
+   "offset": 18018,
+   "length_bytes": 40,
+   "raw_hex": "6f7f655480d1fff6547b5d536680d180d1fff581fb80a1647a6500827b80a1617f808b5a808f80d7",
+   "text_jp": "ホントウ!<PAGE>ウレシイナ!!<LINE>持ッテルト 思ッタンダケド…",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 224,
+   "offset": 18058,
+   "length_bytes": 57,
+   "raw_hex": "fff682ed81580067809280a161576680d7fff5568090550056808e6a5b65fff6813d8116808b6500827b80a1646653808b7c80d1fff6811f81",
+   "text_jp": "<PAGE>感忤 ニブッタカナ…<LINE>オバエ オデノコト<PAGE>悪魔ダト 思ッテナイダロ!<PAGE>夘",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 225,
+   "offset": 18115,
+   "length_bytes": 31,
+   "raw_hex": "20808b80a16400853b537f808b808a80d1fff5568090550056808e808b80a1",
+   "text_jp": "みダッテ 怖インダゾ!<LINE>オバエ オデダッ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 226,
+   "offset": 18146,
+   "length_bytes": 34,
+   "raw_hex": "64fff6565d80a27b005d61537f808b80d7fff556808e0081fc82180081e953615380",
+   "text_jp": "テ<PAGE>オシャレ シタインダ…<LINE>オデ 生気 嗅イタイ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 227,
+   "offset": 18180,
+   "length_bytes": 45,
+   "raw_hex": "d1fff6568090550081e97d5f64597b80d1ffef56809055005a80a15b54fff65353747f00846580a1647f808b66",
+   "text_jp": "!<PAGE>オバエ 嗅ワセテクレ!<VOICE?>オバエ ケッコウ<PAGE>イイモン 食ッテンダナ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 228,
+   "offset": 18225,
+   "length_bytes": 57,
+   "raw_hex": "fff681fc8218808e007d577a7f808b80d1fff5568090550056808e6a5b65fff6813d8116808b6500827b80a1646653808b7c80d1fff6811f81",
+   "text_jp": "<PAGE>生気デ ワカルンダ!<LINE>オバエ オデノコト<PAGE>悪魔ダト 思ッテナイダロ!<PAGE>夘",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 229,
+   "offset": 18282,
+   "length_bytes": 14,
+   "raw_hex": "20808b80a16400853b537f808b80",
+   "text_jp": "みダッテ 怖インダ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "..."
+  },
+  {
+   "id": 230,
+   "offset": 18296,
+   "length_bytes": 28,
+   "raw_hex": "8a80d1fff56678008282670053537580d7fff5808b7180ccfff5808b",
+   "text_jp": "ゾ!<LINE>ナラ 別ニ イイヤ…<LINE>ダミ{204}<LINE>ダ",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<LINE>..."
+  }
+ ]
+}

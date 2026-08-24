@@ -1,0 +1,111 @@
+{
+ "file": "D02/D13.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 48608,
+   "length_bytes": 12,
+   "raw_hex": "7080cc5980cb82d80a042906",
+   "text_jp": "マ{204}ク:聞こえるか",
+   "translation_en": "Mark: ..."
+  },
+  {
+   "id": 1,
+   "offset": 48647,
+   "length_bytes": 4,
+   "raw_hex": "034d80d7",
+   "text_jp": "うっ…",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 48677,
+   "length_bytes": 12,
+   "raw_hex": "012a1e3d82674d10191680d7",
+   "text_jp": "あれほど言ったのに…",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 48734,
+   "length_bytes": 11,
+   "raw_hex": "82d80a0415064d100680d0",
+   "text_jp": "聞こえなかったか?",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 48755,
+   "length_bytes": 13,
+   "raw_hex": "829b843d19813983a019840d16",
+   "text_jp": "園忖の毋覬の声に",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 48770,
+   "length_bytes": 14,
+   "raw_hex": "82bb13022926031582182f0d292f",
+   "text_jp": "傑ているような気がするが",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 48798,
+   "length_bytes": 5,
+   "raw_hex": "2c100c161a",
+   "text_jp": "わたしには",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 48805,
+   "length_bytes": 18,
+   "raw_hex": "0581390b2e152e130215024d133e80cc80d1",
+   "text_jp": "お毋さんなんていないってば{204}!",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 48851,
+   "length_bytes": 6,
+   "raw_hex": "7058151980d0",
+   "text_jp": "マキなの?",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 48864,
+   "length_bytes": 8,
+   "raw_hex": "02274d0c4e0280d7",
+   "text_jp": "いらっしゃい…",
+   "translation_en": "..."
+  },
+  {
+   "id": 10,
+   "offset": 48886,
+   "length_bytes": 7,
+   "raw_hex": "06064d13021502",
+   "text_jp": "かかっていない",
+   "translation_en": "..."
+  },
+  {
+   "id": 11,
+   "offset": 48895,
+   "length_bytes": 5,
+   "raw_hex": "2010023938",
+   "text_jp": "みたいだぞ",
+   "translation_en": "..."
+  },
+  {
+   "id": 12,
+   "offset": 48925,
+   "length_bytes": 9,
+   "raw_hex": "81ae4d1320290680d0",
+   "text_jp": "入ってみるか?",
+   "translation_en": "..."
+  }
+ ]
+}

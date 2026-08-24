@@ -1,0 +1,15 @@
+{
+ "file": "OPEN.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 357874,
+   "length_bytes": 3,
+   "raw_hex": "301f10",
+   "text_jp": "ぎまた",
+   "translation_en": "..."
+  }
+ ]
+}

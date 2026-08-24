@@ -1,0 +1,63 @@
+{
+ "file": "D02/D14.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 49892,
+   "length_bytes": 12,
+   "raw_hex": "7080cc5980cb83a706184b15",
+   "text_jp": "マ{204}ク:闢かねぇな",
+   "translation_en": "Mark: ..."
+  },
+  {
+   "id": 1,
+   "offset": 49908,
+   "length_bytes": 19,
+   "raw_hex": "824b83ab80cb0f0a19844081252f83cb0c0215",
+   "text_jp": "南茱:そこの広間が性しいな",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 49929,
+   "length_bytes": 17,
+   "raw_hex": "82d706830385df092f01291682cf021502",
+   "text_jp": "何か汢掛けがあるに違いない",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 50048,
+   "length_bytes": 11,
+   "raw_hex": "85ba167b809080cc2f0129",
+   "text_jp": "呈にレバ{204}がある",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 50063,
+   "length_bytes": 15,
+   "raw_hex": "7b809080cc2d8154060c1f0d0680d0",
+   "text_jp": "レバ{204}を激かしますか?",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 50152,
+   "length_bytes": 16,
+   "raw_hex": "817b822580cb5780822f06064d132918",
+   "text_jp": "悃希:カギがかかってるね",
+   "translation_en": "Maki: ..."
+  },
+  {
+   "id": 6,
+   "offset": 50170,
+   "length_bytes": 16,
+   "raw_hex": "811483071a0a0a354e15022010023926",
+   "text_jp": "神取はここじゃないみたいだよ",
+   "translation_en": "..."
+  }
+ ]
+}

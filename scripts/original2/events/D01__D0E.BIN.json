@@ -1,0 +1,143 @@
+{
+ "file": "D01/D0E.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 6575,
+   "length_bytes": 9,
+   "raw_hex": "7f73026f5610068355",
+   "text_jp": "ンメいホオたか蕎",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 13502,
+   "length_bytes": 6,
+   "raw_hex": "3f034a290821",
+   "text_jp": "びうぅるくむ",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 122096,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 122188,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 122280,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 122372,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 122513,
+   "length_bytes": 4,
+   "raw_hex": "1039021f",
+   "text_jp": "ただいま",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 122519,
+   "length_bytes": 12,
+   "raw_hex": "05844a201615272a13021f0d",
+   "text_jp": "お休みになられています",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 122535,
+   "length_bytes": 10,
+   "raw_hex": "3d15102381ba0d151419",
+   "text_jp": "どなたも僵すなとの",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 122547,
+   "length_bytes": 9,
+   "raw_hex": "33815e82c83c0d193c",
+   "text_jp": "ご命令ですので",
+   "translation_en": "..."
+  },
+  {
+   "id": 10,
+   "offset": 122558,
+   "length_bytes": 17,
+   "raw_hex": "819881d60c1302103907100881f5351f0d",
+   "text_jp": "申直していただきたく存じます",
+   "translation_en": "..."
+  },
+  {
+   "id": 11,
+   "offset": 122591,
+   "length_bytes": 5,
+   "raw_hex": "3602402e14",
+   "text_jp": "ずいぶんと",
+   "translation_en": "..."
+  },
+  {
+   "id": 12,
+   "offset": 122598,
+   "length_bytes": 13,
+   "raw_hex": "814283a54d1329354e1880cc19",
+   "text_jp": "屎悵ってるじゃね{204}の",
+   "translation_en": "..."
+  },
+  {
+   "id": 13,
+   "offset": 122613,
+   "length_bytes": 13,
+   "raw_hex": "595380cc7f1406020382521a26",
+   "text_jp": "クイ{204}ンとかいう奴はよ",
+   "translation_en": "..."
+  },
+  {
+   "id": 14,
+   "offset": 122632,
+   "length_bytes": 12,
+   "raw_hex": "85d21a83a706150280d780d7",
+   "text_jp": "扉は闢かない……",
+   "translation_en": "..."
+  },
+  {
+   "id": 15,
+   "offset": 122720,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  },
+  {
+   "id": 16,
+   "offset": 122812,
+   "length_bytes": 15,
+   "raw_hex": "81ef0b2a130c1f4d1080d780d780d7",
+   "text_jp": "戻されてしまった………",
+   "translation_en": "..."
+  }
+ ]
+}

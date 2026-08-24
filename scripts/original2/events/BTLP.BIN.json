@@ -1,0 +1,23 @@
+{
+ "file": "BTLP.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 374137,
+   "length_bytes": 4,
+   "raw_hex": "10033c51",
+   "text_jp": "たうでゎ",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 374793,
+   "length_bytes": 4,
+   "raw_hex": "10033c51",
+   "text_jp": "たうでゎ",
+   "translation_en": "..."
+  }
+ ]
+}

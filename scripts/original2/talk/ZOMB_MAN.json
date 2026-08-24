@@ -1,0 +1,1645 @@
+{
+ "file": "TALK/ZOMB_MAN",
+ "format": "talk",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 8193,
+   "length_bytes": 12,
+   "raw_hex": "82d782674d13292f00823706",
+   "text_jp": "何言ってるが 分か",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 8224,
+   "length_bytes": 27,
+   "raw_hex": "271855323dfff6153b060c0200840d3927fff53319827a0b23003b",
+   "text_jp": "らねエげど<PAGE>なづかしい 声だら<LINE>ごの寒さも づ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 2,
+   "offset": 8251,
+   "length_bytes": 36,
+   "raw_hex": "270b23fff681bc391855310e1680d780d1fff5051f042f00052afff6391f3415024d1302",
+   "text_jp": "らさも<PAGE>知だねエぐせに…!<LINE>おまえが おれ<PAGE>だまざないってい",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 3,
+   "offset": 8287,
+   "length_bytes": 20,
+   "raw_hex": "03fff65d80a45480851a150206271580d7fff581",
+   "text_jp": "う<PAGE>ショウゴはないからな…<LINE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>"
+  },
+  {
+   "id": 4,
+   "offset": 8307,
+   "length_bytes": 41,
+   "raw_hex": "b78124424d3a2a0034200c064d100180d7fff5051f04000523353d0215fffcfff6051f042010021524",
+   "text_jp": "R人ぼっぢれ ざみしかったあ…<LINE>おまえ おもじどいな<CLOSE><PAGE>おまえみたいなや",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 5,
+   "offset": 8348,
+   "length_bytes": 29,
+   "raw_hex": "12fff6260800808e7b80913c821b1080d7fff582d72d0036292e3980d1",
+   "text_jp": "つ<PAGE>よく デレビで見た…<LINE>何を ずるんだ!",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 6,
+   "offset": 8378,
+   "length_bytes": 29,
+   "raw_hex": "fff6052a00314d3c230054703118553880d1fff582d70035242f2980d1",
+   "text_jp": "<PAGE>おれ ぐっでも ウマぐねエぞ!<LINE>何 じやがる!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 7,
+   "offset": 8407,
+   "length_bytes": 30,
+   "raw_hex": "fff652808b702f270084654d3a4e033880d1fff5150082d7363b2e392603",
+   "text_jp": "<PAGE>アダマがら 食っぢゃうぞ!<LINE>な 何ずづんだよう",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 8,
+   "offset": 8436,
+   "length_bytes": 27,
+   "raw_hex": "80d1fff6052a2f000a2c02192f80d080d1fff5051f0400817d1524",
+   "text_jp": "!<PAGE>おれが こわいのが?!<LINE>おまえ 変なや",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 9,
+   "offset": 8463,
+   "length_bytes": 35,
+   "raw_hex": "3b3927fff63c230080827853354e150238fff5052a0080847f808182e932100a14fff6",
+   "text_jp": "づだら<PAGE>でも ギライじゃないぞ<LINE>おれ ゲンガ莫げたこと<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 10,
+   "offset": 8498,
+   "length_bytes": 34,
+   "raw_hex": "152f4d1038fff681d1353c2029270180d0fff5051f042d003b221002839119815f16",
+   "text_jp": "ながったぞ<PAGE>試じでみるらあ?<LINE>おまえを づめたい士の宇に",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 11,
+   "offset": 8532,
+   "length_bytes": 24,
+   "raw_hex": "fff68306073b28332e3c243a3c042680d7fff51537003319",
+   "text_jp": "<PAGE>帆きづりごんでやぢでえよ…<LINE>なぜ ごの",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 12,
+   "offset": 8556,
+   "length_bytes": 41,
+   "raw_hex": "052a2dfff6332c2f2715022e3980d780d0fff5052a00212f0c1a5e808508fff6853b2f28394d102e39",
+   "text_jp": "おれを<PAGE>ごわがらないんだ…?<LINE>おれ むがしはスゴく<PAGE>怖がりだったんだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 13,
+   "offset": 8597,
+   "length_bytes": 32,
+   "raw_hex": "323d80d7fffcfff6230300820882183901fff5010001191580d7fffcfff6052a",
+   "text_jp": "げど…<CLOSE><PAGE>もう 乎気だあ<LINE>あ あのな…<CLOSE><PAGE>おれ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 14,
+   "offset": 8629,
+   "length_bytes": 45,
+   "raw_hex": "1981503d0082d723021855261580d780d0fff5382e15747f3c00853b02192f0280d0fff6052a152700587f8083",
+   "text_jp": "の後ど 何もいねエよな…?<LINE>ぞんなモンで 怖いのがい?<PAGE>おれなら キング",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 15,
+   "offset": 8674,
+   "length_bytes": 54,
+   "raw_hex": "2628fff6853b55192f00828909293780d1fff581241a392a3c230081342e392785b3394d133e80cc3a4e2e0082674d2a1038fffcfff6",
+   "text_jp": "より<PAGE>怖エのが 霄けるぜ!<LINE>人はだれでも 迅んだら仏だってば{204}ぢゃん 言っれたぞ<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 16,
+   "offset": 8728,
+   "length_bytes": 27,
+   "raw_hex": "85b3341f1600152e1382ca30312e3980d1fff53d03351300052a16",
+   "text_jp": "仏ざまに なんて日ぎぐんだ!<LINE>どうじて おれに",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 17,
+   "offset": 8755,
+   "length_bytes": 33,
+   "raw_hex": "fff60f2e155380877d808d0d2980d780d0fff5033a190059808a80908090522039",
+   "text_jp": "<PAGE>そんなイジワヅする…?<LINE>うぢの クゾババアみだ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 18,
+   "offset": 8788,
+   "length_bytes": 35,
+   "raw_hex": "02391580d1fffc81f082183c0002290615fff5052a2d00538087223927fff680c180c0",
+   "text_jp": "いだな!<CLOSE>赱気で いるかな<LINE>おれを イジめだら<PAGE>10",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>...<PAGE>10"
+  },
+  {
+   "id": 19,
+   "offset": 8823,
+   "length_bytes": 17,
+   "raw_hex": "80c08295160c130083270c3c24293780d1",
+   "text_jp": "0佶にして 返しでやるぜ!",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 20,
+   "offset": 8840,
+   "length_bytes": 30,
+   "raw_hex": "fff581db2f01292e354e001502192f80d0fff5052a1a007b5380822d3527",
+   "text_jp": "<LINE>注があるんじゃ ないのが?<LINE>おれは レイギをじら",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>..."
+  },
+  {
+   "id": 21,
+   "offset": 8870,
+   "length_bytes": 16,
+   "raw_hex": "2e24122ffff63902302a55152e392680",
+   "text_jp": "んやつが<PAGE>だいぎれエなんだよ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 22,
+   "offset": 8886,
+   "length_bytes": 29,
+   "raw_hex": "d1fff582d72d0005334d13292e390180d0fff57257808719052a394d10",
+   "text_jp": "!<LINE>何を おごってるんだあ?<LINE>ムカジのおれだった",
+   "notes": "",
+   "translation_en": "!<LINE>...<LINE>..."
+  },
+  {
+   "id": 23,
+   "offset": 8915,
+   "length_bytes": 24,
+   "raw_hex": "27fff6374d3902160025293418042a2b15fff50b02302e19",
+   "text_jp": "ら<PAGE>ぜっだいに ゆるざねえれろな<LINE>さいぎんの",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 24,
+   "offset": 8939,
+   "length_bytes": 42,
+   "raw_hex": "812619824e1afff6332c022e27270180d7fff5051f040081fc07133cfff6382e150002025780a15b0c13",
+   "text_jp": "女の子は<PAGE>ごわいんららあ…<LINE>おまえ 生きてで<PAGE>ぞんな いいカッコして",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 25,
+   "offset": 8981,
+   "length_bytes": 17,
+   "raw_hex": "2afff60f2a3c2300052a2d023522100206",
+   "text_jp": "れ<PAGE>それでも おれをいじめたいか",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 26,
+   "offset": 8999,
+   "length_bytes": 28,
+   "raw_hex": "fff53c1d80d7fffc0013fffc00132a293901fff5833f1600152e3901",
+   "text_jp": "<LINE>でへ…<CLOSE> て<CLOSE> てれるだあ<LINE>念に なんだあ",
+   "notes": "",
+   "translation_en": "<LINE>...<CLOSE>...<CLOSE>...<LINE>..."
+  },
+  {
+   "id": 27,
+   "offset": 9027,
+   "length_bytes": 18,
+   "raw_hex": "fffcfff6052a0082733a4e2e354e15023803",
+   "text_jp": "<CLOSE><PAGE>おれ 赤ぢゃんじゃないぞう",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>..."
+  },
+  {
+   "id": 28,
+   "offset": 9045,
+   "length_bytes": 40,
+   "raw_hex": "fff58239043c2300fffc0202060180d780d0fff5052a00808e809b80885b4d13fff681d24d103314",
+   "text_jp": "<LINE>甘えでも <CLOSE>いいかあ…?<LINE>おれ ディズコって<PAGE>行ったごと",
+   "notes": "",
+   "translation_en": "<LINE>...<CLOSE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 29,
+   "offset": 9084,
+   "length_bytes": 22,
+   "raw_hex": "15064d10fff63d2e15140a272e392b0315fff53d030e",
+   "text_jp": "なかった<PAGE>どんなとこらんだろうな<LINE>どうせ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 30,
+   "offset": 9106,
+   "length_bytes": 44,
+   "raw_hex": "00052a1afff6053d282f6e808b392680d1fff5052a2300053d2a3927fff6746474641615290680d780d0fffc",
+   "text_jp": " おれは<PAGE>おどりがヘダだよ!<LINE>おれも おどれだら<PAGE>モテモテになるか…?<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 31,
+   "offset": 9150,
+   "length_bytes": 14,
+   "raw_hex": "fff60a80d7fffc0a304e29001406",
+   "text_jp": "<PAGE>こ…<CLOSE>こぎゃる とか",
+   "notes": "",
+   "translation_en": "<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 32,
+   "offset": 9164,
+   "length_bytes": 28,
+   "raw_hex": "162603fff5052a1400832e1f15022f80d0fff53b1f2e1502380380d1",
+   "text_jp": "によう<LINE>おれと 租まないが?<LINE>づまんないぞう!",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>..."
+  },
+  {
+   "id": 33,
+   "offset": 9193,
+   "length_bytes": 30,
+   "raw_hex": "fff6052a0005834a02161a00032934022e27fff50b205380d7fffc1f293c",
+   "text_jp": "<PAGE>おれ お笶いには うるざいんら<LINE>さみイ…<CLOSE>まるで",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE>..."
+  },
+  {
+   "id": 34,
+   "offset": 9223,
+   "length_bytes": 36,
+   "raw_hex": "fff66f80a15880a480831600022920390239fff5051f040005834a021980897f80880129",
+   "text_jp": "<PAGE>ホッキョグに いるみだいだ<LINE>おまえ お笶いのゼンズある",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 35,
+   "offset": 9258,
+   "length_bytes": 15,
+   "raw_hex": "38fff6052a2f006f808780a4540d29",
+   "text_jp": "ぞ<PAGE>おれが ホジョウする",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 36,
+   "offset": 9273,
+   "length_bytes": 25,
+   "raw_hex": "80d1fff50f2a0082d713020354808b3901fff5052a00567f80",
+   "text_jp": "!<LINE>それ 何ていうウダだあ<LINE>おれ オン",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "!<LINE>...<LINE>..."
+  },
+  {
+   "id": 37,
+   "offset": 9298,
+   "length_bytes": 34,
+   "raw_hex": "8180831afff60212230080c1394d1080d7fff5828c19815f161a00332e2728fff682",
+   "text_jp": "縛忠<PAGE>いつも 1だった…<LINE>械の宇には ごんらり<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 38,
+   "offset": 9332,
+   "length_bytes": 27,
+   "raw_hex": "4f196e808b15243b2f000210192f0180d1fff5567f808180831900",
+   "text_jp": "ゅのヘダなやづが いたのがあ!<LINE>オンガグの ",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 39,
+   "offset": 9359,
+   "length_bytes": 29,
+   "raw_hex": "81f181fcfff680827b53394d10150180d7fff5150082d70d2980d0fff6",
+   "text_jp": "旡生<PAGE>ギレイだったなあ…<LINE>な 何する?<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 40,
+   "offset": 9388,
+   "length_bytes": 33,
+   "raw_hex": "0a332d003d0a3914827b4d3c292e2780d7fff5031f02354e15022f80d1fff6372e",
+   "text_jp": "こごを どこだと思っでるんら…<LINE>うまいじゃないが!<PAGE>ぜん",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 41,
+   "offset": 9421,
+   "length_bytes": 35,
+   "raw_hex": "4d372e0061692ffff62c062e15064d3938fff5052a2f0081342e3c2f2723fff65f8081",
+   "text_jp": "っぜん タネが<PAGE>わかんなかっだぞ<LINE>おれが 迅んでがらも<PAGE>セガ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 42,
+   "offset": 9456,
+   "length_bytes": 31,
+   "raw_hex": "531a00123b023cfff602312e39232e1501fff5230300052a161a577f808453",
+   "text_jp": "イは つづいで<PAGE>いぐんだもんなあ<LINE>もう おれにはカンゲイ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 43,
+   "offset": 9487,
+   "length_bytes": 23,
+   "raw_hex": "150280d1fff6382e1581aa0d29150180d1fff582d83039",
+   "text_jp": "ない!<PAGE>ぞんな話するなあ!<LINE>聞ぎだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 44,
+   "offset": 9510,
+   "length_bytes": 29,
+   "raw_hex": "020a141afff6024d4302000129093d1501fff5051f04270100052a1a82",
+   "text_jp": "いことは<PAGE>いっぱい あるけどなあ<LINE>おまえらあ おれは",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 45,
+   "offset": 9539,
+   "length_bytes": 31,
+   "raw_hex": "8539fff6821b13002c2f2e1502192f80d0fff5240024222b2605fff6052a16",
+   "text_jp": "銖<PAGE>見て わがんないのが?<LINE>や やめろよお<PAGE>おれに",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 46,
+   "offset": 9570,
+   "length_bytes": 21,
+   "raw_hex": "3e00828007155b27fff602292e390180d1fff58426",
+   "text_jp": "ば 好きなコら<PAGE>いるんだあ!<LINE>友",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 47,
+   "offset": 9591,
+   "length_bytes": 31,
+   "raw_hex": "39111527fff6154d3c00244d2a23020215fff5051f0400052a19808b538092",
+   "text_jp": "だちなら<PAGE>なっで やっれもいいな<LINE>おまえ おれのダイブ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 48,
+   "offset": 9622,
+   "length_bytes": 17,
+   "raw_hex": "354e150280d1014d11160081d2324d80d1",
+   "text_jp": "じゃない!あっちに 行げっ!",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 49,
+   "offset": 9639,
+   "length_bytes": 47,
+   "raw_hex": "fff5031f38031582003901fff602023803fff58203809b80d7fffc837c02132e2f80d0fff6344d3000846541108200",
+   "text_jp": "<LINE>うまぞうな冂だあ<PAGE>いいぞう<LINE>血ィ…<CLOSE>村いてんが?<PAGE>ざっぎ 食べた冂",
+   "notes": "",
+   "translation_en": "<LINE>...<PAGE>...<LINE>...<CLOSE>...<PAGE>..."
+  },
+  {
+   "id": 50,
+   "offset": 9686,
+   "length_bytes": 46,
+   "raw_hex": "1afff60604288203000d332f4d39062715fff5052a00051f0419832283a13c23fff6842639113c2315022b03fff6",
+   "text_jp": "は<PAGE>かえり血 すごがっだからな<LINE>おれ おまえの足罘でも<PAGE>友だちでもないろう<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 51,
+   "offset": 9732,
+   "length_bytes": 40,
+   "raw_hex": "81241f3a2f0283f9083c0082fe4d132e39fff5152e39152e3980d000fffc052a1681db2f80d0fff6",
+   "text_jp": "人まぢがい多くで 附ってんだ<LINE>なんだなんだ? <CLOSE>おれに注が?<PAGE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>...<PAGE>"
+  },
+  {
+   "id": 52,
+   "offset": 9772,
+   "length_bytes": 12,
+   "raw_hex": "052a2300051f041681db2f01",
+   "text_jp": "おれも おまえに注があ",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 53,
+   "offset": 9784,
+   "length_bytes": 57,
+   "raw_hex": "29380580d1fff50f2a00152e39270180d0fff5052a1a0039080b2e80977b80897f808f0c10fffc1519165253808d001c101f10063213fff624",
+   "text_jp": "るぞお!<LINE>それ なんだらあ?<LINE>おれは だくさんプレゼンドした<CLOSE>なのにアイヅ ふたまたかげて<PAGE>や",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<CLOSE>...<PAGE>..."
+  },
+  {
+   "id": 54,
+   "offset": 9841,
+   "length_bytes": 21,
+   "raw_hex": "2f4d3c260580d700fffc11080c500380d1fff5082a",
+   "text_jp": "がっでよお… <CLOSE>ちくしょう!<LINE>くれ",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>..."
+  },
+  {
+   "id": 55,
+   "offset": 9862,
+   "length_bytes": 28,
+   "raw_hex": "2e192f80d0fffcfff6052a160680d080d1fff5052a23270180d7fffc",
+   "text_jp": "んのが?<CLOSE><PAGE>おれにか?!<LINE>おれもらあ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 56,
+   "offset": 9891,
+   "length_bytes": 29,
+   "raw_hex": "fff6022b022b008111817d394d392e3980d7fff58126196671808b1e3d",
+   "text_jp": "<PAGE>いろいろ 大変だっだんだ…<LINE>女のナミダほど",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 57,
+   "offset": 9919,
+   "length_bytes": 16,
+   "raw_hex": "fff683bc81db3c301502746a1a001804",
+   "text_jp": "<PAGE>信注でぎないモノは ねえ",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 58,
+   "offset": 9935,
+   "length_bytes": 26,
+   "raw_hex": "2bfff50500fffc050200852231152680d1fff5052a2300525970",
+   "text_jp": "ろ<LINE>お <CLOSE>おい 泣ぐなよ!<LINE>おれも アクマ",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>...<LINE>..."
+  },
+  {
+   "id": 59,
+   "offset": 9961,
+   "length_bytes": 28,
+   "raw_hex": "4d45282ffff685b2160012023c07391501fff5354e0100052a203902",
+   "text_jp": "っぷりが<PAGE>板に ついできだなあ<LINE>じゃあ おれみだい",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 60,
+   "offset": 9989,
+   "length_bytes": 30,
+   "raw_hex": "16fff681f70800152827022728260380d1fff581261a000a04042605fff6",
+   "text_jp": "に<PAGE>独く なりらいらりよう!<LINE>女は こええよお<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 61,
+   "offset": 10019,
+   "length_bytes": 48,
+   "raw_hex": "81b781450082d72d82dc043c292e3980d0fff5052a0081f7020680d0fffc00052a00853b022780d0fffc031d1d1d0081",
+   "text_jp": "一体 何を考えでるんだ?<LINE>おれ 独いか?<CLOSE> おれ 怖いら?<CLOSE>うへへへ ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE>...<CLOSE>..."
+  },
+  {
+   "id": 62,
+   "offset": 10067,
+   "length_bytes": 25,
+   "raw_hex": "3d811616154d13fff626064d39372a80d1fff5152e2f002112",
+   "text_jp": "ど魔になって<PAGE>よかっだぜれ!<LINE>なんが むつ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 63,
+   "offset": 10092,
+   "length_bytes": 32,
+   "raw_hex": "060c023314fff682674d13292013043915fff50f2a00824282183c82674d1329",
+   "text_jp": "かしいごと<PAGE>言ってるみてえだな<LINE>それ 本気で言ってる",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 64,
+   "offset": 10124,
+   "length_bytes": 41,
+   "raw_hex": "1527fff65d80a4545b2f001e350215fff1fff5152e392603fffcfff60e4d06080081a94d104d131916",
+   "text_jp": "なら<PAGE>ショウコが ほじいな<PAUSE><LINE>なんだよう<CLOSE><PAGE>せっかく 会ったってのに",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 65,
+   "offset": 10166,
+   "length_bytes": 32,
+   "raw_hex": "fff60f2e1533140c2f0082670415022f80d0fff581aa1a00230302022e3980d1",
+   "text_jp": "<PAGE>そんなごとしが 言えないが?<LINE>話は もういいんだ!",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 66,
+   "offset": 10197,
+   "length_bytes": 47,
+   "raw_hex": "fff6052a2f001e3502191a150180d7fff1fff5051f042f00354e414d1329191afff63d0a195b808f80903980d0fffc",
+   "text_jp": "<PAGE>おれが ほじいのはなあ…<PAUSE><LINE>おまえが じゃべってるのは<PAGE>どこのコドバだ?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 67,
+   "offset": 10245,
+   "length_bytes": 30,
+   "raw_hex": "fff6052a161a002c2f2e184b80d780d780d7fff5052a16000f2e15331482",
+   "text_jp": "<PAGE>おれには わがんねぇ………<LINE>おれに そんなごと",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 68,
+   "offset": 10274,
+   "length_bytes": 28,
+   "raw_hex": "674d2afff63d03352b4d132e3980d780d7fff5846c19808b62160081",
+   "text_jp": "ニっれ<PAGE>どうじろってんだ……<LINE>葺のダチに ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 69,
+   "offset": 10302,
+   "length_bytes": 35,
+   "raw_hex": "a94d10203c0415fff682182f0036291501fff5677f80847f1981aa1a0082d782d8023c",
+   "text_jp": "Dったみでえな<PAGE>気が ずるなあ<LINE>ニンゲンの話は 何聞いで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 70,
+   "offset": 10337,
+   "length_bytes": 37,
+   "raw_hex": "23fff605230c2a80d7fffc052328292a26fff5030380d62e80d7fffcfff60f2a4d3c00053c",
+   "text_jp": "も<PAGE>おもしれ…<CLOSE>おもりるれよ<LINE>うう{214}ん…<CLOSE><PAGE>それっで おで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<CLOSE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 71,
+   "offset": 10374,
+   "length_bytes": 32,
+   "raw_hex": "19814302294d3cfff63314060180d080d7fff50f2a00824282183c82674d1329",
+   "text_jp": "の力いるっで<PAGE>ごとかあ?…<LINE>それ 本気で言ってる",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 72,
+   "offset": 10406,
+   "length_bytes": 46,
+   "raw_hex": "1527fff65d80a4545b2f001e350215fff1fff582d6193c0082382e858881173f3c393880d1fff60a190056808f80",
+   "text_jp": "なら<PAGE>ショウコが ほじいな<PAUSE><LINE>今ので 目ん玉瓶びでだぞ!<PAGE>この オド",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<PAGE>..."
+  },
+  {
+   "id": 73,
+   "offset": 10452,
+   "length_bytes": 25,
+   "raw_hex": "877055fff63d03120913312a2e390180d1fff5051f04160024",
+   "text_jp": "奏エ<PAGE>どうつけてぐれんだあ!<LINE>おまえに や",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 74,
+   "offset": 10477,
+   "length_bytes": 49,
+   "raw_hex": "2a298143152e3cfff6230300184b3d80d1fff5053c2f0082d282d3152e2f80d7fffcfff6051f041a304d3d008124812526",
+   "text_jp": "れる力なんで<PAGE>もう ねぇど!<LINE>おでが 必要なんが…<CLOSE><PAGE>おまえはぎっど 人間よ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 75,
+   "offset": 10526,
+   "length_bytes": 47,
+   "raw_hex": "2823fff6052a39111682d9022e272780d7fff5051f042f00354e414d1329191afff63d0a195b808f80903980d0fffc",
+   "text_jp": "りも<PAGE>おれだちに近いんらら…<LINE>おまえが じゃべってるのは<PAGE>どこのコドバだ?<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 76,
+   "offset": 10574,
+   "length_bytes": 46,
+   "raw_hex": "fff6052a161a002c2f2e184b80d780d780d7fff581248125160010191f3c29152e13fff6808a7f80911900053c23",
+   "text_jp": "<PAGE>おれには わがんねぇ………<LINE>人間に たのまでるなんて<PAGE>ゾンビの おでも",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 77,
+   "offset": 10619,
+   "length_bytes": 13,
+   "raw_hex": "001f39fff6361310232e354e18",
+   "text_jp": " まだ<PAGE>ずてたもんじゃね",
+   "notes": "",
+   "translation_en": "...<PAGE>..."
+  },
+  {
+   "id": 78,
+   "offset": 10632,
+   "length_bytes": 55,
+   "raw_hex": "4b1580d1fff5033c0c020081aa391580d1fff53380cc821b04132300052a1afff65253808280a380cc0080c180c380c080c0393805fffc",
+   "text_jp": "ぇな!<LINE>うでしい 話だな!<LINE>ご{204}見えても おれは<PAGE>アイギュ{204} 1300だぞお<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<LINE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 79,
+   "offset": 10688,
+   "length_bytes": 45,
+   "raw_hex": "fff6051f041982dc04008237064d132e3938fff50f2a2f81ce83c00d29816d81692f80d0fffcfff6051f041985",
+   "text_jp": "<PAGE>おまえの考え 分かってんだぞ<LINE>それが交燠する怒痍が?<CLOSE><PAGE>おまえの",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 80,
+   "offset": 10732,
+   "length_bytes": 51,
+   "raw_hex": "f9200f23fff6094d0a0300080b4d132915fff5051f04152e2f0011023d23fff655780815023880d100fffc052a2d8090808116",
+   "text_jp": "午みそも<PAGE>けっこう くさってるな<LINE>おまえなんが ちいども<PAGE>エラくないぞ! <CLOSE>おれをバガに",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 81,
+   "offset": 10783,
+   "length_bytes": 30,
+   "raw_hex": "fff60d295d5759152e2f0018552e3980d1fff5053c2d809057160d291923",
+   "text_jp": "<PAGE>するシカクなんが ねエんだ!<LINE>おでをバカにするのも",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 82,
+   "offset": 10813,
+   "length_bytes": 26,
+   "raw_hex": "80d5fff639022f021600351305322680d1fff5808a7f8091392f",
+   "text_jp": ",<PAGE>だいがいに じておげよ!<LINE>ゾンビだが",
+   "notes": "",
+   "translation_en": ",<PAGE>...<LINE>..."
+  },
+  {
+   "id": 83,
+   "offset": 10839,
+   "length_bytes": 51,
+   "raw_hex": "274d13fff6809057160d2e152680d780d7fff5051f04152e2f0011023d23fff655780815023880d100fffc052a2d8090808116",
+   "text_jp": "らって<PAGE>バカにすんなよ……<LINE>おまえなんが ちいども<PAGE>エラくないぞ! <CLOSE>おれをバガに",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 84,
+   "offset": 10890,
+   "length_bytes": 30,
+   "raw_hex": "fff60d295d5759152e2f0018552e3980d1fff5051f044d2a005b808f744d",
+   "text_jp": "<PAGE>するシカクなんが ねエんだ!<LINE>おまえっれ コドモっ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 85,
+   "offset": 10920,
+   "length_bytes": 33,
+   "raw_hex": "42021915fff63c23000523352b023d80d1fff582cc0b250419fff6726280a24d3c",
+   "text_jp": "ぼいのな<PAGE>でも おもじろいど!<LINE>若さゆえの<PAGE>ムチャっで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 86,
+   "offset": 10953,
+   "length_bytes": 21,
+   "raw_hex": "8252062680d1fffcfff6020226270180d1fff5031b",
+   "text_jp": "奴かよ!<CLOSE><PAGE>いいよらあ!<LINE>うひ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 87,
+   "offset": 10974,
+   "length_bytes": 44,
+   "raw_hex": "4e031b4efffcfff6314d392718551580d1fff5051f041900313927150283c23cfff672808b16351081928125",
+   "text_jp": "ゃうひゃ<CLOSE><PAGE>ぐっだらねエな!<LINE>おまえの ぐだらない蛬で<PAGE>ムダにじた時間",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 88,
+   "offset": 11019,
+   "length_bytes": 31,
+   "raw_hex": "fff6746a3c000c1a274d3c2327050327fff1fff5260823003b4d1f2e180474",
+   "text_jp": "<PAGE>モノで しはらっでもらおうら<PAUSE><LINE>よくも づっまんねえモ",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE>..."
+  },
+  {
+   "id": 89,
+   "offset": 11049,
+   "length_bytes": 59,
+   "raw_hex": "6afff6821b0e13082a242f4d39150180d7fff5051f040084ab8160150280d100052a16fff624270e2b80d100fffc052a008150813a847616fff680",
+   "text_jp": "ノ<PAGE>見せてくれやがっだなあ…<LINE>おまえ 才龍ない! おれに<PAGE>やらせろ! <CLOSE>おれ 後夜祭に<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<CLOSE>...<PAGE>"
+  },
+  {
+   "id": 90,
+   "offset": 11108,
+   "length_bytes": 17,
+   "raw_hex": "907f808f3c8198390a1401292e273880d1",
+   "text_jp": "バンドで申だことあるんらぞ!",
+   "notes": "",
+   "translation_en": "..."
+  },
+  {
+   "id": 91,
+   "offset": 11126,
+   "length_bytes": 40,
+   "raw_hex": "fff5051f04002c0982372f2e1880cc2b80d1fff580e380e380e380e3062600051f0480d7fffcfff6",
+   "text_jp": "<LINE>おまえ わけ分がんね{204}ろ!<LINE>ＫＫＫＫかよ おまえ…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 92,
+   "offset": 11165,
+   "length_bytes": 45,
+   "raw_hex": "83db272c150281662f8231342b032780d7fff5042e81a94d1324122f4880d180d0fffcfff6011b4e1b4e1b4e80",
+   "text_jp": "逆らわない方が箕ざろうら…<LINE>えん会ってやつがぁ!?<CLOSE><PAGE>あひゃひゃひゃ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 93,
+   "offset": 11210,
+   "length_bytes": 26,
+   "raw_hex": "d1fff60b2c31194d3c00020226154880d1fff5011b4e1b4e1b4e",
+   "text_jp": "!<PAGE>さわぐのっで いいよなぁ!<LINE>あひゃひゃひゃ",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>..."
+  },
+  {
+   "id": 94,
+   "offset": 11236,
+   "length_bytes": 32,
+   "raw_hex": "80d1fff60523352a04150100051f0480d1fff50580cc4d140077808b7b2ffff6",
+   "text_jp": "!<PAGE>おもじれえなあ おまえ!<LINE>お{204}っと ヨダレが<PAGE>",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 95,
+   "offset": 11268,
+   "length_bytes": 51,
+   "raw_hex": "392a114e033780d1fff6321d1d1d0480d1fff581248125394d3984b51a00052afff65e808f5380a159394d1026150180d7fff6",
+   "text_jp": "だれちゃうぜ!<PAGE>げへへへえ!<LINE>人間だっだ頃は おれ<PAGE>スドイックだったよなあ…<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 96,
+   "offset": 11319,
+   "length_bytes": 26,
+   "raw_hex": "3c23002303813d811639232e1580d1fff1fff5052a2d002f2706",
+   "text_jp": "でも もう悪魔だもんな!<PAUSE><LINE>おれを がらか",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>..."
+  },
+  {
+   "id": 97,
+   "offset": 11345,
+   "length_bytes": 47,
+   "raw_hex": "4d13fff6382e151600837f0c022f0180d1fff5052a2300821b313f272a10232e391580d7fffc052a1900830f350219",
+   "text_jp": "って<PAGE>ぞんなに 杲しいがあ!<LINE>おれも 見ぐびられたもんだな…<CLOSE>おれの 歓じいの",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>..."
+  },
+  {
+   "id": 98,
+   "offset": 11392,
+   "length_bytes": 48,
+   "raw_hex": "1afff60f2e152319354e15480280d1fff1fff52380d7fffc233a2b2efff60f2a3e81c781241982de8491390180d7fffc",
+   "text_jp": "は<PAGE>そんなものじゃなぁい!<PAUSE><LINE>も…<CLOSE>もぢろん<PAGE>それば茴人の自由だあ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>...<CLOSE>...<PAGE>...<CLOSE>"
+  },
+  {
+   "id": 99,
+   "offset": 11441,
+   "length_bytes": 31,
+   "raw_hex": "fff63c2300052a1a0082cf032f27150180d1fff5010305050580d7fff60580",
+   "text_jp": "<PAGE>でも おれは 違うがらなあ!<LINE>あうおおお…<PAGE>お",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 100,
+   "offset": 11471,
+   "length_bytes": 17,
+   "raw_hex": "d7fffc052a2f00830f3502190680d780d0",
+   "text_jp": "…<CLOSE>おれが 歓じいのか…?",
+   "notes": "",
+   "translation_en": "…<CLOSE>..."
+  },
+  {
+   "id": 101,
+   "offset": 11488,
+   "length_bytes": 38,
+   "raw_hex": "fff5152e2f0072692f821c3115290380d7fff5052a00051f04198426393a16fff6154d3c242b",
+   "text_jp": "<LINE>なんが ムネが熱ぐなるう…<LINE>おれ おまえの友だぢに<PAGE>なっでやろ",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 102,
+   "offset": 11526,
+   "length_bytes": 17,
+   "raw_hex": "030680d0fffcfff6342035022e272b80d0",
+   "text_jp": "うか?<CLOSE><PAGE>ざみじいんらろ?",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 103,
+   "offset": 11544,
+   "length_bytes": 16,
+   "raw_hex": "fff5051f04008089798092864983de20",
+   "text_jp": "<LINE>おまえ ゼリブ榛読み",
+   "notes": "",
+   "translation_en": "<LINE>..."
+  },
+  {
+   "id": 104,
+   "offset": 11559,
+   "length_bytes": 17,
+   "raw_hex": "3938fff5394d102700746a082a80d1fff1",
+   "text_jp": "だぞ<LINE>だったら モノくれ!<PAUSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<PAUSE>"
+  },
+  {
+   "id": 105,
+   "offset": 11577,
+   "length_bytes": 39,
+   "raw_hex": "fff5032937040480d100842f2f160c2b80d1fff51e2afffc0083bd293883bd29380580d1fff605",
+   "text_jp": "<LINE>うるぜええ! 静がにしろ!<LINE>ほれ<CLOSE> 怒るぞ怒るぞお!<PAGE>お",
+   "notes": "",
+   "translation_en": "<LINE>...<LINE>...<CLOSE>...<PAGE>..."
+  },
+  {
+   "id": 106,
+   "offset": 11615,
+   "length_bytes": 19,
+   "raw_hex": "2a19826703333d0082d832040280d1fff1fff5",
+   "text_jp": "れの言うごど 聞げえい!<PAUSE><LINE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>"
+  },
+  {
+   "id": 107,
+   "offset": 11634,
+   "length_bytes": 27,
+   "raw_hex": "051f0400537f80847f15825239150180d7fff5033f4e0180d1fffc",
+   "text_jp": "おまえ インゲンな奴だなあ…<LINE>うびゃあ!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 108,
+   "offset": 11661,
+   "length_bytes": 35,
+   "raw_hex": "fff636021f0e2e000d021f372e3c3e80d1fff5354e0100052a3dfff6837c07014d3c08",
+   "text_jp": "<PAGE>ずいません すいまぜんでば!<LINE>じゃあ おれど<PAGE>村きあっでく",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 109,
+   "offset": 11696,
+   "length_bytes": 24,
+   "raw_hex": "282680d1fffcfff6011b4e1b4e1b4e80d1fff5052a160083",
+   "text_jp": "りよ!<CLOSE><PAGE>あひゃひゃひゃ!<LINE>おれに ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<CLOSE><PAGE>...<LINE>..."
+  },
+  {
+   "id": 110,
+   "offset": 11720,
+   "length_bytes": 41,
+   "raw_hex": "7c023c312a3efff68269821039370480d1fff5052a195e80987a5780cc808f80d7fffcfff681fb4d3c",
+   "text_jp": "ロいでぐれば<PAGE>安沚だぜえ!<LINE>おれのスペルカ{204}ド…<CLOSE><PAGE>持っで",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 111,
+   "offset": 11761,
+   "length_bytes": 39,
+   "raw_hex": "29392b05fff681f61315023c00312a2615ffef052a3d051f04354e0083df21828c828d27fff682",
+   "text_jp": "るだろお<PAGE>捨てないで ぐれよな<VOICE?>おれどおまえじゃ 任む械晃ら<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>"
+  },
+  {
+   "id": 112,
+   "offset": 11800,
+   "length_bytes": 35,
+   "raw_hex": "cf032e3926fff6838d815339322b1580d7ffef052a00051f042d8157832f16353c2a23",
+   "text_jp": "{207}うんだよ<PAGE>残衾だげろな…<VOICE?>おれ おまえを梠手にじでれも",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 113,
+   "offset": 11836,
+   "length_bytes": 11,
+   "raw_hex": "fff681ee82300c15021400",
+   "text_jp": "<PAGE>成長しないと ",
+   "notes": "",
+   "translation_en": "<PAGE>..."
+  },
+  {
+   "id": 114,
+   "offset": 11846,
+   "length_bytes": 12,
+   "raw_hex": "827b032e3980d7ffef010100",
+   "text_jp": "思うんだ…<VOICE?>ああ ",
+   "notes": "",
+   "translation_en": "...<VOICE?>..."
+  },
+  {
+   "id": 115,
+   "offset": 11858,
+   "length_bytes": 6,
+   "raw_hex": "3880cc0601ff",
+   "text_jp": "ぞ{204}かあ[FF]",
+   "notes": "",
+   "translation_en": "...[FF]"
+  },
+  {
+   "id": 116,
+   "offset": 11864,
+   "length_bytes": 26,
+   "raw_hex": "ef354e00332a0024293805ffef332a2315ffef332a2429062700",
+   "text_jp": "▲じゃ ごれ やるぞお<VOICE?>ごれもな<VOICE?>ごれやるから ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<VOICE?>..."
+  },
+  {
+   "id": 117,
+   "offset": 11890,
+   "length_bytes": 28,
+   "raw_hex": "052a19332bfff6864a1f15023c312a2615ffef82d681691a00114d14",
+   "text_jp": "おれのごろ<PAGE>懆まないでぐれよな<VOICE?>今痍は ちっと",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 118,
+   "offset": 11918,
+   "length_bytes": 40,
+   "raw_hex": "3c02022f27fff684652c0e13292a1580d1ffef052a00230381d23138fffcfff63d4d063c00392a06",
+   "text_jp": "でいいがら<PAGE>食わせてるれな!<VOICE?>おれ もう行ぐぞ<CLOSE><PAGE>どっかで だれか",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 119,
+   "offset": 11958,
+   "length_bytes": 35,
+   "raw_hex": "2ffff681d92e3c292f230c2e18042f2715ffef03030380d7fffc332a00242906273401",
+   "text_jp": "が<PAGE>唾んでるがもしんねえがらな<VOICE?>ううう…<CLOSE>ごれ やるからざあ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE>..."
+  },
+  {
+   "id": 120,
+   "offset": 11994,
+   "length_bytes": 31,
+   "raw_hex": "fff6848021260500821b82e23513082a2605ffef051f043d0081aa0c3c2914",
+   "text_jp": "<PAGE>頼むよお 見逃じてくれよお<VOICE?>おまえど 話しでると",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 121,
+   "offset": 12024,
+   "length_bytes": 39,
+   "raw_hex": "fff66a80cc7160008383283805102680d1ffef332a00242906272605fff6832f83862a16152715",
+   "text_jp": "<PAGE>ノ{204}ミソ 腐りぞおたよ!<VOICE?>ごれ やるからよお<PAGE>手遲れにならな",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 122,
+   "offset": 12063,
+   "length_bytes": 53,
+   "raw_hex": "02031128fff681e04d391e032f02023704ffef80d780d780d780d780d7fffcfff6152e3c0082240415022e3948010180d080d1fffc",
+   "text_jp": "いうちり<PAGE>帰っだほうがいいぜえ<VOICE?>……………<CLOSE><PAGE>なんで 消えないんだぁああ?!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>……………<CLOSE><PAGE>...<CLOSE>"
+  },
+  {
+   "id": 123,
+   "offset": 12116,
+   "length_bytes": 44,
+   "raw_hex": "3d033700052a1a00808a7f8091390180d1ffef5780cc808f1a002429093d26fff6834c0880987a6066160c18",
+   "text_jp": "どうぜ おれは ゾンビだあ!<VOICE?>カ{204}ドは やるけどよ<PAGE>帛くペルソナにしね",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 124,
+   "offset": 12160,
+   "length_bytes": 40,
+   "raw_hex": "0414fff683834d111f0306230c2a180438ffef80d780d780d7fffcfff6230300052a271100842639",
+   "text_jp": "えと<PAGE>腐っちまうかもしれねえぞ<VOICE?>………<CLOSE><PAGE>もう おれらち 友だ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>………<CLOSE><PAGE>..."
+  },
+  {
+   "id": 125,
+   "offset": 12200,
+   "length_bytes": 24,
+   "raw_hex": "3a3980d1fffcfff6392b80d000392b80d1ffef051f043d00",
+   "text_jp": "ぢだ!<CLOSE><PAGE>だろ? だろ!<VOICE?>おまえど ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 126,
+   "offset": 12224,
+   "length_bytes": 38,
+   "raw_hex": "818b0319fffcfff6052a0082f2393880d1ffef332a3c002f2e3e4d3c082a2605fff6052a0627",
+   "text_jp": "貰うの<CLOSE><PAGE>おれ 嫌だぞ!<VOICE?>ごれで がんばっでくれよお<PAGE>おれから",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 127,
+   "offset": 12262,
+   "length_bytes": 48,
+   "raw_hex": "354efff682f22f2300352e1502093d2605ffef808a7f8091191f1f00813417191a80d5fff68124812519819226280023",
+   "text_jp": "じゃ<PAGE>嫌がも じんないけどよお<VOICE?>ゾンビのまま 迅ぬのは,<PAGE>人間の時より も",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 128,
+   "offset": 12310,
+   "length_bytes": 41,
+   "raw_hex": "4d14fff6835d022f230c2a150280d780d7ffef051f04270100737f808f080b020a2bfff63513292e39",
+   "text_jp": "っと<PAGE>痛いがもしれない……<VOICE?>おまえらあ メンドくさいころ<PAGE>じてるんだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 129,
+   "offset": 12351,
+   "length_bytes": 35,
+   "raw_hex": "1501fff6052a2f0081ce83c00c13242926ffef052a34010011504d3d82fe4d13292e39",
+   "text_jp": "なあ<PAGE>おれが 交燠してやるよ<VOICE?>おれざあ ちょっど附ってるんだ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 130,
+   "offset": 12386,
+   "length_bytes": 45,
+   "raw_hex": "84262711815a09293d827b4d132605fff1fff5051f04040081fc07132939323cfff682d08237392b0580d1fff6",
+   "text_jp": "友らち肪けるど思ってよお<PAUSE><LINE>おまええ 生きてるだげで<PAGE>十分だろお!<PAGE>",
+   "notes": "",
+   "translation_en": "...<PAUSE><LINE>...<PAGE>...<PAGE>"
+  },
+  {
+   "id": 131,
+   "offset": 12431,
+   "length_bytes": 45,
+   "raw_hex": "333c81e482d43e008226200d30393880d1ffef051f0400052a1481aa0c10022e0601fff6354e0100832f202432",
+   "text_jp": "ごで以部ば 筆みすぎだぞ!<VOICE?>おまえ おれと話したいんかあ<PAGE>じゃあ 手みやげ",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 132,
+   "offset": 12476,
+   "length_bytes": 40,
+   "raw_hex": "312a04fff601292e392b0580d780d0fff1fff5052a16394d3c0081fc072984908278312a04012e27",
+   "text_jp": "ぐれえ<PAGE>あるんだろお…?<PAUSE><LINE>おれにだっで 生きる燿刮ぐれえあんら",
+   "notes": "",
+   "translation_en": "...<PAGE>...<PAUSE><LINE>..."
+  },
+  {
+   "id": 133,
+   "offset": 12516,
+   "length_bytes": 33,
+   "raw_hex": "2b2b0580d0fff61501000f03392b0580d0fff51f39052a2d000235223902192f01",
+   "text_jp": "ろろお?<PAGE>なあ そうだろお?<LINE>まだおれを いじめだいのがあ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>..."
+  },
+  {
+   "id": 134,
+   "offset": 12549,
+   "length_bytes": 33,
+   "raw_hex": "80d0230300826c4d140213312a260580d1fff5808a7f80914d13260300051f042f",
+   "text_jp": "?もう 放っといてぐれよお!<LINE>ゾンビってよう おまえが",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 135,
+   "offset": 12583,
+   "length_bytes": 32,
+   "raw_hex": "fff6827b4d3c29262800837f0c02360580d0fff5051f0400841a8460022f2726",
+   "text_jp": "<PAGE>思っでるより 杲しいずお?<LINE>おまえ 面曰いがらよ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>..."
+  },
+  {
+   "id": 136,
+   "offset": 12614,
+   "length_bytes": 51,
+   "raw_hex": "03fff6052a198426393a16153c082a2603fff5ffed80d7fffc051f040082d70684a9353c2980d7fffcfff6052a3e0084a90c0a",
+   "text_jp": "う<PAGE>おれの友だぢになでくれよう<LINE><VOICE?>…<CLOSE>おまえ 何か隠じでる…<CLOSE><PAGE>おれば 隠しこ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>…<CLOSE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 137,
+   "offset": 12665,
+   "length_bytes": 48,
+   "raw_hex": "14362924122ffff63c0482f202390180d1fff5ffee051f0419032c3400263182d802132938813d81162f27003602402e",
+   "text_jp": "とずるやつが<PAGE>でえ嫌いだあ!<LINE><VOICE?>おまえのうわざ よぐ聞いてるぞ悪魔がら ずいぶん",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 138,
+   "offset": 12714,
+   "length_bytes": 52,
+   "raw_hex": "fff6859c0c83074d3c292735021580d0fff1fff5ffee0500051f04152e2f244d123229193e846a81a039323d000514150c083629",
+   "text_jp": "<PAGE>脅し取っでるらじいな?<PAUSE><LINE><VOICE?>お おまえなんがやっつげるのば箸単だげど おとなしくずる",
+   "notes": "",
+   "translation_en": "<PAGE>...<PAUSE><LINE><VOICE?>..."
+  },
+  {
+   "id": 139,
+   "offset": 12765,
+   "length_bytes": 39,
+   "raw_hex": "152781aa0082d80213244d3c23020280d1fff5ffec052a1600824283691681db81f92f80d0fffc",
+   "text_jp": "なら話 聞いてやっでもいい!<LINE>[ec]おれに 本当に注事が?<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>[ec]...<CLOSE>"
+  },
+  {
+   "id": 140,
+   "offset": 12804,
+   "length_bytes": 37,
+   "raw_hex": "fff680d7812482cf02354e1502192f80d0fff5ffee052a00051f0400152e06008280073901",
+   "text_jp": "<PAGE>…人違いじゃないのが?<LINE><VOICE?>おれ おまえ なんか 好きだあ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 141,
+   "offset": 12842,
+   "length_bytes": 35,
+   "raw_hex": "fffc80d78426393a16154d3c242b030680d0fff5ffee230381670c0081aa3539021501",
+   "text_jp": "<CLOSE>…友だぢになっでやろうか?<LINE><VOICE?>もう少し 話じだいなあ",
+   "notes": "",
+   "translation_en": "<CLOSE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 142,
+   "offset": 12876,
+   "length_bytes": 57,
+   "raw_hex": "fff60a2e15331400011f2815022f271501fff5ffec1f342f051f04000a19817e81451f3cfff68504033b23282f010180d780d000fffc022439",
+   "text_jp": "<PAGE>こんなごと あまりないがらなあ<LINE>[ec]まざがおまえ この身体まで<PAGE>奪うづもりがああ…? <CLOSE>いやだ",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>[ec]...<PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 143,
+   "offset": 12933,
+   "length_bytes": 23,
+   "raw_hex": "fff6052a3e0082240429191a02243980d1fff5ffec1b3c",
+   "text_jp": "<PAGE>おれば 消えるのはいやだ!<LINE>[ec]ひで",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>[ec]..."
+  },
+  {
+   "id": 144,
+   "offset": 12956,
+   "length_bytes": 51,
+   "raw_hex": "042600051f04fff61b3c042605050380d1fff5ffeb052a3e00812481252d84a8043981f581c63901fff681248125152e3c0020",
+   "text_jp": "えよ おまえ<PAGE>ひでえよおおう!<LINE><VOICE?>おれば 人間を超えだ存苟だあ<PAGE>人間なんで み",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 145,
+   "offset": 13007,
+   "length_bytes": 48,
+   "raw_hex": "2e15052a391119fff6555c152e392680d1fff5ffed818282d9003602402e85708353282f02024d3c81aa354e18042927",
+   "text_jp": "んなおれだちの<PAGE>エサなんだよ!<LINE><VOICE?>最近 ずいぶん羽掘りがいいっで話じゃねえるら",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE><VOICE?>..."
+  },
+  {
+   "id": 146,
+   "offset": 13055,
+   "length_bytes": 49,
+   "raw_hex": "0180d1fffcfff6052a1623312a80d1fff1fff5ffec15015880a480cc808b53fff6052a2700832e223e72648082392b80d0",
+   "text_jp": "あ!<CLOSE><PAGE>おれにもぐれ!<PAUSE><LINE>[ec]なあキョ{204}ダイ<PAGE>おれら 租めばムテギだろ?",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<PAUSE><LINE>[ec]...<PAGE>..."
+  },
+  {
+   "id": 147,
+   "offset": 13105,
+   "length_bytes": 46,
+   "raw_hex": "fff6052a1400832e1f150227010180d780d0fff5ffeb012e27fff980d7fffcfff6392b80d000fffc052a00364d14",
+   "text_jp": "<PAGE>おれと 租まないらああ…?<LINE><VOICE?>あんら[f9]…<CLOSE><PAGE>だろ? <CLOSE>おれ ずっと",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE><VOICE?>...[f9]…<CLOSE><PAGE>...<CLOSE>..."
+  },
+  {
+   "id": 148,
+   "offset": 13150,
+   "length_bytes": 22,
+   "raw_hex": "5d80a26480cc1635131e0c064d272e2701fff5052a16",
+   "text_jp": "シャテ{204}にじてほしかっらんらあ<LINE>おれに",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 149,
+   "offset": 13172,
+   "length_bytes": 26,
+   "raw_hex": "80d7fffc052a160082d72f81db2f0180d0ffef052a2d00809080",
+   "text_jp": "…<CLOSE>おれに 何が注があ?<VOICE?>おれを バ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "…<CLOSE>...<VOICE?>..."
+  },
+  {
+   "id": 150,
+   "offset": 13198,
+   "length_bytes": 41,
+   "raw_hex": "81163629150180d1fff68224042b0580d1ffef80d780d7054d2f18042680d7fffcfff6052a00230381",
+   "text_jp": "魔ずるなあ!<PAGE>消えろお!<VOICE?>……おっがねえよ…<CLOSE><PAGE>おれ もう",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 151,
+   "offset": 13239,
+   "length_bytes": 44,
+   "raw_hex": "b7814bfff681560b2a292e2f1580d780d7ffef051f041402293d0082ad84193cfff6842639111480905781aa",
+   "text_jp": "R日<PAGE>殺されるんがな……<VOICE?>おまえといるど 学枚で<PAGE>友だちとバカ話",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 152,
+   "offset": 13283,
+   "length_bytes": 46,
+   "raw_hex": "0c2a29260315fff682182f362e390180d7ffef051f040081b78145052a16fff682d70084802039022e3980d780d0",
+   "text_jp": "しれるような<PAGE>気がずんだあ…<VOICE?>おまえ 一体おれに<PAGE>何 頼みだいんだ…?",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 153,
+   "offset": 13330,
+   "length_bytes": 51,
+   "raw_hex": "fffcfff63d033700380302030a3d392b80d0ffef82eb3c2600052a0081aa2d82d80213fff624271502143e0082674d13150138",
+   "text_jp": "<CLOSE><PAGE>どうぜ ぞういうこどだろ?<VOICE?>待でよ おれ 話を聞いて<PAGE>やらないとば 言ってなあぞ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 154,
+   "offset": 13381,
+   "length_bytes": 53,
+   "raw_hex": "fff61500051f041984802039232e150180d1ffef0180d680d700fffc052a00817d158566821b3c293901fffc822e2981401600817d",
+   "text_jp": "<PAGE>な おまえの頼みだもんなあ!<VOICE?>あ{214}… <CLOSE>おれ 変な夢見でるだあ<CLOSE>寝る前に 変",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<CLOSE>...<CLOSE>..."
+  },
+  {
+   "id": 155,
+   "offset": 13433,
+   "length_bytes": 37,
+   "raw_hex": "15808480cc72244d39fff637022f1580d7ffef3319052a83943d00818281501681aa2f3c07",
+   "text_jp": "なゲ{204}ムやっだ<PAGE>ぜいがな…<VOICE?>ごのおれ達ど 最後に話ができ",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>..."
+  },
+  {
+   "id": 156,
+   "offset": 13470,
+   "length_bytes": 51,
+   "raw_hex": "3939093c2300846d85203914827b2a80d1ffef244d3e28008124812583941a80888084551501fffcfff60580d7052a2300819c",
+   "text_jp": "だだけでも 光朱だと思れ!<VOICE?>やっばり 人間達はズゲエなあ<CLOSE><PAGE>お…おれも 仲",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 157,
+   "offset": 13521,
+   "length_bytes": 43,
+   "raw_hex": "81251681ae2a13fff631390b02260580d7ffef052a0082292d838e223c2603fff682b506270083842f2783",
+   "text_jp": "間に入れて<PAGE>ぐださいよお…<VOICE?>おれ 舍を雫めでよう<PAGE>莨から 腕がら",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>..."
+  },
+  {
+   "id": 158,
+   "offset": 13564,
+   "length_bytes": 19,
+   "raw_hex": "074d864b0410022e39fff8857a083c2603ffef",
+   "text_jp": "きっ替えたいんだ[f8]円くでよう<VOICE?>",
+   "notes": "",
+   "translation_en": "...[f8]...<VOICE?>"
+  },
+  {
+   "id": 159,
+   "offset": 13583,
+   "length_bytes": 39,
+   "raw_hex": "23033a4d3d3c00838484a204292f1580d1fff582ee28150280d7fffcfff6152e152700051f0419",
+   "text_jp": "もうぢっどで 腕賞えるがな!<LINE>坩りない…<CLOSE><PAGE>なんなら おまえの",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 160,
+   "offset": 13622,
+   "length_bytes": 26,
+   "raw_hex": "8384312a1323fff602022e273880d080d1fff53a020280d1fffc",
+   "text_jp": "腕ぐれても<PAGE>いいんらぞ?!<LINE>ぢいい!<CLOSE>",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 161,
+   "offset": 13649,
+   "length_bytes": 47,
+   "raw_hex": "fff6354e0180d5051f04198384260a3780d1fff5052a3e00811681782f1e0c022e39fff681fb4d13293d00352e2c28",
+   "text_jp": "<PAGE>じゃあ,おまえの腕よこぜ!<LINE>おれば 魔石がほしいんだ<PAGE>持ってるど じんわり",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 162,
+   "offset": 13695,
+   "length_bytes": 19,
+   "raw_hex": "fff68583060226031582182f362e3980d7ffef",
+   "text_jp": "<PAGE>暦かいような気がずんだ…<VOICE?>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>"
+  },
+  {
+   "id": 163,
+   "offset": 13714,
+   "length_bytes": 19,
+   "raw_hex": "051f040085cb811f00020275808d3980d1fff5",
+   "text_jp": "おまえ 粟夘 いいヤヅだ!<LINE>",
+   "notes": "",
+   "translation_en": "...<LINE>"
+  },
+  {
+   "id": 164,
+   "offset": 13733,
+   "length_bytes": 40,
+   "raw_hex": "152e3980d7fffc808180a18081793980d7fff5051f0419830419823881b881383e00813882bc3915",
+   "text_jp": "なんだ…<CLOSE>ガッガリだ…<LINE>おまえの坎の目吋地ば 地獄だな",
+   "notes": "",
+   "translation_en": "...<CLOSE>...<LINE>..."
+  },
+  {
+   "id": 165,
+   "offset": 13773,
+   "length_bytes": 32,
+   "raw_hex": "fffc052a2f00812085cb81e2353c242701fff5052a80d5812616fff680977b80",
+   "text_jp": "<CLOSE>おれが 道粟内じでやらあ<LINE>おれ,女に<PAGE>プレ",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "<CLOSE>...<LINE>...<PAGE>..."
+  },
+  {
+   "id": 166,
+   "offset": 13805,
+   "length_bytes": 16,
+   "raw_hex": "897f650c39022e3926fffcfff6fff408",
+   "text_jp": "ゼントしだいんだよ<CLOSE><PAGE>[f4]く",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>[f4]..."
+  },
+  {
+   "id": 167,
+   "offset": 13821,
+   "length_bytes": 21,
+   "raw_hex": "2affef332a3c005361808b8082393780d1fff53a08",
+   "text_jp": "れ<VOICE?>ごれで イタダギだぜ!<LINE>ぢく",
+   "notes": "",
+   "translation_en": "...<VOICE?>...<LINE>..."
+  },
+  {
+   "id": 168,
+   "offset": 13842,
+   "length_bytes": 47,
+   "raw_hex": "355080cc80d1fff682d73c0a3d390180d1fff5052a190084ce84c72dfff6808780a270362982182f0180d1fff683b1",
+   "text_jp": "じょ{204}!<PAGE>何でこどだあ!<LINE>おれの 恋路を<PAGE>ジャマずる気があ!<PAGE>鳥",
+   "notes": "",
+   "translation_en": "...<PAGE>...<LINE>...<PAGE>...<PAGE>..."
+  },
+  {
+   "id": 169,
+   "offset": 13889,
+   "length_bytes": 28,
+   "raw_hex": "168613272a3c0081342e351f2a80cc80d1fff5051f04198143008167",
+   "text_jp": "に踴られで 迅んじまれ{204}!<LINE>おまえの力 少",
+   "notes": "",
+   "translation_en": "...<LINE>..."
+  },
+  {
+   "id": 170,
+   "offset": 13917,
+   "length_bytes": 13,
+   "raw_hex": "0c312a26fffcfff6150180d000",
+   "text_jp": "しぐれよ<CLOSE><PAGE>なあ? ",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 171,
+   "offset": 13930,
+   "length_bytes": 31,
+   "raw_hex": "84802126ffef0380d7fffc031f380380d7fff5051f0419821782182ffff683",
+   "text_jp": "頼むよ<VOICE?>う…<CLOSE>うまぞう…<LINE>おまえの勇気が<PAGE>",
+   "notes": "1 unresolved glyphs",
+   "translation_en": "...<VOICE?>...<CLOSE>...<LINE>...<PAGE>"
+  },
+  {
+   "id": 172,
+   "offset": 13961,
+   "length_bytes": 54,
+   "raw_hex": "642a15808a7f80912d815a09292b1680d7fff5052a006f7f808f1a00052a203c041582520a2a81e482d4001c24351008180480d7fffc",
+   "text_jp": "テれなゾンビを肪けるろに…<LINE>おれ ホンドは おれみでえな奴これ以部 ふやじたくねえ…<CLOSE>",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE>"
+  },
+  {
+   "id": 173,
+   "offset": 14016,
+   "length_bytes": 29,
+   "raw_hex": "fff6052a163c30290a3d0018042f80d780d0ffef82ee28150280d0fffc",
+   "text_jp": "<PAGE>おれにでぎるこど ねえが…?<VOICE?>坩りない?<CLOSE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<VOICE?>...<CLOSE>"
+  },
+  {
+   "id": 174,
+   "offset": 14045,
+   "length_bytes": 49,
+   "raw_hex": "fff6051f040081fc071329854e8161150238fff5152e39260380d7fff6052a3e005a80818124152e39380580d7fffcfff6",
+   "text_jp": "<PAGE>おまえ 生きてる恤傴ないぞ<LINE>なんだよう…<PAGE>おれば ケガ人なんだぞお…<CLOSE><PAGE>",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<PAGE>...<CLOSE><PAGE>"
+  },
+  {
+   "id": 175,
+   "offset": 14093,
+   "length_bytes": 38,
+   "raw_hex": "051f04008124812519080e168499100215fff581fb4d3c150280d1fffcfff6051f0400052a16",
+   "text_jp": "おまえ 人間のくせに冷たいな<LINE>持っでない!<CLOSE><PAGE>おまえ おれに",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 176,
+   "offset": 14131,
+   "length_bytes": 37,
+   "raw_hex": "fff65a7f5781af29122328394d102b80d1fff5051f04001b3d028252391580d7fffcfff605",
+   "text_jp": "<PAGE>ケンカ売るつもりだったろ!<LINE>おまえ ひどい奴だな…<CLOSE><PAGE>お",
+   "notes": "",
+   "translation_en": "<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 177,
+   "offset": 14168,
+   "length_bytes": 48,
+   "raw_hex": "2a262800839781582f851d2f4d3c2980d1fff5152e3c3980cc80d7fffcfff60b3c1a0084ce19785380907a2f80d180d0",
+   "text_jp": "れより 根忤が岡がっでる!<LINE>なんでだ{204}…<CLOSE><PAGE>さでは 恋のライバルが!?",
+   "notes": "",
+   "translation_en": "...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 178,
+   "offset": 14216,
+   "length_bytes": 33,
+   "raw_hex": "fffcfff60380d780d7fffc81f781443915fff581670c3c000202191600152e3c39",
+   "text_jp": "<CLOSE><PAGE>う……<CLOSE>独敵だな<LINE>少しで いいのに なんでだ",
+   "notes": "",
+   "translation_en": "<CLOSE><PAGE>...<CLOSE>...<LINE>..."
+  },
+  {
+   "id": 179,
+   "offset": 14249,
+   "length_bytes": 34,
+   "raw_hex": "80d1fff6051f04005375158252391580d1fff53a0835500380d1fffcfff65e80987a",
+   "text_jp": "!<PAGE>おまえ イヤな奴だな!<LINE>ぢくじょう!<CLOSE><PAGE>スペル",
+   "notes": "",
+   "translation_en": "!<PAGE>...<LINE>...<CLOSE><PAGE>..."
+  },
+  {
+   "id": 180,
+   "offset": 14283,
+   "length_bytes": 41,
+   "raw_hex": "5780cc808f2dfff6082a13242e380580d1ffef052a270084263911392f27fff65e80987a5780cc808f",
+   "text_jp": "カ{204}ドを<PAGE>くれてやんぞお!<VOICE?>おれら 友だちだがら<PAGE>スペルカ{204}ド",
+   "notes": "",
+   "translation_en": "...<PAGE>...<VOICE?>...<PAGE>Spell Card"
+  },
+  {
+   "id": 181,
+   "offset": 14324,
+   "length_bytes": 80,
+   "raw_hex": "00242980d1fffcfff681f63c2e152680d7ffef835d02191a005375391580d780d7fffcfff65e5e5e5e80987a5780cc808f2429062780d7fffcfff6821b82e23513312a80d780d780d780d7ffef835d02",
+   "text_jp": " やる!<CLOSE><PAGE>捨でんなよ…<VOICE?>痛いのは イヤだな……<CLOSE><PAGE>ススススペルカ{204}ドやるから…<CLOSE><PAGE>見逃じてぐれ…………<VOICE?>痛い",
+   "notes": "",
+   "translation_en": "...<CLOSE><PAGE>...<VOICE?>...<CLOSE><PAGE>...<CLOSE><PAGE>...<VOICE?>..."
+  }
+ ]
+}

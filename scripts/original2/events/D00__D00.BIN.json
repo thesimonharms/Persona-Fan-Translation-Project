@@ -1,0 +1,103 @@
+{
+ "file": "D00/D00.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 143228,
+   "length_bytes": 12,
+   "raw_hex": "85ce2f06064d130229260339",
+   "text_jp": "鍵がかかっているようだ",
+   "translation_en": "It seems to be locked."
+  },
+  {
+   "id": 1,
+   "offset": 143308,
+   "length_bytes": 9,
+   "raw_hex": "85ce2f06064d130213",
+   "text_jp": "鍵がかかっていて",
+   "translation_en": "It's locked,"
+  },
+  {
+   "id": 2,
+   "offset": 143319,
+   "length_bytes": 8,
+   "raw_hex": "81ae2a0f03161502",
+   "text_jp": "入れそうにない",
+   "translation_en": "we can't get inside."
+  },
+  {
+   "id": 3,
+   "offset": 143396,
+   "length_bytes": 14,
+   "raw_hex": "85d2161a85ce2f0609272a130229",
+   "text_jp": "扉には鍵がかけられている",
+   "translation_en": "The door is firmly locked."
+  },
+  {
+   "id": 4,
+   "offset": 143414,
+   "length_bytes": 9,
+   "raw_hex": "80d70119816781261a",
+   "text_jp": "…あの少女は",
+   "translation_en": "..."
+  },
+  {
+   "id": 5,
+   "offset": 143425,
+   "length_bytes": 14,
+   "raw_hex": "812b394d1019392b030680d780d0",
+   "text_jp": "幻だったのだろうか…?",
+   "translation_en": "..."
+  },
+  {
+   "id": 6,
+   "offset": 143548,
+   "length_bytes": 13,
+   "raw_hex": "85d2161a85ce2f06064d130229",
+   "text_jp": "扉には鍵がかかっている",
+   "translation_en": "..."
+  },
+  {
+   "id": 7,
+   "offset": 143568,
+   "length_bytes": 8,
+   "raw_hex": "0212191f16061f10",
+   "text_jp": "いつのまにかまた",
+   "translation_en": "..."
+  },
+  {
+   "id": 8,
+   "offset": 143578,
+   "length_bytes": 16,
+   "raw_hex": "85ce2f0609272a13022980d780d780d7",
+   "text_jp": "鍵がかけられている………",
+   "translation_en": "..."
+  },
+  {
+   "id": 9,
+   "offset": 143664,
+   "length_bytes": 9,
+   "raw_hex": "0a1981f883bf1a2303",
+   "text_jp": "この部厘はもう",
+   "translation_en": "..."
+  },
+  {
+   "id": 10,
+   "offset": 143675,
+   "length_bytes": 19,
+   "raw_hex": "823002812581272c2a1302150280ce80ce80ce",
+   "text_jp": "長い間払われていない'''",
+   "translation_en": "..."
+  },
+  {
+   "id": 11,
+   "offset": 143809,
+   "length_bytes": 11,
+   "raw_hex": "841114824d143c81ba83e6",
+   "text_jp": "鹿と僕とで僵称",
+   "translation_en": "..."
+  }
+ ]
+}

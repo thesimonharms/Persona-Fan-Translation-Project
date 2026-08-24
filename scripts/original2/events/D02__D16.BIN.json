@@ -1,0 +1,15 @@
+{
+ "file": "D02/D16.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 39152,
+   "length_bytes": 15,
+   "raw_hex": "23030a0a161a81ae2a150280d780d7",
+   "text_jp": "もうここには入れない……",
+   "translation_en": "..."
+  }
+ ]
+}

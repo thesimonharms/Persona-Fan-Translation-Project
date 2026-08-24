@@ -1,0 +1,47 @@
+{
+ "file": "D00/D02.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 66260,
+   "length_bytes": 14,
+   "raw_hex": "80d785ce2f06064d130229260339",
+   "text_jp": "…鍵がかかっているようだ",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 66344,
+   "length_bytes": 14,
+   "raw_hex": "85d2161a85ce2f0609272a130229",
+   "text_jp": "扉には鍵がかけられている",
+   "translation_en": "The door is firmly locked."
+  },
+  {
+   "id": 2,
+   "offset": 66428,
+   "length_bytes": 16,
+   "raw_hex": "81272c2a1302150281f883bf19260339",
+   "text_jp": "払われていない部厘のようだ",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 66525,
+   "length_bytes": 13,
+   "raw_hex": "8218845216819881ae283c0729",
+   "text_jp": "気輊に申入りできる",
+   "translation_en": "..."
+  },
+  {
+   "id": 4,
+   "offset": 66540,
+   "length_bytes": 8,
+   "raw_hex": "81f883bf3c1a1502",
+   "text_jp": "部厘ではない",
+   "translation_en": "..."
+  }
+ ]
+}

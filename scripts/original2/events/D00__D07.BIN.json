@@ -1,0 +1,39 @@
+{
+ "file": "D00/D07.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 43696,
+   "length_bytes": 11,
+   "raw_hex": "85ba167b809080cc2f0129",
+   "text_jp": "呈にレバ{204}がある",
+   "translation_en": "..."
+  },
+  {
+   "id": 1,
+   "offset": 43711,
+   "length_bytes": 15,
+   "raw_hex": "7b809080cc2d8154060c1f0d0680d0",
+   "text_jp": "レバ{204}を激かしますか?",
+   "translation_en": "..."
+  },
+  {
+   "id": 2,
+   "offset": 43812,
+   "length_bytes": 11,
+   "raw_hex": "85ba167b809080cc2f0129",
+   "text_jp": "呈にレバ{204}がある",
+   "translation_en": "..."
+  },
+  {
+   "id": 3,
+   "offset": 43827,
+   "length_bytes": 15,
+   "raw_hex": "7b809080cc2d8154060c1f0d0680d0",
+   "text_jp": "レバ{204}を激かしますか?",
+   "translation_en": "..."
+  }
+ ]
+}

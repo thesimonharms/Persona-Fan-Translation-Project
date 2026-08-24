@@ -1,0 +1,15 @@
+{
+ "file": "D03/D19.BIN",
+ "format": "event",
+ "encoding": "persona-psx-v2",
+ "entries": [
+  {
+   "id": 0,
+   "offset": 47180,
+   "length_bytes": 14,
+   "raw_hex": "85d21a830908839c340b2a130229",
+   "text_jp": "扉は圜く閉ざされている",
+   "translation_en": "..."
+  }
+ ]
+}
