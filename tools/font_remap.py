@@ -125,8 +125,9 @@ def drop_speaker(text: str) -> str:
 def fit_event_text(text: str, budget: int, orig_raw: bytes | None = None, rev: dict | None = None):
     """
     Try full mixed-case (with speaker), then speaker-drop.
-    When the name is dropped, keep a leading native ':' so FF 01
-    name-color is closed. Returns (encoded, method) or (None, None).
+    A leading ':' does not close FF 01; a zero-length nameplate
+    fills the whole line. Speakerless lines should be recoded as
+    FF 04 by the inserter. Returns (encoded, method) or (None, None).
     Does not mutate the source translation.
     """
     enc, _ = encode_text(text, orig_raw=orig_raw, rev=rev)
@@ -134,8 +135,7 @@ def fit_event_text(text: str, budget: int, orig_raw: bytes | None = None, rev: d
         return enc, "full"
     dropped = drop_speaker(text)
     if dropped != text:
-        keep_colon = ":" + dropped.lstrip()
-        enc2, _ = encode_text(keep_colon, orig_raw=orig_raw, rev=rev)
+        enc2, _ = encode_text(dropped, orig_raw=orig_raw, rev=rev)
         if len(enc2) <= budget:
             return enc2, "drop_speaker"
     return None, None

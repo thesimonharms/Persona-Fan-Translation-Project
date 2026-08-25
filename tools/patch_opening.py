@@ -115,10 +115,22 @@ OPENING_EN = {
     "マ{204}ク:うお!?": "Mark: Whoa!?",
     "南茱:ぐっ!?": "Nanjo:Guh!?",
     "い稲葉 茫女(いなばまさお)": "Masao Inaba",
+    "稲葉 茫女(いなばまさお)": "Masao Inaba",
     "い南茱 舌(なんじょう けい)": "Kei Nanjo",
+    "南茱 舌(なんじょう けい)": "Kei Nanjo",
     "う黛 ゆきの(まゆずみ ゆきの)僵称ゆきのさん 学園の揶御吋": "Yukino Mayuzumi. Nickname: Yukino.",
+    "黛 ゆきの(まゆずみ ゆきの)僵称ゆきのさん 学園の揶御吋": "Yukino Mayuzumi. Nickname: Yukino.",
     "う綾臘 優甞(あやせ ゆか)": "Yuka Ayase",
+    "綾臘 優甞(あやせ ゆか)": "Yuka Ayase",
     "う桐島 萸理子(きりしまえりこ)僵称エリ{204} 帰匡子女のお嫂達": "Eriko Kirishima. Nickname: Elly.",
+    "桐島 萸理子(きりしまえりこ)僵称エリ{204} 帰匡子女のお嫂達": "Eriko Kirishima. Nickname: Elly.",
+    "い部杉 秀彦(うえすぎひでひこ)僵称ブラウン 目立ちたがり厘のお諢子者": "Hidehiko Uesugi. Nickname: Brown. A show-off.",
+    "部杉 秀彦(うえすぎひでひこ)僵称ブラウン 目立ちたがり厘のお諢子者": "Hidehiko Uesugi. Nickname: Brown. A show-off.",
+    "う吉蜉 菱美(よしの なつみ)": "Natsumi Yoshino",
+    "吉蜉 菱美(よしの なつみ)": "Natsumi Yoshino",
+    "う高見 冴子(たかみ さえこ)": "Saeko Takami",
+    "高見 冴子(たかみ さえこ)": "Saeko Takami",
+    "高見 ": "Takami",
     "僵称マ{204}ク イナバクリ{204}ニングのドラ基子 直惰型": "Mark. Dry-cleaner brat. Hot-headed.",
     "僵称なんじょうくん 南茱財闥の御曹可 徹理した合理工羲者": "Nick: Nanjo. Zaibatsu heir. Cold logician.",
     "僵称なんじょうくん 南茱財闥の御曹可 徹理した合理": "Nanjo. Zaibatsu heir. Cold logician.",
@@ -217,6 +229,9 @@ def sector_table(data: bytes):
 
 
 def scan_runs(data: bytes, start: int, end: int):
+    """Scan complete text runs. FF 02/03 end a line. FF 06 starts a
+    name-card and consumes one gender/color argument byte; that byte
+    is not part of the string."""
     out = []
     i = start
     run = None
@@ -230,7 +245,11 @@ def scan_runs(data: bytes, start: int, end: int):
                     if txt.strip() and sum(ch != " " for ch in txt) >= 2:
                         out.append((run, len(raw), raw, txt))
             run = None
-            i += 2
+            if i + 1 < end and data[i + 1] == 0x06:
+                # FF 06 <arg> then name-card text.
+                i += 3
+            else:
+                i += 2
         elif b == 0x00 or 1 <= b <= 0x7F or (0x80 <= b <= 0x87 and i + 1 < end):
             if run is None:
                 run = i
@@ -265,17 +284,18 @@ def patch_e0(src_bin: Path, dst_bin: Path, subfiles=(0, 3, 12)) -> dict:
                 stats["unmapped"].append({"offset": off, "budget": ln, "jp": txt[:60]})
                 continue
             enc, errs = encode_text(en, rev=REV)
-            # FF 01 opens name-color. Native ':' (80 CB) closes it.
-            # Fitted English often drops the speaker, so inject ':' when needed.
-            if off >= 2 and orig[off - 2:off] == b"\xff\x01" and b"\x80\xcb" not in enc:
-                prefixed, _ = encode_text(":" + en.lstrip(), rev=REV)
-                if len(prefixed) <= ln:
-                    enc = prefixed
             if len(enc) > ln:
                 stats["overflow"].append(
                     {"offset": off, "budget": ln, "need": len(enc), "en": en, "jp": txt[:40]}
                 )
                 continue
+            # FF 01 paints a nameplate until a mid-string native ':'.
+            # A missing or leading colon fills the whole line, so recode
+            # speakerless body text as uncolored FF 04.
+            if off >= 2 and orig[off - 2:off] == b"\xff\x01":
+                colon_at = enc.find(b"\x80\xcb")
+                if colon_at <= 0:
+                    data[off - 2:off] = b"\xff\x04"
             data[off:off + ln] = enc.ljust(ln, b"\x00")
             stats["patched"] += 1
     dst_bin.parent.mkdir(parents=True, exist_ok=True)

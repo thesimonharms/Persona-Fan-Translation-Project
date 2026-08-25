@@ -174,12 +174,13 @@ def patch_event_file(json_path: Path, orig_bin: Path, out_bin: Path) -> dict:
             stats["skipped_overflow"].append(
                 {"offset": off, "need": len(full), "have": ln, "en": en[:80]})
             continue
-        # FF 01 opens name-color; native ':' closes it. Keep that closer
-        # when a fitted line dropped the speaker name.
-        if off >= 2 and bytes(data[off - 2:off]) == b"\xff\x01" and b"\x80\xcb" not in enc:
-            prefixed, _ = encode_text(":" + en.lstrip(), orig_raw=orig_raw)
-            if len(prefixed) <= ln:
-                enc = prefixed
+        # FF 01 paints a nameplate until a mid-string native ':'.
+        # A missing or leading colon fills the whole line, so recode
+        # speakerless body text as uncolored FF 04.
+        if off >= 2 and bytes(data[off - 2:off]) == b"\xff\x01":
+            colon_at = enc.find(b"\x80\xcb")
+            if colon_at <= 0:
+                data[off - 2:off] = b"\xff\x04"
         data[off:off + ln] = enc.ljust(ln, b"\x00")
         stats["translated"] += 1
         if method == "drop_speaker":
